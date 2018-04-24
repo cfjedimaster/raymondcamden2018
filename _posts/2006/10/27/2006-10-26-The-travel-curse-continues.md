@@ -1,0 +1,9 @@
+---
+layout: post
+title: "The travel curse continues..."
+date: "2006-10-27T02:10:00+06:00"
+categories: Misc 
+tags: 
+---
+
+Guess where I am? Not in my big warm bed. I'm stuck in Houston due to the weather. I get to spend the night in the airport since I'm too cheap to go get a hotel. Ah well - time to catch up on emails and wrap some code I was working on this week at MAX.

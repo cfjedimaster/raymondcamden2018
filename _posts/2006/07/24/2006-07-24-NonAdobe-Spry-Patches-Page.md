@@ -1,0 +1,9 @@
+---
+layout: post
+title: "(Non-Adobe) Spry Patches Page"
+date: "2006-07-24T18:07:00+06:00"
+categories: Misc 
+tags: 
+---
+
+A Spry user (dougsm, not sure of his real name) has created a large set of <a href="http://www.bigdoug.com/SpryPatches/">Spry Patches</a>. While obviously unofficial, there are some nice updates in his  patches.

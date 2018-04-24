@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Reminder - Presentation to Toronto UG Tonight"
+date: "2007-04-11T09:04:00+06:00"
+categories: ColdFusion 
+tags: 
+---
+
+Just a quick reminder that I'll be giving my Spry presentation to the <a href="http://www.cfugtoronto.org/">Toronto User Group</a> tonight. The Connect URL is: <a href="http://adobechats.adobe.acrobat.com/cfugtorontoapril2007/">http://adobechats.adobe.acrobat.com/cfugtorontoapril2007/</a>. The time is 6:30 CST.

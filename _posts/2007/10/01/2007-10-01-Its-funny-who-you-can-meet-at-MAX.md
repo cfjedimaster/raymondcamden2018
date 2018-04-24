@@ -1,0 +1,11 @@
+---
+layout: post
+title: "It's funny who you can meet at MAX..."
+date: "2007-10-01T20:10:00+06:00"
+categories: Misc 
+tags: 
+---
+
+Meet my new friend...
+
+<img src="https://static.raymondcamden.com/images/bono2.jpg">

@@ -1,0 +1,11 @@
+---
+layout: post
+title: "CFUPS in the Wild..."
+date: "2006-12-18T09:12:00+06:00"
+categories: ColdFusion 
+tags: 
+---
+
+Will pointed me to the first use (that I know of) of <a href="http://cfups.riaforge.org/">CFUPS</a> (my ColdFusion UPS package) in the wild:
+
+<a href="https://www.luckydogvolleyball.com/Store/UPStracking.cfm">Shipping - Lucky Dog Volleyball</a>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Blog 3.5.1 Update"
+date: "2004-09-09T10:09:00+06:00"
+categories: Misc 
+tags: 
+---
+
+A minor update has been posted for the blog. It includes a corrected blank MS Access db as well as a MoveableType importer written by Sean Corfield.

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Want to learn more about the Edge Tools?"
+date: "2012-11-14T14:11:00+06:00"
+categories: Misc 
+tags: 
+---
+
+Fellow evangelist Paul Trani will be holding an "Ask a Pro" session this week on Edge Tools and Services. The session will be Friday at 2PM CST. To sign up, please register here: <a href="http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=2008488&loc=en_us">Adobe Edge Tools & Services Crash Course</a>

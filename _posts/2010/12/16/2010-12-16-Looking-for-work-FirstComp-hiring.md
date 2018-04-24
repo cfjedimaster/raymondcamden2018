@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Looking for work? FirstComp hiring.."
+date: "2010-12-16T15:12:00+06:00"
+categories: ColdFusion 
+tags: 
+---
+
+Just passing on the news that FirstComp, my employer, has two positions open for Application Developers. These are <i>not</i> remote positions - you have to either be in the area or be willing to relocate - but if you are - check out the job descriptions:
+
+<a href="https://careers.firstcomp.com/default.cfm?PID=1.7&action=MembersJobDescription&JobID=3659&locID=78">Application Developer - Omaha, NE</a><br/>
+<a href="https://careers.firstcomp.com/default.cfm?PID=1.7&action=MembersJobDescription&JobID=3659&locID=79">Application Developer - Providence, RI</a>

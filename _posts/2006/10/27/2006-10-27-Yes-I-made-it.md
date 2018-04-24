@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Yes, I made it"
+date: "2006-10-27T15:10:00+06:00"
+categories: Misc 
+tags: 
+---
+
+Just in case folks are going crazy not knowing - I did arrive back home. Last night was a bit of a blur but I did get one hour of sleep at least.
