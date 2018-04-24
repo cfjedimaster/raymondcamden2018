@@ -5,6 +5,7 @@ date: "2017-01-08T11:30:00-07:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2017/01/08/a-survey-for-cfml-users-past-and-present
 ---
 
 A few days ago, myself, [Adam Cameron](http://blog.adamcameron.me/), and others, were chatting

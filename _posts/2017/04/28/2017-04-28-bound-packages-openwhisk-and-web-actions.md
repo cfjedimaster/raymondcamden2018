@@ -5,6 +5,7 @@ date: "2017-04-28T09:08:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/04/28/bound-packages-openwhisk-and-web-actions
 ---
 
 Hey folks, this is just a warning to other users in case they run into the same issue I did. As you (may) know, OpenWhisk supports the idea of packages. Packages let you organize actions into a cohesive unit, much like packages in other languages/platforms. Packages can also have default parameters that apply to every action in the package.

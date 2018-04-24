@@ -5,6 +5,7 @@ date: "2016-01-05T16:16:50+06:00"
 categories: Development JavaScript 
 tags: nodejs strongloop
 banner_image: 
+permalink: /2016/01/05/playing-with-strongloop-building-a-blog-part-one
 ---
 
 This year I've decided I'm going to write the hell out of some Node code. That's both good and bad. It means I'll be learning more and more about Node as a side effect but on the flip side, I'll probably be producing a bunch of silly, not-terribly-practical examples as I go along. As always, I encourage people to remember that I am <i>not</i> an expert at this. I'm learning. So please feel free to comment about what you would do differently. On the flip side - if I actually make something kinda cool, then let's just pretend I'm brilliant, ok?
@@ -74,8 +75,8 @@ A Loopback application is a Node.js app using Express. That's it. However, there
 <pre><code class="language-javascript">
 app.get('/', function(req, res) {
 	console.log('getting blog entries');
-	app.models.entry.find({where:{released:true},order:'published desc'}).then(function(entries) {
-		res.render('index',{entries:entries});
+	app.models.entry.find({% raw %}{where:{released:true}{% endraw %},order:'published desc'}).then(function(entries) {
+		res.render('index',{% raw %}{entries:entries}{% endraw %});
 	});
 });
 </code></pre>
@@ -85,13 +86,13 @@ For the most part this is boilerplate Express, but note how I can use Loopback's
 <pre><code class="language-markup">
 &lt;h2&gt;Entries&lt;/h2&gt;
 
-{%raw%}{{#each entries}}{%endraw%}
+{% raw %}{{#each entries}{% endraw %}}
 	&lt;p&gt;
-	&lt;a href=&quot;{%raw%}{{url}}{%endraw%}&quot;&gt;{%raw%}{{title}}{%endraw%}&lt;/a&gt;&lt;br/&gt;
-	Published: {%raw%}{{moment published format=&quot;MMMM D, YYYY h:mm A&quot;}}{%endraw%}
+	&lt;a href=&quot;{% raw %}{{url}{% endraw %}}&quot;&gt;{% raw %}{{title}{% endraw %}}&lt;/a&gt;&lt;br/&gt;
+	Published: {% raw %}{{moment published format=&quot;MMMM D, YYYY h:mm A&quot;}{% endraw %}}
 	&lt;/p&gt;
 	
-{%raw%}{{/each}}{%endraw%}
+{% raw %}{{/each}{% endraw %}}
 </code></pre>
 
 Nothing special about that, right? Do note though that I'm using a URL property. That didn't exist in the model. How did I do that? I built an observer in my entry.js file to recognize load events:
@@ -127,13 +128,13 @@ app.get('/:year/:month/:day/:slug', function(req, res) {
 	app.models.entry.findOne({where:{
 		released:true,
 		slug:req.params.slug,
-		published:{between:[lowerDate,upperDate]}
+		published:{% raw %}{between:[lowerDate,upperDate]}{% endraw %}
 	},limit:1}).then(function(entry) {
 		//first - did we get any?			
 		if(!entry) {
 			res.redirect('/');	
 		}
-		res.render('entry', {entry:entry});
+		res.render('entry', {% raw %}{entry:entry}{% endraw %});
 	});
 });
 </code></pre>

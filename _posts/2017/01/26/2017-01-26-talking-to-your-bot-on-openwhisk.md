@@ -5,6 +5,7 @@ date: "2017-01-26T09:45:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/owbot.jpg
+permalink: /2017/01/26/talking-to-your-bot-on-openwhisk
 ---
 
 As I continue my look into serverless with [OpenWhisk](https://developer.ibm.com/openwhisk/), today I thought
@@ -76,7 +77,7 @@ function main(args) {
 
     return new Promise(function(resolve, reject) {
 
-        let url = `https:&#x2F;&#x2F;aiaas.pandorabots.com&#x2F;talk&#x2F;${appid}&#x2F;${bot}&#x2F;?user_key=${userkey}`;
+        let url = `https:&#x2F;&#x2F;aiaas.pandorabots.com&#x2F;talk&#x2F;${% raw %}{appid}{% endraw %}&#x2F;${% raw %}{bot}{% endraw %}&#x2F;?user_key=${% raw %}{userkey}{% endraw %}`;
         
 		url += &#x27;&amp;input=&#x27;+encodeURIComponent(args.input);
 		if(args.session) url += &#x27;&amp;sessionid=&#x27;+encodeURIComponent(args.session);
@@ -85,7 +86,7 @@ function main(args) {
 
         request.post(url, function(error, response, body) {
             if(error) return reject(error);
-			resolve({result:JSON.parse(body)});
+			resolve({% raw %}{result:JSON.parse(body)}{% endraw %});
         });
 
     });

@@ -5,6 +5,7 @@ date: "2017-02-15T12:22:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/02/15/building-a-form-handler-service-in-openwhisk-part-two
 ---
 
 A few weeks ago I [blogged](https://www.raymondcamden.com/2017/01/25/building-a-form-handler-service-in-openwhisk) about creating a generic "forms handler" with [OpenWhisk](https://developer.ibm.com/openwhisk/). The idea was that you could point any form at the action and it would gather up the form data and email the results. One of the issues with my action was that it only worked via a HTTP call to the end point. That made it fine for a simple Ajax call from JavaScript, but it missed one of the cooler features that most form handling services provide - the ability to redirect to another URL when done.
@@ -27,10 +28,10 @@ if(args['_next']) next = args['_next'];
 Then I simply look for this when done:
 
 <pre><code class="language-javascript">if(next === '') {
-	resolve({result:'Ok'});
+	resolve({% raw %}{result:'Ok'}{% endraw %});
 } else {
 	resolve({
-		headers: { location: next},
+		headers: {% raw %}{ location: next}{% endraw %},
 		code: 302
 	});
 }
@@ -75,7 +76,7 @@ function main(args) {
 
 	if(args[&quot;_to&quot;]) {
 		if(RECIPS.indexOf(args[&quot;_to&quot;]) === -1) {
-			return {error:&quot;Invalid _to address: &quot;+args[&quot;_to&quot;]};
+			return {% raw %}{error:&quot;Invalid _to address: &quot;+args[&quot;_to&quot;]}{% endraw %};
 		} else {
 			to_email = new helper.Email(args[&quot;_to&quot;]);
 		}
@@ -94,7 +95,7 @@ function main(args) {
 	&#x2F;&#x2F;todo: make date a bit prettier
 	let date = new Date();
 	let content = `
-Form Submitted at ${date}
+Form Submitted at ${% raw %}{date}{% endraw %}
 --------------------------------
 `;
 
@@ -102,7 +103,7 @@ Form Submitted at ${date}
 		&#x2F;&#x2F;blanket ignore if _*
 		if(key.indexOf(&quot;_&quot;) != 0) {
 			content += `
-${key}:			${args[key]}
+${% raw %}{key}{% endraw %}:			${% raw %}{args[key]}{% endraw %}
 `;
 		}
 	}
@@ -122,17 +123,17 @@ ${key}:			${args[key]}
 		sg.API(request, function(error, response) {
 			if(error) {
 				console.log(error.response.body);
-				reject({error:error.message}) 
+				reject({% raw %}{error:error.message}{% endraw %}) 
 			} else {
 				console.log(&#x27;got to good result, next is &#x27;+next);
 				&#x2F;*
 				new logic - handle possible redirect
 				*&#x2F;
 				if(next === &#x27;&#x27;) {
-					resolve({result:&#x27;Ok&#x27;});
+					resolve({% raw %}{result:&#x27;Ok&#x27;}{% endraw %});
 				} else {
 					resolve({
-						headers: { location: next},
+						headers: {% raw %}{ location: next}{% endraw %},
 						code: 302
 					});
 				}

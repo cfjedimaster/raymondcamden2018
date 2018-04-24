@@ -5,6 +5,7 @@ date: "2016-10-17T14:46:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/10/17/quick-devtools-tip-what-is-still-trying-to-load
 ---
 
 Have you ever loaded a web page, seen that main content render, and then notice that the loading widget seems to rotate (pulsate, etc, every browser is different) for eternity? Obviously there is some network request that is pending, but how do you figure out what that is, especially with a large set of requests to dig through?

@@ -5,6 +5,7 @@ date: "2016-10-28T09:27:00-07:00"
 categories: Development 
 tags: windows
 banner_image: /images/banners/windowsfield.jpg
+permalink: /2016/10/28/finalish-thoughts-on-the-microsoft-surface-as-well-as-apple
 ---
 
 Before I begin, a quick note. This is not really my "final" post on the Surface Book or Windows, just the last in the series I started when I got the hardware. (Here's [part one](https://www.raymondcamden.com/2016/09/26/the-microsoft-surface-book-part-one/), [part two](https://www.raymondcamden.com/2016/10/03/the-microsoft-surface-book-part-two), and [part three](https://www.raymondcamden.com/2016/10/16/the-microsoft-surface-book-part-three).) Also, this post will be, mostly, my personal feelings about the hardware, Microsoft, Apple, and if you'd rather just stick to my technical articles, I more than understand if you bail now. You've been warned.

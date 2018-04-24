@@ -5,6 +5,7 @@ date: "2015-07-20T14:40:36+06:00"
 categories: Development HTML5 JavaScript 
 tags: bluemix cordova ionic
 banner_image: 
+permalink: /2015/07/20/saucedb-building-the-back-end-with-ibm-bluemix
 ---
 
 Welcome to another post detailing my efforts to build an <a href="http://ionicframework.com">Ionic</a>-based mobile app backed by Node.js and Cloudant on <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. In my <a href="http://www.raymondcamden.com/2015/07/15/saucedb-working-on-the-front-end">last post</a>, I focused on the front end of the application. I talked about the various screens I built and how my service layer used mock data to generate data. In today's post, I'm going to setup, design, and connect a back end server to start replacing some of that mock data with real information. As a reminder, you can find the initial post in this series <a href="http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb">here</a>,
@@ -121,7 +122,7 @@ I set up a new design document, and using the Cloudant dashboard, I was able to 
   if(doc.reviews.length === 0) return;
   for(var i=0;i&lt;doc.reviews.length;i++) {
       var review = doc.reviews[i];
-      emit(review.posted, {review:review,sauce_name:doc.name,sauce_company:doc.company});
+      emit(review.posted, {% raw %}{review:review,sauce_name:doc.name,sauce_company:doc.company}{% endraw %});
   }
 }</code></pre>
 
@@ -131,7 +132,7 @@ And here it is in the dashboard with the output to the right.
 
 What's cool is - using the Cloudant npm library, it was incredibly trivial to get this view:
 
-<pre><code class="language-javascript">db.view("Reviews", "reviews", {descending:true}, function(err, body) {</code></pre>
+<pre><code class="language-javascript">db.view("Reviews", "reviews", {% raw %}{descending:true}{% endraw %}, function(err, body) {</code></pre>
 
 That's simple as heck - but there's one more aspect to this whole thing that I needed to setup. One of the features you can use with your hybrid mobile application is called <a href="https://hub.jazz.net/project/bluemixmobilesdk/ibmcloudcode-javascript/overview">Cloud Code</a>. While it offers a couple features, in general, you can think of it as way to "short cut" your calls to your Node.js application. Using this requires a few changes in your hybrid application. Obviously you have to get the JavaScript library and include it in your HTML. 
 
@@ -233,7 +234,7 @@ On the server side, I have to slightly modify how I create my route. Instead of 
 app.get(ibmconfig.getContextRoot()+'/feed',  function(req, res) {
 	console.log('Requesting feed');
 
-	db.view("Reviews", "reviews", {descending:true}, function(err, body) {
+	db.view("Reviews", "reviews", {% raw %}{descending:true}{% endraw %}, function(err, body) {
         //stuff cut out here to keep the code snippet simpler
 	});
 });</code></pre>

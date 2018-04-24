@@ -5,6 +5,7 @@ date: "2017-10-17T07:45:00-07:00"
 categories: Development JavaScript 
 tags: JavaScript
 banner_image: 
+permalink: /2017/10/17/devtools-tips-for-pwas
 ---
 
 As this month is apparently "blog everything I can about PWA month", I wanted to share some quick notes on how I'm using DevTools, specifically Chrome (but I'll quickly look at Edge, Firefox, and Safari) to work with and debug progressive web apps (PWAs). To be clear, this will not cover every aspect of DevTools related to PWAs, but rather focus on what's been helpful to me so far.

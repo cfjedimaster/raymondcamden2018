@@ -5,6 +5,7 @@ date: "2016-07-17T08:30:00-07:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2016/07/17/apache-cordova-in-action-50-off-monday
 ---
 
 <img src="https://static.raymondcamden.com/images/2016/07/cordova.jpg" align="left" style="margin-right: 10px;margin-bottom: 10px"> 

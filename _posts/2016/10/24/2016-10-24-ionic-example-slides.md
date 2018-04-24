@@ -5,6 +5,7 @@ date: "2016-10-24T09:33:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2016/10/24/ionic-example-slides
 ---
 
 A little over a year ago I wrote a post (["Ionic Example: ion-slide-box"](https://www.raymondcamden.com/2015/09/16/ionic-example-ion-slide-box#comment-2961840425)) that demonstrated how to use the `ion-slide-box` component with Ionic 1. A few days ago a reader asked if I could update that post to work with Ionic 2. I've done that and am now going to share some of the code from the updated version. 
@@ -44,9 +45,9 @@ I'm beginning to think it is physically impossible for me to do a demo that does
 In form, it's similar to the V1 version of app, but while V1 still had a mix of HTML and Ionic components, this is *nearly* 100% Ionic tag-based. The only non-Ionic component there is the button tag and even it uses an argument to flag it as being Ionic-controlled anyway. If you're still new to Angular 2 (like me!), you should pay special attention to the new syntax used for event handling: `(click)="doSearch()"` and two way binding: `[(ngModel)]="search"`.  Another tweak is to iteration. While V1 had `ng-repeat`, I'm using `*ngFor` in V2. All in all, the view here is simpler than my previous version. (But to be clear, the previous version did everything in one HTML file as it was so simple. I could have seperated out the view into its own file.) Now let's take a look at the code. First, the code for the view:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController } from &#x27;ionic-angular&#x27;;
-import { ImageSearch } from &#x27;..&#x2F;..&#x2F;providers&#x2F;image-search&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ ImageSearch }{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;image-search&#x27;;
 
 @Component({
   selector: &#x27;page-home&#x27;,
@@ -80,10 +81,10 @@ There isn't anything too scary here. I've got one method, `doSearch`, that simpl
 The provider is now all wrapped up in fancy Oberservables and crap which frankly still confuse the hell out of me. But I got it working. The hardest thing was figuring out how to do headers.
 
 <pre><code class="language-javascript">
-import { Injectable } from '@angular/core';
-import { Http, Headers} from '@angular/http';
+import {% raw %}{ Injectable }{% endraw %} from '@angular/core';
+import {% raw %}{ Http, Headers}{% endraw %} from '@angular/http';
 import 'rxjs/add/operator/map';
-import { Observable } from 'rxjs/Observable';
+import {% raw %}{ Observable }{% endraw %} from 'rxjs/Observable';
 
 /*
   Generated class for the ImageSearch provider.
@@ -107,7 +108,7 @@ export class ImageSearch {
 
       let headers = new Headers();
       headers.append('Authorization', 'Basic '+ btoa(this.appid + ':' + this.appid));
-      return this.http.get(url,{headers:headers})
+      return this.http.get(url,{% raw %}{headers:headers}{% endraw %})
         .map(res => res.json())
         .map(data => data.d.results);
           
@@ -129,7 +130,7 @@ So I was wrapping up this blog post when I started chatting about it over on the
 
 First, you know how I complained about having to create a variable in my JS code just to handle a simple option? Turns out you can do it all in the view - thanks Mike:
 
-<pre><code class="language-markup">&lt;ion-slides [options]=&quot;{pager:true}&quot;&gt;</code></pre>
+<pre><code class="language-markup">&lt;ion-slides [options]=&quot;{% raw %}{pager:true}{% endraw %}&quot;&gt;</code></pre>
 
 I added that and then removed the code from `home.ts`, making it even simpler. But I still had the bug with the pager not showing up. It clearly worked in `ionic serve`, see?
 
@@ -145,7 +146,7 @@ Boom. Right away I see the same bug... and I notice the scrollbar. I scroll down
 
 Yep, my slides portion is just too big. On my iOS simulator I scrolled down and confirmed. Sigh. So (and again, with help from smart folks on the Slack channel!), I ended up styling the `ion-slides` components:
 
-<pre><code class="language-markup">&lt;ion-slides [options]="{pager:true}" style="max-height:400px"&gt;</code></pre>
+<pre><code class="language-markup">&lt;ion-slides [options]="{% raw %}{pager:true}{% endraw %}" style="max-height:400px"&gt;</code></pre>
 
 I use a set max of 400px, which isn't terribly cross platform compatible, but it helped:
 
@@ -159,15 +160,15 @@ Ugh. So I tried going *back* to having options defined in JavaScript and simply 
 
 Ugh again. So I went back to a simple inline option declaration but also hid the entire slider:
 
-<pre><code class="language-markup">&lt;ion-slides [options]="{pager:true}" style="max-height:400px"  *ngIf="haveData"&gt;
+<pre><code class="language-markup">&lt;ion-slides [options]="{% raw %}{pager:true}{% endraw %}" style="max-height:400px"  *ngIf="haveData"&gt;
 </code></pre>
 
 I then modified my code to default haveData:
 
 <pre><code class="language-javascript">
-import { Component, ViewChild } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController, Slides } from &#x27;ionic-angular&#x27;;
-import { ImageSearch } from &#x27;..&#x2F;..&#x2F;providers&#x2F;image-search&#x27;;
+import {% raw %}{ Component, ViewChild }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController, Slides }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ ImageSearch }{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;image-search&#x27;;
 
 @Component({
   selector: &#x27;page-home&#x27;,

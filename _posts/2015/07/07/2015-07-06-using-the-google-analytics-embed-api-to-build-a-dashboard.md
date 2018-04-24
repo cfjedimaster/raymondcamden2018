@@ -5,6 +5,7 @@ date: "2015-07-07T09:29:18+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/07/07/using-the-google-analytics-embed-api-to-build-a-dashboard
 ---
 
 About a year and a half ago I created a demo (<a href="http://www.raymondcamden.com/2014/01/24/Proof-of-Concept-Dashboard-for-Google-Analytics">Proof of Concept – Dashboard for Google Analytics</a>) of a Google Analytics Dashboard. This demo was entirely client-side based and made use of the API libraries Google created. For the most part, the process was fairly simple. After I figured out how to authenticate the user and query the data, I spent more time making it look pretty than actually working with the API, which is a good thing. More recently I discovered the new <a href="https://developers.google.com/analytics/devguides/reporting/embed/v1/">Analytics Embed API</a>. The cool thing about the Embed API is that it greatly simplifies the authentication/authorization aspect of getting analytics data and even provides built in charting capabilities. I blogged an example (<a href="http://www.raymondcamden.com/2015/06/10/quick-example-of-the-google-analytics-embed-api">Quick example of the Google Analytics Embed API</a>) and I thought it might be fun to revisit my dashboard concept using this simpler API.
@@ -60,10 +61,10 @@ In order to get profiles for my account, I make use of a management API. <code>g
   gapi.client.analytics.management.accounts.list().then(function(res) { 
     var accountId = res.result.items[0].id;
     var profiles = [];
-    gapi.client.analytics.management.webproperties.list({'accountId': accountId}).then(function(res) {
+    gapi.client.analytics.management.webproperties.list({% raw %}{'accountId': accountId}{% endraw %}).then(function(res) {
   
     	res.result.items.forEach(function(item) {
-    		if(item.defaultProfileId) profiles.push({id:"ga:"+item.defaultProfileId,name:item.name});
+    		if(item.defaultProfileId) profiles.push({% raw %}{id:"ga:"+item.defaultProfileId,name:item.name}{% endraw %});
     	});
       sessionStorage["gaProfiles"] = JSON.stringify(profiles);    
       cb(profiles);      
@@ -76,9 +77,9 @@ Note that I do <i>not</i> make use of promises in this block and that's a mistak
 <pre><code class="language-javascript">//Credit: https://ga-dev-tools.appspot.com/embed-api/third-party-visualizations/
 function query(params) {
   return new Promise(function(resolve, reject) {
-    var data = new gapi.analytics.report.Data({query: params});
-    data.once('success', function(response) { resolve(response); })
-        .once('error', function(response) { reject(response); })
+    var data = new gapi.analytics.report.Data({% raw %}{query: params}{% endraw %});
+    data.once('success', function(response) {% raw %}{ resolve(response); }{% endraw %})
+        .once('error', function(response) {% raw %}{ reject(response); }{% endraw %})
         .execute();
   });
 }
@@ -124,9 +125,9 @@ function processProfiles() {
   Promise.all([thisWeek, lastWeek]).then(function(results) {
     console.log(&quot;Promise.all&quot;);console.dir(results);
       
-    var data1 = results[0].rows.map(function(row) { return +row[2]; });
-    var data2 = results[1].rows.map(function(row) { return +row[2]; });
-    var labels = results[1].rows.map(function(row) { return +row[0]; });
+    var data1 = results[0].rows.map(function(row) {% raw %}{ return +row[2]; }{% endraw %});
+    var data2 = results[1].rows.map(function(row) {% raw %}{ return +row[2]; }{% endraw %});
+    var labels = results[1].rows.map(function(row) {% raw %}{ return +row[0]; }{% endraw %});
 
     var totalThisWeek = results[0].totalsForAllResults[&quot;ga:pageviews&quot;];
     var totalLastWeek = results[1].totalsForAllResults[&quot;ga:pageviews&quot;];

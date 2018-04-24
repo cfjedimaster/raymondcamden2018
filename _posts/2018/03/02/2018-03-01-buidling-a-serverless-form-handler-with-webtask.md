@@ -5,6 +5,7 @@ date: "2018-03-02"
 categories: Serverless 
 tags: webtask
 banner_image: /images/banners/wt_forms.jpg
+permalink: /2018/03/02/buidling-a-serverless-form-handler-with-webtask
 ---
 
 Earlier this week I decided to build a rather simple application with [Auth0 Webtask](https://webtask.io/), a form handler. This was something I did many [months ago](https://www.raymondcamden.com/2017/02/15/building-a-form-handler-service-in-openwhisk-part-two/) with OpenWhisk and I was curious what the experience would be with Auth0 Webtask. As usual in such things, even though it was pretty simple, I did run into a few things that helped me understand Auth0 Webtask a bit more. Here is how I approached it.
@@ -65,7 +66,7 @@ module.exports = function(context, cb) {
 	//first, gather the form fields
 	let form = context.body;
 	console.log(form);
-	cb(null, {form:form})
+	cb(null, {% raw %}{form:form}{% endraw %})
 }
 ```
 
@@ -117,7 +118,7 @@ module.exports = function(context, req, res) {
 	//Generate the text
 	let date = new Date();
     let content = `
-Form Submitted at ${date}
+Form Submitted at ${% raw %}{date}{% endraw %}
 --------------------------------
 `;
 
@@ -125,7 +126,7 @@ Form Submitted at ${date}
         //blanket ignore if _*
         if(key.indexOf("_") != 0) {
             content += `
-${key}:         ${form[key]}
+${% raw %}{key}{% endraw %}:         ${% raw %}{form[key]}{% endraw %}
 `;
         }
     }
@@ -133,7 +134,7 @@ ${key}:         ${form[key]}
 	//fire off the request to send an email - we don't want the user to wait so this is fire and forget
 	sendEmail(to,from,subject,content);
 
-	res.writeHead(301, {'Location': next });
+	res.writeHead(301, {% raw %}{'Location': next }{% endraw %});
 	res.end();
 
 }
@@ -193,7 +194,7 @@ module.exports = function(context, req, res) {
 	//Generate the text
 	let date = new Date();
     let content = `
-Form Submitted at ${date}
+Form Submitted at ${% raw %}{date}{% endraw %}
 --------------------------------
 `;
 
@@ -201,7 +202,7 @@ Form Submitted at ${date}
         //blanket ignore if _*
         if(key.indexOf("_") != 0) {
             content += `
-${key}:         ${form[key]}
+${% raw %}{key}{% endraw %}:         ${% raw %}{form[key]}{% endraw %}
 `;
         }
     }
@@ -209,7 +210,7 @@ ${key}:         ${form[key]}
 	//fire off the request to send an email - we don't want the user to wait so this is fire and forget
 	sendEmail(to,from,subject,content, context.secrets.sg_key)
 	.then(() => {
-		res.writeHead(301, {'Location': next });
+		res.writeHead(301, {% raw %}{'Location': next }{% endraw %});
 		res.end();
 	}).catch(e => {
 		// handle error

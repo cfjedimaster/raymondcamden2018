@@ -5,6 +5,7 @@ date: "2015-01-09T10:22:44+06:00"
 categories: ColdFusion JavaScript jQuery 
 tags: 
 banner_image: 
+permalink: /2015/01/09/dropdown-to-ajax-call-to-coldfusion-example
 ---
 
 A reader pinged me last night with a relatively simple request:
@@ -99,7 +100,7 @@ $("#options").change(function(e) {
 	var selected = $(this).val();
 	console.log('change:', selected);
 	if(selected === '--') return;
-	$.get("api.cfc?method=dostuff", {input:selected}, function(res) {
+	$.get("api.cfc?method=dostuff", {% raw %}{input:selected}{% endraw %}, function(res) {
 		$result.html(res);
 	},"JSON");
 });
@@ -127,7 +128,7 @@ And that's it. Not exactly rocket science, but there you go. Here is the complet
             			var selected = $(this).val();
             			console.log('change:', selected);
             			if(selected === '--') return;
-            			$.get(&quot;api.cfc?method=dostuff&quot;, {input:selected}, function(res) {
+            			$.get(&quot;api.cfc?method=dostuff&quot;, {% raw %}{input:selected}{% endraw %}, function(res) {
             				$result.html(res);
             			},&quot;JSON&quot;);
             		});

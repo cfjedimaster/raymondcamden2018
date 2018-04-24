@@ -5,6 +5,7 @@ date: "2016-01-06T08:04:37+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/01/06/my-first-oreilly-book-client-side-data-storage
 ---
 
 While I've released a few videos for O'Reilly already (you can find all my ORA material on my <a href="http://www.oreilly.com/pub/au/3437">author page</a>), today I'm happy to announce the release of my first book. This is - to me - the coolest day ever. Since I began working in this industry (a long, <i>long</i> time ago), ORA books have always been the best of the best. While I've worked for multiple publishers over the past twenty years, this was my first opportunity to write a book for ORA. It isn't terribly long - but frankly - shorter technical books can be more impactful I think.

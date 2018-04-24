@@ -5,6 +5,7 @@ date: "2015-03-30T11:48:05+06:00"
 categories: Development Mobile 
 tags: ionic mobilefirst
 banner_image: 
+permalink: /2015/03/30/working-with-ibm-mobile-first-and-ionic-a-follow-up
 ---
 
 Last week I <a href="http://www.raymondcamden.com/2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework">blogged</a> about using IBM's <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> platform and <a href="http://www.ionicframework.com/">Ionic</a>. This is part of a series I'm doing discussing how to use both products together to build awesome mobile apps. (How awesome? Five Lion Robots that can transform into One Giant Robot awesome.) Currently there are a few steps you have to take to modify the default Ionic template to work with MobileFirst. My blog explains those steps and demonstrates it in a video. After discussing things with coworkers, we've come across a few small issues that slightly modify this process. In this post I'll explain the differences, but please be sure to read that first post so this makes sense.

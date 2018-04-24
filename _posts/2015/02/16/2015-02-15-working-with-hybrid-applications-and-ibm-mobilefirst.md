@@ -5,6 +5,7 @@ date: "2015-02-16T08:13:56+06:00"
 categories: Development JavaScript Mobile uncategorized 
 tags: mobilefirst
 banner_image: 
+permalink: /2015/02/16/working-with-hybrid-applications-and-ibm-mobilefirst
 ---
 
 As with my last post, I'll warn folks that I'm still learning about <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> and to please forgive any mistakes I make. I also want to give a shout out to my coworker <a href="https://twitter.com/csantanapr">Carlos Santana</a> who has been incredibly helpful in getting me up to speed. As this is my first post on MobileFirst, let me begin with a bit of background.

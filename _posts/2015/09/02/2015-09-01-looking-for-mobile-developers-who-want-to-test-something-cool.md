@@ -5,6 +5,7 @@ date: "2015-09-02T10:55:28+06:00"
 categories: Development Mobile 
 tags: 
 banner_image: 
+permalink: /2015/09/02/looking-for-mobile-developers-who-want-to-test-something-cool
 ---
 
 One of the reasons I joined IBM was because I discovered they were doing some pretty cool things. I mean, I knew IBM did cool stuff, but as a developer, I wasn't really aware of what they offered and how they could help. I know I'm <i>supposed</i> to say crap like this, I work here, but I can honestly say I began my job here impressed with what we offer and I <i>continue</i> to be really freaking excited about what I'm seeing. We're working on something interesting and we need folks to help us bring it to life.

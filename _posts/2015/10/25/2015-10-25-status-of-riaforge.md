@@ -5,6 +5,7 @@ date: "2015-10-25T18:27:54+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/10/25/status-of-riaforge
 ---
 
 A bit over 9 years ago I launched RIAForge (<a href="http://www.raymondcamden.com/2006/10/18/Announcing-RIAForge">Announcing RIAForge</a>). The brainchild of <a href="http://www.forta.com">Ben Forta</a>, the idea was to make it easier for people using Adobe technologies to create open source projects. At the time, that made a lot of sense. I believe GitHub was around then, but it certainly wasn't as popular as it is now. Sourceforge was there, but at least for me it wasn't the easiest solution in the world. RIAForge made it incredibly easy. You could launch your project and get a blog, forums, a bug tracker, even a wiki. 

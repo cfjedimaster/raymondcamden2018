@@ -5,6 +5,7 @@ date: "2017-03-07T09:40:00-07:00"
 categories: Static Sites 
 tags: 
 banner_image: 
+permalink: /2017/03/07/working-with-static-sites-final-release
 ---
 
 So I've blogged about this a few times already, but now the final, *really* final release of my book on Static Sites is available for purchase. I co-authored this with Brian Rinaldi and I think it is fair to say this is a great introduction to the topic with multiple real world (ish ;) examples. 

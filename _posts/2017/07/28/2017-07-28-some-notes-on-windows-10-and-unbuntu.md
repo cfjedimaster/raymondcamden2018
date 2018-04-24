@@ -5,6 +5,7 @@ date: "2017-07-28T08:02:00-07:00"
 categories: Development 
 tags: windows
 banner_image: 
+permalink: /2017/07/28/some-notes-on-windows-10-and-ubuntu
 ---
 
 I've got a few notes to share about Ubuntu on Windows. This will be a bit random, but hopefully it is helpful. First off - why am I writing about this now? As of a few weeks ago, Ubuntu is now available in the Windows Store, <storng>if, and only if</strong>, you are using the Insiders Build. I'm using it on my laptop, but not my desktop. However, what I ran into will apply to anyone who is currently using Bash and wants to upgrade to the "real" release. Ok, ready?

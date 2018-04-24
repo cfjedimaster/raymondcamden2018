@@ -5,6 +5,7 @@ date: "2017-01-03T12:54:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/01/03/getting-started-with-openwhisk
 ---
 
 For folks who have been reading my [OpenWhisk](/tags/openwhisk) blog entries this past week or so, I've started working on some videos

@@ -5,6 +5,7 @@ date: "2017-03-13T17:04:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2017/03/13/quick-console-script-for-oreilly-authors
 ---
 
 So... let me start off by saying that this blog post will be useful to approximately 0.01% of you. I'm really just blogging this so I can copy and paste the code later
@@ -25,17 +26,17 @@ var data61068 = [
 {
    &quot;key&quot; : &quot;Digital&quot;,
 values: [
-{x: 1476601200000, y: 0},{x: 1478415600000, y: 0},{x: 1480233600000, y: 65},{x: 1480233600000, y: 65},{x: 1480838400000, y: 24},{x: 1481443200000, y: 239},{x: 1482048000000, y: 9},{x: 1482652800000, y: 5},{x: 1483257600000, y: 1},{x: 1483862400000, y: 3},{x: 1484467200000, y: 71},{x: 1485072000000, y: 3},{x: 1485676800000, y: 1},{x: 1486281600000, y: 0},{x: 1486886400000, y: 1},{x: 1488096000000, y: 3},{x: 1488096000000, y: 2},{x: 1488700800000, y: 10},{x: 1489305600000, y: 3},{x: 1489305600000, y: 3},]
+{% raw %}{x: 1476601200000, y: 0}{% endraw %},{% raw %}{x: 1478415600000, y: 0}{% endraw %},{% raw %}{x: 1480233600000, y: 65}{% endraw %},{% raw %}{x: 1480233600000, y: 65}{% endraw %},{% raw %}{x: 1480838400000, y: 24}{% endraw %},{% raw %}{x: 1481443200000, y: 239}{% endraw %},{% raw %}{x: 1482048000000, y: 9}{% endraw %},{% raw %}{x: 1482652800000, y: 5}{% endraw %},{% raw %}{x: 1483257600000, y: 1}{% endraw %},{% raw %}{x: 1483862400000, y: 3}{% endraw %},{% raw %}{x: 1484467200000, y: 71}{% endraw %},{% raw %}{x: 1485072000000, y: 3}{% endraw %},{% raw %}{x: 1485676800000, y: 1}{% endraw %},{% raw %}{x: 1486281600000, y: 0}{% endraw %},{% raw %}{x: 1486886400000, y: 1}{% endraw %},{% raw %}{x: 1488096000000, y: 3}{% endraw %},{% raw %}{x: 1488096000000, y: 2}{% endraw %},{% raw %}{x: 1488700800000, y: 10}{% endraw %},{% raw %}{x: 1489305600000, y: 3}{% endraw %},{% raw %}{x: 1489305600000, y: 3}{% endraw %},]
 },{
    &quot;key&quot; : &quot;Print&quot;,
    &quot;color&quot; : &quot;#ff7f0e&quot;,
 values: [
-{x: 1476601200000, y: 1},{x: 1478415600000, y: 1},{x: 1480233600000, y: 1},{x: 1480233600000, y: 1},{x: 1480838400000, y: 0},{x: 1481443200000, y: 0},{x: 1482048000000, y: 0},{x: 1482652800000, y: 0},{x: 1483257600000, y: 0},{x: 1483862400000, y: 0},{x: 1484467200000, y: 0},{x: 1485072000000, y: 0},{x: 1485676800000, y: 0},{x: 1486281600000, y: 1},{x: 1486886400000, y: 0},{x: 1488096000000, y: 1},{x: 1488096000000, y: 1},{x: 1488700800000, y: 0},{x: 1489305600000, y: 1},{x: 1489305600000, y: 1},]
+{% raw %}{x: 1476601200000, y: 1}{% endraw %},{% raw %}{x: 1478415600000, y: 1}{% endraw %},{% raw %}{x: 1480233600000, y: 1}{% endraw %},{% raw %}{x: 1480233600000, y: 1}{% endraw %},{% raw %}{x: 1480838400000, y: 0}{% endraw %},{% raw %}{x: 1481443200000, y: 0}{% endraw %},{% raw %}{x: 1482048000000, y: 0}{% endraw %},{% raw %}{x: 1482652800000, y: 0}{% endraw %},{% raw %}{x: 1483257600000, y: 0}{% endraw %},{% raw %}{x: 1483862400000, y: 0}{% endraw %},{% raw %}{x: 1484467200000, y: 0}{% endraw %},{% raw %}{x: 1485072000000, y: 0}{% endraw %},{% raw %}{x: 1485676800000, y: 0}{% endraw %},{% raw %}{x: 1486281600000, y: 1}{% endraw %},{% raw %}{x: 1486886400000, y: 0}{% endraw %},{% raw %}{x: 1488096000000, y: 1}{% endraw %},{% raw %}{x: 1488096000000, y: 1}{% endraw %},{% raw %}{x: 1488700800000, y: 0}{% endraw %},{% raw %}{x: 1489305600000, y: 1}{% endraw %},{% raw %}{x: 1489305600000, y: 1}{% endraw %},]
 },];
   nv.addGraph(function() {
     var chart = nv.models.lineChart().useInteractiveGuideline(true);
-    chart.margin({right:30});
-    chart.xAxis.axisLabel('Week').tickFormat(function(d) { return d3.time.format('%x')(new Date(d)) });
+    chart.margin({% raw %}{right:30}{% endraw %});
+    chart.xAxis.axisLabel('Week').tickFormat(function(d) {% raw %}{ return d3.time.format('%{% endraw %}x')(new Date(d)) });
     chart.yAxis.axisLabel('Units').tickFormat(d3.format('d'));
     d3.select('#graph61068 svg')
         .datum(data61068)
@@ -60,7 +61,7 @@ I noticed there was one variable named "dataXXXX" for each of my products. So ba
 			}, 0);
 			let thisLabel = item.key;
 			total += thisTotal;
-			breakDown.push({type:thisLabel, sales:thisTotal});
+			breakDown.push({% raw %}{type:thisLabel, sales:thisTotal}{% endraw %});
 		});
 		console.log('Total for item is '+total);
 		console.table(breakDown);

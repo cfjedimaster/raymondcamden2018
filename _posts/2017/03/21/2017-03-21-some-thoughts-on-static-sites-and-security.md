@@ -5,6 +5,7 @@ date: "2017-03-21T10:34:00-07:00"
 categories: Static Sites 
 tags: 
 banner_image: /images/banners/sss.jpg
+permalink: /2017/03/21/some-thoughts-on-static-sites-and-security
 ---
 
 I've been chewing on this blog post for a little while now and while I'm waiting for a keynote to start I thought I'd spend some time to write it up. Let me preface this blog entry by making it very clear: I am not a security expert. I think I have a good handle on security issues at the level every developer should, but it is not my primary role, so take the following with a grain of salt. And while I *always* say this, please be sure to comment with suggestions and corrections on this topic.

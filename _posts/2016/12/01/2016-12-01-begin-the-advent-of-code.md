@@ -5,6 +5,7 @@ date: "2016-12-01T10:14:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: /images/banners/adventofcode.jpg
+permalink: /2016/12/01/begin-the-advent-of-code
 ---
 
 Forgive the somewhat dramatic title, but today begins one of the coolest coding challenges I've ever done, the [Advent of Code](http://adventofcode.com/). The Advent of Code presents you with two coding challenges a day. (The second is typically a minor modification of the first one.) You can solve the challenge anyway you want. They start off - mostly - kind of simple and then kind of go off the deep end towards the end. 

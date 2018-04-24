@@ -5,6 +5,7 @@ date: "2015-01-05T16:04:22+06:00"
 categories: ColdFusion JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/01/05/cflib-moves-to-node-js
 ---
 
 This isn't necessarily <i>new</i> per se, but as I just completed some small tweaks I figured I'd share that I've migrated <a href="http://www.cflib.org">CFLib</a> to Node.js. For the most part the conversion was fairly simple, but I thought I'd share some of the highlights (and issues) of the new code base. 
@@ -35,7 +36,7 @@ Basically - I can look at my code and at least "smell" the things that seem wron
 Mongo is - of course - a pleasure to work with. I won't pretend NoSQL DBs are a silver bullet, but my God, if I never write another line of SQL again I'll be happy. Working asynchronously can be a bit of a pain at times. So for example, I needed a way to get my libraries, and for each library, get a count of the number of UDFs in it. I used a library named <a href="https://www.npmjs.com/package/async">async</a> which allowed me to take those N async calls and listen for them to complete:
 
 <pre><code class="language-javascript">
-this.find().sort({name:1}).exec(function(err, libs) {
+this.find().sort({% raw %}{name:1}{% endraw %}).exec(function(err, libs) {
 	async.map(libs, getUDFCount, function(err, result) {
 		for(var i=0, len=libs.length; i&lt;len; i++) {
 			libs[i].udfCount = result[i];	
@@ -46,7 +47,7 @@ this.find().sort({name:1}).exec(function(err, libs) {
 });
 </code></pre>
 
-The thing that bugged me the most, and I never really realized it before, is how limited Handlebars can be at times -- specifically in terms of doing anything in logic. Handlebars wants to minimize the amount of logic you include in your views, and I can get that, but it really bit me in the rear at times. As an example, when editing a UDF, I need to display a list of libraries the UDF can belong to, and then set the current library as the selected item. Handlebars supports IF clauses, but the expression must be simpler. So you can't do: {%raw%}{{if something is something}}{%endraw%}. Nope. You have to actually write a helper function for it:
+The thing that bugged me the most, and I never really realized it before, is how limited Handlebars can be at times -- specifically in terms of doing anything in logic. Handlebars wants to minimize the amount of logic you include in your views, and I can get that, but it really bit me in the rear at times. As an example, when editing a UDF, I need to display a list of libraries the UDF can belong to, and then set the current library as the selected item. Handlebars supports IF clauses, but the expression must be simpler. So you can't do: {% raw %}{{if something is something}{% endraw %}}. Nope. You have to actually write a helper function for it:
 
 <pre><code class="language-javascript">
 selected:function(option,value) {
@@ -65,16 +66,16 @@ Here's how that looks in the Handlebars template:
 	&lt;td&gt;&lt;b&gt;Library:&lt;&#x2F;b&gt;&lt;&#x2F;td&gt;
 	&lt;td&gt;
 	&lt;select name=&quot;libraryid&quot;&gt;
-	{%raw%}{{#each libraries}}{%endraw%}
-		&lt;option value=&quot;{%raw%}{{this.id}}{%endraw%}&quot; {%raw%}{{selected this.id ..&#x2F;udf.library_id}}{%endraw%}&gt;{%raw%}{{this.name}}{%endraw%}&lt;&#x2F;option&gt;
-	{%raw%}{{&#x2F;each}}{%endraw%}
+	{% raw %}{{#each libraries}{% endraw %}}
+		&lt;option value=&quot;{% raw %}{{this.id}{% endraw %}}&quot; {% raw %}{{selected this.id ..&#x2F;udf.library_id}{% endraw %}}&gt;{% raw %}{{this.name}{% endraw %}}&lt;&#x2F;option&gt;
+	{% raw %}{{&#x2F;each}{% endraw %}}
 	&lt;&#x2F;select&gt;
 	&lt;&#x2F;td&gt;
 &lt;&#x2F;tr&gt;
 &lt;tr&gt;
 </code></pre>
 
-Not horrible, but not ideal either. Also, ColdFusion spoiled me. Being able to do this: <code>dateFormat(something, mask)</code> is nice compared to how I did it in the new site. First I got the MomentJS module. I then used it in a Handlebars helper. Finally I called it from my template like so: <code>{%raw%}{{fullDate udf.lastUpdated}}{%endraw%}</code> That's readable at least, but not necessarily simple.
+Not horrible, but not ideal either. Also, ColdFusion spoiled me. Being able to do this: <code>dateFormat(something, mask)</code> is nice compared to how I did it in the new site. First I got the MomentJS module. I then used it in a Handlebars helper. Finally I called it from my template like so: <code>{% raw %}{{fullDate udf.lastUpdated}{% endraw %}}</code> That's readable at least, but not necessarily simple.
 
 All in all though, I'm happy with this new version, and I've got three UDFs waiting to be released. I'm going to release those later in the week. For those of you who are Node/Express experts, I will <strong>gladly</strong> take your feedback. For those who don't know Node and have specific questions about the code base, ask away!
 

@@ -5,6 +5,7 @@ date: "2015-09-18T11:50:48+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/09/18/integrating-the-calendar-into-your-ionic-app
 ---
 
 For today's demo, I decided to try something I've been meaning to make time for - integrating with the calendar on the mobile device. Luckily there is a great plugin for this - <a href="https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin">Calendar-PhoneGap-Plugin</a>. This plugin provides all types of hooks into the local calendar including the ability to search and add events. With that plugin in place, I whipped up a quick demo.
@@ -52,12 +53,12 @@ Let's look at the code behind this. First, the HTML. Since this application is s
 				
 				&lt;div class=&quot;card&quot; ng-repeat=&quot;event in events&quot;&gt;
 					&lt;div class=&quot;item item-divider&quot;&gt;
-						{%raw%}{{event.title}}{%endraw%}
+						{% raw %}{{event.title}{% endraw %}}
 					&lt;/div&gt;					
 					&lt;div class=&quot;item item-text-wrap&quot;&gt;
-						{%raw%}{{ event.description }}{%endraw%}
+						{% raw %}{{ event.description }{% endraw %}}
 						&lt;p/&gt;
-						&lt;strong&gt;When: {%raw%}{{ event.date | date:'short' }}{%endraw%}&lt;/strong&gt;
+						&lt;strong&gt;When: {% raw %}{{ event.date |{% endraw %} date:'short' }}&lt;/strong&gt;
 					&lt;/div&gt;
 				&lt;/div&gt;
 				

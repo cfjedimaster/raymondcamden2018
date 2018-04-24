@@ -5,6 +5,7 @@ date: "2015-07-30T10:18:16+06:00"
 categories: Development JavaScript 
 tags: cordova ionic
 banner_image: 
+permalink: /2015/07/30/cordovaionic-sample-app-my-sound-board
 ---
 
 Today's demo is something I started working on Sunday "for fun", but when it turned into an unholy mess (see <a href="http://www.raymondcamden.com/2015/07/27/recording-and-saving-audio-in-cordova-applications">Recording and saving audio in Cordova applications</a>), it took me a bit longer to wrap than I expected. The idea was simple. "Sound Boards" are apps that contain a collection of sounds, typically related to a movie or TV show. My coworker <a href="http://www.tricedesigns.com/">Andy</a> built a cool sound board themed around Halloween a few years back: <a href="http://www.tricedesigns.com/2012/10/23/halloween-fun-with-phonegap/">Halloween Fun with PhoneGap</a>. I wanted to build a sound board too, but instead of shipping it with a set of sounds, I wanted it to be completely customized. The idea being you could record your own sounds. In a fit of extreme creativity, I called it - "My Sound Board".
@@ -73,7 +74,7 @@ All I had to do then was wire up the logic to handle deleting. So - about that c
 		});
 	}
 	
-	$scope.cordova = {loaded:false};
+	$scope.cordova = {% raw %}{loaded:false}{% endraw %};
 	$ionicPlatform.ready(function() {
 		$scope.$apply(function() {
 			$scope.cordova.loaded = true;
@@ -93,7 +94,7 @@ Ok, let's look at the view.
     &lt;div ng-if=&quot;sounds.length &gt; 0&quot;&gt;
 			&lt;ion-list show-delete=&quot;false&quot; can-swipe=&quot;true&quot;&gt;
 				&lt;ion-item ng-repeat=&quot;sound in sounds&quot; ng-click=&quot;play($index)&quot;&gt;
-					{%raw%}{{sound.name}}{%endraw%}
+					{% raw %}{{sound.name}{% endraw %}}
 					
 					&lt;ion-option-button class=&quot;button-assertive&quot; ng-click=&quot;delete($index)&quot;&gt;
 					Delete

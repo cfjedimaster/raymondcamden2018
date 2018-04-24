@@ -5,6 +5,7 @@ date: "2016-07-16T08:01:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/07/16/scraping-urls-from-a-sitemap-file
 ---
 
 Yesterday I [wrote](https://www.raymondcamden.com/2016/07/15/fighting-against-a-content-stealer-on-blogger/) about a person who is stealing my content (and others) for their blog. As part of my process to fight against this jerk I had to file a DCMA claim that includes the URLs of the offending content. In order to get all the URLs, I had to work with their site map, copy the content, and use XPath to get the URL values. I decided to whip up a quick tool that would automate the entire process.
@@ -47,7 +48,7 @@ function parseSitemap() {
 	*/
 	var sitemaps = [];
 
-	var query = &quot;https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20html%20where%20url%20%3D%20'&quot; + url + &quot;'%20and%20xpath%3D'%2F%2Fsitemap'&amp;format=json&amp;diagnostics=true&amp;callback=&quot;;
+	var query = &quot;https://query.yahooapis.com/v1/public/yql?q=select{% raw %}%20*%{% endraw %}20from{% raw %}%20html%{% endraw %}20where{% raw %}%20url%{% endraw %}20{% raw %}%3D%{% endraw %}20'&quot; + url + &quot;'{% raw %}%20and%{% endraw %}20xpath{% raw %}%3D'%{% endraw %}2F%2Fsitemap'&amp;format=json&amp;diagnostics=true&amp;callback=&quot;;
 	$.get(query).then(function(res) {
 		if(res.query.diagnostics &amp;&amp; res.query.diagnostics.url[0][&quot;http-status-code&quot;] === &quot;404&quot;) {
 			$status.html('&lt;b&gt;This URL appears to be invalid.&lt;/b&gt;');

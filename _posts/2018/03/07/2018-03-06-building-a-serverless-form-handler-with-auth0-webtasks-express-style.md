@@ -5,6 +5,7 @@ date: "2018-03-07"
 categories: Serverless 
 tags: webtask
 banner_image: /images/banners/wtexpress1.jpg
+permalink: /2018/03/07/building-a-serverless-form-handler-with-auth0-webtasks-express-style
 ---
 
 A few days ago I [blogged](https://www.raymondcamden.com/2018/03/02/buidling-a-serverless-form-handler-with-webtask/) about creating a basic "form handling service" using [Auth0 Webtask](https://webtask.io/). When I showed this to one of my coworkers, he had commented that this was something he would normally have used Express for. Auth0 Webtask does support deploying Express apps, and it's rather easy to do so, but using Express in a serverless world feels... weird to me. It just doesn't seem like something I'd *want* to do, which means it was a perfect thing for me to *actually* do so I could see what it felt like. I've done that and you'll see the code below. How do I feel about it now that I'm done? Keep reading and I'll share.
@@ -24,7 +25,7 @@ const TO = 'raymond.camden@auth0.com';
 const SUBJ = 'Stormtrooper Form Submission';
 
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended:false}));
+app.use(bodyParser.urlencoded({% raw %}{extended:false}{% endraw %}));
 
 app.get('/', function (req, res) {
     res.header('Content-Type', 'text/html');
@@ -49,7 +50,7 @@ app.post('/', function (req, res) {
 	//Generate the text
 	let date = new Date();
     let content = `
-Form Submitted at ${date}
+Form Submitted at ${% raw %}{date}{% endraw %}
 --------------------------------
 `;
 
@@ -57,14 +58,14 @@ Form Submitted at ${date}
         //blanket ignore if _*
         if(key.indexOf("_") != 0) {
             content += `
-${key}:         ${form[key]}
+${% raw %}{key}{% endraw %}:         ${% raw %}{form[key]}{% endraw %}
 `;
         }
     }
 
 	sendEmail(to,from,subject,content, req.webtaskContext.secrets.sg_key)
 	.then(() => {
-       res.redirect(`${req.originalUrl}/thanks`);
+       res.redirect(`${% raw %}{req.originalUrl}{% endraw %}/thanks`);
 	}).catch(e => {
 		// handle error
 	});

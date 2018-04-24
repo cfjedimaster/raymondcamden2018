@@ -5,6 +5,7 @@ date: "2017-05-31T08:15:00-07:00"
 categories: JavaScript 
 tags: nodejs
 banner_image: 
+permalink: /2017/05/31/updating-nodejs-on-windows-some-tips
 ---
 
 I love Node, but I swear every time I go to update it I end up running into one problem or another. And this has been true for both Windows and OSX. I went through an update yesterday for the [release of Node 8](https://nodejs.org/en/blog/release/v8.0.0/) and I thought I'd share what I ran into and how I corrected it. Please, *please* do not take this as the best recommendation. I simply want to point out a bug I ran into, how I got around it, and what I used to get me back up and running.

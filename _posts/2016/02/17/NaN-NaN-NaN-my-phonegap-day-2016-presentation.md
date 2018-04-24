@@ -5,6 +5,7 @@ date: "2016-02-17T8:41:00-07:00"
 categories: Development 
 tags: Cordova
 banner_image: /images/banners/phonegap-logo.png
+permalink: /2016/02/17/my-phonegap-day-2016-presentation
 ---
 
 I was honored to be chosen to speak at this year's [PhoneGap Day](http://pgday.phonegap.com/us2016/), but honestly, even if I wasn't chosen to speak, I would have tried like heck to get there. I missed last year, but every PhoneGap Day I've been too has been *incredible*. If you missed it, all of the presentations will be available online via the [PhoneGap blog](http://pgday.phonegap.com/us2016/). You can also read their 

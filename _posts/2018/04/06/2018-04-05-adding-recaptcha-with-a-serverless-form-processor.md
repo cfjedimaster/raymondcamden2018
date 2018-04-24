@@ -5,6 +5,7 @@ date: "2018-04-06"
 categories: Serverless 
 tags: webtask vuejs
 banner_image: /images/banners/tallbuildings.jpg
+permalink: /2018/04/06/adding-recaptcha-with-a-serverless-form-processor
 ---
 
 A few days ago I added [Google's reCaptcha](https://www.google.com/recaptcha/) support to a ColdFusion site. It was pretty easy (some front end work, some back end work), so I thought I'd whip up a quick demo of how you could add it to a form using a serverless processor, in my case, [Webtask](https://webtask.io). To get started, let's go over a quick demo of how such a processor could look before we add the captcha.
@@ -24,7 +25,7 @@ First, here is the form.
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width">
 		<style>
-		[v-cloak] {display: none}
+		[v-cloak] {% raw %}{display: none}{% endraw %}
 		</style>
 	</head>
 	<body>
@@ -53,7 +54,7 @@ First, here is the form.
 				<p>
 					<b>Please correct these errors:</b>
 					<ul>
-						<li v-for="error in errors">{%raw%}{{error}}{%endraw%}</li>
+						<li v-for="error in errors">{% raw %}{{error}{% endraw %}}</li>
 					</ul>
 				</p>
 			</div>
@@ -124,10 +125,10 @@ module.exports = function(context, cb) {
 	let errors = checkForm(context.body);
 
 	if(errors.length) {
-		cb(null, {status: false, errors:errors});
+		cb(null, {% raw %}{status: false, errors:errors}{% endraw %});
 	} else {
 		// we'd also email the results here, or store them, or something
-		cb(null, {status: true});
+		cb(null, {% raw %}{status: true}{% endraw %});
 	}
 }
 
@@ -193,7 +194,7 @@ By itself, this will create a hidden form field and when the user checks the cap
 		<p>
 			<b>Please correct these errors:</b>
 			<ul>
-				<li v-for="error in errors">{%raw%}{{error}}{%endraw%}</li>
+				<li v-for="error in errors">{% raw %}{{error}{% endraw %}}</li>
 			</ul>
 		</p>
 	</div>
@@ -298,10 +299,10 @@ module.exports = function(context, cb) {
 		console.log('result was '+JSON.stringify(result.errors));		
 
 		if(result.errors.length) {
-			cb(null, {status: false, errors:result.errors});
+			cb(null, {% raw %}{status: false, errors:result.errors}{% endraw %});
 		} else {
 			// we'd also email the results here, or store them, or something
-			cb(null, {status: true});
+			cb(null, {% raw %}{status: true}{% endraw %});
 		}
 
 	});
@@ -326,7 +327,7 @@ function checkForm(f, recaptchaKey) {
 			if(!JSON.parse(body).success) {
 				errors.push('You did not fill out the recaptcha or resubmitted the form.');
 			}
-			resolve({errors:errors});
+			resolve({% raw %}{errors:errors}{% endraw %});
 
 		});
 

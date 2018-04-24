@@ -5,6 +5,7 @@ date: "2017-06-15T08:04:00-07:00"
 categories: javascript 
 tags: nodejs
 banner_image: 
+permalink: /2017/06/15/testing-multiple-image-recognition-services-at-once
 ---
 
 I'm a big fan of image recognition APIs - by that I mean services that let you send in a picture and have them scanned to determine what's actually in the picture. When they work well, it's cool as heck. When they fail, it's typically pretty funny. All in all that's a win-win for me. For a while now I've been wanting to build something that would let me compare multiple services like this at the same time. This week - I did that. 
@@ -54,7 +55,7 @@ app.post(&#x27;&#x2F;test&#x27;, (req, res) =&gt; {
 
 	form.parse(req, (err, fields, files) =&gt; {
 		if(!files.testImage) {
-			res.send({result:0});
+			res.send({% raw %}{result:0}{% endraw %});
 			return;
 		}
 		let theFile = files.testImage.path;
@@ -133,7 +134,7 @@ function doProcess(path,auth) {
 
 }
 
-module.exports = { doProcess }
+module.exports = {% raw %}{ doProcess }{% endraw %}
 </code></pre>
 
 The only thing special here is me specifying what type of analysis I care about. In this case, all of them. In a more real-world scenario you'll probably use a bit less. All in all, the coolest aspect of the API is the "similar" results. In most cases it returned exact copies (which could be useful for hunting down people stealing your work), but when it truly found different, but similar results, it was neat as heck. As an example, I uploaded this:
@@ -202,7 +203,7 @@ function doProcess(path, auth) {
 
 };
 
-module.exports = { doProcess }
+module.exports = {% raw %}{ doProcess }{% endraw %}
 </code></pre>
 
 Fairly simple, and I use promises again to handle the 2 calls. The results can be pretty freaking insane at times. While I found the amount of data returned to be much smaller than Google or Microsoft, the classifiers (or tags), were insane accurate at times. Consider this picture:
@@ -245,7 +246,7 @@ function doProcess(path, auth) {
 			let theUrl = mainUrl + 
 			&#x27;&#x2F;analyze?visualFeatures=Categories,Tags,Description,Faces,ImageType,Color,Adult&amp;details=Celebrities,Landmarks&amp;language=en&#x27;;
 
-			request.post({url:theUrl, headers:headers, formData:formData}, function(err, response, body) {
+			request.post({% raw %}{url:theUrl, headers:headers, formData:formData}{% endraw %}, function(err, response, body) {
 				if(err) {
 					reject(err);
 				} else {
@@ -259,7 +260,7 @@ function doProcess(path, auth) {
 
 			let theUrl = mainUrl + &#x27;&#x2F;ocr?language=unk&#x27;;
 
-			request.post({url:theUrl, headers:headers, formData:formData}, function(err, response, body) {
+			request.post({% raw %}{url:theUrl, headers:headers, formData:formData}{% endraw %}, function(err, response, body) {
 				if(err) {
 					reject(err);
 				} else {
@@ -282,7 +283,7 @@ function doProcess(path, auth) {
 
 }
 
-module.exports = { doProcess }
+module.exports = {% raw %}{ doProcess }{% endraw %}
 </code></pre>
 
 Microsoft has a seperate API for text recognition (OCR) so that's why I've got two calls here. (Although in general, the OCR didn't seem to work well for me.) I like that the service returned metadata about the image itself though and it's kinda cool that it tries to detect clip art too. The neatest aspect though was it's description service, which tries to describe the picture in English. Consider this input:

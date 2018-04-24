@@ -5,6 +5,7 @@ date: "2016-08-18T09:59:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/disqus_api.jpg
+permalink: /2016/08/18/working-with-the-disqus-api-comment-count
 ---
 
 I've been a happy [Disqus](https://disqus.com/) user for a while now, but I noticed this week that the stats provided by the service are pretty poor. For example, you can't even determine the *total* number of comments for your web site. That seems... a bit crazy. It isn't necessarily some crazy stat like, "How many Europeans create comments on the weekend." You can see how many comments you got this week:

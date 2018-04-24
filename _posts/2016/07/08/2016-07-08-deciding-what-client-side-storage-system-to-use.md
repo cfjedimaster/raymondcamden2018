@@ -5,6 +5,7 @@ date: "2016-07-08T08:30:00-07:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/07/08/deciding-what-client-side-storage-system-to-use
 ---
 
 This isn't a new topic for this blog, but as a good buddy of mine asked me about this yesterday, and we ended up having a good conversation about it on IM, I thought it would be nice to write up what we discussed so I could share it with others. The conversation started with a simple question:

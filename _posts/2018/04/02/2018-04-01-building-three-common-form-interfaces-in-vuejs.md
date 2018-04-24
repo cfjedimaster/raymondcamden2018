@@ -5,6 +5,7 @@ date: "2018-04-02"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/forms.jpg
+permalink: /2018/04/02/building-three-common-form-interfaces-in-vuejs
 ---
 
 Today I wanted to share three simple (mostly simple) Vue.js samples that demonstrate some common form UX patterns. In each case, I fully expect that there are probably existing Vue components I could have used instead, but as always, I'm a firm believer in building stuff yourself as a way to practice what you learn. So with that in mind, let's get started!
@@ -38,9 +39,9 @@ The form consists of two parts. On top is a set of basic, static fields. On bott
     &lt;legend&gt;Friends&lt;&#x2F;legend&gt;
 
     &lt;div v-for=&quot;(f,n) in friends&quot;&gt;
-      &lt;label :for=&quot;&#x27;friend&#x27;+n&quot;&gt;Friend {%raw%}{{n+1}}{%endraw%}&lt;&#x2F;label&gt;
+      &lt;label :for=&quot;&#x27;friend&#x27;+n&quot;&gt;Friend {% raw %}{{n+1}{% endraw %}}&lt;&#x2F;label&gt;
       &lt;input :id=&quot;&#x27;friend&#x27;+n&quot; v-model=&quot;friends[n].name&quot;&gt;
-      &lt;label :for=&quot;&#x27;friendage&#x27;+n&quot;&gt;Friend {%raw%}{{n+1}}{%endraw%} Age&lt;&#x2F;label&gt;
+      &lt;label :for=&quot;&#x27;friendage&#x27;+n&quot;&gt;Friend {% raw %}{{n+1}{% endraw %}} Age&lt;&#x2F;label&gt;
       &lt;input :id=&quot;&#x27;friendage&#x27;+n&quot; v-model=&quot;friends[n].age&quot; type=&quot;number&quot;&gt;
     &lt;&#x2F;div&gt;
     
@@ -49,7 +50,7 @@ The form consists of two parts. On top is a set of basic, static fields. On bott
     &lt;&#x2F;p&gt;
   &lt;&#x2F;fieldset&gt;
   
-  &lt;p&gt;Debug: {%raw%}{{friends}}{%endraw%}&lt;&#x2F;p&gt;
+  &lt;p&gt;Debug: {% raw %}{{friends}{% endraw %}}&lt;&#x2F;p&gt;
 &lt;&#x2F;form&gt;
 </code></pre>
 
@@ -63,12 +64,12 @@ const app = new Vue({
   data:{
     name:null,
     age:null,
-    friends:[{name:'',age:''}]
+    friends:[{% raw %}{name:'',age:''}{% endraw %}]
   },
   methods:{
     newFriend() {
       //New friends are awesome!
-      this.friends.push({name:'', age:''});
+      this.friends.push({% raw %}{name:'', age:''}{% endraw %});
     }
   }
 })
@@ -149,9 +150,9 @@ I thought this would be simple, and I suppose it was, but I wasn't necessarily s
 
   &lt;!-- debug --&gt;
   &lt;p&gt;
-    sSame {%raw%}{{sSame}}{%endraw%}&lt;br&#x2F;&gt;
-    Billing {%raw%}{{billing_address}}{%endraw%}&lt;br&#x2F;&gt;
-    Shipping {%raw%}{{shipping_address}}{%endraw%}
+    sSame {% raw %}{{sSame}{% endraw %}}&lt;br&#x2F;&gt;
+    Billing {% raw %}{{billing_address}{% endraw %}}&lt;br&#x2F;&gt;
+    Shipping {% raw %}{{shipping_address}{% endraw %}}
   &lt;&#x2F;p&gt;
   
 &lt;&#x2F;form&gt;
@@ -208,7 +209,7 @@ What was tricky about this one is that the select fields used to store data only
     &lt;div class=&quot;left&quot;&gt;
       &lt;select v-model=&quot;left&quot; multiple size=10&gt;
         &lt;option v-for=&quot;item in leftItems&quot; :key=&quot;item.id&quot; 
-                :value=&quot;item&quot;&gt;{%raw%}{{item.name}}{%endraw%}&lt;&#x2F;option&gt;
+                :value=&quot;item&quot;&gt;{% raw %}{{item.name}{% endraw %}}&lt;&#x2F;option&gt;
       &lt;&#x2F;select&gt;
     &lt;&#x2F;div&gt;
     
@@ -220,17 +221,17 @@ What was tricky about this one is that the select fields used to store data only
     &lt;div class=&quot;right&quot;&gt;
       &lt;select v-model=&quot;right&quot; multiple size=10&gt;
          &lt;option v-for=&quot;item in rightItems&quot; :key=&quot;item.id&quot; 
-                :value=&quot;item&quot;&gt;{%raw%}{{item.name}}{%endraw%}&lt;&#x2F;option&gt;       
+                :value=&quot;item&quot;&gt;{% raw %}{{item.name}{% endraw %}}&lt;&#x2F;option&gt;       
       &lt;&#x2F;select&gt;
     &lt;&#x2F;div&gt;
   &lt;&#x2F;div&gt;
 
   &lt;!-- debug --&gt;
   &lt;p&gt;
-    leftItems: {%raw%}{{ leftItems}}{%endraw%}&lt;br&#x2F;&gt;
-    left: {%raw%}{{ left}}{%endraw%}&lt;br&#x2F;&gt;
-    rightItems: {%raw%}{{ rightItems }}{%endraw%}&lt;br&#x2F;&gt;
-    right: {%raw%}{{ right }}{%endraw%}
+    leftItems: {% raw %}{{ leftItems}{% endraw %}}&lt;br&#x2F;&gt;
+    left: {% raw %}{{ left}{% endraw %}}&lt;br&#x2F;&gt;
+    rightItems: {% raw %}{{ rightItems }{% endraw %}}&lt;br&#x2F;&gt;
+    right: {% raw %}{{ right }{% endraw %}}
   &lt;&#x2F;p&gt;
   
 &lt;&#x2F;form&gt;
@@ -247,11 +248,11 @@ const app = new Vue({
     leftItems:[],
     rightItems:[],
     items:[
-      {id:1,name:"Fred"},
-      {id:2,name:"Ginger"},
-      {id:3,name:"Zeus"},
-      {id:4,name:"Thunder"},
-      {id:5,name:"Midnight"}
+      {% raw %}{id:1,name:"Fred"}{% endraw %},
+      {% raw %}{id:2,name:"Ginger"}{% endraw %},
+      {% raw %}{id:3,name:"Zeus"}{% endraw %},
+      {% raw %}{id:4,name:"Thunder"}{% endraw %},
+      {% raw %}{id:5,name:"Midnight"}{% endraw %}
     ]
     
   },

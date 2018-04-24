@@ -5,6 +5,7 @@ date: "2015-12-17T09:36:46+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/12/17/a-quick-example-of-the-ionic-loading-widget
 ---
 
 One of the things I love most about <a href="http://www.ionicframework.com">Ionic</a> is how rapidly you can build applications. Many of the cooler features are simple things that can be quickly implemented for an easy win. I like easy wins. Here is a great example of that - the <a href="http://ionicframework.com/docs/api/service/$ionicLoading/">Ionic Loading</a> widget.
@@ -14,7 +15,7 @@ One of the things I love most about <a href="http://www.ionicframework.com">Ioni
 Imagine you've got a simple service method runs over HTTP. This process can be fast or slow based on network conditions, size of the data, and other factors. (Like the Force. Hey, it can happen.) Your code probably looks like this:
 
 <pre><code class="language-javascript">.controller('SearchCtrl', function($scope,DataService) {
-	$scope.search = {property:''};
+	$scope.search = {% raw %}{property:''}{% endraw %};
 	$scope.results = [];
 	
 	$scope.doSearch = function() {
@@ -34,7 +35,7 @@ We're not concerned about the service itself. It returns a promise and will take
 Notice on click there is no visual feedback to the user that anything is happening. If they are impatient (and what user isn't), they could click multiple times and fire off numerous Ajax requests. Let's fix that:
 
 <pre><code class="language-javascript">.controller('SearchCtrl', function($scope,DataService,$ionicLoading) {
-	$scope.search = {property:''};
+	$scope.search = {% raw %}{property:''}{% endraw %};
 	$scope.results = [];
 	
 	$scope.doSearch = function() {

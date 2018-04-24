@@ -5,6 +5,7 @@ date: "2017-03-09T08:54:00-07:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2017/03/09/new-option-for-android-testing-genymotion-on-demand
 ---
 
 I've been talking about Genymotion (technically [Genymotion Desktop](https://www.genymotion.com/desktop/)) for a while now as a speedier alternative to the horribly slow native Android simulator. While Android's default simulator has gotten a lot better lately, I still think Genymotion Desktop is worth your time checking out if you are doing any work at all with Android. 

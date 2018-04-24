@@ -5,6 +5,7 @@ date: "2017-02-06T14:23:00-07:00"
 categories: Development 
 tags: visual studio code
 banner_image: /images/banners/vsc_ext.jpg
+permalink: /2017/02/06/vs-code-extensions-output-colorizer
 ---
 
 Back when I was a [Brackets](http://brackets.io/) user and an Adobe employee, I used to do a review of interesting and useful

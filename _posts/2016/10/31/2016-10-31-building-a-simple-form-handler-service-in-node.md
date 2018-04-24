@@ -5,6 +5,7 @@ date: "2016-10-31T10:03:00-07:00"
 categories: Development 
 tags: nodejs
 banner_image: /images/banners/form_handler.jpg
+permalink: /2016/10/31/building-a-simple-form-handler-service-in-node
 ---
 
 From time to time, I'll re-build an app or service I think is cool just to give me a bit more practice in the language I'm learning. Today, I decided to build a simple version of the form handling service from [Formspree](https://formspree.io/). Just to be clear, what I'm sharing is *not* meant to be as good as Formspree. I'm a huge fan of their service (my [contact](/contact/) form uses it!) and I strongly recommend it. What follows is just a simple Node app having some of the same features.
@@ -29,7 +30,7 @@ I then added a page in public called `index.html`. It basicaly just says "hello 
 So far so good. Now to begin the real meat - listening for form posts. Formspree uses a system where you simply set the action of your form to `//formspree.io/YOUREMAIL`. In Express, I know I could use a regex to define a route, so for the heck of it, I tried an email regex I fund from Stackoverflow:
 
 <pre><code class="language-javascript">
-app.get(/^[-a-z0-9~!$%^&*_=+}{\'?]+(\.[-a-z0-9~!$%^&*_=+}{\'?]+)*@([a-z0-9_][-a-z0-9_]*(\.[-a-z0-9_]+)*\.(aero|arpa|biz|com|coop|edu|gov|info|int|mil|museum|name|net|org|pro|travel|mobi|[a-z][a-z])|([0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}))(:[0-9]{1,5})?$/i, function(req,res) {
+app.get(/^[-a-z0-9~!${% raw %}%^&*_=+}{% endraw %}{% raw %}{\'?]+(\.[-a-z0-9~!$%{% endraw %}^&*_=+}{% raw %}{\'?]+)*@([a-z0-9_][-a-z0-9_]*(\.[-a-z0-9_]+)*\.(aero|{% endraw %}arpa{% raw %}|biz|{% endraw %}com{% raw %}|coop|{% endraw %}edu{% raw %}|gov|{% endraw %}info{% raw %}|int|{% endraw %}mil{% raw %}|museum|{% endraw %}name{% raw %}|net|{% endraw %}org{% raw %}|pro|{% endraw %}travel{% raw %}|mobi|{% endraw %}[a-z][a-z]){% raw %}|([0-9]{1,3}{% endraw %}\.[0-9]{% raw %}{1,3}{% endraw %}\.[0-9]{% raw %}{1,3}{% endraw %}\.[0-9]{% raw %}{1,3}{% endraw %}))(:[0-9]{% raw %}{1,5}{% endraw %})?$/i, function(req,res) {
     res.send(req.params);
 });
 </code></pre>

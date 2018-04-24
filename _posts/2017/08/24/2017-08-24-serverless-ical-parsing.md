@@ -5,6 +5,7 @@ date: "2017-08-24T09:00:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/08/24/serverless-ical-parsing
 ---
 
 Today's post isn't necessarily too interesting code-wise, but it touches upon some greater, more broad, serverless topics that I'd like to bring up. A few weeks ago I discovered an interesting GitHub repository: https://github.com/gadael/icsdb. 
@@ -36,7 +37,7 @@ exports.main = (args) =&gt; {
 
 				let result = [];
 				events.forEach(e =&gt; result.push(flattenEvent(e)));
-				resolve({events:result});
+				resolve({% raw %}{events:result}{% endraw %});
 			} catch(e) {
 				console.log(e);
 				reject(e.message);

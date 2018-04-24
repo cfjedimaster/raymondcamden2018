@@ -5,6 +5,7 @@ date: "2017-09-11T08:56:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/09/11/very-cool-update-for-the-wsk-cli
 ---
 
 I was a bit behind on updating my WSK cli (see details on how to do that [here](https://www.raymondcamden.com/2017/04/25/updating-your-openwhisk-cli)) and was *incredibly* happy to see an important update. It may not be critical for everyone, but it was certainly important to me.

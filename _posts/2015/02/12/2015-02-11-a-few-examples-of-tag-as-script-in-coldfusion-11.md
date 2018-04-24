@@ -5,6 +5,7 @@ date: "2015-02-12T05:34:50+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/02/12/a-few-examples-of-tag-as-script-in-coldfusion-11
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/02/11/reminder-stop-using-the-old-cfc-based-tags-in-coldfusion-11">posted</a> a reminder that ColdFusion 11 developers can stop using the old "CFCs for Tags" feature that provided support for certain things in script. I mentioned that <i>everything</i> could be used in cfscript now and that the old CFCs were (sometimes, not always) a bit buggy.
@@ -54,9 +55,9 @@ feeds.each(function(f,x) {
 	}
 	sql &= "select * from feed#x#";
 });
-merged = queryExecute(sql,{},{dbtype:"query"});
+merged = queryExecute(sql,{% raw %}{},{dbtype:"query"}{% endraw %});
 //credit Vince Collins: https://vincentcollins.wordpress.com/2008/02/22/cffeed-dont-forget-you-can-cast-the-resulting-query-column/
-merged = queryExecute("select content, title, rsslink, cast(publisheddate as date) as publisheddate from merged order by publisheddate desc", {}, {dbtype:"query"});
+merged = queryExecute("select content, title, rsslink, cast(publisheddate as date) as publisheddate from merged order by publisheddate desc", {% raw %}{}, {dbtype:"query"}{% endraw %});
 writedump(var=merged,top=20);</code></pre>
 
 I hope this helps!

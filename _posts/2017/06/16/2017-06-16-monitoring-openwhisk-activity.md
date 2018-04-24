@@ -5,6 +5,7 @@ date: "2017-06-16T08:44:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/06/16/monitoring-openwhisk-activity
 ---
 
 I've mentioned a few times already that I was going to discuss what monitoring is like with [OpenWhisk](https://www.ibm.com/cloud-computing/bluemix/openwhisk) and I thought today would be a good day to finally write down my thoughts. In general, this is an area where I think OpenWhisk could use some improvement, and I'll point out where and how, but let's go over the details first.

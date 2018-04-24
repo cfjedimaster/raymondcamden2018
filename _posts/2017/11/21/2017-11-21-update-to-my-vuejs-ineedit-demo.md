@@ -5,6 +5,7 @@ date: "2017-11-21T02:11:00-07:00"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/11/21/update-to-my-vuejs-ineedit-demo
 ---
 
 A few days ago I [shared](https://www.raymondcamden.com/2017/11/16/another-vuejs-demo-ineedit/) a simple Vue.js demo for an app called INeedIt. While not a terribly a complex application, it was something fun to build just to get some practice with Vue. Before I shared that post, I let my friend [Ted Patrick](http://light.ly/) take a look at the code and he had some feedback I thought would be nice to incorporate into a second version. I've made his suggested changes and I thought I'd quickly review them here. This is version two of the app and I've already got a third version of the app to share later. Anyway, here are the changes he suggested.
@@ -25,8 +26,8 @@ The second change was more important and fixes an obvious bug in the first versi
 
 He moved the data for the component (which included a few flags, the set of services, and the location) into the global scope. So the top of my app.js now has this:
 
-<pre><code class="language-javascript">const SEARCH_API = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/googleplaces/search.json';
-const DETAIL_API = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/googleplaces/detail.json';
+<pre><code class="language-javascript">const SEARCH_API = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/googleplaces/search.json';
+const DETAIL_API = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/googleplaces/detail.json';
 
 //used for search max distance
 const RADIUS = 2000;
@@ -37,9 +38,9 @@ let model = {
 	lat:null,
 	lng:null,
 	serviceTypes:[
-		{"id":"accounting","label":"Accounting"},{"id":"airport","label":"Airport"},{"id":"amusement_park","label":"Amusement Park"},{"id":"aquarium","label":"Aquarium"},
-		{"id":"travel_agency","label":"Travel Agency"},{"id":"university","label":"University"},
-		{"id":"veterinary_care","label":"Veterinary Care"},{"id":"zoo","label":"Zoo"}
+		{% raw %}{"id":"accounting","label":"Accounting"}{% endraw %},{% raw %}{"id":"airport","label":"Airport"}{% endraw %},{% raw %}{"id":"amusement_park","label":"Amusement Park"}{% endraw %},{% raw %}{"id":"aquarium","label":"Aquarium"}{% endraw %},
+		{% raw %}{"id":"travel_agency","label":"Travel Agency"}{% endraw %},{% raw %}{"id":"university","label":"University"}{% endraw %},
+		{% raw %}{"id":"veterinary_care","label":"Veterinary Care"}{% endraw %},{% raw %}{"id":"zoo","label":"Zoo"}{% endraw %}
 	]
 };
 </code></pre>

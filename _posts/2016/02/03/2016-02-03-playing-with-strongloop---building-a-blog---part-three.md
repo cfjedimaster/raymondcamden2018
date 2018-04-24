@@ -5,6 +5,7 @@ date: "2016-02-03T13:11:00-07:00"
 categories: Development JavaScript 
 tags: StrongLoop Ionic
 banner_image: /images/banners/strongloop_ibm.png
+permalink: /2016/02/03/playing-with-strongloop-building-a-blog-part-three
 ---
 
 Welcome to the third in my series of building a (somewhat) real-world application using [StrongLoop](http://www.strongloop.com/). In the [first entry](http://www.raymondcamden.com/2016/01/05/playing-with-strongloop-building-a-blog-part-one) I built the beginnings of a simple blog engine. I defined two models (entry and category) and whipped up a quick front end for the blog. In the [last entry](http://www.raymondcamden.com/2016/01/07/playing-with-strongloop-building-a-blog-part-two/) I locked down the APIs so that unauthenticated visitors couldn't create content. Today I'm going to demonstrate an administrator for my blog. My administrator will be a desktop tool built with [Electron](http://electron.atom.io/) and [Ionic](http://www.ionicframework.com). I first [blogged](http://www.raymondcamden.com/2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron/) about mixing Ionic and Electron about six months ago. It is still rather easy and you can check out the results on the GitHub repo for this project when your done reading. (I'll include the link at the end.) 
@@ -63,13 +64,13 @@ As you can see - I simply $resource-wrapped my two main APIs - one for users and
 .controller('loginCtrl', ['$scope', '$rootScope', 'userService', '$state', '$http',
 	function($scope, $rootScope, userService, $state, $http) {
 	
-	$scope.user = {username:'raymondcamden@gmail.com',password:'password'};
+	$scope.user = {% raw %}{username:'raymondcamden@gmail.com',password:'password'}{% endraw %};
 
 	$scope.doLogin = function() {
 		if($scope.user.username === '' || $scope.user.password === '') {
 			return;
 		}
-		userService.login({email:$scope.user.username,password:$scope.user.password},function(res) {
+		userService.login({% raw %}{email:$scope.user.username,password:$scope.user.password}{% endraw %},function(res) {
 			$rootScope.authToken = res.id; // don't really need to keep it
 			$http.defaults.headers.common['Authorization'] = $rootScope.authToken;
 			$state.go('root.Home');	
@@ -87,7 +88,7 @@ First off - I'm hard coding the username and password in there just to save me o
 Listing entries is simple - I had to include the ordering argument in the controller code which *also* feels like a mistake (it should be in the service I think), but it worked well enough:
 
 <pre><code class="language-javascript">
-entryService.query({"filter[order]":"published desc"},function(res) {
+entryService.query({% raw %}{"filter[order]":"published desc"}{% endraw %},function(res) {
 	$scope.entries = res;
 }, function(e) {
 	console.log('bad '+JSON.stringify(e));			

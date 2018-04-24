@@ -5,6 +5,7 @@ date: "2017-05-19T09:02:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: 
+permalink: /2017/05/19/my-first-lynda-course-learning-ionic
 ---
 
 So this kinda snuck up on me (in terms of how quickly it got produced I mean ;), but I'm happy to announce my first course for Lynda.com (AKA LinkedIn Learning):

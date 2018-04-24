@@ -5,6 +5,7 @@ date: "2017-02-17T16:18:00-07:00"
 categories: Development 
 tags: Visual Studio Code
 banner_image: /images/banners/vsc_ext.jpg
+permalink: /2017/02/17/vs-code-extensions-mssql-and-vscode-database
 ---
 
 For today's review of [Visual Studio Code](https://code.visualstudio.com/) extensions, I looked at two related extensions that provide basic database support. In the past, when I was a heavy ColdFusion user, I was a huge fan of the database support in [ColdFusion Builder](http://www.adobe.com/products/coldfusion-builder.html). Now - CFBuilder was Eclipse-based so it was quite heavy, but I loved it's database viewer. I don't have it installed currently, but the basic feature set included being able to view all tables and structure as well as write ad hoq queries against it and see results. It supported anything ColdFusion itself supported, which had pretty good support for the RDMS world. I thought it might be useful to take a look at how well this type of feature is supported with Code.

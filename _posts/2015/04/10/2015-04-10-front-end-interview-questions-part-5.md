@@ -5,6 +5,7 @@ date: "2015-04-10T13:02:13+06:00"
 categories: Design Development HTML5 JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/04/10/front-end-interview-questions-part-5
 ---
 
 Nearly two months to the day since my last post on this series, I'm finally starting it up again. I'll blame my new job for making me forget this for a while, but hopefully I can pick up steam again and finish all these darn questions.

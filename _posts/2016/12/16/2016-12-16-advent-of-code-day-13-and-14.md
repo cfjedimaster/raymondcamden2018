@@ -5,6 +5,7 @@ date: "2016-12-16T11:33:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/16/advent-of-code-day-13-and-14
 ---
 
 Every day I fall farther and farther behind in the [Advent of Code](http://adventofcode.com/), but I figure this
@@ -223,7 +224,7 @@ let keys = [];
 for(var i=0;i&lt;999999;i++) {
     let test = input + i;
     let hash = crypto.createHash(&#x27;md5&#x27;).update(test).digest(&#x27;hex&#x27;).toLowerCase();
-    let matches5 = hash.match(&#x2F;(\w)(\1{4})&#x2F;);
+    let matches5 = hash.match(&#x2F;(\w)(\1{% raw %}{4}{% endraw %})&#x2F;);
 
     if(matches5) {
         let match = matches5[0];
@@ -255,7 +256,7 @@ for(var i=0;i&lt;999999;i++) {
     }
 
 
-    let matches = hash.match(&#x2F;(\w)(\1{2})&#x2F;);
+    let matches = hash.match(&#x2F;(\w)(\1{% raw %}{2}{% endraw %})&#x2F;);
     if(matches) {
         let match = matches[0];
         if(!threeKeys[match]) {
@@ -292,7 +293,7 @@ for(var i=0;i&lt;999999;i++) {
 &#x2F;&#x2F;    let hash = crypto.createHash(&#x27;md5&#x27;).update(test).digest(&#x27;hex&#x27;).toLowerCase();
 	let hash = makeHash(test);
 	if(i % 2000 === 0) process.stdout.write(&#x27;#&#x27;);
-    let matches5 = hash.match(&#x2F;(\w)(\1{4})&#x2F;);
+    let matches5 = hash.match(&#x2F;(\w)(\1{% raw %}{4}{% endraw %})&#x2F;);
 
     if(matches5) {
         let match = matches5[0];
@@ -325,7 +326,7 @@ for(var i=0;i&lt;999999;i++) {
     }
 
 
-    let matches = hash.match(&#x2F;(\w)(\1{2})&#x2F;);
+    let matches = hash.match(&#x2F;(\w)(\1{% raw %}{2}{% endraw %})&#x2F;);
     if(matches) {
         let match = matches[0];
         if(!threeKeys[match]) {

@@ -5,6 +5,7 @@ date: "2015-10-13T09:39:16+06:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/10/13/important-note-for-targeting-ios-emulators-in-cordova
 ---
 
 With the recent changes to iOS9, I've had to do more testing in iOS 8.4 versus 9.0 when working on Ionic/Cordova applications. It is relatively easy to switch which emulator you are using if you use the --target argument in the CLI:

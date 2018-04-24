@@ -5,6 +5,7 @@ date: "2016-01-20T09:48:27+06:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2016/01/20/what-happens-when-you-screw-up-an-ionic-deployment
 ---
 
 Last week I had the honor of presenting at the <a href="http://www.meetup.com/Ionic-NYC-Meetup/">Ionic NYC</a> meetup. While talking about the <a href="http://docs.ionic.io/docs/deploy-overview">Deploy</a> service, someone asked what would happen if you sent bad code to the deployment. I thought that was a great question and I did exactly that in front of the audience so we could all see.

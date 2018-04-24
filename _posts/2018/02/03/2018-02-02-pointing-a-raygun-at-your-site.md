@@ -5,6 +5,7 @@ date: "2018-02-03"
 categories: Development 
 tags: JavaScript
 banner_image: /images/banners/mitchel-boot-70005.jpg
+permalink: /2018/02/03/pointing-a-raygun-at-your-site
 ---
 
 For a while now I've been talking about web site error reporting tools. Basically - services that will monitor your site for client-side errors that users get when trying to browse your site. You can read a review of some of these services I did for Telerik in my article here: [

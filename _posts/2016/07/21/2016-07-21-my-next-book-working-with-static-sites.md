@@ -5,6 +5,7 @@ date: "2016-07-21T09:29:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/07/21/my-next-book-working-with-static-sites
 ---
 
 I've mentioned this a few times in passing now but never "formally" announced it. My next book, along with my good friend [Brian Rinaldi](http://www.remotesynthesis.com/), will be published by O'Reilly later this year. As you know, I've been blogging and presenting quite a bit on static sites lately, and I'm happy to say that I'm part of a team writing a new book on the topic. 

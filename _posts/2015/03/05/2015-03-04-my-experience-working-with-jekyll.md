@@ -5,6 +5,7 @@ date: "2015-03-05T09:56:11+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/03/05/my-experience-working-with-jekyll
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/03/04/hosting-static-sites-with-surge">blogged</a> about the new static-site hosting service, <a href="http://surge.sh">Surge</a>. In order to test it, I decided to rebuild <a href="http://www.javascriptcookbook.com">JavaScript Cookbook</a> as a static site. (Which, to be honest, was a silly decision. Surge takes about five minutes to use. My rewrite took about five hours. ;) I decided to give <a href="http://jekyllrb.com/">Jekyll</a> a try and I thought I'd share my thoughts about the platform. Obviously I've just built one site with it so take what I say with a grain of salt, but if you're considering setting up a static site, maybe this post will be helpful.
@@ -16,9 +17,9 @@ Jekyll, like <a href="http://harpjs.com">HarpJS</a>, is run via a command line t
 
 Once installed, you can fire up the Jekyll server from the command line and begin working. Jekyll will automatically refresh while you work so it is quick to get up and running. Speaking of testing, the command line includes an option to create a default site, simply do <code>jekyll new directoryname</code>. 
 
-At this point you can start typing away and testing the results in the browser. I'm assuming most of my readers are already familiar with why tools like this are cool, but in case you aren't, the point of a static site generator is to let you build sites in a <i>similar</i> fashion to dynamic server-side apps but with a flat, static file as the output. So as a practical matter that means I can build a template and simply use a token, like {%raw%}{{body}}{%endraw%}, that will be replaced with a page's content. I can write a page and just include the relevant data for that page and when viewed in the browser it will automatically be wrapped in the template. This isn't necessarily that special - it's 101-level PHP/ColdFusion/Node stuff - but the generator tool will spit out flat HTML files that can then be hosted on things like S3, Google Cloud, or, of course, Surge. 
+At this point you can start typing away and testing the results in the browser. I'm assuming most of my readers are already familiar with why tools like this are cool, but in case you aren't, the point of a static site generator is to let you build sites in a <i>similar</i> fashion to dynamic server-side apps but with a flat, static file as the output. So as a practical matter that means I can build a template and simply use a token, like {% raw %}{{body}{% endraw %}}, that will be replaced with a page's content. I can write a page and just include the relevant data for that page and when viewed in the browser it will automatically be wrapped in the template. This isn't necessarily that special - it's 101-level PHP/ColdFusion/Node stuff - but the generator tool will spit out flat HTML files that can then be hosted on things like S3, Google Cloud, or, of course, Surge. 
 
-For its templates, Jekyll allows for Markdown and <a href="https://github.com/Shopify/liquid/wiki">Liquid</a>. It does not support Jade, because Jade is evil and smelly and shouldn't be supported anywhere. I found Liquid to be very nice. You've got your basics (variable outputting, looping, conditionals) as well as some powerful filters too. For example, this will title case a string: {%raw%}{{ title | capitalize}}{%endraw%}. This will do truncation: {%raw%}{{ content | truncate: 200, '...' }}{%endraw%}. You can do this with EJS templates in HarpJS as well (but I didn't know that till today!). 
+For its templates, Jekyll allows for Markdown and <a href="https://github.com/Shopify/liquid/wiki">Liquid</a>. It does not support Jade, because Jade is evil and smelly and shouldn't be supported anywhere. I found Liquid to be very nice. You've got your basics (variable outputting, looping, conditionals) as well as some powerful filters too. For example, this will title case a string: {% raw %}{{ title |{% endraw %} capitalize}}. This will do truncation: {% raw %}{{ content |{% endraw %} truncate: 200, '...' }}. You can do this with EJS templates in HarpJS as well (but I didn't know that till today!). 
 
 The other big change in Jekyll is how it handles data for content. In Harp, this is separated into a file unique to a folder. In Jekyll, this is done via "front matter", basically formatted content on top of a page. Initially I preferred Harp's way, but the more I played with Jekyll the more it seemed natural to include it with the content itself. 
 
@@ -41,7 +42,7 @@ Here is a slightly more complex example, the default layout for the site. Note t
 <pre><code class="language-markup">&lt;!doctype html&gt;
 &lt;html lang=&quot;en&quot;&gt;
     &lt;head&gt;
-        &lt;title&gt;{%raw%}{{page.title}}{%endraw%}&lt;&#x2F;title&gt;
+        &lt;title&gt;{% raw %}{{page.title}{% endraw %}}&lt;&#x2F;title&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;&#x2F;css&#x2F;bootstrap.min.css&quot; type=&quot;text&#x2F;css&quot; &#x2F;&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;&#x2F;css&#x2F;app.css&quot; type=&quot;text&#x2F;css&quot; &#x2F;&gt;
     &lt;script src=&quot;&#x2F;js&#x2F;jquery-2.0.2.min.js&quot;&gt;&lt;&#x2F;script&gt;
@@ -66,9 +67,9 @@ Here is a slightly more complex example, the default layout for the site. Note t
           &lt;a class=&quot;brand&quot; href=&quot;&#x2F;&quot;&gt;JavaScript Cookbook&lt;&#x2F;a&gt;
           &lt;div class=&quot;nav-collapse&quot;&gt;
             &lt;ul class=&quot;nav&quot;&gt;
-            &lt;li {% if page.url == &#x27;&#x2F;index.html&#x27; %}class=&quot;active&quot;{% endif %}&gt;&lt;a href=&quot;&#x2F;&quot;&gt;Home&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-            &lt;li {% if page.url == &#x27;&#x2F;submit.html&#x27; %}class=&quot;active&quot;{% endif %}}&gt;&lt;a href=&quot;&#x2F;submit.html&quot;&gt;Submit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-            &lt;li {% if page.url == &#x27;&#x2F;about.html&#x27; %}class=&quot;active&quot;{% endif %}&gt;&lt;a href=&quot;&#x2F;about.html&quot;&gt;About&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+            &lt;li {% raw %}{% if page.url == &#x27;&#x2F;index.html&#x27; %{% endraw %}}class=&quot;active&quot;{% raw %}{% endif %{% endraw %}}&gt;&lt;a href=&quot;&#x2F;&quot;&gt;Home&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+            &lt;li {% raw %}{% if page.url == &#x27;&#x2F;submit.html&#x27; %{% endraw %}}class=&quot;active&quot;{% raw %}{% endif %{% endraw %}}}&gt;&lt;a href=&quot;&#x2F;submit.html&quot;&gt;Submit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+            &lt;li {% raw %}{% if page.url == &#x27;&#x2F;about.html&#x27; %{% endraw %}}class=&quot;active&quot;{% raw %}{% endif %{% endraw %}}&gt;&lt;a href=&quot;&#x2F;about.html&quot;&gt;About&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
             
             &lt;&#x2F;ul&gt;
             &lt;form class=&quot;navbar-search pull-right&quot; action=&quot;&#x2F;search.html&quot; method=&quot;get&quot;&gt;
@@ -79,13 +80,13 @@ Here is a slightly more complex example, the default layout for the site. Note t
         &lt;&#x2F;div&gt;&lt;!-- &#x2F;navbar-inner --&gt;
         &lt;&#x2F;div&gt;&lt;!-- &#x2F;navbar --&gt;
 
-        {%raw%}{{content}}{%endraw%} 
+        {% raw %}{{content}{% endraw %}} 
     
     &lt;&#x2F;div&gt;
 
 &lt;script&gt;
-  (function(i,s,o,g,r,a,m){i[&#x27;GoogleAnalyticsObject&#x27;]=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  (function(i,s,o,g,r,a,m){% raw %}{i[&#x27;GoogleAnalyticsObject&#x27;]=r;i[r]=i[r]|{% endraw %}|function(){
+  (i[r].q=i[r].q{% raw %}||[]).push(arguments)}{% endraw %},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,&#x27;script&#x27;,&#x27;&#x2F;&#x2F;www.google-analytics.com&#x2F;analytics.js&#x27;,&#x27;ga&#x27;);
 
@@ -101,13 +102,13 @@ One of the cooler aspects of Liquid is the <code>assign</code> operator. Given t
 
 <pre><code class="language-markup">&lt;h3&gt;Latest Articles&lt;&#x2F;h3&gt;
 
-{% assign sorted = (site.pages | where:&quot;layout&quot;,&quot;article&quot; | sort: &#x27;published&#x27; | reverse) %}
+{% raw %}{% assign sorted = (site.pages |{% endraw %} where:&quot;layout&quot;,&quot;article&quot; {% raw %}| sort: &#x27;published&#x27; |{% endraw %} reverse) %}
 
-{% for page in sorted limit:5 %}
+{% raw %}{% for page in sorted limit:5 %{% endraw %}}
     &lt;p&gt;
-    &lt;a href=&quot;{%raw%}{{page.dir}}{%endraw%}&quot;&gt;{%raw%}{{page.title}}{%endraw%}&lt;&#x2F;a&gt; - {%raw%}{{page.published | date: &quot;%-m&#x2F;%-d&#x2F;%y at %I:%M&quot; }}{%endraw%}
+    &lt;a href=&quot;{% raw %}{{page.dir}{% endraw %}}&quot;&gt;{% raw %}{{page.title}{% endraw %}}&lt;&#x2F;a&gt; - {% raw %}{{page.published |{% endraw %} date: &quot;{% raw %}%-m&#x2F;%{% endraw %}-d&#x2F;{% raw %}%y at %{% endraw %}I:{% raw %}%M&quot; }{% endraw %}}
     &lt;&#x2F;p&gt;
-{% endfor %}</code></pre>
+{% raw %}{% endfor %{% endraw %}}</code></pre>
 
 Like I said, that <code>assign</code> command just makes me happy all over. 
 
@@ -180,11 +181,11 @@ With Jekyll, I can use a plugin to create a generator. This will run on server s
 
       #create unique array of tags
       unique_tags = {}
-      site.pages.each do |page|
+      site.pages.each do {% raw %}|page|{% endraw %}
         if page.data.key? &#x27;layout&#x27; and page.data[&quot;layout&quot;] == &#x27;article&#x27; 
           #print page.data
           #print &quot;\n&quot;
-          page.data[&quot;tags&quot;].each do |tag|
+          page.data[&quot;tags&quot;].each do {% raw %}|tag|{% endraw %}
             if !unique_tags.include?(tag)
               unique_tags[tag] = []
             end
@@ -197,7 +198,7 @@ With Jekyll, I can use a plugin to create a generator. This will run on server s
       #print &quot;unique tags: &quot;+unique_tags.keys.join(&quot;,&quot;) + &quot;\n&quot;
 
       #create page for each
-      unique_tags.keys.each do |tag|
+      unique_tags.keys.each do {% raw %}|tag|{% endraw %}
         site.pages &lt;&lt; TagPage.new(site, site.source, File.join(dir, tag), tag, unique_tags[tag])
       end
 
@@ -218,10 +219,10 @@ Another example of plugin support is adding your own tags. I needed a way to gen
 
     def render(context)
       tags = []
-      context.registers[:site].pages.each do |page| 
+      context.registers[:site].pages.each do {% raw %}|page|{% endraw %} 
         if page.data.key?&#x27;layout&#x27; and page.data[&quot;layout&quot;] == &#x27;article&#x27;
           if page.data.key?&#x27;tags&#x27;
-            page.data[&quot;tags&quot;].each do |tag|
+            page.data[&quot;tags&quot;].each do {% raw %}|tag|{% endraw %}
               if !tags.include?tag
                 tags.push(tag)
               end
@@ -232,7 +233,7 @@ Another example of plugin support is adding your own tags. I needed a way to gen
       tags = tags.sort
       #now output list
       s = &quot;&quot;
-      tags.each do |tag|
+      tags.each do {% raw %}|tag|{% endraw %}
         s += &quot;&lt;li&gt;&lt;a href=&#x27;&#x2F;tag&#x2F;&quot; + tag + &quot;&#x27;&gt;&quot; + tag + &quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;&quot;
       end
       return s

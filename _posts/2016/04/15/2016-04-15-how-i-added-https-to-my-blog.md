@@ -5,6 +5,7 @@ date: "2016-04-15T08:15:00-07:00"
 categories: Uncategorized 
 tags: 
 banner_image: /images/banners/addinghttps.jpg
+permalink: /2016/04/15/how-i-added-https-to-my-blog
 ---
 
 Hopefully you noticed the nice little green icon in the URL bar above:

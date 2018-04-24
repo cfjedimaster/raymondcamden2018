@@ -5,6 +5,7 @@ date: "2016-04-06T08:19:00-07:00"
 categories: Development 
 tags: 
 banner_image: /images/banners/learning_header.jpg
+permalink: /2016/04/06/articles-on-tdn-and-strongloopcom
 ---
 
 Just a quick note to share that I've been published again on the [Telerik Developer Network](http://developer.telerik.com). My latest article discusses learning JavaScript by "playing", or writing short bits of code, versus traditional book or classroom learning. 

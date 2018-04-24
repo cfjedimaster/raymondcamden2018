@@ -5,6 +5,7 @@ date: "2015-03-02T14:28:40+06:00"
 categories: Development 
 tags: bluemix
 banner_image: 
+permalink: /2015/03/02/hosting-node-js-apps-on-bluemix
 ---
 
 One of the biggest issues I had when learning Node.js was how to take an application into production. Luckily theres multiple options to make this easier, including <a href="https://console.ng.bluemix.net/home">IBM Bluemix</a>, a service I've been playing with over the past few weeks. In this post, I'm going to briefly describe what it takes to set up a new Node.js app on Bluemix as well as what it is like to migrate an existing site there.

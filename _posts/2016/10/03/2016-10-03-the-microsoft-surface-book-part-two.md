@@ -5,6 +5,7 @@ date: "2016-10-03T09:09:00-07:00"
 categories: Development 
 tags: windows
 banner_image: /images/banners/win10a.jpg
+permalink: /2016/10/03/the-microsoft-surface-book-part-two
 ---
 
 Last week I wrote up my first thoughts on the Surface Book ([The Microsoft Surface Book - Part One](https://www.raymondcamden.com/2016/09/26/the-microsoft-surface-book-part-one/)) and today I'm going to share more of my thoughts - this time more focused on Windows. I suppose I should change the title of the blog post as this is less about the hardware and more about the OS, but as I'm exploring all of this on the SB, I figure I'd keep up the theme at least. Also, I'll be talking a bit about hardware as well (external hardware) so it won't be all software based. Note - I'm going to avoid talking about anything really developer related until my next post. 

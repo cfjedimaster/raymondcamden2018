@@ -5,6 +5,7 @@ date: "2015-03-13T12:24:22+06:00"
 categories: Development JavaScript Mobile 
 tags: 
 banner_image: 
+permalink: /2015/03/13/testing-metacerts-security-api-service
 ---
 
 Earlier this week I was contacted by folks at <a href="https://metacert.com/">MetaCert</a>. They provide an API that performs URL reputation checking. Basically, given a URL, it can report on possible issues with the content at that URL. Desktop browsers can help block URLs that lead to known malware (or other dangerous) sites, but mobile browsers don't typically have that protection. Heck, you can't even typically <i>see</i> the URL of a link when viewing web-based content in mobile apps. MetaCert's API lets you check a URL and then determine if it should be blocked. 
@@ -39,8 +40,8 @@ I then implemented a basic form submit handler in my controller.
 			
 			&#x2F;&#x2F;now do the API call
 			var conf = {};
-			conf.headers = {&quot;apikey&quot;:$scope.apiKey};
-			var body = {&quot;url&quot;:$scope.homepage};
+			conf.headers = {% raw %}{&quot;apikey&quot;:$scope.apiKey}{% endraw %};
+			var body = {% raw %}{&quot;url&quot;:$scope.homepage}{% endraw %};
 			var resp = $http.post(&#x27;https:&#x2F;&#x2F;dev.metacert.com&#x2F;v4&#x2F;check&#x2F;&#x27;,body,conf);
 
 			resp.success(function(result) {

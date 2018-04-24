@@ -5,6 +5,7 @@ date: "2017-06-21T12:35:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/06/21/update-on-my-random-comic-book-character-api
 ---
 
 So today's post isn't necessarily that interesting - but I try to live by the rule of blogging everything that causes me trouble. Earlier this week I [blogged](https://www.raymondcamden.com/2017/06/19/serverless-demo-random-comic-book-character-via-comic-vine-api/) about creating a "Random Comic Book Character" API. In the post, I ended with a simple HTML demo that displayed a random character on page load. Initially my plan had been to send an email every day with the character but I decided against that as I figured it would be too much trouble. Today I obviously decided I must like trouble as I went ahead and did it. And yes, it went as well as you can imagine.
@@ -66,7 +67,7 @@ function main(args) {
 		if(char.character_friends.length) {
 			friendsTemplate = `&lt;h2 style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;Friends&lt;&#x2F;h2&gt;&lt;ul&gt;`;
 			char.character_friends.forEach((friend) =&gt; {
-				friendsTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${friend.site_detail_url}&quot;&gt;${friend.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+				friendsTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${% raw %}{friend.site_detail_url}{% endraw %}&quot;&gt;${% raw %}{friend.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 			});
 			friendsTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 		} 
@@ -74,7 +75,7 @@ function main(args) {
 		if(char.character_enemies.length) {
 			enemiesTemplate = `&lt;h2 style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;Enemies&lt;&#x2F;h2&gt;&lt;ul&gt;`;
 			char.character_enemies.forEach((enemy) =&gt; {
-				enemiesTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${enemy.site_detail_url}&quot; target=&quot;_new&quot;&gt;${enemy.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+				enemiesTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${% raw %}{enemy.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{enemy.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 			});
 			enemiesTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 		} 
@@ -82,7 +83,7 @@ function main(args) {
 		if(char.powers.length) {
 			powersTemplate = `&lt;h2 style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;Powers&lt;&#x2F;h2&gt;&lt;ul&gt;`;
 			char.powers.forEach((power) =&gt; {
-				powersTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;${power.name}&lt;&#x2F;li&gt;`;
+				powersTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;${% raw %}{power.name}{% endraw %}&lt;&#x2F;li&gt;`;
 			});
 			powersTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 		} 
@@ -90,7 +91,7 @@ function main(args) {
 		if(char.teams.length) {
 			teamsTemplate = `&lt;h2 style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;Teams&lt;&#x2F;h2&gt;&lt;ul&gt;`;
 			char.teams.forEach((team) =&gt; {
-				teamsTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${team.site_detail_url}&quot; target=&quot;_new&quot;&gt;${team.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+				teamsTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${% raw %}{team.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{team.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 			});
 			teamsTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 		} 
@@ -98,7 +99,7 @@ function main(args) {
 		if(char.creators.length) {
 			creatorsTemplate = `&lt;h2 style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;Creators&lt;&#x2F;h2&gt;&lt;ul&gt;`;
 			char.creators.forEach((creator) =&gt; {
-				creatorsTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${creator.site_detail_url}&quot; target=&quot;_new&quot;&gt;${creator.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+				creatorsTemplate += `&lt;li style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;&lt;a href=&quot;${% raw %}{creator.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{creator.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 			});
 			creatorsTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 		} 
@@ -111,20 +112,20 @@ function main(args) {
 		&lt;&#x2F;head&gt;
 		&lt;body style=&quot;background-color: #ffeb3b;padding: 10px&quot;&gt;
 
-		&lt;h1 style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;${char.name}&lt;&#x2F;h1&gt;
+		&lt;h1 style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;${% raw %}{char.name}{% endraw %}&lt;&#x2F;h1&gt;
 		&lt;p style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;
-			&lt;strong&gt;Publisher:&lt;&#x2F;strong&gt; ${publisher}&lt;br&#x2F;&gt;
-			&lt;strong&gt;First Issue:&lt;&#x2F;strong&gt; &lt;a href=&quot;${char.first_issue.site_detail_url}&quot; target=&quot;_new&quot;&gt;${char.first_issue.volume.name} ${char.first_issue.issue_number} (${char.first_issue.cover_date})&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
+			&lt;strong&gt;Publisher:&lt;&#x2F;strong&gt; ${% raw %}{publisher}{% endraw %}&lt;br&#x2F;&gt;
+			&lt;strong&gt;First Issue:&lt;&#x2F;strong&gt; &lt;a href=&quot;${% raw %}{char.first_issue.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{char.first_issue.volume.name}{% endraw %} ${% raw %}{char.first_issue.issue_number}{% endraw %} (${% raw %}{char.first_issue.cover_date}{% endraw %})&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
 		&lt;&#x2F;p&gt;
 
-		&lt;a href=&quot;${char.site_detail_url}&quot; target=&quot;_new&quot;&gt;&lt;img style=&quot;max-width:500px&quot; title=&quot;Character Image&quot; src=&quot;${image}&quot;&gt;&lt;&#x2F;a&gt;
-		&lt;p style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;${char.description}&lt;&#x2F;p&gt;
+		&lt;a href=&quot;${% raw %}{char.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;&lt;img style=&quot;max-width:500px&quot; title=&quot;Character Image&quot; src=&quot;${% raw %}{image}{% endraw %}&quot;&gt;&lt;&#x2F;a&gt;
+		&lt;p style=&quot;font-family: &#x27;Banger&#x27;, cursive;&quot;&gt;${% raw %}{char.description}{% endraw %}&lt;&#x2F;p&gt;
 
-		${creatorsTemplate}
-		${powersTemplate}
-		${teamsTemplate}
-		${friendsTemplate}
-		${enemiesTemplate}
+		${% raw %}{creatorsTemplate}{% endraw %}
+		${% raw %}{powersTemplate}{% endraw %}
+		${% raw %}{teamsTemplate}{% endraw %}
+		${% raw %}{friendsTemplate}{% endraw %}
+		${% raw %}{enemiesTemplate}{% endraw %}
 
 		&lt;&#x2F;body&gt;
 		&lt;&#x2F;html&gt;
@@ -144,10 +145,10 @@ function main(args) {
 		sg.API(request, function(error, response) {
 			if(error) {
 				console.log(&#x27;error in sg&#x27;, error.response.body);
-				reject({error:error.message}) 
+				reject({% raw %}{error:error.message}{% endraw %}) 
 			} else {
 				console.log(&#x27;it should be well&#x27;);
-				resolve({success:1});
+				resolve({% raw %}{success:1}{% endraw %});
 			}
 		});
 

@@ -5,6 +5,7 @@ date: "2016-02-22T10:42:00-07:00"
 categories: Development JavaScript 
 tags: 
 banner_image: /images/banners/comicbooks.jpg
+permalink: /2016/02/22/building-a-twitter-bot-to-display-random-comic-book-covers
 ---
 
 A bit over two years ago I played around with the (then) recently released [Marvel API](http://developer.marvel.com/) to build some [cool demos](http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API/). The end result of that experiment was a simple web app that randomly displayed a Marvel comic book cover every minute: 
@@ -65,11 +66,11 @@ function tweetRandomCover() {
 		
 		console.log(&#x27;Now going to fetch the image link.&#x27;);
 
-		request.get({url:res.url,encoding:null}, function(err, response, body) {
+		request.get({% raw %}{url:res.url,encoding:null}{% endraw %}, function(err, response, body) {
 			if(!err &amp;&amp; response.statusCode === 200) {
 				console.log(&#x27;Image copied to RAM&#x27;);
 
-				client.post(&#x27;media&#x2F;upload&#x27;, {media: body}, function(error, media, response) {
+				client.post(&#x27;media&#x2F;upload&#x27;, {% raw %}{media: body}{% endraw %}, function(error, media, response) {
 
 					if(error) {
 						console.error(&#x27;Error from media&#x2F;upload: &#x27;+error);

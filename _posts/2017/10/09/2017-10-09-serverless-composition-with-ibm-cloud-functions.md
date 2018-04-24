@@ -5,6 +5,7 @@ date: "2017-10-09T13:44:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/10/09/serverless-composition-with-ibm-cloud-functions
 ---
 
 Today IBM [announced](https://ibm.biz/serverless-research) a very important update to IBM Cloud Functions and OpenWhisk. This is a pretty huge update and is incredibly important for folks doing serverless with OpenWhisk on the IBM Cloud platform. I'm going to do my best to explain what these updates are and why I'm excited about them. As I said, this is a big update. So today I just want to give you my take on things and later on, I've got a set of examples to share that may help make things easier to understand. 
@@ -24,21 +25,21 @@ I have to admit - your first few attempts with this will be a bit difficult at f
 So what does it look like? Consider a simple sequence of two actions. The first, simply capitalizes text:
 
 <pre><code class="language-javascript">function main(args) {	
-	return {output:args.input.toUpperCase()};
+	return {% raw %}{output:args.input.toUpperCase()}{% endraw %};
 }
 </code></pre>
 
 The next action reverses text:
 
 <pre><code class="language-javascript">function main(args) {
-	return {output:args.input.split('').reverse().join('')};
+	return {% raw %}{output:args.input.split('').reverse().join('')}{% endraw %};
 }
 </code></pre>
 
 If I wanted to join these two in a sequence, I'd have to map the result of the first one (output) to a new name, input, like so:
 
 <pre><code class="language-javascript">function main(args) {
-	return { input:args.output};
+	return {% raw %}{ input:args.output}{% endraw %};
 }
 </code></pre>
 
@@ -46,7 +47,7 @@ That's not the end of the world, and it's easy to do, but let's consider this:
 
 <pre><code class="language-javascript">composer.sequence(
 	'fsh1/reverse',
-	args =&gt; ({input: args.output}),
+	args =&gt; ({% raw %}{input: args.output}{% endraw %}),
 	'fsh1/cap'
 );
 </code></pre>
@@ -57,7 +58,7 @@ The `composer` object has multiple methods supporting different types of logic. 
 
 <pre><code class="language-javascript">composer.sequence(
 	'fsh1/random',
-	composer.if(({chosen})=&gt; chosen &gt; 5, 'fsh1/decorateResult')
+	composer.if(({% raw %}{chosen}{% endraw %})=&gt; chosen &gt; 5, 'fsh1/decorateResult')
 );
 </code></pre>
 

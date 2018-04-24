@@ -5,6 +5,7 @@ date: "2016-05-10T13:21:00-07:00"
 categories: JavaScript Development 
 tags: 
 banner_image: 
+permalink: /2016/05/10/uploading-multiple-files-at-once-with-fetch
 ---
 
 So, my last couple of posts ([Uploading multiple files at once with Ajax and XHR2](https://www.raymondcamden.com/2016/05/05/uploading-multiple-files-at-once-with-ajax-and-xhr2) and [Uploading multiple files at once - for Cordova](https://www.raymondcamden.com/2016/05/06/uploading-multiple-files-at-once-for-cordova)) have both discussed a similar idea - using JavaScript and XHR2 to create POST operations with multiple files. As I mentioned in the first post, XHR2 (really just XHR) represented an updated version of the original XHR spec. What you may not be aware of is that there is another (because, well, JavaScript) API that aims to both improve basic HTTP operations as well as working with other new tech like Service Workers. 

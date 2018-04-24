@@ -5,6 +5,7 @@ date: "2015-05-29T08:30:53+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/05/29/finding-the-owner-of-a-file-with-coldfusion
 ---
 
 A reader asked me last night if it was possible to find the owner of a file using ColdFusion. You may think <a href="https://wikidocs.adobe.com/wiki/display/coldfusionen/GetFileInfo">getFileInfo</a> would return this but it does not. Luckily it is relatively simple to get to it from Java.

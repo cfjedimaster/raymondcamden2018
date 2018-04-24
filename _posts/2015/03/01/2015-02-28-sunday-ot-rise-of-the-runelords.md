@@ -5,6 +5,7 @@ date: "2015-03-01T08:44:36+06:00"
 categories: Games 
 tags: 
 banner_image: 
+permalink: /2015/03/01/sunday-ot-rise-of-the-runelords
 ---
 
 <iframe style="width:120px;height:240px;float:left;margin-right:10px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=raymondcamden-20&marketplace=amazon&region=US&placement=1601255500&asins=1601255500&linkId=DLA5R4D6RXHB5ELF&show_border=true&link_opens_in_new_window=false">

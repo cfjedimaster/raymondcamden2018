@@ -5,6 +5,7 @@ date: "2018-04-18"
 categories: Development 
 tags: azure
 banner_image: /images/banners/azure.jpg
+permalink: /2018/04/18/til-pushing-node-apps-to-azure-with-visual-studio-code
 ---
 
 I've been playing, off and on, with Microsoft Azure for a while now. My main focus has been on the services areas (see my [post](https://www.raymondcamden.com/2017/06/15/testing-multiple-image-recognition-services-at-once/) comparing different visual recognition services) but I was also curious to see how well it worked as a PaaS for Node apps. About two or three months ago I tried to push a simple [LoopBack](https://loopback.io/) app up and I was not successful. I put the blame on me for not reading the docs well, but it wasn't a good experience. About a week or so ago I was talking to a Microsoft employee about deployment in general and when I mentioned my last experience, he pointed me to this great tutorial:

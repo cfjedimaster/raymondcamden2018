@@ -5,6 +5,7 @@ date: "2016-09-12T17:06:00-07:00"
 categories: Development Mobile 
 tags: 
 banner_image: 
+permalink: /2016/09/12/fixing-browser-has-stopped-errors-in-the-android-simulator
 ---
 
 Before I begin, I want to point out that I encountered this issue both in the "regular" Android simulator (which I don't recommend) and in [Genymotion](https://www.genymotion.com/) (which I *strongly* recommend). The fix came courtesy of [Julien Bolard](https://twitter.com/JulienBolard), an employee of Genymotion. I'm just blogging it to help spread the word in case others run into the issue as well.

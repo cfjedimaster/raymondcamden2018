@@ -5,6 +5,7 @@ date: "2017-05-09T10:54:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/05/09/enabling-cors-for-an-openwhisk-action
 ---
 
 A few weeks ago I blogged about how to [enable CORS for OpenWhisk Web Actions](https://www.raymondcamden.com/2017/04/18/enabling-cors-for-an-openwhisk-web-action). In case you aren't aware, CORS is the standard way to allow client-side web applications to access your APIs. (JSON/P, an older method, still works, but CORS is really what you should use.) If you read the post, then you know it isn't too difficult at all, but I wanted to share another way of doing that's even easier.

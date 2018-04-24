@@ -5,6 +5,7 @@ date: "2017-11-20T01:16:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/11/20/two-quick-openwhiskibm-cloud-functions-updates
 ---
 
 It's going to be a slow holiday week for me but I thought I'd share two interesting updates to OpenWhisk/IBM Cloud Functions that will be useful to developers. As a reminder, the `wsk` CLI does *not* prompt you to update when it is out of date. Read my [guide](https://www.raymondcamden.com/2017/04/25/updating-your-openwhisk-cli/) for help on how to check and update your CLI. Ok, so what changed?
@@ -19,7 +20,7 @@ The first change isn't huge, but is real useful for me. Previously when you fetc
 "cron": "0 */3 * * *",
 "name": "randomcomicbook_trigger",
 "namespace": "rcamden@us.ibm.com_My Space",
-"payload": {"payload": ""}
+"payload": {% raw %}{"payload": ""}{% endraw %}
 }
 </code></pre>
 

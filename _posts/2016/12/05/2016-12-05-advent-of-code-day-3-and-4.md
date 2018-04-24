@@ -5,6 +5,7 @@ date: "2016-12-05T09:22:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/05/advent-of-code-day-3-and-4
 ---
 
 Only 5 days into [Advent of Code](http://adventofcode.com/) and already this thing is kicking my rear. Both challenges over the weekend were (mostly) simply, but I'm already having trouble keeping up. This is a good thing though. I'm still absolutely loving the hell out of these challenges!
@@ -23,7 +24,7 @@ var triangles = 0;
 
 shapes.forEach(function(shape) {
     shape = shape.trim();
-    shape = shape.replace(&#x2F; {2,}&#x2F;g, &quot; &quot;);
+    shape = shape.replace(&#x2F; {% raw %}{2,}{% endraw %}&#x2F;g, &quot; &quot;);
     let sizes = shape.split(&#x27; &#x27;);
     let sidea = Number(sizes[0]);
     let sideb = Number(sizes[1]);
@@ -61,7 +62,7 @@ let colC = [];
 
 lines.forEach(function(line) {
     line = line.trim();
-    line = line.replace(&#x2F; {2,}&#x2F;g, &quot; &quot;);
+    line = line.replace(&#x2F; {% raw %}{2,}{% endraw %}&#x2F;g, &quot; &quot;);
     let inputs = line.split(&#x27; &#x27;);
     colA.push(inputs[0]); colB.push(inputs[1]); colC.push(inputs[2]);
 });
@@ -70,7 +71,7 @@ lines.forEach(function(line) {
 function makeShapes(inp) {
     let results = [];
     for(var i=0;i&lt;inp.length;i+=3) {
-        results.push({sidea:Number(inp[i]), sideb:Number(inp[i+1]), sidec:Number(inp[i+2])});
+        results.push({% raw %}{sidea:Number(inp[i]), sideb:Number(inp[i+1]), sidec:Number(inp[i+2])}{% endraw %});
     }
     return results;
 }
@@ -149,11 +150,11 @@ function validRoom(str) {
     for(var i=0;i&lt;room.length;i++) {
         var char = room.substr(i,1);
         if(char === &#x27;-&#x27;) continue;
-        var curr = chars.findIndex(function(x) { return x.letter === char; });
+        var curr = chars.findIndex(function(x) {% raw %}{ return x.letter === char; }{% endraw %});
         if(curr != -1) {
             chars[curr].size++;
         } else {
-            chars.push({letter:char, size:1});
+            chars.push({% raw %}{letter:char, size:1}{% endraw %});
         }
     }
 

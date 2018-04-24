@@ -5,6 +5,7 @@ date: "2017-04-07T12:56:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/from_actions_to_seq.jpg
+permalink: /2017/04/07/from-actions-to-sequences-to-services
 ---
 
 I've been thinking a lot this week about [OpenWhisk](https://developer.ibm.com/openwhisk/) and sequences, and more precisely, how serverless in general can help development by letting you put various actions together to form new ones. Much like how Legos can be broken apart and put together in new configurations, I'm getting really excited the possibilities of serverless actions when they are chained together.

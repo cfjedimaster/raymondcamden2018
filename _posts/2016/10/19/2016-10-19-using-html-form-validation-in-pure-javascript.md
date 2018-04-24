@@ -5,6 +5,7 @@ date: "2016-10-19T08:11:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/10/19/using-html-form-validation-in-pure-javascript
 ---
 
 I'm a big fan of <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation">HTML form validation</a> because it replaces JavaScript code I've been writing for nearly twenty years. Unfortunately it still <a href="http://caniuse.com/#feat=form-validation">isn't supported</a> in Safari (don't get me started on Apple and their priorities when it comes to the web), but I love the idea of being able to do stuff in HTML itself. In fact, a site recently launched that demonstrates many examples of this: <a href="http://youmightnotneedjs.com/">You Might Not Need JavaScript</a>. If you haven't checked it out, definitely give it a read. It is a great example of how HTML, and CSS, can replace JavaScript snippets we've used over the years.

@@ -5,6 +5,7 @@ date: "2016-08-02T13:42:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2016/08/02/working-with-ionic-native-using-the-diagnostics-plugin
 ---
 
 Ionic Native is a set of wrappers for various Cordova plugins that make them easier to work with in Ionic 2 applications. These wrappers cover the core plugins (Camera, File, etc) but also a subset of other popular plugins. One of the cool things I found while going through the [docs](http://ionicframework.com/docs/v2/native/) was that they supported plugins I had never even heard of. (And you should keep that in mind - even if you have no plans on using Ionic 2 or heck, even Ionic, these plugins that Ionic Native wrap are available for *any* Cordova application.)
@@ -42,7 +43,7 @@ I created a super simple Ionic V2 application to work with the camera and photo 
 &lt;ion-content padding&gt;
 
 
-  &lt;img src=&quot;{%raw%}{{img}}{%endraw%}&quot; *ngIf=&quot;img !== ''&quot;&gt;
+  &lt;img src=&quot;{% raw %}{{img}{% endraw %}}&quot; *ngIf=&quot;img !== ''&quot;&gt;
 
   &lt;button block primary (click)=&quot;getPic('take')&quot;&gt;Take Picture&lt;/button&gt;
   &lt;button block primary (click)=&quot;getPic('select')&quot;&gt;Select Picture&lt;/button&gt;
@@ -53,10 +54,10 @@ I created a super simple Ionic V2 application to work with the camera and photo 
 On the back end, I've got a simple method that makes use of Ionic Native wrapper for Camera:
 
 <pre><code class="language-javascript">
-import {Component} from '@angular/core';
-import {NavController} from 'ionic-angular';
-import {Camera} from 'ionic-native';
-import {CameraOptions} from 'ionic-native';
+import {% raw %}{Component}{% endraw %} from '@angular/core';
+import {% raw %}{NavController}{% endraw %} from 'ionic-angular';
+import {% raw %}{Camera}{% endraw %} from 'ionic-native';
+import {% raw %}{CameraOptions}{% endraw %} from 'ionic-native';
 
 @Component({
   templateUrl: 'build/pages/home/home.html'
@@ -103,11 +104,11 @@ The first thing I did was modify the button itself:
 And here is the updated code:
 
 <pre><code class="language-javascript">
-import {Component} from '@angular/core';
-import {NavController,Platform} from 'ionic-angular';
-import {Camera} from 'ionic-native';
-import {CameraOptions} from 'ionic-native';
-import {Diagnostic} from 'ionic-native';
+import {% raw %}{Component}{% endraw %} from '@angular/core';
+import {% raw %}{NavController,Platform}{% endraw %} from 'ionic-angular';
+import {% raw %}{Camera}{% endraw %} from 'ionic-native';
+import {% raw %}{CameraOptions}{% endraw %} from 'ionic-native';
+import {% raw %}{Diagnostic}{% endraw %} from 'ionic-native';
 
 @Component({
   templateUrl: 'build/pages/home/home.html'

@@ -5,6 +5,7 @@ date: "2016-08-04T11:11:00-07:00"
 categories: Static Sites 
 tags: 
 banner_image: 
+permalink: /2016/08/04/excellent-overview-of-static-sites
 ---
 
 As folks know, I've been *really* into the concept of static sites the past few years. I've given numerous presentations on the topic, I turned my blog into a static site, and I'm working on a [book](https://www.raymondcamden.com/2016/07/21/my-next-book-working-with-static-sites/) on the topic right now. When speaking about static sites, I generally focus on the technology behind them. Today I watched an incredibly good video by Phil Hawksworth:

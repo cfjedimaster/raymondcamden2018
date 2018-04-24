@@ -5,6 +5,7 @@ date: "2017-09-17T15:35:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2017/09/17/microsofts-edge-web-summit-2017
 ---
 
 This past week I spent a few days in Seattle for my first [Edge Web Summit](https://summit.microsoftedge.com/). I was also invited to spend a day extra for some discussions with various teams at Microsoft involved with the web and engineering in general. I'd like to share some thoughts about the event and Microsoft's web efforts in general. If you are ignoring Edge as a browser, you are definitely making a mistake, and even outside of that, Microsoft's efforts here should be of interest to developers across the board. 

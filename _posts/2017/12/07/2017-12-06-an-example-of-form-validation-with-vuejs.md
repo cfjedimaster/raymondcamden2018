@@ -5,6 +5,7 @@ date: "2017-12-07"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/12/07/an-example-of-form-validation-with-vuejs
 ---
 
 I was a bit torn about today's blog post. When it comes to form validation, I'm a huge fan of validating via HTML attributes. In fact, I just ran across a great post today on the subject by Dave Rupert, ["Happier HTML5 Form Validation"](https://daverupert.com/2017/11/happier-html5-forms/?utm_source=frontendfocus&utm_medium=email). However, I know folks have issues with HTML validation, and it doesn't cover every use case, and finally, I thought it would just be plain good practice for me to write up a few quick examples. With that in mind, let's get started.
@@ -19,7 +20,7 @@ For my first example, I wanted something as simple as possible. Given a form of 
   &lt;p v-if=&quot;errors.length&quot;&gt;
     &lt;b&gt;Please correct the following error(s):&lt;/b&gt;
     &lt;ul&gt;
-      &lt;li v-for=&quot;error in errors&quot;&gt;{%raw%}{{ error }}{%endraw%}&lt;/li&gt;
+      &lt;li v-for=&quot;error in errors&quot;&gt;{% raw %}{{ error }{% endraw %}}&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
   
@@ -90,7 +91,7 @@ For the second example, I switched the second text field (age) to email and deci
   &lt;p v-if=&quot;errors.length&quot;&gt;
     &lt;b&gt;Please correct the following error(s):&lt;/b&gt;
     &lt;ul&gt;
-      &lt;li v-for=&quot;error in errors&quot;&gt;{%raw%}{{ error }}{%endraw%}&lt;/li&gt;
+      &lt;li v-for=&quot;error in errors&quot;&gt;{% raw %}{{ error }{% endraw %}}&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
   
@@ -143,7 +144,7 @@ While the change here is small, note the `novalidate="true"` on top. This is imp
       e.preventDefault();
     },
     validEmail:function(email) {
-      var re = /^(([^&lt;&gt;()\[\]\\.,;:\s@&quot;]+(\.[^&lt;&gt;()\[\]\\.,;:\s@&quot;]+)*)|(&quot;.+&quot;))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+      var re = /^(([^&lt;&gt;()\[\]\\.,;:\s@&quot;]+(\.[^&lt;&gt;()\[\]\\.,;:\s@&quot;]+)*){% raw %}|(&quot;.+&quot;))@((\[[0-9]{1,3}{% endraw %}\.[0-9]{% raw %}{1,3}{% endraw %}\.[0-9]{% raw %}{1,3}{% endraw %}\.[0-9]{% raw %}{1,3}{% endraw %}\]){% raw %}|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}{% endraw %}))$/;
     return re.test(email);
     }
   }
@@ -167,7 +168,7 @@ For the third example, I built something you've probably seen in survey apps. I'
   &lt;p v-if=&quot;errors.length&quot;&gt;
     &lt;b&gt;Please correct the following error(s):&lt;/b&gt;
     &lt;ul&gt;
-      &lt;li v-for=&quot;error in errors&quot;&gt;{%raw%}{{ error }}{%endraw%}&lt;/li&gt;
+      &lt;li v-for=&quot;error in errors&quot;&gt;{% raw %}{{ error }{% endraw %}}&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
 
@@ -186,7 +187,7 @@ For the third example, I built something you've probably seen in survey apps. I'
   &lt;/p&gt;
 
   &lt;p&gt;
-    Current Total: {%raw%}{{total}}{%endraw%}
+    Current Total: {% raw %}{{total}{% endraw %}}
   &lt;/p&gt;
 
   &lt;p&gt;
@@ -244,8 +245,8 @@ In my final examlpe, I built something that made use of Ajax to validate at the 
 
         // bad product names: vista,empire,mbp
         let badNames = ['vista','empire','mbp'];
-        if(badNames.includes(args.name)) reject({error:'Existing product'});
-        resolve({status:'ok'});
+        if(badNames.includes(args.name)) reject({% raw %}{error:'Existing product'}{% endraw %});
+        resolve({% raw %}{status:'ok'}{% endraw %});
 
     });
 
@@ -259,7 +260,7 @@ Basically any name but "vista", "empire", and "mbp" are acceptable. Ok, so let's
   &lt;p v-if=&quot;errors.length&quot;&gt;
     &lt;b&gt;Please correct the following error(s):&lt;/b&gt;
     &lt;ul&gt;
-      &lt;li v-for=&quot;error in errors&quot;&gt;{%raw%}{{ error }}{%endraw%}&lt;/li&gt;
+      &lt;li v-for=&quot;error in errors&quot;&gt;{% raw %}{{ error }{% endraw %}}&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
 
@@ -277,7 +278,7 @@ Basically any name but "vista", "empire", and "mbp" are acceptable. Ok, so let's
 
 There isn't anything special here. So let's go on to the JavaScript.
 
-<pre><code class="language-javascript">const apiUrl = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/safeToDelete/productName.json?name=';
+<pre><code class="language-javascript">const apiUrl = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/safeToDelete/productName.json?name=';
 
 const app = new Vue({
   el:'#app',

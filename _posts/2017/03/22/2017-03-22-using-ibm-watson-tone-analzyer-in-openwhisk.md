@@ -5,6 +5,7 @@ date: "2017-03-22T16:34:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/03/22/using-ibm-watson-tone-analzyer-in-openwhisk
 ---
 
 Earlier today I decided to write up a quick wrapper to the [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html) using [OpenWhisk](https://developer.ibm.com/openwhisk/). It ended up being so incredibly trivial I doubted it made sense to even blog about it, but then I realized - this is part of what makes OpenWhisk, and serverless, so incredible. 
@@ -24,7 +25,7 @@ function main(args) {
 
     return new Promise( (resolve, reject) =&gt; {
 
-        tone_analyzer.tone({text:args.text}, (err, tone) =&gt; {
+        tone_analyzer.tone({% raw %}{text:args.text}{% endraw %}, (err, tone) =&gt; {
             if(err) return reject(err);
             return resolve(tone);
         });

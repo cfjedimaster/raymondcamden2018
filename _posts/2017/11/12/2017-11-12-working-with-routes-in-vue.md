@@ -5,6 +5,7 @@ date: "2017-11-12T11:57:00-07:00"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/11/12/working-with-routes-in-vue
 ---
 
 <strong>Warning - as I've made clear, I'm in the process of learning [Vue.js](https://vuejs.org). I want to share as I learn, but obviously, I'm still very new to it and you should not consider my code 'best practice', or heck, even 'experienced practice'. I full expect there are better ways of doing what I describe below, but I hope that sharing my learning process is helpful for others as well.</strong>
@@ -44,11 +45,11 @@ This is the template for foo.
 ` 
 };
 
-const Bar = { template: '&lt;div&gt;bar&lt;/div&gt;' };
+const Bar = {% raw %}{ template: '&lt;div&gt;bar&lt;/div&gt;' }{% endraw %};
 
 const routes = [
-  { path: '/foo', component: Foo },
-  { path: '/bar', component: Bar }
+  {% raw %}{ path: '/foo', component: Foo }{% endraw %},
+  {% raw %}{ path: '/bar', component: Bar }{% endraw %}
 ]
 
 const router = new VueRouter({
@@ -92,7 +93,7 @@ template:`
 &lt;div&gt;
 	&lt;ul&gt;
 		&lt;li v-for=&quot;film in films&quot; :key=&quot;film.episode_id&quot;&gt;
-		&lt;router-link :to=&quot;{ name:'film', params:{id:film.id} }&quot;&gt;{%raw%}{{ film.title }}{%endraw%}&lt;/router-link&gt;
+		&lt;router-link :to=&quot;{% raw %}{ name:'film', params:{id:film.id}{% endraw %} }&quot;&gt;{% raw %}{{ film.title }{% endraw %}}&lt;/router-link&gt;
 		&lt;/li&gt;
 	&lt;/ul&gt;
 &lt;/div&gt;
@@ -121,14 +122,14 @@ template:`
 const Detail = Vue.component('Detail', {
 	template:`
 &lt;div&gt;
-&lt;h2&gt;{%raw%}{{film.title}}{%endraw%}&lt;/h2&gt;
+&lt;h2&gt;{% raw %}{{film.title}{% endraw %}}&lt;/h2&gt;
 &lt;p v-if=&quot;film.director&quot;&gt;
-Director: {%raw%}{{film.director}}{%endraw%}&lt;br/&gt;
-Released: {%raw%}{{film.release_date}}{%endraw%}&lt;br/&gt;
+Director: {% raw %}{{film.director}{% endraw %}}&lt;br/&gt;
+Released: {% raw %}{{film.release_date}{% endraw %}}&lt;br/&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
-{%raw%}{{film.opening_crawl}}{%endraw%}
+{% raw %}{{film.opening_crawl}{% endraw %}}
 &lt;/p&gt;
 
 &lt;router-link to=&quot;/&quot;&gt;Back&lt;/router-link&gt;
@@ -175,7 +176,7 @@ Alright - so this one actually makes use of `Vue.component`. The first component
 
 Note how the link is made: 
 
-	<router-link :to="{ name:'film', params:{id:film.id} }">
+	<router-link :to="{% raw %}{ name:'film', params:{id:film.id}{% endraw %} }">
 
 Instead of just a path, I'm using an object that contains both a path name (film) and a set of parameters - in this case just the ID I made. (Technically I didn't need to do this - I could have passed the complete url value from the list to the detail, but... I don't know. I just felt like doing it. ;)
 

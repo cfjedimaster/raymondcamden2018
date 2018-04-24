@@ -5,6 +5,7 @@ date: "2016-06-03T14:41:00-07:00"
 categories: Development 
 tags: JavaScript
 banner_image: 
+permalink: /2016/06/03/capturing-camerapicture-data-without-phonegap-an-update
 ---
 
 Over two years ago I wrote an article about using the device camera on the web without using PhoneGap ([Capturing camera/picture data without PhoneGap](https://www.raymondcamden.com/2013/05/20/capturing-camerapicture-data-without-phonegap/)). While an old blog entry, it is easily one of the most popular entries on this blog in terms of how much traffic it gets. It is also a great reminder that most of us web developers probably forget just how powerful the platform is. The original article discusses the use of the capture attribute in input fields to allow for camera access. The idea was simple - take a regular input/type=file and add the capture attribute:

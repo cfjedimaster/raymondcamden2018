@@ -5,6 +5,7 @@ date: "2017-02-24T17:25:00-07:00"
 categories: static sites 
 tags: jekyll
 banner_image: 
+permalink: /2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar
 ---
 
 Forgive the somewhat clunky title - I wanted to share a little demo I built for my presentation this week at [DevNexus](https://www.devnexus.com/). The idea behind the demo was whether or not I could create a simple dynamic calendar system with a static web site. My presentation was all about adding dynamic aspects back into a static site, so this fit right in. 
@@ -52,19 +53,19 @@ permalink: /calendar-data/
 ---
 
 [
-{% for event in site.events %}
+{% raw %}{% for event in site.events %{% endraw %}}
 	{
-		"title":"{%raw%}{{event.title}}{%endraw%}",
-		"start": "{%raw%}{{event.event_date}}{%endraw%}",
+		"title":"{% raw %}{{event.title}{% endraw %}}",
+		"start": "{% raw %}{{event.event_date}{% endraw %}}",
 		"allDay":true,
-		"url":"{%raw%}{{event.url}}{%endraw%}"
+		"url":"{% raw %}{{event.url}{% endraw %}}"
 	}
-	{%unless forloop.last %},{%endunless%}
-{% endfor %}
+	{% raw %}{%unless forloop.last %{% endraw %}},{% raw %}{%endunless%{% endraw %}}
+{% raw %}{% endfor %{% endraw %}}
 ]
 </code></pre>
 
-I've specified no layout and title. This keeps the output clean and the "page" invisible from the top header. I then output over my collection data which Jekyll makes available via `site.events`. The only kind weird part is the `{%unless}` block. That's how I handle including a comma between each event item and *not* after the last one. The end result was a JSON feed available at `/calendar-data/` that looked like this:
+I've specified no layout and title. This keeps the output clean and the "page" invisible from the top header. I then output over my collection data which Jekyll makes available via `site.events`. The only kind weird part is the `{% raw %}{%unless}{% endraw %}` block. That's how I handle including a comma between each event item and *not* after the last one. The end result was a JSON feed available at `/calendar-data/` that looked like this:
 
 <pre><code class="language-javascript">[
 

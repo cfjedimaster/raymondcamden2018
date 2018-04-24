@@ -5,6 +5,7 @@ date: "2015-08-25T00:58:32+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/08/25/using-generators-with-harp
 ---
 
 I've blogged (and presented) on <a href="http://www.harpjs.com">Harp</a> before as well as <a href="http://jekyllrb.com">Jekyll</a>. In general, I think Harp is much simpler to use, but Jekyll is more powerful. One of the ways Jekyll surpasses Harp is with <a href="http://jekyllrb.com/docs/plugins/#generators">generators</a>. This is a script you can write that automates the creation of files during the generation phase. I blogged about this a few months back (<a href="http://www.raymondcamden.com/2015/03/05/my-experience-working-with-jekyll">My experience working with Jekyll</a>), but in case you don't feel like reading the entire blog post, let me explain what problem a generator can solve.
@@ -78,6 +79,6 @@ for(var key in libs) {
 
 So all this does is read in my JSON, read in a template I built to represent a specific library page, and then write it out in physical files so Harp can use it when generating the site. In my case, my template is just an include:
 
-<pre><code class="language-markup">&lt;%- partial("_library.ejs") %&gt;</code></pre>
+<pre><code class="language-markup">&lt;{% raw %}%- partial("_library.ejs") %{% endraw %}&gt;</code></pre>
 
 In which I've built in the code to handle generating a library display. Yeah, so this is pretty obvious, and I'm pretty sure some Harp users are already doing this, but I thought it was kind of neat, and it made me re-evaluate when I'd use Harp compared to Jekyll. (I just wish they would support more than Jade and EJS. ;)

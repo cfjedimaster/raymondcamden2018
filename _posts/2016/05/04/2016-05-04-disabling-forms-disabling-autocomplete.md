@@ -5,6 +5,7 @@ date: "2016-05-04T14:21:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/05/04/disabling-forms-disabling-autocomplete
 ---
 
 This isn't going to be the most important tip I've ever shared here, but as it is annoys the you know what out of me, I thought I'd share. I fill out a lot of forms, and one of the first things I do on a form is double click in the first field to give autocomplete a chance to fill in as many fields as possible. Unfortunately, sometimes this isn't possible because the site creator, for whatever reason (maybe even a good one) decided to disable this.

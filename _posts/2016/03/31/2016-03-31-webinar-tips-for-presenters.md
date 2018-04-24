@@ -5,6 +5,7 @@ date: "2016-03-31T08:05:00-07:00"
 categories: Misc 
 tags: 
 banner_image: /images/banners/webinars.jpg
+permalink: /2016/03/31/webinar-tips-for-presenters
 ---
 
 My buddy [Dan Vega](http://therealdanvega.com/) recently hit me up Twitter about how to give online presentations. Not that I think I'm an expert in the field, I do have some experience with this type of presentation and I thought I'd share some general tips. Here they are - in no particular order. I *definitely* hope some of my readers chime in here with some comments on their suggestions.

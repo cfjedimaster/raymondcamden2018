@@ -5,6 +5,7 @@ date: "2016-11-30T07:03:00-07:00"
 categories: JavaScript 
 tags: nodejs
 banner_image: /images/banners/cheerio.jpg
+permalink: /2016/11/30/scraping-a-web-page-in-node-with-cheerio
 ---
 
 In yet another example of "I will build the most stupid crap ever if bored", this week I worked on a Node script for the sole purpose of gathering data about SiriusXM. I'm a huge fan of the radio service (mostly because 99% of my local radio stations are absolute garbage, except for [KRZS](http://krvs.org/)), and I was curious if the service had an API of some sorts. I was not able to find one, but I did find this page:
@@ -40,7 +41,7 @@ function getData() {
                 let artist = $(artistNode).text();
                 let title = $(artistNode).next().text();
                 &#x2F;&#x2F;console.log(channel +&#x27;-&#x27;+ artist +&#x27;-&#x27;+ title);
-                channels.push({channel:channel, artist:artist, title:title});
+                channels.push({% raw %}{channel:channel, artist:artist, title:title}{% endraw %});
             }
 
             resolve(channels);

@@ -5,6 +5,7 @@ date: "2017-07-05T08:52:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/07/05/important-note-for-openwhisk-developers
 ---
 
 Yesterday while working on a new book (yep - I'm writing a book for OpenWhisk!) I discovered something pretty important. I generally use the OpenWhisk docs on IBM Bluemix as my reference: https://console.bluemix.net/docs/openwhisk/index.html. I knew that the docs were sourced from the [GitHub repo](https://github.com/apache/incubator-openwhisk), but what I did not know is how far behind the Bluemix docs were. 

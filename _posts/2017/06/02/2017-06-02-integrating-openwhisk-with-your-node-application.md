@@ -5,6 +5,7 @@ date: "2017-06-02T08:31:00-07:00"
 categories: Serverless 
 tags: OpenWhisk
 banner_image: 
+permalink: /2017/06/02/integrating-openwhisk-with-your-node-application
 ---
 
 In most of my posts on OpenWhisk, I either show running the actions via the CLI, or demonstrate them with the anonymous REST API end point. However, there is another way of using actions as well. Every time you use the CLI, it is making authenticated REST calls on your behalf. You can find the documentation for that API here: [Using the OpenWhisk REST APIs](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_reference.html#openwhisk_ref_restapi)
@@ -75,7 +76,7 @@ function getDogs() {
 	});
 }
 
-module.exports = { getCats, getDogs }
+module.exports = {% raw %}{ getCats, getDogs }{% endraw %}
 </code></pre>
 
 I assume this is all pretty standard stuff, but let me know if not. In both cases, I'm faking an asynchronous response by using promises and static data. And just to be sure I'm not crazy, here is a screen shot of the only view that matters - the cats:
@@ -89,7 +90,7 @@ For my demo, I'll focus on the Cats data since, well, that's obviously the most 
 <pre><code class="language-javascript">function main(args) {
 	let cats = [&quot;Miss Serverless&quot;,&quot;Robin&quot;, &quot;Cracker&quot;, &quot;Luna&quot;, &quot;Pig&quot;];
 
-	return { cats };
+	return {% raw %}{ cats }{% endraw %};
 
 }
 
@@ -127,7 +128,7 @@ const options = {
 const ow = openwhisk(options);
 
 function getCats() {
-	return ow.actions.invoke({name:'safeToDelete/getcats',blocking:true,result:true});
+	return ow.actions.invoke({% raw %}{name:'safeToDelete/getcats',blocking:true,result:true}{% endraw %});
 }
 
 function getDogs() {
@@ -137,7 +138,7 @@ function getDogs() {
 	});
 }
 
-module.exports = { getCats, getDogs }
+module.exports = {% raw %}{ getCats, getDogs }{% endraw %}
 </code></pre>
 
 I begin by adding the openwhisk module to my code, specifying my options, and then creating a new `ow` object. Note that you can, and probably should, specify your credentials with environment variables. If you do, you can skip the entire `options` part and just go to town. 
@@ -148,7 +149,7 @@ That's *almost* enough. Unfortunately, my initial code returned an array, and my
 
 <pre><code class="language-javascript">function getCats() {
 	return new Promise((resolve, reject) =&gt; {
-		ow.actions.invoke({name:&#x27;safeToDelete&#x2F;getcats&#x27;,blocking:true,result:true}).then((result)=&gt;{
+		ow.actions.invoke({% raw %}{name:&#x27;safeToDelete&#x2F;getcats&#x27;,blocking:true,result:true}{% endraw %}).then((result)=&gt;{
 			resolve(result.cats);
 		});
 	});

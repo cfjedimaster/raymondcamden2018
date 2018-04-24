@@ -5,6 +5,7 @@ date: "2017-04-17T08:38:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/sowpost.jpg
+permalink: /2017/04/17/openwhisk-serverless-and-security-a-poc
 ---
 
 <strong>Before I begin, I want to be clear that what follows is a proof of concept. It should absolutely not be considered a recommendation, but rather a starting point for conversation.</strong> I've been thinking a lot lately about how one could use OpenWhisk along with a security model of some sort. Specifically, "Expose action so and so but only for authorized users." Obviously "security" can imply a lot more, but in this initial post I'm going to keep my requirements a bit simpler.
@@ -123,7 +124,7 @@ function main(args) {
                     stack:err.stack
                 });
             } else {
-                resolve({decoded:decoded});
+                resolve({% raw %}{decoded:decoded}{% endraw %});
             }
 
         });

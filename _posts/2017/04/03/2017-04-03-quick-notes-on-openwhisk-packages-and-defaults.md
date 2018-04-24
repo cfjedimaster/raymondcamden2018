@@ -5,6 +5,7 @@ date: "2017-04-03T08:18:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/04/03/quick-notes-on-openwhisk-packages-and-defaults
 ---
 
 This post is just to clear up some things that confused me. Everything here is covered in the docs (mostly, although I think bits aren't 100% clear) but I wanted to get this down on (virtual) paper to help me remember.

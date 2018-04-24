@@ -5,6 +5,7 @@ date: "2015-04-17T15:05:42+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/04/17/indexeddb-and-limits
 ---
 
 Earlier this week I posted about hitting the limits of LocalStorage (<a href="http://www.raymondcamden.com/2015/04/14/blowing-up-localstorage-or-what-happens-when-you-exceed-quota">Blowing up LocalStorage</a>) and today I thought I'd do a bit of testing around IndexedDB. Unfortunately, I don't really have a simple "if you do this, X happens" type story to tell, but I did find out some interesting things about storage limits. I want to thank the following people for help in writing this post: <a href="https://blog.wanderview.com/">Ben Kelly of Mozilla</a>, <a href="http://www.calormen.com/">Joshua Bell of Google</a>,  <a href="http://addyosmani.com/blog/">Addy Osmani</a> of Google</a>, and <a href="http://www.paulirish.com/">Paul Irish of Google</a>.
@@ -88,7 +89,7 @@ document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
 		console.log(&quot;running onupgradeneeded&quot;);
 
 		if(!thisDB.objectStoreNames.contains(&quot;crap&quot;)) {
-			thisDB.createObjectStore(&quot;crap&quot;, {keyPath:&quot;id&quot;,autoIncrement:true});
+			thisDB.createObjectStore(&quot;crap&quot;, {% raw %}{keyPath:&quot;id&quot;,autoIncrement:true}{% endraw %});
 		}
 
 	}
@@ -160,12 +161,12 @@ Ben Kelly and I spoke more on Twitter (like, a few seconds) ago, and he added so
 2) The max is dynamic and based on your hard drive.
 
 He had these details to add:
-"Heurestic is roughly: all origin combined can take up to 50% available disk space, no one origin more than 20% available."
-"Err... no one origin more than 20% of the total allowed for all origins.  So thats actually 20%*50%=10% of available disk."
+"Heurestic is roughly: all origin combined can take up to 50{% raw %}% available disk space, no one origin more than 20%{% endraw %} available."
+"Err... no one origin more than 20{% raw %}% of the total allowed for all origins.  So thats actually 20%{% endraw %}*50{% raw %}%=10%{% endraw %} of available disk."
 
 <a href="http://jonnyknowsbest.co.uk/">Jonathan Smith</a> wrote an interesting little JS snippet you can paste into your console to check the size of an IDB table: <a href="https://github.com/jonnysmith1981/getIndexedDbSize">getIndexedDbSize</a>. 
 
-If I read his results right, I got Firefox up to about 2.8 gigs of storage before it threw that error. My drive maxes out at 500 gigs. So if Firefox can take 10% of that and one origin can take 20%, then 2.8 feels certainly within the ballpark.
+If I read his results right, I got Firefox up to about 2.8 gigs of storage before it threw that error. My drive maxes out at 500 gigs. So if Firefox can take 10{% raw %}% of that and one origin can take 20%{% endraw %}, then 2.8 feels certainly within the ballpark.
 
 For Chrome, I couldn't get it to throw a QuotaErr, and eventually Smith's test script ended up crashing the tab. It is also possible I just gave up before I hit the upper limit.
 

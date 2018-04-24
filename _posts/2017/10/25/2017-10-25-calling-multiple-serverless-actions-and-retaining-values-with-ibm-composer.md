@@ -5,6 +5,7 @@ date: "2017-10-25T10:01:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/10/25/calling-multiple-serverless-actions-and-retaining-values-with-ibm-composer
 ---
 
 Forgive the incredibly long title, but I wasn't quite happy with the shorter versions. As I've mentioned before, [IBM Composer](https://github.com/ibm-functions/composer/tree/master/docs) supports multiple different "compositions", or "logic doohickies" (I work for IBM Marketing, honest), as a way to add conditional logic and branching to a serverless application. In this post, I'm going to share an example of the ["Retain"](https://github.com/ibm-functions/composer/blob/master/docs/COMPOSER.md#composerretaintask-flag) composition.
@@ -45,7 +46,7 @@ Then the second step's input is the output of the first one. That totally won't 
 	composer.retain(
 		composer.sequence(p => p.params, 'watson/pi')
 	),
-	p => ({pi:p.result, tone:p.params.result})
+	p => ({% raw %}{pi:p.result, tone:p.params.result}{% endraw %})
 );
 </code></pre>
 

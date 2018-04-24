@@ -5,6 +5,7 @@ date: "2015-07-15T08:53:36+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/07/15/fyi-cordova-events-must-be-run-after-deviceready
 ---
 
 In all of my work on various Cordova projects, I've only rarely needed to make use of the various <a href="http://cordova.apache.org/docs/en/5.1.1/cordova_events_events.md.html">events</a> supported by the platform. Last night I needed to add some code to handle the <a href="http://cordova.apache.org/docs/en/5.1.1/cordova_events_events.md.html#backbutton">back button</a>. The docs clearly tell you to register your handler <i>after</i> deviceReady has fired:

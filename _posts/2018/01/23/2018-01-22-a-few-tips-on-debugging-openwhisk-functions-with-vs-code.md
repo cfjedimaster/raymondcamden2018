@@ -5,6 +5,7 @@ date: "2018-01-23"
 categories: Serverless 
 tags: openwhisk visual studio code
 banner_image: 
+permalink: /2018/01/23/a-few-tips-on-debugging-openwhisk-functions-with-vs-code
 ---
 
 A few weeks ago fellow IBMer Niklas Heidloff wrote a great blog post on debugging OpenWhisk actions with Visual Studio Code. Please, please, *please* read his post first: [Debugging Apache OpenWhisk Functions with VS Code](http://heidloff.net/article/debug-apache-openwhisk-functions-vscode) While his post was great, I had a few problems understanding exactly how to make use of his code, in particular, how to work with an existing OpenWhisk project. You can see my conversation with him in his comments. I offered to help write up the process for integrating his work in existing code and the result is the guide below. Note that there are probably multiple different ways of doing this, but this is what worked for me. Ok, ready?
@@ -51,9 +52,9 @@ If you're prompted to select an ennvironment, just select Node. This opens a new
             "type": "node",
             "request": "launch",
             "name": "Run hello with payload",
-            "program": "${workspaceFolder}/run.js",
+            "program": "${% raw %}{workspaceFolder}{% endraw %}/run.js",
             "outFiles": [
-                "${workspaceFolder}/**/*.js"
+                "${% raw %}{workspaceFolder}{% endraw %}/**/*.js"
             ]
         },
 

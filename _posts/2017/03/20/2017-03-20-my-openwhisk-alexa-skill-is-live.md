@@ -5,6 +5,7 @@ date: "2017-03-20T16:58:00-07:00"
 categories: Serverless 
 tags: openwhisk alexa
 banner_image: 
+permalink: /2017/03/20/my-openwhisk-alexa-skill-is-live
 ---
 
 I've blogged a few times now about my attempts to build an Alexa Skill with OpenWhisk (<a href="https://www.raymondcamden.com/2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk">An Introduction to Creating Alexa Skills with OpenWhisk</a> and <a href="https://www.raymondcamden.com/2017/03/17/creating-alexa-skills-with-openwhisk-part-two">Creating Alexa Skills with OpenWhisk - Part Two</a>) and I'm happy to say today that my skill finally passed certification!
@@ -29,7 +30,7 @@ My brain kinda glossed over the difference there, but it was enough to make it f
 
 A second issue I had was supporting the "open" event, or basically, someone using my skill without actually asking anything. That's a requirement and your code has to handle it. Basically, I just sniffed for no intent:
 
-<pre><code class="language-javascript">if(!request.intent) request.intent = {name:'randomName'};
+<pre><code class="language-javascript">if(!request.intent) request.intent = {% raw %}{name:'randomName'}{% endraw %};
 </code></pre>
 
 Your skill, of course, may do something different in that case. 

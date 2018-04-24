@@ -5,6 +5,7 @@ date: "2017-10-23T07:35:00-07:00"
 categories: Static Sites 
 tags: jekyll
 banner_image: 
+permalink: /2017/10/23/migrating-a-static-site-from-harp-to-jekyll
 ---
 
 So a few weeks back I [blogged](https://www.raymondcamden.com/2017/09/21/quick-note-on-cflib/) about how I was working on an update to [CFLib](http://cflib.org). Specifically - I was looking to migrate to a new static site generator to make it easier to update content. This past weekend I made a lot of progress with my update and I think I'm ready to release the new version. I thought folks might be interested in the details of the rebuild. 
@@ -16,12 +17,12 @@ The current version of the site is built with [Harp](http://harpjs.com/), the fi
 
 When I was building CFLib, I had to find a way to support the one thousand plus UDFs in a way that would let me tweak the layout if I needed to modify something. Harp, like most SSGs, requires a physical file for each piece of content. (Jekyll actually has an interesting way around that, but that's not important right now.) Each UDF was a one line file where I simply included an EJS file to render the content. So for example:
 
-<pre><code class="language-javascript">&lt;%- partial("_udf.ejs") %&gt;
+<pre><code class="language-javascript">&lt;{% raw %}%- partial("_udf.ejs") %{% endraw %}&gt;
 </code></pre>
 
 And here is the main template. [EJS](http://www.embeddedjs.com/) is kind of a icky templating language. It's flexible and it works, but it reminds me a lot of old ASP sites. 
 
-<pre><code class="language-markup">&lt;%- include(&#x27;..&#x2F;_udf.ejs&#x27;) %&gt;
+<pre><code class="language-markup">&lt;{% raw %}%- include(&#x27;..&#x2F;_udf.ejs&#x27;) %{% endraw %}&gt;
 
 &lt;%
 	&#x2F;&#x2F;need to get udf name
@@ -29,35 +30,35 @@ And here is the main template. [EJS](http://www.embeddedjs.com/) is kind of a ic
 	title = udf.name;
 %&gt;
 
-&lt;h2&gt;&lt;%- udf.name %&gt;&lt;%- public.udfs.getArgString(udf.args)%&gt;&lt;&#x2F;h2&gt;
-&lt;h5 class=&quot;lastUpdated&quot;&gt;Last updated &lt;%- public.udfs.dateFormat(new Date(udf.lastUpdated)) %&gt;&lt;&#x2F;h5&gt;
+&lt;h2&gt;&lt;{% raw %}%- udf.name %{% endraw %}&gt;&lt;{% raw %}%- public.udfs.getArgString(udf.args)%{% endraw %}&gt;&lt;&#x2F;h2&gt;
+&lt;h5 class=&quot;lastUpdated&quot;&gt;Last updated &lt;{% raw %}%- public.udfs.dateFormat(new Date(udf.lastUpdated)) %{% endraw %}&gt;&lt;&#x2F;h5&gt;
 
 &lt;div class=&quot;author&quot;&gt;
 	&lt;h3&gt;&lt;span&gt;author&lt;&#x2F;span&gt;&lt;&#x2F;h3&gt;
 	&lt;p&gt;
-	&lt;img src=&quot;&lt;%= public.udfs.gravatar(udf.authorEmail) %&gt;&quot; title=&quot;&lt;%- udf.author %&gt;&quot; class=&quot;img-left gravatar&quot; &#x2F;&gt;
-	&lt;span class=&quot;name&quot;&gt;&lt;%= udf.author %&gt;&lt;&#x2F;span&gt; &lt;br&#x2F;&gt;
+	&lt;img src=&quot;&lt;{% raw %}%= public.udfs.gravatar(udf.authorEmail) %{% endraw %}&gt;&quot; title=&quot;&lt;{% raw %}%- udf.author %{% endraw %}&gt;&quot; class=&quot;img-left gravatar&quot; &#x2F;&gt;
+	&lt;span class=&quot;name&quot;&gt;&lt;{% raw %}%= udf.author %{% endraw %}&gt;&lt;&#x2F;span&gt; &lt;br&#x2F;&gt;
 	&lt;&#x2F;p&gt;	
 &lt;&#x2F;div&gt;
 &lt;p class=&quot;description&quot;&gt;
-	&lt;strong&gt;Version:&lt;&#x2F;strong&gt; &lt;%- udf.version %&gt; |  
-	&lt;strong&gt;Requires:&lt;&#x2F;strong&gt; &lt;%- udf.cfVersion %&gt; | 
-	&lt;strong&gt;Library:&lt;&#x2F;strong&gt; &lt;a href=&quot;&#x2F;library&#x2F;&lt;%- udf.library %&gt;&quot;&gt;&lt;%- udf.library %&gt;&lt;&#x2F;a&gt;
+	&lt;strong&gt;Version:&lt;&#x2F;strong&gt; &lt;{% raw %}%- udf.version %{% endraw %}&gt; |  
+	&lt;strong&gt;Requires:&lt;&#x2F;strong&gt; &lt;{% raw %}%- udf.cfVersion %{% endraw %}&gt; | 
+	&lt;strong&gt;Library:&lt;&#x2F;strong&gt; &lt;a href=&quot;&#x2F;library&#x2F;&lt;{% raw %}%- udf.library %{% endraw %}&gt;&quot;&gt;&lt;{% raw %}%- udf.library %{% endraw %}&gt;&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
 
 &lt;div class=&quot;udfDetails&quot;&gt;	
 &lt;p&gt;
 	&lt;strong&gt;Description:&lt;&#x2F;strong&gt; &lt;br&#x2F;&gt;
-	&lt;%= udf.description %&gt;
+	&lt;{% raw %}%= udf.description %{% endraw %}&gt;
 &lt;&#x2F;p&gt;
 &lt;p&gt;
 	&lt;strong&gt;Return Values:&lt;&#x2F;strong&gt; &lt;br&#x2F;&gt;
-	&lt;%- udf.returnValue %&gt;						
+	&lt;{% raw %}%- udf.returnValue %{% endraw %}&gt;						
 &lt;&#x2F;p&gt;
 
 &lt;a name=&quot;examples&quot;&gt;&lt;&#x2F;a&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&lt;%= udf.example %&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;&lt;{% raw %}%= udf.example %{% endraw %}&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 
 &lt;p&gt;&lt;strong&gt;Parameters:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 
@@ -71,27 +72,27 @@ And here is the main template. [EJS](http://www.embeddedjs.com/) is kind of a ic
 			&lt;th&gt;Description&lt;&#x2F;th&gt;
 			&lt;th&gt;Required&lt;&#x2F;th&gt;
 		&lt;&#x2F;tr&gt;
-		&lt;% for(var i=0;i&lt;udf.args.length;i++) { %&gt;
+		&lt;{% raw %}% for(var i=0;i&lt;udf.args.length;i++) { %{% endraw %}&gt;
 			&lt;tr&gt;
-				&lt;td&gt;&lt;%- udf.args[i].NAME %&gt;&lt;&#x2F;td&gt;
-				&lt;td&gt;&lt;%= udf.args[i].DESC %&gt;&lt;&#x2F;td&gt;
-				&lt;td&gt;&lt;%- udf.args[i].REQ? &quot;Yes&quot;:&quot;No&quot; %&gt;&lt;&#x2F;td&gt;
+				&lt;td&gt;&lt;{% raw %}%- udf.args[i].NAME %{% endraw %}&gt;&lt;&#x2F;td&gt;
+				&lt;td&gt;&lt;{% raw %}%= udf.args[i].DESC %{% endraw %}&gt;&lt;&#x2F;td&gt;
+				&lt;td&gt;&lt;{% raw %}%- udf.args[i].REQ? &quot;Yes&quot;:&quot;No&quot; %{% endraw %}&gt;&lt;&#x2F;td&gt;
 			&lt;&#x2F;tr&gt;
-		&lt;% } %&gt;
+		&lt;{% raw %}% }{% endraw %} %&gt;
 	&lt;&#x2F;table&gt;
-&lt;% } else { %&gt;
+&lt;{% raw %}% }{% endraw %} else {% raw %}{ %{% endraw %}&gt;
 &lt;p&gt;No arguments.&lt;&#x2F;p&gt;
-&lt;% } %&gt;
+&lt;{% raw %}% }{% endraw %} %&gt;
 
 
 &lt;p&gt;&lt;strong&gt;Full UDF Source: &lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-&lt;%- udf.tagBased?&quot;markup&quot;:&quot;javascript&quot; %&gt;&quot;&gt;&lt;%= udf.javaDoc %&gt;
-&lt;%= udf.code %&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code class=&quot;language-&lt;{% raw %}%- udf.tagBased?&quot;markup&quot;:&quot;javascript&quot; %{% endraw %}&gt;&quot;&gt;&lt;{% raw %}%= udf.javaDoc %{% endraw %}&gt;
+&lt;{% raw %}%= udf.code %{% endraw %}&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;&#x2F;div&gt;
 &lt;script type=&quot;text&#x2F;javascript&quot;&gt;
     var disqus_shortname = &#x27;cflib&#x27;;
-    var disqus_identifier = &#x27;&lt;%- udf.oldId %&gt;&#x27;;
+    var disqus_identifier = &#x27;&lt;{% raw %}%- udf.oldId %{% endraw %}&gt;&#x27;;
 
     &#x2F;* * * DON&#x27;T EDIT BELOW THIS LINE * * *&#x2F;
     (function() {
@@ -182,38 +183,38 @@ For comparison's sake, here's the layout using Jekyll's templating language, Liq
 layout: default
 ---
 
-&lt;h2&gt;{%raw%}{{ page.title }}{%endraw%}({%raw%}{{ page.argString }}{%endraw%}) &lt;&#x2F;h2&gt;
-&lt;h5 class=&quot;lastUpdated&quot;&gt;Last updated {%raw%}{{ page.date | date: &quot;%B %d, %Y&quot; }}{%endraw%}&lt;&#x2F;h5&gt;
+&lt;h2&gt;{% raw %}{{ page.title }{% endraw %}}({% raw %}{{ page.argString }{% endraw %}}) &lt;&#x2F;h2&gt;
+&lt;h5 class=&quot;lastUpdated&quot;&gt;Last updated {% raw %}{{ page.date |{% endraw %} date: &quot;{% raw %}%B %{% endraw %}d, {% raw %}%Y&quot; }{% endraw %}}&lt;&#x2F;h5&gt;
 
 &lt;div class=&quot;author&quot;&gt;
 	&lt;h3&gt;&lt;span&gt;author&lt;&#x2F;span&gt;&lt;&#x2F;h3&gt;
 	&lt;p&gt;
-	&lt;img src=&quot;{%raw%}{{ page.authorEmail | to_gravatar }}{%endraw%}?s=43&quot; title=&quot;{%raw%}{{ page.author }}{%endraw%}&quot; class=&quot;img-left gravatar&quot; &#x2F;&gt;
-	&lt;span class=&quot;name&quot;&gt;{%raw%}{{ page.author }}{%endraw%}&lt;&#x2F;span&gt; &lt;br&#x2F;&gt;
+	&lt;img src=&quot;{% raw %}{{ page.authorEmail |{% endraw %} to_gravatar }}?s=43&quot; title=&quot;{% raw %}{{ page.author }{% endraw %}}&quot; class=&quot;img-left gravatar&quot; &#x2F;&gt;
+	&lt;span class=&quot;name&quot;&gt;{% raw %}{{ page.author }{% endraw %}}&lt;&#x2F;span&gt; &lt;br&#x2F;&gt;
 	&lt;&#x2F;p&gt;	
 &lt;&#x2F;div&gt;
 &lt;p class=&quot;description&quot;&gt;
-	&lt;strong&gt;Version:&lt;&#x2F;strong&gt; {%raw%}{{ page.version }}{%endraw%} |  
-	&lt;strong&gt;Requires:&lt;&#x2F;strong&gt; {%raw%}{{ page.cfVersion }}{%endraw%} | 
-	&lt;strong&gt;Library:&lt;&#x2F;strong&gt; &lt;a href=&quot;&#x2F;library&#x2F;{%raw%}{{ page.library }}{%endraw%}&quot;&gt;{%raw%}{{ page.library}}{%endraw%}&lt;&#x2F;a&gt;
+	&lt;strong&gt;Version:&lt;&#x2F;strong&gt; {% raw %}{{ page.version }{% endraw %}} |  
+	&lt;strong&gt;Requires:&lt;&#x2F;strong&gt; {% raw %}{{ page.cfVersion }{% endraw %}} | 
+	&lt;strong&gt;Library:&lt;&#x2F;strong&gt; &lt;a href=&quot;&#x2F;library&#x2F;{% raw %}{{ page.library }{% endraw %}}&quot;&gt;{% raw %}{{ page.library}{% endraw %}}&lt;&#x2F;a&gt;
 &lt;&#x2F;p&gt;
 &lt;div class=&quot;udfDetails&quot;&gt;	
 &lt;p&gt;
 	&lt;strong&gt;Description:&lt;&#x2F;strong&gt; &lt;br&#x2F;&gt;
-	{%raw%}{{ page.description }}{%endraw%}
+	{% raw %}{{ page.description }{% endraw %}}
 &lt;&#x2F;p&gt;
 &lt;p&gt;
 	&lt;strong&gt;Return Values:&lt;&#x2F;strong&gt; &lt;br&#x2F;&gt;
-	{%raw%}{{ page.returnValue }}{%endraw%}
+	{% raw %}{{ page.returnValue }{% endraw %}}
 &lt;&#x2F;p&gt;
 
 &lt;a name=&quot;examples&quot;&gt;&lt;&#x2F;a&gt;&lt;p&gt;&lt;strong&gt;Example:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;{%raw%}{{ page.example | xml_escape }}{%endraw%}&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markup&quot;&gt;{% raw %}{{ page.example |{% endraw %} xml_escape }}&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 
 &lt;p&gt;&lt;strong&gt;Parameters:&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 
-{% if page.args %}
+{% raw %}{% if page.args %{% endraw %}}
 
 &lt;table id=&quot;paramsTable&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
 		&lt;tr&gt;
@@ -221,27 +222,27 @@ layout: default
 			&lt;th&gt;Description&lt;&#x2F;th&gt;
 			&lt;th&gt;Required&lt;&#x2F;th&gt;
         &lt;&#x2F;tr&gt;
-        {% for arg in page.args %}
+        {% raw %}{% for arg in page.args %{% endraw %}}
 			&lt;tr&gt;
-				&lt;td&gt;{%raw%}{{ arg.name }}{%endraw%}&lt;&#x2F;td&gt;
-				&lt;td&gt;{%raw%}{{ arg.desc }}{%endraw%}&lt;&#x2F;td&gt;
+				&lt;td&gt;{% raw %}{{ arg.name }{% endraw %}}&lt;&#x2F;td&gt;
+				&lt;td&gt;{% raw %}{{ arg.desc }{% endraw %}}&lt;&#x2F;td&gt;
 				&lt;td&gt;
-                    {% if arg.req %}
+                    {% raw %}{% if arg.req %{% endraw %}}
                     Yes
-                    {% else %}
+                    {% raw %}{% else %{% endraw %}}
                     No
-                    {% endif %}
+                    {% raw %}{% endif %{% endraw %}}
                 &lt;&#x2F;td&gt;
 			&lt;&#x2F;tr&gt;
-		{% endfor %}
+		{% raw %}{% endfor %{% endraw %}}
 	&lt;&#x2F;table&gt;
-{% else %}
+{% raw %}{% else %{% endraw %}}
     &lt;p&gt;No arguments.&lt;&#x2F;p&gt;
-{% endif %}
+{% raw %}{% endif %{% endraw %}}
 
 
 &lt;p&gt;&lt;strong&gt;Full UDF Source: &lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;pre&gt;&lt;code class=&quot;language-{% if page.tagBased %}markup{% else %}javascript{% endif %}&quot;&gt;{%raw%}{{ page.javaDoc | xml_escape }}{%endraw%}{%raw%}{{ page.code | xml_escape }}{%endraw%}&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre&gt;&lt;code class=&quot;language-{% raw %}{% if page.tagBased %{% endraw %}}markup{% raw %}{% else %{% endraw %}}javascript{% raw %}{% endif %{% endraw %}}&quot;&gt;{% raw %}{{ page.javaDoc |{% endraw %} xml_escape }}{% raw %}{{ page.code |{% endraw %} xml_escape }}&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 
 &lt;&#x2F;div&gt;
 </code></pre>

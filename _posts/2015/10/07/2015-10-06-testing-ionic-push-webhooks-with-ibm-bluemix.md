@@ -5,6 +5,7 @@ date: "2015-10-07T09:45:33+06:00"
 categories: Development JavaScript Mobile 
 tags: bluemix ionic
 banner_image: 
+permalink: /2015/10/07/testing-ionic-push-webhooks-with-ibm-bluemix
 ---
 
 <strong>Disclaimer: Ionic Services are currently in Alpha status. While the feature I'm talking about will surely exist when Ionic's Push service goes Gold, the <i>details</i> of what I'm covering today will surely change. Please keep that in mind.</strong>
@@ -45,7 +46,7 @@ if(process.env.VCAP_SERVICES) {
 }
 
 
-var cloudant = Cloudant({account:cdMe, password:cdPassword});
+var cloudant = Cloudant({% raw %}{account:cdMe, password:cdPassword}{% endraw %});
 var registrationDb = cloudant.db.use('registrations');
 
 var app = express();
@@ -99,12 +100,12 @@ app.post('/register', function(req, res) {
 					if(err) {
 						console.log('inserting '+token);
 						//console.log(arguments);
-						registrationDb.insert({_id:token,time:new Date().getTime()}, function(err, body, header) {
+						registrationDb.insert({% raw %}{_id:token,time:new Date().getTime()}{% endraw %}, function(err, body, header) {
 							//console.log(&quot;cloudant db response: &quot;+JSON.stringify(arguments));
 						});
 					} else {
 						console.log('updating '+token);
-						registrationDb.insert({_id:token,time:new Date().getTime(),_rev:dbBody._rev}, function(err, body, header) {
+						registrationDb.insert({% raw %}{_id:token,time:new Date().getTime(),_rev:dbBody._rev}{% endraw %}, function(err, body, header) {
 							//console.log(&quot;cloudant db response: &quot;+JSON.stringify(arguments));
 						});
 					}

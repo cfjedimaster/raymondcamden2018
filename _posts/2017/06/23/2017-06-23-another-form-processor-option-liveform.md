@@ -5,6 +5,7 @@ date: "2017-06-23T08:41:00-07:00"
 categories: static sites 
 tags: 
 banner_image: 
+permalink: /2017/06/23/another-form-processor-option-liveform
 ---
 
 As a proponent of static site generators, one of the things I keep an eye out for are services that work well with them and provide functionality you lose after going static. Probably the most important of these are form handlers. Just being able to build a simple contact form can be incredibly helpful. On my site I use [Formspree](https://formspree.io/) and in the past I've used [FormKeep](https://formkeep.com/). Today I'm going to quickly review another new service, [LiveForm](https://liveformhq.com/).

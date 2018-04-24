@@ -5,6 +5,7 @@ date: "2017-10-02T08:32:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/10/02/reading-a-text-file-on-openwhisk
 ---
 
 Many months ago I wrote a quick post on OpenWhisk, serverless, and persistence ([Serverless and Persistence](https://www.raymondcamden.com/2017/02/09/serverless-and-persistence/)). In that article I mentioned that while your serverless actions are stateless and you should not *rely* on the file system, you do have access to it and can make use of it. It isn't something I'd recommend normally and it should be considered a - if not red flag - at least yellow for "are you sure" before deploying, but there are cases where it might make sense.
@@ -26,7 +27,7 @@ function main(args) {
 		contents = fs.readFileSync(__dirname + '/test.txt','UTF-8');
 	}
 
-	return { contents:contents };
+	return {% raw %}{ contents:contents }{% endraw %};
 
 }
 

@@ -5,6 +5,7 @@ date: "2015-09-01T14:27:47+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/09/01/calling-remote-services-from-ionic-serve
 ---
 
 A coworker pinged me today with an interesting question:

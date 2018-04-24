@@ -5,6 +5,7 @@ date: "2015-06-10T13:31:36+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/06/10/quick-example-of-the-google-analytics-embed-api
 ---
 
 In my <a href="http://www.raymondcamden.com/2015/06/08/google-analytics-and-rss-report">blog post</a> from earlier this week, I mentioned how Google has a new <a href="https://developers.google.com/analytics/devguides/reporting/embed/v1/">Analytics Embed API</a>. While it still requires a bit of programming, it is a <i>greatly</i> simplified version of the code you needed before in order to work with Google Analytics. As you can guess, the primary use case (at least in my opinion) for this will be to embed charts on a web site so you don't have to go to the Google Analytics dashboard to see how well your site is doing. 
@@ -32,10 +33,10 @@ To see how you could do this, let's start with a demo that lets you pick a prope
 
 &lt;script&gt;
 (function(w,d,s,g,js,fjs){
-  g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(cb){this.q.push(cb)}};
+  g=w.gapi{% raw %}||(w.gapi={}{% endraw %});g.analytics={% raw %}{q:[],ready:function(cb){this.q.push(cb)}{% endraw %}};
   js=d.createElement(s);fjs=d.getElementsByTagName(s)[0];
   js.src='https://apis.google.com/js/platform.js';
-  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){g.load('analytics')};
+  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){% raw %}{g.load('analytics')}{% endraw %};
 }(window,document,'script'));
 &lt;/script&gt;
 
@@ -116,10 +117,10 @@ In order to make these changes, we just need to do a few things. Here's the upda
 
 &lt;script&gt;
 (function(w,d,s,g,js,fjs){
-  g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(cb){this.q.push(cb)}};
+  g=w.gapi{% raw %}||(w.gapi={}{% endraw %});g.analytics={% raw %}{q:[],ready:function(cb){this.q.push(cb)}{% endraw %}};
   js=d.createElement(s);fjs=d.getElementsByTagName(s)[0];
   js.src='https://apis.google.com/js/platform.js';
-  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){g.load('analytics')};
+  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){% raw %}{g.load('analytics')}{% endraw %};
 }(window,document,'script'));
 &lt;/script&gt;
 

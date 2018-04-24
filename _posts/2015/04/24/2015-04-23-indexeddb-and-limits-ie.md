@@ -5,6 +5,7 @@ date: "2015-04-24T08:34:06+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/04/24/indexeddb-and-limits-ie
 ---
 
 Last week I <a href="http://www.raymondcamden.com/2015/04/17/indexeddb-and-limits">blogged</a> about maxing out the database size on your browser with IndexedDB, but I didn't test with IE. This morning I did, and unfortunately, it looks like IE does the same bad thing it does with LocalStorage (see my <a href="http://www.raymondcamden.com/2015/04/14/blowing-up-localstorage-or-what-happens-when-you-exceed-quota">post</a> for details).
@@ -66,7 +67,7 @@ document.addEventListener(&quot;DOMContentLoaded&quot;, function() {
 		console.log(&quot;running onupgradeneeded&quot;);
 
 		if(!thisDB.objectStoreNames.contains(storename)) {
-			thisDB.createObjectStore(storename, {keyPath:&quot;id&quot;,autoIncrement:true});
+			thisDB.createObjectStore(storename, {% raw %}{keyPath:&quot;id&quot;,autoIncrement:true}{% endraw %});
 		}
 
 	}

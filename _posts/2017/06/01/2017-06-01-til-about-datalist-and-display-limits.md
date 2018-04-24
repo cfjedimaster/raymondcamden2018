@@ -5,6 +5,7 @@ date: "2017-06-01T08:09:00-07:00"
 categories: HTML5 
 tags: html5
 banner_image: 
+permalink: /2017/06/01/til-about-datalist-and-display-limits
 ---
 
 I've blogged about the &lt;datalist&gt; element a few times before (I'll link to them at the end of this article), and while [support](http://caniuse.com/#feat=datalist) is ok (if you ignore Safari and iOS), it's one of my favorite HTML tags. It's pretty rarely used (as far as I can tell) but has a real good practical effect much like the &lt;details&gt; tag. As a [spec](https://html.spec.whatwg.org/multipage/forms.html#the-datalist-element), it is a bit in flux. When I brought it up last time on Twitter, [Šime Vidas](https://simevidas.com/) brought up how there are different implementations/specs in play. That's the focus of this article.

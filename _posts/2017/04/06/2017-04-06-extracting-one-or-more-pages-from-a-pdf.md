@@ -5,6 +5,7 @@ date: "2017-04-06T12:17:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2017/04/06/extracting-one-or-more-pages-from-a-pdf
 ---
 
 Ok, this falls squarely into "I Bet Everyone Knows This" category, but have you ever wondered how you could extract one (or more) pages from a PDF? For example, imagine one of the pages is an image and you want just that, how would you do it? Last night I was about to do a screen capture of the page when I tried a simple hack.

@@ -5,6 +5,7 @@ date: "2015-07-02T14:51:19+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova ionic
 banner_image: 
+permalink: /2015/07/02/ionic-push-example-supporting-state-changes
 ---
 
 <i>Please note that I'm writing this blog post while Ionic Push is still in Alpha. Everything I discuss here may change before 1.0 is released. Use the following code with caution.</i> One of the more interesting features of Ionic's Push feature is the ability to recognize a push message with state data. You can craft a push packet that not only includes a state value but state params as well. This is discussed in the <a href="http://docs.ionic.io/v1.0/docs/push-faq#section-i-want-my-app-to-open-to-a-specific-state-when-i-receive-a-notification-">FAQ</a>:
@@ -22,7 +23,7 @@ In addition to handling this in the onNotification function described here, you 
     "ios":{
       "priority": 10,
       "badge":2,
-      "payload":{ "$state": "about", "$stateParams": "{\"id\": 1}" }
+      "payload":{% raw %}{ "$state": "about", "$stateParams": "{\"id\": 1}{% endraw %}" }
     }
   }
 }</code></pre>
@@ -65,7 +66,7 @@ I also want to point out two important settings. First, you probably want <code>
 
 Cool - so almost there. I then create a Push notification via Curl that included the state info. The Tags application includes a state called tags.chat, so I decided to use that as my 'target':
 
-<code>curl -u appkeyThingy: -H "Content-Type: application/json" -H "X-Ionic-Application-Id: 6aef0d7b" https://push.ionic.io/api/v1/push -d '{"tokens": ["a device token"],"notification":{"alert":"ray","ios":{"payload":{"$state":"tab.chats"}}}}'</code>
+<code>curl -u appkeyThingy: -H "Content-Type: application/json" -H "X-Ionic-Application-Id: 6aef0d7b" https://push.ionic.io/api/v1/push -d '{% raw %}{"tokens": ["a device token"],"notification":{"alert":"ray","ios":{"payload":{"$state":"tab.chats"}{% endraw %}}}}'</code>
 
 You want to be careful when crafting the JSON of your notification. The server is pretty good about noticing mistakes, but on more than one occasion I screwed that part up. Note that you include the state information in the payload section. Also note that I didn't bother sending state params either.
 

@@ -5,6 +5,7 @@ date: "2017-06-29T09:03:00-07:00"
 categories: Serverless 
 tags: openwhisk watson
 banner_image: /images/banners/ow_sms.jpg
+permalink: /2017/06/29/handling-sms-with-openwhisk-ibm-watson-and-twilio
 ---
 
 <strong>I have made some important corrections to this guide - please see my followup here: https://www.raymondcamden.com/2017/07/07/handling-sms-with-openwhisk-ibm-watson-and-twilio-an-update</strong>
@@ -64,11 +65,11 @@ function main(args) {
 				from: args.To
 			})
 			.then((message) =&gt; {
-				resolve({error:&#x27;No image to identify&#x27;});
+				resolve({% raw %}{error:&#x27;No image to identify&#x27;}{% endraw %});
 			})
 			.catch(err =&gt; {
 				console.log(err);
-				reject({error:err});
+				reject({% raw %}{error:err}{% endraw %});
 			});
 			
 		} else {
@@ -79,11 +80,11 @@ function main(args) {
 				from: args.To
 			})
 			.then((message) =&gt; {
-				resolve({imageUrl:args.MediaUrl0, from:args.From, to:args.To});
+				resolve({% raw %}{imageUrl:args.MediaUrl0, from:args.From, to:args.To}{% endraw %});
 			})
 			.catch(err =&gt; {
 				console.log(err);
-				reject({error:err});
+				reject({% raw %}{error:err}{% endraw %});
 			});		
 		}
 
@@ -132,7 +133,7 @@ function main(args) {
 		console.log(&#x27;Entered identify, looking for &#x27;+args.imageUrl);
 		visual_recognition.classify(params, (err, res) =&gt; {
 			if (err) { 
-				reject({error:err});
+				reject({% raw %}{error:err}{% endraw %});
 			} else {
 				&#x2F;&#x2F;array of tags
 				let tags = res.images[0].classifiers[0].classes;
@@ -177,9 +178,9 @@ function main(args) {
 		*&#x2F;
 		let message = &#x27;&#x27;;
 		if(args.tags[0].score !== args.tags[1].score) {
-			message = `I think this is a ${args.tags[0].class}. But it may be a ${args.tags[1].class}.`;
+			message = `I think this is a ${% raw %}{args.tags[0].class}{% endraw %}. But it may be a ${% raw %}{args.tags[1].class}{% endraw %}.`;
 		} else {
-			message = `I think this is a ${args.tags[0].class} or a ${args.tags[1].class}.`;
+			message = `I think this is a ${% raw %}{args.tags[0].class}{% endraw %} or a ${% raw %}{args.tags[1].class}{% endraw %}.`;
 		}
 		console.log(&#x27;Message to send via SMS: &#x27;+message);
         client.messages.create({
@@ -188,11 +189,11 @@ function main(args) {
             from: args.to
         })
         .then((message) =&gt; {
-            resolve({result:1});
+            resolve({% raw %}{result:1}{% endraw %});
         })
         .catch(err =&gt; {
             console.log(err);
-            reject({error:err});
+            reject({% raw %}{error:err}{% endraw %});
         });
 
 	});

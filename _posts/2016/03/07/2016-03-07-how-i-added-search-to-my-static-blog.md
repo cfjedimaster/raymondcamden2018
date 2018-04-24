@@ -5,6 +5,7 @@ date: "2016-03-07T14:01:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/03/07/how-i-added-search-to-my-static-blog
 ---
 
 I was talking with fellow coder [Nic Raboy](https://www.thepolyglotdeveloper.com/) about static sites, and specifically [Hugo](https://gohugo.io/), and he asked me how I built the search form here. This is something I've written about before (see my article over on Modern Web from a few years back: [Moving to Static and Keeping Your Toys](http://modernweb.com/2013/12/16/moving-to-static-and-keeping-your-toys/)), but I thought it would be worthwhile to discuss my specific implementation on raymondcamden.com

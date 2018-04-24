@@ -5,6 +5,7 @@ date: "2015-03-19T09:27:30+06:00"
 categories: HTML5 JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/03/19/creating-simple-comparative-bars-with-javascript-and-css
 ---
 
 Back a few months ago I <a href="http://www.raymondcamden.com/2014/12/07/quick-review-of-sumall-com">reviewed</a> the excellent <a href="http://sumall.com">SumAll</a> service. One of the cooler parts of their service is a daily/weekly email summary of your stats. Here is a screen shot from my email this morning.

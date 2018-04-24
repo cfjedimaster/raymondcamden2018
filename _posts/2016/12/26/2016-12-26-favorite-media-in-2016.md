@@ -5,6 +5,7 @@ date: "2016-12-26T08:04:00-07:00"
 categories: Books Movies Video Games Music 
 tags: 
 banner_image: 
+permalink: /2016/12/26/favorite-media-in-2016
 ---
 
 As the year winds down, it's time for me to switch from mostly technical posts to mostly lame, casual, and fun (for me anyway) posts about the year that is about to end. Most of my traffic

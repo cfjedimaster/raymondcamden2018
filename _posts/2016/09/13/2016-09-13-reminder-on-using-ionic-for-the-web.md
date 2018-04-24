@@ -5,6 +5,7 @@ date: "2016-09-13T15:16:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: 
+permalink: /2016/09/13/reminder-on-using-ionic-for-the-web
 ---
 
 Earlier today the Ionic folks published an article about Ionic 2 and PWA (Progressive Web Apps) - ["Announcing PWA support in Ionic 2"](http://blog.ionic.io/announcing-pwa-support-in-ionic-2/). The gist is that - you guessed it - Ionic 2 apps will support PWAs out the box. You don't have to actually make use of PWA of course, but if you want to build an Ionic 2 app for the web, and *not* hybrid mobile, then Ionic has done some of the grunt work to get you started down that path. I thought it might be useful to remind folks how you can build an Ionic web apps instead of hybrid mobile apps.

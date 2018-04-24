@@ -5,6 +5,7 @@ date: "2017-03-23T10:24:00-07:00"
 categories: Developer 
 tags: 
 banner_image: 
+permalink: /2017/03/23/check-out-paveai-for-analytics
 ---
 
 I'm a bit of a stats junkie, but what I love more than a giant pile of charts and tables are tools that can actually help me understand my stats at a high level. I've reviewed such services in the past and have also blogged about my own experiments building dashboards and other views on top of Google Analytics. Earlier this month I was contacted by the folks at [PaveAI](https://www.paveai.com/).

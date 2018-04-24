@@ -5,6 +5,7 @@ date: "2015-12-28T10:25:47+06:00"
 categories: Books Movies Video Games 
 tags: 
 banner_image: 
+permalink: /2015/12/28/favorite-media-in-2015
 ---
 
 Following up on my previous non-tech/just for fun posts (<a href="http://www.raymondcamden.com/2015/12/23/books-i-read-in-2015">Books I Read in 2015</a> and <a href="http://www.raymondcamden.com/2015/12/22/my-year">My Year</a>), here is my favorite media of 2015. This was originally going to be my favorite music of the year, but I figured I'd expand it a bit to cover movies and video games too. This is obviously a very personal list, but hopefully you'll get some ideas about things to watch/play!

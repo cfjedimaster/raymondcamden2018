@@ -5,6 +5,7 @@ date: "2017-07-06T08:20:00-07:00"
 categories: JavaScript 
 tags: JavaScript
 banner_image: 
+permalink: /2017/07/06/google-analytics-and-rss-report-version-2
 ---
 
 Over two years ago I [blogged](https://www.raymondcamden.com/2015/06/08/google-analytics-and-rss-report/) about a demo I had built involving RSS and Google Analytics. The reason for that demo was simple. As an active blogger, I want to have an idea about how my recent content is doing. Google Analytics, however, doesn't have a way to recognize what my most recent content is. By combining a RSS feed and a Google Analytics API, I could create a mashup that reported exactly what I wanted - how my latest entries were doing.
@@ -71,8 +72,8 @@ function loadRSS() {
 	&#x2F;&#x2F;hide the google auth button
 	$(&#x27;.g-signin2&#x27;).hide();
 
-    var yql = &#x27;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select%20title%2Clink%2Cdescription%20from%20rss%20where%20url%3D&#x27; +
-	&#x27;%22&#x27;+encodeURIComponent(RSS)+&#x27;%22&amp;format=json&amp;diagnostics=true&amp;callback=&#x27;;
+    var yql = &#x27;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select{% raw %}%20title%{% endraw %}2Clink{% raw %}%2Cdescription%{% endraw %}20from{% raw %}%20rss%{% endraw %}20where{% raw %}%20url%{% endraw %}3D&#x27; +
+	&#x27;{% raw %}%22&#x27;+encodeURIComponent(RSS)+&#x27;%{% endraw %}22&amp;format=json&amp;diagnostics=true&amp;callback=&#x27;;
 
 	$reportTable = $(&#x27;#reportTable tbody&#x27;);
 
@@ -93,7 +94,7 @@ function queryReports(items) {
 	items.forEach((item) =&gt; {
 
 		let newRow = `
-&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;${item.link}&quot; target=&quot;_new&quot;&gt;${item.title}&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;${% raw %}{item.link}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{item.title}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 		`;
 
 		$reportTable.append(newRow);
@@ -102,10 +103,10 @@ function queryReports(items) {
 		let report = {
 			viewId:VIEW_ID,
 			dateRanges:[
-				{startDate:&#x27;2005-01-01&#x27;, endDate:&#x27;today&#x27;}
+				{% raw %}{startDate:&#x27;2005-01-01&#x27;, endDate:&#x27;today&#x27;}{% endraw %}
 			], 
 			metrics:[
-				{expression:&#x27;ga:pageviews&#x27;}
+				{% raw %}{expression:&#x27;ga:pageviews&#x27;}{% endraw %}
 			],
 			filtersExpression:&#x27;ga:pagePath=@&#x27;+link
 		}

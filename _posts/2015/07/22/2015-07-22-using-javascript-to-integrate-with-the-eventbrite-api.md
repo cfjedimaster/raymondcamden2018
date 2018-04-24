@@ -5,6 +5,7 @@ date: "2015-07-22T13:44:00+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/07/22/using-javascript-to-integrate-with-the-eventbrite-api
 ---
 
 Almost a year ago I <a href="http://www.raymondcamden.com/2014/08/15/Eventbrite-API-Demos">blogged</a> about using the EventBrite API with ColdFusion. At that time, I was under the impression that all uses of the EventBrite API required a private OAuth token. This means it would not be possible to use the data on the client-side. (Unless you used a server to proxy the API calls for you of course.) But after speaking to Mitch Colleran from EventBrite, I was happy to discover I was wrong.

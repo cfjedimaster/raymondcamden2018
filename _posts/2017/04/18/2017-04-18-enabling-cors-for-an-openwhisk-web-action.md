@@ -5,6 +5,7 @@ date: "2017-04-18T08:45:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/04/18/enabling-cors-for-an-openwhisk-web-action
 ---
 
 Here's a quick tip for you. If you are building an OpenWhisk action you plan on exposing as a [web action](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_webactions.html#openwhisk_webactions), most likely you'll want to look into enabling CORS so you can call your code from JavaScript on the front-end. Since Web Actions can return both a result and headers, this is trivial to do. Here is a simple example.

@@ -5,6 +5,7 @@ date: "2017-08-01T09:40:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/serverless_basic.jpg
+permalink: /2017/08/01/serverless-basic
 ---
 
 I tend to tease myself a bit about the "useless demos" I like to build, but almost consistently I end up learning <em>something</em> new. It may not be an earth shattering realization of something incredibly deep, but generally, if I learn something, and if I can share it, I consider it a win. Case in point - running BASIC programs in a serverless environment. 
@@ -30,9 +31,9 @@ function main(args) {
 
     program.init({
         tty: {
-            getCursorPosition: function() { return { x: 0, y: 0 }; },
-            setCursorPosition: function() { },
-            getScreenSize: function() { return { width: 80, height: 24 }; },
+            getCursorPosition: function() {% raw %}{ return { x: 0, y: 0 }{% endraw %}; },
+            setCursorPosition: function() {% raw %}{ }{% endraw %},
+            getScreenSize: function() {% raw %}{ return { width: 80, height: 24 }{% endraw %}; },
             writeChar: function(ch) { 
                 &#x2F;&#x2F;console.log(&#x27;writeChar called with: &#x27;+ch);
                 result += ch;
@@ -69,7 +70,7 @@ function main(args) {
     }
     driver(); &#x2F;&#x2F; step until done or blocked
 
-    return {result:result};
+    return {% raw %}{result:result}{% endraw %};
 
 }
 
@@ -104,7 +105,7 @@ Basically I initialize the code with a string input (the BASIC code) and then "r
         &lt;div id=&quot;result&quot;&gt;&lt;h2&gt;Output&lt;&#x2F;h2&gt;&lt;pre&gt;&lt;&#x2F;pre&gt;&lt;&#x2F;div&gt;
 
         &lt;script&gt;
-        let API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden%40us.ibm.com_My%20Space&#x2F;basic&#x2F;basic.json&#x27;;
+        let API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space&#x2F;basic&#x2F;basic.json&#x27;;
         let $code, $runButton, $result;
 
         document.addEventListener(&#x27;DOMContentLoaded&#x27;, init, false);

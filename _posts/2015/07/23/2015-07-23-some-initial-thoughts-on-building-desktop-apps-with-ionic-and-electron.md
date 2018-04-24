@@ -5,6 +5,7 @@ date: "2015-07-23T11:34:56+06:00"
 categories: Development HTML5 JavaScript 
 tags: ionic
 banner_image: 
+permalink: /2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron
 ---
 
 Earlier this week I was working with a desktop app (which I can't talk about... yet) that had an Ionic-look to it. On a whim, I opened up the package contents and discovered it was an <a href="http://electron.atom.io/">Electron</a> app. If you've never heard of it, Electron is an open source project that lets you build desktop apps (for Mac, Windows, and Linux) using web technologies. The last time I did anything in this space was with Adobe AIR, which was years ago. I've played with Electron a tiny bit, but I had not tried to use Ionic with it so I thought I'd give it a shot. Before digging in, I want to bring up two very important points.
@@ -48,7 +49,7 @@ app.on('window-all-closed', function() {
 // initialization and is ready to create browser windows.
 app.on('ready', function() {
   // Create the browser window.
-  mainWindow = new BrowserWindow({width: 800, height: 600});
+  mainWindow = new BrowserWindow({% raw %}{width: 800, height: 600}{% endraw %});
 
   // and load the index.html of the app.
   mainWindow.loadUrl('file://' + __dirname + '/index.html');

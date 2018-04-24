@@ -5,6 +5,7 @@ date: "2015-09-30T15:34:46+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/09/30/ionic-1-6-5-and-updates-to-services
 ---
 
 As a quick aside, I worked with Eric Bobbitt of the Ionic team while writing this. I asked him a <i>lot</i> of questions very quickly and he never complained. Big kudos to him for being patient with me!

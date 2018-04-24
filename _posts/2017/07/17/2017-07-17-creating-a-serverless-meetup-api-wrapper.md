@@ -5,6 +5,7 @@ date: "2017-07-17T10:58:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/07/17/creating-a-serverless-meetup-api-wrapper
 ---
 
 Yesterday I was doing some research into serverless meetups when I encountered something that bugged me about the [Meetup.com](https://www.meetup.com) web site. Specifically, this:
@@ -79,9 +80,9 @@ function main(args) {
                     return (item.country === args.country);
                 });
             }
-            resolve({result:items});
+            resolve({% raw %}{result:items}{% endraw %});
         }).catch((err) =&gt; {
-            reject({error:err});
+            reject({% raw %}{error:err}{% endraw %});
         });
 
     });
@@ -139,14 +140,14 @@ function doSearch(e) {
             $resultItems.html(&#x27;&lt;p&gt;Sorry, but there were no results.&lt;&#x2F;p&gt;&#x27;);
             return;
         }
-        let s = `&lt;p&gt;I found ${resp.result.length} match(es).&lt;&#x2F;p&gt;`;
+        let s = `&lt;p&gt;I found ${% raw %}{resp.result.length}{% endraw %} match(es).&lt;&#x2F;p&gt;`;
         resp.result.forEach((item) =&gt; {
             let itemHtml = `
-&lt;h2&gt;${item.name}&lt;&#x2F;h2&gt;
+&lt;h2&gt;${% raw %}{item.name}{% endraw %}&lt;&#x2F;h2&gt;
 &lt;p&gt;
-&lt;a href=&quot;${item.link}#&quot; target=&quot;_new&quot;&gt;${item.link}&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
-Members: ${item.members}&lt;br&#x2F;&gt;
-Address: ${item.city}, ${item.state}
+&lt;a href=&quot;${% raw %}{item.link}{% endraw %}#&quot; target=&quot;_new&quot;&gt;${% raw %}{item.link}{% endraw %}&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
+Members: ${% raw %}{item.members}{% endraw %}&lt;br&#x2F;&gt;
+Address: ${% raw %}{item.city}{% endraw %}, ${% raw %}{item.state}{% endraw %}
 &lt;&#x2F;p&gt;
             `;
             s += itemHtml;

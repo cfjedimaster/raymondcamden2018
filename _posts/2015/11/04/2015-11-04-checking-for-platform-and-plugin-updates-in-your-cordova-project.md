@@ -5,6 +5,7 @@ date: "2015-11-04T14:31:55+06:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/11/04/checking-for-platform-and-plugin-updates-in-your-cordova-project
 ---
 
 Earlier today the Cordova team announced an important update for the iOS platform (<a href="http://cordova.apache.org/announcements/2015/11/02/cordova-ios-3-9-2.html">Apache Cordova iOS 3.9.2</a>). I thought it might be worthwhile to discuss how you can check your platforms and plugins for updates. It isn't a complex process, but it is probably something to make part of your routine management in your organization. As I don't manage one application but build lots of silly demos, I don't necessarily have to worry so much about this. Despite that, I was curious so I did a bit of digging.

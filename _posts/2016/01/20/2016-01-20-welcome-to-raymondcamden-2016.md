@@ -5,6 +5,7 @@ date: "2016-01-20T14:46:54-06:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2016/01/20/welcome-to-raymondcamden-2016
 ---
 
 Well, I've been alluding to this now for a few months, but I've finally pulled the plug on the old site and migrated everything over to a set of flat files with [Hugo](http://gohugo.io) powering the generation. I'm using [Surge](http://surge.sh) for hosting and will be upgrading to the paid plan (all of 10 bucks) as soon as possible. 

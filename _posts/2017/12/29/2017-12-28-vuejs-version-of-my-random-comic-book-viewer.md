@@ -5,6 +5,7 @@ date: "2017-12-29"
 categories: Development Serverless 
 tags: javascript vuejs openwhisk
 banner_image: 
+permalink: /2017/12/29/vuejs-version-of-my-random-comic-book-viewer
 ---
 
 A little over six months ago I blogged (["Serverless Demo - Random Comic Book Character via Comic Vine API"](https://www.raymondcamden.com/2017/06/19/serverless-demo-random-comic-book-character-via-comic-vine-api/)) an example of a simple front end to a serverless function I built that returned a random comic book character from the [Comic Vine API](https://comicvine.gamespot.com/api/). I still feel a bit sketchy about using the API. The forum is "alive" but no one official seems to be minding the store so to speak. That being said, I thought it would be fun to rebuild the demo in Vue.js. 
@@ -19,26 +20,26 @@ I used [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScri
 if(char.creators.length) {
 	creatorsTemplate = '<h2>Creators</h2><ul>';
 	char.creators.forEach((creator) => {
-		creatorsTemplate += `<li><a href="${creator.site_detail_url}" target="_new">${creator.name}</a></li>`;
+		creatorsTemplate += `<li><a href="${% raw %}{creator.site_detail_url}{% endraw %}" target="_new">${% raw %}{creator.name}{% endraw %}</a></li>`;
 	});
 	creatorsTemplate += '</ul>';
 } 
 
 let mainTemplate = `
-<h1>${char.name}</h1>
+<h1>${% raw %}{char.name}{% endraw %}</h1>
 <p>
-	<strong>Publisher:</strong> ${publisher}<br/>
-	<strong>First Issue:</strong> <a href="${char.first_issue.site_detail_url}" target="_new">${char.first_issue.volume.name} ${char.first_issue.issue_number} (${char.first_issue.cover_date})</a><br/>
+	<strong>Publisher:</strong> ${% raw %}{publisher}{% endraw %}<br/>
+	<strong>First Issue:</strong> <a href="${% raw %}{char.first_issue.site_detail_url}{% endraw %}" target="_new">${% raw %}{char.first_issue.volume.name}{% endraw %} ${% raw %}{char.first_issue.issue_number}{% endraw %} (${% raw %}{char.first_issue.cover_date}{% endraw %})</a><br/>
 </p>
 
-<a href="${char.site_detail_url}" target="_new"><img class="heroImage" src="${image}"></a>
-<p>${char.description}</p>
+<a href="${% raw %}{char.site_detail_url}{% endraw %}" target="_new"><img class="heroImage" src="${% raw %}{image}{% endraw %}"></a>
+<p>${% raw %}{char.description}{% endraw %}</p>
 
-${creatorsTemplate}
-${powersTemplate}
-${teamsTemplate}
-${friendsTemplate}
-${enemiesTemplate}
+${% raw %}{creatorsTemplate}{% endraw %}
+${% raw %}{powersTemplate}{% endraw %}
+${% raw %}{teamsTemplate}{% endraw %}
+${% raw %}{friendsTemplate}{% endraw %}
+${% raw %}{enemiesTemplate}{% endraw %}
             `;
 ```
 
@@ -63,14 +64,14 @@ First, the HTML:
 	<div id="app" v-cloak>
 		<div v-if="loading"><i>Loading Random Character...</i></div>
 		<div v-else>
-			<h1>{%raw%}{{char.name}}{%endraw%}</h1>
+			<h1>{% raw %}{{char.name}{% endraw %}}</h1>
 
 			<p>
 				<span v-if="char.publisher && char.publisher.name">
-					<strong>Publisher:</strong> {%raw%}{{char.publisher.name}}{%endraw%}<br/>
+					<strong>Publisher:</strong> {% raw %}{{char.publisher.name}{% endraw %}}<br/>
 				</span>
 				<strong>First Issue:</strong> <a :href="char.first_issue.site_detail_url" target="_new">
-					{%raw%}{{char.first_issue.volume.name}}{%endraw%} {%raw%}{{char.first_issue.issue_number}}{%endraw%} ({%raw%}{{char.first_issue.cover_date}}{%endraw%})</a><br/>
+					{% raw %}{{char.first_issue.volume.name}{% endraw %}} {% raw %}{{char.first_issue.issue_number}{% endraw %}} ({% raw %}{{char.first_issue.cover_date}{% endraw %}})</a><br/>
 			</p>
 
 			<a :href="char.site_detail_url" target="_new"><img class="heroImage" :src="char.image"></a>
@@ -80,7 +81,7 @@ First, the HTML:
 			<h2>Creators</h2>
 			<ul>
 				<li v-for="creator in char.creators">
-					<a :href="creator.site_detail_url" target="_new">{%raw%}{{creator.name}}{%endraw%}</a>
+					<a :href="creator.site_detail_url" target="_new">{% raw %}{{creator.name}{% endraw %}}</a>
 				</li>
 			</ul>
 			</div>
@@ -88,28 +89,28 @@ First, the HTML:
 			<div v-if="char.powers.length">
 				<h2>Powers</h2>
 				<ul>
-					<li v-for="power in char.powers">{%raw%}{{power.name}}{%endraw%}</li>
+					<li v-for="power in char.powers">{% raw %}{{power.name}{% endraw %}}</li>
 				</ul>
 			</div>
 
 			<div v-if="char.teams.length">
 				<h2>Teams</h2>
 				<ul>
-					<li v-for="team in char.teams"><a :href="team.site_detail_url" target="_new">{%raw%}{{team.name}}{%endraw%}</a></li>
+					<li v-for="team in char.teams"><a :href="team.site_detail_url" target="_new">{% raw %}{{team.name}{% endraw %}}</a></li>
 				</ul>
 			</div>
 
 			<div v-if="char.character_friends.length">
 				<h2>Friends</h2>
 				<ul>
-					<li v-for="friend in char.character_friends"><a :href="friend.site_detail_url" target="_new">{%raw%}{{friend.name}}{%endraw%}</a></li>
+					<li v-for="friend in char.character_friends"><a :href="friend.site_detail_url" target="_new">{% raw %}{{friend.name}{% endraw %}}</a></li>
 				</ul>
 			</div>
 
 			<div v-if="char.character_enemies.length">
 				<h2>Enemies</h2>
 				<ul>
-					<li v-for="enemy in char.character_enemies"><a :href="enemy.site_detail_url" target="_new">{%raw%}{{enemy.name}}{%endraw%}</a></li>
+					<li v-for="enemy in char.character_enemies"><a :href="enemy.site_detail_url" target="_new">{% raw %}{{enemy.name}{% endraw %}}</a></li>
 				</ul>
 			</div>
 
@@ -130,7 +131,7 @@ First, the HTML:
 Now let's look at the JavaScript:
 
 ```js
-const api = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/comicvine/randomCharacter.json';
+const api = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/comicvine/randomCharacter.json';
 
 const defaultMaleImage = 'https://comicvine.gamespot.com/api/image/scale_large/1-male-good-large.jpg';
 

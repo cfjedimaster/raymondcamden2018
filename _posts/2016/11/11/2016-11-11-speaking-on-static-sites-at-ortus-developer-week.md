@@ -5,6 +5,7 @@ date: "2016-11-11T12:41:00-07:00"
 categories: Development Static Sites 
 tags: 
 banner_image: 
+permalink: /2016/11/11/speaking-on-static-sites-at-ortus-developer-week
 ---
 
 Forgive the somewhat late notice, but I'll be speaking next week at [Ortus Developer Week](https://www.ortussolutions.com/odw), a 100% free, online conference run by the fine folks at Ortus Solutions. 

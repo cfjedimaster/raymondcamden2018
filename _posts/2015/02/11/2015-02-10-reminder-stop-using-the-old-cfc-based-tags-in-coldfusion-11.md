@@ -5,6 +5,7 @@ date: "2015-02-11T05:57:56+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/02/11/reminder-stop-using-the-old-cfc-based-tags-in-coldfusion-11
 ---
 
 Earlier last week I was helping someone diagnose a ColdFusion issue when I noticed he was using the old CFC-based tags in cfscript. Specifically:

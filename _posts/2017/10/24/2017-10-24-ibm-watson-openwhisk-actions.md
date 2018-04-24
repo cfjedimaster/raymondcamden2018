@@ -5,6 +5,7 @@ date: "2017-10-24T07:58:00-07:00"
 categories: Serverless 
 tags: openwhisk watson
 banner_image: 
+permalink: /2017/10/24/ibm-watson-openwhisk-actions
 ---
 
 Many months ago I blogged about an OpenWhisk package I built for [IBM Watson Tone Analyzer](https://www.ibm.com/watson/developercloud/tone-analyzer.html). The code wasn't terribly complex since most of the work was done by the [npm package](https://www.npmjs.com/package/watson-developer-cloud), but I thought it might be helpful to others looking to use the API with OpenWhisk. I've done some updates to that action and have added a new service today, [Personality Insights](https://www.ibm.com/watson/services/personality-insights/). 

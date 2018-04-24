@@ -5,6 +5,7 @@ date: "2016-07-05T11:31:00-07:00"
 categories: Development JavaScript 
 tags: nodejs
 banner_image: /images/banners/poc-dr1.jpg
+permalink: /2016/07/05/new-poc-dailyreddit
 ---
 
 For the past few weeks (mainly due to travel) I've been working on a little POC (proof of concept) for an application that most people will probably think doesn't make sense. I'm still somewhat of a new [Reddit](https://www.reddit.com) user. I'm not really an active participant either. I've got some subreddits I check almost daily, some a bit less, and I'll maybe do 3-4 posts per month. Maybe. I found myself doing the same thing whenever I wanted to check the site.
@@ -76,8 +77,8 @@ function storeUser(profile,cb) {
 	}
 
 	User.update(
-		{id:newUser.id},
-		newUser, {upsert:true}, function(err, user) {
+		{% raw %}{id:newUser.id}{% endraw %},
+		newUser, {% raw %}{upsert:true}{% endraw %}, function(err, user) {
 		if(err) return cb(err);
 		if(user) return cb(null, newUser.id);			
 	});
@@ -106,7 +107,7 @@ passport.serializeUser(function(id, cb) {
 
 passport.deserializeUser(function(id, cb) {
 	console.log('deserialize being called', id);
-	User.findOne({id:id}, function(err, user) {
+	User.findOne({% raw %}{id:id}{% endraw %}, function(err, user) {
 		cb(null,user);
 	});
 });
@@ -120,7 +121,7 @@ app.get('/auth/twitter/callback',
   passport.authenticate('twitter', { successRedirect: '/dashboard',
                                      failureRedirect: '/' }));
 
-app.get('/auth/facebook', passport.authenticate('facebook', {scope:['email']}));
+app.get('/auth/facebook', passport.authenticate('facebook', {% raw %}{scope:['email']}{% endraw %}));
 
 app.get('/auth/facebook/callback',
   passport.authenticate('facebook', { successRedirect: '/dashboard',
@@ -169,7 +170,7 @@ Reddit.prototype.searchSubreddits = function(str) {
 	console.log('called search with '+str);
 
 	return new Promise((resolve,reject) =&gt;  {
-		this.snoowrapper.search_subreddit_names({query:str}).then(function(results) {
+		this.snoowrapper.search_subreddit_names({% raw %}{query:str}{% endraw %}).then(function(results) {
 			resolve(results);
 		});
 	});
@@ -187,9 +188,9 @@ Sending Email
 For email, I decided on [MailGun](https://mailgun.com/) as it had a free tier that was incredibly generous. I had a lot of trouble actually trying to use it via Node though. [Nodemailer](http://nodemailer.com/) seemed really nice, but I couldn't get it to authenticate with MailGun. I ended up using a package called mailgun-js and it "just worked". Here is an example of it in action.
 
 <pre><code class="language-javascript">
-var mailgun = new Mailgun({apiKey: credentials.mailgun.apikey, domain: credentials.mailgun.domain});
+var mailgun = new Mailgun({% raw %}{apiKey: credentials.mailgun.apikey, domain: credentials.mailgun.domain}{% endraw %});
 
-app.render('email', {subs:subs}, function(err, html) {
+app.render('email', {% raw %}{subs:subs}{% endraw %}, function(err, html) {
 
 	var message = {	
 		from: 'postmaster@raymondcamden.mailgun.org',
@@ -230,28 +231,28 @@ So with those basic rules in place, I began building a template to handle my rep
 
 &lt;p&gt;Here are the most recent updates for your subscribed subreddits:&lt;/p&gt;
 
-{%raw%}{{#each subs}}{%endraw%}
-	&lt;h2&gt;{%raw%}{{name}}{%endraw%}&lt;/h2&gt;
+{% raw %}{{#each subs}{% endraw %}}
+	&lt;h2&gt;{% raw %}{{name}{% endraw %}}&lt;/h2&gt;
 
-	{%raw%}{{#each posts}}{%endraw%}
+	{% raw %}{{#each posts}{% endraw %}}
 	&lt;p style=&quot;margin-bottom:30px&quot;&gt;
-	{%raw%}{{#if thumbnail}}{%endraw%}
-	&lt;img src=&quot;{%raw%}{{thumbnail}}{%endraw%}&quot; align=&quot;left&quot; style=&quot;margin-right:10px&quot;&gt;
-	{%raw%}{{/if}}{%endraw%}
-	&lt;b&gt;Title:&lt;/b&gt; {%raw%}{{title}}{%endraw%}&lt;br/&gt;
-	&lt;b&gt;URL:&lt;/b&gt; &lt;a href=&quot;{%raw%}{{url}}{%endraw%}&quot;&gt;{%raw%}{{url}}{%endraw%}&lt;/a&gt;&lt;br/&gt;
-	&lt;b&gt;Reddit URL:&lt;/b&gt; &lt;a href=&quot;https://www.reddit.com{%raw%}{{permalink}}{%endraw%}&quot;&gt;https://www.reddit.com{%raw%}{{permalink}}{%endraw%}&lt;/a&gt; ({%raw%}{{ num_comments}}{%endraw%} comments)&lt;br/&gt;
-	&lt;b&gt;Author:&lt;/b&gt; {%raw%}{{ author.name }}{%endraw%}&lt;br/&gt;
+	{% raw %}{{#if thumbnail}{% endraw %}}
+	&lt;img src=&quot;{% raw %}{{thumbnail}{% endraw %}}&quot; align=&quot;left&quot; style=&quot;margin-right:10px&quot;&gt;
+	{% raw %}{{/if}{% endraw %}}
+	&lt;b&gt;Title:&lt;/b&gt; {% raw %}{{title}{% endraw %}}&lt;br/&gt;
+	&lt;b&gt;URL:&lt;/b&gt; &lt;a href=&quot;{% raw %}{{url}{% endraw %}}&quot;&gt;{% raw %}{{url}{% endraw %}}&lt;/a&gt;&lt;br/&gt;
+	&lt;b&gt;Reddit URL:&lt;/b&gt; &lt;a href=&quot;https://www.reddit.com{% raw %}{{permalink}{% endraw %}}&quot;&gt;https://www.reddit.com{% raw %}{{permalink}{% endraw %}}&lt;/a&gt; ({% raw %}{{ num_comments}{% endraw %}} comments)&lt;br/&gt;
+	&lt;b&gt;Author:&lt;/b&gt; {% raw %}{{ author.name }{% endraw %}}&lt;br/&gt;
 	&lt;br clear=&quot;left&quot;&gt;
-	{%raw%}{{#if is_self}}{%endraw%}
-	{%raw%}{{left selftext}}{%endraw%}
-	{%raw%}{{/if}}{%endraw%}
+	{% raw %}{{#if is_self}{% endraw %}}
+	{% raw %}{{left selftext}{% endraw %}}
+	{% raw %}{{/if}{% endraw %}}
 	&lt;/p&gt;	
-	{%raw%}{{/each}}{%endraw%}
+	{% raw %}{{/each}{% endraw %}}
 
 	&lt;hr/&gt;
 
-{%raw%}{{/each}}{%endraw%}
+{% raw %}{{/each}{% endraw %}}
 </code></pre>
 
 And here is it renders. It isn't great, but it gives you an idea of what I'm going for:
@@ -270,7 +271,7 @@ function doSubscriptions() {
 	//reddit uses seconds, not ms
 	var yesterdayEpoch = yesterday.getTime()/1000;
 
-	var mailgun = new Mailgun({apiKey: credentials.mailgun.apikey, domain: credentials.mailgun.domain});
+	var mailgun = new Mailgun({% raw %}{apiKey: credentials.mailgun.apikey, domain: credentials.mailgun.domain}{% endraw %});
 
 	User.find({}, function(err,users) {
 		console.log('i have '+users.length+' users');
@@ -293,7 +294,7 @@ function doSubscriptions() {
 				var subs = [];
 				for(var i=0;i&lt;results.length;i++) {
 					var posts = results[i].map(function(p) {						
-						if(p.thumbnail === 'self' || p.thumbnail === 'default' || p.thumbnail === 'nsfw') delete p.thumbnail;
+						if(p.thumbnail === 'self' {% raw %}|| p.thumbnail === 'default' |{% endraw %}| p.thumbnail === 'nsfw') delete p.thumbnail;
 						return p;
 					});
 
@@ -303,7 +304,7 @@ function doSubscriptions() {
 					});
 				}
 
-				app.render('email', {subs:subs}, function(err, html) {
+				app.render('email', {% raw %}{subs:subs}{% endraw %}, function(err, html) {
 
 					var message = {	
 						from: 'postmaster@raymondcamden.mailgun.org',

@@ -5,6 +5,7 @@ date: "2017-10-12T08:38:00-07:00"
 categories: Development JavaScript 
 tags: javascript pwa
 banner_image: 
+permalink: /2017/10/12/turning-my-no-mans-sky-app-into-a-pwa
 ---
 
 A few weeks back I blogged about an [app](https://www.raymondcamden.com/2017/08/31/building-a-no-mans-sky-utility-with-node-and-vuejs/) I built for one of my favorite games, "No Man's Sky." The app was a simple single page app (SPA) that let me calculate items I needed to complete goals in the game. I've spent the last month or so researching PWAs (Progressive Web Apps) and while I'm far from being an expert, I feel comfortable enough now to look into how I can enhance my existing sites to support being PWAs, or at least moving them in that direction.

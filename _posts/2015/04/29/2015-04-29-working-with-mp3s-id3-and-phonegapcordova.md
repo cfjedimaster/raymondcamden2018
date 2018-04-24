@@ -5,6 +5,7 @@ date: "2015-04-29T17:06:44+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/04/29/working-with-mp3s-id3-and-phonegapcordova
 ---
 
 As someone who remembers when MP3s became a de facto standard for audio files (<sup>*</sup>), I'm pretty familiar with the format used to embed metadata within them - <a href="http://id3.org/">ID3</a>. If you've ever wondered how your favorite MP3 player displayed data about your music (artist, album, year, etc.), most likely it came from the ID3 tags embedded in the file. Almost ten years ago I even <a href="http://www.raymondcamden.com/2006/06/13/Reading-MP3-ID3-tags-with-ColdFusion">blogged</a> about parsing them with ColdFusion. I thought it would be interesting to take a look at how ID3 parsing could be done within a PhoneGap/Cordova application.
@@ -94,7 +95,7 @@ function init() {
 
 							ID3.loadTags(entry.name,function() {
 								var tags = ID3.getAllTags(name);
-								data.push({name:entry.name, tags:tags});
+								data.push({% raw %}{name:entry.name, tags:tags}{% endraw %});
 								console.log(&quot;got tags for &quot;+entry.name, tags);
 								result.innerHTML += &quot;*&quot;;
 								if(index+1 &lt; entries.length) {

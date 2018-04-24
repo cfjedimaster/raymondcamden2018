@@ -5,6 +5,7 @@ date: "2016-08-12T13:07:00-07:00"
 categories: Misc 
 tags: 
 banner_image: /images/banners/ctips.jpg
+permalink: /2016/08/12/some-tips-for-conferences
 ---
 
 I've spent the past few months attending *way* too many conferences, and I've noticed a few things that I'd love to see conferences improve on. Here is my list in no particular order. Enjoy.

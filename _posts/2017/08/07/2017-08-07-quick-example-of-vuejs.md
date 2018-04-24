@@ -5,6 +5,7 @@ date: "2017-08-07T07:36:00-07:00"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/08/07/quick-example-of-vuejs
 ---
 
 Last week I was attending a conference and sat in a good session on [Vue.js](https://vuejs.org/). I've seen Vue before, even attended another session, but I think I must have paid better attention to this one as I was really impressed with what I saw. In general, my go to JavaScript framework for building applications is Angular, and I really like it. (Despite the painful transition to Angular 2, no wait Angular 3, no wait 4, oh yeah it's just Angular now.) However, if I'm not building an "app" and just using a bit of JavaScript to embellish a page, it feels like overkill. 
@@ -32,7 +33,7 @@ Ok, so here is the initial, non-Vue code.
         &lt;div id=&quot;results&quot;&gt;&lt;&#x2F;div&gt;
 
         &lt;script&gt;
-        let API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden%40us.ibm.com_My%20Space&#x2F;default&#x2F;nameSearch.json?search=&#x27;;
+        let API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space&#x2F;default&#x2F;nameSearch.json?search=&#x27;;
         let $search, $results;
 
         document.addEventListener(&#x27;DOMContentLoaded&#x27;, init, false);
@@ -52,7 +53,7 @@ Ok, so here is the initial, non-Vue code.
             .then(res =&gt; {
                 let s = &#x27;&lt;ul&gt;&#x27;;
                 res.names.forEach((name) =&gt; {
-                    s += `&lt;li&gt;${name}&lt;&#x2F;li&gt;`;
+                    s += `&lt;li&gt;${% raw %}{name}{% endraw %}&lt;&#x2F;li&gt;`;
                 });
                 s += &#x27;&lt;&#x2F;ul&gt;&#x27;;
                 $results.innerHTML = s;
@@ -95,13 +96,13 @@ Ok, now let's look at the Vue version (and once again, I'm not saying this is th
 			&lt;&#x2F;p&gt;
 		
 			&lt;ul&gt;
-				&lt;li v-for=&quot;name in names&quot;&gt;{%raw%}{{ name }}{%endraw%}&lt;&#x2F;li&gt;
+				&lt;li v-for=&quot;name in names&quot;&gt;{% raw %}{{ name }{% endraw %}}&lt;&#x2F;li&gt;
 			&lt;&#x2F;ul&gt;
 	    &lt;&#x2F;div&gt;
 			
 		&lt;script src=&quot;https:&#x2F;&#x2F;unpkg.com&#x2F;vue&quot;&gt;&lt;&#x2F;script&gt;
 		&lt;script&gt;
-		let API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden%40us.ibm.com_My%20Space&#x2F;default&#x2F;nameSearch.json?search=&#x27;;
+		let API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space&#x2F;default&#x2F;nameSearch.json?search=&#x27;;
 
 		let myApp = new Vue({
 			el:&#x27;#myApp&#x27;,

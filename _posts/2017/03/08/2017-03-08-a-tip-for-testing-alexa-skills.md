@@ -5,6 +5,7 @@ date: "2017-03-08T09:35:00-07:00"
 categories: Development 
 tags: alexa
 banner_image: 
+permalink: /2017/03/08/a-tip-for-testing-alexa-skills
 ---
 
 A week or so ago I got my first Echo device (a Dot as a speaker gift from <a href="https://www.devnexus.com/s/index">Devnexus</a>) and I fell in love with it so much that I've already purchased the larger model. My wife ands kids like it too. So naturally I decided to take a look at building custom skills for it. (For folks who don't know, a "Skill" is basically a program that lets the device respond to voice commands.) While I plan on blogging about the process of getting it to work with OpenWhisk, I wanted to share a really, really important tip.

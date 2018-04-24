@@ -5,6 +5,7 @@ date: "2018-04-19"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/clipboard.jpg
+permalink: /2018/04/19/an-example-of-the-async-clipboard-api-with-vuejs
 ---
 
 A few days ago Google shipped Chrome 66 and one of the new features enabled in that version was the [Async Clipboard API](https://www.w3.org/TR/clipboard-apis/#async-clipboard-api). As you can guess, this provides access to the user's clipboard (both read and write) and is surprisingly easy to use. 
@@ -43,7 +44,7 @@ So - want to see an example using Vue.js? Of course you do! Imagine a scenario w
   Your cool code:
   <input v-model="code">
   <button v-if="supportsCB" @click="copy">Copy</button>
-  <div v-if="message">{%raw%}{{message}}{%endraw%}</div>
+  <div v-if="message">{% raw %}{{message}{% endraw %}}</div>
 </div>
 ```
 

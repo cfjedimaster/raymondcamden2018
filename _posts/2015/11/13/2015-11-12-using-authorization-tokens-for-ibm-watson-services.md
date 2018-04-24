@@ -5,6 +5,7 @@ date: "2015-11-13T10:53:48+06:00"
 categories: Development JavaScript Mobile 
 tags: bluemix cordova
 banner_image: 
+permalink: /2015/11/13/using-authorization-tokens-for-ibm-watson-services
 ---
 
 This is a handy little trick I discovered last week. It is definitely documented (<a href="https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/gs-tokens.shtml">Using tokens with Watson services</a>), but I had not run into the feature until I was investigating a Watson service. Way back in February I wrote up a blog post that discussed how to use the Visual Recognition service with a Cordova application: <a href="http://www.raymondcamden.com/2015/02/06/using-the-new-bluemix-visual-recognition-service-in-cordova">Using the new Bluemix Visual Recognition service in Cordova</a>. While this worked fine, it had a big problem.
@@ -112,14 +113,14 @@ Now let's take a look at the JavaScript code. As I mentioned before, I won't be 
 			$scope.pic = fileUri;
 			$scope.results = [];
 
-			$ionicLoading.show({template:'Sending to Watson...'});
+			$ionicLoading.show({% raw %}{template:'Sending to Watson...'}{% endraw %});
 						
 			//So now we upload it
 			var options = new FileUploadOptions();
 			
 			options.fileKey=&quot;image&quot;;
 			options.fileName=fileUri.split('/').pop();
-			options.headers = {&quot;X-Watson-Authorization-Token&quot;:token};
+			options.headers = {% raw %}{&quot;X-Watson-Authorization-Token&quot;:token}{% endraw %};
 			
 			var ft = new FileTransfer();
 			ft.upload(fileUri, API_URL+&quot;/v1/tag/recognize&quot;, function(r) {

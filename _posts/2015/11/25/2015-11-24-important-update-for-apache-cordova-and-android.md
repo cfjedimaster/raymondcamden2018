@@ -5,6 +5,7 @@ date: "2015-11-25T08:58:59+06:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/11/25/important-update-for-apache-cordova-and-android
 ---
 
 Those of us who work with Apache Cordova are well aware of the issues surrounding the Android simulator. Calling it "slow" does not properly describe the painful experience of actually trying to use it. In fact, every now and then when I accidentally launch it via the Cordova CLI, I say something out loud that I don't usually include in my blog posts. (Hint - it rhymes with duck.) How bad is it? I've actually recommended folks go out and buy cheap Android devices instead of using the simulator. Of course, you should always test on real devices. My point is, I'd suggest using a real device instead of the simulator since it was actually <i>slower</i> than going to the real device. Of course, even when I have a real device, half of my USB cables don't properly let adb connect to it. Apparently I'm using the "wrong" USB cables. This is why I use iOS about 99% of the time for my Cordova work. I also recommend <a href="https://www.genymotion.com/#!/">Genymotion</a> - a free/commercial Android simulator. 

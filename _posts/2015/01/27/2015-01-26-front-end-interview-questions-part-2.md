@@ -5,6 +5,7 @@ date: "2015-01-27T08:55:31+06:00"
 categories: Development 
 tags: front-end-interview-questions
 banner_image: 
+permalink: /2015/01/27/front-end-interview-questions-part-2
 ---
 
 <blockquote>This post is part of a series I'm writing where I attempt to answer, to the best of my ability, a set of <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-End developer questions</a>. I expect/hope my readers will disagree, augment, and generally hash out my answers in the comments below.</blockquote>
@@ -33,4 +34,4 @@ SEO - nope - I don’t care. :) Ok, I guess I do care, but, it isn’t something
 
 Maintainability - I suppose this falls into basic things I’ve been aware of since I started my career. Proper documentation, clean code, source control to help keep track of what’s changed, using a bug tracker to help manage requests versus email, etc. I’m not sure how well this is taught now. I don’t remember it being taught back when I was in comp sci, but that was decades ago. I think I just found something to blog deeper about later on.
 
-Technology - This part of the question is a bit open ended. At the end of the day, whether I use ColdFusion or Node or - heck - Perl CGI - I want to ensure my technology stack performs well, can be secured, and is generally stable. I’d think most of the common stacks out there match those criteria so it comes down to what is best for the team developing the project. On the client-side, the biggest thing that comes to mind here is progressive enhancement. Given technology X that may only be supported on 10% of browsers, you can add it to your project in such a way that the other 90% are not impacted by the lack of said technology.
+Technology - This part of the question is a bit open ended. At the end of the day, whether I use ColdFusion or Node or - heck - Perl CGI - I want to ensure my technology stack performs well, can be secured, and is generally stable. I’d think most of the common stacks out there match those criteria so it comes down to what is best for the team developing the project. On the client-side, the biggest thing that comes to mind here is progressive enhancement. Given technology X that may only be supported on 10{% raw %}% of browsers, you can add it to your project in such a way that the other 90%{% endraw %} are not impacted by the lack of said technology.

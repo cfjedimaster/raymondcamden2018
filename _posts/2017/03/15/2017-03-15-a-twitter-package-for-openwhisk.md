@@ -5,6 +5,7 @@ date: "2017-03-15T14:41:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/03/15/a-twitter-package-for-openwhisk
 ---
 
 I've been chewing on an idea for something I'd like to build with [OpenWhisk](https://developer.ibm.com/openwhisk/) and Alexa, and part of it involves Twitter integration. Since working with serverless means working with small, atomic functions, I decided to focus on the Twitter aspect first. I also thought it would be cool to start work on a Twitter package that could be used by other OpenWhisk users. I launched that package today, and while it is pretty small for now, I hope to expand on it over time.
@@ -31,7 +32,7 @@ function getBearerToken(key,secret) {
 		let enc_secret = new Buffer(key + &#x27;:&#x27; + secret).toString(&#x27;base64&#x27;);
 		let options = {
 			url: &#x27;https:&#x2F;&#x2F;api.twitter.com&#x2F;oauth2&#x2F;token&#x27;,
-			headers: {&#x27;Authorization&#x27;: &#x27;Basic &#x27; + enc_secret, &#x27;Content-Type&#x27;: &#x27;application&#x2F;x-www-form-urlencoded;charset=UTF-8&#x27;},
+			headers: {% raw %}{&#x27;Authorization&#x27;: &#x27;Basic &#x27; + enc_secret, &#x27;Content-Type&#x27;: &#x27;application&#x2F;x-www-form-urlencoded;charset=UTF-8&#x27;}{% endraw %},
 			body: &#x27;grant_type=client_credentials&#x27;
 		};
 
@@ -76,9 +77,9 @@ function main(args) {
 			});
 
 			let search = createSearchString(args);
-			client.get(&#x27;search&#x2F;tweets&#x27;, {q:search}, function(err, tweets, response) {
+			client.get(&#x27;search&#x2F;tweets&#x27;, {% raw %}{q:search}{% endraw %}, function(err, tweets, response) {
 				if(err) return reject(err);
-				resolve({tweets:tweets.statuses});
+				resolve({% raw %}{tweets:tweets.statuses}{% endraw %});
 			});
 			
 		});

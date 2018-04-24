@@ -5,6 +5,7 @@ date: "2016-08-11T14:28:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/jsf.jpg
+permalink: /2016/08/11/how-many-days-since-the-last-javascript-framework
 ---
 
 Earlier today I mentioned discovering a new JavaScript framework that I liked on name alone - 
@@ -47,7 +48,7 @@ $(document).ready(function() {
 		var now = new Date();
 		var diff = now - (new Date(cache.timestamp));
 		//credit: http://stackoverflow.com/a/7709819/52160
-		var diffMins = Math.round(((diff % 86400000) % 3600000) / 60000);
+		var diffMins = Math.round(((diff {% raw %}% 86400000) %{% endraw %} 3600000) / 60000);
 		console.log(diffMins+' minute old');
 		if(diffMins &lt; 5) {
 			renderResult(cache. value);

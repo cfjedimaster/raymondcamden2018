@@ -5,6 +5,7 @@ date: "2015-03-25T10:24:19+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/03/25/reminder-having-a-tool-doesnt-mean-you-always-use-that-tool
 ---
 
 Earlier this week Rebecca Murphy wrote an article about what she considers a "baseline" for JavaScript developers: <a href="http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/">A Baseline for Front-End [JS] Developers: 2015</a>. It's a good article and I highly recommend reading it, but some of the comments raised an issue that I've seen in our community lately that I wanted to address.

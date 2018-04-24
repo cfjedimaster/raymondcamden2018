@@ -5,6 +5,7 @@ date: "2015-09-16T10:58:20+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/09/16/ionic-example-ion-slide-box
 ---
 
 One of my favorite parts of the Ionic framework is the <a href="http://ionicframework.com/docs/api/directive/ionSlideBox/">ion-slide-box</a>. It is a simple directive that allows you to create a pretty handy little widget for your mobile application. (Widget isn't really the best word.) The ion-slide-box directive lets you embed a set of images (or random HTML) and then display one item at a time. Their docs have a great little animated gif that I'm going to steal to demonstrate exactly what this looks like:
@@ -77,7 +78,7 @@ Notice the little gray balls at the bottom - they provide a way for you to know 
 
 				&lt;ion-slide-box&gt;
 					&lt;ion-slide ng-repeat=&quot;image in images&quot;&gt;
-						&lt;img ng-src=&quot;{%raw%}{{image.MediaUrl}}{%endraw%}&quot; style=&quot;width:300px;height:300px;margin:auto;display:block&quot; &gt;
+						&lt;img ng-src=&quot;{% raw %}{{image.MediaUrl}{% endraw %}}&quot; style=&quot;width:300px;height:300px;margin:auto;display:block&quot; &gt;
 					&lt;/ion-slide&gt;
 				&lt;/ion-slide-box&gt;
 				

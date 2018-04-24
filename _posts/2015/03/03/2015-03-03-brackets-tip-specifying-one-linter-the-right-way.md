@@ -5,6 +5,7 @@ date: "2015-03-03T16:00:46+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/03/03/brackets-tip-specifying-one-linter-the-right-way
 ---
 
 A few days ago I noticed Brackets was no longer linting JSON files. I had recently updated so I assumed it was a bug with that particular extension. Like a good developer, I checked the console and when I didn't see anything, I filed a report and moved on. (For folks curious, the extension I was using is called "JSONLint Extension for Brackets" by Ingo Richter. Oh, and for what I used when it was't working - I used <a href="http://jsonlint.com/">JSONLint.com</a>.) Turns out the issue was a mistake I made in my preferences.

@@ -5,6 +5,7 @@ date: "2017-05-01T10:39:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/05/01/sequences-as-inputoutput-providers
 ---
 
 I've been thinking a lot lately about sequences and OpenWhisk. A few weeks ago I [blogged](https://www.raymondcamden.com/2017/04/07/from-actions-to-sequences-to-services) about how well sequences work to let you "mix and match" different actions into new creations. Today I'm writing about another powerful feature of sequences, that as "Input/Output Providers". I'm not necessarily sold on that name, but hopefully my blog post will make it clear what I'm talking about.
@@ -48,7 +49,7 @@ Yep, no logic at all. This simply outputs the parameters that will drive `list-d
         }
     });
 
-    return { results:result }
+    return {% raw %}{ results:result }{% endraw %}
 
 }
 </code></pre>

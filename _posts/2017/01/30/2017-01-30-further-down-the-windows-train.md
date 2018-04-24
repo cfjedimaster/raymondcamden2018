@@ -5,6 +5,7 @@ date: "2017-01-30T10:32:00-07:00"
 categories: Development 
 tags: windows
 banner_image: 
+permalink: /2017/01/30/further-down-the-windows-train
 ---
 
 About three months ago I [wrote up](https://www.raymondcamden.com/2016/10/28/finalish-thoughts-on-the-microsoft-surface-as-well-as-apple) my "finalish"

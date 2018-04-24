@@ -5,6 +5,7 @@ date: "2015-06-05T10:16:09+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/06/05/cordova-sample-capture-and-display-video
 ---
 
 Just a quickie - a user on Stackoverflow <a href="http://stackoverflow.com/questions/30667183/how-to-show-capture-video-in-phonegap/30669597#30669597">asked</a> how to both capture video and display it in the app. This is fairly easy with the <a href="http://plugins.cordova.io/#/package/org.apache.cordova.media-capture">Media Capture</a> API so I thought I'd whip up a quick demo. 
@@ -41,7 +42,7 @@ function init() {
 	
 	document.querySelector(&quot;#takeVideo&quot;).addEventListener(&quot;touchend&quot;, function() {
 		console.log(&quot;Take video&quot;);
-		navigator.device.capture.captureVideo(captureSuccess, captureError, {limit: 1});
+		navigator.device.capture.captureVideo(captureSuccess, captureError, {% raw %}{limit: 1}{% endraw %});
 	}, false);
 	
 }

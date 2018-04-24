@@ -5,6 +5,7 @@ date: "2015-05-18T06:08:50+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/05/18/fascinating-cftrycfcatchcfoutput-bug-with-coldfusion
 ---
 
 This was reported to me by Brian Paulson and I have to admit I was pretty surprised when I saw it. Consider the following code block:
@@ -15,7 +16,7 @@ This was reported to me by Brian Paulson and I have to admit I was pretty surpri
 	&lt;cftry&gt;
 	&lt;cfset cdata =&quot;Test&quot;&gt;
 	&lt;cfdump var=&quot;#variables#&quot;&gt;
-	#outputTest(&quot;test&quot;,{&quot;cdata&quot;=cdata})#
+	#outputTest(&quot;test&quot;,{% raw %}{&quot;cdata&quot;=cdata}{% endraw %})#
 	
 	&lt;cfcatch type=&quot;any&quot;&gt;
 	    &lt;cfdump var=&quot;#cfcatch#&quot;&gt;
@@ -37,7 +38,7 @@ The main issue seems to be the placement of the cfoutput. Moving them inside mak
 <pre><code class="language-markup">&lt;cftry&gt;
 &lt;cfoutput&gt;
 &lt;cfset cdata =&quot;Test&quot;&gt;
-#outputTest(&quot;test&quot;,{&quot;cdata&quot;=cdata})#
+#outputTest(&quot;test&quot;,{% raw %}{&quot;cdata&quot;=cdata}{% endraw %})#
 &lt;/cfoutput&gt;
 &lt;cfcatch type=&quot;any&quot;&gt;
     &lt;cfdump var=&quot;#cfcatch#&quot;&gt;

@@ -5,6 +5,7 @@ date: "2018-01-16"
 categories: Development 
 tags: javascript
 banner_image: 
+permalink: /2018/01/16/generating-random-cure-song-titles
 ---
 
 Before you go any further, please note that this blog post contains absolutely nothing of value. This was a stupid idea I had last night that I decided to quickly build this morning. It worked. It made me laugh. But there is nothing of value here. If your boss catches you reading this you'll probably be fired. You've been warned.

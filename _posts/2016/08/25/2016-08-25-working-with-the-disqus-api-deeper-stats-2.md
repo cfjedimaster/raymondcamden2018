@@ -5,6 +5,7 @@ date: "2016-08-25T10:04:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/disqus_api.jpg
+permalink: /2016/08/25/working-with-the-disqus-api-deeper-stats-2
 ---
 
 Welcome to (probably) my final blog post on working with the [Disqus API](https://disqus.com/api/docs/). It's been fun building my own tools for my comment data, but I've scratched this itch enough and will probably not work on it again. My final tool isn't perfect, but it works for me and provides the stats I wanted (that Disqus themselves did not provide) and as the code is up on Github, folks are free to take it and run. (But if you do, let me know!)

@@ -5,6 +5,7 @@ date: "2015-09-17T09:44:11+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/09/17/creating-a-custom-display-for-googles-analytics-embed-library
 ---
 
 I've blogged a few times now about Google's <a href="https://developers.google.com/analytics/devguides/reporting/embed/v1/">Analytics Embed</a> library. I really dig it as it makes working with their Analytics API pretty darn simple. It really opens up the ability to create interesting mashups and <a href="http://www.raymondcamden.com/2015/07/07/using-the-google-analytics-embed-api-to-build-a-dashboard">custom dashboards</a> on your sites with just plain JavaScript. Recently, a reader asked me a question about how he could have more control over the data displayed by the library.
@@ -31,10 +32,10 @@ His <a href="http://www.raymondcamden.com/2015/06/10/quick-example-of-the-google
 
 &lt;script&gt;
 (function(w,d,s,g,js,fjs){
-  g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(cb){this.q.push(cb)}};
+  g=w.gapi{% raw %}||(w.gapi={}{% endraw %});g.analytics={% raw %}{q:[],ready:function(cb){this.q.push(cb)}{% endraw %}};
   js=d.createElement(s);fjs=d.getElementsByTagName(s)[0];
   js.src='https://apis.google.com/js/platform.js';
-  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){g.load('analytics')};
+  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){% raw %}{g.load('analytics')}{% endraw %};
 }(window,document,'script'));
 &lt;/script&gt;
 
@@ -112,10 +113,10 @@ Nice, but what if you wanted more control over the rendering? Specifically, the 
 
 &lt;script&gt;
 (function(w,d,s,g,js,fjs){
-  g=w.gapi||(w.gapi={});g.analytics={q:[],ready:function(cb){this.q.push(cb)}};
+  g=w.gapi{% raw %}||(w.gapi={}{% endraw %});g.analytics={% raw %}{q:[],ready:function(cb){this.q.push(cb)}{% endraw %}};
   js=d.createElement(s);fjs=d.getElementsByTagName(s)[0];
   js.src='https://apis.google.com/js/platform.js';
-  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){g.load('analytics')};
+  fjs.parentNode.insertBefore(js,fjs);js.onload=function(){% raw %}{g.load('analytics')}{% endraw %};
 }(window,document,'script'));
 &lt;/script&gt;
 

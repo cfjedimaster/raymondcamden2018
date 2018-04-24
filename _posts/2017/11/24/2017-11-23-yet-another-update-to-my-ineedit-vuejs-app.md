@@ -5,6 +5,7 @@ date: "2017-11-24"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/11/24/yet-another-update-to-my-ineedit-vuejs-app
 ---
 
 This is the last update to my INeedIt app - I promise. At least until I get another idea or two for a good update. But then that will be the last one - honest. (Ok, probably not. ;) Before I begin, be sure to read the [first post](https://www.raymondcamden.com/2017/11/16/another-vuejs-demo-ineedit/) about this demo and the [update](https://www.raymondcamden.com/2017/11/21/update-to-my-vuejs-ineedit-demo/) from a few days ago. The last update was relatively minor. This one is pretty radical.
@@ -18,14 +19,14 @@ The solution is [single file components](https://vuejs.org/v2/guide/single-file-
 <pre><code class="language-markup">
 &lt;template&gt;
 &lt;div&gt;
-  &lt;strong&gt;My favorite pie is {%raw%}{{pie}}{%endraw%}.&lt;/strong&gt;
+  &lt;strong&gt;My favorite pie is {% raw %}{{pie}{% endraw %}}.&lt;/strong&gt;
 &lt;/div&gt;
 &lt;/template&gt;
 
 &lt;script&gt;
 module.exports = {
   data:function() {
-    return { pie:'pecan' };
+    return {% raw %}{ pie:'pecan' }{% endraw %};
   }
 }
 &lt;/script&gt;
@@ -87,7 +88,7 @@ I then began the process of creating a SFC for each of my three views. For the m
         &lt;div v-if=&quot;!loading &amp;&amp; !error&quot;&gt;
         &lt;ul&gt;
         &lt;li v-for=&quot;service in serviceTypes&quot; :key=&quot;service.id&quot;&gt;
-            &lt;router-link :to=&quot;{name:&#x27;typeList&#x27;, params:{type:service.id, name:service.label, lat:lat, lng:lng} }&quot;&gt;{%raw%}{{service.label}}{%endraw%}&lt;&#x2F;router-link&gt;
+            &lt;router-link :to=&quot;{% raw %}{name:&#x27;typeList&#x27;, params:{type:service.id, name:service.label, lat:lat, lng:lng}{% endraw %} }&quot;&gt;{% raw %}{{service.label}{% endraw %}}&lt;&#x2F;router-link&gt;
         &lt;&#x2F;li&gt;
         &lt;&#x2F;ul&gt;
         &lt;&#x2F;div&gt;
@@ -105,7 +106,7 @@ export default {
             lat:null,
             lng:null,
             serviceTypes:[
-                {&quot;id&quot;:&quot;accounting&quot;,&quot;label&quot;:&quot;Accounting&quot;},{&quot;id&quot;:&quot;airport&quot;,&quot;label&quot;:&quot;Airport&quot;},{&quot;id&quot;:&quot;amusement_park&quot;,&quot;label&quot;:&quot;Amusement Park&quot;},{&quot;id&quot;:&quot;aquarium&quot;,&quot;label&quot;:&quot;Aquarium&quot;},
+                {% raw %}{&quot;id&quot;:&quot;accounting&quot;,&quot;label&quot;:&quot;Accounting&quot;}{% endraw %},{% raw %}{&quot;id&quot;:&quot;airport&quot;,&quot;label&quot;:&quot;Airport&quot;}{% endraw %},{% raw %}{&quot;id&quot;:&quot;amusement_park&quot;,&quot;label&quot;:&quot;Amusement Park&quot;}{% endraw %},{% raw %}{&quot;id&quot;:&quot;aquarium&quot;,&quot;label&quot;:&quot;Aquarium&quot;}{% endraw %},
             ]
         }
     },
@@ -136,7 +137,7 @@ Note - as before I've removed 90% of the serviceTypes values to save space. Next
 <pre><code class="language-markup">&lt;template&gt;
     &lt;div&gt;
 
-        &lt;h1&gt;{%raw%}{{name}}{%endraw%}&lt;&#x2F;h1&gt;
+        &lt;h1&gt;{% raw %}{{name}{% endraw %}}&lt;&#x2F;h1&gt;
 
         &lt;div v-if=&quot;loading&quot;&gt;
         Looking up data...
@@ -145,7 +146,7 @@ Note - as before I've removed 90% of the serviceTypes values to save space. Next
         &lt;div v-if=&quot;!loading&quot;&gt;
             &lt;ul&gt;
                 &lt;li v-for=&quot;result in results&quot; :key=&quot;result.id&quot;&gt;
-                &lt;router-link :to=&quot;{name:&#x27;detail&#x27;, params:{placeid:result.place_id} }&quot;&gt;{%raw%}{{result.name}}{%endraw%}&lt;&#x2F;router-link&gt;
+                &lt;router-link :to=&quot;{% raw %}{name:&#x27;detail&#x27;, params:{placeid:result.place_id}{% endraw %} }&quot;&gt;{% raw %}{{result.name}{% endraw %}}&lt;&#x2F;router-link&gt;
                 &lt;&#x2F;li&gt;
             &lt;&#x2F;ul&gt;
 
@@ -162,7 +163,7 @@ Note - as before I've removed 90% of the serviceTypes values to save space. Next
 &lt;&#x2F;template&gt;
 
 &lt;script&gt;
-const SEARCH_API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden%40us.ibm.com_My%20Space&#x2F;googleplaces&#x2F;search.json&#x27;;
+const SEARCH_API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space&#x2F;googleplaces&#x2F;search.json&#x27;;
 
 &#x2F;&#x2F; used for search max distance
 const RADIUS = 2000;
@@ -202,8 +203,8 @@ And finally, here is Detail.vue:
 
             &lt;div&gt;
                 &lt;img :src=&quot;detail.icon&quot;&gt;
-                &lt;h2&gt;{%raw%}{{detail.name}}{%endraw%}&lt;&#x2F;h2&gt;
-                &lt;p&gt;{%raw%}{{detail.formatted_address}}{%endraw%}&lt;&#x2F;p&gt;
+                &lt;h2&gt;{% raw %}{{detail.name}{% endraw %}}&lt;&#x2F;h2&gt;
+                &lt;p&gt;{% raw %}{{detail.formatted_address}{% endraw %}}&lt;&#x2F;p&gt;
             &lt;&#x2F;div&gt;
 
             &lt;div&gt;
@@ -214,9 +215,9 @@ And finally, here is Detail.vue:
                         &lt;span v-if=&quot;detail.opening_hours.open_now&quot;&gt;open.&lt;&#x2F;span&gt;&lt;span v-else&gt;closed.&lt;&#x2F;span&gt;
                     &lt;&#x2F;span&gt;
                     &lt;br&#x2F;&gt;
-                    Phone: {%raw%}{{detail.formatted_phone_number}}{%endraw%}&lt;br&#x2F;&gt;
-                    Website: &lt;a :href=&quot;detail.website&quot; target=&quot;_new&quot;&gt;{%raw%}{{detail.website}}{%endraw%}&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
-                    &lt;span v-if=&quot;detail.price&quot;&gt;Items here are generally priced &quot;{%raw%}{{detail.price}}{%endraw%}&quot;.&lt;&#x2F;span&gt;
+                    Phone: {% raw %}{{detail.formatted_phone_number}{% endraw %}}&lt;br&#x2F;&gt;
+                    Website: &lt;a :href=&quot;detail.website&quot; target=&quot;_new&quot;&gt;{% raw %}{{detail.website}{% endraw %}}&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
+                    &lt;span v-if=&quot;detail.price&quot;&gt;Items here are generally priced &quot;{% raw %}{{detail.price}{% endraw %}}&quot;.&lt;&#x2F;span&gt;
                 &lt;&#x2F;p&gt;
 
                 &lt;p&gt;
@@ -234,7 +235,7 @@ And finally, here is Detail.vue:
 &lt;&#x2F;template&gt;
 
 &lt;script&gt;
-const DETAIL_API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden%40us.ibm.com_My%20Space&#x2F;googleplaces&#x2F;detail.json&#x27;;
+const DETAIL_API = &#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space&#x2F;googleplaces&#x2F;detail.json&#x27;;
 
 export default {
     name:&#x27;Detail&#x27;,
@@ -269,7 +270,7 @@ export default {
 			this.detail = res.result;
 
 			&#x2F;&#x2F; add a google maps url
-			this.detail.mapUrl = `https:&#x2F;&#x2F;maps.googleapis.com&#x2F;maps&#x2F;api&#x2F;staticmap?center=${this.detail.geometry.location.lat},${this.detail.geometry.location.lng}&amp;zoom=14&amp;markers=color:blue%7C${this.detail.geometry.location.lat},${this.detail.geometry.location.lng}&amp;size=310x310&amp;sensor=true&amp;key=AIzaSyBw5Mjzbn8oCwKEnwI2gtClM17VMCaNBUY`;
+			this.detail.mapUrl = `https:&#x2F;&#x2F;maps.googleapis.com&#x2F;maps&#x2F;api&#x2F;staticmap?center=${% raw %}{this.detail.geometry.location.lat}{% endraw %},${% raw %}{this.detail.geometry.location.lng}{% endraw %}&amp;zoom=14&amp;markers=color:blue{% raw %}%7C${this.detail.geometry.location.lat}{% endraw %},${% raw %}{this.detail.geometry.location.lng}{% endraw %}&amp;size=310x310&amp;sensor=true&amp;key=AIzaSyBw5Mjzbn8oCwKEnwI2gtClM17VMCaNBUY`;
 			this.loading = false;
 		});
 	},

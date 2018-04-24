@@ -5,6 +5,7 @@ date: "2017-09-19T20:19:00-07:00"
 categories: Development 
 tags: visual studio code
 banner_image: 
+permalink: /2017/09/19/run-visual-studio-code-insiders-from-wsl
 ---
 
 A quick tip that is 100% thanks to the [Visual Studio Code twitter](https://twitter.com/code) account. For a while now I've been able to run Visual Studio Code from WSL (Windows Subsystem for Linux) by simply doing `code .` in the directory I'm working in. However, a few months ago I switched to the [Insiders](https://code.visualstudio.com/insiders) build. I was hesitant to do so as it seemed like it would be risky, but after one of Microsoft's engineers assured me it was safe I gave it a try.

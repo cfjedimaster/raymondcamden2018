@@ -5,6 +5,7 @@ date: "2017-06-19T11:39:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/comic_vine_api.jpg
+permalink: /2017/06/19/serverless-demo-random-comic-book-character-via-comic-vine-api
 ---
 
 For today's demo, I'm going to be using the [Comic Vine API](https://comicvine.gamespot.com/api/), but let me warn folks that I think it is bad idea to use this API in production. I started looking at it over the weekend and while I was "successful", I found numerous documentation issues and lots of forum posts that have gone unanswered. My gut tells me that this is not something I'd ever use for a "real" app, but since I don't build real apps it doesn't matter, right?
@@ -23,9 +24,9 @@ I thought it would be interesting to recreate what I built with the Marvel API u
 
 Here is the root URL to fetch all characters, I say "all", but it is paged:
 
-https://www.comicvine.com/api/characters?api_key={%raw%}{{key}}{%endraw%}&format=json
+https://www.comicvine.com/api/characters?api_key={% raw %}{{key}{% endraw %}}&format=json
 
-The {%raw%}{{key}}{%endraw%} part is dynamic of course. Calling this gives you one page of results in no particular order, but the important part is the metadata:
+The {% raw %}{{key}{% endraw %}} part is dynamic of course. Calling this gives you one page of results in no particular order, but the important part is the metadata:
 
 <pre><code class="language-javascript">{
     "error": "OK",
@@ -45,7 +46,7 @@ See the `number_of_total_results` there? Because I know how many characters exis
 
 <pre><code class="language-javascript">const rp = require(&#x27;request-promise&#x27;);
 
-let apiUrl = `https:&#x2F;&#x2F;www.comicvine.com&#x2F;api&#x2F;characters?api_key=${key}&amp;format=json&amp;field_list=aliases,deck,description,first_appeared_in_issue,image,real_name,name,id,publisher&amp;limit=1&amp;offset=`;
+let apiUrl = `https:&#x2F;&#x2F;www.comicvine.com&#x2F;api&#x2F;characters?api_key=${% raw %}{key}{% endraw %}&amp;format=json&amp;field_list=aliases,deck,description,first_appeared_in_issue,image,real_name,name,id,publisher&amp;limit=1&amp;offset=`;
 
 &#x2F;*
 Hard coded but changes on the fly
@@ -81,11 +82,11 @@ function main(args) {
         .then(function(json) {
             &#x2F;&#x2F;update totalChars
             totalChars = json.number_of_total_results;
-            resolve({result:json.results[0]});
+            resolve({% raw %}{result:json.results[0]}{% endraw %});
         })
         .catch(function(err) {
             console.log(&#x27;error in rp&#x27;);
-            reject({error:err});
+            reject({% raw %}{error:err}{% endraw %});
         });
             
     });
@@ -140,11 +141,11 @@ rp(options)
 })
 .then(function(json) {
 	character.detail = json.results;
-	resolve({character:character});
+	resolve({% raw %}{character:character}{% endraw %});
 })
 .catch(function(err) {
 	console.log(&#x27;error in rp&#x27;);
-	reject({error:err});
+	reject({% raw %}{error:err}{% endraw %});
 });
 </code></pre>
 
@@ -227,11 +228,11 @@ function main(args) {
         })
         .then(function(json) {
             character.first_issue = json.results[0];
-            resolve({character:character});
+            resolve({% raw %}{character:character}{% endraw %});
         })
         .catch(function(err) {
             console.log(&#x27;error in rp&#x27;,err);
-            reject({error:err});
+            reject({% raw %}{error:err}{% endraw %});
         });
             
     });
@@ -351,7 +352,7 @@ Nothing says "comic book" like anthropomorphic badger. So the code behind this i
 			if(char.character_friends.length) {
 				friendsTemplate = &#x27;&lt;h2&gt;Friends&lt;&#x2F;h2&gt;&lt;ul&gt;&#x27;;
 				char.character_friends.forEach((friend) =&gt; {
-					friendsTemplate += `&lt;li&gt;&lt;a href=&quot;${friend.site_detail_url}&quot;&gt;${friend.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+					friendsTemplate += `&lt;li&gt;&lt;a href=&quot;${% raw %}{friend.site_detail_url}{% endraw %}&quot;&gt;${% raw %}{friend.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 				});
 				friendsTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 			} 
@@ -359,7 +360,7 @@ Nothing says "comic book" like anthropomorphic badger. So the code behind this i
 			if(char.character_enemies.length) {
 				enemiesTemplate = &#x27;&lt;h2&gt;Enemies&lt;&#x2F;h2&gt;&lt;ul&gt;&#x27;;
 				char.character_enemies.forEach((enemy) =&gt; {
-					enemiesTemplate += `&lt;li&gt;&lt;a href=&quot;${enemy.site_detail_url}&quot; target=&quot;_new&quot;&gt;${enemy.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+					enemiesTemplate += `&lt;li&gt;&lt;a href=&quot;${% raw %}{enemy.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{enemy.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 				});
 				enemiesTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 			} 
@@ -367,7 +368,7 @@ Nothing says "comic book" like anthropomorphic badger. So the code behind this i
 			if(char.powers.length) {
 				powersTemplate = &#x27;&lt;h2&gt;Powers&lt;&#x2F;h2&gt;&lt;ul&gt;&#x27;;
 				char.powers.forEach((power) =&gt; {
-					powersTemplate += `&lt;li&gt;${power.name}&lt;&#x2F;li&gt;`;
+					powersTemplate += `&lt;li&gt;${% raw %}{power.name}{% endraw %}&lt;&#x2F;li&gt;`;
 				});
 				powersTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 			} 
@@ -375,7 +376,7 @@ Nothing says "comic book" like anthropomorphic badger. So the code behind this i
 			if(char.teams.length) {
 				teamsTemplate = &#x27;&lt;h2&gt;Teams&lt;&#x2F;h2&gt;&lt;ul&gt;&#x27;;
 				char.teams.forEach((team) =&gt; {
-					teamsTemplate += `&lt;li&gt;&lt;a href=&quot;${team.site_detail_url}&quot; target=&quot;_new&quot;&gt;${team.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+					teamsTemplate += `&lt;li&gt;&lt;a href=&quot;${% raw %}{team.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{team.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 				});
 				teamsTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 			} 
@@ -383,26 +384,26 @@ Nothing says "comic book" like anthropomorphic badger. So the code behind this i
 			if(char.creators.length) {
 				creatorsTemplate = &#x27;&lt;h2&gt;Creators&lt;&#x2F;h2&gt;&lt;ul&gt;&#x27;;
 				char.creators.forEach((creator) =&gt; {
-					creatorsTemplate += `&lt;li&gt;&lt;a href=&quot;${creator.site_detail_url}&quot; target=&quot;_new&quot;&gt;${creator.name}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
+					creatorsTemplate += `&lt;li&gt;&lt;a href=&quot;${% raw %}{creator.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{creator.name}{% endraw %}&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;`;
 				});
 				creatorsTemplate += &#x27;&lt;&#x2F;ul&gt;&#x27;;
 			} 
 
 			let mainTemplate = `
-			&lt;h1&gt;${char.name}&lt;&#x2F;h1&gt;
+			&lt;h1&gt;${% raw %}{char.name}{% endraw %}&lt;&#x2F;h1&gt;
 			&lt;p&gt;
-				&lt;strong&gt;Publisher:&lt;&#x2F;strong&gt; ${publisher}&lt;br&#x2F;&gt;
-				&lt;strong&gt;First Issue:&lt;&#x2F;strong&gt; &lt;a href=&quot;${char.first_issue.site_detail_url}&quot; target=&quot;_new&quot;&gt;${char.first_issue.volume.name} ${char.first_issue.issue_number} (${char.first_issue.cover_date})&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
+				&lt;strong&gt;Publisher:&lt;&#x2F;strong&gt; ${% raw %}{publisher}{% endraw %}&lt;br&#x2F;&gt;
+				&lt;strong&gt;First Issue:&lt;&#x2F;strong&gt; &lt;a href=&quot;${% raw %}{char.first_issue.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;${% raw %}{char.first_issue.volume.name}{% endraw %} ${% raw %}{char.first_issue.issue_number}{% endraw %} (${% raw %}{char.first_issue.cover_date}{% endraw %})&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
 			&lt;&#x2F;p&gt;
 
-			&lt;a href=&quot;${char.site_detail_url}&quot; target=&quot;_new&quot;&gt;&lt;img class=&quot;heroImage&quot; src=&quot;${image}&quot;&gt;&lt;&#x2F;a&gt;
-			&lt;p&gt;${char.description}&lt;&#x2F;p&gt;
+			&lt;a href=&quot;${% raw %}{char.site_detail_url}{% endraw %}&quot; target=&quot;_new&quot;&gt;&lt;img class=&quot;heroImage&quot; src=&quot;${% raw %}{image}{% endraw %}&quot;&gt;&lt;&#x2F;a&gt;
+			&lt;p&gt;${% raw %}{char.description}{% endraw %}&lt;&#x2F;p&gt;
 
-			${creatorsTemplate}
-			${powersTemplate}
-			${teamsTemplate}
-			${friendsTemplate}
-			${enemiesTemplate}
+			${% raw %}{creatorsTemplate}{% endraw %}
+			${% raw %}{powersTemplate}{% endraw %}
+			${% raw %}{teamsTemplate}{% endraw %}
+			${% raw %}{friendsTemplate}{% endraw %}
+			${% raw %}{enemiesTemplate}{% endraw %}
 			`;
 
 			$(&#x27;#result&#x27;).html(mainTemplate);

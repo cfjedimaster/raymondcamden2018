@@ -5,6 +5,7 @@ date: "2015-06-25T10:38:39+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/06/25/online-presentation-working-with-static-sites
 ---
 
 Next week (July 1st), I'll be giving an online presentation to the <a href="http://www.meetup.com/Boston-ColdFusion-User-Group/">Boston CFUG</a>. This presentation will be given via Google Hangouts and is open to anyone and everyone. I'll be talking about one of my new passions, static sites. If you can't make it, the recording will be available on YouTube afterwards. 

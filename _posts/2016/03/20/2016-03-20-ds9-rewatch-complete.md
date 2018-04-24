@@ -5,6 +5,7 @@ date: "2016-03-20T12:52:00-07:00"
 categories: Misc 
 tags: 
 banner_image: /images/banners/ds9.jpg
+permalink: /2016/03/20/ds9-rewatch-complete
 ---
 
 Almost two years ago, I finished my [rewatch of ST:TNG](http://www.raymondcamden.com/2014/05/11/Sunday-OT-STTNG-Rewatch-Complete/). This was a series I had seen most of as a kid, so it wasn't terribly new to me, but it was great to experience the series again. I left it with a greater appreciation of Star Trek and TNG in general. Sometime after that, I began rewatching Deep Space 9. This series came out while I was in college, and to say that I was a bit too busy for TV would be something of an understatement. I did watch some episodes, but probably not more than ten or so. While I knew the setting and a bit about the characters, I didn't really have any feel for the overall tone or quality of the show. Now that I'm done, I want to kick myself. DS9 is - easily - the best Star Trek I've ever seen.

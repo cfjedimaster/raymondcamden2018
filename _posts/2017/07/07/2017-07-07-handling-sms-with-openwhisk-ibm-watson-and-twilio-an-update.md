@@ -5,6 +5,7 @@ date: "2017-07-07T09:49:00-07:00"
 categories: Serverless 
 tags: openwhisk watson
 banner_image: 
+permalink: /2017/07/07/handling-sms-with-openwhisk-ibm-watson-and-twilio-an-update
 ---
 
 Last week I [blogged](https://www.raymondcamden.com/2017/06/29/handling-sms-with-openwhisk-ibm-watson-and-twilio/) about a sample application I built using OpenWhisk, Twilio, and IBM Watson. The idea was - I could send a picture to a SMS number set up with Twilio, Twilio would send the data to OpenWhisk, OpenWhisk would get the picture and send it to Watson for identification, and finally the result would be sent back to the user. This morning a coworker pointed out a few issues and I found a way for the code to be much simpler. Normally I'd just update the post, but I thought a followup would be better.
@@ -34,7 +35,7 @@ However, since the error didn't seem to break the app, I forgot about it. I shou
     from: args.to
 })
 .then((message) => {
-	resolve({result:1});
+	resolve({% raw %}{result:1}{% endraw %});
 })
 </code></pre>
 
@@ -53,9 +54,9 @@ So my corrections involved the following. I edited identify.js to remove the "ca
 		*&#x2F;
 		let message = &#x27;&#x27;;
 		if(args.tags[0].score !== args.tags[1].score) {
-			message = `I think this is a ${args.tags[0].class}. But it may be a ${args.tags[1].class}.`;
+			message = `I think this is a ${% raw %}{args.tags[0].class}{% endraw %}. But it may be a ${% raw %}{args.tags[1].class}{% endraw %}.`;
 		} else {
-			message = `I think this is a ${args.tags[0].class} or a ${args.tags[1].class}.`;
+			message = `I think this is a ${% raw %}{args.tags[0].class}{% endraw %} or a ${% raw %}{args.tags[1].class}{% endraw %}.`;
 		}
 		console.log(&#x27;Message to send via SMS: &#x27;+message);
 

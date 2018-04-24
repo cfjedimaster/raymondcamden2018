@@ -5,6 +5,7 @@ date: "2016-08-19T14:49:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/disqus_api.jpg
+permalink: /2016/08/19/working-with-the-disqus-api-deeper-stats
 ---
 
 Yesterday I [blogged](https://www.raymondcamden.com/2016/08/18/working-with-the-disqus-api-comment-count/) about my first attempts at writing a client-side Disqus API client to provide better stats than the Disqus site itself. While yesterday's demo was more a proof of concept, today I'm attempting something a bit deeper - the beginning of a real power tool.
@@ -71,10 +72,10 @@ function initDb(cb,forum) {
 		var theDb = event.target.result;
 
 		&#x2F;&#x2F;create a store for posts
-		var postOS = theDb.createObjectStore(&quot;posts&quot;, { keyPath:&quot;id&quot; });
-		postOS.createIndex(&quot;created&quot;, &quot;created&quot;, { unique: false});
-		postOS.createIndex(&quot;authorName&quot;, &quot;author.name&quot;, { unique: false});
-		postOS.createIndex(&quot;thread&quot;, &quot;thread.id&quot;, { unique: false});
+		var postOS = theDb.createObjectStore(&quot;posts&quot;, {% raw %}{ keyPath:&quot;id&quot; }{% endraw %});
+		postOS.createIndex(&quot;created&quot;, &quot;created&quot;, {% raw %}{ unique: false}{% endraw %});
+		postOS.createIndex(&quot;authorName&quot;, &quot;author.name&quot;, {% raw %}{ unique: false}{% endraw %});
+		postOS.createIndex(&quot;thread&quot;, &quot;thread.id&quot;, {% raw %}{ unique: false}{% endraw %});
 		
 	}
 
@@ -206,7 +207,7 @@ function doAuthorStats(authors) {
 
 		posts.index(&#x27;authorName&#x27;).count(range).onsuccess = function(e) {
 			&#x2F;&#x2F;console.log(&#x27;result for &#x27;+author.name+&#x27; &#x27;+e.target.result);
-			authorInfo.push({author:author, count:e.target.result});
+			authorInfo.push({% raw %}{author:author, count:e.target.result}{% endraw %});
 			if(authorInfo.length === totalAuthor) doComplete();
 		};
 

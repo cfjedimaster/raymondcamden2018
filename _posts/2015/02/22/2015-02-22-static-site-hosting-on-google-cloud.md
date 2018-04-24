@@ -5,6 +5,7 @@ date: "2015-02-22T21:16:48+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/02/22/static-site-hosting-on-google-cloud
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/2015/02/19/my-experiences-with-google-compute-engine">blogged</a> about my experience using Google Compute for site hosting. Tonight I set up a new static site and I decided to use Google Cloud Storage and I thought I'd share a few notes about how it went.

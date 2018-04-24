@@ -5,6 +5,7 @@ date: "2015-08-15T13:45:25+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/08/15/a-quick-pokemon-demo-because-pokemon
 ---
 
 So, I'm not really a Pokemon person (and yes, I know there's an accent in the word, but I'm not even going to bother trying to type that), but my son came to me last night with an interesting request. He is quite the artist, and he decided he wanted to start an incredibly ambitious project: Every day he is going to sketch a Pokemon. All 700 plus of them. His request was rather simple. Given that Pokemon had a number, he wanted me to generate a random list from 1 to 721. 

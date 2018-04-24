@@ -5,6 +5,7 @@ date: "2016-12-06T08:37:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/06/advent-of-code-day-5
 ---
 
 Another easy day for [Advent of Code](http://adventofcode.com/). The first challenge was to simply iterate over a string (take an input string, add 1 to it, and increase that number), make a hash, and check to see if the hash begins with 5 zeroes. If it does, you take the number after the 5 zeroes as a password character. You keep appending to a password until you have seven characters:

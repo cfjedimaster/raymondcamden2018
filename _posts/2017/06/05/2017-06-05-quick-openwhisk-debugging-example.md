@@ -5,6 +5,7 @@ date: "2017-06-05T10:54:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/06/05/quick-openwhisk-debugging-example
 ---
 
 Let me start off by saying that this is *not* a post about debugging serverless with OpenWhisk. I want to write something up on that at a good high/broad level. Rather I want to share a quick example since something I wrote broke recently and I thought it would be a good "real world" use case of something going wrong, how I looked into it, and how I corrected it. I think debugging/monitoring is one of the most crucial aspects of a serverless platform, and something OpenWhisk itself needs some help on, but again, I'll save that for a later post.

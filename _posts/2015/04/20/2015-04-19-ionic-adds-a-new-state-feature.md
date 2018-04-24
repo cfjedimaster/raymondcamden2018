@@ -5,6 +5,7 @@ date: "2015-04-20T09:31:56+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/04/20/ionic-adds-a-new-state-feature
 ---
 
 To be fair, this may not be <i>very</i> new, I've been working with an alpha version of the Ionic CLI while I test push (and other stuff ;) so my version has been a bit out of sync. Today I switched from the alpha to the release version and discovered a cool new feature - State.

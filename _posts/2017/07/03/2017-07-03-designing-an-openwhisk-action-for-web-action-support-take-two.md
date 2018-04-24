@@ -5,6 +5,7 @@ date: "2017-07-03T13:25:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/07/03/designing-an-openwhisk-action-for-web-action-support-take-two
 ---
 
 Back a few months ago I wrote up a quick blog post on how an OpenWhisk action could support running in both "regular" mode and "Web Action" mode: <a href="https://www.raymondcamden.com/2017/03/02/designing-an-openwhisk-action-for-web-action-support/">Designing an OpenWhisk Action for Web Action Support</a>. I started off that blog post with a warning stating that what I was covering was bleeding edge and likely to break. Turns out I was right - it did.

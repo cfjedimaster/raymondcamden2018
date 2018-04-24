@@ -5,6 +5,7 @@ date: "2015-07-27T14:02:15+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/07/27/recording-and-saving-audio-in-cordova-applications
 ---
 
 Ah, looking at that title there you probably think, "Surely this is a simple matter in Cordova and surely this is Raymond, once again, blogging something is incredibly obvious and simple just to drive people to his <a href="http://www.amazon.com/wishlist/2TCL1D08EZEYE">Amazon Wishlist</a>." Yep, that's what I thought too. This weekend I began work on a simple little Cordova app for my son. I thought it would be a great blog post too. But while working on it, I ran into an issue with audio recordings that drove me bat-shit crazy for a few hours, so I thought I'd better share so others don't have to bang their heads against the wall too.
@@ -33,7 +34,7 @@ var captureSuccess = function(e) {
 
 $scope.record = function() {
 	navigator.device.capture.captureAudio(
-		captureSuccess,captureError,{duration:10});
+		captureSuccess,captureError,{% raw %}{duration:10}{% endraw %});
 }</code></pre>
 
 This is boiler-plate Media Capture usage here. I'm storing both the URL and file path in $scope so I can save it later. The Play feature is also pretty trivial:

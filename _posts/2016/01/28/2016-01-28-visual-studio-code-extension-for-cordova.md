@@ -5,6 +5,7 @@ date: "2016-01-28T17:27:24-07:00"
 categories: Mobile Development 
 tags: cordova
 banner_image: /images/2016/01/taco.png
+permalink: /2016/01/28/visual-studio-code-extension-for-cordova
 ---
 
 Earlier today Microsoft released a set of updates for [TACO](http://taco.tools/index.html). TACO stands

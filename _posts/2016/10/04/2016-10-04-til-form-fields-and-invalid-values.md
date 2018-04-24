@@ -5,6 +5,7 @@ date: "2016-10-04T10:23:00-07:00"
 categories: Development 
 tags: html5
 banner_image: 
+permalink: /2016/10/04/til-form-fields-and-invalid-values
 ---
 
 For years now I've said the single biggest improvement to the web has been the various updates done to form fields. I'm probably biased, but as I started my web development career building form handlers in Perl, any changes to forms seem like a real, *real* good use of development time on the part of browser vendors. I wish it would have happened a good ten years ago or so, but beggars can't be choosers, right?

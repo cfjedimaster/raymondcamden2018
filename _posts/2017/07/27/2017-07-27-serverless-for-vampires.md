@@ -5,6 +5,7 @@ date: "2017-07-27T13:24:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/serverless_vampire.jpg
+permalink: /2017/07/27/serverless-for-vampires
 ---
 
 Ok, as a quick warning, this is a pretty stupid demo. I mean, I know that's my thing - I'm the person who makes demos with cats. But this *really* pushes it a bit too far. I was bored a week or so ago and found an interesting API, the [Sunrise Sunset](https://sunrise-sunset.org/api) API. This is a free API that returns sunrise and sunset times for a specific location. So obviously I saw that and thought it would be the perfect kind of service for vampires.
@@ -21,12 +22,12 @@ Or perhaps you know the time, but aren't sure if the sun has risen yet. This is 
 function main(args) {
 
 	if(!args.lat || !args.lng) {
-		return { error:&#x27;Parameters lat and lng are required.&#x27; };
+		return {% raw %}{ error:&#x27;Parameters lat and lng are required.&#x27; }{% endraw %};
 	}
 
 	return new Promise((resolve, reject) =&gt; {
 		let now = new Date();
-		let url = `https:&#x2F;&#x2F;api.sunrise-sunset.org&#x2F;json?lat=${args.lat}&amp;lng=${args.lng}&amp;formatted=0`;
+		let url = `https:&#x2F;&#x2F;api.sunrise-sunset.org&#x2F;json?lat=${% raw %}{args.lat}{% endraw %}&amp;lng=${% raw %}{args.lng}{% endraw %}&amp;formatted=0`;
 		let options = {
 			uri:url,
 			json:true
@@ -40,9 +41,9 @@ function main(args) {
 			let sunrise = new Date(data.sunrise);
 			let sunset = new Date(data.sunset);
 			
-			resolve({result:(now &lt; sunrise || now &gt; sunset)});
+			resolve({% raw %}{result:(now &lt; sunrise |{% endraw %}{% raw %}| now &gt; sunset)}{% endraw %});
 		}).catch(err =&gt; {
-			reject({error:err});
+			reject({% raw %}{error:err}{% endraw %});
 		});
 
 	});

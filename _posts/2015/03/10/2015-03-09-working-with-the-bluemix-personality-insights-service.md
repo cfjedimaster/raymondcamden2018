@@ -5,6 +5,7 @@ date: "2015-03-10T08:50:48+06:00"
 categories: Development 
 tags: bluemix
 banner_image: 
+permalink: /2015/03/10/working-with-the-bluemix-personality-insights-service
 ---
 
 As I continue to play around with <a href="https://console.ng.bluemix.net/">IBM Bluemix</a>, this week I spent some time playing with the <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights.html">Personality Insights</a> service. This service uses IBM Watson to analyze textual input and try to determine personality aspects of the author. It focuses on three areas of analysis:
@@ -54,7 +55,7 @@ app.get(&#x27;&#x2F;parse&#x27;, function(req, res) {
 	var url_parts = url.parse(req.url, true);
 	var query = url_parts.query;
 	if(!query.rss) {
-		res.json({error:&quot;Invalid data sent.&quot;});
+		res.json({% raw %}{error:&quot;Invalid data sent.&quot;}{% endraw %});
 		return;
 	}
 	rssReader.parse(query.rss, function(err,content) {
@@ -73,14 +74,14 @@ app.get(&#x27;&#x2F;parse&#x27;, function(req, res) {
 
 &#x2F;&#x2F; There are many useful environment variables available in process.env.
 &#x2F;&#x2F; VCAP_APPLICATION contains useful information about a deployed application.
-var appInfo = JSON.parse(process.env.VCAP_APPLICATION || &quot;{}&quot;);
+var appInfo = JSON.parse(process.env.VCAP_APPLICATION {% raw %}|| &quot;{}{% endraw %}&quot;);
 &#x2F;&#x2F; TODO: Get application information and use it in your app.
 
 &#x2F;&#x2F; VCAP_SERVICES contains all the credentials of services bound to
 &#x2F;&#x2F; this application. For details of its content, please refer to
 &#x2F;&#x2F; the document or sample of each service.
 if(process.env.VCAP_SERVICES) {
-	var services = JSON.parse(process.env.VCAP_SERVICES || &quot;{}&quot;);
+	var services = JSON.parse(process.env.VCAP_SERVICES {% raw %}|| &quot;{}{% endraw %}&quot;);
 	console.log(services);
 	var apiUrl = services.personality_insights[0].credentials.url;
 	var apiUsername = services.personality_insights[0].credentials.username;
@@ -128,7 +129,7 @@ function setAuth(apiurl, u, p) {
 
 function sendInsights(user,source,input,cb) {
 	//cb(fake);return;
-	var data = {"contentItems":[]};
+	var data = {% raw %}{"contentItems":[]}{% endraw %};
 	var item = {};
 	item.userid = user;
 	item.sourceid = source;
@@ -184,44 +185,44 @@ Ok, perhaps "exciting" is a bit much. Honestly, it is just a HTTP hit and a JSON
 The rest was just presenting the results. The folks at Bluemix created a <a href="https://watson-pi-demo.mybluemix.net/">cool demo</a> with charts and stuff, but I decided to keep it simple and just render the values - sorted. I used Handlebars to make it a bit nicer, which ended up being a bit confusing to me. It never occurred to me to consider what would happen when I used a Handlebars template for the client side in a view that was being run by a Node.js app using Handlebars on the client as well. As you can guess, it didn't work well at first. If you look back at that first code listing you'll see a helper called raw-helper. I needed to add this so I could use Handlebar's syntax in my view and have the server ignore it. This is how it looks in index.html:
 
 <pre><code class="language-markup">&lt;script id=&quot;reportTemplate&quot; type=&quot;text&#x2F;x-handlebars-template&quot;&gt;
-	{%raw%}{{{{raw-helper}}{%endraw%}}}
+	{% raw %}{{{{raw-helper}{% endraw %}}}}
 	&lt;div class=&quot;row&quot;&gt;
 		&lt;div class=&quot;col-md-4&quot;&gt;
 			&lt;h2&gt;Values&lt;&#x2F;h2&gt;
-			{%raw%}{{#each values}}{%endraw%}
+			{% raw %}{{#each values}{% endraw %}}
 			&lt;div class=&quot;row&quot;&gt;
-				&lt;div class=&quot;col-md-6&quot;&gt;&lt;strong&gt;{%raw%}{{name}}{%endraw%}&lt;&#x2F;strong&gt;&lt;&#x2F;div&gt;
-				&lt;div class=&quot;col-md-6&quot;&gt;{%raw%}{{perc percentage}}{%endraw%}&lt;&#x2F;div&gt;
+				&lt;div class=&quot;col-md-6&quot;&gt;&lt;strong&gt;{% raw %}{{name}{% endraw %}}&lt;&#x2F;strong&gt;&lt;&#x2F;div&gt;
+				&lt;div class=&quot;col-md-6&quot;&gt;{% raw %}{{perc percentage}{% endraw %}}&lt;&#x2F;div&gt;
 			&lt;&#x2F;div&gt;
-			{%raw%}{{&#x2F;each}}{%endraw%}			
+			{% raw %}{{&#x2F;each}{% endraw %}}			
 		&lt;&#x2F;div&gt;
 		&lt;div class=&quot;col-md-4&quot;&gt;
 			&lt;h2&gt;Needs&lt;&#x2F;h2&gt;
-			{%raw%}{{#each needs}}{%endraw%}
+			{% raw %}{{#each needs}{% endraw %}}
 			&lt;div class=&quot;row&quot;&gt;
-				&lt;div class=&quot;col-md-6&quot;&gt;&lt;strong&gt;{%raw%}{{name}}{%endraw%}&lt;&#x2F;strong&gt;&lt;&#x2F;div&gt;
-				&lt;div class=&quot;col-md-6&quot;&gt;{%raw%}{{perc percentage}}{%endraw%}&lt;&#x2F;div&gt;
+				&lt;div class=&quot;col-md-6&quot;&gt;&lt;strong&gt;{% raw %}{{name}{% endraw %}}&lt;&#x2F;strong&gt;&lt;&#x2F;div&gt;
+				&lt;div class=&quot;col-md-6&quot;&gt;{% raw %}{{perc percentage}{% endraw %}}&lt;&#x2F;div&gt;
 			&lt;&#x2F;div&gt;
-			{%raw%}{{&#x2F;each}}{%endraw%}
+			{% raw %}{{&#x2F;each}{% endraw %}}
 		&lt;&#x2F;div&gt;
 		&lt;div class=&quot;col-md-4&quot;&gt;
 			&lt;h2&gt;The Big 5&lt;&#x2F;h2&gt;
-			{%raw%}{{#each big5}}{%endraw%}
+			{% raw %}{{#each big5}{% endraw %}}
 			&lt;div class=&quot;row&quot;&gt;
-				&lt;div class=&quot;col-md-6&quot;&gt;&lt;strong&gt;{%raw%}{{name}}{%endraw%}&lt;&#x2F;strong&gt;&lt;&#x2F;div&gt;
-				&lt;div class=&quot;col-md-6&quot;&gt;{%raw%}{{perc percentage}}{%endraw%}&lt;&#x2F;div&gt;
+				&lt;div class=&quot;col-md-6&quot;&gt;&lt;strong&gt;{% raw %}{{name}{% endraw %}}&lt;&#x2F;strong&gt;&lt;&#x2F;div&gt;
+				&lt;div class=&quot;col-md-6&quot;&gt;{% raw %}{{perc percentage}{% endraw %}}&lt;&#x2F;div&gt;
 			&lt;&#x2F;div&gt;
-				{%raw%}{{#each children}}{%endraw%}
+				{% raw %}{{#each children}{% endraw %}}
 					&lt;div class=&quot;row&quot;&gt;
-						&lt;div class=&quot;col-md-offset12 col-md-5 text-muted&quot;&gt;{%raw%}{{name}}{%endraw%}&lt;&#x2F;div&gt;
-						&lt;div class=&quot;col-md-6 text-muted&quot;&gt;{%raw%}{{perc percentage}}{%endraw%}&lt;&#x2F;div&gt;
+						&lt;div class=&quot;col-md-offset12 col-md-5 text-muted&quot;&gt;{% raw %}{{name}{% endraw %}}&lt;&#x2F;div&gt;
+						&lt;div class=&quot;col-md-6 text-muted&quot;&gt;{% raw %}{{perc percentage}{% endraw %}}&lt;&#x2F;div&gt;
 					&lt;&#x2F;div&gt;
-				{%raw%}{{&#x2F;each}}{%endraw%}
+				{% raw %}{{&#x2F;each}{% endraw %}}
 
-			{%raw%}{{&#x2F;each}}{%endraw%}
+			{% raw %}{{&#x2F;each}{% endraw %}}
 		&lt;&#x2F;div&gt;
 	&lt;&#x2F;div&gt;
-	{%raw%}{{{{&#x2F;raw-helper}}{%endraw%}}}
+	{% raw %}{{{{&#x2F;raw-helper}{% endraw %}}}}
 &lt;&#x2F;script&gt;</code></pre>
 
 Once I got this working, I was mostly OK, but then I did stupid crap like adding a helper in the Node.js app.js when I really needed it in the client-side app.js. I probably shouldn't have named those files the same. So what do the results look like? I'm going to link to the demo of course, but here are some examples. First, my own blog:

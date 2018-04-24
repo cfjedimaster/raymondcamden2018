@@ -5,6 +5,7 @@ date: "2015-11-30T08:52:22+06:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/11/30/where-i-want-to-go-with-node-next
 ---
 
 This post probably isn't terribly useful to anyone else but me, but I wanted to write this down to help direct me and keep me on target. I've been spending a lot of time with <a href="http://www.strongloop.com">StrongLoop</a> lately and while I feel like I've covered the "API stuff" pretty well, I want to turn my attention to performance stuff - both in StrongLoop of course and generically across the Node.js ecosystem. Let me give some context.

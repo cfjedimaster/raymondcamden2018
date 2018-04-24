@@ -5,6 +5,7 @@ date: "2017-01-24T08:44:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/canary_cam0.jpg
+permalink: /2017/01/24/new-camera-hotness-from-chrome
 ---
 
 First off - I apologize for the somewhat lame title. It occurred to me today that it's been a while since I played with new and 
@@ -31,7 +32,7 @@ the [excellent blog post](https://developers.google.com/web/updates/2016/12/imag
 First - request access to the camera. This gives a visible prompt to the user:
 
 <pre><code class="language-javascript">
-navigator.mediaDevices.getUserMedia({video: true})
+navigator.mediaDevices.getUserMedia({% raw %}{video: true}{% endraw %})
 .then(gotMedia)
 .catch(error => console.error('getUserMedia() error:', error));
 </code></pre>
@@ -108,7 +109,7 @@ function init() {
 
 	console.log(&#x27;Ok, time to test...&#x27;);
 
-	navigator.mediaDevices.getUserMedia({video: true})
+	navigator.mediaDevices.getUserMedia({% raw %}{video: true}{% endraw %})
 	.then(gotMedia)
 	.catch(error =&gt; console.error(&#x27;getUserMedia() error:&#x27;, error));
 }
@@ -260,7 +261,7 @@ function init() {
 	$button = document.querySelector(&#x27;#takePictureButton&#x27;);
 	$img = document.querySelector(&#x27;#testImage&#x27;);
 
-	navigator.mediaDevices.getUserMedia({video: true})
+	navigator.mediaDevices.getUserMedia({% raw %}{video: true}{% endraw %})
 	.then(setup)
 	.catch(error =&gt; console.error(&#x27;getUserMedia() error:&#x27;, error));
 
@@ -344,7 +345,7 @@ function init() {
 	$img = document.querySelector(&#x27;#testImage&#x27;);
 	$video = document.querySelector(&#x27;#testVideo&#x27;);
 
-	navigator.mediaDevices.getUserMedia({video: true})
+	navigator.mediaDevices.getUserMedia({% raw %}{video: true}{% endraw %})
 	.then(setup)
 	.catch(error =&gt; console.error(&#x27;getUserMedia() error:&#x27;, error));
 

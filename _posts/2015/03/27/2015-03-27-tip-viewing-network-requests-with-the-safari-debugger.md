@@ -5,6 +5,7 @@ date: "2015-03-27T11:18:31+06:00"
 categories: Development Mobile 
 tags: 
 banner_image: 
+permalink: /2015/03/27/tip-viewing-network-requests-with-the-safari-debugger
 ---
 
 I'm not a heavy Safari user, but I use the heck out of the web tools when testing PhoneGap/Cordova apps. Sometime recently (I believe), the UI changed a bit in terms of the Network request panel and I couldn't see my requests anymore. I finally figured out the issue and I thought I'd share. To be clear, when I say I figured it out, I mean I found the <a href="http://stackoverflow.com/a/27189459/52160">right post on StackOverflow</a> and all credit goes to user <a href="http://stackoverflow.com/users/170851/enyo">enyo</a>. I'm just writing this up and sharing pretty pictures.

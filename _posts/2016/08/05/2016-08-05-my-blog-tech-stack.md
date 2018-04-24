@@ -5,6 +5,7 @@ date: "2016-08-05T08:34:00-07:00"
 categories: Static Sites 
 tags: 
 banner_image: /images/banners/blog_stack.jpg
+permalink: /2016/08/05/my-blog-tech-stack
 ---
 
 I've been running my blog as a static site for a little over half a year now and I thought it would be interesting to share what my current setup is. I've already talked about how I'm using [Hugo](http://gohugo.io/), but I've got a *lot* of little tweaks/hacks/etc that I think may be of interest to folks considering switching to a static site generator. To be clear, my use case is probably *far* from the norm, but as a real world example, I think discussing it could be useful. I also want to be clear that all the little hacks and tweaks were built to specifically fit my needs. I don't believe it would make sense for everyone. Ok, ready to go down the rabbit hole?
@@ -83,7 +84,7 @@ var date = year + '-'+month+'-'+day+'T'+hour+':'+minute+':00-07:00';
 
 var slug = title.replace(/ /g,'-').toLowerCase();
 //remove multiple -
-slug = slug.replace(/-{2,}/,'-');
+slug = slug.replace(/-{% raw %}{2,}{% endraw %}/,'-');
 //remove non alnum
 //slug = slug.replace(/[^A-Za-z\-]+/g,'');
 slug = slug.replace(/[^\w\-]+/g,'');
@@ -91,13 +92,13 @@ slug = slug.replace(/[^\w\-]+/g,'');
 //default template
 var template = `
 {
-	"title": "${title}",
-	"date": "${date}",
+	"title": "${% raw %}{title}{% endraw %}",
+	"date": "${% raw %}{date}{% endraw %}",
 	"categories": [
 		"Uncategorized"
 	],
 	"tags": [],
-	"url": "/${year}/${month}/${day}/${slug}"
+	"url": "/${% raw %}{year}{% endraw %}/${% raw %}{month}{% endraw %}/${% raw %}{day}{% endraw %}/${% raw %}{slug}{% endraw %}"
 }`;
 
 //console.log(template);

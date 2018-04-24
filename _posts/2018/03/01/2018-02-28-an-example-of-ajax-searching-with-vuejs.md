@@ -5,6 +5,7 @@ date: "2018-03-01"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/ajaxsearch.jpg
+permalink: /2018/03/01/an-example-of-ajax-searching-with-vuejs
 ---
 
 Last week I gave my very first [presentation on Vue.js](https://www.raymondcamden.com/2018/02/23/slide-and-assets-from-my-vuejs-talk/). In that talk I used the heck out of [CodePen](https://codepen.io/) for my demos. I love how simple it is, I love that folks can edit and run my code. All in all, it is a just a great platform that works really well with Vue. But - for my presentation I really wanted a few demos that were entirely standalone. I really like CodePen, but I worry that it is a bit too "abstract" at times, or by itself. I'm not sure if that makes sense, but in the end, I just wanted to have a few demos that were file based, 100% complete, and so forth.
@@ -22,7 +23,7 @@ For my demo, I used the [iTunes API](https://affiliate.itunes.apple.com/resource
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width">
 		<style>
-		[v-cloak] {display: none}
+		[v-cloak] {% raw %}{display: none}{% endraw %}
 		</style>
 		<link rel="stylesheet" href="style.css">
 	</head>
@@ -35,9 +36,9 @@ For my demo, I used the [iTunes API](https://affiliate.itunes.apple.com/resource
 
 			<div v-for="result in results" class="result">
 				<img :src="result.artworkUrl100">
-				<b>Artist:</b> {%raw%}{{result.artistName}}{%endraw%}<br/>
-				<b>Track:</b> {%raw%}{{result.trackName}}{%endraw%}<br/>
-				<b>Released:</b> {%raw%}{{result.releaseDate | formatDate}}{%endraw%}
+				<b>Artist:</b> {% raw %}{{result.artistName}{% endraw %}}<br/>
+				<b>Track:</b> {% raw %}{{result.trackName}{% endraw %}}<br/>
+				<b>Released:</b> {% raw %}{{result.releaseDate |{% endraw %} formatDate}}
 				<br clear="left">
 			</div>
 
@@ -84,7 +85,7 @@ const app = new Vue({
 	methods:{
 		search:function() {
 			this.searching = true;
-			fetch(`https://itunes.apple.com/search?term=${encodeURIComponent(this.term)}&limit=10&media=music`)
+			fetch(`https://itunes.apple.com/search?term=${% raw %}{encodeURIComponent(this.term)}{% endraw %}&limit=10&media=music`)
 			.then(res => res.json())
 			.then(res => {
 				this.searching = false;
@@ -125,7 +126,7 @@ const app = new Vue({
 				this.audio.currentTime = 0;
 			}
 			this.searching = true;
-			fetch(`https://itunes.apple.com/search?term=${encodeURIComponent(this.term)}&limit=10&media=music`)
+			fetch(`https://itunes.apple.com/search?term=${% raw %}{encodeURIComponent(this.term)}{% endraw %}&limit=10&media=music`)
 			.then(res => res.json())
 			.then(res => {
 				this.searching = false;

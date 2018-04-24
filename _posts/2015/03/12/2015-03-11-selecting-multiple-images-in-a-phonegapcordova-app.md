@@ -5,6 +5,7 @@ date: "2015-03-12T08:43:27+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/03/12/selecting-multiple-images-in-a-phonegapcordova-app
 ---
 
 A few days ago a reader asked me an interesting question: How can you select more than one image at a time in a PhoneGap/Cordova application? I did a bit of digging and came up with three different options for handling this. There are probably more, and if you would like to share how you've done it, please add a comment below.

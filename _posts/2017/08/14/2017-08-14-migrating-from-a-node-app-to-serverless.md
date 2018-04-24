@@ -5,6 +5,7 @@ date: "2017-08-14T09:24:00-07:00"
 categories: Serverless 
 tags: nodejs openwhisk
 banner_image: 
+permalink: /2017/08/14/migrating-from-a-node-app-to-serverless
 ---
 
 For a while now I've been thinking about how I would go about migrating a "traditional" Node application to a serverless one. All I've needed is a good example - and last week I found one. While going through the apps I had set up on Bluemix, I remembered that I had a Node server running to power my Twitter bot, <a href="https://twitter.com/randomcomicbook">https://twitter.com/randomcomicbook</a>. 
@@ -60,11 +61,11 @@ function tweetRandomCover() {
 		
 		console.log('Now going to fetch the image link.');
 
-		request.get({url:res.url,encoding:null}, function(err, response, body) {
+		request.get({% raw %}{url:res.url,encoding:null}{% endraw %}, function(err, response, body) {
 			if(!err &amp;&amp; response.statusCode === 200) {
 				console.log('Image copied to RAM');
 
-				client.post('media/upload', {media: body}, function(error, media, response) {
+				client.post('media/upload', {% raw %}{media: body}{% endraw %}, function(error, media, response) {
 
 					if(error) {
 						console.error('Error from media/upload: '+error);
@@ -161,18 +162,18 @@ const API = &#x27;http:&#x2F;&#x2F;gateway.marvel.com&#x2F;v1&#x2F;public&#x2F;c
 
 function main(args) {
 
-	let url = API + `&amp;apikey=${args.api_key}`;
+	let url = API + `&amp;apikey=${% raw %}{args.api_key}{% endraw %}`;
 
 	&#x2F;&#x2F;Add optional filters
-	if(args.limit) url += `&amp;limit=${args.limit}`;
-	if(args.format) url += `&amp;format=${encodeURIComponent(args.format)}`;
-	if(args.formatType) url += `&amp;formatType=${encodeURIComponent(args.formatType)}`;
-	if(args.dateRange) url += `&amp;dateRange=${args.dateRange}`;
+	if(args.limit) url += `&amp;limit=${% raw %}{args.limit}{% endraw %}`;
+	if(args.format) url += `&amp;format=${% raw %}{encodeURIComponent(args.format)}{% endraw %}`;
+	if(args.formatType) url += `&amp;formatType=${% raw %}{encodeURIComponent(args.formatType)}{% endraw %}`;
+	if(args.dateRange) url += `&amp;dateRange=${% raw %}{args.dateRange}{% endraw %}`;
 	&#x2F;&#x2F;lots more go here
 
 	let ts = new Date().getTime();
 	let hash = crypto.createHash(&#x27;md5&#x27;).update(ts + args.private_key + args.api_key).digest(&#x27;hex&#x27;);
-	url += `&amp;ts=${ts}&amp;hash=${hash}`;
+	url += `&amp;ts=${% raw %}{ts}{% endraw %}&amp;hash=${% raw %}{hash}{% endraw %}`;
 
 	return new Promise((resolve, reject) =&gt; {
 
@@ -182,10 +183,10 @@ function main(args) {
 		};
 
 		request(options).then((result) =&gt; {
-			resolve({result:result});
+			resolve({% raw %}{result:result}{% endraw %});
 		})
 		.catch((err) =&gt; {
-			reject({error:err});
+			reject({% raw %}{error:err}{% endraw %});
 		});
 	});
 
@@ -330,19 +331,19 @@ function main(args) {
 		*/
 
 		if(!args.image) {
-			client.post('statuses/update', {status:args.status}, function(err, tweet, response) {
+			client.post('statuses/update', {% raw %}{status:args.status}{% endraw %}, function(err, tweet, response) {
 				if(err) reject(err);
-				resolve({result:tweet});
+				resolve({% raw %}{result:tweet}{% endraw %});
 			});
 		} else {
 
-			request.get({url:args.image, encoding:null}, function(err, response, body) {
+			request.get({% raw %}{url:args.image, encoding:null}{% endraw %}, function(err, response, body) {
 				if(!err &amp;&amp; response.statusCode === 200) {
 
-					client.post('media/upload', {media: body}, function(error, media, response) {
+					client.post('media/upload', {% raw %}{media: body}{% endraw %}, function(error, media, response) {
 
 						if(error) {
-							reject({error:error});
+							reject({% raw %}{error:error}{% endraw %});
 						}
 						
 						var status = {
@@ -352,7 +353,7 @@ function main(args) {
 
 						client.post('statuses/update', status, function(error, tweet, response){
 							if (!error) {
-								resolve({result:tweet});
+								resolve({% raw %}{result:tweet}{% endraw %});
 							}
 						});
 

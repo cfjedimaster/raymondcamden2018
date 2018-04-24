@@ -5,6 +5,7 @@ date: "2016-05-23T07:17:00-07:00"
 categories: Development Mobile 
 tags: nativescript
 banner_image: 
+permalink: /2016/05/23/a-simple-rss-reader-in-nativescript
 ---
 
 Last [week](https://www.raymondcamden.com/2016/05/16/thoughts-on-nativescript-20/) I wrote up my initial
@@ -28,13 +29,13 @@ First off, the home page view, which is really just a list.
 &lt;Page xmlns=&quot;http:&#x2F;&#x2F;schemas.nativescript.org&#x2F;tns.xsd&quot; navigatingTo=&quot;loaded&quot;&gt;
 
 	&lt;Page.actionBar&gt;
-		&lt;ActionBar title=&quot;{%raw%}{{ title }}{%endraw%}&quot; &#x2F;&gt;
+		&lt;ActionBar title=&quot;{% raw %}{{ title }{% endraw %}}&quot; &#x2F;&gt;
 	&lt;&#x2F;Page.actionBar&gt;
 
 	&lt;StackLayout orientation=&quot;vertical&quot;&gt;
-		&lt;ListView items=&quot;{%raw%}{{ rssList.feedItems }}{%endraw%}&quot; itemTap=&quot;loadItem&quot;&gt;
+		&lt;ListView items=&quot;{% raw %}{{ rssList.feedItems }{% endraw %}}&quot; itemTap=&quot;loadItem&quot;&gt;
 			&lt;ListView.itemTemplate&gt;
-				&lt;Label text=&quot;{%raw%}{{ title }}{%endraw%}&quot; horizontalAlignment=&quot;left&quot; verticalAlignment=&quot;center&quot; &#x2F;&gt;
+				&lt;Label text=&quot;{% raw %}{{ title }{% endraw %}}&quot; horizontalAlignment=&quot;left&quot; verticalAlignment=&quot;center&quot; &#x2F;&gt;
 			&lt;&#x2F;ListView.itemTemplate&gt;
 		&lt;&#x2F;ListView&gt;
 	&lt;&#x2F;StackLayout&gt;
@@ -87,12 +88,12 @@ Now let's look at the detail page.
 &lt;Page xmlns=&quot;http:&#x2F;&#x2F;schemas.nativescript.org&#x2F;tns.xsd&quot; navigatingTo=&quot;loaded&quot;&gt;
 
 	&lt;Page.actionBar&gt;
-		&lt;ActionBar title=&quot;{%raw%}{{ title }}{%endraw%}&quot; &#x2F;&gt;
+		&lt;ActionBar title=&quot;{% raw %}{{ title }{% endraw %}}&quot; &#x2F;&gt;
 	&lt;&#x2F;Page.actionBar&gt;
 
 	&lt;StackLayout orientation=&quot;vertical&quot;&gt;
 		&lt;ScrollView&gt;
-			&lt;HtmlView html=&quot;{%raw%}{{ text }}{%endraw%}&quot; &#x2F;&gt;
+			&lt;HtmlView html=&quot;{% raw %}{{ text }{% endraw %}}&quot; &#x2F;&gt;
 		&lt;&#x2F;ScrollView&gt;
 	&lt;&#x2F;StackLayout&gt;
 &lt;&#x2F;Page&gt;
@@ -154,7 +155,7 @@ exports.load = function name(params) {
 		return;
 	}
 
-	return fetch(&#x27;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select%20title%2Clink%2Cdescription%20from%20rss%20where%20url%3D%22&#x27;+encodeURIComponent(config.rssURL)+&#x27;%22&amp;format=json&amp;diagnostics=true&#x27;, {
+	return fetch(&#x27;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select{% raw %}%20title%{% endraw %}2Clink{% raw %}%2Cdescription%{% endraw %}20from{% raw %}%20rss%{% endraw %}20where{% raw %}%20url%{% endraw %}3D{% raw %}%22&#x27;+encodeURIComponent(config.rssURL)+&#x27;%{% endraw %}22&amp;format=json&amp;diagnostics=true&#x27;, {
 	})
 	.then(handleErrors)
 	.then(function(response) {

@@ -5,6 +5,7 @@ date: "2015-05-21T10:09:18+06:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/05/21/getting-initial-console-messages-you-missed-with-remote-debug
 ---
 
 This falls in the "I'm sure it is obvious and no one will find it useful" category, but typically those <i>are</i> the posts that end up being useful so here goes nothing. Imagine you are using remote debugging (and if you don't know how, here are two articles - <a href="http://css.dzone.com/articles/overview-mobile-debugging">Part One</a> and <a href="http://css.dzone.com/articles/overview-mobile-debugging-2?mz=27249-mobile">Part Two</a>) and have a few console messages that appear early in the app cycle. For example:

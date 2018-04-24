@@ -5,6 +5,7 @@ date: "2016-08-16T15:05:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: /images/banners/secure_storage.jpg
+permalink: /2016/08/16/working-with-ionic-native-using-secure-storage
 ---
 
 Today I'm reviewing another Ionic Native feature, the [Secure Storage](http://ionicframework.com/docs/v2/native/secure-storage/) wrapper. As the [plugin docs](https://github.com/Crypho/cordova-plugin-secure-storage) explain, this is a plugin that allows for encrypted storage of sensitive data. It follows an API similar to that of [WebStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API), with a few differences.
@@ -54,11 +55,11 @@ Let's start by looking at the first page, our login screen.
 Now we'll look at the code behind this.
 
 <pre><code class="language-javascript">
-import {Component} from &#x27;@angular&#x2F;core&#x27;;
-import {NavController} from &#x27;ionic-angular&#x27;;
-import {LoginProvider} from &#x27;..&#x2F;..&#x2F;providers&#x2F;login-provider&#x2F;login-provider&#x27;;
-import { Dialogs } from &#x27;ionic-native&#x27;;
-import {MainPage} from &#x27;..&#x2F;main-page&#x2F;main-page&#x27;;
+import {% raw %}{Component}{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{NavController}{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{LoginProvider}{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;login-provider&#x2F;login-provider&#x27;;
+import {% raw %}{ Dialogs }{% endraw %} from &#x27;ionic-native&#x27;;
+import {% raw %}{MainPage}{% endraw %} from &#x27;..&#x2F;main-page&#x2F;main-page&#x27;;
 
 @Component({
   templateUrl: &#x27;build&#x2F;pages&#x2F;home&#x2F;home.html&#x27;,
@@ -102,9 +103,9 @@ export class HomePage {
 All we've got here is a login handler that calls a provider to verify the credentials. There's one interesting part - the `setRoot` call you see there is used instead of navCtrl.push as it lets you avoid having a back button on the next view. Finally, let's look at the provider, even though it's just a static system.
 
 <pre><code class="language-javascript">
-import { Injectable } from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Injectable }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
 import &#x27;rxjs&#x2F;add&#x2F;operator&#x2F;map&#x27;;
-import {Observable} from &#x27;rxjs&#x27;;
+import {% raw %}{Observable}{% endraw %} from &#x27;rxjs&#x27;;
 &#x2F;&#x2F;import &#x27;rxjs&#x2F;Observable&#x2F;from&#x27;;
 
 @Injectable()
@@ -113,7 +114,7 @@ export class LoginProvider {
   constructor() {}
 
   public login(username:string,password:string) {
-    let data = {success:1};
+    let data = {% raw %}{success:1}{% endraw %};
 
     if(password !== &#x27;password&#x27;) data.success = 0;
 
@@ -142,12 +143,12 @@ Since I'm using a plugin, I know now that my app has to wait for Cordova's devic
 Now let's look at the updated script. I'll share the entire update and then I'll point out the updates.
 
 <pre><code class="language-javascript">
-import {Component} from &#x27;@angular&#x2F;core&#x27;;
-import {NavController,Platform} from &#x27;ionic-angular&#x27;;
-import {LoginProvider} from &#x27;..&#x2F;..&#x2F;providers&#x2F;login-provider&#x2F;login-provider&#x27;;
-import { Dialogs } from &#x27;ionic-native&#x27;;
-import {MainPage} from &#x27;..&#x2F;main-page&#x2F;main-page&#x27;;
-import {SecureStorage} from &#x27;ionic-native&#x27;;
+import {% raw %}{Component}{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{NavController,Platform}{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{LoginProvider}{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;login-provider&#x2F;login-provider&#x27;;
+import {% raw %}{ Dialogs }{% endraw %} from &#x27;ionic-native&#x27;;
+import {% raw %}{MainPage}{% endraw %} from &#x27;..&#x2F;main-page&#x2F;main-page&#x27;;
+import {% raw %}{SecureStorage}{% endraw %} from &#x27;ionic-native&#x27;;
 
 @Component({
   templateUrl: &#x27;build&#x2F;pages&#x2F;home&#x2F;home.html&#x27;,
@@ -176,7 +177,7 @@ export class HomePage {
           .then(
             data =&gt; {
               console.log(&#x27;data was &#x27;+data);
-              let {u,p} = JSON.parse(data);
+              let {% raw %}{u,p}{% endraw %} = JSON.parse(data);
               this.username = u;
               this.password = p;
               this.login();
@@ -204,7 +205,7 @@ export class HomePage {
       if(res.success) {
 
         &#x2F;&#x2F;securely store
-        this.secureStorage.set(&#x27;loginInfo&#x27;, JSON.stringify({u:this.username, p:this.password}))
+        this.secureStorage.set(&#x27;loginInfo&#x27;, JSON.stringify({% raw %}{u:this.username, p:this.password}{% endraw %}))
         .then(
         data =&gt; {
           console.log(&#x27;stored info&#x27;);

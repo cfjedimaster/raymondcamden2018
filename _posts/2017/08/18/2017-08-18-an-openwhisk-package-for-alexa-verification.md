@@ -5,6 +5,7 @@ date: "2017-08-18T06:39:00-07:00"
 categories: Serverless 
 tags: openwhisk alexa
 banner_image: 
+permalink: /2017/08/18/an-openwhisk-package-for-alexa-verification
 ---
 
 <strong>Edit on August 19 - I had an error in my code that broke Alexa sessions. I've updated the code below and in GitHub.</strong>

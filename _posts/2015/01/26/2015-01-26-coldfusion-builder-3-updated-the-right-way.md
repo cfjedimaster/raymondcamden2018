@@ -5,6 +5,7 @@ date: "2015-01-26T16:34:17+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/01/26/coldfusion-builder-3-updated-the-right-way
 ---
 
 About two weeks ago I <a href="http://www.raymondcamden.com/2015/01/12/coldfusion-builder-3-updated-and-i-bet-you-didnt-know">blogged</a> about how Adobe had updated ColdFusion Builder but had - oddly - not used the regular Eclipse update mechnism to distribute the update. Instead the expectation was that users should redownload the <i>entire</i> product again.

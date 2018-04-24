@@ -5,6 +5,7 @@ date: "2015-07-03T08:57:16+06:00"
 categories: Development HTML5 JavaScript 
 tags: cordova
 banner_image: 
+permalink: /2015/07/03/using-angular-and-a-content-security-policy-watch-out-for-this
 ---
 
 <div style="background-color:#ececec">Edit on July 6, 2015: Kevin H, in the comments below, pointed out that the docs for ngShow actually talk about this! I missed this completely. The solution the docs recommend, including an additional CSS file, worked fine for me, and feels like a "better" solution than mine, so I recommend following the docs lead.</div>
@@ -20,7 +21,7 @@ All of a sudden, the button began showing up in all cases, even when the variabl
 <pre><code class="language-markup">
 first test, &lt;span ng-show=&quot;!barcodeAllowed.status&quot;&gt;DONT SHOW&lt;/span&gt;&lt;br/&gt;
 second test, &lt;span ng-show=&quot;barcodeAllowed.status == false&quot;&gt;DONT SHOW&lt;/span&gt;&lt;br/&gt;
-test -{%raw%}{{barcodeAllowed.status}}{%endraw%}-end -{%raw%}{{!barcodeAllowed.status}}{%endraw%}- -{%raw%}{{barcodeAllowed | json}}{%endraw%}-&lt;br/&gt;
+test -{% raw %}{{barcodeAllowed.status}{% endraw %}}-end -{% raw %}{{!barcodeAllowed.status}{% endraw %}}- -{% raw %}{{barcodeAllowed |{% endraw %} json}}-&lt;br/&gt;
 test if &lt;span ng-if=&quot;barcodeAllowed.status&quot;&gt; if was true&lt;/span&gt;&lt;br/&gt;
 test opp if &lt;span ng-if=&quot;!barcodeAllowed.status&quot;&gt; will see it&lt;/span&gt;
 </code></pre>

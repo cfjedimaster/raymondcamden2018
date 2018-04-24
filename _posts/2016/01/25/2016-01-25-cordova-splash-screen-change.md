@@ -5,6 +5,7 @@ date: "2016-01-25T16:16:10-06:00"
 categories: Mobile Development 
 tags: cordova
 banner_image: /images/2016/01/apache-cordova.opt.png
+permalink: /2016/01/25/cordova-splash-screen-change
 ---
 
 A few days ago I began to notice something odd with my Apache Cordova tests. When the application would launch, the splash screen would fade away as opposed to just disappearing. I thought this seemed familiar so I double checked the Apache Cordova blog and re-read the last [plugins release](http://cordova.apache.org/news/2016/01/19/plugins-release.html) post. I had read it when it was published, but not terribly closely. In it, it mentions that the SplashScreen plugin was updated to 3.1.0. In the notes, you can see "Implementing FadeSplashScreen feature for Android" and something similar for iOS. 

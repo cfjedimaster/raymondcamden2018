@@ -5,6 +5,7 @@ date: "2017-01-05T10:52:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: /images/banners/i2menu.jpg
+permalink: /2017/01/05/an-example-of-the-ionic-2-menu-component
 ---
 
 In general, I find components in Ionic 2 to be simpler and easier to understand than their V1 versions, but for some reason, I 
@@ -48,11 +49,11 @@ If you want my demo, you can find it here: https://github.com/cfjedimaster/Cordo
 Since my app starts with the side menu, I decided to make main my root page for the app. So my first modification was to app.component.ts:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { Platform } from &#x27;ionic-angular&#x27;;
-import { StatusBar, Splashscreen } from &#x27;ionic-native&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Platform }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ StatusBar, Splashscreen }{% endraw %} from &#x27;ionic-native&#x27;;
 
-import { MainPage } from &#x27;..&#x2F;pages&#x2F;main&#x2F;main&#x27;;
+import {% raw %}{ MainPage }{% endraw %} from &#x27;..&#x2F;pages&#x2F;main&#x2F;main&#x27;;
 
 @Component({
   templateUrl: &#x27;app.html&#x27;
@@ -117,11 +118,11 @@ because I simply used URLs I had already set routes up for.
 Here is my main.ts:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController, NavParams } from &#x27;ionic-angular&#x27;;
-import { HomePage } from &#x27;..&#x2F;home&#x2F;home&#x27;;
-import { CatsPage } from &#x27;..&#x2F;cats&#x2F;cats&#x27;;
-import { DogsPage } from &#x27;..&#x2F;dogs&#x2F;dogs&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController, NavParams }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ HomePage }{% endraw %} from &#x27;..&#x2F;home&#x2F;home&#x27;;
+import {% raw %}{ CatsPage }{% endraw %} from &#x27;..&#x2F;cats&#x2F;cats&#x27;;
+import {% raw %}{ DogsPage }{% endraw %} from &#x27;..&#x2F;dogs&#x2F;dogs&#x27;;
 
 
 @Component({

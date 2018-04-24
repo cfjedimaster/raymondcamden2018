@@ -5,6 +5,7 @@ date: "2015-11-02T14:48:14+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/11/02/quick-tip-ionic-apps-and-touch-events
 ---
 
 <strong><i>TL;DR: Ionic handles touch versus click for you. Don't worry and carry on.</i></strong>

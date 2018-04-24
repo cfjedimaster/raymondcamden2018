@@ -5,6 +5,7 @@ date: "2016-03-28T10:26:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: /images/banners/ionicuserservice.png
+permalink: /2016/03/28/tesing-the-new-ionic-user-service
 ---
 
 **Please note the date of this article! At the time I wrote this, Ionic Services had recently been given a major update, but they were not fully released yet. What you see in the future may be different than what I demonstrate here!**
@@ -32,7 +33,7 @@ I started off testing the [social login feature](http://docs.ionic.io/docs/socia
 Note that I've got a bit of logic to hide them when a user is already authenticated. The user system lets you cache logins so your application needs to prepare for that. Now here is the JavaScript code.
 
 <pre><code class="language-javascript">
-$scope.loginButton = {hidden:true};
+$scope.loginButton = {% raw %}{hidden:true}{% endraw %};
 	
 var user = Ionic.User.current();
 console.log('user currently: '+JSON.stringify(user));
@@ -41,12 +42,12 @@ if (user.isAuthenticated()) {
 	console.log('yes auth');
 } else {
 	console.log('no auth');
-	$scope.loginButton = {hidden:false};
+	$scope.loginButton = {% raw %}{hidden:false}{% endraw %};
 }
 // stuff deleted
 
 $scope.customLogin = function() {
-	Ionic.Auth.login('basic', {remember:true}, fakeDetails).then(function(newUser) {
+	Ionic.Auth.login('basic', {% raw %}{remember:true}{% endraw %}, fakeDetails).then(function(newUser) {
 		//goddamn scope freaking issues
 		$scope.$apply(function() {
 			$scope.loginButton.hidden = true;
@@ -153,7 +154,7 @@ First off, the docs mention a set of error responses. One that was missing was s
 
 <pre><code class="language-javascript">
 $scope.customLogin = function() {
-	Ionic.Auth.login('basic', {remember:true}, fakeDetails).then(function(newUser) {
+	Ionic.Auth.login('basic', {% raw %}{remember:true}{% endraw %}, fakeDetails).then(function(newUser) {
 			//goddamn scope freaking issues
 		$scope.$apply(function() {
 			$scope.loginButton.hidden = true;

@@ -5,6 +5,7 @@ date: "2015-10-13T11:55:16+06:00"
 categories: Development JavaScript 
 tags: bluemix strongloop
 banner_image: 
+permalink: /2015/10/13/working-with-strongloop-part-two
 ---
 
 Yesterday I blogged about StrongLoop and the ability to quickly generate APIs (<a href="http://www.raymondcamden.com/2015/10/12/working-with-strongloop-part-one">Working with StrongLoop (Part One)</a>). Today I'm going to write up a short post detailing how to switch from the in-memory database storage system to a 'real' persistent one. If you haven't read the previous entry, be sure to quickly scan it over or none of this will make sense. 

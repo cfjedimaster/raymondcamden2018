@@ -5,6 +5,7 @@ date: "2015-02-06T11:11:41+06:00"
 categories: Development JavaScript Mobile 
 tags: bluemix
 banner_image: 
+permalink: /2015/02/06/using-the-new-bluemix-visual-recognition-service-in-cordova
 ---
 
 Before I begin, a quick disclaimer. I've been at IBM for a grand total of five days. Considering three were taken up by travel and orientation, I'm <i>very</i> much the new kid on the block here. I've only begun to look into <a href="https://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> and <a href="http://www.ibm.com/software/bluemix">Bluemix</a> so you should take what I show here with the same confidence you would give anyone using a new technology for two days. In other words - proceed with caution! ;)
@@ -113,7 +114,7 @@ $(document).on(&quot;deviceready&quot;, function() {
         options.fileKey = &quot;img_file&quot;;
         options.fileName = imageData.substr(imageData.lastIndexOf(&#x27;&#x2F;&#x27;) + 1);
         
-        options.headers = {&#x27;Authorization&#x27;: authHeaderValue(API_USER, API_PASSWORD) };
+        options.headers = {% raw %}{&#x27;Authorization&#x27;: authHeaderValue(API_USER, API_PASSWORD) }{% endraw %};
         
         var ft = new FileTransfer();
         ft.upload(imageData, encodeURI(API_URL+&quot;&#x2F;v1&#x2F;tag&#x2F;recognize&quot;), uploadWin, uploadFail, options);

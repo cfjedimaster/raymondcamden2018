@@ -5,6 +5,7 @@ date: "2017-12-24"
 categories: Books Movies Music Video Games 
 tags: 
 banner_image: 
+permalink: /2017/12/24/favorite-media-of-2017
 ---
 
 For the past few years I've been doing a couple of "end of year" posts, one of which contains a list of the favorite books, music, movies, and video games I've enjoyed over the past year. This year feels like it went by in a whirl. Regular readers know I was out in the fall for my last adoption (and truly, this is it, seven kids is enough), but what folks may not know is that the adoption process is pretty lengthy. It feels like it consumed most of my year. Obviously it didn't, but it seemed like this year didn't leave a lot of time for "media". And that's ok - I love that my family has grown again, but this recap is going to be a bit slim. 

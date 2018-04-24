@@ -5,6 +5,7 @@ date: "2016-05-05T13:21:00-07:00"
 categories: Development JavaScript 
 tags: Cordova
 banner_image: /images/banners/xhr2banner.jpg
+permalink: /2016/05/05/uploading-multiple-files-at-once-with-ajax-and-xhr2
 ---
 
 Almost a year ago I wrote a blog post discussing how to use the Cordova FileTransfer plugin to upload multiple files ([Processing multiple simultaneous uploads with Cordova](https://www.raymondcamden.com/2015/08/10/processing-multiple-simultaneous-uploads-with-cordova/#comment-2660245015)). In that post I demonstrated how you could wrap the calls to each upload in a Promise and then wait for them all to complete. A reader pointed out the obvious issue with that solution - for N files you're creating N HTTP requests. While *probably* not a big deal (and as the developer, you could put a limit on how many files were allowed to be sent), I thought it would be interesting to demonstrate how can upload multiple files with one POST request using XHR2.

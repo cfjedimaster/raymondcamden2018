@@ -5,6 +5,7 @@ date: "2018-01-17"
 categories: Development 
 tags: javascript
 banner_image: 
+permalink: /2018/01/17/using-devtools-to-scrape-web-content
 ---
 
 So yesterday I [blogged](https://www.raymondcamden.com/2018/01/16/generating-random-cure-song-titles/) a demo that was - by my own admission - somewhat silly and not really worth your time to read. However, I was thinking later that there was one particular aspect of how I built that demo that may be actually be useful. 

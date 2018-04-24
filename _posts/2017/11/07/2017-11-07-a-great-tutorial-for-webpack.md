@@ -5,6 +5,7 @@ date: "2017-11-07T04:11:00-07:00"
 categories: Javascript 
 tags: webpack
 banner_image: 
+permalink: /2017/11/07/a-great-tutorial-for-webpack
 ---
 
 Every now and then I'll blog something that I've been discussing on Twitter as a way to help those who have somehow managed to avoid becoming a Twitter user. (And trust me, you're probably better off for it.) For some time now I've been hearing about [Webpack](https://webpack.js.org/), and I've had the opportunity to meet the creator ([Sean Larkin](https://twitter.com/thelarkinn)) at a few events. However, I've not had much luck actually learning it. I tried reading the official docs once or twice and gave up quickly. To be clear, there wasn't anything wrong with the docs, they just didn't quite click for me, and I was having trouble seeing how Webpack would be useful for me.

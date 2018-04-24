@@ -5,6 +5,7 @@ date: "2015-11-11T14:14:51+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/11/11/working-with-the-clipboard-in-cordova-apps
 ---
 
 Earlier this week a friend of mine on Facebook noticed something odd. Facebook recognizes when you have URLs in your clipboard:
@@ -105,7 +106,7 @@ angular.module('starter', ['ionic','ngCordova'])
 
 	var isURL = function(s) {
 		//Credit: http://stackoverflow.com/a/3809435
-		var expr = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&amp;//=]*)/i;
+		var expr = /https?:\/\/(www\.)?[-a-zA-Z0-9@:{% raw %}%._\+~#=]{2,256}{% endraw %}\.[a-z]{% raw %}{2,6}{% endraw %}\b([-a-zA-Z0-9@:%_\+.~#?&amp;//=]*)/i;
 		var regex = new RegExp(expr);
 		var result = s.match(regex);
 		if(result) return true;

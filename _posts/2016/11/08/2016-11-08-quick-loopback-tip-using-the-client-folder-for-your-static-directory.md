@@ -5,6 +5,7 @@ date: "2016-11-08T09:36:00-07:00"
 categories: Development 
 tags: loopback
 banner_image: 
+permalink: /2016/11/08/quick-loopback-tip-using-the-client-folder-for-your-static-directory
 ---
 
 I'm writing this blog post literally because I want a place to store this tip so I can get it easier later on. When you create a new LoopBack application, the command line automatically creates a folder called <code>client</code> for you. That's a folder where you *may*, if you want to, place a client-side application to use with your APIs. This is totally optional. If you do choose to use it, you may find yourself wanting to run both a web app there as well as the LoopBack server.

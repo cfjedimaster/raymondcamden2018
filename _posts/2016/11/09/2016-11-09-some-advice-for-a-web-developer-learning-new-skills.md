@@ -5,6 +5,7 @@ date: "2016-11-09T08:07:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/11/09/some-advice-for-a-web-developer-learning-new-skills
 ---
 
 One of the things I'm constantly telling people is that I love it when I get questions. Sometimes they aren't things I can help with and sometimes they are a bit too complex to handle over email, but every now and then I get a great one that leads to a good discussion. Yesterday I got one of those emails and I want to share it with my readers.

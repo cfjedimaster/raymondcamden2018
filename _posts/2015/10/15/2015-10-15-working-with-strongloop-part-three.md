@@ -5,6 +5,7 @@ date: "2015-10-15T12:23:24+06:00"
 categories: Development JavaScript 
 tags: strongloop
 banner_image: 
+permalink: /2015/10/15/working-with-strongloop-part-three
 ---
 
 So this week I'm continuing my look into <a href="https://strongloop.com/">StrongLoop</a>. If you missed my previous entries, I'll include them in a list at the bottom. I'm kinda hopping around the technology picking and choosing what seems interesting to me so these posts may not be the best introduction to the platform, but I hope folks are finding it interesting. As a reminder, you can access the core documentation <a href="https://docs.strongloop.com/display/SL/Installing+StrongLoop">here</a> to start learning about it yourself. As I mentioned in the very first post, StrongLoop's Arc product runs on top of the open source <a href="http://loopback.io/">LoopBack</a> framework. Today's post is pretty much entirely based on that. 
@@ -23,9 +24,9 @@ In the code sample above, the null argument there is where you would use an erro
 
 <pre><code class="language-javascript">Cat.remoteMethod('byName', 
 	{
-		http: {path:'/name', verb:'get'},
-		accepts:{arg:'name', type:'string'},
-		returns:{arg:'name', type:'string'}
+		http: {% raw %}{path:'/name', verb:'get'}{% endraw %},
+		accepts:{% raw %}{arg:'name', type:'string'}{% endraw %},
+		returns:{% raw %}{arg:'name', type:'string'}{% endraw %}
 	}
 );</code></pre>
 
@@ -39,16 +40,16 @@ I then modified the code to do a real look up. I haven't really seen yet the CRU
 
 <pre><code class="language-javascript">Cat.byName = function(name,cb) {
 	console.log('find by name '+name);
-	Cat.findOne({where:{name:name}}, function(err, cat) {
+	Cat.findOne({% raw %}{where:{name:name}{% endraw %}}, function(err, cat) {
 		cb(null,cat);
 	});
 };
 		
 Cat.remoteMethod('byName', 
 	{
-		http: {path:'/name', verb:'get'},
-		accepts:{arg:'name', type:'string'},
-		returns:{arg:'cat', type:'cat'}
+		http: {% raw %}{path:'/name', verb:'get'}{% endraw %},
+		accepts:{% raw %}{arg:'name', type:'string'}{% endraw %},
+		returns:{% raw %}{arg:'cat', type:'cat'}{% endraw %}
 	}
 );</code></pre>
 
@@ -65,7 +66,7 @@ Another interesting aspect is the ability to work with <a href="https://docs.str
 
 Not really rocket science, but I love how easy it is to do stuff like this. 
 
-For the final bit of this post, how about blocking a particular method? You can hide a method following the guide here (<a href="https://docs.strongloop.com/display/public/LB/Authentication%2C+authorization%2C+and+permissions#Authentication,authorization,andpermissions-HidingmethodsandRESTendpoints">Hiding methods and REST endpoints</a>). This is actually from the security section and that's something I want to cover later on, but if you just want to blanket hide/block something, you can do it like so:
+For the final bit of this post, how about blocking a particular method? You can hide a method following the guide here (<a href="https://docs.strongloop.com/display/public/LB/Authentication{% raw %}%2C+authorization%{% endraw %}2C+and+permissions#Authentication,authorization,andpermissions-HidingmethodsandRESTendpoints">Hiding methods and REST endpoints</a>). This is actually from the security section and that's something I want to cover later on, but if you just want to blanket hide/block something, you can do it like so:
 
 <pre><code class="language-javascript">Cat.disableRemoteMethod('findOne', true);</code></pre>
 

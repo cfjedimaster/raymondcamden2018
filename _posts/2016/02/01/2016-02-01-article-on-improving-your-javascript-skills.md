@@ -5,6 +5,7 @@ date: "2016-02-01T12:12:24-07:00"
 categories: JavaScript Development 
 tags: 
 banner_image: /images/2016/02/levelup_javascript.jpg
+permalink: /2016/02/01/article-on-improving-your-javascript-skills
 ---
 
 Nothing much to say here really except that I've released another article for the 

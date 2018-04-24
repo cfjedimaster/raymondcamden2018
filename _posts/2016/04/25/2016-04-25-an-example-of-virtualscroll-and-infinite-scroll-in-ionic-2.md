@@ -5,6 +5,7 @@ date: "2016-04-25T08:50:00-07:00"
 categories: Mobile JavaScript 
 tags: ionic strongloop
 banner_image: /images/banners/infinite.jpg
+permalink: /2016/04/25/an-example-of-virtualscroll-and-infinite-scroll-in-ionic-2
 ---
 
 Before I begin, a warning. At the time I wrote this blog post, Ionic 2 was still in beta. Also, I've barely begun to learn Ionic 2 myself. You should consider this code beta-level quality written by an inexperienced dev. On the other hand, if it still works perfectly, I'm going to pretend I was brilliant all along.
@@ -20,8 +21,8 @@ To begin, I used the Random User Generator to output a *huge* list of users. I d
 My first change was to people-service.ts. The original code would cache the result. My modified code removes this cache and supports a parameter telling it what index to begin fetching results. This is all part of the LoopBack API and I'll be talking about that in a blog post over on the [StrongLoop blog](https://strongloop.com/strongblog/) later this week.
 
 <pre><code class="language-javascript">
-import {Injectable} from 'angular2/core';
-import {Http} from 'angular2/http';
+import {% raw %}{Injectable}{% endraw %} from 'angular2/core';
+import {% raw %}{Http}{% endraw %} from 'angular2/http';
 import 'rxjs/add/operator/map';
 
 /*
@@ -71,7 +72,7 @@ Now let's look at the Home page. First, let's consider the view.
 			&lt;ion-avatar item-left&gt;
 				&lt;ion-img [src]=&quot;person.picture&quot; width=&quot;48&quot; height=&quot;48&quot;&gt;&lt;&#x2F;ion-img&gt;
 			&lt;&#x2F;ion-avatar&gt;
-			&lt;h2&gt;{%raw%}{{person.name}}{%endraw%}&lt;&#x2F;h2&gt;
+			&lt;h2&gt;{% raw %}{{person.name}{% endraw %}}&lt;&#x2F;h2&gt;
 		&lt;&#x2F;ion-item&gt;
 	&lt;&#x2F;ion-list&gt;
 
@@ -87,8 +88,8 @@ The changes here are two-fold. First, I changed the list to support [VirtualScro
 Secondly - I added the [InfiniteScroll](http://ionicframework.com/docs/v2/api/components/infinite-scroll/InfiniteScroll/) directive. This is pretty simple to use (you'll see the code in a moment), but don't forget this little gem in the docs: "When this expression has finished its tasks, it should call the complete() method on the infinite scroll instance." Yeah, that's pretty important. But I'll pretend I didn't miss that. Ok, so let's look at the code behind the view.
 
 <pre><code class="language-javascript">
-import {Page} from &#x27;ionic-angular&#x27;;
-import {PeopleService} from &#x27;..&#x2F;..&#x2F;providers&#x2F;people-service&#x2F;people-service&#x27;;
+import {% raw %}{Page}{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{PeopleService}{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;people-service&#x2F;people-service&#x27;;
 
 @Page({
   templateUrl: &#x27;build&#x2F;pages&#x2F;home&#x2F;home.html&#x27;,

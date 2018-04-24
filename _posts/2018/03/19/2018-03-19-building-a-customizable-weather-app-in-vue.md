@@ -5,6 +5,7 @@ date: "2018-03-19T17:01:00+06:00"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/weatherapp.jpg
+permalink: /2018/03/19/building-a-customizable-weather-app-in-vue
 ---
 
 I am somewhat of a weather app collector. Even though they all basically give the *exact* same information, I just have a thing for beautiful renderings of the weather. My default weather app, Yahoo Weather, can be stunning at times.
@@ -46,11 +47,11 @@ For the first iteration of the code, I focused on getting the weather and render
 			<h1>Loading...</h1>
 		</div>
 		<div id="content" v-else>
-			<h1>{%raw%}{{location}}{%endraw%}</h1>
+			<h1>{% raw %}{{location}{% endraw %}}</h1>
 			<p>
-				<span class="temp">{%raw%}{{temp}}{%endraw%}&deg;</span><br/>
-				Low: {%raw%}{{temp_low}}{%endraw%}&deg; High: {%raw%}{{temp_high}}{%endraw%}&deg;<br/>
-				{%raw%}{{desc}}{%endraw%}
+				<span class="temp">{% raw %}{{temp}{% endraw %}}&deg;</span><br/>
+				Low: {% raw %}{{temp_low}{% endraw %}}&deg; High: {% raw %}{{temp_high}{% endraw %}}&deg;<br/>
+				{% raw %}{{desc}{% endraw %}}
 			</p>
 		</div>
 	</div>
@@ -97,7 +98,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
-[v-cloak] {display: none};
+[v-cloak] {% raw %}{display: none}{% endraw %};
 ```
 
 Note the use of the gradient. This is done to slightly darken the background and make text a bit more clearer to read. Later, I need to make the background picture (which is used twice) something that I can edit via JavaScript. And speaking of JavaScript...
@@ -133,7 +134,7 @@ const app = new Vue({
 	methods:{
 		loadWeather() {
 
-			axios.get(`https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(SELECT%20woeid%20FROM%20geo.places%20WHERE%20text%3D%22(${this.lat}%2C${this.lon})%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys`)
+			axios.get(`https://query.yahooapis.com/v1/public/yql?q=select{% raw %}%20*%{% endraw %}20from{% raw %}%20weather.forecast%{% endraw %}20where{% raw %}%20woeid%{% endraw %}20in{% raw %}%20(SELECT%{% endraw %}20woeid{% raw %}%20FROM%{% endraw %}20geo.places{% raw %}%20WHERE%{% endraw %}20text{% raw %}%3D%{% endraw %}22(${% raw %}{this.lat}{% endraw %}{% raw %}%2C${this.lon}{% endraw %}){% raw %}%22)&format=json&env=store%{% endraw %}3A{% raw %}%2F%{% endraw %}2Fdatatables.org%2Falltableswithkeys`)
 			.then(res => {
 				let weather = res.data.query.results.channel;
 				console.log('response',weather);

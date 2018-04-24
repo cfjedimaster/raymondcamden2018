@@ -5,6 +5,7 @@ date: "2015-11-05T17:27:39+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova ionic
 banner_image: 
+permalink: /2015/11/05/cordova-demo-apple-tv-hd-video-viewer
 ---
 
 So a few days ago, someone on Twitter (sorry, I forget who) mentioned that the new Apple TV has some pretty stellar screen savers. Turns out - the data for those screen savers was all driven by a public JSON file. It didn't take long for someone to notice and then build a cool demo: <a href="http://benjaminmayo.co.uk/watch-all-the-apple-tv-aerial-video-screensavers">Watch All The Apple TV Aerial Video Screensavers</a>. You should check it out. Seriously. Absolutely beautiful stuff. 
@@ -80,7 +81,7 @@ And here is the JavaScript:
 	I convert Apple's JSON into two array of day and night videos. That makes it easier to pick a random one.
 	*/
 	var process = function(data) {
-		var processed = {night:[], day:[]};
+		var processed = {% raw %}{night:[], day:[]}{% endraw %};
 		for(var i=0; i&lt;data.length;i++) {
 			for(var video in data[i].assets) {
 				if(data[i].assets[video].timeOfDay === &quot;day&quot;) {

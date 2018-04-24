@@ -5,6 +5,7 @@ date: "2016-01-07T15:03:48+06:00"
 categories: Development JavaScript 
 tags: nodejs strongloop
 banner_image: 
+permalink: /2016/01/07/playing-with-strongloop-building-a-blog-part-two
 ---
 
 Welcome to the next blog entry in my series describing building a real (kinda) application with <a href="http://www.strongloop.com">StrongLoop</a>. In the <a href="http://www.raymondcamden.com/2016/01/05/playing-with-strongloop-building-a-blog-part-one">last entry</a>, I talked about the application I was creating (a simple blog), built the model, and demonstrated how to work with the model on the server-side. I completely skipped over using the REST APIs to focus on a simple content-driven dynamic site.

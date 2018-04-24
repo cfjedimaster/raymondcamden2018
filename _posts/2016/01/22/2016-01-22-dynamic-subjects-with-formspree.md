@@ -5,6 +5,7 @@ date: "2016-01-22T08:29:46-06:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/2016/01/formspree_big.jpg
+permalink: /2016/01/22/dynamic-subjects-with-formspree
 ---
 
 Whenever I present on static site generators, I spend some time discussing how to get "dynamic" features back into the site. One of the most important things people lose when switching to flat files is the ability to process forms. Luckily, there are a variety of different ways to get that feature back (I'll share some alternatives at the end). For my blog, I've gone with [Formspree](http://formspree.io/).
@@ -63,7 +64,7 @@ $(document).ready(function() {
 &lt;/style&gt;
 	
 &lt;form action=&quot;//formspree.io/raymondcamden@gmail.com&quot; method=&quot;POST&quot; id=&quot;contactform&quot;&gt;
-	&lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;{%raw%}{{% siteurl %}}{%endraw%}/thankyou&quot;&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;_next&quot; value=&quot;{% raw %}{{%{% endraw %} siteurl {% raw %}%}}{% endraw %}/thankyou&quot;&gt;
 	&lt;input type=&quot;hidden&quot; name=&quot;_subject&quot; id=&quot;_subject&quot; value=&quot;Blog Contact Form&quot;&gt;
 	&lt;input type=&quot;text&quot; name=&quot;_gotcha&quot; style=&quot;display:none&quot; /&gt;
 	

@@ -5,6 +5,7 @@ date: "2015-04-08T14:03:43+06:00"
 categories: Development HTML5 JavaScript Mobile 
 tags: ionic mobilefirst
 banner_image: 
+permalink: /2015/04/08/using-mobilefirst-http-adapters-with-an-ionic-application
 ---
 
 Last week I <a href="http://www.raymondcamden.com/2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application">blogged</a> about how to use <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> with <a href="http://ionicframework.com">Ionic</a>. Today I'm going to show another example of an adapter - the HTTP adapter.
@@ -135,24 +136,24 @@ For fun, let's add a footer bar to the detail view with a button to load the ful
 Here's the updated view code for that:
 
 <pre><code class="language-markup">&lt;ion-view&gt;
-	&lt;ion-nav-title&gt;{%raw%}{{detail.title}}{%endraw%}&lt;/ion-nav-title&gt;
+	&lt;ion-nav-title&gt;{% raw %}{{detail.title}{% endraw %}}&lt;/ion-nav-title&gt;
 
 	&lt;ion-content class=&quot;padding&quot;&gt;
 
 		&lt;div class=&quot;card&quot;&gt;
 
 		  &lt;div class=&quot;item item-divider&quot;&gt;
-		    {%raw%}{{detail.title}}{%endraw%}
+		    {% raw %}{{detail.title}{% endraw %}}
 		  &lt;/div&gt;
 
 		  &lt;div class=&quot;item item-text-wrap&quot;&gt;
 		    &lt;p&gt;
-				{%raw%}{{detail.description}}{%endraw%}
+				{% raw %}{{detail.description}{% endraw %}}
 		    &lt;/p&gt;
 		  &lt;/div&gt;
 
 		  &lt;div class=&quot;item item-divider&quot;&gt;
-		    {%raw%}{{detail.pubDate}}{%endraw%}
+		    {% raw %}{{detail.pubDate}{% endraw %}}
 		  &lt;/div&gt;
 
 		&lt;/div&gt;

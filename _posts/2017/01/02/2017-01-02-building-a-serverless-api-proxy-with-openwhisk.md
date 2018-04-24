@@ -5,6 +5,7 @@ date: "2017-01-02T08:11:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/apiproxy.jpg
+permalink: /2017/01/02/building-a-serverless-api-proxy-with-openwhisk
 ---
 
 One of the more common tasks we do with a server-side application is to build a simple API proxy. By that I mean we expose an API on our server that simply proxies to *another* remote server. Why might you do that when you can easily call APIs client-side with JavaScript?
@@ -71,7 +72,7 @@ function main() {
                                 url:cat.url[0]
                             };
                         });
-                        resolve({response:newResult});
+                        resolve({% raw %}{response:newResult}{% endraw %});
                     }
                 });
             }
@@ -118,8 +119,8 @@ function main(params) {
                         reject(err);
                     } else {
                         let myResult = result.response.data[0].images[0].image[0];
-                        let detail = {url:myResult.url[0], source_url:myResult.source_url[0], id:myResult.id[0]};
-                        resolve({response:detail});
+                        let detail = {% raw %}{url:myResult.url[0], source_url:myResult.source_url[0], id:myResult.id[0]}{% endraw %};
+                        resolve({% raw %}{response:detail}{% endraw %});
                     }
                 });
             }
@@ -155,8 +156,8 @@ And the detail - that button loads the detail page on the Cat API site.
 The complete code for this application may be found here (https://github.com/cfjedimaster/Cordova-Examples/tree/master/ionic_openwhisk), but let's look at the provider:
 
 <pre><code class="language-javascript">
-import { Injectable } from &#x27;@angular&#x2F;core&#x27;;
-import { Http } from &#x27;@angular&#x2F;http&#x27;;
+import {% raw %}{ Injectable }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Http }{% endraw %} from &#x27;@angular&#x2F;http&#x27;;
 import &#x27;rxjs&#x2F;add&#x2F;operator&#x2F;map&#x27;;
 
 &#x2F;*

@@ -5,6 +5,7 @@ date: "2017-04-04T09:54:00-07:00"
 categories: Serverless 
 tags: OpenWhisk
 banner_image: 
+permalink: /2017/04/04/openwhisk-sequences-and-errors
 ---
 
 <strong>As always, try to read the entire post before leaving. I edited the end to add a cool update!</strong>
@@ -15,19 +16,19 @@ I began by creating three simple actions, alpha, beta, and gamma. Here is the so
 
 <pre><code class="language-javascript">//Alpha
 function main(args) {
-	return {result:1};
+	return {% raw %}{result:1}{% endraw %};
 }
 
 //beta
 function main(args) {
 	if(!args.result) args.result=0; 
-	return {result:args.result+1};
+	return {% raw %}{result:args.result+1}{% endraw %};
 }
 
 //gamma
 function main(args) {
 	if(!args.result) args.result=0; 
-	return {result:args.result+1};
+	return {% raw %}{result:args.result+1}{% endraw %};
 }
 </code></pre>
 
@@ -38,7 +39,7 @@ Alright, so first, I broke beta:
 <pre><code class="language-javascript">function main(args) {
 	if(!args.result) args.result=0; 
 	doBad();
-	return {result:args.result+1};
+	return {% raw %}{result:args.result+1}{% endraw %};
 }
 </code></pre>
 
@@ -53,7 +54,7 @@ Cool. So next I converted Beta to use promises:
 	return new Promise( (resolve, reject) =&gt; {
 		if(!args.result) args.result=0; 
 		//doBad();
-		resolve({result:args.result+1});
+		resolve({% raw %}{result:args.result+1}{% endraw %});
 	});
 }
 </code></pre>
@@ -65,7 +66,7 @@ I didn't include an error this time, I just made sure it worked as expected, and
 	return new Promise( (resolve, reject) =&gt; {
 		if(!args.result) args.result=0; 
 		doBad();
-		//resolve({result:args.result+1});
+		//resolve({% raw %}{result:args.result+1}{% endraw %});
 	});
 }
 </code></pre>
@@ -83,7 +84,7 @@ I then switched to this version:
 	return new Promise( (resolve, reject) =&gt; {
 		if(!args.result) args.result=0; 
 		//doBad();
-		//resolve({result:args.result+1});
+		//resolve({% raw %}{result:args.result+1}{% endraw %});
 		reject(new Error("Because the sky is blue."));
 	});
 }
@@ -102,7 +103,7 @@ All in all - this really speaks to using good testing, and properly handling cod
 	return new Promise( (resolve, reject) =&gt; {
 		if(!args.result) args.result=0; 
 		//doBad();
-		//resolve({result:args.result+1});
+		//resolve({% raw %}{result:args.result+1}{% endraw %});
 		let e = new Error("Because the sky is blue.");
 		reject({
 			name:e.name,

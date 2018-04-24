@@ -5,6 +5,7 @@ date: "2015-05-06T15:44:15+06:00"
 categories: Development JavaScript Mobile 
 tags: mobilefirst
 banner_image: 
+permalink: /2015/05/06/working-with-mp3s-id3-and-phonegapcordova-adding-ibm-mobilefirst
 ---
 
 Welcome to the fourth and final entry in my series on using an ID3 reader for MP3s in a Cordova application. If you missed the initial entries (and I highly recommend reading these in order), they are:
@@ -80,10 +81,10 @@ In the code snippet above, ws.audioscrobbler.com is the last.fm API domain and <
 	var result = WL.Server.invokeHttp(input);
 	
 	if(!result.album) {
-		return {"error":result.message};
+		return {% raw %}{"error":result.message}{% endraw %};
 	}
 	WL.Logger.info("got this image "+result.album.image[3]["#text"]);
-	return {"img":result.album.image[3]["#text"]};
+	return {% raw %}{"img":result.album.image[3]["#text"]}{% endraw %};
 	
 }</code></pre>
 

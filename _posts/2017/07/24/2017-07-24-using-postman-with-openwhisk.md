@@ -5,6 +5,7 @@ date: "2017-07-24T10:33:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/07/24/using-postman-with-openwhisk
 ---
 
 For a while now I've been a huge fan of [Postman](https://www.getpostman.com/). If you've never heard of it, it's an incredibly powerful tool for working with APIs. I know a lot of folks like to use Curl at the command line for doing HTTP calls, but I much prefer a visual tool instead. Plus, Postman makes it much easier to save and organize API tests for use later. It's free, supported everywhere, and I strongly recommend it. I've been using Postman lately with [OpenWhisk](http://openwhisk.apache.org/) and I thought it would be useful to share a basic explanation on how you could use them together. <strong>To be clear, there is nothing "special" about OpenWhisk and it's APIs.</strong> If you already know Postman well, then you don't have to do anything special to use it, but for folks who may be new to Postman, I thought a quick overview would be useful. Alright, ready? Let's go!
@@ -24,7 +25,7 @@ Alright - so let's build a quick a OpenWhisk action. This one is trivially simpl
 <pre><code class="language-javascript">function main(args) {
 
 	if(!args.name) args.name = 'Nameless';
-	let result = `Hello, ${args.name}`;
+	let result = `Hello, ${% raw %}{args.name}{% endraw %}`;
 
 	return {
 		result:result

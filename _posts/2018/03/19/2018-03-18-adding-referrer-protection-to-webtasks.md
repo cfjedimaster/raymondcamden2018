@@ -5,6 +5,7 @@ date: "2018-03-19"
 categories: Serverless 
 tags: webtask
 banner_image: /images/banners/gate.jpg
+permalink: /2018/03/16/adding-referrer-protection-to-webtasks
 ---
 
 A few months ago I [wrote up](https://www.raymondcamden.com/2017/12/11/adding-referrer-protection-to-openwhisk-actions/) my experience of adding referrer style protection to an OpenWhisk action. Basically - checking the referer header to see if it is valid before executing a particular serverless action. I was thinking about that post and how I'd implement it with [Auth0 Extend](https://auth0.com/extend/) and [webtasks](https://webtask.io/) and came up with a solution that helped me learn even more about the platform.
@@ -51,7 +52,7 @@ module.exports = createMiddleware;
 
 module.exports = function(ctx, req, res) {
 	console.log('factory running');
-	res.writeHead(200, {'content-type': 'application/javascript'});
+	res.writeHead(200, {% raw %}{'content-type': 'application/javascript'}{% endraw %});
 	res.end(source);
 };
 ```

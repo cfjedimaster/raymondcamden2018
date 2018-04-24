@@ -5,6 +5,7 @@ date: "2018-02-12"
 categories: Static Sites 
 tags: 
 banner_image: /images/banners/windowsjekyll2.jpg
+permalink: /2018/02/12/installing-jekyll-on-windows
 ---
 
 Before I begin, please note that this post is not a guide or anything like that. I'm literally just blogging this to help save others the hours of crap I went through trying to get Jekyll to run on Windows. [Jekyll](https://jekyllrb.com/) is - or I should say - was my favorite static site generator. But getting it to work under Windows, or even Windows Subsystem for Linux - has been a complete and utter crap fest. I did go through the directions here:

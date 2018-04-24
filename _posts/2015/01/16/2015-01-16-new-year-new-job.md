@@ -5,6 +5,7 @@ date: "2015-01-16T14:16:47+06:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2015/01/16/new-year-new-job
 ---
 
 I've been leaving hints the last few weeks that this was coming, but today I can finally share with all of you. When January ends I will be leaving Adobe. I joined Adobe a few years back as an evangelist, something that had been a dream of mine for nearly a decade. I joined a team of <i>really</i> smart and talented people. I had no problem considering myself the worst person there. That wasn't a slight on me at all but merely how damn good the team was. I joined Adobe at an interesting time. Not long after they begun a serious push into web standards. I saw some amazing tools get created (Brackets, Edge Animate, Inspect) and something I never thought I'd see - folks mentioning Adobe at web conferences. Sure it may have been, "Can you believe *Adobe* is doing this?" but that was perfectly fine with me.

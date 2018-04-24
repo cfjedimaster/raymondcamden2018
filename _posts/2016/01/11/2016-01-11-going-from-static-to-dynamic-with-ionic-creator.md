@@ -5,6 +5,7 @@ date: "2016-01-11T14:28:32+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2016/01/11/going-from-static-to-dynamic-with-ionic-creator
 ---
 
 As I've mentioned more than once now, I'm <i>really</i> happy with how much <a href="http://creator.ionic.io">Ionic Creator</a> has improved recently. For this blog post, I thought it might be useful to demonstrate how you could go from a "static" Ionic Creator proof of concept to a dynamic one that made use of a real API. For hard core developers, this is probably not going to be very helpful. But I imagine Creator will attract folks who may not have a lot of experience working with JavaScript and APIs so I thought a concrete example would be helpful. As always, if anything doesn't make sense, leave me a comment and I'll try my best to help out.
@@ -99,7 +100,7 @@ We'll begin by removing two of the ion-items and making the third dynamic.
 &lt;ion-view title=&quot;Star Wars Films&quot;&gt;
     &lt;ion-content overflow-scroll=&quot;true&quot; padding=&quot;true&quot; class=&quot;has-header&quot;&gt;
         &lt;ion-list&gt;
-			&lt;ion-item ng-repeat=&quot;film in films&quot; ui-sref=&quot;filmTitle({id:film.id})&quot;&gt;{%raw%}{{film.title}}{%endraw%}&lt;/ion-item&gt;
+			&lt;ion-item ng-repeat=&quot;film in films&quot; ui-sref=&quot;filmTitle({% raw %}{id:film.id}{% endraw %})&quot;&gt;{% raw %}{{film.title}{% endraw %}}&lt;/ion-item&gt;
         &lt;/ion-list&gt;
     &lt;/ion-content&gt;
 &lt;/ion-view&gt;
@@ -138,10 +139,10 @@ We need to make the title and text dynamic. Here is the updated version:
 
 <pre><code class="language-markup">
 &lt;ion-view&gt;
-	&lt;ion-nav-title&gt;{%raw%}{{film.title}}{%endraw%}&lt;/ion-nav-title&gt;
+	&lt;ion-nav-title&gt;{% raw %}{{film.title}{% endraw %}}&lt;/ion-nav-title&gt;
     &lt;ion-content overflow-scroll=&quot;true&quot; padding=&quot;true&quot; class=&quot;has-header&quot;&gt;
         &lt;div&gt;
-            &lt;p&gt;{%raw%}{{film.crawl}}{%endraw%}&lt;/p&gt;
+            &lt;p&gt;{% raw %}{{film.crawl}{% endraw %}}&lt;/p&gt;
         &lt;/div&gt;
     &lt;/ion-content&gt;
 &lt;/ion-view&gt;

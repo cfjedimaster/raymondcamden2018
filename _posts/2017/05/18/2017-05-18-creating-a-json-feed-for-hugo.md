@@ -5,6 +5,7 @@ date: "2017-05-18T11:32:00-07:00"
 categories: Static Sites 
 tags: hugo
 banner_image: 
+permalink: /2017/05/18/creating-a-json-feed-for-hugo
 ---
 
 *Edit on 3/26/2018 to fix tags, thanks to commenter Carl* Recently a new specification was launched to recreate RSS in JSON, [JSON Feed](https://jsonfeed.org). For folks who may not be aware, RSS is an XML spec (well, multiple ones) for sharing content between sites. Blogs, primarily, and content-heavy sites typically make use of this. I'm not sure how many people outside of developers actually *use* RSS, but it's still definitely a "thing" even if you don't necessarily think of it when thinking about APIs.
@@ -26,27 +27,27 @@ Note that I'm specifying json as my output and I'm saying my layout will be the 
 
 <pre><code class="language-javascript">{
     "version": "https://jsonfeed.org/version/1",
-    "title": "{%raw%}{{ .Site.Title }}{%endraw%}",
-    "home_page_url": "{%raw%}{{ .Site.BaseURL }}{%endraw%}",
-    "feed_url": "{%raw%}{{ .Permalink}}{%endraw%}",
-	{%raw%}{{ if isset .Site.Params "description" }}{%endraw%}
-	"description": "{%raw%}{{ .Site.Params.description }}{%endraw%}",
-	{%raw%}{{ end }}{%endraw%}
-	{%raw%}{{ if isset .Site.Params "author" }}{%endraw%}
-	"author": { "name": "{%raw%}{{ .Site.Params.author }}{%endraw%}" },
-	{%raw%}{{ end }}{%endraw%}
+    "title": "{% raw %}{{ .Site.Title }{% endraw %}}",
+    "home_page_url": "{% raw %}{{ .Site.BaseURL }{% endraw %}}",
+    "feed_url": "{% raw %}{{ .Permalink}{% endraw %}}",
+	{% raw %}{{ if isset .Site.Params "description" }{% endraw %}}
+	"description": "{% raw %}{{ .Site.Params.description }{% endraw %}}",
+	{% raw %}{{ end }{% endraw %}}
+	{% raw %}{{ if isset .Site.Params "author" }{% endraw %}}
+	"author": {% raw %}{ "name": "{{ .Site.Params.author }{% endraw %}}" },
+	{% raw %}{{ end }{% endraw %}}
     "items": [
-    {%raw%}{{ range $i, $e := first 10 .Site.Pages }}{%endraw%}
-		{%raw%}{{ if $i }}{%endraw%}, {%raw%}{{ end }}{%endraw%}
+    {% raw %}{{ range $i, $e := first 10 .Site.Pages }{% endraw %}}
+		{% raw %}{{ if $i }{% endraw %}}, {% raw %}{{ end }{% endraw %}}
 			{
-				"id": "{%raw%}{{ .Permalink }}{%endraw%}",
-				"title": "{%raw%}{{ .Title }}{%endraw%}",
-				"content_text": {%raw%}{{ .Summary | jsonify }}{%endraw%},
-				"url": "{%raw%}{{ .Permalink }}{%endraw%}",
-				"date_published": "{%raw%}{{ .Date }}{%endraw%}",
-				"tags": ["{%raw%}{{ delimit .Params.tags "," }}{%endraw%}"]
+				"id": "{% raw %}{{ .Permalink }{% endraw %}}",
+				"title": "{% raw %}{{ .Title }{% endraw %}}",
+				"content_text": {% raw %}{{ .Summary |{% endraw %} jsonify }},
+				"url": "{% raw %}{{ .Permalink }{% endraw %}}",
+				"date_published": "{% raw %}{{ .Date }{% endraw %}}",
+				"tags": ["{% raw %}{{ delimit .Params.tags "," }{% endraw %}}"]
 			}
-		{%raw%}{{ end }}{%endraw%}
+		{% raw %}{{ end }{% endraw %}}
     ]
 }
 </code></pre>
@@ -64,7 +65,7 @@ Finally, the date one rendered a bit weird on my blog. Let's look at the output 
     "title": "Raymond Camden",
     "home_page_url": "http://localhost:1313/",
     "feed_url": "http://localhost:1313/jsonfeed/index.json",
-	"author": { "name": "Raymond Camden" },
+	"author": {% raw %}{ "name": "Raymond Camden" }{% endraw %},
 	
     "items": [
 		
@@ -104,7 +105,7 @@ Finally, the date one rendered a bit weird on my blog. Let's look at the output 
 
 Notice the double `-0700 -0700`? I'm pretty sure that's just an issue on my blog due to how I specify dates in my posts. I probably did it wrong, but with near 6000 posts, I'm not changing it. For my fix, I switched up the above code to:
 
-<pre><code class="language-javascript">"date_published": "{%raw%}{{ replace .Date "-0700 -0700" "-0700"}}{%endraw%}",
+<pre><code class="language-javascript">"date_published": "{% raw %}{{ replace .Date "-0700 -0700" "-0700"}{% endraw %}}",
 </code></pre>
 
 And that's it. As I said, there's probably a better way of doing this, and I honestly don't know if anyone is going to even make use of JSON Feed, but if folks want mine, they can find it at https://www.raymondcamden.com/jsonfeed/index.json

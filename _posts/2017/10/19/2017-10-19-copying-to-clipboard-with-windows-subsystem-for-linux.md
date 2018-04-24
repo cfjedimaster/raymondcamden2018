@@ -5,6 +5,7 @@ date: "2017-10-19T07:52:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2017/10/19/copying-to-clipboard-with-windows-subsystem-for-linux
 ---
 
 This tip is 100% thanks to [Ben Hillis](https://twitter.com/benhillis), a developer working on the Windows Subsystem for Linux (WSL). Yesterday I needed to copy a file under WSL to the my system clipboard. If you Google for how to do this, you'll see a CLI called `clip` that works under Unbuntu, however, that doesn't work under WSL. If I had to guess I'd say because there's isn't a GUI involved with WSL but to be honest, I'd be guessing.

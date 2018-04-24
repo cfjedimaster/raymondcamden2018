@@ -5,6 +5,7 @@ date: "2016-12-30T08:16:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/30/advent-of-code-day-15-to-20
 ---
 
 So yep - I definitely didn't finish Advent of Code before Christmas, but I'm mostly done (20 out of 25 days) and I plan to keep at it in the next week or so. This post will cover a bunch of days, so forgive the length!
@@ -35,7 +36,7 @@ function initDiscs(s) {
 		let parts = i.split(&#x27; &#x27;);
 		let numpos = Number(parts[3]);
 		let inipos = Number(parts[11].substr(0, parts[11].length-1));
-		discs.push({name:parts[1], numpos:numpos, inipos:inipos, pos:inipos});
+		discs.push({% raw %}{name:parts[1], numpos:numpos, inipos:inipos, pos:inipos}{% endraw %});
 	});
 
 	return discs;
@@ -58,7 +59,7 @@ while(1) {
 	discs = initDiscs(input);
 
 	&#x2F;&#x2F;do initial moves
-	for(x=0;x&lt;initTime;x++) { discs = moveDiscs(discs); }
+	for(x=0;x&lt;initTime;x++) {% raw %}{ discs = moveDiscs(discs); }{% endraw %}
 	time = initTime++;
 &#x2F;&#x2F;	console.log(&#x27;TESTING TIME &#x27;+time);
 	if(time % 10000 === 0) process.stdout.write(&#x27;#&#x27;);
@@ -102,12 +103,12 @@ You'll notice the last line is a comment with the right answer. How did I get th
 https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;adventofcode&#x2F;comments&#x2F;5ifn4v&#x2F;2016_day_15_solutions&#x2F;db7ttta&#x2F;
 *&#x2F;
 
-function d1(t) { return ((t+2) % 5 == 0); };
-function d2(t) { return ((t+7) % 13 == 0); };
-function d3(t) { return ((t+10) % 17 == 0); };
-function d4(t) { return ((t+2) % 3 == 0); };
-function d5(t) { return ((t+9) % 19 == 0); };
-function d6(t) { return ((t+0) % 7 == 0); };
+function d1(t) {% raw %}{ return ((t+2) %{% endraw %} 5 == 0); };
+function d2(t) {% raw %}{ return ((t+7) %{% endraw %} 13 == 0); };
+function d3(t) {% raw %}{ return ((t+10) %{% endraw %} 17 == 0); };
+function d4(t) {% raw %}{ return ((t+2) %{% endraw %} 3 == 0); };
+function d5(t) {% raw %}{ return ((t+9) %{% endraw %} 19 == 0); };
+function d6(t) {% raw %}{ return ((t+0) %{% endraw %} 7 == 0); };
 
 let t = 0;
 while(true) {
@@ -208,7 +209,7 @@ function hash(s) {
     return crypto.createHash(&#x27;md5&#x27;).update(s).digest(&#x27;hex&#x27;);
 }
 
-let pos = {x:1, y:1};
+let pos = {% raw %}{x:1, y:1}{% endraw %};
 
 var input = &#x27;njfxhljp&#x27;;
 let path = &#x27;&#x27;;
@@ -271,7 +272,7 @@ function checkDoors(s) {
 }
 
 function isOpen(x) {
-    if(x === &#x27;b&#x27; || x === &#x27;c&#x27; || x === &#x27;d&#x27; || x === &#x27;e&#x27; || x === &#x27;f&#x27;) return true;
+    if(x === &#x27;b&#x27; {% raw %}|| x === &#x27;c&#x27; |{% endraw %}{% raw %}| x === &#x27;d&#x27; |{% endraw %}{% raw %}| x === &#x27;e&#x27; |{% endraw %}| x === &#x27;f&#x27;) return true;
     return false;
 }
 </code></pre>
@@ -405,7 +406,7 @@ while(!done) {
         }            
     }
     sanity++;
-    if(sanity &gt; 2000) { console.log(&#x27;Abort&#x27;); process.exit(); }
+    if(sanity &gt; 2000) {% raw %}{ console.log(&#x27;Abort&#x27;); process.exit(); }{% endraw %}
 }
 </code></pre>
 
@@ -461,7 +462,7 @@ const MAX = 4294967295;
 
 lines.forEach((l)=&gt;{
     let [min,max] = l.split(&#x27;-&#x27;);
-    gates.push({min:Number(min), max:Number(max)});
+    gates.push({% raw %}{min:Number(min), max:Number(max)}{% endraw %});
 });
 
 gates.sort(function(a, b) {
@@ -494,7 +495,7 @@ for(var i=1;i&lt;gates.length;i++) {
         (thisGate.min &gt; lastGate.min &amp;&amp; thisGate.min &lt; lastGate.max &amp;&amp; thisGate.max &gt; lastGate.max &amp;&amp; thisGate.max &lt;= MAX) 
         ||
         (thisGate.min-1 == lastGate.max &amp;&amp; thisGate.max &lt;= MAX)) {
-        let newGate = { min:lastGate.min, max:thisGate.max};
+        let newGate = {% raw %}{ min:lastGate.min, max:thisGate.max}{% endraw %};
         &#x2F;&#x2F; remove i
         gates[i-1] = newGate;
         gates.splice(i, 1);
@@ -526,7 +527,7 @@ const MAX = 4294967295;
 
 lines.forEach((l)=&gt;{
     let [min,max] = l.split(&#x27;-&#x27;);
-    gates.push({min:Number(min), max:Number(max)});
+    gates.push({% raw %}{min:Number(min), max:Number(max)}{% endraw %});
 });
 
 gates.sort(function(a, b) {
@@ -568,7 +569,7 @@ for(var i=1;i&lt;gates.length;i++) {
         (thisGate.min &gt; lastGate.min &amp;&amp; thisGate.min &lt; lastGate.max &amp;&amp; thisGate.max &gt; lastGate.max &amp;&amp; thisGate.max &lt;= MAX) 
         ||
         (thisGate.min-1 == lastGate.max &amp;&amp; thisGate.max &lt;= MAX)) {
-        let newGate = { min:lastGate.min, max:thisGate.max};
+        let newGate = {% raw %}{ min:lastGate.min, max:thisGate.max}{% endraw %};
         &#x2F;&#x2F; remove i
         gates[i-1] = newGate;
         gates.splice(i, 1);

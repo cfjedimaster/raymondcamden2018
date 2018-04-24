@@ -5,6 +5,7 @@ date: "2017-02-09T10:20:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/02/09/serverless-and-persistence
 ---
 
 Today's post isn't going to be anything really deep, more of an "A-ha" moment I had while talking with my coworker [Carlos Santana](https://twitter.com/csantanapr). No, not that a-Ha...
@@ -34,7 +35,7 @@ var x = 0;
 
 function main(args) {
 	x++;
-	return {x:x};
+	return {% raw %}{x:x}{% endraw %};
 }
 
 exports.main = main;

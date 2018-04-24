@@ -5,6 +5,7 @@ date: "2017-01-25T14:42:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/01/25/building-a-form-handler-service-in-openwhisk
 ---
 
 As a fan of static site generators, I've played with, and built, my own form processing services to work with my static sites. My current favorite is 
@@ -48,7 +49,7 @@ function main(args) {
 
 	if(args[&quot;_to&quot;]) {
 		if(RECIPS.indexOf(args[&quot;_to&quot;]) === -1) {
-			return {error:&quot;Invalid _to address: &quot;+args[&quot;_to&quot;]};
+			return {% raw %}{error:&quot;Invalid _to address: &quot;+args[&quot;_to&quot;]}{% endraw %};
 		} else {
 			to_email = new helper.Email(args[&quot;_to&quot;]);
 		}
@@ -67,7 +68,7 @@ function main(args) {
 	&#x2F;&#x2F;todo: make date a bit prettier
 	let date = new Date();
 	let content = `
-Form Submitted at ${date}
+Form Submitted at ${% raw %}{date}{% endraw %}
 --------------------------------
 `;
 
@@ -75,7 +76,7 @@ Form Submitted at ${date}
 		&#x2F;&#x2F;blanket ignore if _*
 		if(key.indexOf(&quot;_&quot;) != 0) {
 			content += `
-${key}:			${args[key]}
+${% raw %}{key}{% endraw %}:			${% raw %}{args[key]}{% endraw %}
 `;
 		}
 	}
@@ -95,12 +96,12 @@ ${key}:			${args[key]}
 		sg.API(request, function(error, response) {
 			if(error) {
 				console.log(error.response.body);
-				reject({error:error.message}) 
+				reject({% raw %}{error:error.message}{% endraw %}) 
 			} else {
 				console.log(response.statusCode);
 				console.log(response.body);
 				console.log(response.headers);
-				resolve({result:&#x27;Ok&#x27;});
+				resolve({% raw %}{result:&#x27;Ok&#x27;}{% endraw %});
 			}
 		});
 

@@ -5,6 +5,7 @@ date: "2016-04-07T08:09:00-07:00"
 categories: Movies 
 tags: 
 banner_image: 
+permalink: /2016/04/07/rogue-one-teaser-released
 ---
 
 As an early birthday present, Disney decided to release the Rogue One teaser. It is certainly possible that it

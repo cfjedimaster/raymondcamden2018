@@ -5,6 +5,7 @@ date: "2017-09-13T08:59:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2017/09/13/quick-web-dev-tip-everyone-knows
 ---
 
 This is something that's been on my mind to write up for a few weeks now. It is *strongly* in the "I'm sure everyone knows this" category, but I've always felt like the things everyone knows are precisely the kind of things that everyone doesn't know. This particular tip may be a bit *too* obvious, but here goes.

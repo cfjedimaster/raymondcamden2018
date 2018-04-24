@@ -5,6 +5,7 @@ date: "2016-07-15T07:55:00-07:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2016/07/15/fighting-against-a-content-stealer-on-blogger
 ---
 
 About two weeks ago a reader sent me a question concerning one of my blogs. While not unusual, the URL was. Apparently, a site on Blogger is automatically copying my content from my site (along with content from <a href="http://www.tricedesigns.com/">Andy Trice</a> and <a href="http://coenraets.org/blog/">Christophe Coenraets</a>). Currently they have 402 copies (I'll explain how I know that in a minute) and of course, they will have a copy of this post too - in about 30 minutes.

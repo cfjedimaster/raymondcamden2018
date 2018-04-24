@@ -5,6 +5,7 @@ date: "2016-06-30T05:59:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2016/06/30/an-ionic-1-and-2-app-side-by-side
 ---
 
 Yesterday I gave a presentation to the [Ionic NYC Meetup](https://www.raymondcamden.com/tags/cordova/) (a damn nice group of people!) and needed to quickly build a pretty simple Ionic app to speak to a LoopBack server. Because I wanted something quick and dirty, I just whipped up an Ionic 1 application. I wrapped it earlier than expected, so decided to see if I could switch it to Ionic 2 before the presentation. I was able to finish it, and I thought it might be kind of cool to compare both versions. To be clear, I'm not offering up *either* app as a "Model" Ionic application, but since they do the *exact* same thing, I thought it would be cool to share as a comparison. Both code bases are up on GitHub (I'll share the link at the end) so you can download and run for yourself if you want.
@@ -50,10 +51,10 @@ Let me focus on what I modified. First, I've got three different JavaScript file
 Ok, on the Ionic V2 side, technically we have an index.html, but generally you don't (I believe) modify it. Rather I think the closest analog is app.ts:
 
 <pre><code class="language-javascript">
-import {Component} from '@angular/core';
-import {Platform, ionicBootstrap} from 'ionic-angular';
-import {StatusBar} from 'ionic-native';
-import {HomePage} from './pages/home/home';
+import {% raw %}{Component}{% endraw %} from '@angular/core';
+import {% raw %}{Platform, ionicBootstrap}{% endraw %} from 'ionic-angular';
+import {% raw %}{StatusBar}{% endraw %} from 'ionic-native';
+import {% raw %}{HomePage}{% endraw %} from './pages/home/home';
 
 
 @Component({
@@ -85,8 +86,8 @@ Now let's compare the first view. In V1, this is driven by a few different files
 
 		&lt;ion-list class=&quot;list list-inset&quot;&gt;
 
-			&lt;ion-item ng-repeat=&quot;cat in cats&quot; href=&quot;#/cat/{%raw%}{{cat.id}}{%endraw%}&quot;&gt;
-				{%raw%}{{cat.name}}{%endraw%}
+			&lt;ion-item ng-repeat=&quot;cat in cats&quot; href=&quot;#/cat/{% raw %}{{cat.id}{% endraw %}}&quot;&gt;
+				{% raw %}{{cat.name}{% endraw %}}
 			&lt;/ion-item&gt;
 
 		&lt;/ion-list&gt;
@@ -123,7 +124,7 @@ We're going to skip the service until later in the post. Now let's compare this 
 
   &lt;ion-list inset&gt;
     &lt;ion-item *ngFor=&quot;let cat of cats&quot; (click)=&quot;selectCat(cat)&quot;&gt;
-      {%raw%}{{cat.name}}{%endraw%}
+      {% raw %}{{cat.name}{% endraw %}}
     &lt;/ion-item&gt;
   &lt;/ion-list&gt;
 &lt;/ion-content&gt;
@@ -132,10 +133,10 @@ We're going to skip the service until later in the post. Now let's compare this 
 And the code:
 
 <pre><code class="language-javascript">
-import {Component} from '@angular/core';
-import {NavController} from 'ionic-angular';
-import {CatProvider} from '../../providers/cat-provider/cat-provider';
-import {CatPage} from '../cat/cat';
+import {% raw %}{Component}{% endraw %} from '@angular/core';
+import {% raw %}{NavController}{% endraw %} from 'ionic-angular';
+import {% raw %}{CatProvider}{% endraw %} from '../../providers/cat-provider/cat-provider';
+import {% raw %}{CatPage}{% endraw %} from '../cat/cat';
 
 @Component({
   providers:[CatProvider],
@@ -154,7 +155,7 @@ export class HomePage {
   }
 
   selectCat(cat) {
-    this.navController.push(CatPage, {id:cat.id});
+    this.navController.push(CatPage, {% raw %}{id:cat.id}{% endraw %});
   }
 
 }
@@ -167,21 +168,21 @@ Ok, let's move on the detail view. Here is the view in V1:
 <pre><code class="language-javascript">
 &lt;ion-view&gt;
 
-	&lt;ion-nav-title&gt;Cat: {%raw%}{{cat.name}}{%endraw%}&lt;/ion-nav-title&gt;
+	&lt;ion-nav-title&gt;Cat: {% raw %}{{cat.name}{% endraw %}}&lt;/ion-nav-title&gt;
 
 	&lt;ion-content class=&quot;padding&quot;&gt;
 
 		&lt;div class=&quot;card&quot;&gt;
 			&lt;div class=&quot;item item-divider&quot;&gt;
-			{%raw%}{{cat.name}}{%endraw%}
+			{% raw %}{{cat.name}{% endraw %}}
 			&lt;/div&gt;
 			&lt;div class=&quot;item item-text-wrap&quot;&gt;
 				&lt;p&gt;
-				{%raw%}{{cat.name}}{%endraw%} is {%raw%}{{cat.age}}{%endraw%} years old with a {%raw%}{{cat.color}}{%endraw%} color and is 
+				{% raw %}{{cat.name}{% endraw %}} is {% raw %}{{cat.age}{% endraw %}} years old with a {% raw %}{{cat.color}{% endraw %}} color and is 
 				&lt;span ng-if=&quot;!cat.friendly&quot;&gt;not&lt;/span&gt; friendly.
 				&lt;/p&gt;
 
-				&lt;img ng-src=&quot;{%raw%}{{cat.image}}{%endraw%}&quot;&gt;
+				&lt;img ng-src=&quot;{% raw %}{{cat.image}{% endraw %}}&quot;&gt;
 
 			&lt;/div&gt;
 		&lt;/div&gt;
@@ -209,7 +210,7 @@ Alright, now let's look at V2. First the view:
 &lt;ion-header&gt;
 
   &lt;ion-navbar&gt;
-    &lt;ion-title&gt;Cat: {%raw%}{{cat.name}}{%endraw%}&lt;/ion-title&gt;
+    &lt;ion-title&gt;Cat: {% raw %}{{cat.name}{% endraw %}}&lt;/ion-title&gt;
   &lt;/ion-navbar&gt;
 
 &lt;/ion-header&gt;
@@ -217,10 +218,10 @@ Alright, now let's look at V2. First the view:
 &lt;ion-content padding&gt;
 
   &lt;ion-card&gt;
-    &lt;ion-card-header&gt;{%raw%}{{cat.name}}{%endraw%}&lt;/ion-card-header&gt;
+    &lt;ion-card-header&gt;{% raw %}{{cat.name}{% endraw %}}&lt;/ion-card-header&gt;
     &lt;ion-card-content&gt;
 				&lt;p&gt;
-				{%raw%}{{cat.name}}{%endraw%} is {%raw%}{{cat.age}}{%endraw%} years old with a {%raw%}{{cat.color}}{%endraw%} color and is 
+				{% raw %}{{cat.name}{% endraw %}} is {% raw %}{{cat.age}{% endraw %}} years old with a {% raw %}{{cat.color}{% endraw %}} color and is 
 				&lt;span *ngIf=&quot;!cat.friendly&quot;&gt;not&lt;/span&gt; friendly.
 				&lt;/p&gt;
 
@@ -237,9 +238,9 @@ Alright, now let's look at V2. First the view:
 And the corresponding JavaScript:
 
 <pre><code class="language-javascript">
-import { Component } from '@angular/core';
-import { NavController,NavParams } from 'ionic-angular';
-import {CatProvider} from '../../providers/cat-provider/cat-provider';
+import {% raw %}{ Component }{% endraw %} from '@angular/core';
+import {% raw %}{ NavController,NavParams }{% endraw %} from 'ionic-angular';
+import {% raw %}{CatProvider}{% endraw %} from '../../providers/cat-provider/cat-provider';
 
 @Component({
   providers:[CatProvider],
@@ -247,7 +248,7 @@ import {CatProvider} from '../../providers/cat-provider/cat-provider';
 })
 export class CatPage {
 
-  public cat:Object = {name:""};
+  public cat:Object = {% raw %}{name:""}{% endraw %};
 
   constructor(private nav: NavController, private params:NavParams, public catProvider:CatProvider) {
     this.catProvider.get(params.data.id).subscribe(result =&gt; {
@@ -280,8 +281,8 @@ angular.module('appServices', [])
 And this is version 2:
 
 <pre><code class="language-javascript">
-import { Injectable } from '@angular/core';
-import { Http } from '@angular/http';
+import {% raw %}{ Injectable }{% endraw %} from '@angular/core';
+import {% raw %}{ Http }{% endraw %} from '@angular/http';
 import 'rxjs/add/operator/map';
 
 @Injectable()

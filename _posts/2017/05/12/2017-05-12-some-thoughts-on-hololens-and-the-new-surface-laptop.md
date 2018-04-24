@@ -5,6 +5,7 @@ date: "2017-05-12T10:01:00-07:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2017/05/12/some-thoughts-on-hololens-and-the-new-surface-laptop
 ---
 
 I'm currently at the tail end of my first Microsoft Build conference and had the chance to spend time with the 

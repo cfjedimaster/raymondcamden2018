@@ -5,6 +5,7 @@ date: "2016-09-09T08:20:00-07:00"
 categories: mobile 
 tags: cordova
 banner_image: /images/banners/loopaudio.jpg
+permalink: /2016/09/09/looping-audio-in-a-cordova-app
 ---
 
 Here's a quickie. How do you play audio in an Apache Cordova app and have the sound automatically loop? For example, maybe you want background music for a simple game. It's pretty simple. Begin by adding in the [Media](https://github.com/apache/cordova-plugin-media) plugin.
@@ -21,7 +22,7 @@ Once you have your MP3, then you have an interesting choice. If you are iOS only
 
 <pre><code class="language-javascript">
 var myMedia = new Media("http://audio.ibeat.org/content/p1rj1s/p1rj1s_-_rockGuitar.mp3");
-myMedia.play({ numberOfLoops: 9999 });
+myMedia.play({% raw %}{ numberOfLoops: 9999 }{% endraw %});
 </code></pre>
 
 I'm assuming you could probably use JavaScript's MAXINT here: <code>Number.MAX_VALUE</code>. I haven't tried it, but it should work. If not, then certainly 9999 is pretty reasonable. (<i>Be sure to keep reading. I tested MAX_VALUE. It failed.</i>)
@@ -77,7 +78,7 @@ function init() {
 	if(device.platform.toLowerCase() === "android") isAndroid = true;
 
 	media = new Media(getMediaURL('arcade1.mp3'), null, mediaError, mediaStatus);
-	media.play({numberOfLoops:9999});
+	media.play({% raw %}{numberOfLoops:9999}{% endraw %});
 }
 
 function getMediaURL(s) {

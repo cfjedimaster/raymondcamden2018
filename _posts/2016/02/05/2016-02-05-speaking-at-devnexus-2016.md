@@ -5,6 +5,7 @@ date: "2016-02-05T14:06:00-07:00"
 categories: Development 
 tags: Ionic
 banner_image: 
+permalink: /2016/02/05/speaking-at-devnexus-2016
 ---
 
 Just a quick note to let folks know I'll be speaking at [DevNexus](https://devnexus.com/s/index) in ten days. I'm giving a presentation on [Ionic](http://www.ionicframework.com) services and will also be covering my coworker [Andy Trice](http://www.tricedesigns.com/)'s presentation on cognitive computing and mobile applications.

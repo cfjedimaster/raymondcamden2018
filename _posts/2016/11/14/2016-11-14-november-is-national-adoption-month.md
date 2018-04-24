@@ -5,6 +5,7 @@ date: "2016-11-14T08:48:00-07:00"
 categories: Adoption 
 tags: 
 banner_image: /images/banners/pexels-photo2.jpg
+permalink: /2016/11/14/november-is-national-adoption-month
 ---
 
 Every year (sometimes sooner than later), I remind folks that November is national Adoption Month. My wife and I have been blessed to have formed our family via international adoption. We have three kids adopted from South Korea and three from China. It is an incredible process. Beautiful, scary, difficult, rewarding, a mix of everything you would expect in bringing a new life into your family. If you've never considered adoption before, then now is a perfect time to start thinking about it. 

@@ -5,6 +5,7 @@ date: "2018-02-21"
 categories: Development JavaScript 
 tags: pwa
 banner_image: /images/banners/pwa_articles.jpg
+permalink: /2018/02/21/new-pwa-series
 ---
 
 This is just an FYI, but I'm currently writing a series on PWAs (Progressive Web Apps) for Telerik. You can always find my list of external articles on my <a href="/about">About Me</a> page. So far I've got two articles in the series published and the third one is almost wrapped.

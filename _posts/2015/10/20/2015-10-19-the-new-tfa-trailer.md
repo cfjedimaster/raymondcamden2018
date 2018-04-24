@@ -5,6 +5,7 @@ date: "2015-10-20T05:58:43+06:00"
 categories: Movies 
 tags: 
 banner_image: 
+permalink: /2015/10/20/the-new-tfa-trailer
 ---
 
 Sure, everyone has seen this probably and you don't need me to share the video here, but I'm going to do so anyway - enjoy. 

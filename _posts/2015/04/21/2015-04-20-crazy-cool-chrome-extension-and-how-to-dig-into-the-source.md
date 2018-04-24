@@ -5,6 +5,7 @@ date: "2015-04-21T09:40:04+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/04/21/crazy-cool-chrome-extension-and-how-to-dig-into-the-source
 ---
 
 I'm learning some interesting stuff at <a href="http://fluentconf.com">FluentConf</a> and I'll talk more about that when the conference wraps, but I want to share something I found yesterday that I thought was really freaking cool. It is a Chrome extension called <a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en">Momentum</a>. Apparently this was all over the place a few weeks ago so I'm late to the party, but it replaces your "New Tab" screen with an absolutely beautiful (and somewhat useful) design:
@@ -48,7 +49,7 @@ I then selected all and copied into an editor so I could go through it in a prop
     $.getJSON(t, function(e) {
         if (e && e.query && 1 == e.query.count) {
             var t = e.query.results.channel.item.condition;
-            t && s.model.save({temperature: t.temp,code: t.code,condition: t.text,updated: new Date})
+            t && s.model.save({% raw %}{temperature: t.temp,code: t.code,condition: t.text,updated: new Date}{% endraw %})
         } else
             console.log("Error getting weather data: Result count not equal to one")
     }).error(function(e) {

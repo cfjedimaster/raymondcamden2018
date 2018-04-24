@@ -5,6 +5,7 @@ date: "2017-03-09T12:02:00-07:00"
 categories: Serverless 
 tags: openwhisk alexa
 banner_image: /images/banners/alexaow.jpg
+permalink: /2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk
 ---
 
 As I mentioned in my post earlier this week ([A Tip for Testing Alexa Skills](https://www.raymondcamden.com/2017/03/08/a-tip-for-testing-alexa-skills)), I'm a huge new fan of the Amazon Echo device and I've begun looking at how to build my own integrations with it. This week I've done some investigations into how to use Alexa with [OpenWhisk](https://developer.ibm.com/openwhisk/) and I have to say I'm impressed by how easy it is. To be clear, I've only played with the most basic of skills, but it is easy and quite a bit of fun too!
@@ -50,9 +51,9 @@ You prefix each utterance with the intent name so Alexa knows how to map them. U
 
 Which would be really written as:
 
-	Give me a random number for {date}
+	Give me a random number for {% raw %}{date}{% endraw %}
 
-Where the {date} slot is defined to be a date slot type. Amazon has a bunch of these ([Slot Type Reference](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/built-in-intent-ref/slot-type-reference)) covering things like dates, times, numbers, colors, and my favorite - desserts. You can also define your own which is useful for more free form checking.
+Where the {% raw %}{date}{% endraw %} slot is defined to be a date slot type. Amazon has a bunch of these ([Slot Type Reference](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/built-in-intent-ref/slot-type-reference)) covering things like dates, times, numbers, colors, and my favorite - desserts. You can also define your own which is useful for more free form checking.
 
 As I said, this part is a bit complex. I began with this intent schema:
 
@@ -184,7 +185,7 @@ I began by updating my interaction model, first with a new intent:
     {
       "intent":"nameWithPrefix",
       "slots":[
-        {"name":"prefix", "type":"PREFIX"}		
+        {% raw %}{"name":"prefix", "type":"PREFIX"}{% endraw %}		
       ]
     }
   ]
@@ -197,7 +198,7 @@ The new intent is `nameWithPrefix`. Make note of the slot. The type, `PREFIX`, w
 
 I then added a new utterance for it:
 
-	nameWithPrefix give my cat a name that starts with {prefix}
+	nameWithPrefix give my cat a name that starts with {% raw %}{prefix}{% endraw %}
 
 I could have (and probably should have) defined a few more alternatives, but you get the point. And that was it on the Alexa side. In my code, I had to update it to recognize what intent was passed. Alexa sends this as arguments. *Note, I trimmed out the parts of the function that weren't modified.*
 

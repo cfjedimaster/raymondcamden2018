@@ -5,6 +5,7 @@ date: "2016-05-06T09:45:00-07:00"
 categories: Mobile JavaScript 
 tags: cordova
 banner_image: 
+permalink: /2016/05/06/uploading-multiple-files-at-once-for-cordova
 ---
 
 Yesterday I [blogged](https://www.raymondcamden.com/2016/05/05/uploading-multiple-files-at-once-with-ajax-and-xhr2/) about how you could use XHR2 to upload multiple files in one POST operation. This was a followup to an earlier post ([Processing multiple simultaneous uploads with Cordova](https://www.raymondcamden.com/2015/08/10/processing-multiple-simultaneous-uploads-with-cordova/#comment-2660245015)) discussing how to send multiple files with the Cordova FileTransfer plugin. 
@@ -100,7 +101,7 @@ function uploadPics() {
 				console.dir(file);
 				var reader = new FileReader();
 				reader.onloadend = function(e) {
-					var imgBlob = new Blob([this.result], { type:file.type});
+					var imgBlob = new Blob([this.result], {% raw %}{ type:file.type}{% endraw %});
 					fd.append('file'+(images.indexOf(i)+1), imgBlob);
 					fd.append('fileName'+(images.indexOf(i)+1), file.name);
 					def.resolve();

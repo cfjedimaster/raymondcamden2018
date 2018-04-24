@@ -5,9 +5,10 @@ date: "2016-09-06T14:09:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/09/06/adding-opacity-to-a-background-image-in-revealjs
 ---
 
-tl;dr - use a slide state of "something" and then `html.something .slide-background { opacity: 0.1 !important; }`. 
+tl;dr - use a slide state of "something" and then `html.something .slide-background {% raw %}{ opacity: 0.1 !important; }{% endraw %}`. 
 
 I used to be a big fan of [reveal.js](https://github.com/hakimel/reveal.js), but stopped using it after a while when I ran across too many instances of having to fight it's built in styling to get what I wanted. Don't get me wrong, I loved it, and thought it was a great tool, but somethings seemed unnecessarily difficult. I switched to Powerpoint and Keynote because, frankly, it was just simpler. 
 

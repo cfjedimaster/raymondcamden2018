@@ -5,6 +5,7 @@ date: "2015-01-18T10:14:13+06:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2015/01/18/alt-history-on-tv-the-man-in-the-high-castle
 ---
 
 As readers know, I am a <i>huge</i> fan of alt-history. It has been a while since we've had any on TV (earlier seasons of Fringe), but I was stoked to discover this week that Amazon Prime has created a new adaptation of Philip K Dick's famous story, "The Man in the High Castle." While one of the more common alt-history types (Nazi Germany wins WWII), the story is quite fascinating and well worth a read. If you have Amazon Prime, you can watch the <a href="http://www.amazon.com/2015-Amazon-Pilots-Preview/dp/B00RSGFRY8/ref=sr_1_1?ie=UTF8&qid=1421596938&sr=8-1&keywords=the+man+in+the+high+castle+pilot">premier</a> now. 

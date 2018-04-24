@@ -5,13 +5,14 @@ date: "2016-09-04T11:55:00-07:00"
 categories: video games 
 tags: 
 banner_image: /images/banners/sky.jpg
+permalink: /2016/09/04/review-no-mans-sky
 ---
 
 About two weeks ago (right after its release), I picked up a copy of "No Man's Sky." I knew a little about it and it sounded interesting. I knew it was space simulation focused on exploration with basic economies and the such. But the critical point was - I was only casually familiar with the game. Because of that, I went into with little expectations. And within minutes, I was hooked.
 
 The game drops you off on a planet with a busted ship and little to no direction. This would normally frustrate the heck out of me, but as you're busy trying to survive, it's hard to be frustrated. You're on an unknown planet with tools you barely know how to use, hunting for materials to keep you alive, keep you safe, and help repair your ship. It's an incredible way to begin. And even when you take off and leave the planet, an awe-inspiring moment in the game, the feeling of confusion, fear, and wonder continues. 
 
-I don't think I can adequately explain the experience. The first portion of the game, let's say the first ten hours or so, is a complete struggle. Eventually, you begin to get the hang of things. You understand the basics. And you can start focusing on the exploration aspects of the game, and here's where the game's size truly begins to sink in. At over 18 quintillion planets, this is a game you'll never 100%. Heck, I don't think you could 0.001% it. But that's part of it's fascination. Every planet is a new experience. I'm probably a good 40 hours in now and I still see things that freak me out. 
+I don't think I can adequately explain the experience. The first portion of the game, let's say the first ten hours or so, is a complete struggle. Eventually, you begin to get the hang of things. You understand the basics. And you can start focusing on the exploration aspects of the game, and here's where the game's size truly begins to sink in. At over 18 quintillion planets, this is a game you'll never 100{% raw %}%. Heck, I don't think you could 0.001%{% endraw %} it. But that's part of it's fascination. Every planet is a new experience. I'm probably a good 40 hours in now and I still see things that freak me out. 
 
 Yesterday it was what appeared to be a giant "soda straw" type rock formation. I have absolutely no idea how it could have been created but I just had to stop and look at it. Every hour in the game is like that. Either some random freaky planet atmosphere or freaky plant or *really* freaky creature.
 

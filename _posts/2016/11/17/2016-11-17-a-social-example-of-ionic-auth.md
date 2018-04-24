@@ -5,6 +5,7 @@ date: "2016-11-17T08:38:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: /images/banners/socialauth.jpg
+permalink: /2016/11/17/a-social-example-of-ionic-auth
 ---
 
 A few days ago I blogged about using the Ionic Auth service with the latest version of Ionic 2 (["An example of the Ionic Auth service with Ionic 2"](https://www.raymondcamden.com/2016/11/04/an-example-of-the-ionic-auth-service-with-ionic-2). One of my readers asked if I could update the example to make use of social login. I worked on that yesterday and have an updated example to share. Please be sure to read that previous post first so you have a bit of context on what we're building!

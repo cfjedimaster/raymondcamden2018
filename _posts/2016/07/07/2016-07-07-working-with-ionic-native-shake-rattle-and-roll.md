@@ -5,6 +5,7 @@ date: "2016-07-07T10:41:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: /images/banners/shakerattle.jpg
+permalink: /2016/07/07/working-with-ionic-native-shake-rattle-and-roll
 ---
 
 Forgive the slightly dramatic title of the blog post - I just get a bit excited when I test something new and it actually works well! For today's post, I'm looking at something new with Ionic - [Ionic Native](http://ionicframework.com/docs/v2/native/).
@@ -16,7 +17,7 @@ I began by building a new Ionic 2 application based on the blank template. For t
 The first thing I did was create a provider. I made it use hard coded data and set up a simple routine so it could easily add more data to the list. I assume this is self-explanatory, but let me know if you have any questions.
 
 <pre><code class="language-javascript">
-import { Injectable } from '@angular/core';
+import {% raw %}{ Injectable }{% endraw %} from '@angular/core';
 import 'rxjs/add/operator/map';
 
 /*
@@ -57,9 +58,9 @@ export class CatProvider {
 In my view's logic, I then added in the provider and had it set a local variable, <code>cats</code>, to the result of provider's <code>load</code> method.
 
 <pre><code class="language-javascript">
-import {Component} from '@angular/core';
-import {NavController} from 'ionic-angular';
-import {CatProvider} from '../../providers/cat-provider/cat-provider';
+import {% raw %}{Component}{% endraw %} from '@angular/core';
+import {% raw %}{NavController}{% endraw %} from 'ionic-angular';
+import {% raw %}{CatProvider}{% endraw %} from '../../providers/cat-provider/cat-provider';
 
 @Component({
   providers: [CatProvider],
@@ -100,7 +101,7 @@ Again - I'm kinda assuming this is all relatively simple, but just let me know i
 
 &lt;ion-content class=&quot;home&quot; padding&gt;
   &lt;ion-list inset&gt;
-    &lt;ion-item *ngFor=&quot;let cat of cats&quot;&gt; {%raw%}{{ cat.name }}{%endraw%} &lt;/ion-item&gt;
+    &lt;ion-item *ngFor=&quot;let cat of cats&quot;&gt; {% raw %}{{ cat.name }{% endraw %}} &lt;/ion-item&gt;
   &lt;/ion-list&gt;
 
   &lt;button danger (click)=&quot;loadMore()&quot;&gt;Load More&lt;/button&gt;
@@ -117,13 +118,13 @@ Woot. Ok - now for the fun part. First, I have to add in the plugin. The Ionic N
 Ok, easy enough. Next, I needed to add support to my logic. First, I imported it:
 
 <pre><code class="language-javascript">
-import {DeviceMotion} from 'ionic-native';
+import {% raw %}{DeviceMotion}{% endraw %} from 'ionic-native';
 </code></pre>
 
 Cool. Then I tried the sample code... and it crapped the bed in the browser. Because - of course - this is a device specific thing. Oops. So the first thing I did was add in support for listening for the platform ready event. Remember - your controller may actually fire before Cordova is ready to let you use hardware features. You can easily listen for this by adding in the Platform object:
 
 <pre><code class="language-javascript">
-import {NavController,Platform} from 'ionic-angular';
+import {% raw %}{NavController,Platform}{% endraw %} from 'ionic-angular';
 </code></pre>
 
 And then listen for <code>ready</code>:
@@ -145,16 +146,16 @@ So I set up my project for debugging (see the [earlier link on Microsoft's blog]
 Nice. So at this point, I needed to do two things - monitor the device motion and then determine when a 'shake' happens. The first one is easy:
 
 <pre><code class="language-javascript">
-var subscription = DeviceMotion.watchAcceleration({frequency:200}).subscribe(acc =&gt; {
+var subscription = DeviceMotion.watchAcceleration({% raw %}{frequency:200}{% endraw %}).subscribe(acc =&gt; {
 </code></pre>
 
 The second one... not so much. Luckily, I've done this before in a demo. Basically - I remember the device's previous values for acceleration, compare it to the current set of values, and if it is "enough", consider it a "movement". I can then keep track of movements and when enough has happened, I can consider it a shake. Obviously this can be tweaked. You would need to test on a real device and see what "feels" right. Here is the updated code with that logic in place:
 
 <pre><code class="language-javascript">
-import {Component} from '@angular/core';
-import {NavController,Platform} from 'ionic-angular';
-import {CatProvider} from '../../providers/cat-provider/cat-provider';
-import {DeviceMotion} from 'ionic-native';
+import {% raw %}{Component}{% endraw %} from '@angular/core';
+import {% raw %}{NavController,Platform}{% endraw %} from 'ionic-angular';
+import {% raw %}{CatProvider}{% endraw %} from '../../providers/cat-provider/cat-provider';
+import {% raw %}{DeviceMotion}{% endraw %} from 'ionic-native';
 
 @Component({
   providers: [CatProvider],
@@ -172,7 +173,7 @@ export class HomePage {
     this.loadCats();
 
     platform.ready().then(() =&gt; {
-      var subscription = DeviceMotion.watchAcceleration({frequency:200}).subscribe(acc =&gt; {
+      var subscription = DeviceMotion.watchAcceleration({% raw %}{frequency:200}{% endraw %}).subscribe(acc =&gt; {
         //console.log(acc);
 
         if(!this.lastX) {

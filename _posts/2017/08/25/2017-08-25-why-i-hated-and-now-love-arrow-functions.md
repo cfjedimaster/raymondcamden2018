@@ -5,6 +5,7 @@ date: "2017-08-25T07:18:00-07:00"
 categories: JavaScript 
 tags: javascript
 banner_image: /images/banners/arrow_functions.jpg
+permalink: /2017/08/25/why-i-hated-and-now-love-arrow-functions
 ---
 
 Earlier this week I gave a presentation (I'll share the links for that in a post later today) about the changing nature of JavaScript and as part of that, I quickly mentioned a few modern features that I really dig. One of them was arrow functions. A follower on Twitter asked if I could spend a bit more time on them so I thought I'd whip up a quick blog post. Let me start though with why I absolutely hated them.
@@ -125,7 +126,7 @@ If you run this and inspect the value of `p`, you'll see that age never increase
   this.age = 0;
 
   setInterval(() => {
-    this.age++; // |this| properly refers to the person object
+    this.age++; // {% raw %}|this|{% endraw %} properly refers to the person object
   }, 1000);
 }
 

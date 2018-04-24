@@ -5,6 +5,7 @@ date: "2016-02-10T9:21:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/02/10/html-escaper-visual-studio-code-extension
 ---
 
 Just a quick note to say I've released a new extension for [Visual Studio Code](http://code.visualstudio.com). This extension simply takes a document and outputs an escaped version of it appropriate for blog posts

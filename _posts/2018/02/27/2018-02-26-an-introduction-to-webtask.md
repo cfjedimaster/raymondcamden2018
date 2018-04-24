@@ -5,6 +5,7 @@ date: "2018-02-27"
 categories: Serverless 
 tags: webtask
 banner_image: /images/banners/webtask1.jpg
+permalink: /2018/02/27/an-introduction-to-webtask
 ---
 
 Welcome to my first post on [Webtask](https://webtask.io/)! Webtask is the serverless platform from [Auth0](https://auth0.com/). It powers extensibility behind our identity product as well as [Extend](https://auth0.com/extend). I'm assuming by now most of my readers have a basic grip on what serverless implies in general, so instead I'd like to focus on some of the coolest aspects of Webtask.
@@ -41,7 +42,7 @@ The basic structure of a webtask looks like so:
 ```js
 module.exports = function (context,cb) {
 	// do stuff here
-	cb(null, {message:'hello world'});
+	cb(null, {% raw %}{message:'hello world'}{% endraw %});
 }
 ```
 
@@ -60,12 +61,12 @@ Returning non-JSON results is also pretty simple:
 ```js
 'use strict';
 module.exports = function (context, req, res) {
-    res.writeHead(200, { 'Content-Type': 'text/html '});
+    res.writeHead(200, {% raw %}{ 'Content-Type': 'text/html '}{% endraw %});
     // https://www.placecage.com/c/200/300
     let w = getRandomInt(100, 600);
     let h = getRandomInt(100, 600);
-    let img = `https://www.placecage.com/c/${w}/${h}`;
-    res.end(`<img src="${img}">`);
+    let img = `https://www.placecage.com/c/${% raw %}{w}{% endraw %}/${% raw %}{h}{% endraw %}`;
+    res.end(`<img src="${% raw %}{img}{% endraw %}">`);
 }
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
@@ -84,12 +85,12 @@ As an example of the storage support, here is a simple counter:
 module.exports = function (context,cb) {
 
 	context.storage.get((error,data) => {
-		data = data || { hits:0 };
+		data = data {% raw %}|| { hits:0 }{% endraw %};
 		data.hits++;
 
-		context.storage.set(data, {force:1}, error => {
+		context.storage.set(data, {% raw %}{force:1}{% endraw %}, error => {
 			if(error) return cb(error);
-			cb(null, {hits:data.hits});
+			cb(null, {% raw %}{hits:data.hits}{% endraw %});
 		});
 	});
 }

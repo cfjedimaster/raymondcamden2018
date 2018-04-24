@@ -5,6 +5,7 @@ date: "2015-07-06T07:36:11+06:00"
 categories: uncategorized 
 tags: 
 banner_image: 
+permalink: /2015/07/06/recording-from-static-sites-presentation
 ---
 
 If you missed my presentation on static site generators last week, you can now watch the recording here:

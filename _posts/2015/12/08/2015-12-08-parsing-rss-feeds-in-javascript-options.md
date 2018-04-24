@@ -5,6 +5,7 @@ date: "2015-12-08T16:24:50+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/12/08/parsing-rss-feeds-in-javascript-options
 ---
 
 For a while now I've used the <a href="https://developers.google.com/feed/?hl=en">Google Feed API</a> to parse RSS feeds in JavaScript. It did a good job of converting various RSS flavors into a simple array of entries you could easily work with. Unfortunately, Google has deprecated the API and while it still worked the last time I used it, I would strongly recommend folks migrate their apps away from it as soon as possible. While this makes me sad, you have to move on.
@@ -67,7 +68,7 @@ I tested with two different RSS flavors and YQL had no issue handling either. No
 
 <pre><code class="language-javascript">$(document).ready(function() {
 	
-	var yql = "https://query.yahooapis.com/v1/public/yql?q=select%20title%2Clink%2Cdescription%20from%20rss%20where%20url%3D%22http%3A%2F%2Ffeeds.feedburner.com%2Fraymondcamdensblog%3Fformat%3Dxml%22&format=json&diagnostics=true&callback=";
+	var yql = "https://query.yahooapis.com/v1/public/yql?q=select{% raw %}%20title%{% endraw %}2Clink{% raw %}%2Cdescription%{% endraw %}20from{% raw %}%20rss%{% endraw %}20where{% raw %}%20url%{% endraw %}3D{% raw %}%22http%{% endraw %}3A{% raw %}%2F%{% endraw %}2Ffeeds.feedburner.com{% raw %}%2Fraymondcamdensblog%{% endraw %}3Fformat{% raw %}%3Dxml%{% endraw %}22&format=json&diagnostics=true&callback=";
 	
 	$.getJSON(yql, function(res) {
 		console.log(res);	

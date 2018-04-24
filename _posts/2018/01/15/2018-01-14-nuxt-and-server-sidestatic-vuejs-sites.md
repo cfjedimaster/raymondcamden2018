@@ -5,6 +5,7 @@ date: "2018-01-15"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2018/01/15/nuxt-and-server-sidestatic-vuejs-sites
 ---
 
 This isn't going to be a terribly deep post, more a general FYI for those of you smart enough to stay off Twitter, but I've been looking at [Nuxt](https://nuxtjs.org/) quite a bit over the past few days and I have to say I find it really interesting. 
@@ -26,13 +27,13 @@ I also like using .vue files, or as Vue calls them, [single file components](htt
   <section class="container">
     <div>
       <h1 class="title">
-        nuxt1 {%raw%}{{name}}{%endraw%}
+        nuxt1 {% raw %}{{name}{% endraw %}}
       </h1>
       <h2 class="subtitle">
          <a href="/about">About</a>
       </h2>
       <ul>
-        <li v-for="cat in cats"><a :href="'/cats/'+cat">{%raw%}{{cat}}{%endraw%}</a></li>
+        <li v-for="cat in cats"><a :href="'/cats/'+cat">{% raw %}{{cat}{% endraw %}}</a></li>
       </ul>
     </div>
   </section>

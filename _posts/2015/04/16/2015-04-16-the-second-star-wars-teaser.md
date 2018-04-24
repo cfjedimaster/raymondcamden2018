@@ -5,6 +5,7 @@ date: "2015-04-16T16:04:32+06:00"
 categories: Movies 
 tags: 
 banner_image: 
+permalink: /2015/04/16/the-second-star-wars-teaser
 ---
 
 I was supposed to write a blog post on IndexedDB today - instead I got royally distracted by the <strong>epic cool new Star Wars</strong> teaser:

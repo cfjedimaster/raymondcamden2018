@@ -5,6 +5,7 @@ date: "2015-05-26T09:33:51+06:00"
 categories: Development JavaScript 
 tags: bluemix
 banner_image: 
+permalink: /2015/05/26/using-the-marvel-api-with-ibm-watson
 ---
 
 A little over a year ago I blogged about my experience working with the <a href="http://developer.marvel.com/">Marvel API</a> (<a href="http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API">Examples of the Marvel API</a>. It's been a while since I took a look at it and I thought it might be fun to combine the Marvel data with IBM Watson's <a href="http://ibmmobile.info/VisualRecognition">Visual Recognition service</a>. The Visual Recognition service takes an image as input and Watson's cognitive computing/computer vision intelligence to identify different items within it. 
@@ -47,7 +48,7 @@ app.engine('dust', consolidate.dust);
 app.set('view engine', 'dust');
 app.set('views', __dirname + '/views');
 */
-app.use(express.static(__dirname + '/public', {redirect: false}));
+app.use(express.static(__dirname + '/public', {% raw %}{redirect: false}{% endraw %}));
  
 app.use(bodyParser());
  
@@ -153,7 +154,7 @@ function search(s,cb) {
 					}
 				}
 				
-				var data = {images:images,attribution:result.attributionHTML};
+				var data = {% raw %}{images:images,attribution:result.attributionHTML}{% endraw %};
 				cache[s] = data;
 				cb(data);
 			} else if(result.code === &quot;RequestThrottled&quot;) {
@@ -172,12 +173,12 @@ function search(s,cb) {
 					cache[randomCacheKey].hits++;
 					cb(images[getRandomInt(0, images.length-1)]);		
 				} else {
-					cb({error:result.code});
+					cb({% raw %}{error:result.code}{% endraw %});
 				}
 				*/
 			} else {
 				console.log(new Date() + ' Error: '+JSON.stringify(result));
-				cb({error:result.code});
+				cb({% raw %}{error:result.code}{% endraw %});
 			}
 			//console.log(data);
 		});
@@ -239,7 +240,7 @@ function scan(url, cb) {
 			visual_recognition.recognize(params, function(err, result) {
 				if (err) {
 					console.log(&quot;visual recog error&quot;,err);
-					cb({&quot;error&quot;:1})
+					cb({% raw %}{&quot;error&quot;:1}{% endraw %})
 				} else {
 					//console.log(JSON.stringify(result));
 					var tags = [];
@@ -292,7 +293,7 @@ function handleSearch(e) {
 	$searchBtn.attr(&quot;disabled&quot;,&quot;disabled&quot;);
 	console.log('ok, lets search for '+value);
 	$resultDiv.html(&quot;&lt;i&gt;Searching...&lt;/i&gt;&quot;);
-	$.post(&quot;/search&quot;, {q:value}, function(res) {
+	$.post(&quot;/search&quot;, {% raw %}{q:value}{% endraw %}, function(res) {
 		//result is an array of cover images
 		var s = &quot;&quot;;
 		if(res.images.length) {
@@ -320,7 +321,7 @@ function doCover(e) {
 	$recogStatus.html(loadingMsg);
 	$modal.modal('show');
 	
-	$.post(&quot;/imagescan&quot;, {url:src}, function(res) {
+	$.post(&quot;/imagescan&quot;, {% raw %}{url:src}{% endraw %}, function(res) {
 		var s = &quot;&lt;ul&gt;&quot;;
 		for(var i=0;i&lt;res.length;i++) {
 			s += &quot;&lt;li&gt;&quot; + res[i].label_name + &quot;&lt;/li&gt;&quot;;

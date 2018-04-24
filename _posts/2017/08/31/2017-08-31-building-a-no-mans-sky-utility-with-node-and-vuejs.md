@@ -5,6 +5,7 @@ date: "2017-08-31T08:28:00-07:00"
 categories: Development 
 tags: javascript vuejs
 banner_image: /images/banners/nomansskyv.jpg
+permalink: /2017/08/31/building-a-no-mans-sky-utility-with-node-and-vuejs
 ---
 
 Nearly a year ago I [blogged](https://www.raymondcamden.com/2016/09/04/review-no-mans-sky/) my review of "No Man's Sky", a game that garnered near universal hate or love, with not many people in the middle. Since that time, the game has been updated a few times and it has become incredibly rich. I'm now on my second play and I see myself dedicating all of my game playing time on it for the next few months. (This is also the first game I bought for both console and PC.) For a good look at what's changed, I recommend Kotaku's article: <a href="http://kotaku.com/no-mans-sky-is-good-now-1798630668">"No Man's Sky Is Good Now"</a>.
@@ -38,9 +39,9 @@ Notice the HTML is removed and it's a "data-ish" format suitable for parsing. Wh
 
 ```
 ==Crafting==
-{%raw%}{{Craft|Carite Sheet,1;Platinum,15;Zinc,10|blueprint=yes}}{%endraw%}
-{%raw%}{{Repair|Carite Sheet,1;Platinum,8;Zinc,5}}{%endraw%}
-{%raw%}{{Dismantle|Carite Sheet,0;Platinum,7;Zinc,5}}{%endraw%}
+{% raw %}{{Craft|{% endraw %}Carite Sheet,1;Platinum,15;Zinc,10{% raw %}|blueprint=yes}{% endraw %}}
+{% raw %}{{Repair|{% endraw %}Carite Sheet,1;Platinum,8;Zinc,5}}
+{% raw %}{{Dismantle|{% endraw %}Carite Sheet,0;Platinum,7;Zinc,5}}
 ```
 
 The first line there is for crafting, then you see repair costs and what you get if you dismantle.
@@ -88,10 +89,10 @@ const IGNORE_TITLES = [
 
 
 Promise.all([
-	rp({json:true,url:bpURL}),
-	rp({json:true,url:pURL}),
-	rp({json:true,url:cURL}),
-	rp({json:true,url:tURL})
+	rp({% raw %}{json:true,url:bpURL}{% endraw %}),
+	rp({% raw %}{json:true,url:pURL}{% endraw %}),
+	rp({% raw %}{json:true,url:cURL}{% endraw %}),
+	rp({% raw %}{json:true,url:tURL}{% endraw %})
 ]).then((results) =&gt; {
 	let [blueprints,products,consumables,technology] = results;
 	let buildable = blueprints.query.categorymembers;
@@ -133,7 +134,7 @@ Promise.all([
 
 	let promises = [];
 	buildable.forEach(thing =&gt; {
-		let rawURL =  `${rawURLBase}${thing.title}?action=raw`;			
+		let rawURL =  `${% raw %}{rawURLBase}{% endraw %}${% raw %}{thing.title}{% endraw %}?action=raw`;			
 		promises.push(rp(rawURL));
 	});
 
@@ -175,10 +176,10 @@ Promise.all([
 &#x2F;*
 Given raw wiki text, look for: 
 ==Crafting==
-{{Craft|Name,Qty;Name2,Qty; (there is also blueprint=yes&#x2F;no I may care aboyt later
+{% raw %}{{Craft|{% endraw %}Name,Qty;Name2,Qty; (there is also blueprint=yes&#x2F;no I may care aboyt later
 *&#x2F;
 function getParts(s,name) {
-	let re = &#x2F;{%raw%}{{Craft\|(.*?)[\||}}{%endraw%}]+&#x2F;;
+	let re = &#x2F;{% raw %}{{Craft\|{% endraw %}(.*?)[\{% raw %}||}{% endraw %}}]+&#x2F;;
 	let found = s.match(re);
 	if(!found || found.length !== 2) {
 		console.log(s);
@@ -192,7 +193,7 @@ function getParts(s,name) {
 	let parts = [];
 	partsRaw.forEach((pair) =&gt; {
 		let [partName, partQty] = pair.split(&#x27;,&#x27;);
-		parts.push({name:partName.trim(),qty:Number(partQty)});
+		parts.push({% raw %}{name:partName.trim(),qty:Number(partQty)}{% endraw %});
 	});
 	return parts;
 }
@@ -326,7 +327,7 @@ So on to the front end. This is the second app I've built with Vue, and I still 
 			&lt;input type=&quot;search&quot; placeholder=&quot;Filter&quot; v-model=&quot;filter&quot;&gt;
 
 			&lt;ul class=&quot;blueprint&quot;&gt;
-				&lt;li v-for=&quot;blueprint in filteredBlueprints&quot; @click=&quot;addToCart(blueprint.name)&quot;&gt;{%raw%}{{ blueprint.name }}{%endraw%}&lt;&#x2F;li&gt;
+				&lt;li v-for=&quot;blueprint in filteredBlueprints&quot; @click=&quot;addToCart(blueprint.name)&quot;&gt;{% raw %}{{ blueprint.name }{% endraw %}}&lt;&#x2F;li&gt;
 			&lt;&#x2F;ul&gt;
 			&lt;&#x2F;div&gt;
 			
@@ -342,8 +343,8 @@ So on to the front end. This is the second app I've built with Vue, and I still 
 				&lt;&#x2F;thead&gt;
 				&lt;tbody&gt;
 				&lt;tr v-for=&quot;item in items&quot;&gt;
-					&lt;td&gt;{%raw%}{{item.name}}{%endraw%}&lt;&#x2F;td&gt;
-					&lt;td&gt;{%raw%}{{item.qty}}{%endraw%}&lt;&#x2F;td&gt;
+					&lt;td&gt;{% raw %}{{item.name}{% endraw %}}&lt;&#x2F;td&gt;
+					&lt;td&gt;{% raw %}{{item.qty}{% endraw %}}&lt;&#x2F;td&gt;
 					&lt;td @click=&quot;removeFromCart(item.name)&quot; class=&quot;remove&quot;&gt;Remove&lt;&#x2F;td&gt;
 				&lt;&#x2F;tr&gt;
 				&lt;&#x2F;tbody&gt;
@@ -361,8 +362,8 @@ So on to the front end. This is the second app I've built with Vue, and I still 
 				&lt;&#x2F;thead&gt;
 				&lt;tbody&gt;
 				&lt;tr v-for=&quot;res in neededResources&quot;&gt;
-					&lt;td&gt;{%raw%}{{res.name}}{%endraw%}&lt;&#x2F;td&gt;
-					&lt;td&gt;{%raw%}{{res.qty}}{%endraw%}&lt;&#x2F;td&gt;
+					&lt;td&gt;{% raw %}{{res.name}{% endraw %}}&lt;&#x2F;td&gt;
+					&lt;td&gt;{% raw %}{{res.qty}{% endraw %}}&lt;&#x2F;td&gt;
 				&lt;&#x2F;tr&gt;
 				&lt;&#x2F;tbody&gt;
 			&lt;&#x2F;table&gt;
@@ -422,7 +423,7 @@ The Vue aspects here are pretty minimal, basically listing data. The idea is you
 			}
 			&#x2F;&#x2F;now convert it to an array
 			for(let key in needed) {
-				result.push({name:key, qty: needed[key]});
+				result.push({% raw %}{name:key, qty: needed[key]}{% endraw %});
 			}
 			result.sort(function(a,b) {
 				if(a.name &gt; b.name) return 1;
@@ -444,7 +445,7 @@ The Vue aspects here are pretty minimal, basically listing data. The idea is you
 				if(this.items[i].name === item) existing = i;
 			}
 			if(existing === -1) {
-				this.items.push({name:item, qty:1});
+				this.items.push({% raw %}{name:item, qty:1}{% endraw %});
 			} else {
 				this.items[existing].qty++;
 			}

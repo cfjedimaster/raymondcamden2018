@@ -5,6 +5,7 @@ date: "2018-01-18"
 categories: JavaScript 
 tags: vuejs
 banner_image: 
+permalink: /2018/01/18/an-example-of-vuejs-devtools
 ---
 
 Yesterday I tweeted about the release of the [latest version](https://medium.com/the-vue-point/whats-new-in-vue-devtools-4-0-9361e75e05d0) of the devtools extension for Vue.js and one of my followers had this to say:
@@ -28,7 +29,7 @@ Let's begin with a super simple Vue app. Here is the entire thing:
 <div id="app">
 	<input type="text" v-model="name">
 	<ul>
-		<li v-for="cat in cats">{%raw%}{{cat.name}}{%endraw%}</li>
+		<li v-for="cat in cats">{% raw %}{{cat.name}{% endraw %}}</li>
 	</ul>
 </div>
 
@@ -40,11 +41,11 @@ const app = new Vue({
 		return {
 			name:'Luna the Destroyer of Dogs',
 			cats:[
-				{name:'Simba',age:11},
-				{name:'Robin',age:5},
-				{name:'Luna',age:9},
-				{name:'Cracker',age:6},
-				{name:'Pig',age:3}
+				{% raw %}{name:'Simba',age:11}{% endraw %},
+				{% raw %}{name:'Robin',age:5}{% endraw %},
+				{% raw %}{name:'Luna',age:9}{% endraw %},
+				{% raw %}{name:'Cracker',age:6}{% endraw %},
+				{% raw %}{name:'Pig',age:3}{% endraw %}
 				]
 		}
 	}
@@ -79,7 +80,7 @@ The extension will also handle computed properties. Consider this version:
 <div id="app">
 	<input type="text" v-model="name">
 	<ul>
-		<li v-for="cat in oldcats">{%raw%}{{cat.name}}{%endraw%}</li>
+		<li v-for="cat in oldcats">{% raw %}{{cat.name}{% endraw %}}</li>
 	</ul>
 </div>
 
@@ -91,11 +92,11 @@ const app = new Vue({
 		return {
 			name:'Luna the Destroyer of Dogs',
 			cats:[
-				{name:'Simba',age:11},
-				{name:'Robin',age:5},
-				{name:'Luna',age:9},
-				{name:'Cracker',age:6},
-				{name:'Pig',age:3}
+				{% raw %}{name:'Simba',age:11}{% endraw %},
+				{% raw %}{name:'Robin',age:5}{% endraw %},
+				{% raw %}{name:'Luna',age:9}{% endraw %},
+				{% raw %}{name:'Cracker',age:6}{% endraw %},
+				{% raw %}{name:'Pig',age:3}{% endraw %}
 				]
 		}
 	},
@@ -126,7 +127,7 @@ Ok, so seeing data that I've got in my own file may not be terribly exciting. Bu
 ```html
 <div id="app">
 	<ul>
-		<li v-for="film in films">{%raw%}{{film.title}}{%endraw%}</li>
+		<li v-for="film in films">{% raw %}{{film.title}{% endraw %}}</li>
 	</ul>
 </div>
 
@@ -169,7 +170,7 @@ So what about custom components? Here is a script where I've defined a cat compo
 <script>
 
 Vue.component('cat', {
-	template:'<p @click="alertCat(cat)"><strong>{%raw%}{{ cat.name }}{%endraw%} is {%raw%}{{ cat.age }}{%endraw%} years old.</strong></p>',
+	template:'<p @click="alertCat(cat)"><strong>{% raw %}{{ cat.name }{% endraw %}} is {% raw %}{{ cat.age }{% endraw %}} years old.</strong></p>',
 	props:['cat'],
 	methods:{
 		alertCat:function(c) {
@@ -183,11 +184,11 @@ const app = new Vue({
 	data() {
 		return {
 			cats:[
-				{name:'Simba',age:11},
-				{name:'Robin',age:5},
-				{name:'Luna',age:9},
-				{name:'Cracker',age:6},
-				{name:'Pig',age:3}
+				{% raw %}{name:'Simba',age:11}{% endraw %},
+				{% raw %}{name:'Robin',age:5}{% endraw %},
+				{% raw %}{name:'Luna',age:9}{% endraw %},
+				{% raw %}{name:'Cracker',age:6}{% endraw %},
+				{% raw %}{name:'Pig',age:3}{% endraw %}
 				]
 		}
 	}
@@ -203,7 +204,7 @@ Notice how it also picked up on the properties sent to it. Now I'm going to skip
 
 ```js
 Vue.component('cat', {
-	template:'<p @click="alertCat(cat)"><strong>{%raw%}{{ cat.name }}{%endraw%} is {%raw%}{{ cat.age }}{%endraw%} years old.</strong></p>',
+	template:'<p @click="alertCat(cat)"><strong>{% raw %}{{ cat.name }{% endraw %}} is {% raw %}{{ cat.age }{% endraw %}} years old.</strong></p>',
 	props:['cat'],
 	methods:{
 		alertCat:function(c) {

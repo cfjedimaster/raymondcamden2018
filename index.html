@@ -4,7 +4,7 @@ layout: default
 <div class="site-content">
     <div class="inner">
         <main class="site-main"> 
-            {% for post in paginator.posts %}
+            {% for post in site.posts limit:10 %}
             <article class="post">
                 <header class="entry-header"> 
                     <div class="entry-header-wrap">

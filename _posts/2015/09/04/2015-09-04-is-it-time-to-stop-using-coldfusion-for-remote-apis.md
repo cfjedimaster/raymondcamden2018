@@ -5,6 +5,7 @@ date: "2015-09-04T16:55:13+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/09/04/is-it-time-to-stop-using-coldfusion-for-remote-apis
 ---
 
 So, let me begin by saying I'm a bit frustrated, and so this blog post may be one I regret later on, but, I try to be as honest as possible here and right now, I'm kinda ticked off about something and I want to get it off my chest. For a long time now I've had an incredible amount of respect for how ColdFusion makes it easy to access data from client-side code (or remote servers). As much as I'm digging Node.js these days, the fact that I can write up a CFC and get an API that can be used by JavaScript is pretty darn powerful. This feature has come a long way. When it first came out, the only option for output was WDDX. You can now output anything, from WDDX, to SOAP, to XML, plain strings, and of course, JSON.
@@ -21,8 +22,8 @@ Or so I thought.
 
 Turns out <a href="https://bugbase.adobe.com/index.cfm?event=bug&id=3337394">bug 3337394</a>, created nearly <i>three</i> years ago, oh one marked closed and fixed, is still very much an issue for serialization. If you have data in a struct, and it has the string value "No", ColdFusion will convert it to false. Here is a sample:
 
-<pre><code class="language-javascript">x = {"name":"No"};
-y = queryNew("id,name", "integer,varchar", [{"id":1, "name":"ray"},{"id":2, "name":"No"}]); 
+<pre><code class="language-javascript">x = {% raw %}{"name":"No"}{% endraw %};
+y = queryNew("id,name", "integer,varchar", [{% raw %}{"id":1, "name":"ray"}{% endraw %},{% raw %}{"id":2, "name":"No"}{% endraw %}]); 
 writeoutput(serializeJSON(x));
 writeoutput("<p/>");
 writeoutput(serializeJSON(y,"struct"));
@@ -31,17 +32,17 @@ writeoutput(serializeJSON(y,"struct"));
 Which gives you:
 
 <pre><code>
-{"name":false}
+{% raw %}{"name":false}{% endraw %}
 
-[{"ID":1,"NAME":"ray"},{"ID":2,"NAME":"No"}]
+[{% raw %}{"ID":1,"NAME":"ray"}{% endraw %},{% raw %}{"ID":2,"NAME":"No"}{% endraw %}]
 </code></pre>
 
 As you can see, the struct is broken, the query works fine. (As reported in the bug itself.) 
 
 Another issue involves strings that contain numbers. Consider these two examples:
 
-<pre><code class="language-javascript">z = {"productkey":"89900909130939081290830983019819023"};
-z2 = queryNew("id,name", "integer,varchar", [{"id":1, "name":"ray"},{"id":2, "name":"89900909130939081290830983019819023"}]);
+<pre><code class="language-javascript">z = {% raw %}{"productkey":"89900909130939081290830983019819023"}{% endraw %};
+z2 = queryNew("id,name", "integer,varchar", [{% raw %}{"id":1, "name":"ray"}{% endraw %},{% raw %}{"id":2, "name":"89900909130939081290830983019819023"}{% endraw %}]);
 
 writeoutput("<p/>");
 writeoutput(serializeJSON(z));
@@ -52,9 +53,9 @@ writeoutput(serializeJSON(z2));
 This returns:
 
 <pre><code>
-{"productkey":89900909130939081290830983019819023}
+{% raw %}{"productkey":89900909130939081290830983019819023}{% endraw %}
 
-{"COLUMNS":["ID","NAME"],"DATA":[[1,"ray"],[2,"89900909130939081290830983019819023"]]}
+{% raw %}{"COLUMNS":["ID","NAME"],"DATA":[[1,"ray"],[2,"89900909130939081290830983019819023"]]}{% endraw %}
 </code></pre>
 
 As you can see, productkey is now a number, and one that will be converted to 8.990090913093909e+34 in JavaScript. 

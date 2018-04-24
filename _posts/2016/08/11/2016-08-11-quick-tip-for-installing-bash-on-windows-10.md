@@ -5,6 +5,7 @@ date: "2016-08-11T08:21:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/08/11/quick-tip-for-installing-bash-on-windows-10
 ---
 
 To be honest, I can't remember the last time I wrote a blog post about Windows. I've been a Mac person for about five years now, and while I certainly didn't dislike Windows, I've been happy with OSX and haven't really looked back. But lately I've been more and more interested in Windows (and Microsoft as a whole). I could go on and on about all the cool stuff they've been doing lately, but let me get to the point of this post. The most recent update to Windows 10 - "Anniversary Edition" (can we maybe just do Win10AE for short?) includes the ability to run a Bash shell natively within the OS. I've done that in the past with Cygwin, but I was really excited to test it out as an "official" part of Windows.

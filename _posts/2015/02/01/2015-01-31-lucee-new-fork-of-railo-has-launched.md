@@ -5,6 +5,7 @@ date: "2015-02-01T08:43:32+06:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2015/02/01/lucee-new-fork-of-railo-has-launched
 ---
 
 This is definitely not <i>new</i> news, but I wanted to share it with folks who may have missed the myriad other posts as well. As the title says, Lucee was launched as a fork of the Railo project. I haven't used Railo much (typically only when a client requires it), so I don't follow that "world" much, but if you want to know more about the why of it I encourage you to read <a href="http://blog.adamcameron.me/2015/01/lucee.html#more">Adam's announcement post</a> where he has a FAQ about the launch of the whole thing. 

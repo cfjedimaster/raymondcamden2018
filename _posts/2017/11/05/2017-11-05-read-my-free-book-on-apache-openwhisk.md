@@ -5,6 +5,7 @@ date: "2017-11-05T05:51:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/11/05/read-my-free-book-on-apache-openwhisk
 ---
 
 I am *very* happy to announce that my new book, "Developing Serverless Applications - A Practical Introduction with Apache OpenWhisk." I believe that may win the prize for the most "wordy" title of any book I've written.

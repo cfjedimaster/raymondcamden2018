@@ -5,6 +5,7 @@ date: "2015-03-24T16:01:04+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic mobilefirst
 banner_image: 
+permalink: /2015/03/24/working-with-ibm-mobilefirst-and-ionic-bootstraping
 ---
 
 Yesterday I described how to make use of the <a href="http://www.ionicframework.com">Ionic</a> framework and IBM's <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> platform. Today I'm going to build on that first post and talk about bootstrapping. Specifically - how can you coordinate the use of your application with the Cordova deviceReady and MobileFirst initialization routines. 
@@ -33,9 +34,9 @@ Then I modified my wlCommonInit to do a manual bootstrap:
 };
 
 if (window.addEventListener) {
-	window.addEventListener('load', function() { WL.Client.init(wlInitOptions); }, false);
+	window.addEventListener('load', function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %}, false);
 } else if (window.attachEvent) {
-	window.attachEvent('onload',  function() { WL.Client.init(wlInitOptions); });
+	window.attachEvent('onload',  function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %});
 }
 
 function wlCommonInit(){
@@ -64,9 +65,9 @@ This works perfectly. But there's a twist. By default, an application doesn't co
 };
 
 if (window.addEventListener) {
-	window.addEventListener(&#x27;load&#x27;, function() { WL.Client.init(wlInitOptions); }, false);
+	window.addEventListener(&#x27;load&#x27;, function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %}, false);
 } else if (window.attachEvent) {
-	window.attachEvent(&#x27;onload&#x27;,  function() { WL.Client.init(wlInitOptions); });
+	window.attachEvent(&#x27;onload&#x27;,  function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %});
 }
 
 function wlCommonInit(){
@@ -107,9 +108,9 @@ Can you see it? It is a FOUC (Flash of Unstyled Content). There's a simple fix f
 };
 
 if (window.addEventListener) {
-	window.addEventListener(&#x27;load&#x27;, function() { WL.Client.init(wlInitOptions); }, false);
+	window.addEventListener(&#x27;load&#x27;, function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %}, false);
 } else if (window.attachEvent) {
-	window.attachEvent(&#x27;onload&#x27;,  function() { WL.Client.init(wlInitOptions); });
+	window.attachEvent(&#x27;onload&#x27;,  function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %});
 }
 
 function wlCommonInit(){

@@ -5,6 +5,7 @@ date: "2016-03-09T07:23:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/03/09/webinar-next-week-on-browser-dev-tools
 ---
 
 Just a quick note to let folks know I'll be giving a webinar next week on browser dev tools. This will be for the [Northern Virginia ColdFusion Users Group](http://www.meetup.com/nvcfug/) but will be open to the public. If you can't make it, it will be up on YouTube afterwards and I'll post the link back to this blog post. 

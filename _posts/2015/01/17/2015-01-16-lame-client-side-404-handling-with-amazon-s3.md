@@ -5,6 +5,7 @@ date: "2015-01-17T09:18:30+06:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/01/17/lame-client-side-404-handling-with-amazon-s3
 ---
 
 Yes, I'm calling this lame, consider that a warning. About a year or so ago I migrated <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> to a static site using <a href="http://www.harpjs.com">HarpJS</a>. While doing this conversion, I changed my URL for entries from:

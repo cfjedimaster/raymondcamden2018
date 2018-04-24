@@ -5,6 +5,7 @@ date: "2016-12-08T14:21:00-07:00"
 categories: Development 
 tags: JavaScript
 banner_image: /images/banners/storage1.jpg
+permalink: /2016/12/08/updates-to-client-storage-for-the-browser
 ---
 
 **I made some edits to this post after some feedback from Dru Knox, a Chrome PM. I've marked them with "Edit:", so 

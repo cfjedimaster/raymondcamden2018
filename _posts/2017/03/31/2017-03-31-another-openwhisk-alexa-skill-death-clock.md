@@ -5,6 +5,7 @@ date: "2017-03-31T13:02:00-07:00"
 categories: Serverless 
 tags: openwhisk alexa
 banner_image: /images/banners/deathclock.jpg
+permalink: /2017/03/31/another-openwhisk-alexa-skill-death-clock
 ---
 
 Earlier this week I had my second Alexa skill released, the [Unofficial Death Clock](https://www.amazon.com/Raymond-Camden-Unofficial-Death-Clock/dp/B06XTHN5KL/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1490983438&sr=1-1&keywords=death+clock). Like most things, this was a silly demo that became interesting the more I worked on it. I thought I'd share the code and the issues I ran into building it, but as always, I'll warn folks I'm still new to Alexa skills, so I probably (most likely) didn't do this the best way. 
@@ -47,7 +48,7 @@ function getDeathDay(d) {
     deathDay.setDate(deathDay.getDate() + daysLeft);
     //console.log('deathDay', deathDay);
     deathDay = new Intl.DateTimeFormat('en-US',
-        { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+        {% raw %}{ weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }{% endraw %}
         ).format(deathDay);
     return {
         deathDay:deathDay,
@@ -71,7 +72,7 @@ function main(args) {
                 reject(err);
             } else {
                 console.log(request);
-                if(!request.intent) request.intent = {name:'intro'};
+                if(!request.intent) request.intent = {% raw %}{name:'intro'}{% endraw %};
                 let intent = request.intent;
 
                 let text = &quot;&quot;;
@@ -192,7 +193,7 @@ function getDeathDay(d) {
     deathDay.setDate(deathDay.getDate() + daysLeft);
     &#x2F;&#x2F;console.log(&#x27;deathDay&#x27;, deathDay);
     deathDay = new Intl.DateTimeFormat(&#x27;en-US&#x27;,
-        { weekday: &#x27;long&#x27;, year: &#x27;numeric&#x27;, month: &#x27;long&#x27;, day: &#x27;numeric&#x27; }
+        {% raw %}{ weekday: &#x27;long&#x27;, year: &#x27;numeric&#x27;, month: &#x27;long&#x27;, day: &#x27;numeric&#x27; }{% endraw %}
         ).format(deathDay);
     return {
         deathDay:deathDay,
@@ -215,7 +216,7 @@ function main(args) {
                 reject(err);
             } else {
                 console.log(JSON.stringify(request));
-                if(!request.intent) request.intent = {name:&#x27;intro&#x27;};
+                if(!request.intent) request.intent = {% raw %}{name:&#x27;intro&#x27;}{% endraw %};
                 let intent = request.intent;
 
                 let text = &quot;&quot;;

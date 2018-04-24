@@ -5,6 +5,7 @@ date: "2017-01-09T14:59:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/01/09/quick-tip-for-testing-openwhisk-actions-locally
 ---
 
 <strong>January 10: So after posting this yesterday, Carlos and I found some issues with both the 'hack' recommendation you add to your

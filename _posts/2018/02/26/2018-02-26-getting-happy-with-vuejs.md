@@ -5,6 +5,7 @@ date: "2018-02-26T12:58:09+06:00"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/maisie_bike.jpg
+permalink: /2018/02/26/getting-happy-with-vuejs
 ---
 
 A [happy day](https://www.raymondcamden.com/2018/02/26/hello-auth0/) deserves another happy blog post, right? A few weeks ago I signed up for an interesting listserv called [Data is Plural](https://tinyletter.com/data-is-plural). This is a weekly newsletter of "interesting" datasets. I put that in quote not because it's dangerous or anything, but the datasets are *incredibly* varied from week to week. I want to thank my super-smart former coworker [Erin McKean](http://erinmckean.com/) for sharing this resource.
@@ -38,7 +39,7 @@ const fs = require('fs');
 const parse = require('csv-parse/lib/sync');
 let contents = fs.readFileSync('./cleaned_hm.csv','UTF-8');
 
-let rawData = parse(contents, { from:2, to:5001});
+let rawData = parse(contents, {% raw %}{ from:2, to:5001}{% endraw %});
 
 let data = [];
 data = rawData.map(d => {
@@ -78,7 +79,7 @@ Alright, so with that said, let me share the code I wrote. First, the front end:
 
 	<div id="app" v-cloak>
 		<transition name="fade" mode="out-in">
-			<p :key="text" v-bind:style="{fontStyle:loading}">{%raw%}{{text}}{%endraw%}</p>
+			<p :key="text" v-bind:style="{% raw %}{fontStyle:loading}{% endraw %}">{% raw %}{{text}{% endraw %}}</p>
 		</transition>
 	</div>
 

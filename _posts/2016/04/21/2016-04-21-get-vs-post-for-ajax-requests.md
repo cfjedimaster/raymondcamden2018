@@ -5,6 +5,7 @@ date: "2016-04-21T08:36:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/gpbanner.jpg
+permalink: /2016/04/21/get-vs-post-for-ajax-requests
 ---
 
 I was preparing to work on another blog post when it occurred to me that I'd share a tip that new JavaScript developers may appreciate. For people new to JavaScript and Ajax, one of the things you may not necessarily think about much is what *method* to use when creating a network request to your server.
@@ -23,7 +24,7 @@ $("#someForm").on("submit", function(e) {
 	//pretend we don't need validation
 	
 	//send to server
-	$.get("/savedata", {name: name}, function(result) {
+	$.get("/savedata", {% raw %}{name: name}{% endraw %}, function(result) {
 		//tell the user thank you, maybe clear the form, etc
 	});
 	
@@ -50,7 +51,7 @@ $("#someForm").on("submit", function(e) {
 	//pretend we don't need validation
 	
 	//send to server
-	$.get("./test.html", {name: name, comments:comments}, function(result) {
+	$.get("./test.html", {% raw %}{name: name, comments:comments}{% endraw %}, function(result) {
 		//tell the user thank you, maybe clear the form, etc
 	});
 	

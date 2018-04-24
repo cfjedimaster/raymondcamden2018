@@ -5,6 +5,7 @@ date: "2015-06-08T09:07:09+06:00"
 categories: Development JavaScript jQuery 
 tags: 
 banner_image: 
+permalink: /2015/06/08/google-analytics-and-rss-report
 ---
 
 <strong>(As just an FYI, while working on this demo I discovered the <a href="https://developers.google.com/analytics/devguides/reporting/embed/v1/">Analytics Embed API</a>. It looks like a powerful way to create Google Analytics mashups and I plan on looking at it deeper in the next week or so. Note that the code I use here could be much simpler with the Embed API.)</strong>

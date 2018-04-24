@@ -5,6 +5,7 @@ date: "2017-01-10T13:12:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/01/10/creating-packaged-actions-in-openwhisk
 ---
 
 As I continue my journey of learning serverless and [OpenWhisk](https://developer.ibm.com/openwhisk/), today I'm going to talk about
@@ -23,7 +24,7 @@ Let's assume a simple action:
 
 <pre><code class="language-javascript">
 function main() {
-	return { message: "Hello World"}
+	return {% raw %}{ message: "Hello World"}{% endraw %}
 }
 </code></pre>
 
@@ -46,7 +47,7 @@ Next, modify your action to export the main function:
 
 <pre><code class="language-javascript">
 function main() {
-	return { message: "Hello World"}
+	return {% raw %}{ message: "Hello World"}{% endraw %}
 }
 
 exports.main = main;
@@ -111,7 +112,7 @@ function main(args) {
 		});
 
 		fp.on('end', function() {
-			resolve({items:items, meta:meta});
+			resolve({% raw %}{items:items, meta:meta}{% endraw %});
 		});
 
 	});

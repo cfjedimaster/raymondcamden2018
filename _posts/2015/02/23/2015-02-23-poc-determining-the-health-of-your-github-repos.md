@@ -5,6 +5,7 @@ date: "2015-02-23T13:57:34+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/02/23/poc-determining-the-health-of-your-github-repos
 ---
 
 I hinted about this in my <a href="http://www.raymondcamden.com/2015/02/22/static-site-hosting-on-google-cloud">blog post</a> last night, but I've been working on a proof of concept application meant to judge the relative "health" of your GitHub repositories. 
@@ -15,7 +16,7 @@ My idea was that there are various things we could check within a repository to 
 
 I was initially going to build it in Node.js so I could OAuth against the GitHub API, but I decided I'd give <a href="http://adodson.com/hello.js/">hello.js</a> a try. hello.js provided a client-side method of doing OAuth against a variety of services. In some cases it uses an app proxy on its own server and you have to do a bit of registration beforehand, but for the most part, it worked pretty well. As an example, this hits the GitHub API to read the current user's repositories.
 
-<pre><code class="language-javascript">hello('github').api("/users/repos",{"type":"owner"}).then( function(r) {
+<pre><code class="language-javascript">hello('github').api("/users/repos",{% raw %}{"type":"owner"}{% endraw %}).then( function(r) {
     console.log("repos", r);
 });</code></pre>
 
@@ -24,7 +25,7 @@ In my application, I built a simple function that looped over your repos and add
 <pre><code class="language-javascript">function startFetchingRepositories(path) {
     if(!path) path = '/user/repos';
     console.log('fetching repos with '+path);
-    hello('github').api(path,{"type":"owner"}).then( function(r){
+    hello('github').api(path,{% raw %}{"type":"owner"}{% endraw %}).then( function(r){
         Array.prototype.push.apply(repos, r.data);
         console.dir(r.data[0]);
         if(r.paging && r.paging.next) {
@@ -42,7 +43,7 @@ This is called <i>after</i> the authorization is complete which is also fairly e
 
 Yeah, that's it. You tie this with an event handler as well:
 
-<pre><code class="language-javascript">hello.on('auth.login', function() { ...});</code></pre>
+<pre><code class="language-javascript">hello.on('auth.login', function() {% raw %}{ ...}{% endraw %});</code></pre>
 
 So... ok. That part didn't take too much time. The next part was actually figuring out how to determine the health of a repo. I decided to start simple - I'd check the age of the last update and the number of open issues - which luckily is part of the repository object information.
 

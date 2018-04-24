@@ -5,11 +5,12 @@ date: "2017-05-02T13:43:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/owsearchengine.jpg
+permalink: /2017/05/02/building-your-own-serverless-search-engine-with-openwhisk
 ---
 
 This is a demo I've been working on for some time. It isn't necessarily that complex (or cool), but it's just taken me a while to get the parts together. As you know, I'm a huge proponent of static site generators. My own site is run on one and I recently released released a [book](https://www.amazon.com/gp/product/B06XHGH789/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XHGH789&linkCode=as2&tag=raymondcamd06-20&linkId=f23f73d89dfe77d76a37e967d7e28cd0) on the topic with Brian Rinaldi. 
 
-One of the things I cover in the book is how to "bring dynamic back" to a static site. That includes things like forms, comments, and search. In the book I recommend Google's [Custom Search Engine](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjkmq-f79HTAhWpqlQKHVnVAHQQFggnMAA&url=https%3A%2F%2Fwww.google.com%2Fcse%2F&usg=AFQjCNHTH5NB954ogLfeyb8R1JR8jrXkkQ&sig2=QlCMl_UMI_Cdf2lE3AjKUA) feature. It's what I use for [search](https://www.raymondcamden.com/search.html) here and it works well. 
+One of the things I cover in the book is how to "bring dynamic back" to a static site. That includes things like forms, comments, and search. In the book I recommend Google's [Custom Search Engine](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjkmq-f79HTAhWpqlQKHVnVAHQQFggnMAA&url=https{% raw %}%3A%{% endraw %}2F{% raw %}%2Fwww.google.com%{% endraw %}2Fcse%2F&usg=AFQjCNHTH5NB954ogLfeyb8R1JR8jrXkkQ&sig2=QlCMl_UMI_Cdf2lE3AjKUA) feature. It's what I use for [search](https://www.raymondcamden.com/search.html) here and it works well. 
 
 But I got to thinking - how difficult would it be to set up a similar system with [OpenWhisk](https://developer.ibm.com/openwhisk/)? All I would need is two parts:
 
@@ -31,15 +32,15 @@ function main(args) {
 	return new Promise((resolve, reject) =&gt; {
 
 		if(!args.rssurl) {
-			reject({error:&quot;Argument rssurl not passed.&quot;});
+			reject({% raw %}{error:&quot;Argument rssurl not passed.&quot;}{% endraw %});
 		}
 
 		request.get(args.rssurl, function(error, response, body) {
 			if(error) return reject(error);
 
-			parseString(body, {explicitArray:false}, function(err, result) {
+			parseString(body, {% raw %}{explicitArray:false}{% endraw %}, function(err, result) {
 				if(err) return reject(err);
-                resolve({entries:result.rss.channel.item});
+                resolve({% raw %}{entries:result.rss.channel.item}{% endraw %});
 			});
 
 		});
@@ -81,14 +82,14 @@ To make this work, I made a new action to sit between them. I touched on this in
 	PREPARE THE BULK!!!
 
 	ex: 
-	{ index:  { _index: &#x27;myindex&#x27;, _type: &#x27;mytype&#x27;, _id: 1 } },
+	{% raw %}{ index:  { _index: &#x27;myindex&#x27;, _type: &#x27;mytype&#x27;, _id: 1 }{% endraw %} },
      &#x2F;&#x2F; the document to index
-    { title: &#x27;foo&#x27; },
+    {% raw %}{ title: &#x27;foo&#x27; }{% endraw %},
 	*&#x2F;
 	let bulk = [];
 
 	entries.forEach( (e) =&gt; {
-		let action = {&quot;index&quot;:{&quot;_type&quot;:&quot;entry&quot;, &quot;_id&quot;:e.url}};
+		let action = {% raw %}{&quot;index&quot;:{&quot;_type&quot;:&quot;entry&quot;, &quot;_id&quot;:e.url}{% endraw %}};
 		let document = e;
 		bulk.push(action);
 		bulk.push(document);
@@ -231,8 +232,8 @@ function doSearch() {
 			let result = &#x27;&lt;ul&gt;&#x27;;
 			results.forEach((entry) =&gt; {
 				result += `
-&lt;li&gt;&lt;a href=&quot;${entry.url}&quot;&gt;${entry.title}&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
-${entry.context}&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;${% raw %}{entry.url}{% endraw %}&quot;&gt;${% raw %}{entry.title}{% endraw %}&lt;&#x2F;a&gt;&lt;br&#x2F;&gt;
+${% raw %}{entry.context}{% endraw %}&lt;&#x2F;li&gt;
 				`;
 			});
 			result += &#x27;&lt;&#x2F;ul&gt;&#x27;;

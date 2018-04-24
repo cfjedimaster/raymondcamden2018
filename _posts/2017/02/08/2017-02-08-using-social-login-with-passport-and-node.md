@@ -5,6 +5,7 @@ date: "2017-02-08T11:29:00-07:00"
 categories: JavaScript 
 tags: nodejs
 banner_image: /images/banners/node_passport_social.jpg
+permalink: /2017/02/08/using-social-login-with-passport-and-node
 ---
 
 I've blogged before about Passport (["Some Quick Tips for Passport"](https://www.raymondcamden.com/2016/06/23/some-quick-tips-for-passport)) as well
@@ -56,7 +57,7 @@ app.set(&#x27;view engine&#x27;, &#x27;handlebars&#x27;);
 var mongoose = require(&#x27;mongoose&#x27;);
 var opts = {
 	server: {
-		socketOptions: { keepAlive: 1 }
+		socketOptions: {% raw %}{ keepAlive: 1 }{% endraw %}
 	}
 };
 
@@ -186,7 +187,7 @@ passport.use(new FacebookStrategy({
 		});
 
 		/* save if new */
-		user.findOne({email:me.email}, function(err, u) {
+		user.findOne({% raw %}{email:me.email}{% endraw %}, function(err, u) {
 			if(!u) {
 				me.save(function(err, me) {
 					if(err) return done(err);
@@ -234,9 +235,9 @@ Just to recap, the code block handles:
 Actually logging in is handled via routes:
 
 <pre><code class="language-javascript">
-app.get('/auth/facebook', passport.authenticate('facebook', {scope:"email"}));
+app.get('/auth/facebook', passport.authenticate('facebook', {% raw %}{scope:"email"}{% endraw %}));
 app.get('/auth/facebook/callback', passport.authenticate('facebook', 
-{ successRedirect: '/', failureRedirect: '/login' }));
+{% raw %}{ successRedirect: '/', failureRedirect: '/login' }{% endraw %}));
 </code></pre>
 
 These I took right from the docs, and certainly you could modify them. The big crucial part here is `scope` in the authenticate method. Even though I configuring Facebook/Passport to want the email, I have to ask for it specifically when logging in. You must do both!
@@ -307,7 +308,7 @@ passport.use(new TwitterStrategy({
 		});
 
 		/* save if new */
-		user.findOne({email:me.email}, function(err, u) {
+		user.findOne({% raw %}{email:me.email}{% endraw %}, function(err, u) {
 			if(!u) {
 				me.save(function(err, me) {
 					if(err) return done(err);
@@ -326,9 +327,9 @@ passport.use(new TwitterStrategy({
 You'll notice it is virtually the same. In fact, my callback is 100% the same. I should optimize that by creating a function that I can call from both strategies. To be honest, when I started working with this, I didn't know Passport would do such a good job with the profile. The crucial bit here is `includeEmail:true`. I have no idea where this is documented - I found this in a bug report, but it was one-half the job of letting Twitter know I needed email. Now let's look at the routes:
 
 <pre><code class="language-javascript">
-app.get('/auth/twitter', passport.authenticate('twitter', {scope:['include_email=true']}));
+app.get('/auth/twitter', passport.authenticate('twitter', {% raw %}{scope:['include_email=true']}{% endraw %}));
 app.get('/auth/twitter/callback', passport.authenticate('twitter', 
-  { successRedirect: '/', failureRedirect: '/login' }));
+  {% raw %}{ successRedirect: '/', failureRedirect: '/login' }{% endraw %}));
 </code></pre>
 
 And here you can see the second part - the scope value. Again - maybe this *is* documented, but I was only able to get things running by searching for bugs. A real pain the you know what.
@@ -360,7 +361,7 @@ passport.use(new FacebookStrategy({
 		});
 
 		&#x2F;* save if new *&#x2F;
-		user.findOne({email:me.email}, function(err, u) {
+		user.findOne({% raw %}{email:me.email}{% endraw %}, function(err, u) {
 			if(!u) {
 				me.save(function(err, me) {
 					if(err) return done(err);
@@ -388,7 +389,7 @@ passport.use(new TwitterStrategy({
 		});
 
 		&#x2F;* save if new *&#x2F;
-		user.findOne({email:me.email}, function(err, u) {
+		user.findOne({% raw %}{email:me.email}{% endraw %}, function(err, u) {
 			if(!u) {
 				me.save(function(err, me) {
 					if(err) return done(err);
@@ -433,7 +434,7 @@ app.set(&#x27;view engine&#x27;, &#x27;handlebars&#x27;);
 var mongoose = require(&#x27;mongoose&#x27;);
 var opts = {
 	server: {
-		socketOptions: { keepAlive: 1 }
+		socketOptions: {% raw %}{ keepAlive: 1 }{% endraw %}
 	}
 };
 
@@ -463,13 +464,13 @@ app.get(&#x27;&#x2F;&#x27;, isLoggedIn, function(req, res) {
 	});
 });
 
-app.get(&#x27;&#x2F;auth&#x2F;facebook&#x27;, passport.authenticate(&#x27;facebook&#x27;, {scope:&quot;email&quot;}));
+app.get(&#x27;&#x2F;auth&#x2F;facebook&#x27;, passport.authenticate(&#x27;facebook&#x27;, {% raw %}{scope:&quot;email&quot;}{% endraw %}));
 app.get(&#x27;&#x2F;auth&#x2F;facebook&#x2F;callback&#x27;, passport.authenticate(&#x27;facebook&#x27;, 
-{ successRedirect: &#x27;&#x2F;&#x27;, failureRedirect: &#x27;&#x2F;login&#x27; }));
+{% raw %}{ successRedirect: &#x27;&#x2F;&#x27;, failureRedirect: &#x27;&#x2F;login&#x27; }{% endraw %}));
 
-app.get(&#x27;&#x2F;auth&#x2F;twitter&#x27;, passport.authenticate(&#x27;twitter&#x27;, {scope:[&#x27;include_email=true&#x27;]}));
+app.get(&#x27;&#x2F;auth&#x2F;twitter&#x27;, passport.authenticate(&#x27;twitter&#x27;, {% raw %}{scope:[&#x27;include_email=true&#x27;]}{% endraw %}));
 app.get(&#x27;&#x2F;auth&#x2F;twitter&#x2F;callback&#x27;, passport.authenticate(&#x27;twitter&#x27;, 
-  { successRedirect: &#x27;&#x2F;&#x27;, failureRedirect: &#x27;&#x2F;login&#x27; }));
+  {% raw %}{ successRedirect: &#x27;&#x2F;&#x27;, failureRedirect: &#x27;&#x2F;login&#x27; }{% endraw %}));
 
 app.get(&#x27;&#x2F;login&#x27;, isLoggedIn, function(req, res) {
 	if(req.loggedIn) res.redirect(&#x27;&#x2F;&#x27;);

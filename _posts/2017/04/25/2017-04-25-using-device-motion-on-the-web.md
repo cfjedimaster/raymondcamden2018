@@ -5,6 +5,7 @@ date: "2017-04-25T16:30:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2017/04/25/using-device-motion-on-the-web
 ---
 
 I'm currently working on an article for [TDN](http://developer.telerik.com/) that looks at how web standards have advanced in comparison to the default list of plugins supported for Apache Cordova. In my research, I looked at the [Device Orientation API](https://w3c.github.io/deviceorientation/spec-source-orientation.html). Specifically, I was interested in device motion. For Cordova, motion and orientation are split into two plugins, but spec-wise, they are covered in - well - one spec.  In general, it is a fairly simply API to use. Here is an example from the Mozilla Developer Network page on [device motion](https://developer.mozilla.org/en-US/docs/Web/API/DeviceMotionEvent):

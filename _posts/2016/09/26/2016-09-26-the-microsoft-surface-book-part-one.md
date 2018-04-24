@@ -5,6 +5,7 @@ date: "2016-09-26T12:52:00-07:00"
 categories: Development 
 tags: Windows
 banner_image: /images/banners/sbms.jpg
+permalink: /2016/09/26/the-microsoft-surface-book-part-one
 ---
 
 <strong>A Disclaimer: Microsoft provided me with the hardware I'm reviewing. They asked me to share my feelings about it in exchange for letting me borrow it. Also, I'm not a professional photographer, so the product shots I'll be sharing today will be a bit meh. The lovely picture you see above is courtesy of Microsoft.</strong>

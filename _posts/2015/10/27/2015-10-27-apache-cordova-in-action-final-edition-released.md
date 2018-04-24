@@ -5,6 +5,7 @@ date: "2015-10-27T16:37:32+06:00"
 categories: Books Mobile 
 tags: 
 banner_image: 
+permalink: /2015/10/27/apache-cordova-in-action-final-edition-released
 ---
 
 Well, this took a bit longer than I expected, but the <strong>final</strong> version of my <a href="https://www.manning.com/books/apache-cordova-in-action">Apache Cordova in Action</a> book is for sale! 

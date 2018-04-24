@@ -5,6 +5,7 @@ date: "2016-01-06T15:21:03+06:00"
 categories: Development JavaScript 
 tags: nodejs strongloop
 banner_image: 
+permalink: /2016/01/06/seeding-data-for-a-strongloop-app
 ---
 
 <div style="border-style:solid;border-width:thin;padding:5px"><strong>Please Read! A few hours after posting this, a member of the StrongLoop team pointed out an alternative that did exactly what I wanted to accomplish in about one second of typing. I still think the <i>core</i> of this blog entry makes sense as is so I'm not editing it, but see the note at the bottom!</strong></div>
@@ -45,9 +46,9 @@ module.exports = function(app) {
       if (err) return cb(err);
       var Reviewer = app.models.Reviewer;
       Reviewer.create([
-        {email: 'foo@bar.com', password: 'foobar'},
-        {email: 'john@doe.com', password: 'johndoe'},
-        {email: 'jane@doe.com', password: 'janedoe'}
+        {% raw %}{email: 'foo@bar.com', password: 'foobar'}{% endraw %},
+        {% raw %}{email: 'john@doe.com', password: 'johndoe'}{% endraw %},
+        {% raw %}{email: 'jane@doe.com', password: 'janedoe'}{% endraw %}
       ], cb);
     });
   }
@@ -57,9 +58,9 @@ module.exports = function(app) {
       if (err) return cb(err);
       var CoffeeShop = app.models.CoffeeShop;
       var shops = [
-        {name: 'Bel Cafe',openingHour:10, closingHour:18},
-        {name: 'Three Bees Coffee House',openingHour:6, closingHour:15},
-        {name: 'Caffe Artigiano',openingHour:17, closingHour:24},
+        {% raw %}{name: 'Bel Cafe',openingHour:10, closingHour:18}{% endraw %},
+        {% raw %}{name: 'Three Bees Coffee House',openingHour:6, closingHour:15}{% endraw %},
+        {% raw %}{name: 'Caffe Artigiano',openingHour:17, closingHour:24}{% endraw %},
       ];
       //add city if it's in the model
       if(CoffeeShop.definition.properties.hasOwnProperty('city')){
@@ -146,7 +147,7 @@ module.exports = function(app) {
 	];
 	
 	app.models.TestContent.create(data, function(err, records) {
-		if (err) { return console.log(chalk.red(err.message)); }
+		if (err) {% raw %}{ return console.log(chalk.red(err.message)); }{% endraw %}
 		console.log(chalk.magenta('Done seeding data, '+records.length+' records created.'));
 	});
 	

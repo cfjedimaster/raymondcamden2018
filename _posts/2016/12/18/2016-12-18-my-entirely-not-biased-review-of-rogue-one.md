@@ -5,6 +5,7 @@ date: "2016-12-18T09:32:00-07:00"
 categories: Movies 
 tags: 
 banner_image: /images/banners/r1review.jpg
+permalink: /2016/12/18/my-entirely-not-biased-review-of-rogue-one
 ---
 
 Unless you've been living under a rock the past few months, you've probably

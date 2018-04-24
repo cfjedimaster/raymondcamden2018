@@ -5,6 +5,7 @@ date: "2017-12-22"
 categories: Development Serverless 
 tags: javascript vuejs openwhisk
 banner_image: 
+permalink: /2017/12/22/using-json-web-tokens-with-openwhisk
 ---
 
 Hey folks, before I begin, let me preface the entry with a warning that this is an example of something I wanted to play with and should *not* be copied wholesale for your applications without a thorough security review. I got - well - attacked pretty harshly in comments a few months ago for making a few mistakes in terms of security so I want to ensure folks know that I'm putting this out as something to share, but you should use with caution. As always, if you have some constructive feedback in regards to how good/bad/etc this demo is, I'm always happy to read your comments. Whew, sorry for the long disclaimer. Let's get started, shall we?
@@ -20,9 +21,9 @@ const creds = require('./creds.json');
 function main(args) {
     return new Promise((resolve, reject) => {
 
-        if(!args.username || !args.password) reject({message:'Invalid auth'});
+        if(!args.username {% raw %}|| !args.password) reject({message:'Invalid auth'}{% endraw %});
         // hard coded auth
-        if(args.username !== 'admin' || args.password !== 'letmein') reject({message:'Invalid auth'});
+        if(args.username !== 'admin' {% raw %}|| args.password !== 'letmein') reject({message:'Invalid auth'}{% endraw %});
 
         let token = jwt.sign(args.username, creds.secret);
         resolve({
@@ -36,7 +37,7 @@ function main(args) {
 exports.main = main;
 ```
 
-It begins by doing basic validation of the arguments. Then it simply checks against hard coded values for username and password. Note that I'm using a promise for the action even though everything is synchronous. In a real application, I assume you would check the credentials against a service, or database, and therefore would not be using an entirely synchronous solution. After the credentials are verified, I then create a JSON web token via the npm package I included in the beginning. You can read more about the package here - https://www.npmjs.com/package/jsonwebtoken. Note that I'm not using the option to add a timeout to the token. I think - typically - you would want a reasonable value there. That could be added like so: `jwt.sign(args.username, creds.secret, {'expiresIn':'1h'})`. Oh, and `creds` is just a JSON file containing a key to use for signing and verifying:
+It begins by doing basic validation of the arguments. Then it simply checks against hard coded values for username and password. Note that I'm using a promise for the action even though everything is synchronous. In a real application, I assume you would check the credentials against a service, or database, and therefore would not be using an entirely synchronous solution. After the credentials are verified, I then create a JSON web token via the npm package I included in the beginning. You can read more about the package here - https://www.npmjs.com/package/jsonwebtoken. Note that I'm not using the option to add a timeout to the token. I think - typically - you would want a reasonable value there. That could be added like so: `jwt.sign(args.username, creds.secret, {% raw %}{'expiresIn':'1h'}{% endraw %})`. Oh, and `creds` is just a JSON file containing a key to use for signing and verifying:
 
 ```js
 {
@@ -83,7 +84,7 @@ Once again I'm using the `jsonwebtoken` package for the bulk of the work. I deco
 function main(args) {
     if(!args.name) args.name = 'Nameless';
 
-    return { result: `Hello, ${args.name}`};
+    return {% raw %}{ result: `Hello, ${args.name}{% endraw %}`};
     
 }
 ```
@@ -148,14 +149,14 @@ In order to test this out, I whipped up a quick Vue.js front end. I built it all
                     <input type="submit" @click="helloWorld" value="Test">
                 </p>
 
-                <p v-if="nameResult"><b>Result: {%raw%}{{nameResult}}{%endraw%}</b></p>
+                <p v-if="nameResult"><b>Result: {% raw %}{{nameResult}{% endraw %}}</b></p>
         </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <script>
-    const AUTH = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/safeToDelete/auth.json';
-    const HELLO = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/safeToDelete/safeHelloWorld.json';
+    const AUTH = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/safeToDelete/auth.json';
+    const HELLO = 'https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/safeToDelete/safeHelloWorld.json';
 
     const app = new Vue({
         el:'#app',

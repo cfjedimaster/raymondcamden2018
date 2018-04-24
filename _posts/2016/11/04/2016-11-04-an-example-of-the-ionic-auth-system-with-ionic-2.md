@@ -5,6 +5,7 @@ date: "2016-11-04T12:59:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: /images/banners/ionic2auth.jpg
+permalink: /2016/11/04/an-example-of-the-ionic-auth-service-with-ionic-2
 ---
 
 <em>Note that I am writing this when Ionic 2 was in RC2 status. I expect that things may change a bit between now and the final release, but probably not too much.</em>
@@ -21,13 +22,13 @@ The full source code for what I'm about to demonstrate may be found here: https:
 I began by creating a new Ionic 2 application using the "blank" template. This gave me an app with one page, home. My first task was to add logic to check for existing login and route the user appropriately. I did this within <code>app.component.ts</code>:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { Platform } from &#x27;ionic-angular&#x27;;
-import { StatusBar, Splashscreen } from &#x27;ionic-native&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Platform }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ StatusBar, Splashscreen }{% endraw %} from &#x27;ionic-native&#x27;;
 
-import { HomePage } from &#x27;..&#x2F;pages&#x2F;home&#x2F;home&#x27;;
-import { LoginPage } from &#x27;..&#x2F;pages&#x2F;login&#x2F;login&#x27;;
-import { Auth } from &#x27;@ionic&#x2F;cloud-angular&#x27;;
+import {% raw %}{ HomePage }{% endraw %} from &#x27;..&#x2F;pages&#x2F;home&#x2F;home&#x27;;
+import {% raw %}{ LoginPage }{% endraw %} from &#x27;..&#x2F;pages&#x2F;login&#x2F;login&#x27;;
+import {% raw %}{ Auth }{% endraw %} from &#x27;@ionic&#x2F;cloud-angular&#x27;;
 
 @Component({
   template: `&lt;ion-nav [root]=&quot;rootPage&quot;&gt;&lt;&#x2F;ion-nav&gt;`
@@ -128,10 +129,10 @@ I'm not entirely sold on that UX, but it gets the job done. Let's take a look at
 Nothing crazy here except the 2 divs with <code>*ngIf*</code> controlling their visibility. The real fun is the code behind this:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController, AlertController, LoadingController } from &#x27;ionic-angular&#x27;;
-import { Auth, User, UserDetails, IDetailedError } from &#x27;@ionic&#x2F;cloud-angular&#x27;;
-import { HomePage } from &#x27;..&#x2F;home&#x2F;home&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController, AlertController, LoadingController }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ Auth, User, UserDetails, IDetailedError }{% endraw %} from &#x27;@ionic&#x2F;cloud-angular&#x27;;
+import {% raw %}{ HomePage }{% endraw %} from &#x27;..&#x2F;home&#x2F;home&#x27;;
 
 @Component({
   selector: &#x27;page-login&#x27;,
@@ -173,7 +174,7 @@ export class LoginPage {
       });
       loader.present();
       
-      this.auth.login(&#x27;basic&#x27;, {&#x27;email&#x27;:this.email, &#x27;password&#x27;:this.password}).then(() =&gt; {
+      this.auth.login(&#x27;basic&#x27;, {% raw %}{&#x27;email&#x27;:this.email, &#x27;password&#x27;:this.password}{% endraw %}).then(() =&gt; {
         console.log(&#x27;ok i guess?&#x27;);
         loader.dismissAll();
         this.navCtrl.setRoot(HomePage);        
@@ -204,7 +205,7 @@ export class LoginPage {
       &#x2F;*
       do our own initial validation
       *&#x2F;
-      if(this.name === &#x27;&#x27; || this.email === &#x27;&#x27; || this.password === &#x27;&#x27;) {
+      if(this.name === &#x27;&#x27; {% raw %}|| this.email === &#x27;&#x27; |{% endraw %}| this.password === &#x27;&#x27;) {
         let alert = this.alertCtrl.create({
           title:&#x27;Register Error&#x27;, 
           subTitle:&#x27;All fields are rquired&#x27;,
@@ -214,7 +215,7 @@ export class LoginPage {
         return;
       }
 
-      let details: UserDetails = {&#x27;email&#x27;:this.email, &#x27;password&#x27;:this.password, &#x27;name&#x27;:this.name};
+      let details: UserDetails = {% raw %}{&#x27;email&#x27;:this.email, &#x27;password&#x27;:this.password, &#x27;name&#x27;:this.name}{% endraw %};
       console.log(details);
       
       let loader = this.loadingCtrl.create({
@@ -224,7 +225,7 @@ export class LoginPage {
 
       this.auth.signup(details).then(() =&gt; {
         console.log(&#x27;ok signup&#x27;);
-        this.auth.login(&#x27;basic&#x27;, {&#x27;email&#x27;:details.email, &#x27;password&#x27;:details.password}).then(() =&gt; {
+        this.auth.login(&#x27;basic&#x27;, {% raw %}{&#x27;email&#x27;:details.email, &#x27;password&#x27;:details.password}{% endraw %}).then(() =&gt; {
           loader.dismissAll();
           this.navCtrl.setRoot(HomePage);
         });
@@ -283,18 +284,18 @@ Here's the HTML:
 &lt;&#x2F;ion-header&gt;
 
 &lt;ion-content padding&gt;
-    &lt;h2&gt;Welcome back, {%raw%}{{ user.details.name }}{%endraw%}&lt;&#x2F;h2&gt;
+    &lt;h2&gt;Welcome back, {% raw %}{{ user.details.name }{% endraw %}}&lt;&#x2F;h2&gt;
 &lt;&#x2F;ion-content&gt;
 </code></pre>
 
 Nothing too special there, although I should point out that the <code>name</code> value of a user is optional. And here is the code behind the view:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
 
-import { NavController } from &#x27;ionic-angular&#x27;;
-import { Auth, User } from &#x27;@ionic&#x2F;cloud-angular&#x27;;
-import { LoginPage } from &#x27;..&#x2F;login&#x2F;login&#x27;;
+import {% raw %}{ NavController }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ Auth, User }{% endraw %} from &#x27;@ionic&#x2F;cloud-angular&#x27;;
+import {% raw %}{ LoginPage }{% endraw %} from &#x27;..&#x2F;login&#x2F;login&#x27;;
 
 @Component({
   selector: &#x27;page-home&#x27;,

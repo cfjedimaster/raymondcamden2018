@@ -5,6 +5,7 @@ date: "2017-10-16T09:24:00-07:00"
 categories: Development JavaScript Books 
 tags: JavaScript
 banner_image: 
+permalink: /2017/10/16/review-building-progressive-web-apps
 ---
 
 <iframe style="width:120px;height:240px;float:left;margin-right:15px;margin-bottom:15px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=raymondcamd06-20&marketplace=amazon&region=US&placement=1491961651&asins=1491961651&linkId=c66f6cdac864d7f565434fe402c147a3&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">

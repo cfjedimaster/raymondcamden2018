@@ -5,6 +5,7 @@ date: "2018-04-03"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/code.jpg
+permalink: /2018/04/03/til-vuejs-and-non-prop-attributes
 ---
 
 This weekend I worked on a PR for a Vue.js component ([vue-static-map](https://github.com/eperedo/vue-static-map)) that ended up being a complete waste of time. Almost. What I mean is - I added support for something that actually ended up being a baked-in feature of Vue. So sure - I wasted a bit of time, but I also learned something and as my readers know, every time I screw up - I blog it.

@@ -5,6 +5,7 @@ date: "2017-01-31T11:00:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/01/31/using-packages-in-openwhisk
 ---
 
 As I continue my exploration of serverless with [OpenWhisk](https://developer.ibm.com/openwhisk/), today I'm going to look at

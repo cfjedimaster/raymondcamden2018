@@ -5,6 +5,7 @@ date: "2016-03-25T09:06:00-07:00"
 categories: JavaScript 
 tags: nodejs bluemix
 banner_image: /images/banners/twitteraccount.png
+permalink: /2016/03/25/getting-images-from-a-twitter-account
 ---
 
 I've mentioned before that I follow a few Twitter accounts that are primarily picture driven. For example, [@classicairline](https://twitter.com/classicairline) posts historical pictures of commercial aircraft. I even created my own account, [@randomcomicbook](https://twitter.com/randomcomicbook), which posts pictures of Marvel comics. (You can read how I created that here: [Building a Twitter bot to display random comic book covers](http://www.raymondcamden.com/2016/02/22/building-a-twitter-bot-to-display-random-comic-book-covers/))
@@ -139,14 +140,14 @@ app.get('/search/:account', function(req, res) {
 	                  req.session.oa._authorize_callback,
 	                  req.session.oa._signatureMethod);
 	
-	oa.get('https://api.twitter.com/1.1/search/tweets.json?q=from%3A'+account+'+filter%3Amedia&count=100', req.session.oauth_access_token, req.session.oauth_access_token_secret,           
+	oa.get('https://api.twitter.com/1.1/search/tweets.json?q=from{% raw %}%3A'+account+'+filter%{% endraw %}3Amedia&count=100', req.session.oauth_access_token, req.session.oauth_access_token_secret,           
       function (e, retData, ores) {
 		if (e) {
 			console.log('Search: error result');
 			console.dir(JSON.parse(e.data));
 			
 			var error = JSON.parse(e.data).errors;
-			res.send({error:1, message:error[0].message});			
+			res.send({% raw %}{error:1, message:error[0].message}{% endraw %});			
 		} else {
 			retData = JSON.parse(retData);
 			console.log('got '+retData.statuses.length+ ' items');

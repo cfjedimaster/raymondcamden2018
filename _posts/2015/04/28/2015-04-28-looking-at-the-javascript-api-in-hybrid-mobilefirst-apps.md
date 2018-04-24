@@ -5,6 +5,7 @@ date: "2015-04-28T13:22:39+06:00"
 categories: HTML5 JavaScript 
 tags: mobilefirst
 banner_image: 
+permalink: /2015/04/28/looking-at-the-javascript-api-in-hybrid-mobilefirst-apps
 ---
 
 I've been blogging lately about hybrid apps and <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a>, and today I thought I'd start investigating the <a href="http://www-01.ibm.com/support/knowledgecenter/SSHS8R_7.0.0/com.ibm.worklight.apiref.doc/apiref/r_ibm_worklight_client_side_api_.html">JavaScript client-side API</a> portion of the product. These are API methods you have available to you in your hybrid application. For today, I'm going to focus on the <a href="http://www-01.ibm.com/support/knowledgecenter/api/content/SSHS8R_7.0.0/com.ibm.worklight.apiref.doc/html/refjavascript-client/html/WL.App.html">WL.App</a> namespace.
@@ -44,7 +45,7 @@ Here is a screenshot. Note that the scratch app is blanked out.
 
 Now - this is cool one. Typically when you want to use native code, you have to build a plugin. Plugins are necessarily difficult to write, but you may not necessarily want to go that far for everything you do. MobileFirst's client-side API provides a simpler solution. You can use <code>sendActionToNative</code> to send a message to your native code. Your native code can then do... whatever. There's a reverse to this as well. You can tell your hybrid app to listen in for actions sent from the native side and react appropriately. As an example, imagine this within your JavaScript:
 
-<pre><code class="language-javascript">var data = {someproperty:1234};
+<pre><code class="language-javascript">var data = {% raw %}{someproperty:1234}{% endraw %};
 WL.App.sendActionToNative("doSomething", data);</code></pre>
 
 Then on the native side - you can listen for it and do something:

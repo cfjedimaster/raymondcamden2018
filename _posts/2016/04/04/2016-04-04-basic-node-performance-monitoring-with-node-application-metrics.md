@@ -5,6 +5,7 @@ date: "2016-04-04T13:13:00-07:00"
 categories: Development 
 tags: nodejs
 banner_image: 
+permalink: /2016/04/04/basic-node-performance-monitoring-with-node-application-metrics
 ---
 
 While I still have a long way to go before I consider myself a "Node.js Expert", one of the areas I've been most interested in recently is performance monitoring. There are tools out there for this purpose, of course, and I work for a group that has some. [StrongLoop](https://strongloop.com) has performance tools as part of the commercial offering for Node.js applications, and while obviously I hope to get up to speed on them soon, I ran across an open-source project at IBM that I thought was rather neat - [Node Application Metrics](https://github.com/RuntimeTools/appmetrics).
@@ -48,7 +49,7 @@ In testing, it worked as expected, but the `http` event recorded *every* http re
 appmetrics.setConfig('http', {
 	filters:[
 		{
-			pattern:'\.jpg|\.css|\.png|\.gif|\.js',
+			pattern:'\.jpg{% raw %}|\.css|{% endraw %}\.png{% raw %}|\.gif|{% endraw %}\.js',
 			to:''
 		}
 	]	

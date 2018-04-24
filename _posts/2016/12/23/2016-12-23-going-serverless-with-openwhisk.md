@@ -5,6 +5,7 @@ date: "2016-12-23T12:49:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/openwhisk.jpg
+permalink: /2016/12/23/going-serverless-with-openwhisk
 ---
 
 Like I assume most of you have, I've been hearing a lot about "serverless" recently and while I had a passing 
@@ -145,7 +146,7 @@ the beginning) was able to pick up on this and recognize it with one command.
 on that package to get all the documents from my database. But to make it even more complete, I added a REST API path.
 * And then I'm really done. I had an API to list documents from my database. Done. Like, done. I could pass any query as well. 
 
-You can see it for yourself here: https://3b1fd5b1-e8cc-4871-a7d8-cc599e3ef852-gws.api-gw.mybluemix.net/catapi/list?dbname=cats&params={%22include_docs%22:true}
+You can see it for yourself here: https://3b1fd5b1-e8cc-4871-a7d8-cc599e3ef852-gws.api-gw.mybluemix.net/catapi/list?dbname=cats&params={% raw %}{%22include_docs%{% endraw %}22:true}
 
 That was cool, but I wanted to know if I could bypass some of those arguments. You *can* specify parameters for a package at a global level, and `dbname` would make sense
 for that, but I didn't want the `include_docs` to be global for everything. I got some great help from fellow IBMer [James Thomas](http://jamesthom.as/blog) and he
@@ -176,9 +177,9 @@ function main() {
 			//lets make a new one
 			var result = [];
 			raw.forEach(function(c) {
-				result.push({name:c.doc.name, age:c.doc.age, gender:c.doc.gender});
+				result.push({% raw %}{name:c.doc.name, age:c.doc.age, gender:c.doc.gender}{% endraw %});
 			});
-			resolve({result:result});
+			resolve({% raw %}{result:result}{% endraw %});
 		});
 	});
 

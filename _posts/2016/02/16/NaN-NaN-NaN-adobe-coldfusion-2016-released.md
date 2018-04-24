@@ -5,6 +5,7 @@ date: "2016-02-16T5:35:00-07:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2016/02/16/adobe-coldfusion-2016-released
 ---
 
 <img src="https://static.raymondcamden.com/images/2016/02/cflogo.jpg" style="float:left;margin-right:10px;margin-bottom:10px">

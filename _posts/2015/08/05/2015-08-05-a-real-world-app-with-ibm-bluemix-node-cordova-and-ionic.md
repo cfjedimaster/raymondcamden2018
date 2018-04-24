@@ -5,6 +5,7 @@ date: "2015-08-05T17:01:10+06:00"
 categories: Development JavaScript Mobile 
 tags: bluemix cordova ionic
 banner_image: 
+permalink: /2015/08/05/a-real-world-app-with-ibm-bluemix-node-cordova-and-ionic
 ---
 
 I'm still working on my <a href="https://github.com/cfjedimaster/SauceDB">large SauceDB project</a>, but during a meeting at work earlier this week my coworkers and I came up with a simple project that may be a nicer introduction to working with <a href="https://ibm.biz/IBM-Bluemix">Bluemix</a> and <a href="http://www.ionicframework.com">Ionic</a>. What follows is a complete application (both back and front end) that is also somewhat simple. There's multiple moving parts here so it does require some setup, but I think this guide would be a good introduction for developers. Of course, the entire thing is also up on GitHub (<a href="https://github.com/cfjedimaster/IonicBluemixDemo">https://github.com/cfjedimaster/IonicBluemixDemo</a>) with the instructions mirrored there as well. Alright, let's get started!
@@ -331,11 +332,11 @@ In theory, you'll be able to test the app right away, but let's take a quick loo
 				&lt;button class=&quot;button button-energized button-block&quot; ng-click=&quot;selectPicture()&quot; ng-disabled=&quot;!cordovaReady&quot;&gt;Select Picture&lt;/button&gt;
 				
 				&lt;p&gt;
-				&lt;img ng-src=&quot;{%raw%}{{pic}}{%endraw%}&quot; class=&quot;selPicture&quot;&gt;
+				&lt;img ng-src=&quot;{% raw %}{{pic}{% endraw %}}&quot; class=&quot;selPicture&quot;&gt;
 				&lt;/p&gt;
 				
 				&lt;ion-list class=&quot;list-inset&quot;&gt;
-					&lt;ion-item ng-repeat=&quot;result in results&quot;&gt;{%raw%}{{result}}{%endraw%}&lt;/ion-item&gt;
+					&lt;ion-item ng-repeat=&quot;result in results&quot;&gt;{% raw %}{{result}{% endraw %}}&lt;/ion-item&gt;
 				&lt;/ion-list&gt;
 				
       &lt;/ion-content&gt;
@@ -370,7 +371,7 @@ angular.module('starter', ['ionic'])
 			$scope.pic = fileUri;
 			$scope.results = [];
 
-			$ionicLoading.show({template:'Sending to Watson...'});
+			$ionicLoading.show({% raw %}{template:'Sending to Watson...'}{% endraw %});
 						
 			//So now we upload it
 			var options = new FileUploadOptions();

@@ -5,6 +5,7 @@ date: "2015-01-30T05:59:53+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/01/30/latest-firefox-adds-storage-to-developer-tools
 ---
 
 I try to keep track of what all the browsers add to their developer tools, but somehow I missed this. In a recent Firefox update, they finally added a "Storage" tab to the developer tools. For some reason, this tab was deselected in my Firefox. I only knew it existed when I opened up the options looking for something else.

@@ -5,6 +5,7 @@ date: "2015-05-27T06:15:05+06:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2015/05/27/best-voice-recognition-fail-ever
 ---
 
 So yesterday I flew, or, rather, attempted to fly, since apparently the weather forecast was apocalypse and I didn't now it. I actually made it to Texas, but my flight to Madison was canceled there. American Airlines rang me with a robo call to my Google Voice number, and Google helpfully parsed their audio into text for me:

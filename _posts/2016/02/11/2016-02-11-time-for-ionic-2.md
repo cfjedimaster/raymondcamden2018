@@ -5,6 +5,7 @@ date: "2016-02-11T15:53:00-07:00"
 categories: Development Mobile 
 tags: Ionic
 banner_image: /images/banners/ionic2beta.png
+permalink: /2016/02/11/time-for-ionic-2
 ---
 
 A few weeks ago I wrote about my experience looking into Angular 2 ([Time for Angular 2?](http://www.raymondcamden.com/2016/01/18/time-for-angular-2/)). I haven't had a chance to dig deeper into Angular 2 since then but it is still high on my list to get more familiar with over the year. About a week and a half ago I had pleasure of meeting [Mike Hartington](http://mhartington.io/) from the Ionic team at PhoneGap Day. I sat in his Ionic 2 workshop and came out convinced it was time to give it a try as well. And of course, just a few days later the Ionic folks released the [beta version of 2.0](http://blog.ionic.io/announcing-ionic-framework-2-beta/). It is definitely beta, but I was able to build an *incredibly* simple app with it (after some help from Mike and others) and I thought I'd share my experience.
@@ -52,7 +53,7 @@ Home
 
 &lt;ion-content&gt;
 &lt;ion-list inset&gt;
-&lt;ion-item *ngFor=&quot;#entry of entries&quot; (click)=&quot;openPage(entry)&quot;&gt;{%raw%}{{entry.title}}{%endraw%}&lt;&#x2F;ion-item&gt;
+&lt;ion-item *ngFor=&quot;#entry of entries&quot; (click)=&quot;openPage(entry)&quot;&gt;{% raw %}{{entry.title}{% endraw %}}&lt;&#x2F;ion-item&gt;
 &lt;&#x2F;ion-list&gt;
 &lt;&#x2F;ion-content&gt;
 </code></pre>
@@ -60,9 +61,9 @@ Home
 Nothing really weird here except the new way Angular 2 does attributes/code/etc. But I'm assuming you can figure out what is happening here. Now let's look at the code for this page.
 
 <pre><code class="language-javascript">
-import {Page,NavController} from 'ionic/ionic';
-import {RssService} from '../../providers/rss-service/rss-service';
-import {DetailPage} from '../detail-page/detail-page';
+import {% raw %}{Page,NavController}{% endraw %} from 'ionic/ionic';
+import {% raw %}{RssService}{% endraw %} from '../../providers/rss-service/rss-service';
+import {% raw %}{DetailPage}{% endraw %} from '../detail-page/detail-page';
 
 @Page({
   templateUrl: 'build/pages/home/home.html',
@@ -84,7 +85,7 @@ export class HomePage {
   
   openPage(entry) {
 	  console.log('open page called with '+entry.title);
-	  this.nav.push(DetailPage, {selectedEntry:entry});
+	  this.nav.push(DetailPage, {% raw %}{selectedEntry:entry}{% endraw %});
   }
 
 }
@@ -97,9 +98,9 @@ Also note the navigation in openPage. I don't have to build an app router now. I
 Let's look at the service now. 
 
 <pre><code class="language-javascript">
-import {Injectable} from 'angular2/core';
-import {Http} from 'angular2/http';
-import {Observable} from 'rxjs/Observable';
+import {% raw %}{Injectable}{% endraw %} from 'angular2/core';
+import {% raw %}{Http}{% endraw %} from 'angular2/http';
+import {% raw %}{Observable}{% endraw %} from 'rxjs/Observable';
 import 'rxjs/add/observable/from';
 import 'rxjs/add/operator/map';
 
@@ -114,7 +115,7 @@ import 'rxjs/add/operator/map';
 @Injectable()
 export class RssService {
 
-	url = 'https://query.yahooapis.com/v1/public/yql?q=select%20title%2Clink%2Cdescription%20from%20rss%20where%20url%3D%22http%3A%2F%2Ffeeds.feedburner.com%2Fraymondcamdensblog%3Fformat%3Dxml%22&amp;format=json&amp;diagnostics=true&amp;callback=';
+	url = 'https://query.yahooapis.com/v1/public/yql?q=select{% raw %}%20title%{% endraw %}2Clink{% raw %}%2Cdescription%{% endraw %}20from{% raw %}%20rss%{% endraw %}20where{% raw %}%20url%{% endraw %}3D{% raw %}%22http%{% endraw %}3A{% raw %}%2F%{% endraw %}2Ffeeds.feedburner.com{% raw %}%2Fraymondcamdensblog%{% endraw %}3Fformat{% raw %}%3Dxml%{% endraw %}22&amp;format=json&amp;diagnostics=true&amp;callback=';
 	
 	constructor(http: Http) {
 		this.http = http;
@@ -129,7 +130,7 @@ export class RssService {
 	  /* v2
 	  return Observable.create(s =&gt; {
 
-		this.http.get('https://query.yahooapis.com/v1/public/yql?q=select%20title%2Clink%2Cdescription%20from%20rss%20where%20url%3D%22http%3A%2F%2Ffeeds.feedburner.com%2Fraymondcamdensblog%3Fformat%3Dxml%22&amp;format=json&amp;diagnostics=true&amp;callback=').subscribe(res =&gt; {
+		this.http.get('https://query.yahooapis.com/v1/public/yql?q=select{% raw %}%20title%{% endraw %}2Clink{% raw %}%2Cdescription%{% endraw %}20from{% raw %}%20rss%{% endraw %}20where{% raw %}%20url%{% endraw %}3D{% raw %}%22http%{% endraw %}3A{% raw %}%2F%{% endraw %}2Ffeeds.feedburner.com{% raw %}%2Fraymondcamdensblog%{% endraw %}3Fformat{% raw %}%3Dxml%{% endraw %}22&amp;format=json&amp;diagnostics=true&amp;callback=').subscribe(res =&gt; {
 			console.log('in sub');
 			console.dir(s);
 			var result = res.json().query.results.item;
@@ -142,7 +143,7 @@ export class RssService {
 	*/	
 
 	// Static version	  
-	//	  let data = [{title:&quot;do one&quot;},{title:&quot;do two&quot;},{title:&quot;three&quot;}];
+	//	  let data = [{% raw %}{title:&quot;do one&quot;}{% endraw %},{% raw %}{title:&quot;do two&quot;}{% endraw %},{% raw %}{title:&quot;three&quot;}{% endraw %}];
 	//	  return Observable.from(data);
 
 	
@@ -158,7 +159,7 @@ The detail page is pretty trivial as well. Here is the view:
 
 <pre><code class="language-markup">
 &lt;ion-navbar *navbar&gt;
-  &lt;ion-title&gt;{%raw%}{{entry.title}}{%endraw%}&lt;/ion-title&gt;
+  &lt;ion-title&gt;{% raw %}{{entry.title}{% endraw %}}&lt;/ion-title&gt;
 &lt;/ion-navbar&gt;
 
 &lt;ion-content padding class=&quot;detail-page&quot;&gt;
@@ -169,7 +170,7 @@ The detail page is pretty trivial as well. Here is the view:
 That last bit, `[innerHTML]=`, is how you handle rendering HTML in Angular since it is *still* a pain in the rear about it. (Yes, I know there are reasons, and yes, it still bugs me.) The code for the page just picks up the passed in data. Again - this is really super easy I think.
 
 <pre><code class="language-javascript">
-import {Page,NavController,NavParams} from 'ionic/ionic';
+import {% raw %}{Page,NavController,NavParams}{% endraw %} from 'ionic/ionic';
 
 @Page({
   templateUrl: 'build/pages/detail-page/detail-page.html'

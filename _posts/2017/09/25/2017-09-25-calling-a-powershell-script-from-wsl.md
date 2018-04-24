@@ -5,6 +5,7 @@ date: "2017-09-25T13:04:00-07:00"
 categories: Development 
 tags: windows
 banner_image: 
+permalink: /2017/09/25/calling-a-powershell-script-from-wsl
 ---
 
 Just a quick post to share a few things I learned this morning about PowerShell scripts and Windows Subsystem for Linux. I was trying to find a CLI way to set my screen resolution. I'm going to be recording some videos and wanted a quicker way to enter the right resolution, and then return.

@@ -5,6 +5,7 @@ date: "2016-12-02T09:30:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/02/advent-of-code-day-2
 ---
 
 The second day's challenge for [Advent of Code](http://adventofcode.com/) was a bit easier than the first, so it was nice to tackle it a bit quicker. The puzzle involves a set of directions for moving your fingers over a numeric keypad. Imagine a typical security keypad layed out like so:

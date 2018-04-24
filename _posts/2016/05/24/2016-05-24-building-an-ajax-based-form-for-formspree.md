@@ -5,6 +5,7 @@ date: "2016-05-24T18:50:00-07:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/05/24/building-an-ajax-based-form-for-formspree
 ---
 
 Back when I converted my site from WordPress to Hugo, one of the issues I had to take care of was setting up a processor for my contact form. I decided to go with [Formspree](https://formspree.io) as their free tier easily handled the amount of form submissions I got per month. While most folks will use Formspree with a "regular" old form post, you can also use a fancy-pants Ajax submission as well. The Formspree folks document this, but their example is rather short, and when I was asked by someone on the Surge Slack about a full example, I decided to whip something up.

@@ -5,6 +5,7 @@ date: "2018-02-14"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/cavegame.jpg
+permalink: /2018/02/14/building-a-text-based-adventure-in-vuejs
 ---
 
 <strong>Note - I found a bug with the room description that was fixed in a later build. Sorry about that!</strong> Happy Valentines Day! Today I'm showing my love for Vue.js by building something totally impractical and fun - a text-based adventure in Vue.js. As a child of 80s, I grew up playing text-based games from Infocom. In fact, to this day I still say that some of the most interesting games ever created were done by Infocom. My favorite? "A Mind Forever Voyaging"
@@ -76,13 +77,13 @@ Each room has a unique ID. This is used to allow one room to 'target' another fo
 			</div><div v-else>
 				<div id="roomDesc" v-if="room">
 					<p>
-					{%raw%}{{roomDesc}}{%endraw%}
+					{% raw %}{{roomDesc}{% endraw %}}
 					</p>
 
 					<p v-if="room.exits.length > 1">
-						You see exits to the {%raw%}{{ room.exits | exitDesc}}{%endraw%}.
+						You see exits to the {% raw %}{{ room.exits |{% endraw %} exitDesc}}.
 					</p><p v-else>
-						You see an exit to the {%raw%}{{ room.exits | exitDesc }}{%endraw%}.
+						You see an exit to the {% raw %}{{ room.exits |{% endraw %} exitDesc }}.
 					</p>
 				</div>
 				<div id="cli">

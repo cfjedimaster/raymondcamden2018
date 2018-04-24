@@ -5,6 +5,7 @@ date: "2015-12-16T14:49:58+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/12/16/my-first-extension-for-visual-studio-code-csslint
 ---
 
 Well, it took a while, but I finally got around to writing my first extension for <a href="http://code.visualstudio.com">Visual Studio Code</a>. As I've said a few times recently, VS Code is my new favorite editor now that Brackets seems to be on the back burner at Adobe. (And ok, maybe it isn't. But VSC is faster, updated more often, and seems to have a lot more energy behind it.) I will say that the process for writing extensions for VS Code (<a href="https://code.visualstudio.com/docs/extensions/overview">documentation</a>) is somewhat... complicated. To be fair, extensions for Brackets at first were a bit difficult at first too. But right now I'd say I understood about 1/2 of what I was doing when building this. It is fragile as heck so use with extreme caution. So how does it look?

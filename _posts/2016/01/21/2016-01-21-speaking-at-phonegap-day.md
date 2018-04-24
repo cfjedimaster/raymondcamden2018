@@ -5,6 +5,7 @@ date: "2016-01-21T08:02:27-06:00"
 categories: Mobile 
 tags: Cordova
 banner_image: /images/2016/01/PhoneGap_Day_2016.png
+permalink: /2016/01/21/speaking-at-phonegap-day
 ---
 
 I'm a bit late on announcing this, but next week I'll be speaking at the 2016 [PhoneGap Day](http://pgday.phonegap.com/us2016/) in Lehi, Utah. Unfortunately tickets are sold out, but if get a chance to attend next year, I highly recommend it. PhoneGap Day is an

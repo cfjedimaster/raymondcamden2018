@@ -5,6 +5,7 @@ date: "2018-03-29"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/book.jpg
+permalink: /2018/03/29/reminder-on-file-inputs-javascript-and-read-access
 ---
 
 Let me begin by stating that what I'm covering today isn't actually new. It's stuff I've covered here before. But after a conversation with a reader via email I had to write up a quick test to confirm it myself. I don't believe this is a security issue, but I was kinda surprised and therefore I figured it was best to whip up a quick blog post.

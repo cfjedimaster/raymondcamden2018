@@ -5,6 +5,7 @@ date: "2016-05-27T08:32:00-07:00"
 categories: Development Mobile 
 tags: nativescript
 banner_image: 
+permalink: /2016/05/27/working-on-my-nativescript-rss-application
 ---
 
 A few days ago I [blogged](https://www.raymondcamden.com/2016/05/23/a-simple-rss-reader-in-nativescript/) about my experiences building a simple RSS reader with [NativeScript](https://www.nativescript.org/). Today I'm coming back to the application to take care of two problems I mentioned in the previous post.
@@ -118,11 +119,11 @@ Woot! Ok, now for the next change. Some RSS feeds only provide a snippet of text
 &lt;Page xmlns=&quot;http://schemas.nativescript.org/tns.xsd&quot; navigatingTo=&quot;loaded&quot;&gt;
 
 	&lt;Page.actionBar&gt;
-		&lt;ActionBar title=&quot;{%raw%}{{ title }}{%endraw%}&quot; /&gt;
+		&lt;ActionBar title=&quot;{% raw %}{{ title }{% endraw %}}&quot; /&gt;
 	&lt;/Page.actionBar&gt;
 	&lt;GridLayout rows=&quot;*,auto&quot;&gt;
 		&lt;ScrollView&gt;
-			&lt;HtmlView html=&quot;{%raw%}{{ text }}{%endraw%}&quot; /&gt;
+			&lt;HtmlView html=&quot;{% raw %}{{ text }{% endraw %}}&quot; /&gt;
 		&lt;/ScrollView&gt;
 		&lt;Button text=&quot;Open in Browser&quot; class=&quot;openButton&quot; row=&quot;1&quot; tap=&quot;openURL&quot; /&gt;
 	&lt;/GridLayout&gt;

@@ -5,6 +5,7 @@ date: "2017-12-11"
 categories: Serverless 
 tags: openwhisk javascript
 banner_image: 
+permalink: /2017/12/11/adding-referrer-protection-to-openwhisk-actions
 ---
 
 Today I was thinking about what it would take to add referrer-style protection to an OpenWhisk API. What I mean by that is the ability to say that a particular API can only be called from certain domains. To be clear, this is *not* secure in any "real" fashion. This Stack Overflow question does a great job of addressing why not: ["Does referrer header checking offer any real world security improvement?"](https://security.stackexchange.com/questions/66165/does-referrer-header-checking-offer-any-real-world-security-improvement) However, I do think it can help prevent *some* misuse, and perhaps even help prevent accidental versus malicious misuse. As long as you keep in mind that this is *minimally* protective, then I think you will be fine. Also note that you should look into the [API Gateway](https://console.bluemix.net/docs/openwhisk/openwhisk_apigateway.html#openwhisk_apigateway) feature for more ways to lock down your APIs. Ok, with that out of the way, let's look at how this could be implemented.
@@ -13,7 +14,7 @@ First off - when an OpenWhisk action is enabled for web usage, you automatically
 
 <pre><code class="language-javascript">function main(args) {
 
-    return { arguments: args };
+    return {% raw %}{ arguments: args }{% endraw %};
 
 }
 </code></pre>
@@ -37,7 +38,7 @@ I then enabled it as a web action and built a web page to call it:
     &lt;script&gt;
     document.addEventListener(&#x27;DOMContentLoaded&#x27;, init);
     function init() {
-        fetch(&#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden%40us.ibm.com_My%20Space&#x2F;safeToDelete&#x2F;webecho.json&#x27;)
+        fetch(&#x27;https:&#x2F;&#x2F;openwhisk.ng.bluemix.net&#x2F;api&#x2F;v1&#x2F;web&#x2F;rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space&#x2F;safeToDelete&#x2F;webecho.json&#x27;)
         .then(res =&gt; res.json())
         .then(res =&gt; {
             document.querySelector(&#x27;#result&#x27;).innerHTML = JSON.stringify(res,null, &#x27;\t&#x27;);
@@ -81,7 +82,7 @@ As you can see, under `__ow_headers.referer` I have access to the page where the
 function main(args) {
 
     if(safeCaller(args.__ow_headers.referer)) {
-        return { arguments: args };
+        return {% raw %}{ arguments: args }{% endraw %};
     } else {
         throw new Error(&#x27;Invalid Referer&#x27;);
     }
@@ -121,7 +122,7 @@ function main(args) {
     });
 
     if(ok) {
-        return { args:args };
+        return {% raw %}{ args:args }{% endraw %};
     } else {
         throw new Error('Invalid Referrer');
     }

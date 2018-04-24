@@ -5,6 +5,7 @@ date: "2015-03-23T09:42:58+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic mobilefirst
 banner_image: 
+permalink: /2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework
 ---
 
 <strong>Edit on March 30, 2015: Please see my follow up here for a few small tweaks: <a href="http://www.raymondcamden.com/2015/03/30/working-with-ibm-mobile-first-and-ionic-a-follow-up">Working with IBM Mobile First and Ionic – a follow up</a></strong>
@@ -154,13 +155,13 @@ We need to do one more small tweak. When using Ionic and a "regular" Cordova pro
 	&#x2F;&#x2F;enableFIPS : false,
 	
 	&#x2F;&#x2F; # The options of busy indicator used during application start up
-	&#x2F;&#x2F;busyOptions: {text: &quot;Loading...&quot;}
+	&#x2F;&#x2F;busyOptions: {% raw %}{text: &quot;Loading...&quot;}{% endraw %}
 };
 
 if (window.addEventListener) {
-	window.addEventListener(&#x27;load&#x27;, function() { WL.Client.init(wlInitOptions); }, false);
+	window.addEventListener(&#x27;load&#x27;, function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %}, false);
 } else if (window.attachEvent) {
-	window.attachEvent(&#x27;onload&#x27;,  function() { WL.Client.init(wlInitOptions); });
+	window.attachEvent(&#x27;onload&#x27;,  function() {% raw %}{ WL.Client.init(wlInitOptions); }{% endraw %});
 }
 
 function wlCommonInit(){

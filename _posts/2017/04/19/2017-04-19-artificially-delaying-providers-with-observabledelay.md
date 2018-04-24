@@ -5,6 +5,7 @@ date: "2017-04-19T16:44:00-07:00"
 categories: JavaScript 
 tags: ionic
 banner_image: 
+permalink: /2017/04/19/artificially-delaying-providers-with-observabledelay
 ---
 
 I'm still - grudgingly - making use of Observables in Ionic 2. As I've said before, I don't see anything wrong with Observables, I just find them overly complex and a pain to use. Half the time I get them working right it's because I've copied and pasted another example. I would say - easily - that out of all the changes with Ionic and Angular 2 (sorry, 4, um, whatever) it's Observables that I've had the hardest time adopting.
@@ -19,20 +20,20 @@ It's a cool little addition to the dev tool suite, but there's one problem with 
 
 So - on a whim - I did some searching, and discovered that Observables support a `delay` operation. It just delays the output from the observable. Yeah, that's it. Certainly not rocket science or anything, but it's also super easy to use. Consider this provider:
 
-<pre><code class="language-javascript">import { Injectable } from &#x27;@angular&#x2F;core&#x27;;
-import { Http } from &#x27;@angular&#x2F;http&#x27;;
-import { Observable } from &#x27;rxjs&#x27;;
+<pre><code class="language-javascript">import {% raw %}{ Injectable }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Http }{% endraw %} from &#x27;@angular&#x2F;http&#x27;;
+import {% raw %}{ Observable }{% endraw %} from &#x27;rxjs&#x27;;
 import &#x27;rxjs&#x2F;add&#x2F;operator&#x2F;map&#x27;;
 
 @Injectable()
 export class Data {
 
  public cats:Array&lt;Object&gt; = [
-   {name:&#x27;Luna&#x27;, lastRating:new Date(2016, 11, 2 ,9, 30)},
-   {name:&#x27;Pig&#x27;, lastRating:new Date(2016, 11, 12, 16,57)},
-   {name:&#x27;Cracker&#x27;, lastRating:new Date(2016, 10, 29, 13, 1)},
-   {name:&#x27;Robin&#x27;, lastRating:new Date(2016, 11, 19, 5, 42)},
-   {name:&#x27;Simba&#x27;, lastRating:new Date(2016, 11, 18, 18, 18)}
+   {% raw %}{name:&#x27;Luna&#x27;, lastRating:new Date(2016, 11, 2 ,9, 30)}{% endraw %},
+   {% raw %}{name:&#x27;Pig&#x27;, lastRating:new Date(2016, 11, 12, 16,57)}{% endraw %},
+   {% raw %}{name:&#x27;Cracker&#x27;, lastRating:new Date(2016, 10, 29, 13, 1)}{% endraw %},
+   {% raw %}{name:&#x27;Robin&#x27;, lastRating:new Date(2016, 11, 19, 5, 42)}{% endraw %},
+   {% raw %}{name:&#x27;Simba&#x27;, lastRating:new Date(2016, 11, 18, 18, 18)}{% endraw %}
    ];
 
   constructor() {

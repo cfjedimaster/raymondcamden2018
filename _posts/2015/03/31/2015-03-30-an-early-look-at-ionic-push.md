@@ -5,6 +5,7 @@ date: "2015-03-31T10:31:18+06:00"
 categories: Development Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/03/31/an-early-look-at-ionic-push
 ---
 
 Before I begin - please, please, <i>please</i> make note of the date of this post (March 30, 2015). As the title says, this is an <strong>early</strong> look at a new feature <a href="http://ionicframework.com">Ionic</a> is adding. The feature is changing quite rapidly (it has already changed a bit since I wrote my demo!) so be sure to check the docs for the latest information. With that out of the way, let's take a look at Ionic Push.
@@ -100,7 +101,7 @@ Ok - so at this point - you can test on a device (this may be obvious, but I swe
 
 You want to copy out that device token because testing, currently, is done via CLI. Ionic will be adding a proper dashboard soon, but at the moment, sending a push notification requires using curl:
 
-<pre><code>curl -u 3ec834b08thisisecretf53: -H "Content-Type: application/json" -H "X-Ionic-Application-Id: myappid" https://push.ionic.io/api/v1/push -d '{"tokens":["devicetoken"],"notification":{"alert":"MOAR KITTENS!"}}'</code></pre>
+<pre><code>curl -u 3ec834b08thisisecretf53: -H "Content-Type: application/json" -H "X-Ionic-Application-Id: myappid" https://push.ionic.io/api/v1/push -d '{% raw %}{"tokens":["devicetoken"],"notification":{"alert":"MOAR KITTENS!"}{% endraw %}}'</code></pre>
 
 <a href="http://www.raymondcamden.com/wp-content/uploads/2015/03/i6.png"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/03/i6.png" alt="i6" width="450" height="800" class="alignnone size-full wp-image-5923" /></a>
 

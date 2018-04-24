@@ -5,6 +5,7 @@ date: "2017-07-31T07:48:00-07:00"
 categories: JavaScript 
 tags: development
 banner_image: 
+permalink: /2017/07/31/online-presentation-developing-in-javascript-in-2017
 ---
 
 Late next month I'll be giving an online, <strong>and free</strong> presentation on JavaScript and how it has changed (and is changing) over the past few years. Basically - if you've been happily writing JavaScript and not been paying attention to some of the rapid changes recently, you may be feeling a bit behind. I'll try my best to explain how things are changing, what ES6/ES7/ES8/ES2017/etc means (in a practical sense), and how to start learning and employing these new features in your day to day code. As I think my readers know, I am certainly <strong>not</strong> a JavaScript Ninja. So this will be very much a "How I see it" style presentation focused on what I've found to be useful and where I turn to for help.

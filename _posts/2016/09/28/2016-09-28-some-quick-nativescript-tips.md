@@ -5,6 +5,7 @@ date: "2016-09-28T13:10:00-07:00"
 categories: Development 
 tags: nativescript
 banner_image: /images/banners/nativescript.png
+permalink: /2016/09/28/some-quick-nativescript-tips
 ---
 
 After attending (and rather enjoying) [NativeScript Developer Day](http://developerday.nativescript.org/) last week, I'm trying to get back up to speed with NativeScript development. I've got some demos planned for integration with IBM services that I think will be pretty interesting, but I'm a bit rusty so I'm going through the docs again before I leap into making a new app. I ran into a few things today that are 100% documented, well known, etc, but still tripped me up, so I figured I'd document it purely for my own sake. All of the stuff below I figured out by first screwing it up and then getting help from [Brad Martin](http://bradmartin.net). Thanks Brad!

@@ -5,6 +5,7 @@ date: "2017-06-20T11:54:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/06/20/enabling-api-management-for-serverless-with-openwhisk
 ---
 
 I've shared more than a few examples of OpenWhisk APIs that I've shared with API management but I haven't actually detailed what that process is like. Today I'm going to review what exactly it is, how you enable it, and how you make use of it. As with most things I say here about OpenWhisk, remember that this is still fairly new and some of the details will probably change in the future. 
@@ -56,10 +57,10 @@ Before we go any further, let's build a simple action we can then manage with th
 
 function main(args) {
   
-  if(!args.input) return { error:&#x27;Input argument required.&#x27;};
+  if(!args.input) return {% raw %}{ error:&#x27;Input argument required.&#x27;}{% endraw %};
 
 	let result = piglatin(args.input);
-	return { result:result};
+	return {% raw %}{ result:result}{% endraw %};
 
 }
 </code></pre>

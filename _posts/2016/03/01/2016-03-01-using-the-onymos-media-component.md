@@ -5,6 +5,7 @@ date: "2016-03-01T08:06:00-07:00"
 categories: Development Mobile 
 tags: Cordova
 banner_image: 
+permalink: /2016/03/01/using-the-onymos-media-component
 ---
 
 One of the more interesting aspects of the rise of hybrid mobile development is the rich ecosystem

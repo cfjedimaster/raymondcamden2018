@@ -5,6 +5,7 @@ date: "2017-08-09T10:38:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2017/08/09/career-advice-for-a-new-web-dev
 ---
 
 So a few days ago, I sent out a simple tweet:

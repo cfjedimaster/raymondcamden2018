@@ -5,6 +5,7 @@ date: "2016-02-18T14:23:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/02/18/creating-an-unread-count-for-a-static-site
 ---
 
 Lately I've noticed some sites will include a little "unread" icon for their blog, showing you how many new articles they have since your last visit. As an example, here is how the [Apache Cordova](http://cordova.apache.org) displays it in their header:
@@ -57,7 +58,7 @@ function getUnReadCount(cb) {
 	if(!lastvisit) return cb(0);
 		
 	&#x2F;&#x2F;ok, get the RSS
-	var yql = &quot;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select%20*from%20rss%20where%20url%3D%22http%3A%2F%2Ffeeds.feedburner.com%2Fraymondcamdensblog%3Fformat%3Dxml%22&amp;format=json&amp;diagnostics=true&amp;callback=&quot;;
+	var yql = &quot;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select{% raw %}%20*from%{% endraw %}20rss{% raw %}%20where%{% endraw %}20url{% raw %}%3D%{% endraw %}22http{% raw %}%3A%{% endraw %}2F{% raw %}%2Ffeeds.feedburner.com%{% endraw %}2Fraymondcamdensblog{% raw %}%3Fformat%{% endraw %}3Dxml%22&amp;format=json&amp;diagnostics=true&amp;callback=&quot;;
     
 	var unread = 0;
     $.getJSON(yql, function(res) {
@@ -105,7 +106,7 @@ function getUnReadCount(cb) {
 	if(!lastvisit) return cb(0);
 		
 	&#x2F;&#x2F;ok, get the RSS
-	var yql = &quot;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select%20*from%20rss%20where%20url%3D%22http%3A%2F%2Ffeeds.feedburner.com%2Fraymondcamdensblog%3Fformat%3Dxml%22&amp;format=json&amp;diagnostics=true&amp;callback=&quot;;
+	var yql = &quot;https:&#x2F;&#x2F;query.yahooapis.com&#x2F;v1&#x2F;public&#x2F;yql?q=select{% raw %}%20*from%{% endraw %}20rss{% raw %}%20where%{% endraw %}20url{% raw %}%3D%{% endraw %}22http{% raw %}%3A%{% endraw %}2F{% raw %}%2Ffeeds.feedburner.com%{% endraw %}2Fraymondcamdensblog{% raw %}%3Fformat%{% endraw %}3Dxml%22&amp;format=json&amp;diagnostics=true&amp;callback=&quot;;
     
 	var unread = 0;
     $.getJSON(yql, function(res) {

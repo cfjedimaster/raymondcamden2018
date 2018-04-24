@@ -5,6 +5,7 @@ date: "2017-04-13T12:51:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/04/13/a-tip-for-zipped-actions-and-packages-in-openwhisk
 ---
 
 Just a quick tip to share today. I talked about [zipped actions](https://www.raymondcamden.com/2017/01/10/creating-packaged-actions-in-openwhisk) a few months ago. It's how you handle adding non-supported npm modules with OpenWhisk. While OpenWhisk supports a good set of common/popular npm modules out of the box, if you want to use one that isn't on that list, you:

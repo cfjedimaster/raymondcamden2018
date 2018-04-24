@@ -5,6 +5,7 @@ date: "2017-01-18T09:24:00-07:00"
 categories: Serverless Mobile 
 tags: openwhisk ionic
 banner_image: /images/banners/marvelow2.jpg
+permalink: /2017/01/18/all-my-friends-are-superheroes
 ---
 
 A few weeks back I created an [incredibly practical and not silly at all](https://www.raymondcamden.com/2016/12/12/working-with-ionic-native-contact-fixer) application
@@ -14,7 +15,7 @@ was to simply give them a random cat picture. That seems totally sensible, right
 <img src="https://static.raymondcamden.com/images/2016/12/ahbig.png" alt="This is practical" class="imgborder">
 
 I was thinking about this during the weekend and it occured to me that there is an even *cooler* way we
-could fix our friends - by turning them all into superheros with the [Marvel API](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj4zLi5gczRAhWCyyYKHftMB1EQFggcMAA&url=https%3A%2F%2Fdeveloper.marvel.com%2F&usg=AFQjCNFdznPhIoBwlyArBBv4VUdOlayoaA&sig2=vCy0rkX7mzLTp3bEnEP9Eg). I've built a few apps with this API in the past (I'll link to them at the end) and I knew it
+could fix our friends - by turning them all into superheros with the [Marvel API](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj4zLi5gczRAhWCyyYKHftMB1EQFggcMAA&url=https{% raw %}%3A%{% endraw %}2F{% raw %}%2Fdeveloper.marvel.com%{% endraw %}2F&usg=AFQjCNFdznPhIoBwlyArBBv4VUdOlayoaA&sig2=vCy0rkX7mzLTp3bEnEP9Eg). I've built a few apps with this API in the past (I'll link to them at the end) and I knew it
 had an API for returning characters. I thought - why not simply select a random character from the API and assign it to each 
 of my contacts without a picture?
 
@@ -120,7 +121,7 @@ Contacts.find([&quot;name&quot;]).then((res) =&gt; {
 			contact.nickname = res.name;
 
 			if(!contact.urls) contact.urls = [];
-			contact.urls.push({type:&quot;other&quot;,value:res.url});
+			contact.urls.push({% raw %}{type:&quot;other&quot;,value:res.url}{% endraw %});
 
 			console.log(&#x27;FIXED &#x27;+contact.name.formatted);
 			contact.save();
@@ -148,7 +149,7 @@ Contacts.find([&quot;name&quot;]).then((res) =&gt; {
 			subTitle = &quot;Sorry, but every single one of your contacts had a picture. I did nothing.&quot;;
 			button = &quot;Sad Face&quot;;
 		} else {
-			subTitle = `I&#x27;ve updated ${fixed} contact(s). Enjoy!`;
+			subTitle = `I&#x27;ve updated ${% raw %}{fixed}{% endraw %} contact(s). Enjoy!`;
 			button = &quot;Awesome&quot;;      
 		}
 
@@ -169,8 +170,8 @@ converting the image to base64 for storage on the phone. (And that's probably a 
 same. I call the API in this simple provider:
 
 <pre><code class="language-javascript">
-import { Injectable } from &#x27;@angular&#x2F;core&#x27;;
-import { Http } from &#x27;@angular&#x2F;http&#x27;;
+import {% raw %}{ Injectable }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Http }{% endraw %} from &#x27;@angular&#x2F;http&#x27;;
 import &#x27;rxjs&#x2F;add&#x2F;operator&#x2F;map&#x27;;
 import &#x27;rxjs&#x2F;add&#x2F;operator&#x2F;toPromise&#x27;;
 

@@ -5,6 +5,7 @@ date: "2015-09-11T20:22:23+06:00"
 categories: Development 
 tags: harpjs
 banner_image: 
+permalink: /2015/09/11/working-with-directories-and-harpjs
 ---
 
 First off - a quick apology. The blogging here has been <i>extremely</i> slow over the past few weeks. Two weeks ago I was in Australia and New Zealand. This week I've been in Malaysia, Singapore, and Manila. I'm writing this post in Hong Kong as I wait to board my 14 hour flight back to Texas. (Yes, I'm looking forward to Texas, imagine that.) I don't normally travel this much so I've been pretty much exhausted for the past three weeks. It has been an incredible experience, and I got to really work on some presentations too, but I'm definitely ready to go home and stay home for a while. 
@@ -22,7 +23,7 @@ I want to point out a few things. Note that there is a root level _harp.json fil
 <pre><code class="language-markup">h1 Welcome to Harp.
 h3 This is yours to own. Enjoy.
 
-pre #{ JSON.stringify(public, null, '\t') }</code></pre>
+pre #{% raw %}{ JSON.stringify(public, null, '\t') }{% endraw %}</code></pre>
 
 Here is how it looks for my sample structure above:
 

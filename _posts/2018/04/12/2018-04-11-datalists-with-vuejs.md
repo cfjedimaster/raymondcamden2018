@@ -5,6 +5,7 @@ date: "2018-04-12"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/code.jpg
+permalink: /2018/04/12/datalists-with-vuejs
 ---
 
 This isn't necessarily a very exciting post, but a few days back someone asked me about integrating Vue.js with [datalist](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist) tags. The datalist tag is one of my favorite HTML tags and something I've [blogged about a few times](https://www.raymondcamden.com/search/?q=datalist) in the past. If you aren't familiar with it, it basically provides a "autosuggest" style experience to an input tag. 
@@ -30,7 +31,7 @@ Basically - you create a `<datalist>` element and supply options. You then take 
 <div id="app">
   <input type="text" v-model="film" list="films">
   <datalist id="films">
-    <option v-for="film in films">{%raw%}{{film}}{%endraw%}</option>
+    <option v-for="film in films">{% raw %}{{film}{% endraw %}}</option>
   </datalist>
 </div>
 ```

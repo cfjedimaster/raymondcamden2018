@@ -5,6 +5,7 @@ date: "2015-08-20T15:02:36+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/08/20/chrome-console-and-urls-watch-out
 ---
 
 Ok, this isn't necessarily a huge bug, but it surprised me and was very subtle so I want to make sure folks know about it. Honestly, I don't care if Google corrects this (I can think of other dev tools things I wanted tweaked), but as I said, I want to make some noise in case other people run into it as well.

@@ -5,6 +5,7 @@ date: "2017-04-21T10:37:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/04/21/integrating-html-templating-with-openwhisk-web-actions
 ---
 
 As always, when I blog about stuff like this, I want to remind folks I'm both new to serverless and new to OpenWhisk, so while what follows *works*, I'm not necessarily saying it is the best way to do things, or even a good idea. But let's be honest, that's never stopped me before, right?
@@ -38,7 +39,7 @@ function main(args) {
 
 	let html = template(data);
 
-	return { body:html };
+	return {% raw %}{ body:html }{% endraw %};
 }
 
 exports.main = main;
@@ -57,22 +58,22 @@ The template is rather simple:
 &lt;html&gt;
 	&lt;head&gt;
 		&lt;meta charset=&quot;utf-8&quot;&gt;
-		&lt;title&gt;{%raw%}{{title}}{%endraw%}&lt;&#x2F;title&gt;
+		&lt;title&gt;{% raw %}{{title}{% endraw %}}&lt;&#x2F;title&gt;
 		&lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
 		&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
 	&lt;&#x2F;head&gt;
 	&lt;body&gt;
 
-		&lt;h2&gt;{%raw%}{{title}}{%endraw%}&lt;&#x2F;h2&gt;
+		&lt;h2&gt;{% raw %}{{title}{% endraw %}}&lt;&#x2F;h2&gt;
 		
 		&lt;p&gt;
 			I&#x27;d like to thank the following cats for making everything possible:
 		&lt;&#x2F;p&gt;
 
 		&lt;ul&gt;
-			{%raw%}{{#each cats}}{%endraw%}
-			&lt;li&gt;{%raw%}{{.}}{%endraw%}&lt;&#x2F;li&gt;
-			{%raw%}{{&#x2F;each}}{%endraw%}
+			{% raw %}{{#each cats}{% endraw %}}
+			&lt;li&gt;{% raw %}{{.}{% endraw %}}&lt;&#x2F;li&gt;
+			{% raw %}{{&#x2F;each}{% endraw %}}
 		&lt;&#x2F;ul&gt;
 	&lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;

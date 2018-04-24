@@ -5,6 +5,7 @@ date: "2016-03-03T09:09:00-07:00"
 categories: Misc 
 tags: 
 banner_image: /images/banners/strongloop_ibm.png
+permalink: /2016/03/03/starting-a-new-role-at-ibm-strongloop-evangelist
 ---
 
 A little over a year ago I [joined](http://www.raymondcamden.com/2015/01/16/new-year-new-job/) IBM as a developer evangelism for the [MobileFirst](https://ibm.biz/IBM-MobileFirst) server. I was incredibly excited to be back as an evangelist after my small taste of it at Adobe. Over the past year I've travelled to multiple countries, spoken in front of hundreds of developers, and have had the great pleasure of introducing people to IBM's mobile offerings. 

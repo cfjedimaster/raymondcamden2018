@@ -5,6 +5,7 @@ date: "2018-01-09"
 categories: Development Serverless 
 tags: javascript vuejs openwhisk nodejs
 banner_image: 
+permalink: /2018/01/09/building-an-openwhisk-activation-poll-with-node-vuejs-and-vuetify
 ---
 
 I've had fun building my own tools to provide additional [OpenWhisk](http://openwhisk.apache.org/) reporting utilities and today I'm releasing another one. If you find it helpful, let me know in the comments below. Even if no one else uses it, it gave me a chance to play with Vue (and Vuetify) so I had fun writing it. 
@@ -66,7 +67,7 @@ app.get('/activations', function(req, res) {
             if(req.query.ts) timestamp = req.query.ts;
             else timestamp = 0;
         }
-        res.send({activations:response,ts:timestamp});
+        res.send({% raw %}{activations:response,ts:timestamp}{% endraw %});
     });
 });
 
@@ -106,8 +107,8 @@ Ok, so now let's get to the front end. As I said, I'm using Vue and Vuetify. Let
 						<h2>Activations</h2>
 						<v-alert v-for="activation in activations" :key="activation.id"
 						:color="activation.success?'success':'error'" value="true" transition="fade-transition" @click="loadActivation(activation)">
-						{%raw%}{{activation.name}}{%endraw%} ran at {%raw%}{{ activation.ts | formatDate }}{%endraw%} in
-						{%raw%}{{activation.duration}}{%endraw%} ms
+						{% raw %}{{activation.name}{% endraw %}} ran at {% raw %}{{ activation.ts |{% endraw %} formatDate }} in
+						{% raw %}{{activation.duration}{% endraw %}} ms
 						</v-alert>
 					</v-flex>
 
@@ -115,7 +116,7 @@ Ok, so now let's get to the front end. As I said, I'm using Vue and Vuetify. Let
 						<h2>Activation</h2>
 						<div v-if="activation">
 
-							<h3>{%raw%}{{activation.name}}{%endraw%} ({%raw%}{{activation.duration}}{%endraw%}ms)</h3>
+							<h3>{% raw %}{{activation.name}{% endraw %}} ({% raw %}{{activation.duration}{% endraw %}}ms)</h3>
 
 							<v-expansion-panel expand>
 								<!-- THANK YOU @zaken in the vuetify discord -->
@@ -123,7 +124,7 @@ Ok, so now let's get to the front end. As I said, I'm using Vue and Vuetify. Let
 								<div slot="header">Response</div>
 								<v-card>
 									<v-card-text>
-										<pre>{%raw%}{{activation.response}}{%endraw%}</pre>
+										<pre>{% raw %}{{activation.response}{% endraw %}}</pre>
 									</v-card-text>
 								</v-card>
 								</v-expansion-panel-content>
@@ -131,7 +132,7 @@ Ok, so now let's get to the front end. As I said, I'm using Vue and Vuetify. Let
 								<div slot="header">Logs</div>
 								<v-card>
 									<v-card-text>
-										<pre>{%raw%}{{activation.logs}}{%endraw%}</pre>
+										<pre>{% raw %}{{activation.logs}{% endraw %}}</pre>
 									</v-card-text>
 								</v-card>
 								</v-expansion-panel-content>
@@ -139,7 +140,7 @@ Ok, so now let's get to the front end. As I said, I'm using Vue and Vuetify. Let
 								<div slot="header">Annotations</div>
 								<v-card>
 									<v-card-text>
-										<pre>{%raw%}{{activation.annotations}}{%endraw%}</pre>
+										<pre>{% raw %}{{activation.annotations}{% endraw %}}</pre>
 									</v-card-text>
 								</v-card>
 								</v-expansion-panel-content>

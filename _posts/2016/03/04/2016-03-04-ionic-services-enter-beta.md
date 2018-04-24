@@ -5,6 +5,7 @@ date: "2016-03-04T06:44:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: /images/banners/ionic_logo.jpg
+permalink: /2016/03/04/ionic-services-enter-beta
 ---
 
 I've done multiple blog posts and presentations on Ionic services, and I'm happy to see that they are (albeit a bit slowly) moving closer to 1.0. While I do not see an "official" launch yet, this week the suite of Ionic services (Push, Analytic, Deploy, Package, and User) all entered Beta. So what's changed?

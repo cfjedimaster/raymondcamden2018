@@ -5,13 +5,14 @@ date: "2017-10-04T10:20:00-07:00"
 categories: Development Serverless 
 tags: alexa openwhisk
 banner_image: 
+permalink: /2017/10/04/rebuilding-a-flex-mobile-app-as-an-alexa-skill
 ---
 
 Many, *many* moons ago I created a ridiculous Flex Mobile app called [TBS Horoscope](https://www.raymondcamden.com/2011/08/28/Latest-Nook-App-TBS-Horoscope/). This was for the Nook platform, eventually moved to Amazon Android App store (where it still sits actually) and one of my few commercial apps. The app was fairly simple. It generated a fake horoscope when an astrological sign was requested and persisted it for the day. That way it would be a bit more "realistic". 
 
 I thought it would be fun to rebuild this for the Amazon Alexa. So I did it. Because I have a great job and I'm very lucky. Before I talk about how I built it, here's a video of it in action.
 
-<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">New Alexa skill - driven by <a href="https://twitter.com/openwhisk?ref_src=twsrc%5Etfw">@openwhisk</a> of course. Previously a Flex Mobile app. <a href="https://t.co/8uloEMRPi4">pic.twitter.com/8uloEMRPi4</a></p>&mdash; Raymond Camden (@raymondcamden) <a href="https://twitter.com/raymondcamden/status/915591923037016064?ref_src=twsrc%5Etfw">October 4, 2017</a></blockquote>
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">New Alexa skill - driven by <a href="https://twitter.com/openwhisk?ref_src=twsrc{% raw %}%5Etfw">@openwhisk</a> of course. Previously a Flex Mobile app. <a href="https://t.co/8uloEMRPi4">pic.twitter.com/8uloEMRPi4</a></p>&mdash; Raymond Camden (@raymondcamden) <a href="https://twitter.com/raymondcamden/status/915591923037016064?ref_src=twsrc%{% endraw %}5Etfw">October 4, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Ok, so how did I build this? I began by creating a service just for the horoscope generation itself. Initially this was going to be its own OpenWhisk action, but I ran into some issues where that wouldn't make sense. I'll explain why later. Here's the code.
@@ -128,7 +129,7 @@ So that's that. The Alexa part is pretty simple. Once again I'll say I'm *not* h
 			}
 		}
 
-		return {response:response};
+		return {% raw %}{response:response}{% endraw %};
 	}
 
 	&#x2F;&#x2F;Default response object

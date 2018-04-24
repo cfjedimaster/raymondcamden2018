@@ -5,6 +5,7 @@ date: "2015-08-31T13:05:59+06:00"
 categories: Development Mobile 
 tags: bluemix cordova ionic
 banner_image: 
+permalink: /2015/08/31/upcoming-ionicbluemix-presentations-in-asia
 ---
 
 After spending last week in Australia and New Zealand (NZ wins for best food and beer), I'll be heading around the planet again next week for more sessions on Apache Cordova, Ionic, and Bluemix. Next week I'll be hitting Kuala Lumpur, Singapore, and Manilla. I've got details for my sessions for the first two cities and will post the Manilla links when I can.

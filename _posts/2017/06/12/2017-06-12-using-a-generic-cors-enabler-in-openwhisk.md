@@ -5,6 +5,7 @@ date: "2017-06-12T14:44:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/06/12/using-a-generic-cors-enabler-in-openwhisk
 ---
 
 Today's post (well, the code and the idea, the writing, warts and all, are all me) comes from a coworker, [Stephen Fink](http://researcher.watson.ibm.com/researcher/view.php?person=us-sjfink). Stephen and I were chatting in Slack about generic utilities, and the idea for a "simply CORS enable an action" utility came up. 

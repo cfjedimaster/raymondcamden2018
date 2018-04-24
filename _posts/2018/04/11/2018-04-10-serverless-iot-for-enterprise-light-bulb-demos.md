@@ -5,6 +5,7 @@ date: "2018-04-11"
 categories: Serverless 
 tags: webtask
 banner_image: /images/banners/lightbulb.jpg
+permalink: /2018/04/11/serverless-iot-for-enterprise-light-bulb-demos
 ---
 
 Before I start, let me state a quick warning. No, this is not an Enterprise demo. Yes, it does involve a light bulb. This post was inspired by Burke Holland's post yesterday on his own light bulb/serverless demo ([Displaying the Weather With Serverless and Colors](https://css-tricks.com/displaying-the-weather-with-serverless-and-colors/)). No, my post is not as cool as his, but yes, I'll share a picture from my office which I *know* is far cooler.
@@ -45,17 +46,17 @@ I popped over to [Webtask.io](https://webtask.io) and created a new empty functi
 const TPLSmartDevice = require('tplink-lightbulb');
 
 /**
-* @param context {WebtaskContext}
+* @param context {% raw %}{WebtaskContext}{% endraw %}
 */
 module.exports = function(context, cb) {
 
   const light = new TPLSmartDevice(context.secrets.ipaddress)
 
-  light.power(true, 2000, { 'brightness':0});
+  light.power(true, 2000, {% raw %}{ 'brightness':0}{% endraw %});
   setTimeout(() => {
-    light.power(true, 2000, { 'brightness':100})
+    light.power(true, 2000, {% raw %}{ 'brightness':100}{% endraw %})
     .then(status => {
-      cb(null, {status:status});
+      cb(null, {% raw %}{status:status}{% endraw %});
     });
   },2100);
   
@@ -75,9 +76,9 @@ const later = delay => new Promise(resolve => setTimeout(resolve, delay))
 const light = new TPLSmartDevice('10.0.0.200')
 
 const main = async () => {
-  await light.power(true, 1000, {brightness: 100})
+  await light.power(true, 1000, {% raw %}{brightness: 100}{% endraw %})
   await delay(1000)
-  await light.power(true, 1000, {brightness: 0})
+  await light.power(true, 1000, {% raw %}{brightness: 0}{% endraw %})
 }
 main()
 ```

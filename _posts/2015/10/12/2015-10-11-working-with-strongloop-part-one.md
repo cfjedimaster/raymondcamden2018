@@ -5,6 +5,7 @@ date: "2015-10-12T10:26:21+06:00"
 categories: Development JavaScript 
 tags: bluemix strongloop
 banner_image: 
+permalink: /2015/10/12/working-with-strongloop-part-one
 ---
 
 A few weeks back when I was shuttling back and forth between this side of the planet and the other, IBM purchased <a href="http://www.strongloop.com">StrongLoop</a>. I'll be honest and say that before this purchase, I had never heard of them. A quick perusal of their home page will tell you this:
@@ -96,7 +97,7 @@ app.start = function() {
     console.log('Web server listening at: %s', baseUrl);
     if (app.get('loopback-component-explorer')) {
       var explorerPath = app.get('loopback-component-explorer').mountPath;
-      console.log('Browse your REST API at %s%s', baseUrl, explorerPath);
+      console.log('Browse your REST API at {% raw %}%s%{% endraw %}s', baseUrl, explorerPath);
     }
   });
 };

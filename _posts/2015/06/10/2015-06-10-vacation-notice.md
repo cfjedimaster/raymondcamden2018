@@ -5,6 +5,7 @@ date: "2015-06-10T20:32:17+06:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2015/06/10/vacation-notice
 ---
 
 Blogging and responding to email will be somewhat slow over the next ten days as my family and I will be on a well deserved vacation. See you on the flip side!

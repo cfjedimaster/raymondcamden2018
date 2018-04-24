@@ -5,6 +5,7 @@ date: "2016-05-16T09:55:00-07:00"
 categories: Development Mobile 
 tags: nativescript
 banner_image: 
+permalink: /2016/05/16/thoughts-on-nativescript-20
 ---
 
 When I began working with mobile development, it was with Adobe Flex Mobile. It was pretty interesting, but we all know where that ended up. Fairly shortly after joining Adobe's developer evangelist program (ditto), Adobe acquired PhoneGap and I began to really dig into the hybrid mobile development platform. I think I've been pretty obvious about my love for it (and [Apache Cordova](http://apache.cordova.org) and [Ionic](http://www.ionicframework.com)) but certainly these are not the only way to build mobile apps. 
@@ -39,15 +40,15 @@ So what's the code like? Let's start with one of the XML files for the view. I'm
 		&lt;/ActionBar&gt;
 	&lt;/Page.actionBar&gt;
     &lt;GridLayout rows=&quot;auto,*&quot; columns=&quot;2*,*&quot;&gt;
-		&lt;TextField id=&quot;grocery&quot; text=&quot;{%raw%}{{ grocery }}{%endraw%}&quot; hint=&quot;Enter a grocery item&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;
+		&lt;TextField id=&quot;grocery&quot; text=&quot;{% raw %}{{ grocery }{% endraw %}}&quot; hint=&quot;Enter a grocery item&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;
 		&lt;Button text=&quot;Add&quot; tap=&quot;add&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;
 
-        &lt;ListView items=&quot;{%raw%}{{ groceryList }}{%endraw%}&quot; id=&quot;groceryList&quot; row=&quot;1&quot; colspan=&quot;2&quot;&gt;
+        &lt;ListView items=&quot;{% raw %}{{ groceryList }{% endraw %}}&quot; id=&quot;groceryList&quot; row=&quot;1&quot; colspan=&quot;2&quot;&gt;
             &lt;ListView.itemTemplate&gt;
-                &lt;Label text=&quot;{%raw%}{{ name }}{%endraw%}&quot; horizontalAlignment=&quot;left&quot; verticalAlignment=&quot;center&quot;/&gt;
+                &lt;Label text=&quot;{% raw %}{{ name }{% endraw %}}&quot; horizontalAlignment=&quot;left&quot; verticalAlignment=&quot;center&quot;/&gt;
             &lt;/ListView.itemTemplate&gt;
         &lt;/ListView&gt;
-		&lt;ActivityIndicator busy=&quot;{%raw%}{{ isLoading }}{%endraw%}&quot; rowSpan=&quot;2&quot; colSpan=&quot;2&quot; /&gt;
+		&lt;ActivityIndicator busy=&quot;{% raw %}{{ isLoading }{% endraw %}}&quot; rowSpan=&quot;2&quot; colSpan=&quot;2&quot; /&gt;
     &lt;/GridLayout&gt;
 &lt;/Page&gt;
 </code></pre>

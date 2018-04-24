@@ -5,6 +5,7 @@ date: "2018-02-28"
 categories: HTML5 JavaScript jQuery 
 tags: 
 banner_image: /images/banners/comicbooks2018.jpg
+permalink: /2018/02/28/building-an-html5-comic-book-reader-in-2018
 ---
 
 Nearly six years ago I [created a demo](https://www.raymondcamden.com/2012/05/29/Building-an-HTML5-Comic-Book-Reader/) of a web-based comic book reader. For those of you who aren't comic book readers, you may not be aware that there are a few standard file formats for digital comics. Way back in 2012 I built a JavaScript-based parser to work with those formats, well one of them, and it actually worked well:
@@ -39,7 +40,7 @@ function handleFile(file) {
 
 	    	var modalString = 'Parsed the CBZ - Saving Images. This takes a <b>long</b> time!';
 	    	$("#statusModalText").html(modalString);
-			$("#statusModal").modal({keyboard:false});
+			$("#statusModal").modal({% raw %}{keyboard:false}{% endraw %});
 
 			console.info('Uncompressing ' + archive.archive_type + ' ...');
 			// filter archive entries to files
@@ -57,7 +58,7 @@ function handleFile(file) {
 					var pString = `
 						Processing images.
 						<div class="progress progress-striped active">
-						<div class="bar" style="width: ${perc}%;"></div>
+						<div class="bar" style="width: ${% raw %}{perc}{% endraw %}%;"></div>
 						</div>
 					`;
 					$("#statusModalText").html(pString);

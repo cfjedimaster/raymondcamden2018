@@ -5,6 +5,7 @@ date: "2017-05-04T09:32:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: 
+permalink: /2017/05/04/new-book-mobile-app-development-with-ionic-2
 ---
 
 Guess what I got my grubby little hands on?

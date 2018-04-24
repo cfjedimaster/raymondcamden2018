@@ -5,9 +5,10 @@ date: "2016-04-27T13:43:00-07:00"
 categories: Development 
 tags: strongloop
 banner_image: /images/banners/loopbak.jpg
+permalink: /2016/04/27/loopback-strongloop-and-api-connect-how-in-the-heck-do-they-relate
 ---
 
-So first and foremost - let me start off by being explicitly clear that what follows is 100% not IBM-approved material at all. Yeah, I work for IBM, but I think folks know that when I blog, I have my own voice and my own way of saying things. I'll include links to all the <strike>boring</strike>official resources for folks who want that side of the story, but what follows is 100% my own words only.
+So first and foremost - let me start off by being explicitly clear that what follows is 100{% raw %}% not IBM-approved material at all. Yeah, I work for IBM, but I think folks know that when I blog, I have my own voice and my own way of saying things. I'll include links to all the <strike>boring</strike>official resources for folks who want that side of the story, but what follows is 100%{% endraw %} my own words only.
 
 <!--more-->
 

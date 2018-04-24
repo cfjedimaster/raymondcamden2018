@@ -5,6 +5,7 @@ date: "2018-01-05"
 categories: Development Serverless 
 tags: javascript vuejs openwhisk
 banner_image: 
+permalink: /2018/01/05/another-example-of-vuejs-and-vuex-an-api-wrapper
 ---
 
 Hi! Welcome to my first post of 2018! If you are a new reader, please consider [subscribing](https://feedburner.google.com/fb/a/mailverify?uri=RaymondCamdensBlog) to my blog feed and leaving me a comment below! A few weeks back I blogged about my first experience using Vue.js and Vuex: ["An Example of Vuex and State Management for Vue.js"](https://www.raymondcamden.com/2017/12/20/an-example-of-vuex-and-state-management-for-vuejs/). One of things I mentioned in that post was how my mental model for [Vuex](https://vuex.vuejs.org/en/) was Angular's Provider feature. It's definitely not the *best* mental model, but it's how I'm thinking about it for now. One of the biggest differences that I can see is that in Vuex you get the ability to automatically update your components with new data. Everything is kept in sync with little to no work on your part. That's a big difference compared to Providers, but I'm not an Angular expert and that may be something natively supported. 
@@ -33,15 +34,15 @@ I began by creating the demo without Vuex at all. Let's begin by looking at the 
       <p><i>Click the cover to find similar books...</i></p>
       <div v-for="book in books" class="bookResult">
         <img :src="book.image_url" class="bookResult" @click="findSimilar(book)">
-        {%raw%}{{book.title}}{%endraw%}
+        {% raw %}{{book.title}{% endraw %}}
       </div>
     </div>
 
     <div v-if="relatedBooks.length">
-      <h2>Books Related to {%raw%}{{ selectedBook.title }}{%endraw%}</h2>
+      <h2>Books Related to {% raw %}{{ selectedBook.title }{% endraw %}}</h2>
       <div v-for="book in relatedBooks" class="bookResult">
         <img :src="book.image_url" class="bookResult" @click="findSimilar(book)">
-        {%raw%}{{book.title}}{%endraw%}
+        {% raw %}{{book.title}{% endraw %}}
       </div>
     </div>
 
@@ -69,7 +70,7 @@ const app = new Vue({
       this.books = [];
       this.relatedBooks = [];
       console.log('search for '+this.search);
-      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/goodreads/search.json?search=${encodeURIComponent(this.search)}`)
+      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/goodreads/search.json?search=${% raw %}{encodeURIComponent(this.search)}{% endraw %}`)
       .then(res=>res.json())
       .then(res => {
         this.searching = false;
@@ -80,7 +81,7 @@ const app = new Vue({
       this.selectedBook = book;
       this.relatedBooks = [];
       console.log('find books similar to '+book.id);
-      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/goodreads/findSimilar.json?id=${encodeURIComponent(book.id)}`)
+      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/goodreads/findSimilar.json?id=${% raw %}{encodeURIComponent(book.id)}{% endraw %}`)
       .then(res=>res.json())
       .then(res => {
         this.relatedBooks = res.result;
@@ -128,7 +129,7 @@ const api = new Vuex.Store({
       context.commit('clearBooks');
       context.commit('clearRelatedBooks');
       context.searching = true;
-      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/goodreads/search.json?search=${encodeURIComponent(term)}`)
+      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/goodreads/search.json?search=${% raw %}{encodeURIComponent(term)}{% endraw %}`)
       .then(res=>res.json())
       .then(res => {
         context.commit('books',res.result);
@@ -138,7 +139,7 @@ const api = new Vuex.Store({
     relatedBooks(context,book) {
       context.commit('clearRelatedBooks');
       console.log('find books similar to '+book.id);
-      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/goodreads/findSimilar.json?id=${encodeURIComponent(book.id)}`)
+      fetch(`https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/goodreads/findSimilar.json?id=${% raw %}{encodeURIComponent(book.id)}{% endraw %}`)
       .then(res=>res.json())
       .then(res => {
         context.commit('relatedBooks',res.result);

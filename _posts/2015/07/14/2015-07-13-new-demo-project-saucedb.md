@@ -5,6 +5,7 @@ date: "2015-07-14T10:27:56+06:00"
 categories: Development HTML5 JavaScript Mobile 
 tags: bluemix cordova ionic
 banner_image: 
+permalink: /2015/07/14/new-demo-project-saucedb
 ---
 
 Today I'm kicking off a new project for the purposes of demonstrating <a href="http://www.ionicframework.com">Ionic</a> and <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. While I'm not sure I'll actually release this application (I'm building something I actually <i>want</i>, so I kinda want to), my intent here is to build a full application demonstrating multiple facets of Ionic with Bluemix handling the back end. Let me start off by talking about what this application actually does.

@@ -5,6 +5,7 @@ date: "2018-03-23"
 categories: Development 
 tags: 
 banner_image: /images/banners/remotelyinteresting.jpg
+permalink: /2018/03/23/remotely-interesting
 ---
 
 A few days ago I remarked on Twitter about how interesting it was to be back in an office again. It was only for a day (I was in town for

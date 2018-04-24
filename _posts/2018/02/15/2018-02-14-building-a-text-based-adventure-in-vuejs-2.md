@@ -5,6 +5,7 @@ date: "2018-02-15"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/cavegame.jpg
+permalink: /2018/02/15/building-a-text-based-adventure-in-vuejs-2
 ---
 
 Yesterday I [posted](https://www.raymondcamden.com/2018/02/14/building-a-text-based-adventure-in-vuejs/) a proof of concept of a simple text-based adventure game built in Vue.js. While it was incredibly simple (and a bit broken, sorry), I made some progress in updating the engine today that I thought would be cool to share. Pretty much nothing visually changed, but I made some structural changes that I think will go a long way to improving the core game.
@@ -17,7 +18,7 @@ One of the first things I did was add support for command aliases. I already had
 	"west":"w",
 	"east":"e",
 	"south":"s",
-	"look at|l at|l":"look"
+	"look at{% raw %}|l at|{% endraw %}l":"look"
 }
 ```
 
@@ -154,7 +155,7 @@ rooms.forEach(room => {
 	r.exits = [];
 	exitArr.forEach(e => {
 		let [dir,loc] = e.split('|');
-		r.exits.push({"dir":dir, "room":loc});
+		r.exits.push({% raw %}{"dir":dir, "room":loc}{% endraw %});
 	});
 
 	let name = room.split('.')[0];

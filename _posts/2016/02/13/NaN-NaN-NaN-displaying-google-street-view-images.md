@@ -5,6 +5,7 @@ date: "2016-02-13T9:43:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/map.jpg
+permalink: /2016/02/13/displaying-google-street-view-images
 ---
 
 A few days ago a buddy of mine brought me an interesting problem. He was using JavaScript to dynamically
@@ -60,7 +61,7 @@ function initMap() {
 		
 		panorama = new google.maps.StreetViewPanorama(document.getElementById('pano'));
 		
-		sv.getPanorama({location: {lat:res.lat, lng:res.lng}, radius: 50}, processSVData)
+		sv.getPanorama({% raw %}{location: {lat:res.lat, lng:res.lng}{% endraw %}, radius: 50}, processSVData)
 
 	},'json');
 

@@ -5,6 +5,7 @@ date: "2015-08-02T09:34:35+06:00"
 categories: uncategorized 
 tags: 
 banner_image: 
+permalink: /2015/08/02/review-rest-web-apis-the-book
 ---
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/08/Screen-Shot-2015-08-02-at-7.13.47-AM3.png" alt="Screen Shot 2015-08-02 at 7.13.47 AM" width="275" height="308" class="alignleft size-full wp-image-6582" /> Before I begin, a quick disclaimer. I've known Adam for a long time, so my review may be a bit colored by the fact that I'm friends with him. Of course, the flip side to that is that on more than one occasion I've fought with him over something or another on IRC so this could be my chance for revenge. ;) That's my official disclaimer out of the way. <!--more-->

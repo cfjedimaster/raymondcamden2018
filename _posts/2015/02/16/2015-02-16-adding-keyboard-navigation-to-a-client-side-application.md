@@ -5,6 +5,7 @@ date: "2015-02-16T15:24:09+06:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/02/16/adding-keyboard-navigation-to-a-client-side-application
 ---
 
 Ok, so warning, this isn't exactly rocket science level JavaScript here. For a while now I've been wanting to build a simple demo of adding keyboard navigation to a client-side application and today I finally got off my lazy rear and wrote one up. As I said, this isn't exactly difficult to do, but I thought it might be helpful for others to see a simple example of how it can be used.

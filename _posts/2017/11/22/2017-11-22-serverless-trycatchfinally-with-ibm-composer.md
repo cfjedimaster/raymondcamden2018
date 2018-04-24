@@ -5,6 +5,7 @@ date: "2017-11-22T01:38:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/11/22/serverless-trycatchfinally-with-ibm-composer
 ---
 
 It's been a few weeks since I blogged about [IBM Composer](https://github.com/ibm-functions/composer), sorry about that, flying to China and getting a kid will put a kink into your blogging schedule. ;) Today I want to share a simple demo of how to wrap serverless functions with try/catch and try/catch/finally logic. Let's start off with a simple function.
@@ -18,7 +19,7 @@ function main(args) {
         throw new Error("Can't divide by zero and maintain the Universe.");
     }
 
-    return { result: 10/args.input };
+    return {% raw %}{ result: 10/args.input }{% endraw %};
 
 }
 </code></pre>
@@ -53,7 +54,7 @@ Alright, so what if we *don't* want an error reported? This is where a try/catch
 
 <pre><code class="language-javascript">composer.try(
     'safeToDelete/tendividedby',
-    args => ({result:'invalid input'})
+    args => ({% raw %}{result:'invalid input'}{% endraw %})
 );
 </code></pre>
 
@@ -64,7 +65,7 @@ So that's try/catch, nice and simple. How about try/catch/finally? While this is
 <pre><code class="language-javascript">composer.sequence(
     composer.try(
         'safeToDelete/tendividedby',
-        args => ({result:'invalid input'})
+        args => ({% raw %}{result:'invalid input'}{% endraw %})
     ),
     'safeToDelete/final'        
 )

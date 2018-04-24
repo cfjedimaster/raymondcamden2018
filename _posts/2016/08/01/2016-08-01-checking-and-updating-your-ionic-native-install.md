@@ -5,6 +5,7 @@ date: "2016-08-01T10:14:00-07:00"
 categories: Development 
 tags: ionic
 banner_image: /images/banners/ionic_native_update.jpg
+permalink: /2016/08/01/checking-and-updating-your-ionic-native-install
 ---
 
 Ok, so this falls under the "pretty obvious" category, but as I had to figure it out 

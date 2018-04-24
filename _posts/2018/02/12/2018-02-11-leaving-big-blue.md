@@ -5,6 +5,7 @@ date: "2018-02-12T11:43:32+06:00"
 categories: Misc 
 tags: 
 banner_image: /images/banners/leavingibm.jpg
+permalink: /2018/02/12/leaving-big-blue
 ---
 
 A little over three years ago I was reached out to by an employee of IBM asking if I'd be interested in a developer relations role with them. I had been looking for a devrel role for some time (my position at Adobe had changed after I joined) and I was interested in what IBM had to offer. To be honest, outside of boring (yet I'm sure important) mainframes and Watson, I really didn't know what IBM had to offer for developers.

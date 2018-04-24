@@ -5,6 +5,7 @@ date: "2016-06-16T10:35:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/06/16/assets-and-slides-from-my-js-templating-presentation
 ---
 
 The title pretty much says it all. If you attended my session at devObjective today, I've attached the

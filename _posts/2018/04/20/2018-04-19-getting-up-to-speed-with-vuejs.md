@@ -5,6 +5,7 @@ date: "2018-04-20"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/class.jpg
+permalink: /2018/04/20/getting-up-to-speed-with-vuejs
 ---
 
 One of my [goals for 2018](https://www.raymondcamden.com/2017/12/26/my-2017-and-my-plans-for-2018/) was to become an "expert on Vue". While I think I'm years away from considering myself an expert, I've spent a lot of time digging into it and trying to become better skilled with it, and all the various things in the "Vue ecosphere" like Vuex, Veutify, and more. I'm happy to announce that this May, I'll be giving a three hour course on learning Vue.js:

@@ -5,6 +5,7 @@ date: "2015-07-10T13:57:20+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/07/10/combining-client-side-social-login-and-server-side-authorization-with-cordova-and-node
 ---
 
 I believe this wins the title for the longest blog title ever. So what in the hell am I talking about? It isn't too difficult to add a social login aspect to your Apache Cordova application. I've used a variety of plugins/libraries in the past and for the most part - it just plain works. Recently however I ran into an issue that I didn't know how to get around. Given that your mobile client authenticates a user against some OAuth provider, and given than you <i>then</i> allow that user to interact with your server, how do a) ensure that the person running the server API is authenticated and b) how do you uniquely identify that user? That's a bit abstract, so how about a real example?
@@ -38,13 +39,13 @@ The code behind this is pretty simple:
         } else {
           alert('Facebook login failed: ' + response.error);
         }
-      }, {scope: 'email'});                
+      }, {% raw %}{scope: 'email'}{% endraw %});                
 }</code></pre>
 
 Note I store the access token so I can use it later. Next - we need to call the server. If I remember right, Angular provides a way to modify <i>all</i> HTTP requests to include stuff. For now, I'm keeping it simple and just including the token as part of a form post.
 
 <pre><code class="language-javascript">$scope.doNode = function() {
-    $http.post('http://localhost:3000/test1',{msg:"Hello",token:$scope.token}).
+    $http.post('http://localhost:3000/test1',{% raw %}{msg:"Hello",token:$scope.token}{% endraw %}).
     success(function() {
       console.log('yes im ok');
     }).
@@ -87,7 +88,7 @@ Ok, so far so good. Now let's turn to the Node side. As mentioned in the StackOv
 
 Something to note here: I'm specifically asking for the email address back. My result looks like this: 
 
-<code>{ email: 'raymondcamden@gmail.com', id: 'abigassnumber' }</code>
+<code>{% raw %}{ email: 'raymondcamden@gmail.com', id: 'abigassnumber' }{% endraw %}</code>
 
 In theory, the ID is unique enough. However, if I use multiple different oauth providers, I can instead use the email as a primary key. That would let you login via Facebook <i>or</i> Twitter and have the same data as long as you have the same email address being used for both accounts. Note that I do <i>not</i> actually store that email address. I would in a real app. Finally, here is the route I called from the mobile app:
 

@@ -5,6 +5,7 @@ date: "2016-12-13T06:26:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/13/advent-of-code-day-9-to-12
 ---
 
 I've got a bunch of code to share so let's get started. As before, be sure to check my [repo](https://github.com/cfjedimaster/adventofcode) for the full code of my solutions.
@@ -160,7 +161,7 @@ let output = [];
 function defineBot() {
     return {
         chips:[],
-        logic:{&#x27;low&#x27;:-1, &#x27;high&#x27;:-1}
+        logic:{% raw %}{&#x27;low&#x27;:-1, &#x27;high&#x27;:-1}{% endraw %}
     }
 }
 
@@ -186,8 +187,8 @@ inputs.forEach(function(cmd) {
 
         if(!bots[owner]) bots[owner] = defineBot();
 
-        bots[owner].logic.low = {target:parts[6], type:parts[5]};
-        bots[owner].logic.high = {target:parts[11], type:parts[10]};
+        bots[owner].logic.low = {% raw %}{target:parts[6], type:parts[5]}{% endraw %};
+        bots[owner].logic.high = {% raw %}{target:parts[11], type:parts[10]}{% endraw %};
     }
 
 });
@@ -241,7 +242,7 @@ while(hasStuffToDo(bots)) {
         }
 
     }
-    zz++; if(zz &gt; 100) { console.log(&#x27;ABORT&#x27;); process.exit(); }
+    zz++; if(zz &gt; 100) {% raw %}{ console.log(&#x27;ABORT&#x27;); process.exit(); }{% endraw %}
 }
 
 console.log(&#x27;OUTPUT&#x27;,output);
@@ -305,7 +306,7 @@ jnz c -5`;
 
 let instructions = input.split(&#x27;\n&#x27;);
 &#x2F;&#x2F;problem 2 sets c to 1, problem 1 sets it to 0
-let registers = {a:0, b:0, c:0, d:0 };
+let registers = {% raw %}{a:0, b:0, c:0, d:0 }{% endraw %};
 
 let sanity = 0;
 for(var i=0;i&lt;instructions.length;i++) {
@@ -356,7 +357,7 @@ for(var i=0;i&lt;instructions.length;i++) {
 
 &#x2F;&#x2F;    sanity++;
 &#x2F;&#x2F;    console.log(registers);
-&#x2F;&#x2F;    if(sanity &gt; 300000) { console.log(&#x27;EXIT&#x27;); process.exit(); }
+&#x2F;&#x2F;    if(sanity &gt; 300000) {% raw %}{ console.log(&#x27;EXIT&#x27;); process.exit(); }{% endraw %}
 }
 
 console.log(registers);

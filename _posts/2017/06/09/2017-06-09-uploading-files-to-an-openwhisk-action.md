@@ -5,6 +5,7 @@ date: "2017-06-09T13:49:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/06/09/uploading-files-to-an-openwhisk-action
 ---
 
 This post starts with not one, not two, but three disclaimers. Read carefully!
@@ -77,7 +78,7 @@ function main(args) {
 
 			resolve({
 				statusCode: 200,
-				headers: { &#x27;Content-Type&#x27;: &#x27;image&#x2F;png&#x27; },
+				headers: {% raw %}{ &#x27;Content-Type&#x27;: &#x27;image&#x2F;png&#x27; }{% endraw %},
 				body: base64File
 			});
 

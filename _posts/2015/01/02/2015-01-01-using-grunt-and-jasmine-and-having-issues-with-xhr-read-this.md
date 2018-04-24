@@ -5,6 +5,7 @@ date: "2015-01-02T09:58:09+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/01/02/using-grunt-and-jasmine-and-having-issues-with-xhr-read-this
 ---
 
 I recently did some work with Grunt and Jasmine. I had a Jasmine suite of tests that were entirely Ajax based. (You can see the test for yourself <a href="https://github.com/cfjedimaster/SWAPI-Wrapper/blob/master/tests/spec/swapiSpec.js">here</a> if you want.) These tests ran just fine when using the Jasmine spec runner. This was my first time doing async-based testing with Jasmine and I was pretty impressed by how easy it was.

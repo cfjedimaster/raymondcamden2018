@@ -5,6 +5,7 @@ date: "2015-08-06T08:35:22+06:00"
 categories: Development Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/08/06/more-information-on-restoring-ionic-projects
 ---
 
 Back in April I blogged about a new feature that was added to Ionic (<a href="http://www.raymondcamden.com/2015/04/20/ionic-adds-a-new-state-feature">Ionic adds a new State feature</a>). Yesterday I had a conversation with <a href="https://twitter.com/mhartington">Mike Hartington</a> of the Ionic team about <em>another</em> version of this feature - the app.json file. It was pretty confusing to me at first, but after talking with Mike for a bit I think I have a handle on it and wanted to share this with others. Everything below is thanks to Mike and any mistakes in transcription are my fault.

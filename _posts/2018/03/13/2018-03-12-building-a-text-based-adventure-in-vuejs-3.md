@@ -5,6 +5,7 @@ date: "2018-03-13"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/cavegame.jpg
+permalink: /2018/03/13/building-a-text-based-adventure-in-vuejs-3
 ---
 
 It's been a while since I updated my little Vue-based game but I had a bit of time over the weekend to make some small tweaks. Primarily my work was on supporting what I call "lookables" - things that you can look at in a room to get more detail. I got it working, and I'm happy with how I did it, so let me quickly cover how I did it.
@@ -14,12 +15,12 @@ Updating the CLI
 
 Up until this point, my CLI was pretty basic. I had a basic list of commands that was used to verify input, but after that, the code always assumed your input was a movement. Getting "look" working was a bit complex. Since the command always requires an argument, I needed to update how I verify commands. I tried to keep it nice and generic. In my list of valid commands I added `look *` as a way of saying "this is a valid commands but it must take an argument", but things got messy. 
 
-So I decided to punt. I thought to myself - in a real game engine, I think it's safe to assume that some commands are baked in and some are dynamic. I had already hard coded in support for movement and decided that "look" could also be baked in. I changed my earlier method, `validInput` to a new method, `parseInput`. This method would return a simple object containing a `cmd` and `arg` value. So movements would become `{cmd:'movement', arg:'e'}` (move east) and input like `look cat` would be: `{cmd:'look', arg:'cat'}`. Here's the updated code:
+So I decided to punt. I thought to myself - in a real game engine, I think it's safe to assume that some commands are baked in and some are dynamic. I had already hard coded in support for movement and decided that "look" could also be baked in. I changed my earlier method, `validInput` to a new method, `parseInput`. This method would return a simple object containing a `cmd` and `arg` value. So movements would become `{% raw %}{cmd:'movement', arg:'e'}{% endraw %}` (move east) and input like `look cat` would be: `{% raw %}{cmd:'look', arg:'cat'}{% endraw %}`. Here's the updated code:
 
 ```js
 parseInput(i) {
 
-	if(i === 'w' || i === 'e' || i === 's' || i === 'n') {
+	if(i === 'w' {% raw %}|| i === 'e' |{% endraw %}{% raw %}| i === 's' |{% endraw %}| i === 'n') {
 		return {
 			cmd:'movement',
 			arg:i
@@ -61,7 +62,7 @@ doLook(t) {
 			}
 		}
 	}
-	alert(`You don't see ${t} here.`);
+	alert(`You don't see ${% raw %}{t}{% endraw %} here.`);
 }
 ```
 

@@ -5,6 +5,7 @@ date: "2015-06-22T08:12:11+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/06/22/an-update-to-my-rss-reader-built-with-ionic
 ---
 
 A few days ago a reader posted a comment to a <a href="http://www.raymondcamden.com/2014/09/05/RSS-Reader-Cordova-demo-updated-with-Ionic">blog post</a> I wrote that demonstrated a simple RSS reader built with the Ionic framework. Looking over the code I had written for that demo I realized there was a lot of room for improvement. I'm still no Angular expert, but I've learned a few things over the past few months and decided to update the code base. I thought it might be interesting to point out what I changed (especially if people better at Angular want to correct me) so folks could compare the differences.

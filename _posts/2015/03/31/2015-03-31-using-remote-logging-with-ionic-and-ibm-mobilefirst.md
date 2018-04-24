@@ -5,6 +5,7 @@ date: "2015-03-31T16:26:58+06:00"
 categories: Development Mobile 
 tags: ionic mobilefirst
 banner_image: 
+permalink: /2015/03/31/using-remote-logging-with-ionic-and-ibm-mobilefirst
 ---
 
 As the latest in my series of blog posts on <a href="http://ionicframework.com">Ionic</a> and <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a>, today I'm going to demonstrate how to use the remote logging feature of MobileFirst with Ionic. I recommend you read my <a href="http://www.raymondcamden.com/2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework">initial post</a> as  quick guide on how to run Ionic apps inside the MobileFirst platform.
@@ -24,7 +25,7 @@ I decided to create a service that would log when each tab was activated for the
 
 <pre><code class="language-javascript">.factory('Logger', function() {
 
-	var logger = WL.Logger.create({autoSendLogs:true});
+	var logger = WL.Logger.create({% raw %}{autoSendLogs:true}{% endraw %});
 
 	return {
 		log:function(s) {

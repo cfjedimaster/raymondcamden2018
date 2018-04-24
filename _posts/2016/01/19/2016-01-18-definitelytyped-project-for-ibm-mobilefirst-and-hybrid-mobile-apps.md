@@ -5,6 +5,7 @@ date: "2016-01-19T10:48:55+06:00"
 categories: Development JavaScript Mobile 
 tags: mobilefirst
 banner_image: 
+permalink: /2016/01/19/definitelytyped-project-for-ibm-mobilefirst-and-hybrid-mobile-apps
 ---
 
 I've blogged before about the client-side API for hybrid mobile apps built on <a href="

@@ -5,6 +5,7 @@ date: "2017-12-18"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/12/18/building-an-image-placeholder-component-for-vuejs
 ---
 
 One of the more interesting parts of [Vue.js](https://vuejs.org/) is the ability to build components. Components are a pretty big feature of Vue and I won't try to explain them completely here (the [docs](https://vuejs.org/v2/guide/components.html) do a darn good job, and you should read Sarah Drasner's [article](https://css-tricks.com/intro-to-vue-2-components-props-slots/) on them as well), but at a basic level, they allow you to build a self-contained piece of UI/logic within a larger Vue application. So for example, you may be building an administrator for a product database and find yourself displaying product thumbnails in multiple places. You could componetize that product display into a Vue component to make it easier to reuse the code multiple times.

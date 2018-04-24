@@ -5,6 +5,7 @@ date: "2016-01-26T15:40:46-06:00"
 categories: JavaScript Development 
 tags: 
 banner_image: 
+permalink: /2016/01/25/survey-results-learning-javascript
 ---
 
 A few weeks back, [Rebecca Murphey](http://t.co/w58cLHiW3H) tweeted out a link to a survey she was running involving how people learn JavaScript and how it has impacted their careers.

@@ -5,6 +5,7 @@ date: "2015-04-03T09:21:32+06:00"
 categories: Development JavaScript jQuery 
 tags: 
 banner_image: 
+permalink: /2015/04/03/strategies-for-dealing-with-multiple-ajax-calls
 ---
 
 Let's consider a fairly trivial, but probably typical, Ajax-based application. I've got a series of buttons:
@@ -43,7 +44,7 @@ $(document).ready(function() {
 		var thisId = $(this).data(&quot;prodid&quot;);
 		console.log(&quot;going to load product id &quot;+thisId);
 		$result.text(&quot;&quot;);
-		$.getJSON(&quot;service.cfc?method=getData&quot;,{id:thisId}, function(res) {
+		$.getJSON(&quot;service.cfc?method=getData&quot;,{% raw %}{id:thisId}{% endraw %}, function(res) {
 			console.log(&quot;back with &quot;+JSON.stringify(res));
 			$result.text(&quot;Product &quot;+res.name);
 		});
@@ -89,7 +90,7 @@ $(document).ready(function() {
 		var thisId = $(this).data(&quot;prodid&quot;);
 		console.log(&quot;going to load product id &quot;+thisId);
 		$result.text(&quot;Loading info...&quot;);
-		$.getJSON(&quot;service.cfc?method=getData&quot;,{id:thisId}, function(res) {
+		$.getJSON(&quot;service.cfc?method=getData&quot;,{% raw %}{id:thisId}{% endraw %}, function(res) {
 			console.log(&quot;back with &quot;+JSON.stringify(res));
 			$(&quot;.loadButton&quot;).removeAttr(&quot;disabled&quot;);
 			$result.text(&quot;Product &quot;+res.name);
@@ -135,9 +136,9 @@ $(document).ready(function() {
 		console.log(&quot;going to load product id &quot;+thisId);
 		$result.text(&quot;Loading info...&quot;);
 		
-		if(active) { console.log(&quot;killing active&quot;); xhr.abort(); }
+		if(active) {% raw %}{ console.log(&quot;killing active&quot;); xhr.abort(); }{% endraw %}
 		active=true;
-		xhr = $.getJSON(&quot;service.cfc?method=getData&quot;,{id:thisId}, function(res) {
+		xhr = $.getJSON(&quot;service.cfc?method=getData&quot;,{% raw %}{id:thisId}{% endraw %}, function(res) {
 			console.log(&quot;back with &quot;+JSON.stringify(res));
 			$result.text(&quot;Product &quot;+res.name);
 			active=false;

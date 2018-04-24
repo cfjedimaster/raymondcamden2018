@@ -5,6 +5,7 @@ date: "2015-04-02T16:00:44+06:00"
 categories: Development JavaScript Mobile 
 tags: ionic mobilefirst
 banner_image: 
+permalink: /2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application
 ---
 
 As I continue my look at integrating <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> and <a href="http://ionicframework.com/">Ionic</a>, today I'm going to look at the SQL Adapter. MobileFirst Adapters are server-side components that connect your hybrid mobile application to other things. Those "things" being generally broken down into a few categories, and a few specific adapter types. The SQL adapter is, as you can guess, a connection to a database.
@@ -235,8 +236,8 @@ Pretty simple, right? The result data is simply an array of plain JavaScript obj
 
 		&lt;ion-list class=&quot;list list-inset&quot;&gt;
 
-			&lt;ion-item ng-repeat=&quot;item in content&quot; href=&quot;#&#x2F;item&#x2F;{%raw%}{{item.id}}{%endraw%}&quot;&gt;
-				{%raw%}{{item.title}}{%endraw%}
+			&lt;ion-item ng-repeat=&quot;item in content&quot; href=&quot;#&#x2F;item&#x2F;{% raw %}{{item.id}{% endraw %}}&quot;&gt;
+				{% raw %}{{item.title}{% endraw %}}
 			&lt;&#x2F;ion-item&gt;
 
 		&lt;&#x2F;ion-list&gt;
@@ -252,17 +253,17 @@ And the detail view:
 		&lt;div class=&quot;card&quot;&gt;
 
 		  &lt;div class=&quot;item item-divider&quot;&gt;
-		    {%raw%}{{detail.title}}{%endraw%}
+		    {% raw %}{{detail.title}{% endraw %}}
 		  &lt;&#x2F;div&gt;
 
 		  &lt;div class=&quot;item item-text-wrap&quot;&gt;
 		    &lt;p&gt;
-				{%raw%}{{detail.body}}{%endraw%}
+				{% raw %}{{detail.body}{% endraw %}}
 		    &lt;&#x2F;p&gt;
 		  &lt;&#x2F;div&gt;
 
 		  &lt;div class=&quot;item item-divider&quot;&gt;
-		    {%raw%}{{detail.created}}{%endraw%}
+		    {% raw %}{{detail.created}{% endraw %}}
 		  &lt;&#x2F;div&gt;
 
 		&lt;&#x2F;div&gt;

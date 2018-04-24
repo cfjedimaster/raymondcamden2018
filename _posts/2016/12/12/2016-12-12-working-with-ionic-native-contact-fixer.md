@@ -5,6 +5,7 @@ date: "2016-12-12T10:26:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: /images/banners/contactfixer.jpg
+permalink: /2016/12/12/working-with-ionic-native-contact-fixer
 ---
 
 I've blogged a few times now about [Ionic Native](https://ionicframework.com/docs/v2/native/), but if you're new to it, you can think of "Angular2/Ionic2 Friendly Wrappers" for many different Cordova plugins. Today I'm sharing what may be my coolest demo yet. No, wait, seriously, it is, honest! This demo does something I think every phone should have built in, and if I can get off my lazy butt, I'll be submitting this to the App Store this week. So what did I build?
@@ -68,10 +69,10 @@ And that's it. I could maybe actually show all the contacts and their new pictur
 And now the real meat of the app, the code behind this view.
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController, AlertController, LoadingController } from &#x27;ionic-angular&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController, AlertController, LoadingController }{% endraw %} from &#x27;ionic-angular&#x27;;
 
-import { Contact, Contacts, ContactField } from &#x27;ionic-native&#x27;;
+import {% raw %}{ Contact, Contacts, ContactField }{% endraw %} from &#x27;ionic-native&#x27;;
 
 @Component({
   selector: &#x27;page-home&#x27;,
@@ -90,7 +91,7 @@ export class HomePage {
   randomCat() {
     let w = this.getRandomInt(200,500);
     let h = this.getRandomInt(200,500);
-    return `https:&#x2F;&#x2F;placekitten.com&#x2F;${w}&#x2F;${h}`;
+    return `https:&#x2F;&#x2F;placekitten.com&#x2F;${% raw %}{w}{% endraw %}&#x2F;${% raw %}{h}{% endraw %}`;
   }
 
   &#x2F;&#x2F;Credit: http:&#x2F;&#x2F;stackoverflow.com&#x2F;a&#x2F;20285053&#x2F;52160
@@ -159,7 +160,7 @@ export class HomePage {
           subTitle = &quot;Sorry, but every single one of your contacts had a picture. I did nothing.&quot;;
           button = &quot;Sad Face&quot;;
         } else {
-          subTitle = `I&#x27;ve updated ${fixed} contact(s). Enjoy!`;
+          subTitle = `I&#x27;ve updated ${% raw %}{fixed}{% endraw %} contact(s). Enjoy!`;
           button = &quot;Awesome&quot;;      
         }
 

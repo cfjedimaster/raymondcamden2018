@@ -5,6 +5,7 @@ date: "2015-09-22T13:35:56+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova ionic
 banner_image: 
+permalink: /2015/09/22/another-cordova-mashup-pixelatize
 ---
 
 One of the things I love about Cordova is how you can take existing client-side libraries and mash them up with the device features Cordova provides. The example I typically give of this is a <a href="http://www.raymondcamden.com/2012/01/13/Demo-of-Color-Palettes-and-PhoneGap">demo</a> I built a few years ago that mashes up the camera and a library called <a href="http://lokeshdhakar.com/projects/color-thief/">Color Thief</a>. A few days ago I saw <a href="http://jennmoney.biz/">Jenn Schiffer</a> (who is a pretty cool individual and someone you should <a href="https://twitter.com/jennschiffer">follow on Twitter</a>) release a library called <a href="https://github.com/jennschiffer/pixelatize">Pixelatize</a>. As you can probably guess by the name (which, by the way, is freaking hard to type right multiple times in a row), it takes an image and pixelates it. She has an online demo <a href="http://pancaketheorem.com/stuff/pixelatize/">here</a> so can you test it in your browser. I thought it would be fun to connect this to the device camera with Cordova. Here is how I did it.

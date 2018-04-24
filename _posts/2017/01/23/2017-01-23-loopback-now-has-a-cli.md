@@ -5,6 +5,7 @@ date: "2017-01-23T09:39:00-07:00"
 categories: JavaScript 
 tags: loopback
 banner_image: 
+permalink: /2017/01/23/loopback-now-has-a-cli
 ---
 
 The title pretty much says it all. For some time now, you used <code>slc</code> to work with LoopBack apps. 

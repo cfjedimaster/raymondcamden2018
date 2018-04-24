@@ -5,6 +5,7 @@ date: "2015-11-19T08:00:50+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/11/19/cflib-converted-to-harp-and-on-surge
 ---
 
 Every now and then I code something that seems like a really bad idea, but I just do it and don't tell anyone and I'm <i>totally</i> fine with that. I've decided to push my luck and actually blog about what I coded even though I think it is - probably - a pretty bad idea. 
@@ -80,7 +81,7 @@ for(var i=0;i&lt;udfRaw.length;i++) {
 }
 
 var newFile = __dirname+&quot;/../public/udf/_data.json&quot;;
-var udfData = {&quot;udfs&quot;:udfs};
+var udfData = {% raw %}{&quot;udfs&quot;:udfs}{% endraw %};
 console.log(&quot;Creating &quot;+newFile);
 fs.writeFileSync(newFile, JSON.stringify(udfData,null,'\t'));
 
@@ -108,7 +109,7 @@ Ok, so now for the part that I really think is a bit freaky. My data exists are 
 
 <pre><code class="language-markup">&lt;h2&gt;Libraries&lt;/h2&gt;
 
-&lt;%- include('_udf.ejs') %&gt;
+&lt;{% raw %}%- include('_udf.ejs') %{% endraw %}&gt;
 &lt;% 
 	title = 'Welcome to CFLib';
 	
@@ -118,13 +119,13 @@ Ok, so now for the part that I really think is a bit freaky. My data exists are 
 		udfCount = public.udfs.getCount(key);
 %&gt;
 	&lt;div class=&quot;lib&quot;&gt;
-		&lt;a href=&quot;/library/&lt;%= key %&gt;&quot;&gt;&lt;%= key %&gt;&lt;/a&gt; &lt;br/&gt;
-		&lt;span class=&quot;date&quot;&gt;Last Updated &lt;%= lastUpdated %&gt;&lt;/span&gt; &lt;br/&gt;
-		Number of UDFs: &lt;%- udfCount %&gt; &lt;br/&gt;
-		&lt;%- library.desc %&gt;
+		&lt;a href=&quot;/library/&lt;{% raw %}%= key %{% endraw %}&gt;&quot;&gt;&lt;{% raw %}%= key %{% endraw %}&gt;&lt;/a&gt; &lt;br/&gt;
+		&lt;span class=&quot;date&quot;&gt;Last Updated &lt;{% raw %}%= lastUpdated %{% endraw %}&gt;&lt;/span&gt; &lt;br/&gt;
+		Number of UDFs: &lt;{% raw %}%- udfCount %{% endraw %}&gt; &lt;br/&gt;
+		&lt;{% raw %}%- library.desc %{% endraw %}&gt;
 		&lt;/p&gt;
 	&lt;/div&gt;
-&lt;% } %&gt;
+&lt;{% raw %}% }{% endraw %} %&gt;
 </code></pre>
 
 First - note the include. That's where my utility library is loaded into the template. After it is loaded, I have access to a library of functions in the name space, public.udfs. You can see a few calls - one that gets the last updated value for the library and one that gets the count. Let's look at the library.

@@ -5,6 +5,7 @@ date: "2015-08-19T15:27:30+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova ionic mobilefirst
 banner_image: 
+permalink: /2015/08/19/developing-ionic-apps-with-mobilefirst-7-1
 ---
 
 Time for the last in my series of blog posts on hybrid development with <a href="https://ibm.biz/BluemixMobileFirst">MobileFirst 7.1</a>. Obviously I've got more to say about MobileFirst, but this last post will complete the picture so to speak about the development is like in 7.1. I want to give a special shout out to my coworkers <a href="https://twitter.com/csantanapr">Carlos Santana</a> and Karl Bishop. They helped quite a bit with the first two blog posts and this one in particular is thanks to Carlos. Both are smart folks who make my job of telling yall stuff quite a bit easier. With that in mind, before going further, be sure to read my introductory post (<a href="http://www.raymondcamden.com/2015/08/17/getting-started-with-mobile-development-and-ibm-mobilefirst-7-1">Getting Started with Mobile Development and IBM MobileFirst 7.1</a>) and my follow up (<a href="http://www.raymondcamden.com/2015/08/18/developing-hybrid-mobile-apps-with-ibm-mobilefirst-7-1">Developing Hybrid Mobile Apps with IBM MobileFirst 7.1</a>).

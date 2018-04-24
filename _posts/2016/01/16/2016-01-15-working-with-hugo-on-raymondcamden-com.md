@@ -5,6 +5,7 @@ date: "2016-01-16T11:02:31+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/01/16/working-with-hugo-on-raymondcamden-com
 ---
 
 I've mentioned before that I'm considering moving my blog from a Wordpress install to purely static. I've made some progress on this effort and while I'm not 100% sure I'm going to pull the plug, I'm <i>real</i> close to it. 
@@ -38,32 +39,32 @@ So Hugo uses <a href="http://golang.org/pkg/html/template/">Go Templates</a> for
 
 <pre><code class="language-markup">
 &lt;section id=&quot;main&quot;&gt;
-    {%raw%}{{ range first 10 (where .Site.Pages &quot;Type&quot; &quot;post&quot;) }}{%endraw%}
+    {% raw %}{{ range first 10 (where .Site.Pages &quot;Type&quot; &quot;post&quot;) }{% endraw %}}
     &lt;article class=&quot;article article-type-post&quot; itemscope=&quot;&quot; itemprop=&quot;blogPost&quot;&gt;
         &lt;div class=&quot;article-inner&quot;&gt;
-            {%raw%}{{ if and (isset .Params &quot;banner&quot;) (not (eq .Params.banner &quot;&quot;)) }}{%endraw%}
-            &lt;a href=&quot;{%raw%}{{ .Permalink }}{%endraw%}&quot; itemprop=&quot;url&quot;&gt;
-                &lt;img src=&quot;{%raw%}{{ .Site.BaseURL }}{%endraw%}{%raw%}{{ .Params.banner }}{%endraw%}&quot; class=&quot;article-banner&quot;&gt; {%raw%}{{ end }}{%endraw%}
+            {% raw %}{{ if and (isset .Params &quot;banner&quot;) (not (eq .Params.banner &quot;&quot;)) }{% endraw %}}
+            &lt;a href=&quot;{% raw %}{{ .Permalink }{% endraw %}}&quot; itemprop=&quot;url&quot;&gt;
+                &lt;img src=&quot;{% raw %}{{ .Site.BaseURL }{% endraw %}}{% raw %}{{ .Params.banner }{% endraw %}}&quot; class=&quot;article-banner&quot;&gt; {% raw %}{{ end }{% endraw %}}
             &lt;/a&gt;
 
-            {%raw%}{{ partial &quot;article_header&quot; . }}{%endraw%}
+            {% raw %}{{ partial &quot;article_header&quot; . }{% endraw %}}
             &lt;div class=&quot;article-entry&quot; itemprop=&quot;articleBody&quot;&gt;
                 &lt;p&gt;
-                    {%raw%}{{ printf &quot;%s&quot; .Summary | markdownify }}{%endraw%}
+                    {% raw %}{{ printf &quot;%{% endraw %}s&quot; .Summary {% raw %}| markdownify }{% endraw %}}
                     &lt;br&gt;
                 &lt;/p&gt;
                 &lt;p class=&quot;article-more-link&quot;&gt;
-                    &lt;a href=&quot;{%raw%}{{ .Permalink }}{%endraw%}&quot;&gt;
-                        {%raw%}{{with .Site.Data.l10n.articles.read_more}}{%endraw%}{%raw%}{{.}}{%endraw%}{%raw%}{{end}}{%endraw%}
+                    &lt;a href=&quot;{% raw %}{{ .Permalink }{% endraw %}}&quot;&gt;
+                        {% raw %}{{with .Site.Data.l10n.articles.read_more}{% endraw %}}{% raw %}{{.}{% endraw %}}{% raw %}{{end}{% endraw %}}
                     &lt;/a&gt;
                 &lt;/p&gt;
             &lt;/div&gt;
-            {%raw%}{{ partial &quot;article_footer&quot; . }}{%endraw%}
+            {% raw %}{{ partial &quot;article_footer&quot; . }{% endraw %}}
         &lt;/div&gt;
     &lt;/article&gt;
-    {%raw%}{{ end }}{%endraw%}
+    {% raw %}{{ end }{% endraw %}}
 
-    {%raw%}{{ partial &quot;pagination&quot; . }}{%endraw%}
+    {% raw %}{{ partial &quot;pagination&quot; . }{% endraw %}}
 &lt;/section&gt;
 &lt;!-- // main section --&gt;
 </code></pre>

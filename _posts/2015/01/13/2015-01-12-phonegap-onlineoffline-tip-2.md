@@ -5,6 +5,7 @@ date: "2015-01-13T09:32:16+06:00"
 categories: HTML5 JavaScript jQuery Mobile 
 tags: 
 banner_image: 
+permalink: /2015/01/13/phonegap-onlineoffline-tip-2
 ---
 
 A while ago I posted an article discussing how to handle offline and online events in Cordova/PhoneGap (<a href="http://www.raymondcamden.com/2013/05/24/PhoneGap-OnlineOffline-Tip">PhoneGap Offline/Online Tip</a>). While working on my <a href="http://manning.com/camden/">book</a> I came across some differences to this behavior that I wanted to document.

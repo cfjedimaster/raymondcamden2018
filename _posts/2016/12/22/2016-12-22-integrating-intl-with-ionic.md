@@ -5,6 +5,7 @@ date: "2016-12-22T08:45:00-07:00"
 categories: Mobile 
 tags: ionic cordova
 banner_image: 
+permalink: /2016/12/22/integrating-intl-with-ionic
 ---
 
 <div style="background:yellow;padding:5px"><strong>
@@ -32,19 +33,19 @@ In both of the above screen shots, you can see dates and numbers printed as is -
 First, here is the cat data provider. This one isn't going to change as we progress through the various versions:
 
 <pre><code class="language-javascript">
-import { Injectable } from &#x27;@angular&#x2F;core&#x27;;
-import { Observable } from &#x27;rxjs&#x27;;
+import {% raw %}{ Injectable }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Observable }{% endraw %} from &#x27;rxjs&#x27;;
 import &#x27;rxjs&#x2F;add&#x2F;operator&#x2F;map&#x27;;
 
 @Injectable()
 export class CatProvider {
 
  public cats:Array&lt;Object&gt; = [
-   {name:&#x27;Luna&#x27;, lastRating:new Date(2016, 12, 2 ,9, 30), numRatings:338324, avgRating:3.142},
-   {name:&#x27;Pig&#x27;, lastRating:new Date(2016, 12, 12, 16,57), numRatings:9128271, avgRating:4.842},
-   {name:&#x27;Cracker&#x27;, lastRating:new Date(2016, 11, 29, 13, 1), numRatings:190129, avgRating:2.734},
-   {name:&#x27;Robin&#x27;, lastRating:new Date(2016, 12, 19, 5, 42), numRatings:642850, avgRating:4.1},
-   {name:&#x27;Simba&#x27;, lastRating:new Date(2016, 12, 18, 18, 18), numRatings:80213, avgRating:1.9999}
+   {% raw %}{name:&#x27;Luna&#x27;, lastRating:new Date(2016, 12, 2 ,9, 30), numRatings:338324, avgRating:3.142}{% endraw %},
+   {% raw %}{name:&#x27;Pig&#x27;, lastRating:new Date(2016, 12, 12, 16,57), numRatings:9128271, avgRating:4.842}{% endraw %},
+   {% raw %}{name:&#x27;Cracker&#x27;, lastRating:new Date(2016, 11, 29, 13, 1), numRatings:190129, avgRating:2.734}{% endraw %},
+   {% raw %}{name:&#x27;Robin&#x27;, lastRating:new Date(2016, 12, 19, 5, 42), numRatings:642850, avgRating:4.1}{% endraw %},
+   {% raw %}{name:&#x27;Simba&#x27;, lastRating:new Date(2016, 12, 18, 18, 18), numRatings:80213, avgRating:1.9999}{% endraw %}
    ];
 
 
@@ -74,8 +75,8 @@ Now let's look at the view for the home page:
 
   &lt;ion-list inset&gt;
     &lt;ion-item *ngFor=&quot;let cat of cats&quot; (click)=&quot;loadCat(cat)&quot; detail-push&gt;
-      {%raw%}{{cat.name}}{%endraw%} 
-      &lt;ion-note item-right&gt;Last rated: {%raw%}{{cat.lastRating}}{%endraw%}&lt;&#x2F;ion-note&gt;
+      {% raw %}{{cat.name}{% endraw %}} 
+      &lt;ion-note item-right&gt;Last rated: {% raw %}{{cat.lastRating}{% endraw %}}&lt;&#x2F;ion-note&gt;
     &lt;&#x2F;ion-item&gt;
   &lt;&#x2F;ion-list&gt;
 
@@ -85,10 +86,10 @@ Now let's look at the view for the home page:
 And the code behind it:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { CatProvider } from &#x27;..&#x2F;..&#x2F;providers&#x2F;cat-provider&#x27;;
-import { NavController } from &#x27;ionic-angular&#x27;;
-import { DetailPage } from &#x27;..&#x2F;detail&#x2F;detail&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ CatProvider }{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;cat-provider&#x27;;
+import {% raw %}{ NavController }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ DetailPage }{% endraw %} from &#x27;..&#x2F;detail&#x2F;detail&#x27;;
 
 @Component({
   selector: &#x27;page-home&#x27;,
@@ -106,7 +107,7 @@ export class HomePage {
   }
 
   loadCat(cat) {
-    this.navCtrl.push(DetailPage, {selectedCat:cat});
+    this.navCtrl.push(DetailPage, {% raw %}{selectedCat:cat}{% endraw %});
   }
 
 }
@@ -118,7 +119,7 @@ Next up is the detail view:
 &lt;ion-header&gt;
 
   &lt;ion-navbar&gt;
-    &lt;ion-title&gt;{%raw%}{{cat.name}}{%endraw%}&lt;&#x2F;ion-title&gt;
+    &lt;ion-title&gt;{% raw %}{{cat.name}{% endraw %}}&lt;&#x2F;ion-title&gt;
   &lt;&#x2F;ion-navbar&gt;
 
 &lt;&#x2F;ion-header&gt;
@@ -132,8 +133,8 @@ Next up is the detail view:
     &lt;&#x2F;ion-card-header&gt;
 
     &lt;ion-card-content&gt;
-      The cat {%raw%}{{cat.name}}{%endraw%} has gotten {%raw%}{{cat.numRatings}}{%endraw%} ratings with an 
-      average of {%raw%}{{cat.avgRating}}{%endraw%}.
+      The cat {% raw %}{{cat.name}{% endraw %}} has gotten {% raw %}{{cat.numRatings}{% endraw %}} ratings with an 
+      average of {% raw %}{{cat.avgRating}{% endraw %}}.
     &lt;&#x2F;ion-card-content&gt;
 
   &lt;&#x2F;ion-card&gt;
@@ -143,8 +144,8 @@ Next up is the detail view:
 And its code:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController, NavParams } from &#x27;ionic-angular&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController, NavParams }{% endraw %} from &#x27;ionic-angular&#x27;;
 
 &#x2F;*
   Generated class for the DetailPage page.
@@ -178,15 +179,15 @@ Round One
 The first change (found in src_v2) I did was to employ Angular's built in pipes for date and number formatting. In the home view, I used this:
 
 <pre><code class="language-markup">
-&lt;ion-note item-right&gt;Last rated: {%raw%}{{cat.lastRating | date:&#x27;shortDate&#x27;}}{%endraw%}&lt;&#x2F;ion-note&gt;
+&lt;ion-note item-right&gt;Last rated: {% raw %}{{cat.lastRating |{% endraw %} date:&#x27;shortDate&#x27;}}&lt;&#x2F;ion-note&gt;
 </code></pre>
 
 And in the detail I used this:
 
 <pre><code class="language-markup">
 &lt;ion-card-content&gt;
-	The cat {%raw%}{{cat.name}}{%endraw%} has gotten {%raw%}{{cat.numRatings | number}}{%endraw%} ratings with an 
-	average of {%raw%}{{cat.avgRating | number:&#x27;1.0-2&#x27;}}{%endraw%}.
+	The cat {% raw %}{{cat.name}{% endraw %}} has gotten {% raw %}{{cat.numRatings |{% endraw %} number}} ratings with an 
+	average of {% raw %}{{cat.avgRating |{% endraw %} number:&#x27;1.0-2&#x27;}}.
 &lt;&#x2F;ion-card-content&gt;
 </code></pre>
 
@@ -198,10 +199,10 @@ Round Two
 So I gave up on the pipes (and removed them from the view!) and switched to using Intl (this may be found in src_v3). I began by adding code to modify the result from the provider in `home.ts`. To be clear, this felt wrong, but was my first draft with adding Intl:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { CatProvider } from &#x27;..&#x2F;..&#x2F;providers&#x2F;cat-provider&#x27;;
-import { NavController } from &#x27;ionic-angular&#x27;;
-import { DetailPage } from &#x27;..&#x2F;detail&#x2F;detail&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ CatProvider }{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;cat-provider&#x27;;
+import {% raw %}{ NavController }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ DetailPage }{% endraw %} from &#x27;..&#x2F;detail&#x2F;detail&#x27;;
 
 @Component({
   selector: &#x27;page-home&#x27;,
@@ -214,7 +215,7 @@ export class HomePage {
 
   dtFormat(d) {
     if(Intl) {
-      return new Intl.DateTimeFormat().format(d) + &#x27; &#x27; + new Intl.DateTimeFormat(navigator.language, {hour:&#x27;numeric&#x27;,minute:&#x27;2-digit&#x27;}).format(d);
+      return new Intl.DateTimeFormat().format(d) + &#x27; &#x27; + new Intl.DateTimeFormat(navigator.language, {% raw %}{hour:&#x27;numeric&#x27;,minute:&#x27;2-digit&#x27;}{% endraw %}).format(d);
     } else {
       return d;
     }
@@ -230,7 +231,7 @@ export class HomePage {
   }
 
   loadCat(cat) {
-    this.navCtrl.push(DetailPage, {selectedCat:cat});
+    this.navCtrl.push(DetailPage, {% raw %}{selectedCat:cat}{% endraw %});
   }
 
 }
@@ -241,8 +242,8 @@ My function dtFormat sniffs for Intl. If it exists, I format both a date and tim
 I do something similar for the numbers:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController, NavParams } from &#x27;ionic-angular&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController, NavParams }{% endraw %} from &#x27;ionic-angular&#x27;;
 
 &#x2F;*
   Generated class for the DetailPage page.
@@ -287,14 +288,14 @@ Round Three
 I began by adding a pipes folder to my src (this version of the app is in the src and src_v4 folders). Here is my date pipe:
 
 <pre><code class="language-javascript">
-import { Pipe, PipeTransform } from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Pipe, PipeTransform }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
 
-@Pipe({name: &#x27;dtFormat&#x27;})
+@Pipe({% raw %}{name: &#x27;dtFormat&#x27;}{% endraw %})
 export class dtFormatPipe implements PipeTransform {
   transform(value: Date): string {
 
     if(Intl) {
-      return new Intl.DateTimeFormat().format(value) + &#x27; &#x27; + new Intl.DateTimeFormat(navigator.language, {hour:&#x27;numeric&#x27;,minute:&#x27;2-digit&#x27;}).format(value);
+      return new Intl.DateTimeFormat().format(value) + &#x27; &#x27; + new Intl.DateTimeFormat(navigator.language, {% raw %}{hour:&#x27;numeric&#x27;,minute:&#x27;2-digit&#x27;}{% endraw %}).format(value);
     } else {
       return value.toString();
     }
@@ -306,14 +307,14 @@ export class dtFormatPipe implements PipeTransform {
 And here is my number pipe:
 
 <pre><code class="language-javascript">
-import { Pipe, PipeTransform } from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Pipe, PipeTransform }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
 
-@Pipe({name: &#x27;numberFormat&#x27;})
+@Pipe({% raw %}{name: &#x27;numberFormat&#x27;}{% endraw %})
 export class numberFormatPipe implements PipeTransform {
   transform(value: string): string {
 
     if(Intl) {
-	  return new Intl.NumberFormat(navigator.language, {maximumFractionDigits:2}).format(Number(value));
+	  return new Intl.NumberFormat(navigator.language, {% raw %}{maximumFractionDigits:2}{% endraw %}).format(Number(value));
     } else {
 	  return value;
     }
@@ -327,15 +328,15 @@ Notice the addition of `maximumFractionDigits`. This will cut off decimals to 2 
 First the home page:
 
 <pre><code class="language-markup">
-&lt;ion-note item-right&gt;Last rated: {%raw%}{{cat.lastRating | dtFormat}}{%endraw%}&lt;&#x2F;ion-note&gt;
+&lt;ion-note item-right&gt;Last rated: {% raw %}{{cat.lastRating |{% endraw %} dtFormat}}&lt;&#x2F;ion-note&gt;
 </code></pre>
 
 Then the detail:
 
 <pre><code class="language-markup">
 &lt;ion-card-content&gt;
-	The cat {%raw%}{{cat.name}}{%endraw%} has gotten {%raw%}{{cat.numRatings | numberFormat }}{%endraw%} ratings with an 
-	average of {%raw%}{{cat.avgRating | numberFormat}}{%endraw%}.
+	The cat {% raw %}{{cat.name}{% endraw %}} has gotten {% raw %}{{cat.numRatings |{% endraw %} numberFormat }} ratings with an 
+	average of {% raw %}{{cat.avgRating |{% endraw %} numberFormat}}.
 &lt;&#x2F;ion-card-content&gt;
 </code></pre>
 

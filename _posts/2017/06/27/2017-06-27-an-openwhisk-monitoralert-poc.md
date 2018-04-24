@@ -5,6 +5,7 @@ date: "2017-06-27T14:54:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/ow_alert.jpg
+permalink: /2017/06/27/an-openwhisk-monitoralert-poc
 ---
 
 A few weeks back I posted (<a href="https://www.raymondcamden.com/2017/06/16/monitoring-openwhisk-activity/">Monitoring OpenWhisk Activity</a>) about how you can monitor your OpenWhisk activity. One of the things I made note of is that it would be nice to have an "alert" system such that I could specify that if a certain action began performing poorly, I could get an alert. Now "poor" is a fairly nebulous term, but today I worked on a little demo that I'd like to share. It uses OpenWhisk itself to monitor your OpenWhisk actions, but in general, I'm more concerned about my code failing, or third party APIs failing, then OpenWhisk itself.
@@ -50,7 +51,7 @@ function main(args) {
 		args.max = MAX_LIMIT;
 	}
 
-	console.log(`Checking action ${args.action} starting at time ${args.from} and expecting a success rate of ${args.rate}%`);
+	console.log(`Checking action ${% raw %}{args.action}{% endraw %} starting at time ${% raw %}{args.from}{% endraw %} and expecting a success rate of ${% raw %}{args.rate}{% endraw %}%`);
 
 	let status = false;
 
@@ -62,7 +63,7 @@ function main(args) {
 			docs:true
 		}).then((results) =&gt; {
 			&#x2F;&#x2F;early out
-			if(results.length === 0) resolve({status:status, action:args.action});
+			if(results.length === 0) resolve({% raw %}{status:status, action:args.action}{% endraw %});
 			let total = results.length;
 
 			let totalGood = results.reduce( (acc, val) =&gt; {
@@ -70,12 +71,12 @@ function main(args) {
 				return acc;
 			},0);
 			let successRate = Math.floor(totalGood&#x2F;total*100);
-			console.log(`${total} activations, ${totalGood} good, for a rate of ${successRate}%`);
+			console.log(`${% raw %}{total}{% endraw %} activations, ${% raw %}{totalGood}{% endraw %} good, for a rate of ${% raw %}{successRate}{% endraw %}%`);
 			if(successRate &lt; args.rate) status = true;
-			resolve({status:status, action:args.action});
+			resolve({% raw %}{status:status, action:args.action}{% endraw %});
 		}).catch(err =&gt; {
 			console.log(&#x27;error&#x27;, JSON.stringify(err));
-			reject({error:err});
+			reject({% raw %}{error:err}{% endraw %});
 		});
 	});
 
@@ -113,7 +114,7 @@ const helper = require(&#x27;sendgrid&#x27;).mail;
 
 function main(args) {
 
-    if(!args.status) return {result:0};
+    if(!args.status) return {% raw %}{result:0}{% endraw %};
 
 	let SG_KEY = args.SG_KEY;
 
@@ -122,7 +123,7 @@ function main(args) {
 	let subject = &#x27;Failure Rate Alert: &#x27;+args.action;
 
     let mainTemplate = `
-The action, ${args.action}, has fallen beneath its desired success rate.
+The action, ${% raw %}{args.action}{% endraw %}, has fallen beneath its desired success rate.
 Take action!
 `;
 
@@ -141,9 +142,9 @@ Take action!
         sg.API(request, function(error, response) {
             if(error) {
                 console.log(&#x27;error in sg&#x27;, error.response.body);
-                reject({error:error.message}) 
+                reject({% raw %}{error:error.message}{% endraw %}) 
             } else {
-                resolve({result:1});
+                resolve({% raw %}{result:1}{% endraw %});
             }
         });
 
@@ -171,7 +172,7 @@ const twilio = require(&#x27;twilio&#x27;);
 function main(args) {
 
     var client = new twilio(args.accountSid, args.authToken);
-    let body = `The action, ${args.action}, has fallen beneath its desired success rate. Take action!`;
+    let body = `The action, ${% raw %}{args.action}{% endraw %}, has fallen beneath its desired success rate. Take action!`;
 
     return new Promise((resolve, reject) =&gt; {
         client.messages.create({
@@ -180,11 +181,11 @@ function main(args) {
             from: args.from
         })
         .then((message) =&gt; {
-            resolve({result:1});
+            resolve({% raw %}{result:1}{% endraw %});
         })
         .catch(err =&gt; {
             console.log(err);
-            reject({error:err});
+            reject({% raw %}{error:err}{% endraw %});
         });
         
     });

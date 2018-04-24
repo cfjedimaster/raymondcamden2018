@@ -5,6 +5,7 @@ date: "2017-07-31T15:47:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2017/07/31/geolocation-emulation-in-chrome-and-others
 ---
 
 This isn't necessarily new, but as I ran into it recently I thought I'd share as it was pretty cool. Last week I blogged about a demo I had built (["Serverless for Vampires"](https://www.raymondcamden.com/2017/07/27/serverless-for-vampires/), you read it, right?) and as part of that demo I had some simple front-end code making use of the [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation). It's a simple enough API, but I specifically needed to test with a few different locations.

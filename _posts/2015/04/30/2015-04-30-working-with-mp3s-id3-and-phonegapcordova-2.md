@@ -5,6 +5,7 @@ date: "2015-04-30T16:24:24+06:00"
 categories: Development Mobile 
 tags: cordova ionic
 banner_image: 
+permalink: /2015/04/30/working-with-mp3s-id3-and-phonegapcordova-2
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/04/29/working-with-mp3s-id3-and-phonegapcordova">blogged</a> about using MP3s and ID3 information in a PhoneGap/Cordova application. Today I've taken the initial proof of concept I built in that demo and updated to make use of the <a href="http://ionicframework.com">Ionic framework</a>. I've also a few other features to make the application a bit more applicable to real world usage. Finally, I've also uploaded it my GitHub repo (along with a copy of the last version) for you to use in your own applications. Before we get into the code, let's take a look at the visual updates.
@@ -147,7 +148,7 @@ So far so good? Ok, let's take a look at the service. Most of this is from yeste
 								var title = entry.name;
 								if(tags.title) title = tags.title;
 								//for now - not optimal to include music here, will change later
-								data.push({name:title, tags:tags, url:mp3Loc+entry.name});
+								data.push({% raw %}{name:title, tags:tags, url:mp3Loc+entry.name}{% endraw %});
 								if(index+1 &lt; entries.length) {
 									process(++index, cb);
 								} else {
@@ -189,8 +190,8 @@ So far so good? Ok, let's take a look at the service. Most of this is from yeste
 
 	var media;
 	function play(l) {
-		if(media) { media.stop(); media.release(); }
-		media = new Media(l,function() {}, function(err) { console.dir(err);});
+		if(media) {% raw %}{ media.stop(); media.release(); }{% endraw %}
+		media = new Media(l,function() {% raw %}{}, function(err) { console.dir(err);}{% endraw %});
 		media.play();
 	}
 	

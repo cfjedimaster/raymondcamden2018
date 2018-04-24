@@ -5,6 +5,7 @@ date: "2015-11-03T16:28:08+06:00"
 categories: HTML5 
 tags: 
 banner_image: 
+permalink: /2015/11/03/in-defense-of-the-reset-button
 ---
 
 Earlier this morning, in a fit of intense silliness - I tweeted an observation about reset buttons and forms:

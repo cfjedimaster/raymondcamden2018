@@ -5,6 +5,7 @@ date: "2015-12-04T08:44:30+06:00"
 categories: Development 
 tags: swift
 banner_image: 
+permalink: /2015/12/04/swift-goes-open-source-and-loads-of-new-resources
 ---
 
 Yesterday was a big day for Swift developers - Apple announced the open source release of the Swift language. There's a new home for this initiative, <a href="https://swift.org/">Swift.org</a>, and the complete source for the language is up on GitHub: <a href="https://github.com/apple/swift">https://github.com/apple/swift</a>.

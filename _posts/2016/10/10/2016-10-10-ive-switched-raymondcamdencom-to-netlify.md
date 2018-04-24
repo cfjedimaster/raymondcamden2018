@@ -5,6 +5,7 @@ date: "2016-10-10T08:06:00-07:00"
 categories: Static Sites 
 tags: 
 banner_image: 
+permalink: /2016/10/10/ive-switched-raymondcamdencom-to-netlify
 ---
 
 The title pretty much says it all. Since switching from WordPress early in 2015, I've been using [Surge](https://surge.sh/) as my web host for raymondcamden.com. Outside of a few hiccups, this has worked well. (And even when their were hiccups, it wasn't on me to fix!) I want to thank the folks at Surge for their consistent support and for providing a cool as hell service.

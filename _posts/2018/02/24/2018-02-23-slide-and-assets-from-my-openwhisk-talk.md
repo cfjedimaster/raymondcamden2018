@@ -5,6 +5,7 @@ date: "2018-02-24"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/publicspeaking.jpg
+permalink: /2018/02/24/slide-and-assets-from-my-openwhisk-talk
 ---
 
 I apologize for simply not including this in my [last post](https://www.raymondcamden.com/2018/02/23/slide-and-assets-from-my-vuejs-talk/), but here are my assets for my (last ever!) talk on Apache OpenWhisk and IBM Cloud Functions.

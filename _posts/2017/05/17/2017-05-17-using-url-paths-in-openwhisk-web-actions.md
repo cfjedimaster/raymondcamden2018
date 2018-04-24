@@ -5,6 +5,7 @@ date: "2017-05-17T08:42:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/05/17/using-url-paths-in-openwhisk-web-actions
 ---
 
 Time for another quick OpenWhisk tip. As you know (or may know!), when you create an OpenWhisk [web action](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_webactions.html#openwhisk_webactions), you can pass parameters via the query string or via a form post. So consider the following trivial action:
@@ -81,8 +82,8 @@ All I've done is look for the path, see if it has length, and then I parse it. N
 
 Heh, oops. Almost. So you may have noticed I used `decodeURIComponent` above, and it works correctly if you encode spaces with %20:
 
-<a href="https://openwhisk.ng.bluemix.net/api/v1/web/rcamden@us.ibm.com_My%20Space/safeToDelete/pathTest/name/Raymond%20Camden">
-https://<span></span>openwhisk.ng.bluemix.net/api/v1/web/<br/>rcamden@us.ibm.com_My%20Space/safeToDelete/pathTest/name/Raymond%20Camden</a>
+<a href="https://openwhisk.ng.bluemix.net/api/v1/web/rcamden@us.ibm.com_My{% raw %}%20Space/safeToDelete/pathTest/name/Raymond%{% endraw %}20Camden">
+https://<span></span>openwhisk.ng.bluemix.net/api/v1/web/<br/>rcamden@us.ibm.com_My{% raw %}%20Space/safeToDelete/pathTest/name/Raymond%{% endraw %}20Camden</a>
 
 ![This is ok](https://static.raymondcamden.com/images/2017/5/owpath2.png)
 

@@ -5,6 +5,7 @@ date: "2017-09-21T07:02:00-07:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2017/09/21/quick-note-on-cflib
 ---
 
 I haven't blogged about ColdFusion, or [CFLib](http://cflib.org/) in a while, but I wanted to give folks a quick update. I migrated CFLib to Node, and then static, years ago. Due to me not really working with ColdFusion anymore and a general slowdown in submissions, I thought it was best to convert it to a static site. 

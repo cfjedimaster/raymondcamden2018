@@ -5,6 +5,7 @@ date: "2017-10-13T07:55:00-07:00"
 categories: Development JavaScript 
 tags: javascript
 banner_image: 
+permalink: /2017/10/13/some-pwa-tips
 ---
 
 Yesterday I [blogged](https://www.raymondcamden.com/2017/10/12/turning-my-no-mans-sky-app-into-a-pwa/) about my experience turning a simple front-end application into a PWA. Since then I've had some things come up that I wanted to share related to PWA (Progessive Web Apps). This is a bit of a random collection of items but I hope it's helpful.

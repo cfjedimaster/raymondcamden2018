@@ -5,6 +5,7 @@ date: "2016-12-21T09:55:00-07:00"
 categories: JavaScript 
 tags: nodejs loopback
 banner_image: /images/banners/loopbak.jpg
+permalink: /2016/12/21/loopback-30-released
 ---
 
 Christmas arrived early for [LoopBack](http://loopback.io/) developers - today LoopBack 3.0 was released. To update, go into terminal and run the following:

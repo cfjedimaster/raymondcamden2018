@@ -5,6 +5,7 @@ date: "2016-08-30T09:03:00-07:00"
 categories: ColdFusion 
 tags: 
 banner_image: /images/banners/cbl.jpg
+permalink: /2016/08/30/using-commandbox-for-lucee
 ---
 
 I think I've been very clear about my lack of interest in working with ColdFusion. It served me well for many years, but I've moved on to other technologies (Node!) that are more appropriate for me. When I do use ColdFusion, I've been trying to stick to [Lucee](http://lucee.org/). It's open source, free, and incredibly light-weight. About the only "code" problem I've had with it so far is with cfspreadsheet and even that was fixed after a bit of research. I've got other reasons to prefer Lucee over Adobe CF as well, but yeah, I'm still "biting my tongue" on that.

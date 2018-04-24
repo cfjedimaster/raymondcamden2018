@@ -5,6 +5,7 @@ date: "2017-02-02T15:03:00-07:00"
 categories: Serverless 
 tags: OpenWhisk
 banner_image: /images/banners/openwhisk_triggers.jpg
+permalink: /2017/02/02/working-with-openwhisk-triggers
 ---
 
 Today I'm covering one of the last major features of OpenWhisk, Triggers. To be clear, there is a lot more
@@ -65,11 +66,11 @@ based on an particular recipe, including making a HTTP call.
 This is when I was told that you can trigger any URL via a REST API. This is documented [here](https://github.com/openwhisk/openwhisk/blob/master/docs/reference.md#rest-api) and it's
 something I had not noticed before. The general URL to run a trigger is to send a POST to:
 
-<pre><code class="language-javascript">https://{BASE URL}/api/v1/namespaces/{namespace}/triggers/{triggerName}
+<pre><code class="language-javascript">https://{% raw %}{BASE URL}{% endraw %}/api/v1/namespaces/{% raw %}{namespace}{% endraw %}/triggers/{% raw %}{triggerName}{% endraw %}
 </code></pre>
 
-<code>{BASE_URL}</code> should be <code>openwhisk.ng.bluemix.net</code> and 
-<code>{namespace}</code> can be <code>\_</code> to use your default
+<code>{% raw %}{BASE_URL}{% endraw %}</code> should be <code>openwhisk.ng.bluemix.net</code> and 
+<code>{% raw %}{namespace}{% endraw %}</code> can be <code>\_</code> to use your default
 space. Authentication is tricky. You do <strong>not</strong> use your Bluemix login. Rather you use the authentication credentials
 created when you first started using the OpenWhisk CLI. 
 
@@ -133,10 +134,10 @@ function main(args) {
 
 	let date = new Date();
 	let content = `
-New Tweet from @raymondcamden at ${date}
+New Tweet from @raymondcamden at ${% raw %}{date}{% endraw %}
 --------------------------------
 
-${args.tweet}
+${% raw %}{args.tweet}{% endraw %}
 `;
 
 
@@ -155,12 +156,12 @@ ${args.tweet}
 		sg.API(request, function(error, response) {
 			if(error) {
 				console.log(error.response.body);
-				reject({error:error.message}) 
+				reject({% raw %}{error:error.message}{% endraw %}) 
 			} else {
 				console.log(response.statusCode);
 				console.log(response.body);
 				console.log(response.headers);
-				resolve({result:&#x27;Ok&#x27;});
+				resolve({% raw %}{result:&#x27;Ok&#x27;}{% endraw %});
 			}
 		});
 

@@ -5,6 +5,7 @@ date: "2016-10-08T13:24:00-07:00"
 categories: Television 
 tags: 
 banner_image: /images/banners/theflash.png
+permalink: /2016/10/08/ive-fallen-in-love-with-the-flash
 ---
 
 I want to talk a bit about "The Flash", but before I do so, let me talk about something completely different - "Green Lantern". I'm talking about the 2011 movie with Ryan Renolds. Yes - <em>that one...</em>

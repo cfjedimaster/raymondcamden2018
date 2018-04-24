@@ -5,6 +5,7 @@ date: "2015-02-18T14:40:01+06:00"
 categories: Development HTML5 JavaScript Mobile 
 tags: 
 banner_image: 
+permalink: /2015/02/18/apache-cordova-meap
 ---
 
 A few months ago I <a href="http://www.raymondcamden.com/2014/11/25/Early-Access-to-My-Next-Book-Apache-Cordova-in-Action">announced</a> early access to my Apache Cordova book, "Apache Cordova in Action." Today the MEAP (Manning Early Access Program) edition of the book was updated to include chapter 6. If you haven't yet checked it out, and don't mind getting in early (I won't call it "rough", I'll call it "frisky", yeah, that's it), today may be a great day to pick it up. The released chapters cover:

@@ -5,6 +5,7 @@ date: "2015-03-08T10:23:55+06:00"
 categories: Development Mobile 
 tags: 
 banner_image: 
+permalink: /2015/03/08/warning-about-ionic-live-reload-and-the-phonegap-developer-app
 ---
 
 This morning I ran into an odd issue with what should have been relatively simple code. I'm working on a set of demos using <a href="http://www.ionicframework.com">Ionic</a> and <a href="http://cordova.apache.org">Cordova</a> that demonstrate a particular use case of the camera. While testing, I noticed that I couldn't see an image I had selected from the gallery.
@@ -13,7 +14,7 @@ This morning I ran into an odd issue with what should have been relatively simpl
 
 At first, I thought it was the Angular issue (ok, they call it a feature, and I get the reasoning, but I call it a bug and I'm happy to be wrong) where the library will block you from injecting potentially dangerous stuff into the DOM. The fix for that is rather simple - just add a regex to imgSrcSanitizationWhitelist:
 
-<pre><code class="language-javascript">$compileProvider.imgSrcSanitizationWhitelist(/^\s*(https?|ftp|mailto|content|file|assets-library):/);</code></pre>
+<pre><code class="language-javascript">$compileProvider.imgSrcSanitizationWhitelist(/^\s*(https?{% raw %}|ftp|{% endraw %}mailto{% raw %}|content|{% endraw %}file|assets-library):/);</code></pre>
 
 However, that didn't work. I had been testing with iOS so I quickly switched to Android and tested there. I noticed I had the same issue. 
 

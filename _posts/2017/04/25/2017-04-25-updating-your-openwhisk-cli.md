@@ -5,6 +5,7 @@ date: "2017-04-25T11:29:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/04/25/updating-your-openwhisk-cli
 ---
 
 This is just a quick reminder that the [OpenWhisk](https://developer.ibm.com/openwhisk/) CLI tool updates often, and unfortunately, doesn't provide a warning when it has become out of date. I've yet to see things break, of course, but obviously as a developer you want to ensure you have the latest and greatest installed.

@@ -5,6 +5,7 @@ date: "2016-06-09T13:16:00-07:00"
 categories: Development 
 tags: nodejs
 banner_image: /images/banners/nexmo.jpg
+permalink: /2016/06/09/an-example-of-nexmos-communications-api
 ---
 
 Earlier this week I got a pretty interesting request from a client: He wanted to use a service that would make a voice call to a number, ask them to record a message, and then store the result. He had an API already in mind, [Nexmo](https://www.nexmo.com/). 
@@ -97,7 +98,7 @@ var Nexmo = function(key,secret,defaultFrom) {
 };
 
 Nexmo.prototype.call = function(number,responseUrl,cb) {
-	var theUrl = `https://rest.nexmo.com/call/json?api_key=${this.config.key}&api_secret=${this.config.secret}&to=${number}&from=${this.config.defaultFrom}&answer_url=${encodeURI(responseUrl)}`;
+	var theUrl = `https://rest.nexmo.com/call/json?api_key=${% raw %}{this.config.key}{% endraw %}&api_secret=${% raw %}{this.config.secret}{% endraw %}&to=${% raw %}{number}{% endraw %}&from=${% raw %}{this.config.defaultFrom}{% endraw %}&answer_url=${% raw %}{encodeURI(responseUrl)}{% endraw %}`;
 	console.log('theUrl',theUrl);
 
 	request(theUrl, function(error, response, body) {
@@ -122,7 +123,7 @@ Using a sync file read since it is read one time.
 var responseVXML = fs.readFileSync('./response.vxml').toString();
 app.get('/response', function(req, res) {
 	var saveURL = app.get('domain') + '/save';
-	var toSend = responseVXML.replace('{%raw%}{{saveURL}}{%endraw%}',saveURL);
+	var toSend = responseVXML.replace('{% raw %}{{saveURL}{% endraw %}}',saveURL);
 	res.send(toSend);
 });
 </code></pre>
@@ -140,7 +141,7 @@ The comments in the handler mostly explain what I'm doing. I wrote my VoiceXML r
 			&lt;prompt&gt;
 				Your recording was saved. Thank you.
 			&lt;/prompt&gt;
-			&lt;submit next=&quot;{%raw%}{{saveURL}}{%endraw%}&quot; method=&quot;post&quot; namelist=&quot;recording&quot; enctype=&quot;multipart/form-data&quot;/&gt;
+			&lt;submit next=&quot;{% raw %}{{saveURL}{% endraw %}}&quot; method=&quot;post&quot; namelist=&quot;recording&quot; enctype=&quot;multipart/form-data&quot;/&gt;
 		&lt;/filled&gt;
 	&lt;/record&gt;
     &lt;/form&gt;

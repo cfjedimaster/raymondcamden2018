@@ -5,6 +5,7 @@ date: "2015-01-22T11:29:31+06:00"
 categories: Design Development HTML5 JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/01/22/front-end-interview-questions
 ---
 
 A few days ago, either someone tweeted or someone shared with me an interesting document: <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-end Developer Interview Questions</a>. This document (well, Git repo really) is a large set of questions that could be appropriate for interviewing someone for the role of a front-end developer. While this was new to me, apparently this document started way back in 2009 (did we even have browsers then?) and has had contributions from quite a few people. 
@@ -21,7 +22,7 @@ I've recently gone through a few interviews myself. I've discovered that I'm qui
 <li>Any familiarity with styling SVG?</li>
 <li>What are some of the "gotchas" for writing efficient CSS?</li>
 <li>What's the difference between inline and inline-block?</li>
-<li>Explain how this works in JavaScript (Yes, I admit this. I think I know it, but I don't think I have a 100% lock down on the answer here and I <strong>want</strong> a 100% lock down.)</li>
+<li>Explain how this works in JavaScript (Yes, I admit this. I think I know it, but I don't think I have a 100{% raw %}% lock down on the answer here and I <strong>want</strong> a 100%{% endraw %} lock down.)</li>
 <li>AMD vs. CommonJS?</li>
 <li>What's the difference between host objects and native objects?</li>
 </ul>

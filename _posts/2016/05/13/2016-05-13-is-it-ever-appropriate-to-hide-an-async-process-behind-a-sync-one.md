@@ -5,6 +5,7 @@ date: "2016-05-13T05:46:00-07:00"
 categories: Development 
 tags: 
 banner_image: /images/banners/question.jpg
+permalink: /2016/05/13/is-it-ever-appropriate-to-hide-an-async-process-behind-a-sync-one
 ---
 
 So this is something I'd consider posting to [StackOverflow](http://www.stackoverflow.com), but it feels like it may not be 100% appropriate for SO and as we know, if you ask something not appropriate, you get knocked down pretty quickly. While this is a technical question, it is also an *opinion* one as well, so I'm not sure. I figure if I'm not sure, I might as well just ask here and not worry about the SO Overlords approving of my question. I approve, and that's all that matters. ;)
@@ -22,7 +23,7 @@ function writeLog(str) {
         
         fileWriter.seek(fileWriter.length);
         
-        var blob = new Blob([log], {type:'text/plain'});
+        var blob = new Blob([log], {% raw %}{type:'text/plain'}{% endraw %});
         fileWriter.write(blob);
         console.log("ok, in theory i worked");
     }, fail);

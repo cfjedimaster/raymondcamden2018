@@ -5,6 +5,7 @@ date: "2015-07-14T13:06:11+06:00"
 categories: Development HTML5 JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/07/14/quick-tip-navigating-in-ionic-without-history
 ---
 
 Before I start, just a quick note. What I'm describing here is clearly <a href="http://ionicframework.com/docs/api/service/$ionicHistory/">documented</a>, but as I keep reminding myself I've yet to read 100% of the Ionic docs and I really need to. A big thank you goes out to @breakingthings on the <strong>Ionic Worldwide</strong> Slack channel for letting me know about this. So here's the question. Imagine you have an Ionic app with a login screen:

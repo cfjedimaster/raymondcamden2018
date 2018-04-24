@@ -5,6 +5,7 @@ date: "2015-07-15T16:04:07+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova ionic
 banner_image: 
+permalink: /2015/07/15/saucedb-working-on-the-front-end
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb">blogged</a> about a new project I'm building to demonstrate both <a href="http://www.ionicframework.com/">Ionic</a> and <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. I've made some progress on the project so I thought I'd share what I've built so far. My thinking is that as this project goes on I'll continue to share these updates so folks can see how I approach projects. Feel free to comment, criticize and make suggestions!
@@ -29,7 +30,7 @@ This has a lot of wasted space - and I'd imagine some nice logo above the button
   
   $ionicPlatform.ready(function() {
 
-    ngFB.init({appId: '467761313406666'});
+    ngFB.init({% raw %}{appId: '467761313406666'}{% endraw %});
     
     $scope.doLogin = function() {
 
@@ -41,12 +42,12 @@ This has a lot of wasted space - and I'd imagine some nice logo above the button
         return;
       }
 
-      ngFB.login({scope: 'email'}).then(function(response) {          
+      ngFB.login({% raw %}{scope: 'email'}{% endraw %}).then(function(response) {          
           console.log('Facebook login succeeded', response.authResponse.accessToken);
           $rootScope.accessToken = response.authResponse.accessToken;
           ngFB.api({
             path:'/me',
-            params: { fields: 'id,name'}
+            params: {% raw %}{ fields: 'id,name'}{% endraw %}
           }).then(
             function(user) {
               console.log(user);
@@ -80,7 +81,7 @@ Let's take a look at the code. First, the controller.
 
 <pre><code class="language-javascript">.controller('HomeCtrl', function($scope,dataService,$ionicLoading,$ionicModal,$state) {
   console.log('HomeCtrl');
-  $ionicLoading.show({template:&quot;Loading feed...&quot;});
+  $ionicLoading.show({% raw %}{template:&quot;Loading feed...&quot;}{% endraw %});
   
   dataService.getFeed().then(function(res) {
     $ionicLoading.hide();
@@ -103,7 +104,7 @@ Let's take a look at the code. First, the controller.
   
   $scope.doLoad = function(id) {
     $scope.modal.hide();
-    $state.go(&quot;AddReview&quot;, {id:id});
+    $state.go(&quot;AddReview&quot;, {% raw %}{id:id}{% endraw %});
   }
   
   $scope.addReviewForm = function() {
@@ -169,7 +170,7 @@ I showed the search code at the controller layer up above. The search service it
 	]
 	var results = [];
 	for(var i=0;i&lt;names.length;i++) {
-		if(names[i].toLowerCase().indexOf(term) &gt;= 0) results.push({id:1,label:names[i]});	
+		if(names[i].toLowerCase().indexOf(term) &gt;= 0) results.push({% raw %}{id:1,label:names[i]}{% endraw %});	
 	}
 	deferred.resolve(results);
 	return deferred.promise;
@@ -193,8 +194,8 @@ The fancy star widget there came from <a href="https://github.com/fraserxu/ionic
 	&lt;ion-content class=&quot;padding&quot;&gt;
 	
 		&lt;div ng-if=&quot;existingSauce&quot;&gt;
-			Sauce: {%raw%}{{sauce.name}}{%endraw%}&lt;br/&gt;
-			Company: {%raw%}{{sauce.company}}{%endraw%}
+			Sauce: {% raw %}{{sauce.name}{% endraw %}}&lt;br/&gt;
+			Company: {% raw %}{{sauce.company}{% endraw %}}
 		&lt;/div&gt;
 		
 		&lt;!-- your text --&gt;

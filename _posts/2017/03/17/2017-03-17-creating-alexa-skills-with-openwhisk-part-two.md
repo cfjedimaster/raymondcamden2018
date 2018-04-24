@@ -5,6 +5,7 @@ date: "2017-03-17T09:53:00-07:00"
 categories: Serverless 
 tags: openwhisk alexa
 banner_image: /images/banners/alexaow2.jpg
+permalink: /2017/03/17/creating-alexa-skills-with-openwhisk-part-two
 ---
 
 This is my followup to [last week's post](https://www.raymondcamden.com/2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk) on building Alexa skills with [OpenWhisk](https://developer.ibm.com/openwhisk/). What I'm describing today represents some *very* recent changes and I would warn people that this post may change in the future. The focus of this post involves what you need to do to get your Alexa skill verified. I'm still in the process of doing that myself, but my holdup now isn't related to technical issues so I feel safe in sharing this update. Again though - take with a grain of salt and I'll try to ensure I clearly mark any updates post release.
@@ -42,7 +43,7 @@ This is [documented](https://console.ng.bluemix.net/docs/openwhisk/openwhisk_web
 And here comes the super, super, super important thing. When you use this feature, you no longer have access to the arguments from the body as arguments to the function itself. Ok, let me rephrase that with a super small demo:
 
 <pre><code class="language-javascript">function main(args) {
-  return {name:args.name};
+  return {% raw %}{name:args.name}{% endraw %};
 }
 </code></pre>
 
@@ -55,7 +56,7 @@ Here's a new version of the function above that would get name from the raw body
 <pre><code class="language-javascript">function main(args) {
   let body = new Buffer(args.__ow_body,'base64').toString('ascii');
   let data = JSON.parse(body);
-  return {name:data.name};
+  return {% raw %}{name:data.name}{% endraw %};
 }
 </code></pre>
 

@@ -5,6 +5,7 @@ date: "2015-10-20T11:16:06+06:00"
 categories: Development JavaScript jQuery Mobile 
 tags: bluemix
 banner_image: 
+permalink: /2015/10/20/building-my-own-iphone-availability-web-app
 ---
 
 <strong>Before I begin, a quick disclaimer. What I'm building here is completely for fun and because I thought it might be interesting. I'm critiquing and improving a form that was built by people smarter than me and more than adequate for 99.99% of users. Basically, I saw something I wanted to build and I did it.</strong>
@@ -13,7 +14,7 @@ I'm currently the owner of an HTC M8 phone - my foray back into Android after us
 
 <!--more-->
 
-Luckily, Apple has a cool <a href="https://reserve.cdn-apple.com/US/en_US/reserve/iPhone/availability?returnURL=http%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone6s&channel=1&iPP=Y">form</a> you can use to see if your desired phone is available. You select your state, your store, your model, and then your carrier:
+Luckily, Apple has a cool <a href="https://reserve.cdn-apple.com/US/en_US/reserve/iPhone/availability?returnURL=http{% raw %}%3A%{% endraw %}2F{% raw %}%2Fwww.apple.com%{% endraw %}2Fshop{% raw %}%2Fbuy-iphone%{% endraw %}2Fiphone6s&channel=1&iPP=Y">form</a> you can use to see if your desired phone is available. You select your state, your store, your model, and then your carrier:
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/shot16.png" alt="shot1" width="750" height="708" class="aligncenter size-full wp-image-6961 imgborder" />
 
@@ -170,7 +171,7 @@ The state drop down has an event listener to respond to changes. The only thing 
 
 Ok, so now came the scary part - building the actual "based on what you select, filter results" stuff. The first issue I ran into was model data. As I said, every model/capacity/color/carrier had a unique ID. I could have typed this all by hand, but instead, I used dev tools:
 
-<pre><code class="language-javascript">var ray = [];$(".form-choice-selector").each(function(idx) { ray.push($(this).val()); }); copy(JSON.stringify(ray));</code></pre>
+<pre><code class="language-javascript">var ray = [];$(".form-choice-selector").each(function(idx) {% raw %}{ ray.push($(this).val()); }{% endraw %}); copy(JSON.stringify(ray));</code></pre>
 
 What you are seeing is code I ran in the browser console. It fetched each "cell" of the display, got the value (which was the product id), and then used <code>copy</code> to put it in my clipboard. I could then paste into my code. There are 5 carriers and 2 models, so I had to do this 10 times, but it took all of 1 or 2 minutes so it wasn't a big deal.
 

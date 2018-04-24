@@ -5,6 +5,7 @@ date: "2017-05-19T14:30:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/serverless_superman.jpg
+permalink: /2017/05/19/building-the-serverless-superman
 ---
 
 So yes - I built something stupid again. Recently I discovered the awesomeness that is [@Big Data Batman](https://twitter.com/bigdatabatman). This is a twitter account that simply copies tweets with "Big Data" in them and replaces it with "Batman." It works as well as you may think - either lame or incredibly funny. (At least to me.) Here are a few choice samples.
@@ -104,7 +105,7 @@ function diffInMinutes(d1,d2) {
 	var diffMs = (d1 - d2);
 	var diffDays = Math.floor(diffMs &#x2F; 86400000); &#x2F;&#x2F; days
 	var diffHrs = Math.floor((diffMs % 86400000) &#x2F; 3600000); &#x2F;&#x2F; hours
-	var diffMins = Math.round(((diffMs % 86400000) % 3600000) &#x2F; 60000); &#x2F;&#x2F; minutes
+	var diffMins = Math.round(((diffMs {% raw %}% 86400000) %{% endraw %} 3600000) &#x2F; 60000); &#x2F;&#x2F; minutes
 	return diffMins;
 }
 
@@ -139,7 +140,7 @@ function main(args) {
 		};
 	});
 
-	return { tweets:result };
+	return {% raw %}{ tweets:result }{% endraw %};
 }
 </code></pre>
 
@@ -216,9 +217,9 @@ function main(args) {
 			access_token_secret:args.access_token_secret
 		});
 
-		client.post(&#x27;statuses&#x2F;update&#x27;, {status:args.status}, function(err, tweet, response) {
+		client.post(&#x27;statuses&#x2F;update&#x27;, {% raw %}{status:args.status}{% endraw %}, function(err, tweet, response) {
 			if(err) return reject(err);
-			resolve({tweet:tweet});
+			resolve({% raw %}{tweet:tweet}{% endraw %});
 		});
 
 	});

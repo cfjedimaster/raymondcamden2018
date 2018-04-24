@@ -5,6 +5,7 @@ date: "2016-10-16T14:02:00-07:00"
 categories: Development 
 tags: windows
 banner_image: /images/banners/msdev.jpg
+permalink: /2016/10/16/the-microsoft-surface-book-part-three
 ---
 
 Welcome to my third post on my experience with the Microsoft Surface Book and Windows 10. As a reminder, this unit was given to me by Microsoft so I could test and share my experiences. You can (and should) read <a href="https://www.raymondcamden.com/2016/09/26/the-microsoft-surface-book-part-one/">part one</a> and <a href="https://www.raymondcamden.com/2016/10/03/the-microsoft-surface-book-part-two">part two</a>. I began this series talking about the hardware itself. My last post was on Windows. Now I'm going to try to describe how the SB (and Windows of course) performs as a developer machine.

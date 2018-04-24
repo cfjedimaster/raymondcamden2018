@@ -5,6 +5,7 @@ date: "2015-04-24T15:39:43+06:00"
 categories: Development JavaScript 
 tags: bluemix
 banner_image: 
+permalink: /2015/04/24/connecting-pouchdb-to-ibm-bluemix
 ---
 
 So, as always, I tend to feel I'm a bit late to things. Earlier today my coworker <a href="http://www.tricedesigns.com/">Andy</a> was talking to me about <a href="http://pouchdb.com/">PouchDB</a>. PouchDB is a client-side database solution that works in all the major browsers (and Node) and intelligently picks the best storage system available. It is even smart enough to recognize that while Safari supports IDB, it doesn't make sense to use it and switches to WebSQL. It has a relatively simply API and best of all - it has <i>incredibly</i> simple sync built in. 

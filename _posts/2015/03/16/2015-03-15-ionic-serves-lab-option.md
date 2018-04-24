@@ -5,6 +5,7 @@ date: "2015-03-16T09:41:16+06:00"
 categories: Development Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/03/16/ionic-serves-lab-option
 ---
 
 This isn't new, but as I prep for my <a href="http://fluentconf.com/javascript-html-2015/public/schedule/detail/38903">FluentConf presentation</a> on Ionic I'm remembering cool stuff that I've forgotten over time. If you already use <a href="http://www.ionicframework.com">Ionic</a> then I bet you know this feature, but maybe you don't, and maybe you're waiting for <i>just one more cool feature</i> to be demonstrated before you make the jump. 

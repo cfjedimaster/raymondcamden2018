@@ -5,6 +5,7 @@ date: "2016-06-29T09:51:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2016/06/29/no-back-button-in-your-ionic-header
 ---
 
 A few months ago I wrote up a quick article about titles not correctly updating in Ionic V1 apps ([Is your Ionic View title not updating?](https://www.raymondcamden.com/2015/12/18/is-your-ionic-view-title-not-updating/)). Today I've run into another little issue with the header. I was working on a *very* quick demo for a presentation tonight and had an app with a grand total of two views - a master list and detail.

@@ -5,6 +5,7 @@ date: "2016-06-23T08:18:00-07:00"
 categories: Development JavaScript 
 tags: nodejs
 banner_image: 
+permalink: /2016/06/23/some-quick-tips-for-passport
 ---
 
 Yesterday I decided to take a look at [Passport](http://passportjs.org/), an open source library for Node.js focused on authentication. LoopBack supports Passport too, but when I first looked at it, I realized that I knew nothing about Passport itself and it would make sense to try it by itself before I try wrapping it with LoopBack.
@@ -25,13 +26,13 @@ var passport = require('passport')
 
 passport.use(new LocalStrategy(
   function(username, password, done) {
-    User.findOne({ username: username }, function (err, user) {
-      if (err) { return done(err); }
+    User.findOne({% raw %}{ username: username }{% endraw %}, function (err, user) {
+      if (err) {% raw %}{ return done(err); }{% endraw %}
       if (!user) {
-        return done(null, false, { message: 'Incorrect username.' });
+        return done(null, false, {% raw %}{ message: 'Incorrect username.' }{% endraw %});
       }
       if (!user.validPassword(password)) {
-        return done(null, false, { message: 'Incorrect password.' });
+        return done(null, false, {% raw %}{ message: 'Incorrect password.' }{% endraw %});
       }
       return done(null, user);
     });
@@ -53,7 +54,7 @@ passport.use(new LocalStrategy(
 
 		//any username, password=admin
 		if(password === 'admin') {
-			return done(null, {id:1,name:username});
+			return done(null, {% raw %}{id:1,name:username}{% endraw %});
 		} else {
 			return done(null, false);
 		}
@@ -102,7 +103,7 @@ This too is documented but wasn't clear to me at first. Given a route with a req
 <pre><code class="language-javascript">
 app.get('/', function(req, res) {
 	console.log(req.user);
-	res.render('index',{message:req.flash('error')});
+	res.render('index',{% raw %}{message:req.flash('error')}{% endraw %});
 });
 
 app.post('/login', passport.authenticate('local', 
@@ -120,7 +121,7 @@ function requireLogin(req,res,next) {
 }
 
 app.get('/dashboard', requireLogin, function(req, res) {
-	res.render('dashboard',{user:req.user});
+	res.render('dashboard',{% raw %}{user:req.user}{% endraw %});
 });
 </code></pre>
 

@@ -5,6 +5,7 @@ date: "2018-03-28"
 categories: Serverless 
 tags: webtask
 banner_image: /images/banners/library.jpg
+permalink: /2018/03/28/links-for-learning-webtask
 ---
 
 This will be a quick post. I wanted to share a few links for people who want to take a look at [Auth0 Webtask](https://webtask.io/), the serverless platform behind [Extend](https://auth0.com/extend). Some of these links will be obvious, some not, but hopefully they will be helpful for folks who want to learn more.

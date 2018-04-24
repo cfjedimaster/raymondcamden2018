@@ -5,6 +5,7 @@ date: "2018-02-01"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2018/02/01/better-support-for-scheduled-actions-with-openwhisk-and-ibm-cloud-functions
 ---
 
 For a while now (certainly for as long as I've been using it), OpenWhisk/IBM Cloud Functions has had one main way to handle "scheduled" action invocations, the [Alarm](https://console.bluemix.net/docs/openwhisk/openwhisk_alarms.html#openwhisk_catalog_alarm) package. In order to this feature you would use the `alarm` feed (part of the alarm package, yes, both share the same name) and specify a CRON string for your schedule. 

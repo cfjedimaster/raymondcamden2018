@@ -5,6 +5,7 @@ date: "2017-02-14T12:56:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/911ow.jpg
+permalink: /2017/02/14/collecting-911-data-openwhisk-cron-triggers
 ---
 
 Today I'm sharing probably the most complex thing I've built with [OpenWhisk](https://developer.ibm.com/openwhisk/). While I'm proud of it, I will remind people I'm still the newbie to this world, so keep that in mind as I explain what I did.
@@ -33,7 +34,7 @@ The data I'm parsing lives at http://lafayette911.org. As you can see, it is a t
 I began by doing a quick view source to see how the HTML was created. Turned out the table was driven by an iframe pointing to http://apps.lafayettela.gov/L911/default.aspx. Looking at the source code there I saw that the data was driven by an Ajax call to http://apps.lafayettela.gov/L911/Service2.svc/getTrafficIncidents. I got excited because I thought - for a moment - that I wouldn't have to parse anything. Turns out, the JSON was actually formatted HTML (I slimmed it down a bit):
 
 <pre><code class="language-javascript">
-{&quot;d&quot;:&quot; &lt;center&gt;&lt;a href=\&quot;#KEY\&quot;&gt;KEY&lt;\&#x2F;a&gt;&lt;table border=0 bgcolor=\&quot;white\&quot;&gt;&lt;tr bgcolor=\&quot;#99FF99\&quot;&gt;&lt;td&gt;&lt;b&gt;&amp;nbsp;&lt;a href=&#x27;http:\&#x2F;\&#x2F;maps.google.com\&#x2F;maps?q=2909+NW+EVANGELINE+THROUGHWAY+,LAFAYETTE+LA&#x27; target=&#x27;_new&#x27;&gt;2909 NW EVANGELINE TW&lt;\&#x2F;a&gt;&amp;nbsp;&lt;BR&gt;&amp;nbsp;LAFAYETTE,LA&amp;nbsp;&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;Vehicle Accident w\&#x2F; Injuries&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;02\&#x2F;14\&#x2F;2017 - 11:59 AM&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;P F M &lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;\&#x2F;tr&gt;&lt;tr bgcolor=\&quot;#FFFF99\&quot;&gt;&lt;td&gt;&lt;b&gt;&amp;nbsp;&lt;a href=&#x27;http:\&#x2F;\&#x2F;maps.google.com\&#x2F;maps?q=1100+SE+EVANGELINE+THROUGHWAY+,LAFAYETTE+LA&#x27; target=&#x27;_new&#x27;&gt;1100 SE EVANGELINE TW&lt;\&#x2F;a&gt;&amp;nbsp;&lt;BR&gt;&amp;nbsp;LAFAYETTE,LA&amp;nbsp;&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;Vehicle Accident w\&#x2F; Injuries&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;02\&#x2F;14\&#x2F;2017 - 11:40 AM&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;P F M &lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;\&#x2F;tr&gt;&lt;\&#x2F;table&gt;&lt;small&gt;Data Updated at 02\&#x2F;14\&#x2F;2017 - 1:12:38 PM &lt;\&#x2F;small&gt;&lt;\&#x2F;center&gt;&lt;script&gt;$(&#x27;dateline&#x27;).innerHTML = &#x27;02\&#x2F;14\&#x2F;2017 - 1:12:38 PM&#x27;; &lt;\&#x2F;script&gt;&quot;}
+{% raw %}{&quot;d&quot;:&quot; &lt;center&gt;&lt;a href=\&quot;#KEY\&quot;&gt;KEY&lt;\&#x2F;a&gt;&lt;table border=0 bgcolor=\&quot;white\&quot;&gt;&lt;tr bgcolor=\&quot;#99FF99\&quot;&gt;&lt;td&gt;&lt;b&gt;&amp;nbsp;&lt;a href=&#x27;http:\&#x2F;\&#x2F;maps.google.com\&#x2F;maps?q=2909+NW+EVANGELINE+THROUGHWAY+,LAFAYETTE+LA&#x27; target=&#x27;_new&#x27;&gt;2909 NW EVANGELINE TW&lt;\&#x2F;a&gt;&amp;nbsp;&lt;BR&gt;&amp;nbsp;LAFAYETTE,LA&amp;nbsp;&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;Vehicle Accident w\&#x2F; Injuries&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;02\&#x2F;14\&#x2F;2017 - 11:59 AM&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;P F M &lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;\&#x2F;tr&gt;&lt;tr bgcolor=\&quot;#FFFF99\&quot;&gt;&lt;td&gt;&lt;b&gt;&amp;nbsp;&lt;a href=&#x27;http:\&#x2F;\&#x2F;maps.google.com\&#x2F;maps?q=1100+SE+EVANGELINE+THROUGHWAY+,LAFAYETTE+LA&#x27; target=&#x27;_new&#x27;&gt;1100 SE EVANGELINE TW&lt;\&#x2F;a&gt;&amp;nbsp;&lt;BR&gt;&amp;nbsp;LAFAYETTE,LA&amp;nbsp;&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;Vehicle Accident w\&#x2F; Injuries&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;02\&#x2F;14\&#x2F;2017 - 11:40 AM&lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;td&gt;&lt;b&gt;P F M &lt;\&#x2F;b&gt;&lt;\&#x2F;td&gt;&lt;\&#x2F;tr&gt;&lt;\&#x2F;table&gt;&lt;small&gt;Data Updated at 02\&#x2F;14\&#x2F;2017 - 1:12:38 PM &lt;\&#x2F;small&gt;&lt;\&#x2F;center&gt;&lt;script&gt;$(&#x27;dateline&#x27;).innerHTML = &#x27;02\&#x2F;14\&#x2F;2017 - 1:12:38 PM&#x27;; &lt;\&#x2F;script&gt;&quot;}{% endraw %}
 </code></pre>
 
 *Sigh*
@@ -50,7 +51,7 @@ function main(args) {
 
 	return new Promise((resolve, reject) =&gt; {
 
-		request(&#x27;http:&#x2F;&#x2F;apps.lafayettela.gov&#x2F;L911&#x2F;Service2.svc&#x2F;getTrafficIncidents&#x27;, {method:&#x27;post&#x27;}, function(err, response, body) {
+		request(&#x27;http:&#x2F;&#x2F;apps.lafayettela.gov&#x2F;L911&#x2F;Service2.svc&#x2F;getTrafficIncidents&#x27;, {% raw %}{method:&#x27;post&#x27;}{% endraw %}, function(err, response, body) {
 
 			if(err) reject(err);
 
@@ -70,7 +71,7 @@ function main(args) {
 				let incidentDate = new Date(daypart + &#x27; &#x27;+timepart);
 				let assisting = $(cells.get(3)).text().trim().split(&#x27; &#x27;);
 				&#x2F;&#x2F;package it up
-				results.push({location:loc, reason:reason, timestamp:incidentDate, assisting: assisting});
+				results.push({% raw %}{location:loc, reason:reason, timestamp:incidentDate, assisting: assisting}{% endraw %});
 			}
 
 			&#x2F;*
@@ -106,7 +107,7 @@ function main(args) {
 				for(var i=0;i&lt;geodata.length;i++) {
 					results[i].geo = geodata[i];
 				}
-				resolve({ traffic:results });
+				resolve({% raw %}{ traffic:results }{% endraw %});
 			});
 
 
@@ -244,7 +245,7 @@ function main(args) {
 		});
 		Promise.all(promises).then((results) =&gt; {
 			console.log(&#x27;all done like a boss&#x27;);
-			resolve({results:results});
+			resolve({% raw %}{results:results}{% endraw %});
 		});
 
 	});
@@ -290,10 +291,10 @@ function addIfNew(d) {
 		                &quot;doc&quot;:d
 					}
 				}).then(function(res) {
-					resolve({result:1});
+					resolve({% raw %}{result:1}{% endraw %});
 				});	
 			} else {
-				resolve({result:0});
+				resolve({% raw %}{result:0}{% endraw %});
 			}
         });
 		

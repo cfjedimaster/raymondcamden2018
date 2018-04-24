@@ -5,6 +5,7 @@ date: "2015-05-19T11:38:11+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/05/19/working-with-the-new-phonegapcordova-contentsync-plugin
 ---
 
 Yesterday at PhoneGap Day EU (sooooo sorry I'm missing it!), someone (I forget who) announced two new plugins for PhoneGap development - <a href="https://github.com/phonegap/phonegap-plugin-push">Push</a> and <a href="https://github.com/phonegap/phonegap-plugin-contentsync">ContentSync</a>. Push is what you would expect - a way to deal with push messages easier. ContentSync is another beast altogether. The plugin makes it easier to update your application after it has been released. The API gives you a simple way to say, "Hey, I want to fetch this zip of crap and use it." It handles performing the network request to a zip, downloading it, providing various progress events, unzipping it, and then telling you where it stored stuff. All in all a kick ass plugin, but I had some difficultly understanding it so I worked on a few demos to wrap my mind around it. Before we get started though, let me clarify some things that were confusing to me. (And yes, I've filed some bug reports on where I got confused for possible documentation updates.)
@@ -12,7 +13,7 @@ Yesterday at PhoneGap Day EU (sooooo sorry I'm missing it!), someone (I forget w
 <!--more-->
 
 <ul>
-<li>The first example shows this: <code>var sync = ContentSync.sync({ src: 'http://myserver/assets/movie-1', id: 'movie-1' });</code> What you may not realize is that URL you point to <strong>must be a zip file</strong>. So obviously a zip file need not end in .zip, but it wasn't clear at first that this was a requirement. 
+<li>The first example shows this: <code>var sync = ContentSync.sync({% raw %}{ src: 'http://myserver/assets/movie-1', id: 'movie-1' }{% endraw %});</code> What you may not realize is that URL you point to <strong>must be a zip file</strong>. So obviously a zip file need not end in .zip, but it wasn't clear at first that this was a requirement. 
 <li>The plugin <i>will</i> unzip the file for you. Again, this is probably obvious, but it wasn't to me. The <code>id</code> value provided in the example above actually ends up being a subdirectory for where your assets will be stored.
 <li>The docs say that when the sync is complete, you will be given a path that is "guaranteed to be a compatible reference in the browser." What you're really given (at least in my testing in iOS) is a complete path to a directory. So if your zip had 2 files, a.jpg and b.jpg, to you could get the full path to a.jpg by appending it to the value. <strong>But this is not a 'browser compatible' reference imo.</strong> Rather you need to change it to a file URI if you wish to use it with the DOM. (To be clear, I could be wrong about this, but that's how it seemed to work for me.) 
 <li>By default, the plugin will always sync if you tell it too. You can pass an option to specify that it should only cache if a local copy doesn't exist, but for more complex logic like, "sync if the remote source is newer", then you need to build that logic yourself. That seems totally fair, just want to make it clear.
@@ -33,7 +34,7 @@ function init() {
 function startSync() {
 	imageDiv = document.querySelector(&quot;#images&quot;);
 	
-	var sync = ContentSync.sync({ src: imageZip, id: 'kittenZip' });
+	var sync = ContentSync.sync({% raw %}{ src: imageZip, id: 'kittenZip' }{% endraw %});
 	
 	sync.on('progress', function(data) {
 		imageDiv.innerHTML = &quot;&lt;p&gt;Syncing images: &quot;+data.progress + &quot;%&lt;/p&gt;&quot;;
@@ -86,7 +87,7 @@ Pretty darn easy, right? In case your curious about handling a zip of <i>unknown
 
 Ok, so what if you only wanted to sync once? That is incredibly difficult unfortunately. You have to change
 
-<pre><code class="language-javascript">var sync = ContentSync.sync({ src: imageZip, id: 'kittenZip'});</code></pre>
+<pre><code class="language-javascript">var sync = ContentSync.sync({% raw %}{ src: imageZip, id: 'kittenZip'}{% endraw %});</code></pre>
 
 to
 
@@ -138,7 +139,7 @@ function displayImages() {
 
 function startSync() {
 	
-	var sync = ContentSync.sync({ src: imageZip, id: 'kittenZip' });
+	var sync = ContentSync.sync({% raw %}{ src: imageZip, id: 'kittenZip' }{% endraw %});
 	
 	sync.on('progress', function(data) {
 		$imageDiv.html(&quot;&lt;p&gt;Syncing images: &quot;+data.progress + &quot;%&lt;/p&gt;&quot;);

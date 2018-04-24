@@ -5,6 +5,7 @@ date: "2018-02-08"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/hannes-egler-369155.jpg
+permalink: /2018/02/08/building-table-sorting-and-pagination-in-vuejs
 ---
 
 Earlier this week I was talking to a good friend of mine (who is also a recent convert to the School of Vue) and he was talking about the troubles he went through in adding table sorting and pagination to a table. He was making use of a particular Vue component that was - to be nice - "undocumented". While I was reasonable certain that other solutions existed, I thought it would be fun to take a stab at writing my own support for table sorting and pagination. Not a generic solution, but just a solution for a particular set of data.
@@ -25,10 +26,10 @@ I began with a Vue app that loaded in data via an Ajax call and rendered a table
     </thead>
     <tbody>
       <tr v-for="cat in cats">
-        <td>{%raw%}{{cat.name}}{%endraw%}</td>
-        <td>{%raw%}{{cat.age}}{%endraw%}</td>
-        <td>{%raw%}{{cat.breed}}{%endraw%}</td>
-        <td>{%raw%}{{cat.gender}}{%endraw%}</td>
+        <td>{% raw %}{{cat.name}{% endraw %}}</td>
+        <td>{% raw %}{{cat.age}{% endraw %}}</td>
+        <td>{% raw %}{{cat.breed}{% endraw %}}</td>
+        <td>{% raw %}{{cat.gender}{% endraw %}}</td>
       </tr>
     </tbody>
   </table>
@@ -75,15 +76,15 @@ Alright, so for the first update, I decided to add sorting. I made two changes t
     </thead>
     <tbody>
       <tr v-for="cat in sortedCats">
-        <td>{%raw%}{{cat.name}}{%endraw%}</td>
-        <td>{%raw%}{{cat.age}}{%endraw%}</td>
-        <td>{%raw%}{{cat.breed}}{%endraw%}</td>
-        <td>{%raw%}{{cat.gender}}{%endraw%}</td>
+        <td>{% raw %}{{cat.name}{% endraw %}}</td>
+        <td>{% raw %}{{cat.age}{% endraw %}}</td>
+        <td>{% raw %}{{cat.breed}{% endraw %}}</td>
+        <td>{% raw %}{{cat.gender}{% endraw %}}</td>
       </tr>
     </tbody>
   </table>
   
-  debug: sort={%raw%}{{currentSort}}{%endraw%}, dir={%raw%}{{currentSortDir}}{%endraw%}
+  debug: sort={% raw %}{{currentSort}{% endraw %}}, dir={% raw %}{{currentSortDir}{% endraw %}}
 </div>
 ```
 

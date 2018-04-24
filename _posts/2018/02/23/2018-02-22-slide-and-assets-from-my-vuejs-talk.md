@@ -5,6 +5,7 @@ date: "2018-02-23"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/publicspeaking.jpg
+permalink: /2018/02/23/slide-and-assets-from-my-vuejs-talk
 ---
 
 If you attended my Vue.js presentation at DevNexus, or even if you didn't, here are the slides and assets for my Vue.js presentation. I think it went well, but I'm looking forward to giving it a few more times to get a bit better at it.

@@ -5,6 +5,7 @@ date: "2017-12-06"
 categories: Development Mobile 
 tags: javascript vuejs cordova
 banner_image: 
+permalink: /2017/12/06/quick-example-of-apache-cordova-and-vuejs
 ---
 
 Normally when building Cordova apps, I either use no JavaScript framework at all, or I use Angular with Ionic. But as you can tell by my recent posts, I've become infactuated with [Vue.js](https://vuejs.org/) lately. While the Ionic folks are working on making it easy to use Vue instead of Angular, I thought I'd demonstrate a quick example of how simple it is to use Vue with Cordova. I'm not going to worry about UI for this post, but rather show how to wait for the `deviceready` event in your Vue app.
@@ -25,7 +26,7 @@ I create a new Cordova project and then removed most of the code to start off a 
     &lt;&#x2F;head&gt;
     &lt;body&gt;
         &lt;div id=&quot;app&quot;&gt;
-            App status: {%raw%}{{ status }}{%endraw%}
+            App status: {% raw %}{{ status }{% endraw %}}
         &lt;&#x2F;div&gt;
         &lt;script type=&quot;text&#x2F;javascript&quot; src=&quot;cordova.js&quot;&gt;&lt;&#x2F;script&gt;
         &lt;script type=&quot;text&#x2F;javascript&quot; src=&quot;js&#x2F;vue.min.js&quot;&gt;&lt;&#x2F;script&gt;

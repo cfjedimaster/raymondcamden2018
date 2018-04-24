@@ -5,6 +5,7 @@ date: "2016-11-18T09:35:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/11/18/online-pug-testing-tool
 ---
 
 I've never been shy about my feelings about the Jade templating language. I absolutely hate it. I think it is weird. I think it leads to moral depravity. I just really, really don't like it. Mainly I think because I find HTML already succinct enough. I mean I get that this:

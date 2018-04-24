@@ -5,6 +5,7 @@ date: "2017-08-05T06:03:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/08/05/working-with-the-forwarder-action-in-openwhisk
 ---
 
 One of the issues you run into when working with sequences in OpenWhisk is handling the flow of data from one action to another, especially when integrating actions from other packages where you have no control over the code. In the past, I've discussed how you can use "intermediary" actions to handle transforming the output of an earlier action into an appropriate form for an upcoming action.
@@ -49,7 +50,7 @@ To test this myself, and within a sequence, I built two actions. The first is do
 
 <pre><code class="language-javascript">function main(args) {
     if(!args.number) args.number = 0;
-    return { result: args.number*2 };
+    return {% raw %}{ result: args.number*2 }{% endraw %};
 }
 </code></pre>
 

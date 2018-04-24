@@ -5,6 +5,7 @@ date: "2015-05-19T15:19:16+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova mobilefirst
 banner_image: 
+permalink: /2015/05/19/looking-at-the-javascript-api-in-hybrid-mobilefirst-apps-2
 ---
 
 A few weeks back I <a href="http://www.raymondcamden.com/2015/04/28/looking-at-the-javascript-api-in-hybrid-mobilefirst-apps">blogged</a> about some of the JavaScript APIs you have available when building hybrid mobile applications with <a href="http://ibmmobile.info/IBM-MobileFirst">IBM MobileFirst</a>. I had meant to follow up on this a bit sooner but recent trips got in the way. Today I took some time to look at a few more of the APIs.

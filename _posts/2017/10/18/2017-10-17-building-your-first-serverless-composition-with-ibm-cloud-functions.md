@@ -5,6 +5,7 @@ date: "2017-10-18"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/10/18/building-your-first-serverless-composition-with-ibm-cloud-functions
 ---
 
 A few days ago I [blogged](https://www.raymondcamden.com/2017/10/09/serverless-composition-with-ibm-cloud-functions/) about the new Composer functionality for IBM Cloud Functions and OpenWhisk. This is a *incredibly* cool release and I'm going to try my best to demonstrate it over the next few weeks. In today's post I'm going to focus on what the process is like. By that I mean, how do I go from idea to actually using it and testing it. This won't be terribly different from the [docs](https://github.com/ibm-functions/composer/tree/master/docs), but I figure it may still be helpful for folks to get an idea of how I'm using it. (And of course, I expect my usage to change over time.) Note that the code I'll be using for this post will be trivial to the max because I want to focus more on the process than the actual demo. Alright, with that out of the way, let's start.
@@ -81,7 +82,7 @@ Next I created a Pig Latin rule, based on [this repo](https://github.com/montana
 
 function main(args) {
 	let result = piglatin(args.input);
-	return { result:result};
+	return {% raw %}{ result:result}{% endraw %};
 }
 </code></pre>
 
@@ -126,9 +127,9 @@ That's a long command but not too bad. Typically I'd make a shell/bat script so 
 
 	 wsk action get safeToDelete/ruleToPig --url
 
-Which gives me: https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/safeToDelete/ruleToPig
+Which gives me: https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/safeToDelete/ruleToPig
 
-To test that, just add .json to the end. You can see that [here](https://openwhisk.ng.bluemix.net/api/v1/web/rcamden%40us.ibm.com_My%20Space/safeToDelete/ruleToPig.json).
+To test that, just add .json to the end. You can see that [here](https://openwhisk.ng.bluemix.net/api/v1/web/rcamden{% raw %}%40us.ibm.com_My%{% endraw %}20Space/safeToDelete/ruleToPig.json).
 
 And finally, a sample result:
 
@@ -290,7 +291,7 @@ Let's really improve things though by getting rid of that simple "joiner" action
 
 <pre><code class="language-javascript">composer.sequence(
 	'safeToDelete/rule',
-	args => ({input: args.rule.replace(/[0-9]+\. /,'')}),
+	args => ({% raw %}{input: args.rule.replace(/[0-9]+\. /,'')}{% endraw %}),
 	'safeToDelete/pig'
 );
 </code></pre>

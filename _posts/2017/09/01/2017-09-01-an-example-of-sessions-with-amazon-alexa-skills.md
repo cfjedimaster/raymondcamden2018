@@ -5,6 +5,7 @@ date: "2017-09-01T09:42:00-07:00"
 categories: Development 
 tags: alexa
 banner_image: 
+permalink: /2017/09/01/an-example-of-sessions-with-amazon-alexa-skills
 ---
 
 Just a quick post today. I worked on an Alexa skill a few weeks ago for a presentation that involved sessions. I had trouble finding a good example that I could wrap my head around, and while I don't think this code is very well done, I thought I'd at least share it in case others were having issues as well.
@@ -57,7 +58,7 @@ function main(args) {
 			}
 		}
 
-		return {response:response};
+		return {% raw %}{response:response}{% endraw %};
 	}
 
 	&#x2F;&#x2F;treat launch like help

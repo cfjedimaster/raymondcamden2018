@@ -5,6 +5,7 @@ date: "2017-08-25T15:30:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/08/25/dynamically-documenting-openwhisk-packages
 ---
 
 Earlier this week I was doing some work with the Cloudant package under OpenWhisk when I noticed the [docs](https://console.bluemix.net/docs/openwhisk/openwhisk_cloudant.html#openwhisk_catalog_cloudant) didn't include all the actions available. What I mean is, the docs currently mention the read and write actions, the changes trigger, and nothing else. Compare this to what you get when you run `wsk package get /whisk.system/cloudant --summary`:
@@ -89,7 +90,7 @@ if(process.argv.length === 4) output = process.argv[3];
 console.log(&#x27;Attempt to generate docs for &#x27;+package);
 
 const api_key = process.env[&#x27;__OW_API_KEY&#x27;];
-let options = {apihost: &#x27;openwhisk.ng.bluemix.net&#x27;, api_key: api_key};
+let options = {% raw %}{apihost: &#x27;openwhisk.ng.bluemix.net&#x27;, api_key: api_key}{% endraw %};
 let ow = openwhisk(options);
 
 ow.packages.get(package).then(result =&gt; {
@@ -178,7 +179,7 @@ function generateHTML(package, name) {
 		});
 	});
 
-	return template({package:package, name:name}); 
+	return template({% raw %}{package:package, name:name}{% endraw %}); 
 }
 </code></pre>
 

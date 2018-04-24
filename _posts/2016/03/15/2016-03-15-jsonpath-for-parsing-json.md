@@ -5,6 +5,7 @@ date: "2016-03-15T10:09:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2016/03/15/jsonpath-for-parsing-json
 ---
 
 This is just a FYI that there is a cool little project that provides XPath like support for JSON values: [JSONPath Plus](https://github.com/s3u/JSONPath). I think this is rather cool as XPath is probably the only nice thing about XML over JSON. If you've never heard of XPath, you can think of it as a query language for filtering/parsing XML data. Everything from getting a subset of an XML document to even doing things like addition. If you'd like to learn more, check out the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/XPath) on XPath. JSON doesn't provide any similar functionality built-in, but JSONPath provides an alternative.

@@ -5,6 +5,7 @@ date: "2016-03-18T07:51:00-07:00"
 categories: Uncategorized 
 tags: 
 banner_image: /images/banners/usingbrowsertool.jpg
+permalink: /2016/03/18/recording-for-browser-tools-presentation
 ---
 
 Last night I gave an online presentation to the Northern Virginia ColdFusion User Group on working with browser tools. The main focus was on finding and trying to correct problems with your code. The video is available below. There is a bit of quiet spell towards the beginning as I wait for the user group to confirm they can see/hear me, but after that you should be good to go.

@@ -5,6 +5,7 @@ date: "2015-07-08T09:38:45+06:00"
 categories: Development HTML5 
 tags: 
 banner_image: 
+permalink: /2015/07/08/using-friendlier-urls-for-a-harpjs-static-site
 ---
 
 Ok, "friendly" is in the eye of the beholder, but honestly, I spent about five minutes trying to think of the "best" title for this post and just gave up. What I'm really trying to describe here is how to use "year/month/date/slug" type URLs for a <a href="http://www.harpjs.com">HarpJS</a> static site. As an example, the URL for this blog entry includes the year, month, day, and a 'slug' or "URL-friendly" version of the title. In general, Harp doesn't care what folder structure you use, but the issue I ran into was how to handle metadata about the blog. So for example, how do you generate a list on the home page of the most recent articles and create an RSS feed?
@@ -97,7 +98,7 @@ So, how do we use this? Check out my home page:
 <pre><code class="language-markup">&lt;h1&gt;Welcome to the Blog&lt;/h1&gt;
 
 
-&lt;%- partial(&quot;_article_parser&quot;) %&gt;
+&lt;{% raw %}%- partial(&quot;_article_parser&quot;) %{% endraw %}&gt;
 
 &lt;h3&gt;Articles&lt;/h3&gt;
 &lt;ul&gt;
@@ -106,42 +107,42 @@ for(var i=0;i&lt;Math.min(5, articles.length);i++) {
 	article = articles[i];
 %&gt;
 
-	&lt;li&gt;&lt;a href=&quot;&lt;%= article.path %&gt;&quot;&gt;&lt;%= article.title %&gt;&lt;/a&gt; - posted &lt;%= article.posted %&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;&lt;{% raw %}%= article.path %{% endraw %}&gt;&quot;&gt;&lt;{% raw %}%= article.title %{% endraw %}&gt;&lt;/a&gt; - posted &lt;{% raw %}%= article.posted %{% endraw %}&gt;&lt;/li&gt;
 
-&lt;% } %&gt;
+&lt;{% raw %}% }{% endraw %} %&gt;
 &lt;/ul&gt;</code></pre>
 
 For the most part, this is pretty similar to other Harp demos. The only difference is that I loaded up my article "library" and it provided a variable, articles, that I could use. In my case I'm just showing the 5 most recent articles.
 
 That's done - but there's one more part to this I think is kind of cool. I wanted a custom layout for blog entries, and HarpJS, using EJS, doesn't support nested layouts. If you remember, my article parser created a flag that represented the user being on an article. I'm able to use that within my layout template. Let's check it out:
 
-<pre><code class="language-markup">&lt;% partial(&quot;_article_parser&quot;) %&gt;
+<pre><code class="language-markup">&lt;{% raw %}% partial(&quot;_article_parser&quot;) %{% endraw %}&gt;
   
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-  &lt;title&gt;&lt;%= pageTitle %&gt;&lt;/title&gt;
+  &lt;title&gt;&lt;{% raw %}%= pageTitle %{% endraw %}&gt;&lt;/title&gt;
   &lt;link rel=&quot;stylesheet&quot; href=&quot;/main.css&quot;&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
 
-  &lt;% if(isArticle) { %&gt;
-     &lt;%- partial(&quot;_article_layout&quot;) %&gt;
-  &lt;% } else { %&gt;
-    &lt;%- yield %&gt;
-  &lt;% } %&gt;
+  &lt;{% raw %}% if(isArticle) { %{% endraw %}&gt;
+     &lt;{% raw %}%- partial(&quot;_article_layout&quot;) %{% endraw %}&gt;
+  &lt;{% raw %}% }{% endraw %} else {% raw %}{ %{% endraw %}&gt;
+    &lt;{% raw %}%- yield %{% endraw %}&gt;
+  &lt;{% raw %}% }{% endraw %} %&gt;
     
-  &lt;footer&gt;&lt;p&gt;Copyright &amp;copy; &lt;%= new Date().getFullYear() %&gt; ~ &lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;&lt;/footer&gt;  
+  &lt;footer&gt;&lt;p&gt;Copyright &amp;copy; &lt;{% raw %}%= new Date().getFullYear() %{% endraw %}&gt; ~ &lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;&lt;/footer&gt;  
 
 &lt;/body&gt;
 &lt;/html&gt;</code></pre>
 
 So - as before - load in the parser. I then check for isArticle and if it is true, load in another layout file. Let's look at that.
 
-<pre><code class="language-markup">&lt;h1&gt;&lt;%- pageTitle %&gt;&lt;/h1&gt;
+<pre><code class="language-markup">&lt;h1&gt;&lt;{% raw %}%- pageTitle %{% endraw %}&gt;&lt;/h1&gt;
 
-&lt;%- yield %&gt;</code></pre>
+&lt;{% raw %}%- yield %{% endraw %}&gt;</code></pre>
 
 Yeah, there isn't much there, but you get the idea. I can now create a unique layout for my blog entries all from one file, which I like. 
 

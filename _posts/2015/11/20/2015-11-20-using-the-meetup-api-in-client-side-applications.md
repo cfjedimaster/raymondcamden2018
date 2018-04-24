@@ -5,6 +5,7 @@ date: "2015-11-20T13:06:04+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/11/20/using-the-meetup-api-in-client-side-applications
 ---
 
 This isn't new, but was something I discovered a few weeks ago and I'm finally making the time to blog about it. I've used the  <a href="https://secure.meetup.com/meetup_api">Meetup API</a> in the past with ColdFusion and for the most part, it just works, but like many APIs today it requires authenticated calls to get data. Unfortunately, even a simple search against public data also required an authenticated call. This means using the API in a purely client-side application won't be secure because your code will contain your secret keys.

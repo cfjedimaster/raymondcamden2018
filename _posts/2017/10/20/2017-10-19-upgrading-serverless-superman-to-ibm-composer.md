@@ -5,6 +5,7 @@ date: "2017-10-20"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/superfsh.jpg
+permalink: /2017/10/20/upgrading-serverless-superman-to-ibm-composer
 ---
 
 When IBM Composer was released, my plan was to try to slowly introduce readers to it with various different tutorials. My [post](http://localhost:1313/2017/10/18/building-your-first-serverless-composition-with-ibm-cloud-functions/) earlier this week is an example. But I've been thinking a lot lately about a particular problem that Composer can fix for me, so I'm skipping ahead to a more complex topic for the post today. I guess this is a long winded way of saying - if you are still learning Composer this post may be a bit complex, but I'm definitely going to do more simpler posts later. 
@@ -69,7 +70,7 @@ Let's look at the Composer file.
 			var diffMs = (d1 - d2);
 			var diffDays = Math.floor(diffMs &#x2F; 86400000); &#x2F;&#x2F; days
 			var diffHrs = Math.floor((diffMs % 86400000) &#x2F; 3600000); &#x2F;&#x2F; hours
-			var diffMins = Math.round(((diffMs % 86400000) % 3600000) &#x2F; 60000); &#x2F;&#x2F; minutes
+			var diffMins = Math.round(((diffMs {% raw %}% 86400000) %{% endraw %} 3600000) &#x2F; 60000); &#x2F;&#x2F; minutes
 			return diffMins;
 		}
 
@@ -105,7 +106,7 @@ Let's look at the Composer file.
 			};
 		});
 
-		return { tweets:result };
+		return {% raw %}{ tweets:result }{% endraw %};
 
 	},
 
@@ -121,11 +122,11 @@ Let's look at the Composer file.
 			}
 		}
 
-		return { status:newText };
+		return {% raw %}{ status:newText }{% endraw %};
 	},
 
 	&#x2F;&#x2F;if we got something, tweet it
-	composer.if(({status})=&gt; status != &#x27;&#x27;, &#x27;mytwitter&#x2F;sendTweet&#x27;)
+	composer.if(({% raw %}{status}{% endraw %})=&gt; status != &#x27;&#x27;, &#x27;mytwitter&#x2F;sendTweet&#x27;)
 );
 </code></pre>
 
@@ -151,7 +152,7 @@ So now the end result is either a tweet, or nothing. No errors. (Well, yes, I'll
 
 Slick rick. Anyway, once this was done I literally just had to update the rule associated with my CRON-based trigger to point to the new app. And it worked: 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/thomasj?ref_src=twsrc%5Etfw">@thomasj</a> is presenting multi-provider Superman apps. You can still join us. <a href="https://t.co/vU64L0xat5">https://t.co/vU64L0xat5</a> <a href="https://t.co/AF3GLx551v">pic.twitter.com/AF3GLx551v</a></p>&mdash; Serverless Superman (@serverlesssuper) <a href="https://twitter.com/serverlesssuper/status/921420805900328966?ref_src=twsrc%5Etfw">October 20, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/thomasj?ref_src=twsrc{% raw %}%5Etfw">@thomasj</a> is presenting multi-provider Superman apps. You can still join us. <a href="https://t.co/vU64L0xat5">https://t.co/vU64L0xat5</a> <a href="https://t.co/AF3GLx551v">pic.twitter.com/AF3GLx551v</a></p>&mdash; Serverless Superman (@serverlesssuper) <a href="https://twitter.com/serverlesssuper/status/921420805900328966?ref_src=twsrc%{% endraw %}5Etfw">October 20, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Remember that there is currently a bug with `wsk` such that when you edit a rule, it disables it. Be sure to re-enable it right after the edit.

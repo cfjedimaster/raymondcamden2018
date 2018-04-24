@@ -5,6 +5,7 @@ date: "2016-10-12T14:56:00-07:00"
 categories: JavaScript 
 tags: nodejs
 banner_image: 
+permalink: /2016/10/12/working-with-soap-in-a-node-app
 ---
 
 I've been lucky to have been able to avoid SOAP for a few years now, but today there was an API I wanted to work with that had this right on top of their documentation:
@@ -87,7 +88,7 @@ function getRandomSet() {
 					var set = sets[chosen];
 					// now that we have a set, try to get more images
 					if(set.additionalImageCount &gt; 0) {
-						client.getAdditionalImages({apiKey:key, setID:set.setID}, function(err, result) {
+						client.getAdditionalImages({% raw %}{apiKey:key, setID:set.setID}{% endraw %}, function(err, result) {
 							if(err) reject(err);
 							console.log('i got more images', result);
 							set.additionalImages = result;

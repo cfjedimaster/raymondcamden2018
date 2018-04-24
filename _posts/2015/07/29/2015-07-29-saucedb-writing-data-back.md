@@ -5,6 +5,7 @@ date: "2015-07-29T17:28:48+06:00"
 categories: Development JavaScript Mobile 
 tags: bluemix cordova ionic
 banner_image: 
+permalink: /2015/07/29/saucedb-writing-data-back
 ---
 
 Welcome to another post on my ongoing series exploring building an <a href="http://www.ionicframework.com/">Ionic</a> hybrid mobile app making use of Node.js running on <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. Today I'm going to talk about writing data back to the server. Spoiler - this won't be quite as cool as bringing sexy back. In my <a href="http://www.raymondcamden.com/2015/07/24/saucedb-handling-the-sauce-view">last post</a>, I described a few minor updates to help flesh out the views of the mobile app. This included building the "Sauce view" (sauce plus reviews) for the application. Today I built another major aspect of the application - actual review writing.
@@ -35,12 +36,12 @@ Ok, so that's cool. I then needed to work with this on the server-side in my Nod
 	var term = "name:" + req.params.term;
 	term += "*";
 	console.log(term);
-	db.search('SauceName','SauceName', {q:term}, function(err, results) {
+	db.search('SauceName','SauceName', {% raw %}{q:term}{% endraw %}, function(err, results) {
 		if(err) throw err;
 		var result = [];
 		for(var i=0;i&lt;results.rows.length;i++) {
 			//console.dir(results.rows[i]);
-			result.push({id:results.rows[i].id, name:results.rows[i].fields.name});	
+			result.push({% raw %}{id:results.rows[i].id, name:results.rows[i].fields.name}{% endraw %});	
 		}
 		console.dir(result);
 		res.setHeader('Content-Type', 'application/json');

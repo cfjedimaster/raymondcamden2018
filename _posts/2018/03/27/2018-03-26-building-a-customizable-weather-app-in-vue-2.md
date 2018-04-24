@@ -5,6 +5,7 @@ date: "2018-03-27"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/weatherapp.jpg
+permalink: /2018/03/27/building-a-customizable-weather-app-in-vue-2
 ---
 
 A few days ago I shared the first draft of a customizable Vue.js weather app ([Building a Customizable Weather App in Vue.js](https://www.raymondcamden.com/2018/03/19/building-a-customizable-weather-app-in-vue/)). Yesterday I had some time to work on an update and I thought I'd share my progress.
@@ -74,7 +75,7 @@ const app = new Vue({
 	methods:{
 		loadWeather() {
 
-			axios.get(`https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(SELECT%20woeid%20FROM%20geo.places%20WHERE%20text%3D%22(${this.lat}%2C${this.lon})%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys`)
+			axios.get(`https://query.yahooapis.com/v1/public/yql?q=select{% raw %}%20*%{% endraw %}20from{% raw %}%20weather.forecast%{% endraw %}20where{% raw %}%20woeid%{% endraw %}20in{% raw %}%20(SELECT%{% endraw %}20woeid{% raw %}%20FROM%{% endraw %}20geo.places{% raw %}%20WHERE%{% endraw %}20text{% raw %}%3D%{% endraw %}22(${% raw %}{this.lat}{% endraw %}{% raw %}%2C${this.lon}{% endraw %}){% raw %}%22)&format=json&env=store%{% endraw %}3A{% raw %}%2F%{% endraw %}2Fdatatables.org%2Falltableswithkeys`)
 			.then(res => {
 				let weather = res.data.query.results.channel;
 				console.log('response',weather);
@@ -90,14 +91,14 @@ const app = new Vue({
 				console.log(this.selectedImage);
 				//reach out to the DOM, bad ray
 				/*
-				document.body.style.background = `url(${this.selectedImage})`;
+				document.body.style.background = `url(${% raw %}{this.selectedImage}{% endraw %})`;
 				document.body.style['background-image'] = `
 				linear-gradient(
 					rgba(1,0,0,0.5),
 					rgba(0,0,0,0.5)
-				), url(${this.selectedImage});`;
+				), url(${% raw %}{this.selectedImage}{% endraw %});`;
 				*/
-				document.body.style.background = `url(${this.selectedImage})`;
+				document.body.style.background = `url(${% raw %}{this.selectedImage}{% endraw %})`;
 
 				this.loading = false;
 				
@@ -168,7 +169,7 @@ function getRandomInt(min, max) {
 The important part above is `getWeatherImage`. You can see my logic to convert Yahoo's multiple weather types to a simpler list. Finally I just select a random image. The last change was to update the background:
 
 ```js
-document.body.style.background = `url(${this.selectedImage})`;
+document.body.style.background = `url(${% raw %}{this.selectedImage}{% endraw %})`;
 ```
 
 You can see some commented out code there. I was using some CSS to darken the image and I was not able to dynamically update the URL. I ended punting on that. I'd love it if someone could help me figure that out.

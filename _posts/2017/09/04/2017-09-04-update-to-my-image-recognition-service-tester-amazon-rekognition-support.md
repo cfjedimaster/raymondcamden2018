@@ -5,6 +5,7 @@ date: "2017-09-04T13:22:00-07:00"
 categories: javascript 
 tags: nodejs
 banner_image: 
+permalink: /2017/09/04/update-to-my-image-recognition-service-tester-amazon-rekognition-support
 ---
 
 A few months ago I wrote up a quick little demo to help me test multiple image recognition services at once (<a href="https://www.raymondcamden.com/2017/06/15/testing-multiple-image-recognition-services-at-once/">Testing Multiple Image Recognition Services at Once</a>). This morning I was bored so I thought I'd quickly add a new test to the suite - <a href="https://aws.amazon.com/rekognition/">Amazon Rekognition</a>.
@@ -49,7 +50,7 @@ function doProcess(path, auth) {
     let params = {};
     
     let content = fs.readFileSync(path);
-    params.Image = {Bytes: content};
+    params.Image = {% raw %}{Bytes: content}{% endraw %};
 
     let faces = new Promise((resolve, reject) =&gt; {
         recog.detectFaces(params, function(err, data) {
@@ -91,14 +92,14 @@ function doProcess(path, auth) {
                 modlabels:modlabels,
                 celebs:celebs
             }
-            resolve({&quot;amazon&quot;:result});
+            resolve({% raw %}{&quot;amazon&quot;:result}{% endraw %});
         });
 	});
 
 
 }
 
-module.exports = { doProcess }
+module.exports = {% raw %}{ doProcess }{% endraw %}
 </code></pre>
 
 As I said above, I am *not* attempting to hit all aspects of the API. Instead I focused on 4 main parts: 

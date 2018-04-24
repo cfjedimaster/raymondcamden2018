@@ -5,6 +5,7 @@ date: "2016-06-17T10:54:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic cordova
 banner_image: 
+permalink: /2016/06/17/ionic-2-weather-application
 ---
 
 <strong> Edited on January 16, 2017: I received reports that the app was not working with the
@@ -61,21 +62,21 @@ First, the main (and only) view, home.html:
 
 	&lt;ion-slides #mySlides (ionDidChange)=&quot;onSlideChanged()&quot;&gt;
 		&lt;ion-slide *ngFor=&quot;let location of locations;let i = index&quot;&gt;
-			&lt;h2&gt;{%raw%}{{location.name}}{%endraw%}&lt;/h2&gt;
+			&lt;h2&gt;{% raw %}{{location.name}{% endraw %}}&lt;/h2&gt;
 
 			&lt;div *ngIf=&quot;weatherData[i]&quot;&gt;
 				&lt;p&gt;
-				{%raw%}{{ weatherData[i].summary }}{%endraw%}
+				{% raw %}{{ weatherData[i].summary }{% endraw %}}
 				&lt;/p&gt;
 				&lt;p style=&quot;text-align:justify&quot;&gt;
-				It is currently {%raw%}{{ weatherData[i].temperature | number:'2.0-0' }}{%endraw%} &amp;deg;F
-				and there is {%raw%}{{weatherData[i].precipProbability | percent}}{%endraw%} chance of rain.
-				Tomorrow will be {%raw%}{{weatherData[i].tomorrow.summary}}{%endraw%} with the
-				low being {%raw%}{{ weatherData[i].tomorrow.temperatureMin | number:'2.0-0' }}{%endraw%} &amp;deg;F
-				and a high of {%raw%}{{ weatherData[i].tomorrow.temperatureMax | number:'2.0-0' }}{%endraw%} &amp;deg;F.
+				It is currently {% raw %}{{ weatherData[i].temperature |{% endraw %} number:'2.0-0' }} &amp;deg;F
+				and there is {% raw %}{{weatherData[i].precipProbability |{% endraw %} percent}} chance of rain.
+				Tomorrow will be {% raw %}{{weatherData[i].tomorrow.summary}{% endraw %}} with the
+				low being {% raw %}{{ weatherData[i].tomorrow.temperatureMin |{% endraw %} number:'2.0-0' }} &amp;deg;F
+				and a high of {% raw %}{{ weatherData[i].tomorrow.temperatureMax |{% endraw %} number:'2.0-0' }} &amp;deg;F.
 				&lt;/p&gt;
 				&lt;p style=&quot;text-align:justify&quot;&gt;
-				The nearest storm to you is {%raw%}{{weatherData[i].nearestStormDistance}}{%endraw%} miles away.
+				The nearest storm to you is {% raw %}{{weatherData[i].nearestStormDistance}{% endraw %}} miles away.
 				&lt;/p&gt;
 			&lt;/div&gt;
 		&lt;/ion-slide&gt;
@@ -92,8 +93,8 @@ Next, I've got two &lt;ion-content&gt; blocks. This is how I handle that initial
 That's the view, now let's discuss the services I use. When you enter an address, I use Google's [Geocoding](https://developers.google.com/maps/documentation/geocoding/intro) API to reverse geocode the address to a longitude and latitude value. Here's that code.
 
 <pre><code class="language-javascript">
-import {Injectable} from '@angular/core';
-import {Http} from '@angular/http';
+import {% raw %}{Injectable}{% endraw %} from '@angular/core';
+import {% raw %}{Http}{% endraw %} from '@angular/http';
 import 'rxjs/add/operator/map';
 
 /*
@@ -140,8 +141,8 @@ All I do is call their API with the address and massage the result a bit to make
 The Weather service is provided by [Forecast.io](http://forecast.io). They have a great API, and I thought the storm info was neat. My only real concern is their support. I'm not a paying customer, but I reached out to them two days ago with a question and never heard back from them. (For folks curious about my question, the storm info they provide includes a distance and a bearing, but not a location. So you know how far away a storm is and the direction it is heading, but not the exact location of the storm. So basically you can't tell if the storm is approaching you.) Here is the code for that service.
 
 <pre><code class="language-javascript">
-import {Injectable} from '@angular/core';
-import {Http} from '@angular/http';
+import {% raw %}{Injectable}{% endraw %} from '@angular/core';
+import {% raw %}{Http}{% endraw %} from '@angular/http';
 import 'rxjs/add/operator/map';
 
 /*
@@ -179,12 +180,12 @@ I want to stress that I don't necessarily think this makes sense... but it worke
 
 <pre><code class="language-javascript">
 .weatherContent-partly-cloudy-day {
-	background:linear-gradient(to bottom, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.8) 100%), url(https://c2.staticflickr.com/8/7437/12735811404_22571641b1_z.jpg) no-repeat 0 0;
+	background:linear-gradient(to bottom, rgba(255,255,255,0.7) 0{% raw %}%,rgba(255,255,255,0.8) 100%{% endraw %}), url(https://c2.staticflickr.com/8/7437/12735811404_22571641b1_z.jpg) no-repeat 0 0;
 	background-size:cover;
 }
 
 .weatherContent-clear-day {
-	background:linear-gradient(to bottom, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.8) 100%), url(https://c2.staticflickr.com/6/5607/15473807871_0b00c10bb3_z.jpg) no-repeat 0 0;
+	background:linear-gradient(to bottom, rgba(255,255,255,0.7) 0{% raw %}%,rgba(255,255,255,0.8) 100%{% endraw %}), url(https://c2.staticflickr.com/6/5607/15473807871_0b00c10bb3_z.jpg) no-repeat 0 0;
 	background-size:cover;
 }
 </code></pre>
@@ -194,10 +195,10 @@ So my code checks the weather and then applies the appropriate class. I've only 
 Alright - with that out of the way - here's the code - messy and all:
 
 <pre><code class="language-javascript">
-import {Component,ViewChild} from '@angular/core';
-import {WeatherService} from '../../providers/weather-service/weather-service';
-import {GeocodeService} from '../../providers/geocode-service/geocode-service';
-import {Alert, NavController,Slides,Content} from 'ionic-angular';
+import {% raw %}{Component,ViewChild}{% endraw %} from '@angular/core';
+import {% raw %}{WeatherService}{% endraw %} from '../../providers/weather-service/weather-service';
+import {% raw %}{GeocodeService}{% endraw %} from '../../providers/geocode-service/geocode-service';
+import {% raw %}{Alert, NavController,Slides,Content}{% endraw %} from 'ionic-angular';
 
 @Component({
 	providers: [WeatherService,GeocodeService],
@@ -205,7 +206,7 @@ import {Alert, NavController,Slides,Content} from 'ionic-angular';
 })
 export class HomePage {
 
-	public weather:Object = {temperture:''};
+	public weather:Object = {% raw %}{temperture:''}{% endraw %};
 	public locations:Array&lt;Object&gt;;
 	@ViewChild('mySlides') slider: Slides;
 	@ViewChild('weatherContent') weatherContent:Content

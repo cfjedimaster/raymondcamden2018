@@ -5,6 +5,7 @@ date: "2016-02-15T14:44:00-07:00"
 categories: Misc 
 tags: 
 banner_image: 
+permalink: /2016/02/15/missing-devnexus
 ---
 
 So yeah, the title says it all. Due to a family issue, I had to cancel my speaking engagement at

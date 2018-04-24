@@ -5,6 +5,7 @@ date: "2016-09-02T15:04:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: /images/banners/pagination.jpg
+permalink: /2016/09/02/pagination-and-indexeddb
 ---
 
 For a while now I've been meaning to write up a quick demo of adding pagination to a site using IndexedDB, and today I finally had some time to create an example. I'm not sure this is the *best* example of course, but hopefully it can help someone, and if folks have a better solution, please let me know in the comments. In order for this to make any sense, you'll need some basic knowledge of how IDB (IndexedDB) works in general. You can pick up my [book](https://www.amazon.com/Client-Side-Data-Storage-Keeping-Local/dp/1491935111/ref=as_sl_pc_qf_sp_asin_til?tag=raymondcamd06-20&linkCode=w00&linkId=URSVDLKI2FLVLMFM&creativeASIN=1491935111) or [video](http://shop.oreilly.com/product/0636920043638.do) on client-side storage (both of which cost money) or read the *extremely* well done (and free) documentation at MozDevNet: [Using IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
@@ -80,9 +81,9 @@ function dbSetup() {
 
 		req.onupgradeneeded = function(e) {
 			var thedb = e.target.result;
-			var os = thedb.createObjectStore(&quot;cats&quot;, { autoIncrement:true});
-			os.createIndex(&quot;name&quot;, &quot;name&quot;, {unique:false});
-			os.createIndex(&quot;age&quot;,&quot;age&quot;, {unique:false});
+			var os = thedb.createObjectStore(&quot;cats&quot;, {% raw %}{ autoIncrement:true}{% endraw %});
+			os.createIndex(&quot;name&quot;, &quot;name&quot;, {% raw %}{unique:false}{% endraw %});
+			os.createIndex(&quot;age&quot;,&quot;age&quot;, {% raw %}{unique:false}{% endraw %});
 		};
 
 		req.onsuccess = function(e) {
@@ -106,10 +107,10 @@ function displayData() {
 
 			s += `
 &lt;tr&gt;
-	&lt;td&gt;${cat.name}&lt;&#x2F;td&gt;
-	&lt;td&gt;${cat.breed}&lt;&#x2F;td&gt;
-	&lt;td&gt;${cat.color}&lt;&#x2F;td&gt;
-	&lt;td&gt;${cat.age}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.name}{% endraw %}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.breed}{% endraw %}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.color}{% endraw %}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.age}{% endraw %}&lt;&#x2F;td&gt;
 &lt;&#x2F;tr&gt;`;
 
 		});
@@ -281,9 +282,9 @@ function dbSetup() {
 
 		req.onupgradeneeded = function(e) {
 			var thedb = e.target.result;
-			var os = thedb.createObjectStore(&quot;cats&quot;, { autoIncrement:true});
-			os.createIndex(&quot;name&quot;, &quot;name&quot;, {unique:false});
-			os.createIndex(&quot;age&quot;,&quot;age&quot;, {unique:false});
+			var os = thedb.createObjectStore(&quot;cats&quot;, {% raw %}{ autoIncrement:true}{% endraw %});
+			os.createIndex(&quot;name&quot;, &quot;name&quot;, {% raw %}{unique:false}{% endraw %});
+			os.createIndex(&quot;age&quot;,&quot;age&quot;, {% raw %}{unique:false}{% endraw %});
 		};
 
 		req.onsuccess = function(e) {
@@ -319,10 +320,10 @@ function displayData() {
 
 			s += `
 &lt;tr&gt;
-	&lt;td&gt;${cat.name}&lt;&#x2F;td&gt;
-	&lt;td&gt;${cat.breed}&lt;&#x2F;td&gt;
-	&lt;td&gt;${cat.color}&lt;&#x2F;td&gt;
-	&lt;td&gt;${cat.age}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.name}{% endraw %}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.breed}{% endraw %}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.color}{% endraw %}&lt;&#x2F;td&gt;
+	&lt;td&gt;${% raw %}{cat.age}{% endraw %}&lt;&#x2F;td&gt;
 &lt;&#x2F;tr&gt;`;
 
 		});

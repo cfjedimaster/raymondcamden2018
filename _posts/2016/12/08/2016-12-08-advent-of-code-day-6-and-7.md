@@ -5,6 +5,7 @@ date: "2016-12-08T10:06:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/08/advent-of-code-day-6-and-7
 ---
 
 And so it begins - the [Advent of Code](http://adventofcode.com/) has begun to royally kick my butt. While these two challenges

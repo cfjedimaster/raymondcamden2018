@@ -5,6 +5,7 @@ date: "2015-09-20T14:19:37+06:00"
 categories: Books 
 tags: 
 banner_image: 
+permalink: /2015/09/20/finally-a-good-darn-good-star-wars-book
 ---
 
 I make no secret of my Star Wars obsession - and yes - I'm counting the days till the next movie. (88 days if you're curious.) As the new trilogy approaches, Disney is firing up the marketing machine quite heavily. I'm fine with that. Sure - some things are a bit silly. (Star Wars themed <a href="http://www.fangirlnation.com/2015/08/12/now-you-can-drink-star-wars-flavored-coffee-mate/">coffee</a> - um... ok.) But there's some pretty cool stuff too - including <strong>twenty</strong> new Star Wars books. I've read three of these new books and while I wasn't impressed with the first two, the last one I read was pretty freaking incredible. Here is a short review of the ones I've read so far.

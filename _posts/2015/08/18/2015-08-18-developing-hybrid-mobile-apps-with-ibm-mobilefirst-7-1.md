@@ -5,6 +5,7 @@ date: "2015-08-18T14:40:32+06:00"
 categories: Development Mobile 
 tags: cordova mobilefirst
 banner_image: 
+permalink: /2015/08/18/developing-hybrid-mobile-apps-with-ibm-mobilefirst-7-1
 ---
 
 In yesterday's blog post (<a href="http://www.raymondcamden.com/2015/08/17/getting-started-with-mobile-development-and-ibm-mobilefirst-7-1">Getting Started with Mobile Development and IBM MobileFirst 7.1</a>), I discussed what <a href="https://ibm.biz/BluemixMobileFirst">MobileFirst</a> was and why it could be beneficial for mobile developers. In today's post, I'm going to discuss how hybrid mobile development works with MobileFirst. This is something I've discussed before (for MobileFirst 7.0), and while the process wasn't difficult, it was definitely a few steps away from the "typical" Cordova development workflow. MobileFirst 7.1 really improves this process and makes it somewhat simpler for hybrid developers. In this post I'll talk about the process both for new projects as well as how an existing project can be migrated to MobileFirst. I will not be discussing specifics for <a href="http://www.ionicframework.com">Ionic</a> until tomorrow, but most of what I say today will apply there as well. Ok, let's get started!

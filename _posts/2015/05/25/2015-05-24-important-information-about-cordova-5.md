@@ -5,6 +5,7 @@ date: "2015-05-25T08:51:57+06:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/05/25/important-information-about-cordova-5
 ---
 
 In the most recent update to <a href="http://cordova.apache.org">Apache Cordova</a>, there was a rather important change that could really confuse you if you aren't paying attention. This is <i>exactly</i> the type of thing that I would have warned my readers about, but I mistakenly thought it would not impact most users. I'll explain later why I screwed that up, but I want to give huge thanks to Nic Raboy and his post, <a href="https://blog.nraboy.com/2015/05/whitelist-external-resources-for-use-in-ionic-framework/">Whitelist External Resources For Use In Ionic Framework</a>. Nic is a great blogger that I recommend following, and it is his post that led me to dig more into the changes in Cordova 5 and do my own research.

@@ -5,6 +5,7 @@ date: "2017-08-29T10:23:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/08/29/quick-openwhisk-utility-activation-reporting
 ---
 
 I've already written a few things to help me get access to my reporting data (for example, see [My Own OpenWhisk Stat Tool](https://www.raymondcamden.com/2017/05/15/my-own-openwhisk-stat-tool/)) and while debugging something today I ran into an issue with how the `wsk` CLI reports activations. Currently it just shows a name and ID. Consider this input: `wsk activation list dotweet`. 
@@ -32,7 +33,7 @@ if(!api_key) {
 	process.exit();
 }
 
-let options = {apihost: &#x27;openwhisk.ng.bluemix.net&#x27;, api_key: api_key};
+let options = {% raw %}{apihost: &#x27;openwhisk.ng.bluemix.net&#x27;, api_key: api_key}{% endraw %};
 let ow = openwhisk(options);
 
 let activationOptions = {
@@ -55,7 +56,7 @@ ow.activations.list(activationOptions).then(result =&gt; {
 		if(!result) {
 			resultStr = chalk.red(&#x27;false&#x27;);
 		}
-		console.log(`${id} ${name.padEnd(32)} ${start.padEnd(15)} ${resultStr}`);
+		console.log(`${% raw %}{id}{% endraw %} ${% raw %}{name.padEnd(32)}{% endraw %} ${% raw %}{start.padEnd(15)}{% endraw %} ${% raw %}{resultStr}{% endraw %}`);
 	});
 });
 

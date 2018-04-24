@@ -5,6 +5,7 @@ date: "2017-01-06T12:50:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/01/06/an-example-of-an-openwhisk-sequence
 ---
 
 This isn't going to be terribly complicated, but as I thought it was kinda cool, I thought I'd share it.
@@ -117,7 +118,7 @@ All in all, fairly trivial. My first action is just this:
 function main(params) {
 
 	var words = params.text.split(' ');
-	return {array:words};
+	return {% raw %}{array:words}{% endraw %};
 
 }
 </code></pre>
@@ -127,7 +128,7 @@ My second one is just this:
 <pre><code class="language-javascript">
 function main(params) {
 
-	return { array:params.array.reverse()};
+	return {% raw %}{ array:params.array.reverse()}{% endraw %};
 	
 }
 </code></pre>
@@ -138,7 +139,7 @@ And my final one is:
 function main(params) {
 
 	var result = params.array.join(' ');
-	return {text:result};
+	return {% raw %}{text:result}{% endraw %};
 
 }
 </code></pre>

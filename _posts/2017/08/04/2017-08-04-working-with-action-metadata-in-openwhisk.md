@@ -5,6 +5,7 @@ date: "2017-08-04T09:45:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/08/04/working-with-action-metadata-in-openwhisk
 ---
 
 Yesterday I was giving a presentation at KCDC and one of the attendees asked a great question: 
@@ -96,15 +97,15 @@ function main(args) {
 
     return new Promise((resolve, reject) =&gt; {
         try {
-            ow.activations.get({activation:myActivation}).then(activation =&gt; {
-                resolve({result:activation});
+            ow.activations.get({% raw %}{activation:myActivation}{% endraw %}).then(activation =&gt; {
+                resolve({% raw %}{result:activation}{% endraw %});
             }).catch(err =&gt; {
                 console.log(&#x27;in error&#x27;, err);
-                reject({err:err});  
+                reject({% raw %}{err:err}{% endraw %});  
             });
         } catch(e) {
             console.log(&#x27;main catch&#x27;,e);
-            reject({err:e});
+            reject({% raw %}{err:e}{% endraw %});
         }
     });
 

@@ -5,6 +5,7 @@ date: "2017-12-20"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/12/20/an-example-of-vuex-and-state-management-for-vuejs
 ---
 
 When I first started learning Vue, I began hearing about [Vuex](https://vuex.vuejs.org/en/) and try as a I might, I couldn't wrap my head around what it actually did. The [docs](https://vuex.vuejs.org/en/intro.html) describe it like so:
@@ -64,8 +65,8 @@ The top portion of the screen represents the stocks. You see the current prices 
 							<b-list-group-item v-for="stock in stocks" :key="stock.name">
 								<b-container>
 									<b-row>
-										<b-col>{%raw%}{{ stock.name }}{%endraw%}</b-col>
-										<b-col class="text-right">{%raw%}{{ stock.price | money}}{%endraw%}</b-col>
+										<b-col>{% raw %}{{ stock.name }{% endraw %}}</b-col>
+										<b-col class="text-right">{% raw %}{{ stock.price |{% endraw %} money}}</b-col>
 									</b-row>
 								</b-container>
 							</b-list-group-item>
@@ -78,14 +79,14 @@ The top portion of the screen represents the stocks. You see the current prices 
 							<b-list-group-item v-for="stock in stocks" :key="stock.name">
 								<b-container>
 									<b-row>
-										<b-col>{%raw%}{{ stock.name }}{%endraw%}</b-col>
-										<b-col class="text-right">{%raw%}{{ stock.held}}{%endraw%}</b-col>
+										<b-col>{% raw %}{{ stock.name }{% endraw %}}</b-col>
+										<b-col class="text-right">{% raw %}{{ stock.held}{% endraw %}}</b-col>
 									</b-row>
 								</b-container>
 							</b-list-group-item>
 						</b-list-group>
 						<p class="card-text">
-							Total value of holdings: {%raw%}{{ holdingValue | money }}{%endraw%}
+							Total value of holdings: {% raw %}{{ holdingValue |{% endraw %} money }}
 						</p>
 					</b-card>
 				</b-col>
@@ -97,7 +98,7 @@ The top portion of the screen represents the stocks. You see the current prices 
 				<p class="card-text">
 					Buy <b-form-input v-model.number="buy" type="number" style="width:100px;display:inline"></b-form-input> shares of 
 					<b-form-select style="width:120px;display:inline" v-model="buyStock">
-						<option v-for="stock in stocks" :key="stock.name">{%raw%}{{ stock.name }}{%endraw%}</option>
+						<option v-for="stock in stocks" :key="stock.name">{% raw %}{{ stock.name }{% endraw %}}</option>
 					</b-form-select>
 					<b-button :variant="'success'" @click="buyStocks" class="customBtn">Purchase</b-button>
 					<span v-if="buyError">Not enough cash.</span>
@@ -105,14 +106,14 @@ The top portion of the screen represents the stocks. You see the current prices 
 				<p class="card-text">
 					Sell <b-form-input v-model.number="sell" type="number" style="width:100px;display:inline"></b-form-input> shares of 
 					<b-form-select style="width:120px;display:inline" v-model="sellStock">
-						<option v-for="stock in stocks" :key="stock.name">{%raw%}{{ stock.name }}{%endraw%}</option>
+						<option v-for="stock in stocks" :key="stock.name">{% raw %}{{ stock.name }{% endraw %}}</option>
 					</b-form-select>
 					<b-button :variant="'success'" @click="sellStocks" class="customBtn">Sell</b-button>
 					<span v-if="sellError">Not enough on hand.</span>
 				</p>
 
 				<p class="card-text">
-					You currently have {%raw%}{{ cash | money }}{%endraw%} in cash.
+					You currently have {% raw %}{{ cash |{% endraw %} money }} in cash.
 				</p>
 
 			</b-card>
@@ -130,7 +131,7 @@ The top portion of the screen represents the stocks. You see the current prices 
 </html>
 ```
 
-That's probably a lot to digest, but what I want to point out is that at this layer, you aren't concerned with Vuex at all. All the data you see being used here, like with `v-model` and `{%raw%}{{ cash | money }}{%endraw%}` are integrated with the Vue app. If you're curious, the `| money` thing is a [Vue filter](https://vuejs.org/v2/guide/filters.html). This is the first time I've used one and it was as easy as most things are in Vue. Now let's look at the JavaScript. First the Vue app.
+That's probably a lot to digest, but what I want to point out is that at this layer, you aren't concerned with Vuex at all. All the data you see being used here, like with `v-model` and `{% raw %}{{ cash |{% endraw %} money }}` are integrated with the Vue app. If you're curious, the `| money` thing is a [Vue filter](https://vuejs.org/v2/guide/filters.html). This is the first time I've used one and it was as easy as most things are in Vue. Now let's look at the JavaScript. First the Vue app.
 
 ```js
 const app = new Vue({
@@ -174,7 +175,7 @@ const app = new Vue({
 			if(this.buy < 0) this.buy = 0;
 			if(this.buy === 0) return;
 			console.log('going to buy '+this.buy +' of '+this.buyStock);
-			store.commit('buyStock', { amount:this.buy, stock:this.buyStock });
+			store.commit('buyStock', {% raw %}{ amount:this.buy, stock:this.buyStock }{% endraw %});
 			this.buy = 0;
 			this.buyStock = null;
 		},
@@ -182,7 +183,7 @@ const app = new Vue({
 			if(this.sell < 0) this.sell = 0;
 			if(this.sell === 0) return;
 			console.log('going to sell '+this.sell +' of '+this.sellStock);
-			store.commit('sellStock', { amount:this.sell, stock:this.sellStock });
+			store.commit('sellStock', {% raw %}{ amount:this.sell, stock:this.sellStock }{% endraw %});
 			this.sell = 0;
 			this.sellStock = null;
 		}
@@ -205,10 +206,10 @@ Alright, so let's look at that store.
 const store = new Vuex.Store({
 	state:{
 		stocks:[
-			{name:"IBM", price:100, held:0},
-			{name:"Amazon", price:90, held:0},
-			{name:"Microsoft", price:110, held:0},
-			{name:"Disney", price:120, held:0},
+			{% raw %}{name:"IBM", price:100, held:0}{% endraw %},
+			{% raw %}{name:"Amazon", price:90, held:0}{% endraw %},
+			{% raw %}{name:"Microsoft", price:110, held:0}{% endraw %},
+			{% raw %}{name:"Disney", price:120, held:0}{% endraw %},
 		],
 		cash:1000
 	},

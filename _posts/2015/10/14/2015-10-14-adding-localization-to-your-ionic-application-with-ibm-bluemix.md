@@ -5,6 +5,7 @@ date: "2015-10-14T13:16:26+06:00"
 categories: Development JavaScript Mobile 
 tags: bluemix cordova ionic
 banner_image: 
+permalink: /2015/10/14/adding-localization-to-your-ionic-application-with-ibm-bluemix
 ---
 
 Localization is an important topic for mobile developers and one that is - in my opinion - not discussed enough. It is a difficult and complex topic, but like testing, it isn't something that should be ignored just because it isn't easy. Today I'm going to discuss one aspect of creating an internationalized hybrid application with Ionic - the localization of your UI. In my next post, I'll talk about formatting data values. To create the localized version of a sample application, I'm going to use two services. First, I'll use a beta <a href="https://ibm.biz/IBM-Bluemix">Bluemix</a> service for machine-based translation. Then I'll use an Angular library to employ the results of that service. Ready?
@@ -106,7 +107,7 @@ Ok, so next I set up some simple HTML using the format the service requires:
 &lt;button class=&quot;button&quot; ng-click=&quot;setFrench()&quot;&gt;Test French&lt;/button&gt;
 &lt;button class=&quot;button&quot; ng-click=&quot;setEnglish()&quot;&gt;Test English&lt;/button&gt;</code></pre>
 
-Note how localiztion is done. You specify the key (and remember, 'app' is the file name of the translation JSON) and the service will automatically provide the right translation. In case your curious, if you provide a key that doesn't exist, you'll get %%KEY_NOT_FOUND%% as the result. That makes it nice and obvious. Note I've added three buttons to help me test. As I complained about above, angular-translate doesn't actually tell you how to set a language. I had to dig around a while to figure it out (and again, @northmccormick helped me out). Here is the code for my controller:
+Note how localiztion is done. You specify the key (and remember, 'app' is the file name of the translation JSON) and the service will automatically provide the right translation. In case your curious, if you provide a key that doesn't exist, you'll get {% raw %}%%KEY_NOT_FOUND%{% endraw %}% as the result. That makes it nice and obvious. Note I've added three buttons to help me test. As I complained about above, angular-translate doesn't actually tell you how to set a language. I had to dig around a while to figure it out (and again, @northmccormick helped me out). Here is the code for my controller:
 
 <pre><code class="language-javascript">.controller('Main', function($scope, locale) {
 	

@@ -17,7 +17,7 @@ tagline: "Code, cats, Star Wars, and more cats"
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
 
-exclude: [_posts/2003,_posts/2004,_posts/2005,_posts/2006,_posts/2007,_posts/2008,_posts/2009,_posts/2010,_posts/2011,_posts/2012,_posts/2013,_posts/2014,_posts/2015,_posts/2016,_posts/2017,_posts/2018/01]
+exclude: [_posts/2003,_posts/2004,_posts/2005,_posts/2006,_posts/2007,_posts/2008,_posts/2009,_posts/2010,_posts/2011,_posts/2012,_posts/2013,_posts/2014,_posts/2015,_posts/2016]
 
 sass:
   sass_dir: _sass
@@ -41,8 +41,8 @@ disqus:
 
 # Author information - author info at the bottom of the post
 author_name: "Raymond Camden"
-author_bio: "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
-author_url:  "https://www.raymondcamden.com.com"
+author_bio: "Raymond is a developer advocate for Auth0, focused on Extend, serverless, and enterprise cat demos."
+author_url:  "https://www.raymondcamden.com"
 author_location: "Lafayette, LA"
 author_image: /images/authorimage.png
 
@@ -54,10 +54,10 @@ banner_image: images/banner.jpg
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 
 # Social links in the site footer
-twitter_username: "username"
+twitter_username: "raymondcamden"
 #facebook_username: "username"
 googleplus_username: "+username"
-github_username: "username"
+github_username: "cfjedimaster"
 codepen_username: "username"
 #dribbble_uername: "username"
 medium_username: "@username"
@@ -67,9 +67,9 @@ linkedin_username: "username"
 #weibo_username: "username"
 
 # http://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: '/blog/page:num/'
-plugins: [jekyll-paginate]
+#paginate: 10
+#paginate_path: '/blog/page:num/'
+#plugins: [jekyll-paginate]
 
 permalink: pretty
 markdown: kramdown

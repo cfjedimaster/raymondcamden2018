@@ -5,6 +5,7 @@ date: "2017-12-15"
 categories: Movies 
 tags: 
 banner_image: /images/2017/12/tlj.jpg
+permalink: /2017/12/15/review-the-last-jedi
 ---
 
 I normally save these "off topic" posts for the weekend, but as it is Friday afternoon and I'm literally unable to think of anything productive to do in my last hour of work, I figured I'd write up some quick thoughts on the latest Star Wars movie, "The Last Jedi." As always, I remind people that I'm not even close to being a professional reviewer and I'm unashamedly biased towards loving anything in the franchise. With that out of the way, let's get started. I'm going to clearly mark the end of the review with a spoiler warning. Anything below that spoiler warning will be - err - well - spoilers. Also you should consider the comment section as spoiler-filled as well. You have been warned...

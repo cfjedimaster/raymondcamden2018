@@ -5,6 +5,7 @@ date: "2016-12-01T06:30:00-07:00"
 categories: Development 
 tags: nodejs
 banner_image: 
+permalink: /2016/12/01/a-simple-stats-script-for-hugo
 ---
 
 I'm somewhat obsessed with stats, and one of the things I look at is my rate of publishing overtime. I've run this blog since 2003 and have gone from blogging 30+ times a month to - well - somewhat less than that. Quality is - of course - far more important than quantity. But as a general stat, I just like to know how much I'm writing.
@@ -108,7 +109,7 @@ if(window.Intl) {
 	formatter = new Intl.NumberFormat();
 } else {
 	formatter = {
-		format:function(x) { return x; }
+		format:function(x) {% raw %}{ return x; }{% endraw %}
 	};
 }
 </code></pre>

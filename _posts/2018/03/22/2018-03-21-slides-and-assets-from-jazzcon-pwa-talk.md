@@ -5,6 +5,7 @@ date: "2018-03-22"
 categories: Development 
 tags: pwa
 banner_image: /images/banners/jazzcon3.jpg
+permalink: /2018/03/22/slides-and-assets-from-jazzcon-pwa-talk
 ---
 
 The title says it all. If you were in my JazzCon talk earlier on PWAs, here are my slides:

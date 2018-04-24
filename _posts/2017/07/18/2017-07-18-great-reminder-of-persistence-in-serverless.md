@@ -5,6 +5,7 @@ date: "2017-07-18T09:11:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/07/18/great-reminder-of-persistence-in-serverless
 ---
 
 Today I ran into a great bug. By "great" I mean it totally confused me but as soon as I realized what I was doing wrong, I knew it would be a great thing to blog about as a reminder to others. I don't think this applies just to OpenWhisk, but to serverless in general.

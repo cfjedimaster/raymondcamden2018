@@ -5,6 +5,7 @@ date: "2015-04-14T12:00:16+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/04/14/blowing-up-localstorage-or-what-happens-when-you-exceed-quota
 ---
 
 Based on some discussion earlier today on Twitter, I wanted to take a quick look at what happens when you exceed the quota limit in a browser's LocalStorage system. I knew an error would be thrown, but I was curious about the type, message, etc. I built a quick test and threw some browsers at it. This probably isn't the most scientific test, but here's what I found.

@@ -5,6 +5,7 @@ date: "2017-04-14T12:55:00-07:00"
 categories: Development 
 tags: 
 banner_image: /images/banners/psa1.jpg
+permalink: /2017/04/14/psa-for-new-web-developers-dont-use-file
 ---
 
 If you are new to web development, one of the things you may try is simply opening a local file with your web browser. In other words, you make a file, like cat.html, save it to your desktop, then do a File/Open in your browser to view it:

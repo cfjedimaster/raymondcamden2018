@@ -5,6 +5,7 @@ date: "2016-03-22T15:09:00-07:00"
 categories: Mobile 
 tags: cordova
 banner_image: /images/banners/browserplatform.png
+permalink: /2016/03/22/the-cordova-browser-platform
 ---
 
 Nearly two years ago I first wrote about the Cordova Browser platform (<a href="http://www.raymondcamden.com/2014/09/24/browser-as-a-platform-for-your-phonegapcordova-apps/">Browser as a platform for your PhoneGap/Cordova apps</a>). After seeing an update on the Apache Cordova blog (<a href="http://cordova.apache.org/announcements/2016/03/04/cordova-browser-4.1.0.html">Cordova Browser 4.1.0</a>), I thought it might be nice to take another look at it and see how far along it has come.
@@ -119,7 +120,7 @@ The live video is added to the bottom of the DOM along with a capture button. Wh
 **Another Important Warning!!** If you get this error:
 
 <pre><code class="language-markup">
-Refused to load media from 'blob:http%3A//localhost%3A8000/d62e77b1-8354-4f25-abd2-f0634de5a4f5' because it violates the following Content Security Policy directive: "media-src *".
+Refused to load media from 'blob:http{% raw %}%3A//localhost%{% endraw %}3A8000/d62e77b1-8354-4f25-abd2-f0634de5a4f5' because it violates the following Content Security Policy directive: "media-src *".
 </code></pre>
 
 You will need to edit the CSP definition in index.html to specifically allow for blob URLs under `media-src`. Here is mine:
@@ -166,7 +167,7 @@ document.querySelector('#testAcc').addEventListener('click', function() {
 document.querySelector('#testAccWatch').addEventListener('click', function() {
 	console.log('[acceleration] begin watch');
 	watchId = navigator.accelerometer.watchAcceleration(renderAcc,accError,
-	{frequency:1000});
+	{% raw %}{frequency:1000}{% endraw %});
 	
 });
 
@@ -230,11 +231,11 @@ document.querySelector('#testGlob').addEventListener('click', function() {
 
 	navigator.globalization.getDateNames(function(names) {
 		console.log('[globalization] getDateNames:months: '+JSON.stringify(names));
-	},globError, {type:'wide', item:'months'});
+	},globError, {% raw %}{type:'wide', item:'months'}{% endraw %});
 
 	navigator.globalization.getDateNames(function(names) {
 		console.log('[globalization] getDateNames:days: '+JSON.stringify(names));
-	},globError, {type:'wide', item:'days'});
+	},globError, {% raw %}{type:'wide', item:'days'}{% endraw %});
 	
 });
 
@@ -247,7 +248,7 @@ document.querySelector('#testGlobInput').addEventListener('click', function() {
 			console.log('[globalization] formatted number: '+number.value);
 		},
 		globError,
-		{type:'percent'}
+		{% raw %}{type:'percent'}{% endraw %}
 	);
 });	
 </code></pre>

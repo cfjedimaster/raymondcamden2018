@@ -5,6 +5,7 @@ date: "2017-04-12T08:15:00-07:00"
 categories: ColdFusion 
 tags: 
 banner_image: 
+permalink: /2017/04/12/fusionreactor-still-the-best-for-coldfusion
 ---
 
 I don't really do a lot of ColdFusion work anymore, mainly just support for clients as my side gig, but when I do think of the platform as a whole, there's two companies that always come to mind - [Ortus](https://www.ortussolutions.com/) and [Integral](https://www.fusion-reactor.com/). I blogged about Ortus, and specifically CommandBox, a [few months ago](https://www.raymondcamden.com/2016/08/30/using-commandbox-for-lucee), but today I want to share my impressions about the latest FusionReactor. 
@@ -49,7 +50,7 @@ So - speaking of slow bits - the old advice that you're slowest parts are probab
 
 Along with detailing a request, you also get a dashboard into requests running on the server in real time too. You can quickly see the slowest queries too. Finally, if you use bound parameters in your SQL (which, of course, you are, right?), FusionReactor will automatically show them in the SQL report. So given this:
 
-<pre><code class="language-javascript">x = queryExecute("select * from tblusers where id = :id", {id:1});
+<pre><code class="language-javascript">x = queryExecute("select * from tblusers where id = :id", {% raw %}{id:1}{% endraw %});
 </code></pre>
 
 FusionReactor reports it as:

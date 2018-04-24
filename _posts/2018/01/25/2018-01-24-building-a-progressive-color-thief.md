@@ -5,6 +5,7 @@ date: "2018-01-25"
 categories: Development JavaScript 
 tags: pwa javascript
 banner_image: 
+permalink: /2018/01/25/building-a-progressive-color-thief
 ---
 
 A little over *five* years ago (omg, really?) I wrote a [PhoneGap demo](https://www.raymondcamden.com/2012/01/13/Demo-of-Color-Palettes-and-PhoneGap/) that made use of a JavaScript library called [Color Thief](http://lokeshdhakar.com/projects/color-thief/). Color Thief (by [Lokesh Dhakar](http://lokeshdhakar.com/)) is a library that can inspect an image for dominent colors. My PhoneGap demo was simple. It accessed the device camera to let the user take a picture and then used Dhakar's library to get the dominant colors. Here's a screen shot from the ancient demo:
@@ -85,7 +86,7 @@ const app = new Vue({
 				let style = {
 					backgroundColor:"rgb(" + c[0] + "," + c[1] + "," + c[2] +")"
 				}
-				this.swatches.push({style});			
+				this.swatches.push({% raw %}{style}{% endraw %});			
 			});
 		}
 	}
@@ -246,7 +247,7 @@ const app = new Vue({
 				let style = {
 					backgroundColor:"rgb(" + c[0] + "," + c[1] + "," + c[2] +")"
 				}
-				this.swatches.push({style});			
+				this.swatches.push({% raw %}{style}{% endraw %});			
 			});
 		}
 	}

@@ -5,6 +5,7 @@ date: "2015-03-06T10:01:23+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/03/06/warning-a-user-before-they-leave-a-form
 ---
 
 A reader asked me this today and I thought it would be a good topic for discussion. 

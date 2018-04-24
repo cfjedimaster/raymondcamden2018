@@ -5,6 +5,7 @@ date: "2016-12-10T09:04:00-07:00"
 categories: Development 
 tags: Advent of Code JavaScript
 banner_image: 
+permalink: /2016/12/10/advent-of-code-day-8
 ---
 
 Yes - I'm falling behind, but let's just pretend today is still the 8th. [Day 8](http://adventofcode.com/2016/day/8) was a difficult one (I feel like I'm saying that more and more) as it required working with 2D arrays, something I always have trouble with. Specifically - you needed to represent a 2D array of cells on a screen. You then had to take input in the form of:

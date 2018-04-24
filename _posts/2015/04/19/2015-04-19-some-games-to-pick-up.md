@@ -5,6 +5,7 @@ date: "2015-04-19T20:08:12+06:00"
 categories: Video Games 
 tags: 
 banner_image: 
+permalink: /2015/04/19/some-games-to-pick-up
 ---
 
 As it is Sunday and I'm sitting in a hotel in a San Francisco killing time till dinner, I thought I'd catch folks up on the games I've been playing recently. There's three in particular that are somewhat related so I thought why not share with my readers. These are in no more particular order than whatever comes to mind first.

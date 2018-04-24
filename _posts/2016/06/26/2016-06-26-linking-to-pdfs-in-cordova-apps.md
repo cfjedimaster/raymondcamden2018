@@ -5,6 +5,7 @@ date: "2016-06-26T14:08:00-07:00"
 categories: Mobile JavaScript 
 tags: cordova
 banner_image: 
+permalink: /2016/06/26/linking-to-pdfs-in-cordova-apps
 ---
 
 In today's "I wonder what happens when..." post, I decided to take a look at what happens when you try to use a PDF with a hybrid mobile application. I know that PDFs, in general, "just work" on both Android and iOS, but I was specifically curious about how you would use PDFs within a Cordova app. As usual, what I thought would be rather simple turned into anything *but* that. 
@@ -184,7 +185,7 @@ window.resolveLocalFileSystemURL(cordova.file.applicationDirectory +  'www/asset
 
 As you can see, he is using the FileSystem to copy to an external data directory and then uses the plugin to load it from there. A royal pain in the ass, but it works... I believe. I ended up with:
 
-<code>Error status: 9 - Error message: Activity not found: No Activity found to handle Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Android/data/io.cordova.hellocordova/files/file.pdf typ=application/pdf flg=0x4000000 }</code>
+<code>Error status: 9 - Error message: Activity not found: No Activity found to handle Intent {% raw %}{ act=android.intent.action.VIEW dat=file:///storage/emulated/0/Android/data/io.cordova.hellocordova/files/file.pdf typ=application/pdf flg=0x4000000 }{% endraw %}</code>
 
 Which implies that it simply couldn't find a PDF viewer on my Android simulator. I've got a device, but I'm at an airport currently and the device is back home. Considering *multiple* people up voted the idea, it seems like a good solution. Of course it doesn't work on iOS because, reasons, but at this point I'd simply consider using an IF/ELSE with the device plugin. 
 

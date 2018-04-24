@@ -5,6 +5,7 @@ date: "2016-06-13T08:08:00-07:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2016/06/13/very-cool-browser-extension-wappalyzer
 ---
 
 This is normally the kind of thing I'd just Tweet about, but the more I thought about it the more I wanted to ensure I reached out to people who don't use Twitter. A few days ago I discovered an incredibly cool browser extension called [Wappalyzer](https://wappalyzer.com/). The extension (natively supporting Firefox and Chrome but available as a bookmarklet too) serves a simple purpose: Given the current site you're on - what technologies are being used?

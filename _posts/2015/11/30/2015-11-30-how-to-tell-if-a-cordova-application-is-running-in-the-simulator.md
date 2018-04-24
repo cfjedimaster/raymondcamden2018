@@ -5,6 +5,7 @@ date: "2015-11-30T16:04:19+06:00"
 categories: JavaScript Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/11/30/how-to-tell-if-a-cordova-application-is-running-in-the-simulator
 ---
 
 Just a quick note here but the most recent <a href="http://cordova.apache.org/news/2015/11/24/plugins-release.html">plugins release</a> included a cool little update to the <a href="https://www.npmjs.com/package/cordova-plugin-device">Device</a> plugin. If you've never used it before, the plugin provides basic information about the app's current working environment, including operating system and device model. In the most recent version, a new property was added: <code>isVirtual</code>.

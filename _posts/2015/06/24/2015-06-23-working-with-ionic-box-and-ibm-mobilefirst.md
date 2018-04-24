@@ -5,6 +5,7 @@ date: "2015-06-24T09:02:30+06:00"
 categories: Development JavaScript Mobile 
 tags: cordova ionic mobilefirst
 banner_image: 
+permalink: /2015/06/24/working-with-ionic-box-and-ibm-mobilefirst
 ---
 
 Earlier today IBM <a href="http://www-03.ibm.com/press/us/en/pressrelease/47185.wss">announced</a> a new partnership with Box. Box is a cloud storage provider much like Dropbox, OneDrive, and other services, but also provides some pretty cool workflow features as well. While it is still early, you'll soon see some interesting collaborations between IBM and Box. I decided to see how easy it would be to integrate Box into a hybrid mobile application using both <a href="http://ionicframework.com">Ionic</a> and <a href="https://ibm.biz/MobileFirst-Platform">IBM MobileFirst</a>. This is just a simple proof of concept, but it demonstrates how you can use all these different pieces together in one application.
@@ -102,12 +103,12 @@ The only real interesting part here is setting the OAuth token in the header. Yo
 		options.fileName = uri.substr(uri.lastIndexOf('/') + 1);
 		options.mimeType = "image/jpeg";
 
-		var headers={'Authorization':'Bearer '+token};
+		var headers={% raw %}{'Authorization':'Bearer '+token}{% endraw %};
 			
 		options.headers = headers;
 			
 		var params = {};
-		params.attributes = '{"name":"'+options.fileName+'", "parent":{"id":"0"}}';
+		params.attributes = '{% raw %}{"name":"'+options.fileName+'", "parent":{"id":"0"}{% endraw %}}';
 			
 		options.params = params;
 		var ft = new FileTransfer();
@@ -128,7 +129,7 @@ And that's it. I then mixed in MobileFirst - specifically the logging service. I
 
 <pre><code class="language-javascript">}).factory('Logger', function() {
 
-	var logger = WL.Logger.create({autoSendLogs:true});
+	var logger = WL.Logger.create({% raw %}{autoSendLogs:true}{% endraw %});
 
 	return {
 		log:function(s) {

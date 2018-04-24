@@ -5,6 +5,7 @@ date: "2017-01-31T09:21:00-07:00"
 categories: Misc 
 tags: 
 banner_image: /images/banners/blogging.jpg
+permalink: /2017/01/31/some-guidance-for-blogging
 ---
 
 Earlier this week a reader sent in a great set of questions (I've edited his text a bit for clarity):

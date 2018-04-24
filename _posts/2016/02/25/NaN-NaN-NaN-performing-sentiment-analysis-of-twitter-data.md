@@ -5,6 +5,7 @@ date: "2016-02-25T8:44:00-07:00"
 categories: JavaScript 
 tags: nodejs
 banner_image: 
+permalink: /2016/02/25/performing-sentiment-analysis-of-twitter-data
 ---
 
 One of the more interesting services available on [IBM Bluemix](https://ibm.biz/IBM-Bluemix) is [Insights for Twitter](https://console.ng.bluemix.net/catalog/services/insights-for-twitter). This service
@@ -46,7 +47,7 @@ sentiments.forEach(function(s) {
 		request.get(getURL()+&#x27;messages&#x2F;count?q=&#x27;+encodeURIComponent(term)+&#x27; AND sentiment:&#x27;+s, function(error, response, body) {
 			
 			if(error) console.error(error);
-			fulfill({scope:&#x27;main&#x27;,sentiment:s,data:JSON.parse(body).search.results});	
+			fulfill({% raw %}{scope:&#x27;main&#x27;,sentiment:s,data:JSON.parse(body).search.results}{% endraw %});	
 		});
 	});
 	promises.push(p);
@@ -61,7 +62,7 @@ sentiments.forEach(function(s) {
 		request.get(getURL()+&#x27;messages&#x2F;count?q=&#x27;+encodeURIComponent(term)+&#x27; AND is:married AND sentiment:&#x27;+s, function(error, response, body) {
 			
 			if(error) console.error(error);				
-			fulfill({scope:&#x27;married&#x27;,sentiment:s,data:JSON.parse(body).search.results});	
+			fulfill({% raw %}{scope:&#x27;married&#x27;,sentiment:s,data:JSON.parse(body).search.results}{% endraw %});	
 		});
 	});
 	promises.push(p);

@@ -5,6 +5,7 @@ date: "2015-04-13T11:28:39+06:00"
 categories: Development HTML5 JavaScript Mobile 
 tags: ionic
 banner_image: 
+permalink: /2015/04/13/chaining-multiple-cordova-file-transfers-with-ngcordova
 ---
 
 One issue you may run into with the <a href="http://plugins.cordova.io/#/package/org.apache.cordova.file-transfer">FileTransfer</a> plugin is that it only lets you do one transfer at a time. You can get around this by using XHR2 (for uploads anyway), but I thought it would be nice to demonstrate how to work with multiple transfers using promises. The FileTransfer plugin does not use promises by default, but luckily you can simply use <a href="http://ngcordova.com/">ngCordova</a> and use the promisified (that's a word) version of the plugin.
@@ -21,7 +22,7 @@ I then whipped up the following demo. I don't like putting everything in one JS 
 <pre><code class="language-javascript">angular.module('starter', ['ionic','ngCordova'])
 .config(['$compileProvider', function($compileProvider) {
 
-	   $compileProvider.imgSrcSanitizationWhitelist(/^\s*(https?|ftp|mailto|content|file|assets-library):/);
+	   $compileProvider.imgSrcSanitizationWhitelist(/^\s*(https?{% raw %}|ftp|{% endraw %}mailto{% raw %}|content|{% endraw %}file|assets-library):/);
 
 }])
 .controller('Main', [&quot;$ionicPlatform&quot;, &quot;$cordovaFileTransfer&quot;, &quot;$q&quot;, &quot;$scope&quot;,
@@ -103,7 +104,7 @@ Finally, I use Angular's all method for their $q library to simply say, "Do this
       &lt;/ion-header-bar&gt;
       &lt;ion-content ng-controller=&quot;Main&quot;&gt;
         &lt;div ng-repeat=&quot;img in images&quot;&gt;
-          &lt;img ng-src=&quot;{%raw%}{{img}}{%endraw%}&quot;&gt;
+          &lt;img ng-src=&quot;{% raw %}{{img}{% endraw %}}&quot;&gt;
         &lt;/div&gt;
       &lt;/ion-content&gt;
     &lt;/ion-pane&gt;

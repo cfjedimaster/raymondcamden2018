@@ -5,6 +5,7 @@ date: "2017-04-27T07:49:00-07:00"
 categories: JavaScript 
 tags: 
 banner_image: 
+permalink: /2017/04/27/an-example-of-how-i-dig-into-your-code
 ---
 
 Like most web developers (or some of you I hope), from time to time I'll open up dev tools on a page and take a look at what's going on behind the scenes. This morning I was drinking my coffee, waking my sick butt up (allergies - never really been a problem before, but this year decided to go all epic on me), when I got an email about an update to a bug I had filed for ColdFusion. The detail page it led me to had some interesting issues and I thought it might be interesting to share some of the things I found.

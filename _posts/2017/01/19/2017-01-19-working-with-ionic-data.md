@@ -5,6 +5,7 @@ date: "2017-01-19T09:03:00-07:00"
 categories: Mobile 
 tags: ionic
 banner_image: /images/banners/ionicdb.jpg
+permalink: /2017/01/19/working-with-ionicdb
 ---
 
 <b>Edit on Match 30, 2017: Unfortunately, the Ionic folks decided to <i>not</i> ship the final version of this service. IonicDB is no more.</b>
@@ -91,8 +92,8 @@ Ok, so let's look at the code. First, the view, even though it's rather simple.
 
   &lt;ion-list&gt;
     &lt;ion-item *ngFor=&quot;let chat of chats&quot;&gt;
-      &lt;h2&gt;{%raw%}{{chat.text}}{%endraw%}&lt;&#x2F;h2&gt;
-      &lt;p&gt;Posted {%raw%}{{chat.created | date}}{%endraw%} at {%raw%}{{ chat.created | date:&#x27;shortTime&#x27; }}{%endraw%}&lt;&#x2F;p&gt;
+      &lt;h2&gt;{% raw %}{{chat.text}{% endraw %}}&lt;&#x2F;h2&gt;
+      &lt;p&gt;Posted {% raw %}{{chat.created |{% endraw %} date}} at {% raw %}{{ chat.created |{% endraw %} date:&#x27;shortTime&#x27; }}&lt;&#x2F;p&gt;
     &lt;&#x2F;ion-item&gt;
   &lt;&#x2F;ion-list&gt;
 
@@ -102,9 +103,9 @@ Ok, so let's look at the code. First, the view, even though it's rather simple.
 Basically just a form field and button for adding data and a simple ion-list for displaying it. The component code is where the fun is:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { NavController } from &#x27;ionic-angular&#x27;;
-import { Database } from &#x27;@ionic&#x2F;cloud-angular&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ NavController }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ Database }{% endraw %} from &#x27;@ionic&#x2F;cloud-angular&#x27;;
 
 @Component({
   selector: &#x27;page-home&#x27;,
@@ -126,7 +127,7 @@ export class HomePage {
   }
 
   sendMessage() {
-    this.db.collection(&#x27;chats&#x27;).store({text:this.message, created:Date.now()});
+    this.db.collection(&#x27;chats&#x27;).store({% raw %}{text:this.message, created:Date.now()}{% endraw %});
   }
 
 }
@@ -183,13 +184,13 @@ If you try to connect to the database without being logged in, you'll get an err
 caches logins. So you need to handle this in two places - the application startup, and your login/register routine. So here's my app.component.ts:
 
 <pre><code class="language-javascript">
-import { Component } from &#x27;@angular&#x2F;core&#x27;;
-import { Platform } from &#x27;ionic-angular&#x27;;
-import { StatusBar, Splashscreen } from &#x27;ionic-native&#x27;;
+import {% raw %}{ Component }{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{ Platform }{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{ StatusBar, Splashscreen }{% endraw %} from &#x27;ionic-native&#x27;;
 
-import { HomePage } from &#x27;..&#x2F;pages&#x2F;home&#x2F;home&#x27;;
-import { LoginPage } from &#x27;..&#x2F;pages&#x2F;login&#x2F;login&#x27;;
-import { Auth, Database } from &#x27;@ionic&#x2F;cloud-angular&#x27;;
+import {% raw %}{ HomePage }{% endraw %} from &#x27;..&#x2F;pages&#x2F;home&#x2F;home&#x27;;
+import {% raw %}{ LoginPage }{% endraw %} from &#x27;..&#x2F;pages&#x2F;login&#x2F;login&#x27;;
+import {% raw %}{ Auth, Database }{% endraw %} from &#x27;@ionic&#x2F;cloud-angular&#x27;;
 
 
 
@@ -243,7 +244,7 @@ if(this.showLogin) {
 	});
 	loader.present();
 	
-	this.auth.login(&#x27;basic&#x27;, {&#x27;email&#x27;:this.email, &#x27;password&#x27;:this.password}).then(() =&gt; {
+	this.auth.login(&#x27;basic&#x27;, {% raw %}{&#x27;email&#x27;:this.email, &#x27;password&#x27;:this.password}{% endraw %}).then(() =&gt; {
 	loader.dismissAll();
 	&#x2F;&#x2F;this is crucial
 	this.db.connect();
@@ -275,7 +276,7 @@ So far so good. The next change is to where we work with data. In both are "get 
 part:
 
 <pre><code class="language-javascript">
-this.db.collection(&#x27;chats&#x27;).findAll({creator:this.user.id}).order(&#x27;created&#x27;,&#x27;descending&#x27;).watch().subscribe( (chats) =&gt; {
+this.db.collection(&#x27;chats&#x27;).findAll({% raw %}{creator:this.user.id}{% endraw %}).order(&#x27;created&#x27;,&#x27;descending&#x27;).watch().subscribe( (chats) =&gt; {
 </code></pre>
 
 Pretty simple, right? Basically filter by property creator and use my current login id as the value. Here is the new save routine:

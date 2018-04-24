@@ -5,6 +5,7 @@ date: "2017-03-02T09:37:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/03/02/designing-an-openwhisk-action-for-web-action-support
 ---
 
 <strong>Please note that there is an update to this blog post. Read it here: <a href="https://www.raymondcamden.com/2017/07/03/designing-an-openwhisk-action-for-web-action-support-take-two/">https://www.raymondcamden.com/2017/07/03/designing-an-openwhisk-action-for-web-action-support-take-two/</a>.</strong>
@@ -51,7 +52,7 @@ function randomBreed() {
 function randomPic() {
     var w = getRandomInt(100,400);
     var h = getRandomInt(100,400);
-    return `http://placekitten.com/${w}/${h}`;
+    return `http://placekitten.com/${% raw %}{w}{% endraw %}/${% raw %}{h}{% endraw %}`;
 }
 
 function main(args) {
@@ -121,7 +122,7 @@ function main(args) {
 	};
 
 	if(!isWebInvocation(args)) {
-		return { cat: cat};
+		return {% raw %}{ cat: cat}{% endraw %};
 	}
 
 	console.log('not a regular invoke');
@@ -132,10 +133,10 @@ function main(args) {
 
 		case 'html': 
 			return {html:`
-				&lt;h1&gt;${cat.name}&lt;/h1&gt;
-				My cat, ${cat.name}, is ${cat.gender} and ${cat.age} years old.&lt;br/&gt;
-				It is a ${cat.breed} and has a ${cat.color} color.&lt;br/&gt;
-				&lt;img src=&quot;${cat.picture}&quot;&gt;
+				&lt;h1&gt;${% raw %}{cat.name}{% endraw %}&lt;/h1&gt;
+				My cat, ${% raw %}{cat.name}{% endraw %}, is ${% raw %}{cat.gender}{% endraw %} and ${% raw %}{cat.age}{% endraw %} years old.&lt;br/&gt;
+				It is a ${% raw %}{cat.breed}{% endraw %} and has a ${% raw %}{cat.color}{% endraw %} color.&lt;br/&gt;
+				&lt;img src=&quot;${% raw %}{cat.picture}{% endraw %}&quot;&gt;
 				`
 			};
 			break;
@@ -143,7 +144,7 @@ function main(args) {
 
 		case 'image':
 			return {
-				headers:{location:cat.picture},
+				headers:{% raw %}{location:cat.picture}{% endraw %},
 				code:302
 			};
 			break;

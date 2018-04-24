@@ -5,6 +5,7 @@ date: "2015-11-23T15:34:15+06:00"
 categories: HTML5 
 tags: 
 banner_image: 
+permalink: /2015/11/23/til-autocomplete-and-forms
 ---
 
 As it is Thanksgiving week here in America and my brain has already kinda checked out, I decided to take a quick look at a particular aspect of the input tag - autocomplete. 

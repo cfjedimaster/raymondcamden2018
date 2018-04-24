@@ -5,6 +5,7 @@ date: "2015-04-07T13:06:54+06:00"
 categories: Development 
 tags: 
 banner_image: 
+permalink: /2015/04/07/form-analytics-with-formatic
 ---
 
 About a month or so ago I wrote a blog post discussing how you could detect when someone left a form (<a href="http://www.raymondcamden.com/2015/03/06/warning-a-user-before-they-leave-a-form">Warning a user before they leave a form</a>). The idea being that you may want to notice/warn/gently nudge a user to complete a form before they try to leave it. One of my readers, Andrew Schwabe, reached out to me and asked if I wanted to demo a new service he is working on, Formatic. 

@@ -5,6 +5,7 @@ date: "2015-10-23T14:15:34+06:00"
 categories: Development Mobile 
 tags: cordova
 banner_image: 
+permalink: /2015/10/23/getting-an-error-running-a-cordova-project-to-ios
 ---
 
 This morning when testing an Ionic project, I got an error trying to emulate iOS. I tested it again in the Cordova CLI and got the same error:

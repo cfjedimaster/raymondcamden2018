@@ -5,6 +5,7 @@ date: "2017-10-09T05:52:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/10/09/facebook-chatbots-with-openwhisk
 ---
 
 This weekend I decided to take a quick look at running Facebook Chatbot, aka [Facebook Messenger Platform](https://developers.facebook.com/docs/messenger-platform/), on the OpenWhisk platform. In general, it worked just fine and 90% of the issues I had were me not reading the docs correctly and making code screw ups. But I can say that I've got it working successfully now and it isn't difficult at all.
@@ -30,7 +31,7 @@ Now for the code. I'm going to share the whole thing at the end, but first I wan
 		let token = args["hub.verify_token"];
 
 		if(token === 'test_token') {
-			return { body:challenge };
+			return {% raw %}{ body:challenge }{% endraw %};
 		} else {
 			//todo: return an error condition
 		}
@@ -57,7 +58,7 @@ function main(args) {
 		let token = args[&quot;hub.verify_token&quot;];
 
 		if(token === &#x27;test_token&#x27;) {
-			return { body:challenge };
+			return {% raw %}{ body:challenge }{% endraw %};
 		} else {
 			&#x2F;&#x2F;todo: return an error condition
 		}
@@ -79,13 +80,13 @@ function main(args) {
 			});
 
 			Promise.all(promises).then(() =&gt; {
-				resolve({result:1});
+				resolve({% raw %}{result:1}{% endraw %});
 			})
 			.catch((e) =&gt; {
 				console.log(&#x27;error in all call&#x27;);
 				console.log(&#x27;message=&#x27;+e.message);
 				console.log(&#x27;error=&#x27;+JSON.stringify(e.error));
-				reject({error:e.error});
+				reject({% raw %}{error:e.error}{% endraw %});
 			});
 
 		});
@@ -100,7 +101,7 @@ function process(msg) {
 	let timeOfMessage = msg.timestamp;
 	let message = msg.message;
 
-	console.log(`Received message for user ${senderID} and page ${recipientID} at ${timeOfMessage} with message:`);
+	console.log(`Received message for user ${% raw %}{senderID}{% endraw %} and page ${% raw %}{recipientID}{% endraw %} at ${% raw %}{timeOfMessage}{% endraw %} with message:`);
 	console.log(JSON.stringify(message));
 
 	let messageID = message.mid;
@@ -122,7 +123,7 @@ function process(msg) {
 function callSendApi(messageData) {
 	let options = {
 			uri: &#x27;https:&#x2F;&#x2F;graph.facebook.com&#x2F;v2.6&#x2F;me&#x2F;messages&#x27;,
-			qs: { access_token: PAGE_ACCESS_TOKEN },
+			qs: {% raw %}{ access_token: PAGE_ACCESS_TOKEN }{% endraw %},
 			method: &#x27;POST&#x27;,
 			json: messageData
 	}

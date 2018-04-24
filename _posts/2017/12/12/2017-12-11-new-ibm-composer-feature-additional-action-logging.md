@@ -5,6 +5,7 @@ date: "2017-12-12"
 categories: Serverless 
 tags: openwhisk javascript
 banner_image: 
+permalink: /2017/12/12/new-ibm-composer-feature-additional-action-logging
 ---
 
 A pretty cool update landed in [IBM Composer](https://github.com/ibm-functions/composer/tree/master/docs) today, and I want to thank IBM engineer [Kerry Chang](http://researcher.watson.ibm.com/researcher/view.php?person=ibm-Kerry.Chang) for letting me know about it. When visualizing compositions, Composer will return information about the output of your actions, but do not provide that level of output for *inine* functions. Now typically these are very small bits of logic and you probably aren't too concerned about their output, but it can be something you miss if you're having trouble chasing down a bug. Another thing you don't get is the input to the composition. Now you can get both.
@@ -34,7 +35,7 @@ Ok, so let's test this. I made a somewhat silly composition of 3 steps. The firs
 		name += &#x27;Jay&#x27;;
 	}
 
-	return { name:name };
+	return {% raw %}{ name:name }{% endraw %};
 }
 </code></pre>
 
@@ -48,7 +49,7 @@ The second action is an inline action. I'll show that in a bit. The third action
 		cost = args.input.length * 1000;
 	}
 
-	return { cost:cost };
+	return {% raw %}{ cost:cost }{% endraw %};
 
 }
 </code></pre>
@@ -57,7 +58,7 @@ Alright, so let's put this together in a composition:
 
 <pre><code class="language-javascript">composer.sequence(
 	&#x27;safeToDelete&#x2F;newname&#x27;,
-	args =&gt; ({input: args.name.toUpperCase()}),
+	args =&gt; ({% raw %}{input: args.name.toUpperCase()}{% endraw %}),
 	&#x27;safeToDelete&#x2F;stringcost&#x27;
 );
 </code></pre>

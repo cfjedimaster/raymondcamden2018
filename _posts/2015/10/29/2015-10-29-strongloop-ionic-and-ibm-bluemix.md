@@ -5,6 +5,7 @@ date: "2015-10-29T13:26:02+06:00"
 categories: Development JavaScript Mobile 
 tags: bluemix cordova ionic strongloop
 banner_image: 
+permalink: /2015/10/29/strongloop-ionic-and-ibm-bluemix
 ---
 
 Over the past few weeks I've been digging deep into <a href="http://www.strongloop.com">StrongLoop</a> and rather enjoying the heck out of it. As I said in my earliest post - I'm not necessarily a fan of tools generating code for me or lots of "automagical" stuff at the framework level, but after working with the LoopBack framework and models I got over it pretty darn quickly. I'm definitely sold on the concept and am exciting about digging into the other parts of StrongLoop's offering. But before I went too much further in that direction, I wanted to write up a complete example that covered a fully functioning server and mobile app running on <a href="https://ibm.biz/IBM-Bluemix">Bluemix</a>. To the end I've created a project and a set of videos to help guide you through the process. Let's get started!

@@ -5,6 +5,7 @@ date: "2015-05-08T09:15:55+06:00"
 categories: Development Mobile 
 tags: ionic mobilefirst
 banner_image: 
+permalink: /2015/05/08/ibm-and-ionic
 ---
 
 So I don't typically post links to press releases (I think my readers know I'm not that kinda guy), but I wanted to share one that I thought was pretty important. As you know, I've been doing a lot of posts recently involving <a href="http://www.ionicframework.com">Ionic</a> and <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a>. You're going to see even more of those over the next few months. Today the I'm sharing the news that we've (we as in IBM, I can speak for IBM, right? I've been here 3 months) are announcing a partnership with the Ionic company. You can read the complete press release here:

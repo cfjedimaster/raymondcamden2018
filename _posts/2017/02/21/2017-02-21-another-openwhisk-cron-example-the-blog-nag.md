@@ -5,6 +5,7 @@ date: "2017-02-21T09:31:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: /images/banners/blognag.jpg
+permalink: /2017/02/21/another-openwhisk-cron-example-the-blog-nag
 ---
 
 Last week I [blogged](https://www.raymondcamden.com/2017/02/14/collecting-911-data-openwhisk-cron-triggers) about my first experience working with [OpenWhisk](https://developer.ibm.com/openwhisk/) triggers and rules, specifically the Cron trigger which lets you execute actions according to a schedule. Today I'm sharing another example, which, while not as complex as the 911 scraper, I thought was kind of fun. 
@@ -36,8 +37,8 @@ function doNag(last) {
 	let subject = &#x27;You Need to Blog!&#x27;;
 
 	let content = `
-You have not blogged in the past ${NAG_DAY} days!
-Your last post was on ${last}.
+You have not blogged in the past ${% raw %}{NAG_DAY}{% endraw %} days!
+Your last post was on ${% raw %}{last}{% endraw %}.
 `
 	let mailContent = new helper.Content(&#x27;text&#x2F;plain&#x27;, content);
 	let mail = new helper.Mail(from_email, subject, to_email, mailContent);
@@ -81,9 +82,9 @@ function main() {
 				if(diff &gt; (NAG_DAY * 24 * 60 * 60 * 1000)) {
 					console.log(&#x27;got to nag!&#x27;);
 					doNag(latest.pubDate[0]);
-					resolve({status:true});
+					resolve({% raw %}{status:true}{% endraw %});
 				} else {
-					resolve({status:false});
+					resolve({% raw %}{status:false}{% endraw %});
 				}
 			});
 

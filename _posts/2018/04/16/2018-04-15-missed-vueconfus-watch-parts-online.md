@@ -5,6 +5,7 @@ date: "2018-04-16"
 categories: JavaScript 
 tags: vuejs
 banner_image: /images/banners/vueconf.png
+permalink: /2018/04/16/missed-vueconfus-watch-parts-online
 ---
 
 I wasn't able to make this year's [VueConf US](http://us.vuejs.org/) (even though it was in my backyard), but luckily, some of the videos from the conference are online: 

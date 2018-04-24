@@ -5,6 +5,7 @@ date: "2017-12-05"
 categories: Development 
 tags: javascript vuejs
 banner_image: 
+permalink: /2017/12/05/building-related-selects-with-vuejs
 ---
 
 My buddy [Nic Raboy](https://www.thepolyglotdeveloper.com/blog/) has been posting some great "how to do X" style posts on [Vue.js](https://vuejs.org/) lately and it's inspired me to do the same. With that in mind, I decided to work on what I thought would be a simple demo of "related selects" - this is a common UI interface where one drop down drives the content of another. While working on the demos though I ran into some interesting edge cases that helped me learn, so I hope what follows is useful. As always, remember that I'm learning and there are probably better ways of doing what I'm showing here. (In fact, once again my friend Ted Patrick shared an update to my code that I'll be including in the post.)
@@ -16,15 +17,15 @@ I'll begin with the markup:
 <pre><code class="language-markup">&lt;div id=&quot;app&quot;&gt;
 
   &lt;select v-model=&quot;selectedDrink&quot; @change=&quot;selectDrink&quot;&gt;
-    &lt;option v-for=&quot;(drink,index) in drinks&quot; :value=&quot;index&quot;&gt;{%raw%}{{ drink.label }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;(drink,index) in drinks&quot; :value=&quot;index&quot;&gt;{% raw %}{{ drink.label }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
 
   &lt;select v-model=&quot;selectedOption&quot; v-if=&quot;selectedDrink != -1&quot;&gt;
-    &lt;option v-for=&quot;option in drinks[selectedDrink].options&quot;&gt;{%raw%}{{ option }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;option in drinks[selectedDrink].options&quot;&gt;{% raw %}{{ option }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
 
   &lt;p v-if=&quot;selectedOption&quot;&gt;
-    You selected a {%raw%}{{ drinks[selectedDrink].label }}{%endraw%} and specifically {%raw%}{{ selectedOption }}{%endraw%}.
+    You selected a {% raw %}{{ drinks[selectedDrink].label }{% endraw %}} and specifically {% raw %}{{ selectedOption }{% endraw %}}.
   &lt;/p&gt;
 &lt;/div&gt;
 </code></pre>
@@ -76,15 +77,15 @@ So I liked this, but I was kinda bugged by the amount of logic I had in the view
 <pre><code class="language-markup">&lt;div id=&quot;app&quot;&gt;
 
   &lt;select v-model=&quot;selectedDrink&quot; @change=&quot;selectDrink&quot;&gt;
-    &lt;option v-for=&quot;(drink,index) in drinks&quot; :value=&quot;index&quot;&gt;{%raw%}{{ drink.label }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;(drink,index) in drinks&quot; :value=&quot;index&quot;&gt;{% raw %}{{ drink.label }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
 
   &lt;select v-model=&quot;selectedOption&quot; v-if=&quot;options.length&quot;&gt;
-    &lt;option v-for=&quot;option in options&quot;&gt;{%raw%}{{ option }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;option in options&quot;&gt;{% raw %}{{ option }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
 
   &lt;p v-if=&quot;selectedOption&quot;&gt;
-    You selected a {%raw%}{{ selectedDrinkLabel }}{%endraw%} and specifically {%raw%}{{ selectedOption }}{%endraw%}.
+    You selected a {% raw %}{{ selectedDrinkLabel }{% endraw %}} and specifically {% raw %}{{ selectedOption }{% endraw %}}.
   &lt;/p&gt;
 &lt;/div&gt;
 </code></pre>
@@ -134,15 +135,15 @@ Finally, Ted Patrick shared a third version with me. Note that his is missing so
 <pre><code class="language-markup">&lt;div id=&quot;app&quot;&gt;
 
   &lt;select v-model=&quot;selectedDrink&quot;&gt;
-    &lt;option v-for=&quot;drink in drinks&quot; :value=&quot;drink&quot;&gt;{%raw%}{{ drink.label }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;drink in drinks&quot; :value=&quot;drink&quot;&gt;{% raw %}{{ drink.label }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
 
   &lt;select v-model=&quot;selectedOption&quot; v-if=&quot;selectedDrink != -1&quot;&gt;
-    &lt;option v-for=&quot;option in selectedDrink.options&quot;&gt;{%raw%}{{ option }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;option in selectedDrink.options&quot;&gt;{% raw %}{{ option }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
 
   &lt;p v-if=&quot;selectedDrink&amp;&amp;selectedOption&quot;&gt;
-    You selected a {%raw%}{{ selectedDrink.label }}{%endraw%} and specifically {%raw%}{{ selectedOption }}{%endraw%}.
+    You selected a {% raw %}{{ selectedDrink.label }{% endraw %}} and specifically {% raw %}{{ selectedOption }{% endraw %}}.
   &lt;/p&gt;
   
 &lt;/div&gt;
@@ -160,12 +161,12 @@ Ok, now for round two! For the second version, I wanted related drop downs where
   &lt;h2&gt;SWAPI Data&lt;/h2&gt;
   
   &lt;select v-model=&quot;selectedOption&quot; @change=&quot;loadData&quot;&gt;
-    &lt;option v-for=&quot;option in options&quot;&gt;{%raw%}{{ option }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;option in options&quot;&gt;{% raw %}{{ option }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
 
   &lt;div v-if=&quot;selectedOption &amp;&amp; !items.length&quot;&gt;&lt;i&gt;Loading&lt;/i&gt;&lt;/div&gt;
   &lt;select v-if=&quot;items.length&quot;&gt;
-    &lt;option v-for=&quot;item in items&quot;&gt;{%raw%}{{ item.label }}{%endraw%}&lt;/option&gt;
+    &lt;option v-for=&quot;item in items&quot;&gt;{% raw %}{{ item.label }{% endraw %}}&lt;/option&gt;
   &lt;/select&gt;
   
 &lt;/div&gt;

@@ -5,6 +5,7 @@ date: "2016-08-22T11:32:00-07:00"
 categories: JavaScript Mobile 
 tags: ionic
 banner_image: /images/banners/shakerattle.jpg
+permalink: /2016/08/22/working-with-ionic-native-shake-rattle-and-roll-follow-up
 ---
 
 Last month I wrote a tutorial on using Ionic Native and the Device Motion plugin ([Working with Ionic Native - Shake, Rattle, and Roll](https://www.raymondcamden.com/2016/07/07/working-with-ionic-native-shake-rattle-and-roll/)). In that post I detailed how to use the device's accelerometer to recognize a "shake" gesture and then reload data from a service. A reader (on the Ionic blog version of my article) had a great question:
@@ -26,25 +27,25 @@ I began by modifying my previous demo such that the list of cats actually linked
 So I simply created a new page (don't forget, the Ionic CLI has a cool ["generate"](http://ionicframework.com/docs/v2/cli/generate/) feature to make that easy!) and then linked my cats to the detail. So first I added a click event to my list item:
 
 <pre><code class="language-javascript">
-&lt;ion-item *ngFor="let cat of cats" (click)="loadCat(cat)"&gt; {%raw%}{{ cat.name }}{%endraw%} &lt;/ion-item&gt;
+&lt;ion-item *ngFor="let cat of cats" (click)="loadCat(cat)"&gt; {% raw %}{{ cat.name }{% endraw %}} &lt;/ion-item&gt;
 </code></pre>
 
 And then added a handler for it:
 
 <pre><code class="language-javascript">
 loadCat(cat) {
-    this.navController.push(DetailPage, {cat:cat});
+    this.navController.push(DetailPage, {% raw %}{cat:cat}{% endraw %});
 }
 </code></pre>
 
 Ok, so how do we fix our code so we only listen to the accelerometer when the view is visible? Easy - we use a view event! The Ionic docs do *not* do a good job of making it easy to find them, but if you look the [API docs for NavController](http://ionicframework.com/docs/v2/api/components/nav/NavController/), you'll find a list of view-related events you can listen to. For my demo, I just needed `ionViewWillEnter` and `ionViewWillLeave`. So I simply moved my "listen for device motion" code out of the constructor and into the enter event. Here's the complete home.ts code:
 
 <pre><code class="language-javascript">
-import {Component} from &#x27;@angular&#x2F;core&#x27;;
-import {NavController,Platform} from &#x27;ionic-angular&#x27;;
-import {CatProvider} from &#x27;..&#x2F;..&#x2F;providers&#x2F;cat-provider&#x2F;cat-provider&#x27;;
-import {DeviceMotion} from &#x27;ionic-native&#x27;;
-import {DetailPage} from &#x27;..&#x2F;detail&#x2F;detail&#x27;;
+import {% raw %}{Component}{% endraw %} from &#x27;@angular&#x2F;core&#x27;;
+import {% raw %}{NavController,Platform}{% endraw %} from &#x27;ionic-angular&#x27;;
+import {% raw %}{CatProvider}{% endraw %} from &#x27;..&#x2F;..&#x2F;providers&#x2F;cat-provider&#x2F;cat-provider&#x27;;
+import {% raw %}{DeviceMotion}{% endraw %} from &#x27;ionic-native&#x27;;
+import {% raw %}{DetailPage}{% endraw %} from &#x27;..&#x2F;detail&#x2F;detail&#x27;;
 
 @Component({
   providers: [CatProvider],
@@ -75,14 +76,14 @@ export class HomePage {
   }
 
   loadCat(cat) {
-    this.navController.push(DetailPage, {cat:cat});
+    this.navController.push(DetailPage, {% raw %}{cat:cat}{% endraw %});
   }
 
   ionViewWillEnter() {
     console.log(&#x27;view will enter&#x27;);
 
     this.platform.ready().then(() =&gt; {
-      this.subscription = DeviceMotion.watchAcceleration({frequency:200}).subscribe(acc =&gt; {
+      this.subscription = DeviceMotion.watchAcceleration({% raw %}{frequency:200}{% endraw %}).subscribe(acc =&gt; {
         console.log(acc);
 
         if(!this.lastX) {

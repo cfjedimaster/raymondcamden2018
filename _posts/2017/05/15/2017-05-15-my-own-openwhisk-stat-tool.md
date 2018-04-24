@@ -5,6 +5,7 @@ date: "2017-05-15T09:22:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/05/15/my-own-openwhisk-stat-tool
 ---
 
 While waiting at the airport this past weekend, I worked on a little utility to help me retrieve information about my OpenWhisk actions. As you know (hopefully know!), Bluemix provides a "stats" page for your OpenWhisk stuff but it is a bit limited in terms of how far it goes back and doesn't yet provide good aggregate data about your action. So for example, I really wanted to see how well my action was responding in a simple tabular fashion. With that in mind, I built a command line tool that provides a report:
@@ -59,7 +60,7 @@ function getAllActivations(cb,acts,skip) {
     if(!acts) acts=[];
     if(!skip) skip=0;
     process.stdout.write(chalk.blue(&#x27;.&#x27;));
-    ow.activations.list({limit:200, name:action, docs:true, skip:skip}).then(result =&gt; {
+    ow.activations.list({% raw %}{limit:200, name:action, docs:true, skip:skip}{% endraw %}).then(result =&gt; {
         if(result.length === 0 || acts.length &gt;= MAX_ACTS) return cb(acts);
         acts = acts.concat(result);
         getAllActivations(cb,acts,skip+200);
@@ -90,14 +91,14 @@ getAllActivations((result) =&gt; {
     results.successfulperc = Number((results.successful&#x2F;results.total*100).toFixed(2));
 
     let finalResult = `
-Total Number of Invocations:    ${results.total}
-Total Successful:               ${results.successful} (${results.successfulperc}%)
-First Invocation:               ${results.firstInvocation}
-Last Invocation:                ${results.lastInvocation}
-Total Duration (ms):            ${results.duration}
-Quickest Duration (ms):         ${results.fastduration}
-Slowest Duration (ms):          ${results.slowduration}
-Average Duration (ms):          ${results.avgduration}
+Total Number of Invocations:    ${% raw %}{results.total}{% endraw %}
+Total Successful:               ${% raw %}{results.successful}{% endraw %} (${% raw %}{results.successfulperc}{% endraw %}%)
+First Invocation:               ${% raw %}{results.firstInvocation}{% endraw %}
+Last Invocation:                ${% raw %}{results.lastInvocation}{% endraw %}
+Total Duration (ms):            ${% raw %}{results.duration}{% endraw %}
+Quickest Duration (ms):         ${% raw %}{results.fastduration}{% endraw %}
+Slowest Duration (ms):          ${% raw %}{results.slowduration}{% endraw %}
+Average Duration (ms):          ${% raw %}{results.avgduration}{% endraw %}
 `;
     process.stdout.write(chalk.green(finalResult));
     &#x2F;&#x2F;console.log(results);

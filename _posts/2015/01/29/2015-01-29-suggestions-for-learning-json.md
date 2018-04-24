@@ -5,6 +5,7 @@ date: "2015-01-29T16:34:54+06:00"
 categories: Development JavaScript 
 tags: 
 banner_image: 
+permalink: /2015/01/29/suggestions-for-learning-json
 ---
 
 Yesterday a reader asked me a question about one of my blog posts. In the blog post, I described a Cordova application that would retrieve a list of URLs from a server. It would then fetch each URL and download the resource to the device. I casually described the data as "an array of URLs in JSON" and assumed everyone would know what that meant. Of course, not everyone <i>does</i> know what JSON means.
@@ -18,7 +19,7 @@ JSON represents simple values, like strings and numbers, just as they are, so "r
 
 Arrays are represented by using brackets and a comma between each item: ["ray", 6, "i am not a number", "etc"]
 
-Objects (ColdFusion folks - think structures) are represented by curly brackets. Each name/value pair is represented by name, colon, value. So: { name:"Ray", age:41, gender:"awesome"}.
+Objects (ColdFusion folks - think structures) are represented by curly brackets. Each name/value pair is represented by name, colon, value. So: {% raw %}{ name:"Ray", age:41, gender:"awesome"}{% endraw %}.
 
 Working with JSON in JavaScript is relatively trivial. If you use jQuery to make an XHR request then you can simply tell jQuery that a URL returns JSON and you've get a native JavaScript object to work with. Modern browsers also ship with support to create JSON (stringify) and read it (parse). You can read more about that at the excellent MDN docs: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON">JSON</a>.
 

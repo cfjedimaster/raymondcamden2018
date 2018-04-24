@@ -5,6 +5,7 @@ date: "2017-05-26T09:04:00-07:00"
 categories: Serverless 
 tags: openwhisk
 banner_image: 
+permalink: /2017/05/26/handling-errors-in-openwhisk-sequences-with-a-combinator
 ---
 
 As I build more powerful sequences in [OpenWhisk](http://openwhisk.org/), one of the issues I've run into is how to handle "routing" in sequences. Basically, given a sequence of A=&gt;B=&gt;C=&gt;, there may be times when:
@@ -34,7 +35,7 @@ For today, I'm going to focus on the trycatch action. As it says in the descript
 	if(args.error == null) args.error = false;
 
 	if(!args.error) {
-		return {result:1}
+		return {% raw %}{result:1}{% endraw %}
 	} else {
 		throw new Error('Oh Crap');
 	}
@@ -207,7 +208,7 @@ Pay special attention to the status. The result is now marked as successful. My 
 <pre><code class="language-javascript">function main(args) {
 	console.log('error action', JSON.stringify(args));
 
-	return {status:"Um a very bad thing just happened - sorry?"};
+	return {% raw %}{status:"Um a very bad thing just happened - sorry?"}{% endraw %};
 
 }
 </code></pre>

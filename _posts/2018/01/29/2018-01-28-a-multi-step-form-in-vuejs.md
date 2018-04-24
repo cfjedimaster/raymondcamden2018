@@ -5,6 +5,7 @@ date: "2018-01-29"
 categories: JavaScript 
 tags: vuejs
 banner_image: 
+permalink: /2018/01/29/a-multi-step-form-in-vuejs
 ---
 
 Last week I wrote up a demo explaining how to [build a simple quiz](https://www.raymondcamden.com/2018/01/22/building-a-quiz-with-vuejs/) using Vue.js. As part of that process, I demonstrated how to render one question of the quiz at a time and navigate through the set of questions. It occurred to me that it may make sense to also demonstrate how to build a simple "multi-step" form in Vue.js as well. Let's begin with a simple example. I'll show the HTML first.
@@ -75,7 +76,7 @@ Last week I wrote up a demo explaining how to [build a simple quiz](https://www.
   </div>
   </form>
 
-  <br/><br/>Debug: {%raw%}{{registration}}{%endraw%}
+  <br/><br/>Debug: {% raw %}{{registration}{% endraw %}}
 </div>
 ```
 
@@ -188,7 +189,7 @@ You may be curious - what if you didn't want to use AJAX for the form submission
 	&lt;&#x2F;div&gt;
 	&lt;&#x2F;form&gt;
 
-	&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;Debug: {%raw%}{{registration}}{%endraw%}
+	&lt;br&#x2F;&gt;&lt;br&#x2F;&gt;Debug: {% raw %}{{registration}{% endraw %}}
 &lt;&#x2F;div&gt;
 </code></pre>
 
