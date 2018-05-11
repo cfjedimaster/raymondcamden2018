@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Google Maps in Flex Mobile"
 date: "2011-05-21T16:05:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/05/21/Working-with-Google-Maps-in-Flex-Mobile
 ---

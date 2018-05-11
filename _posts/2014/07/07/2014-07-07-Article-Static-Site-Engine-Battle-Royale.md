@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Static Site Engine Battle Royale"
 date: "2014-07-07T21:07:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/07/07/Article-Static-Site-Engine-Battle-Royale
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Quickie - Moving a file to a day-based folder"
 date: "2009-06-10T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/06/10/ColdFusion-Quickie-Moving-a-file-to-a-daybased-folder
 ---

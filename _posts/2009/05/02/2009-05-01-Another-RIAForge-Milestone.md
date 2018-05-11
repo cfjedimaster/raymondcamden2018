@@ -2,8 +2,8 @@
 layout: post
 title: "Another RIAForge Milestone"
 date: "2009-05-02T10:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/05/02/Another-RIAForge-Milestone
 ---

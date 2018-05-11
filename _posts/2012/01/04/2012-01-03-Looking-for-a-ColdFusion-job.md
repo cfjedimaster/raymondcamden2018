@@ -2,8 +2,8 @@
 layout: post
 title: "Looking for a ColdFusion job?"
 date: "2012-01-04T10:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/01/04/Looking-for-a-ColdFusion-job
 ---

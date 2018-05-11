@@ -2,8 +2,8 @@
 layout: post
 title: "Recording and demos from my ColdFusion 11 presentation"
 date: "2014-04-10T11:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/04/10/Recording-and-demos-from-my-ColdFusion-11-presentation
 ---

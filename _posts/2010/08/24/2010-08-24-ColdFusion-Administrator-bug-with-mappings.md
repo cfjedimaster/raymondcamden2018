@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Administrator bug with mappings"
 date: "2010-08-24T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/24/ColdFusion-Administrator-bug-with-mappings
 ---

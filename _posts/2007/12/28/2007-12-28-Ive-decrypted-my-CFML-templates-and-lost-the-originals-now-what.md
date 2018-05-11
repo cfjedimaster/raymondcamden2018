@@ -2,8 +2,8 @@
 layout: post
 title: "I've encrypted my CFML templates and lost the originals, now what?"
 date: "2007-12-28T15:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/28/Ive-decrypted-my-CFML-templates-and-lost-the-originals-now-what
 ---

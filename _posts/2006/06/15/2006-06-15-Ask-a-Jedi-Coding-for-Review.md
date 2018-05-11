@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Coding for Review"
 date: "2006-06-15T17:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/15/Ask-a-Jedi-Coding-for-Review
 ---

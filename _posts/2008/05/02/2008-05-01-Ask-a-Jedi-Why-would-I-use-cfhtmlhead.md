@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Why would I use cfhtmlhead?"
 date: "2008-05-02T08:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/02/Ask-a-Jedi-Why-would-I-use-cfhtmlhead
 ---

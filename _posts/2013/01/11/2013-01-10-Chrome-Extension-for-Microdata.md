@@ -2,8 +2,8 @@
 layout: post
 title: "Chrome Extension for Microdata"
 date: "2013-01-11T09:01:00+06:00"
-categories: development html5 
-tags: 
+categories: [development,html5]
+tags: []
 banner_image: 
 permalink: /2013/01/11/Chrome-Extension-for-Microdata
 ---

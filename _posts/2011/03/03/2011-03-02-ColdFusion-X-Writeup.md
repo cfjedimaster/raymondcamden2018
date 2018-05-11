@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion X Writeup"
 date: "2011-03-03T06:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/03/ColdFusion-X-Writeup
 ---

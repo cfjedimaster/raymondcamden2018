@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Quickie - Leaving an include"
 date: "2010-08-23T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/23/ColdFusion-Quickie-Leaving-an-include
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "CF901 CFGRID's new multirowselect feature"
 date: "2010-08-28T09:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/28/CF901-CFGRIDs-new-multirowselect-feature
 ---

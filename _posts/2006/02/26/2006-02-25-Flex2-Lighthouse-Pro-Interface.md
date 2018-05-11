@@ -2,8 +2,8 @@
 layout: post
 title: "Flex2 Lighthouse Pro Interface"
 date: "2006-02-26T11:02:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/02/26/Flex2-Lighthouse-Pro-Interface
 ---

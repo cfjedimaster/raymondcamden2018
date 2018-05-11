@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion 9's Caching Feature? Watch your keys"
 date: "2011-06-22T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/06/22/Using-ColdFusion-9s-Caching-Feature-Watch-your-keys
 ---

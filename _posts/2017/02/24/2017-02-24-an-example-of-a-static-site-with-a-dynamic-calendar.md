@@ -2,8 +2,8 @@
 layout: post
 title: "An Example of a Static Site with a Dynamic Calendar"
 date: "2017-02-24T17:25:00-07:00"
-categories: static sites 
-tags: jekyll
+categories: [static sites]
+tags: [jekyll]
 banner_image: 
 permalink: /2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar
 ---

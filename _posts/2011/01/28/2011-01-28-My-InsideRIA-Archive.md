@@ -2,8 +2,8 @@
 layout: post
 title: "My InsideRIA Archive"
 date: "2011-01-28T14:01:00+06:00"
-categories: coldfusion development javascript jquery 
-tags: 
+categories: [coldfusion,development,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/01/28/My-InsideRIA-Archive
 ---

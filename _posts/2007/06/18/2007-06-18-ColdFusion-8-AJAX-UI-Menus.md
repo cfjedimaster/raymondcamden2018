@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: AJAX UI Menus"
 date: "2007-06-18T18:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/18/ColdFusion-8-AJAX-UI-Menus
 ---

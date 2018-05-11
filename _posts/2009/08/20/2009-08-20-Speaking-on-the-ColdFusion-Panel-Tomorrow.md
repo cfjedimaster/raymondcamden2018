@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking on the ColdFusion Panel Tomorrow"
 date: "2009-08-20T18:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/20/Speaking-on-the-ColdFusion-Panel-Tomorrow
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Don't Try This At Home: CFBASIC"
 date: "2005-08-02T12:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/02/Dont-Try-This-At-Home-CFBASIC
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Dev Center Article on First Contest"
 date: "2005-12-20T10:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/20/Dev-Center-Article-on-First-Contest
 ---

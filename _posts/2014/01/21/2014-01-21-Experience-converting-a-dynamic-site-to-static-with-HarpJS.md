@@ -2,8 +2,8 @@
 layout: post
 title: "Experience converting a dynamic site to static with HarpJS"
 date: "2014-01-21T17:01:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2014/01/21/Experience-converting-a-dynamic-site-to-static-with-HarpJS
 ---

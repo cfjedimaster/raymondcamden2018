@@ -2,8 +2,8 @@
 layout: post
 title: "Using jQuery to load HTML and filter it by N selectors"
 date: "2012-08-02T10:08:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/08/02/Using-jQuery-to-load-HTML-and-filter-it-by-N-selectors
 ---

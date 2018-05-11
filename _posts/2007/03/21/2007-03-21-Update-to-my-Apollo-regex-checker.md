@@ -2,8 +2,8 @@
 layout: post
 title: "Update to my Apollo regex checker"
 date: "2007-03-21T14:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/03/21/Update-to-my-Apollo-regex-checker
 ---

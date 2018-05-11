@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: Family Tree Simulation"
 date: "2011-09-23T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/09/23/Friday-Puzzler-Family-Tree-Simulation
 ---

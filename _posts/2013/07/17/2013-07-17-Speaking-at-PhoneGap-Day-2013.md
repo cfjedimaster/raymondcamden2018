@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at PhoneGap Day 2013"
 date: "2013-07-17T13:07:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/07/17/Speaking-at-PhoneGap-Day-2013
 ---

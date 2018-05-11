@@ -2,8 +2,8 @@
 layout: post
 title: "getAllTheTexts - simple Apache Tika wrapper"
 date: "2012-08-16T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/08/16/getAllTheTexts-simple-Apache-Tika-wrapper
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting Internet Explorer/Ajax/ColdFusion issue"
 date: "2011-04-13T15:04:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2011/04/13/Interesting-Internet-ExplorerAjaxColdFusion-issue
 ---

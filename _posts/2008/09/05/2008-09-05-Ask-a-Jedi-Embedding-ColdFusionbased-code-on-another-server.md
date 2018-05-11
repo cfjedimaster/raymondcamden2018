@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Embedding ColdFusion-based code on another server"
 date: "2008-09-05T16:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/05/Ask-a-Jedi-Embedding-ColdFusionbased-code-on-another-server
 ---

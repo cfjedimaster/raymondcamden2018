@@ -2,8 +2,8 @@
 layout: post
 title: "Sad day for the sousaphone"
 date: "2007-08-02T23:08:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2007/08/02/Sad-day-for-the-sousaphone
 ---

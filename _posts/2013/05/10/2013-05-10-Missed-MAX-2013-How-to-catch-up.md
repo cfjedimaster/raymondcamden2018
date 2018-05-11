@@ -2,8 +2,8 @@
 layout: post
 title: "Missed MAX 2013? How to catch up..."
 date: "2013-05-10T18:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/05/10/Missed-MAX-2013-How-to-catch-up
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Creating a fade/toggle/change effect in jQuery"
 date: "2012-01-02T15:01:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/01/02/Creating-a-fadetogglechange-effect-in-jQuery
 ---

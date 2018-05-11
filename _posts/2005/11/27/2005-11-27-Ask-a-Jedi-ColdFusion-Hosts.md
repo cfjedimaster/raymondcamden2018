@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Hosts"
 date: "2005-11-27T21:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/27/Ask-a-Jedi-ColdFusion-Hosts
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: Rolling the die..."
 date: "2014-02-21T10:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/02/21/Friday-Puzzler-Rolling-the-die
 ---

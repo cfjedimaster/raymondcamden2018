@@ -2,8 +2,8 @@
 layout: post
 title: "My (Early) Review of the Kindle"
 date: "2009-05-06T22:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/05/06/My-Early-Review-of-the-Kindle
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Figuring out what version of Cordova created a project"
 date: "2014-10-03T17:10:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2014/10/03/Figuring-out-what-version-of-Cordova-created-a-project
 ---

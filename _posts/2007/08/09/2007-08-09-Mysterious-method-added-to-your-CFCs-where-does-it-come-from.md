@@ -2,8 +2,8 @@
 layout: post
 title: "Mysterious method added to your CFCs - where does it come from?"
 date: "2007-08-09T14:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/09/Mysterious-method-added-to-your-CFCs-where-does-it-come-from
 ---

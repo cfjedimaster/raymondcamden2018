@@ -2,8 +2,8 @@
 layout: post
 title: "Capturing camera/picture data without PhoneGap"
 date: "2013-05-20T12:05:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/05/20/capturing-camerapicture-data-without-phonegap
 ---

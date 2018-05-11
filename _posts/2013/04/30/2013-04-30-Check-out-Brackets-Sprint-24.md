@@ -2,8 +2,8 @@
 layout: post
 title: "Check out Brackets Sprint 24"
 date: "2013-04-30T11:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/04/30/Check-out-Brackets-Sprint-24
 ---

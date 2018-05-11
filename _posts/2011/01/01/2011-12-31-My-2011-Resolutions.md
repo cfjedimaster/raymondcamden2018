@@ -2,8 +2,8 @@
 layout: post
 title: "My 2011 Resolutions"
 date: "2011-01-01T09:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/01/01/My-2011-Resolutions
 ---

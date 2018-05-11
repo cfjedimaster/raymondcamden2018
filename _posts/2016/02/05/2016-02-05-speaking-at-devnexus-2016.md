@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at DevNexus 2016"
 date: "2016-02-05T14:06:00-07:00"
-categories: development 
-tags: ionic
+categories: [development]
+tags: [ionic]
 banner_image: 
 permalink: /2016/02/05/speaking-at-devnexus-2016
 ---

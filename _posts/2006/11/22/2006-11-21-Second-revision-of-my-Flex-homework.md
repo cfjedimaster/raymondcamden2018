@@ -2,8 +2,8 @@
 layout: post
 title: "Second revision of my Flex homework"
 date: "2006-11-22T09:11:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/11/22/Second-revision-of-my-Flex-homework
 ---

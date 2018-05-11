@@ -2,8 +2,8 @@
 layout: post
 title: "CF-Talk Status"
 date: "2009-01-29T13:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/01/29/CFTalk-Status
 ---

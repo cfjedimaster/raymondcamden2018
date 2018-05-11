@@ -2,8 +2,8 @@
 layout: post
 title: "Survey on the Future of ColdFusion"
 date: "2010-06-21T13:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/06/21/Survey-on-the-Future-of-ColdFusion
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Yahoo Traffic API with ColdFusion and Flex 2"
 date: "2006-09-29T13:09:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/09/29/Yahoo-Traffic-API-with-ColdFusion-and-Flex-2
 ---

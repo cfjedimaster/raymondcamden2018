@@ -2,8 +2,8 @@
 layout: post
 title: "Determining installed plugins at runtime for Cordova and PhoneGap applications"
 date: "2014-11-19T14:11:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/11/19/Determing-installed-plugins-at-runtime-for-Cordova-and-PhoneGap-applications
 ---

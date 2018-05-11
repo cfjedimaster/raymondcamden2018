@@ -2,8 +2,8 @@
 layout: post
 title: "Looking to learn Node and Express?"
 date: "2014-12-29T11:23:42+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2014/12/29/looking-to-learn-node-and-express
 ---

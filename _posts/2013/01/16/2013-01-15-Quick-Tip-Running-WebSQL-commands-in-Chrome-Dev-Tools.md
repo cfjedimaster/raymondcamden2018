@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Tip: Running WebSQL commands in Chrome Dev Tools"
 date: "2013-01-16T10:01:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/01/16/Quick-Tip-Running-WebSQL-commands-in-Chrome-Dev-Tools
 ---

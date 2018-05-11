@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile presentation"
 date: "2011-03-04T07:03:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/03/04/jQuery-Mobile-presentation
 ---

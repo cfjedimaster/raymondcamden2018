@@ -2,8 +2,8 @@
 layout: post
 title: "More playtime with Flex, AIR, ColdFusion, and Flex Messaging"
 date: "2009-05-10T17:05:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2009/05/10/More-playtime-with-Flex-AIR-ColdFusion-and-Flex-Messaging
 ---

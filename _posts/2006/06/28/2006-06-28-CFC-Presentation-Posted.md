@@ -2,8 +2,8 @@
 layout: post
 title: "CFC Presentation Posted"
 date: "2006-06-29T00:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/28/CFC-Presentation-Posted
 ---

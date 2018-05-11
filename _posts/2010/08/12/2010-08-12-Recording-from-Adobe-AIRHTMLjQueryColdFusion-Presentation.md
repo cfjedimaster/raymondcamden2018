@@ -2,8 +2,8 @@
 layout: post
 title: "Recording from Adobe AIR/HTML/jQuery/ColdFusion Presentation"
 date: "2010-08-12T14:08:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/08/12/Recording-from-Adobe-AIRHTMLjQueryColdFusion-Presentation
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Favorite Media in 2015"
 date: "2015-12-28T10:25:47+06:00"
-categories: books movies video games 
-tags: 
+categories: [books,movies,video games]
+tags: []
 banner_image: 
 permalink: /2015/12/28/favorite-media-in-2015
 ---

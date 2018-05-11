@@ -2,8 +2,8 @@
 layout: post
 title: "Where I want to go with Node next..."
 date: "2015-11-30T08:52:22+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2015/11/30/where-i-want-to-go-with-node-next
 ---

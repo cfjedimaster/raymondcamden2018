@@ -2,8 +2,8 @@
 layout: post
 title: "Star Wars Link: See where the Falcon was built..."
 date: "2006-03-10T09:03:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2006/03/10/Star-Wars-Link-See-where-the-Falcon-was-built
 ---

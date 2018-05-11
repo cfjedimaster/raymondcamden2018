@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 10 WebSockets, Selectors, and canSendMessage"
 date: "2012-10-04T18:10:00+06:00"
-categories: coldfusion html5 
-tags: 
+categories: [coldfusion,html5]
+tags: []
 banner_image: 
 permalink: /2012/10/04/ColdFusion-10-WebSockets-Selectors-and-canSendMessage
 ---

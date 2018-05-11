@@ -2,8 +2,8 @@
 layout: post
 title: "Article Posted (Again) : Building a Google Maps Application with Updating Markers"
 date: "2013-04-22T10:04:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/04/22/Article-Posted-Again-Building-a-Google-Maps-Application-with-Updating-Markers
 ---

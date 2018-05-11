@@ -2,8 +2,8 @@
 layout: post
 title: "Checking for platform and plugin updates in your Cordova project"
 date: "2015-11-04T14:31:55+06:00"
-categories: development mobile 
-tags: cordova
+categories: [development,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2015/11/04/checking-for-platform-and-plugin-updates-in-your-cordova-project
 ---

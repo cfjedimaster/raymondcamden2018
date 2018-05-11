@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Building a JavaScript Widget with ColdFusion"
 date: "2007-12-07T07:12:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2007/12/07/Ask-a-Jedi-Building-a-JavaScript-Widget-with-ColdFusion
 ---

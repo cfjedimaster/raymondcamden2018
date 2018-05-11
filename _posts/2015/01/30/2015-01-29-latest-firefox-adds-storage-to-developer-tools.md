@@ -2,8 +2,8 @@
 layout: post
 title: "Latest Firefox adds Storage to Developer Tools"
 date: "2015-01-30T05:59:53+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/01/30/latest-firefox-adds-storage-to-developer-tools
 ---

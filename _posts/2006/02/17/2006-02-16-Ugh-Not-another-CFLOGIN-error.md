@@ -2,8 +2,8 @@
 layout: post
 title: "Ugh - Not another CFLOGIN error?"
 date: "2006-02-17T06:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/17/Ugh-Not-another-CFLOGIN-error
 ---

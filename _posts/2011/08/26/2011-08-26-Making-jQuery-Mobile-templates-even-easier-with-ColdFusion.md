@@ -2,8 +2,8 @@
 layout: post
 title: "Making jQuery Mobile templates even easier - with ColdFusion"
 date: "2011-08-26T13:08:00+06:00"
-categories: coldfusion jquery mobile 
-tags: 
+categories: [coldfusion,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/08/26/Making-jQuery-Mobile-templates-even-easier-with-ColdFusion
 ---

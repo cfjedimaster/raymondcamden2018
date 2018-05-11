@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Check for file existence before upload"
 date: "2008-03-04T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/04/Ask-a-Jedi-Check-for-file-existence-before-upload
 ---

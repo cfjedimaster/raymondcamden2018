@@ -2,8 +2,8 @@
 layout: post
 title: "CFFEED - You have failed me for the last time."
 date: "2008-08-29T14:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/29/CFFEED-You-have-failed-me-for-the-last-time
 ---

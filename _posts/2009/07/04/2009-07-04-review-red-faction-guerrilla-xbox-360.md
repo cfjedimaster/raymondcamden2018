@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Red Faction Guerrilla (XBOX 360)"
 date: "2009-07-04T14:07:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2009/07/04/review-red-faction-guerrilla-xbox-360
 ---

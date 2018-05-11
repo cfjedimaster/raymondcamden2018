@@ -2,8 +2,8 @@
 layout: post
 title: "Lost review for November 8"
 date: "2006-11-08T22:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/11/08/Lost-review-for-November-8
 ---

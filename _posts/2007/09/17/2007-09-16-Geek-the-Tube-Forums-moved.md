@@ -2,8 +2,8 @@
 layout: post
 title: "Geek the Tube Forums moved..."
 date: "2007-09-17T10:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/09/17/Geek-the-Tube-Forums-moved
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Return of the Friday Puzzler: Build a Regex Tester"
 date: "2006-11-17T07:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/17/Return-of-the-Friday-Puzzler-Build-a-Regex-Tester
 ---

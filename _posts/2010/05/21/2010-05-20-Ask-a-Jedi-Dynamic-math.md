@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Dynamic math?"
 date: "2010-05-21T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/05/21/Ask-a-Jedi-Dynamic-math
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "One AIR annoyance"
 date: "2008-03-27T10:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/03/27/One-AIR-annoyance
 ---

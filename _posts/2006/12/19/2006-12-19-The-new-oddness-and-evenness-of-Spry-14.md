@@ -2,8 +2,8 @@
 layout: post
 title: "The new oddness (and evenness) of Spry 1.4"
 date: "2006-12-19T17:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/12/19/The-new-oddness-and-evenness-of-Spry-14
 ---

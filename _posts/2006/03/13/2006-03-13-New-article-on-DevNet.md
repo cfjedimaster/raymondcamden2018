@@ -2,8 +2,8 @@
 layout: post
 title: "New article on DevNet"
 date: "2006-03-13T17:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/13/New-article-on-DevNet
 ---

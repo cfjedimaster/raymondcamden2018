@@ -2,8 +2,8 @@
 layout: post
 title: "Using the autodivider feature in jQuery Mobile"
 date: "2013-12-17T10:12:00+06:00"
-categories: html5 javascript jquery mobile 
-tags: 
+categories: [html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2013/12/17/Using-the-autodivider-feature-in-jQuery-Mobile
 ---

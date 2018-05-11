@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue 2 is Here!"
 date: "2007-06-26T11:06:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2007/06/26/ModelGlue-2-is-Here
 ---

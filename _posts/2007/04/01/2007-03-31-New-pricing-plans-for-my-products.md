@@ -2,8 +2,8 @@
 layout: post
 title: "New pricing plans for my products"
 date: "2007-04-01T09:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/01/New-pricing-plans-for-my-products
 ---

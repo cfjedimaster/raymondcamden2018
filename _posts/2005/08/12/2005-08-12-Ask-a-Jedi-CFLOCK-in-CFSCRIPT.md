@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: CFLOCK in CFSCRIPT?"
 date: "2005-08-12T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/12/Ask-a-Jedi-CFLOCK-in-CFSCRIPT
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Datalist version of Country Dropdown"
 date: "2014-08-27T18:08:00+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2014/08/27/Datalist-version-of-Country-Dropdown
 ---

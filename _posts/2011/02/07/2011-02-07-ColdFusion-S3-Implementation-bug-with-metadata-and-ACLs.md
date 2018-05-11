@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion S3 Implementation bug with metadata and ACLs"
 date: "2011-02-07T14:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/02/07/ColdFusion-S3-Implementation-bug-with-metadata-and-ACLs
 ---

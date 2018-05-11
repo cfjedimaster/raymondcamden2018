@@ -2,8 +2,8 @@
 layout: post
 title: "Designers for CFLib wanted"
 date: "2008-04-10T14:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/10/Designers-for-CFLib-wanted
 ---

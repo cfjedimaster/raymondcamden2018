@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Application.cfm, subdirectories, and paths"
 date: "2006-08-08T09:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/08/Ask-a-Jedi-Applicationcfm-subdirectories-and-paths
 ---

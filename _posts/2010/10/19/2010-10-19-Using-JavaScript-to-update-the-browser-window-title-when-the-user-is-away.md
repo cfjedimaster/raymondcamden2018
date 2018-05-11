@@ -2,8 +2,8 @@
 layout: post
 title: "Using JavaScript to update the browser window title when the user is away"
 date: "2010-10-19T12:10:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2010/10/19/Using-JavaScript-to-update-the-browser-window-title-when-the-user-is-away
 ---

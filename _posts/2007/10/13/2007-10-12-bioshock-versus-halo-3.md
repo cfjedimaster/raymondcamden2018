@@ -2,8 +2,8 @@
 layout: post
 title: "BioShock versus Halo 3"
 date: "2007-10-13T10:10:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2007/10/13/bioshock-versus-halo-3
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Watch out for \"Disable CFC Type Check\""
 date: "2010-02-18T13:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/18/Watch-out-for-Disable-CFC-Type-Check
 ---

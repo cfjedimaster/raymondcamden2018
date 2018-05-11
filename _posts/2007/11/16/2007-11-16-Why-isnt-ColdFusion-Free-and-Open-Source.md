@@ -2,8 +2,8 @@
 layout: post
 title: "Why isn't ColdFusion Free and Open Source?"
 date: "2007-11-16T17:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/16/Why-isnt-ColdFusion-Free-and-Open-Source
 ---

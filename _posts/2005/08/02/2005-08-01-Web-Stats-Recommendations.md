@@ -2,8 +2,8 @@
 layout: post
 title: "Web Stats Recommendations?"
 date: "2005-08-02T09:08:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2005/08/02/Web-Stats-Recommendations
 ---

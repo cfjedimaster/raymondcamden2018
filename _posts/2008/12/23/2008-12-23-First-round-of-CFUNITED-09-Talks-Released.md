@@ -2,8 +2,8 @@
 layout: post
 title: "First round of CFUNITED 09 Talks Released"
 date: "2008-12-23T21:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/23/First-round-of-CFUNITED-09-Talks-Released
 ---

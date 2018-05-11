@@ -2,8 +2,8 @@
 layout: post
 title: "When using ANT to write to the file system, specify a file"
 date: "2011-02-17T12:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2011/02/17/When-using-ANT-to-write-to-the-file-system-specify-a-file
 ---

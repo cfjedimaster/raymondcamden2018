@@ -2,8 +2,8 @@
 layout: post
 title: "Clearing individual files/folders from ColdFusion template's cache"
 date: "2008-06-19T17:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/19/Clearing-individual-filesfolders-from-ColdFusion-templates-cache
 ---

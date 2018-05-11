@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Working with IndexedDB"
 date: "2013-09-13T13:09:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/09/13/Article-Working-with-IndexedDB
 ---

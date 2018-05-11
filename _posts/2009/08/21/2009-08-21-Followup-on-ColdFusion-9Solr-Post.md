@@ -2,8 +2,8 @@
 layout: post
 title: "Followup on ColdFusion 9/Solr Post"
 date: "2009-08-21T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/21/Followup-on-ColdFusion-9Solr-Post
 ---

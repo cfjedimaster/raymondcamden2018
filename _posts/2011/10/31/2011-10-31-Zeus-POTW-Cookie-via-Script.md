@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Zeus POTW: Cookie via Script"
 date: "2011-10-31T11:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/10/31/Zeus-POTW-Cookie-via-Script
 ---

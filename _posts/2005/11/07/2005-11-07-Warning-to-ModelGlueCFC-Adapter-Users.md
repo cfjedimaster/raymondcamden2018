@@ -2,8 +2,8 @@
 layout: post
 title: "Warning to ModelGlue/CFC Adapter Users"
 date: "2005-11-07T18:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/07/Warning-to-ModelGlueCFC-Adapter-Users
 ---

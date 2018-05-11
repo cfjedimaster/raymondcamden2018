@@ -2,8 +2,8 @@
 layout: post
 title: "Macbook Pro and Firefox tip"
 date: "2006-06-13T22:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/06/13/Macbook-Pro-and-Firefox-tip
 ---

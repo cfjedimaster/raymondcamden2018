@@ -2,8 +2,8 @@
 layout: post
 title: "CFLib/My Blog/RSSWatcher/Etc Downtime..."
 date: "2005-08-17T08:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/17/CFLibMy-BlogRSSWatcherEtc-Downtime
 ---

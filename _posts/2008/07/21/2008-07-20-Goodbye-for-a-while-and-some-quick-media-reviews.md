@@ -2,8 +2,8 @@
 layout: post
 title: "Goodbye for a while (and some quick media reviews...)"
 date: "2008-07-21T01:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/07/21/Goodbye-for-a-while-and-some-quick-media-reviews
 ---

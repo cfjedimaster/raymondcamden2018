@@ -2,8 +2,8 @@
 layout: post
 title: "Not happy with the CF901 JSON Changes?"
 date: "2010-07-21T19:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/21/Not-happy-with-the-CF901-JSON-Changes
 ---

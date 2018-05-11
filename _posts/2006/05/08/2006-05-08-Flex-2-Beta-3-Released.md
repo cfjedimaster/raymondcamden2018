@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 2 Beta 3 Released"
 date: "2006-05-08T22:05:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/05/08/Flex-2-Beta-3-Released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Latest presentations and materials"
 date: "2013-01-31T17:01:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/01/31/Latest-presentations-and-materials
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Developing Hybrid Mobile Apps with IBM MobileFirst 7.1"
 date: "2015-08-18T14:40:32+06:00"
-categories: development mobile 
-tags: cordova mobilefirst
+categories: [development,mobile]
+tags: [cordova,mobilefirst]
 banner_image: 
 permalink: /2015/08/18/developing-hybrid-mobile-apps-with-ibm-mobilefirst-7-1
 ---

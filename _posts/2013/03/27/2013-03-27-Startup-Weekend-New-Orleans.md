@@ -2,8 +2,8 @@
 layout: post
 title: "Startup Weekend New Orleans"
 date: "2013-03-27T22:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/03/27/Startup-Weekend-New-Orleans
 ---

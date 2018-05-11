@@ -2,8 +2,8 @@
 layout: post
 title: "This works... and it freaks me out"
 date: "2013-12-11T21:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/12/11/This-works-and-it-freaks-me-out
 ---

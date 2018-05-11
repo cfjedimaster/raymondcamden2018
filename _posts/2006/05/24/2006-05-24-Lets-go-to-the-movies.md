@@ -2,8 +2,8 @@
 layout: post
 title: "Let's go to the movies..."
 date: "2006-05-24T12:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/24/Lets-go-to-the-movies
 ---

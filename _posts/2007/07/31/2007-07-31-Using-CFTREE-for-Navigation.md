@@ -2,8 +2,8 @@
 layout: post
 title: "Using CFTREE for Navigation"
 date: "2007-07-31T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/31/Using-CFTREE-for-Navigation
 ---

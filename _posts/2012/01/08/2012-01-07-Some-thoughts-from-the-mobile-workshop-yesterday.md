@@ -2,8 +2,8 @@
 layout: post
 title: "Some thoughts from the mobile workshop yesterday..."
 date: "2012-01-08T11:01:00+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2012/01/08/Some-thoughts-from-the-mobile-workshop-yesterday
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Using Grunt and Jasmine and having issues with XHR? Read this."
 date: "2015-01-02T09:58:09+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/01/02/using-grunt-and-jasmine-and-having-issues-with-xhr-read-this
 ---

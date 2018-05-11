@@ -2,8 +2,8 @@
 layout: post
 title: "Nimer's Log Viewer"
 date: "2006-09-08T11:09:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/09/08/Nimers-Log-Viewer
 ---

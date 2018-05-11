@@ -2,8 +2,8 @@
 layout: post
 title: "Check out Proxxi"
 date: "2014-01-31T12:01:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/01/31/Check-out-Proxxi
 ---

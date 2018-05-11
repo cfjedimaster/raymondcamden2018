@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 11's new Struct format for JSON (and how to use it in ColdFusion 10)"
 date: "2014-05-08T18:05:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2014/05/08/ColdFusion-11s-new-Struct-format-for-JSON-and-how-to-use-it-in-ColdFusion-10
 ---

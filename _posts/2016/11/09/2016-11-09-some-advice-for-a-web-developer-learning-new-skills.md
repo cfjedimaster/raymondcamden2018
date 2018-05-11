@@ -2,8 +2,8 @@
 layout: post
 title: "Some Advice for a Web Developer Learning New Skills"
 date: "2016-11-09T08:07:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/11/09/some-advice-for-a-web-developer-learning-new-skills
 ---

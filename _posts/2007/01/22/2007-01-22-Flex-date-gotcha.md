@@ -2,8 +2,8 @@
 layout: post
 title: "Flex date gotcha"
 date: "2007-01-22T12:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/22/Flex-date-gotcha
 ---

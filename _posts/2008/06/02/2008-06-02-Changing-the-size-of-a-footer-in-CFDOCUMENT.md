@@ -2,8 +2,8 @@
 layout: post
 title: "Changing the size of a footer in CFDOCUMENT"
 date: "2008-06-02T11:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/02/Changing-the-size-of-a-footer-in-CFDOCUMENT
 ---

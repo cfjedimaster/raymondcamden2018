@@ -2,8 +2,8 @@
 layout: post
 title: "Meanwhile, over in IndexedDB land..."
 date: "2013-12-13T14:12:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/12/13/Meanwhile-over-in-IndexedDB-land
 ---

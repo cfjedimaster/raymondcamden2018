@@ -2,8 +2,8 @@
 layout: post
 title: "Two ColdFusion links for you..."
 date: "2012-08-31T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/08/31/Two-ColdFusion-links-for-you
 ---

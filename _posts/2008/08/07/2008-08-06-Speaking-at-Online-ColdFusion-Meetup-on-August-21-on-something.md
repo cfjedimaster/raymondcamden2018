@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at Online ColdFusion Meetup, on August 21, on something"
 date: "2008-08-07T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/07/Speaking-at-Online-ColdFusion-Meetup-on-August-21-on-something
 ---

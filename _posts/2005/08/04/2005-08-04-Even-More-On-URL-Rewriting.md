@@ -2,8 +2,8 @@
 layout: post
 title: "Even More On URL Rewriting"
 date: "2005-08-04T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/04/Even-More-On-URL-Rewriting
 ---

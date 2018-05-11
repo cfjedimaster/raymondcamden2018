@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Is my site slow because of Ajax or something else?"
 date: "2008-04-07T12:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/07/Ask-a-Jedi-Is-my-site-slow-because-of-Ajax-or-something-else
 ---

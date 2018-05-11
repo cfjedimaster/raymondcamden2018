@@ -2,8 +2,8 @@
 layout: post
 title: "New Adobe Inspire Magazine out (with an article by yours truly...)"
 date: "2012-01-25T09:01:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/25/New-Adobe-Inspire-Magazine-out-with-an-article-by-yours-truly
 ---

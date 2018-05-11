@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Plugins in PhoneGap 3.0"
 date: "2013-09-06T11:09:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/09/06/Working-with-Plugins-in-PhoneGap-30
 ---

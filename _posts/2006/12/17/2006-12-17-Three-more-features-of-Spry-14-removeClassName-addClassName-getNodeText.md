@@ -2,8 +2,8 @@
 layout: post
 title: "Three more features of Spry 1.4: removeClassName, addClassName, getNodeText"
 date: "2006-12-17T22:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/12/17/Three-more-features-of-Spry-14-removeClassName-addClassName-getNodeText
 ---

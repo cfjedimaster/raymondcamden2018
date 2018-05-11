@@ -2,8 +2,8 @@
 layout: post
 title: "Keeping up with Cordova and PhoneGap"
 date: "2014-04-24T16:04:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2014/04/24/Keeping-up-with-Cordova-and-PhoneGap
 ---

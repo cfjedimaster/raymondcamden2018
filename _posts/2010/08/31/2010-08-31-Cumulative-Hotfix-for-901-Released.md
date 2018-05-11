@@ -2,8 +2,8 @@
 layout: post
 title: "Cumulative Hotfix for 901 Released"
 date: "2010-08-31T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/31/Cumulative-Hotfix-for-901-Released
 ---

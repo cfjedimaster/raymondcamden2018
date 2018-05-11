@@ -2,8 +2,8 @@
 layout: post
 title: "My kul CFC (Kuler API CFC)"
 date: "2007-09-12T16:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/12/My-kul-CFC-Kuler-API-CFC
 ---

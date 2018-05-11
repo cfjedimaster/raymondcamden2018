@@ -2,8 +2,8 @@
 layout: post
 title: "Linux Flex Builder Alpha Released"
 date: "2007-12-19T21:12:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/12/19/Linux-Flex-Builder-Alpha-Released
 ---

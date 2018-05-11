@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion's JSON Prefix feature - more than AJAX"
 date: "2011-11-13T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/11/13/ColdFusions-JSON-Prefix-feature-more-than-AJAX
 ---

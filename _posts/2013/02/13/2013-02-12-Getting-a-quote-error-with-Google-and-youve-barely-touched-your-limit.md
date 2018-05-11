@@ -2,8 +2,8 @@
 layout: post
 title: "Getting a quota error with Google and you've barely touched your limit?"
 date: "2013-02-13T11:02:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/02/13/Getting-a-quote-error-with-Google-and-youve-barely-touched-your-limit
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept - Connecting a Node app with Brackets"
 date: "2013-04-16T16:04:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/04/16/Proof-of-Concept-Connecting-a-Node-app-with-Brackets
 ---

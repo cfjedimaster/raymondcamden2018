@@ -2,8 +2,8 @@
 layout: post
 title: "Spry demo - check for a valid URL"
 date: "2007-02-26T17:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/26/Spry-demo-check-for-a-valid-URL
 ---

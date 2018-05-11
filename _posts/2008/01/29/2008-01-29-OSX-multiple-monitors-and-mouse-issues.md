@@ -2,8 +2,8 @@
 layout: post
 title: "OSX, multiple monitors, and mouse issues"
 date: "2008-01-29T15:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/01/29/OSX-multiple-monitors-and-mouse-issues
 ---

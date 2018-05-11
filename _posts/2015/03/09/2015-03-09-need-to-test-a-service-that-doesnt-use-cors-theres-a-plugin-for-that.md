@@ -2,8 +2,8 @@
 layout: post
 title: "Need to test a service that doesn't use CORS? There's a plugin for that."
 date: "2015-03-09T12:35:07+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/03/09/need-to-test-a-service-that-doesnt-use-cors-theres-a-plugin-for-that
 ---

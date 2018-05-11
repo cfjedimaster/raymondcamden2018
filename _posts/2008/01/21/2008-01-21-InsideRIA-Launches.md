@@ -2,8 +2,8 @@
 layout: post
 title: "InsideRIA Launches"
 date: "2008-01-21T14:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/01/21/InsideRIA-Launches
 ---

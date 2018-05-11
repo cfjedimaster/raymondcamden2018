@@ -2,8 +2,8 @@
 layout: post
 title: "Extracting One (or more) Pages from a PDF"
 date: "2017-04-06T12:17:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2017/04/06/extracting-one-or-more-pages-from-a-pdf
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ready2Run Open BlueDragon and Web Services"
 date: "2009-02-07T18:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/02/07/Ready2Run-Open-BlueDragon-and-Web-Services
 ---

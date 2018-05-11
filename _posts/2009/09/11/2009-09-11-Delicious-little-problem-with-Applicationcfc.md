@@ -2,8 +2,8 @@
 layout: post
 title: "Delicious little problem with Application.cfc"
 date: "2009-09-11T16:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/11/Delicious-little-problem-with-Applicationcfc
 ---

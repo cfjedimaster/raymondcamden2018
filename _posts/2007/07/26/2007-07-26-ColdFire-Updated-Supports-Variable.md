@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFire Updated - Supports Variable"
 date: "2007-07-26T12:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/26/ColdFire-Updated-Supports-Variable
 ---

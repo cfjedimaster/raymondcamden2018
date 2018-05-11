@@ -2,8 +2,8 @@
 layout: post
 title: "Small updates (Share, Lighthouse Pro)"
 date: "2008-05-30T23:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/30/Small-updates-Share-Lighthouse-Pro
 ---

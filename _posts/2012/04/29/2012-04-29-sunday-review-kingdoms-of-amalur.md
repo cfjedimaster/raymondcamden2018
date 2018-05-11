@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday Review: Kingdoms of Amalur"
 date: "2012-04-29T15:04:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2012/04/29/sunday-review-kingdoms-of-amalur
 ---

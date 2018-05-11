@@ -2,8 +2,8 @@
 layout: post
 title: "Free Apollo book available on Labs"
 date: "2007-03-17T08:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/03/17/Free-Apollo-book-available-on-Labs
 ---

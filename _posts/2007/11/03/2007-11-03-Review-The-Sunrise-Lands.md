@@ -2,8 +2,8 @@
 layout: post
 title: "Review: The Sunrise Lands"
 date: "2007-11-03T11:11:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2007/11/03/Review-The-Sunrise-Lands
 ---

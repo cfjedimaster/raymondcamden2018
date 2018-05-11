@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at the jQuery Conference"
 date: "2011-03-16T08:03:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/03/16/Speaking-at-the-jQuery-Conference
 ---

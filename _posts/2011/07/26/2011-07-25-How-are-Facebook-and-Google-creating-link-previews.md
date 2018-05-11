@@ -2,8 +2,8 @@
 layout: post
 title: "How are Facebook and Google+ creating link previews?"
 date: "2011-07-26T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/07/26/How-are-Facebook-and-Google-creating-link-previews
 ---

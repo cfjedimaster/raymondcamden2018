@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion custom tag for layout example"
 date: "2007-09-03T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/03/ColdFusion-custom-tag-for-layout-example
 ---

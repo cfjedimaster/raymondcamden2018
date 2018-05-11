@@ -2,8 +2,8 @@
 layout: post
 title: "Software Updates (before I go - go)"
 date: "2008-07-17T09:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/17/Software-Updates-before-I-go-go
 ---

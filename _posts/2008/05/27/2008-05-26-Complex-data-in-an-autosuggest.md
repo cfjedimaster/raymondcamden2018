@@ -2,8 +2,8 @@
 layout: post
 title: "Complex data in an auto-suggest"
 date: "2008-05-27T10:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/05/27/Complex-data-in-an-autosuggest
 ---

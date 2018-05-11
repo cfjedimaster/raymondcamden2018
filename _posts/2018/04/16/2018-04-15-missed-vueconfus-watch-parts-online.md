@@ -2,8 +2,8 @@
 layout: post
 title: "Missed VueConfUS? Watch (Parts) Online!"
 date: "2018-04-16"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/vueconf.png
 permalink: /2018/04/16/missed-vueconfus-watch-parts-online
 ---

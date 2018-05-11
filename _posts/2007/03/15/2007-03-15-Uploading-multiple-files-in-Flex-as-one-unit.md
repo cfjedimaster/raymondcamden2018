@@ -2,8 +2,8 @@
 layout: post
 title: "Uploading multiple files in Flex as one \"unit\""
 date: "2007-03-15T17:03:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2007/03/15/Uploading-multiple-files-in-Flex-as-one-unit
 ---

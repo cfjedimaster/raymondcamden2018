@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Changing a ColdFusion Flash Form \"Page\" Based on Drop Downs"
 date: "2005-08-09T12:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/09/Ask-a-Jedi-Changing-a-ColdFusion-Flash-Form-Page-Based-on-Drop-Downs
 ---

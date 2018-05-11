@@ -2,8 +2,8 @@
 layout: post
 title: "Brackets Sprint 35 Released"
 date: "2013-12-20T10:12:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/12/20/Brackets-Sprint-35-Released
 ---

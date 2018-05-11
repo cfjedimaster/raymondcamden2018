@@ -2,8 +2,8 @@
 layout: post
 title: "Bring the Misery Hammer down on your trolls"
 date: "2011-04-26T22:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/04/26/Bring-the-Misery-Hammer-down-on-your-trolls
 ---

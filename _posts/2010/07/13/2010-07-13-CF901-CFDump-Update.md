@@ -2,8 +2,8 @@
 layout: post
 title: "CF901: CFDump Update"
 date: "2010-07-13T14:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/13/CF901-CFDump-Update
 ---

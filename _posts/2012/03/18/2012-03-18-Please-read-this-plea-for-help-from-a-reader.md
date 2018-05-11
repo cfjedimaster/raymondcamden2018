@@ -2,8 +2,8 @@
 layout: post
 title: "Please read this plea for help from a reader"
 date: "2012-03-18T17:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2012/03/18/Please-read-this-plea-for-help-from-a-reader
 ---

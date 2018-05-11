@@ -2,8 +2,8 @@
 layout: post
 title: "CFBuilder Contest: Squeezer"
 date: "2010-05-04T13:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/05/04/CFBuilder-Contest-Squeezer
 ---

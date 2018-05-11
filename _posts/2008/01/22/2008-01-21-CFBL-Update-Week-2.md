@@ -2,8 +2,8 @@
 layout: post
 title: "CFBL Update - Week 2"
 date: "2008-01-22T11:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/01/22/CFBL-Update-Week-2
 ---

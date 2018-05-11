@@ -2,8 +2,8 @@
 layout: post
 title: "Minor update to Galleon"
 date: "2007-10-21T16:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/10/21/Minor-update-to-Galleon
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Presenting today: The Art of AJAX Development Using ColdFusion at the Online Meetup"
 date: "2009-03-12T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/03/12/Presenting-today-The-Are-of-AJAX-Development-Using-ColdFusion-at-the-Online-Meetup
 ---

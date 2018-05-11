@@ -2,8 +2,8 @@
 layout: post
 title: "Simple JavaScript template system at WhichElement"
 date: "2012-03-13T12:03:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/03/13/Simple-JavaScript-template-system-at-WhichElement
 ---

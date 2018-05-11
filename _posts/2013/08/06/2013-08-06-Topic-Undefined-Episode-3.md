@@ -2,8 +2,8 @@
 layout: post
 title: "Topic Undefined - Episode 3"
 date: "2013-08-06T15:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/08/06/Topic-Undefined-Episode-3
 ---

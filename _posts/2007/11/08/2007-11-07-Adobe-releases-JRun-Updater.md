@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe releases JRun Updater"
 date: "2007-11-08T09:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/11/08/Adobe-releases-JRun-Updater
 ---

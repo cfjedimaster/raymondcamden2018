@@ -2,8 +2,8 @@
 layout: post
 title: "Create Now SF is this Thursday!"
 date: "2013-09-16T11:09:00+06:00"
-categories: design development html5 
-tags: 
+categories: [design,development,html5]
+tags: []
 banner_image: 
 permalink: /2013/09/16/Create-Now-SF-is-this-Thursday
 ---

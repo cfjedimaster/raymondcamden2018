@@ -2,8 +2,8 @@
 layout: post
 title: "The Microsoft Surface Book - Part Two"
 date: "2016-10-03T09:09:00-07:00"
-categories: development 
-tags: windows
+categories: [development]
+tags: [windows]
 banner_image: /images/banners/win10a.jpg
 permalink: /2016/10/03/the-microsoft-surface-book-part-two
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Round two goes to the nerd"
 date: "2006-05-18T19:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/18/Round-two-goes-to-the-nerd
 ---

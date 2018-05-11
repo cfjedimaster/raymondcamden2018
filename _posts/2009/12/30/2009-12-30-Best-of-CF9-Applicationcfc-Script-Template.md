@@ -2,8 +2,8 @@
 layout: post
 title: "Best of CF9: Application.cfc Script Template"
 date: "2009-12-30T13:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/30/Best-of-CF9-Applicationcfc-Script-Template
 ---

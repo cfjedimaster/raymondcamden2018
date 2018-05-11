@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Joke - Share your best geek one liner"
 date: "2007-08-10T09:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/08/10/Friday-Joke-Share-your-best-geek-one-liner
 ---

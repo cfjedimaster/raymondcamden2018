@@ -2,8 +2,8 @@
 layout: post
 title: "Latest Mobile app - WTFRU"
 date: "2011-11-04T17:11:00+06:00"
-categories: coldfusion html5 javascript jquery mobile 
-tags: 
+categories: [coldfusion,html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/11/04/Latest-Mobile-app-WTFRU
 ---

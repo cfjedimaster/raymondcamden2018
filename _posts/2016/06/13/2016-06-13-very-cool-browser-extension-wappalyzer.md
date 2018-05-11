@@ -2,8 +2,8 @@
 layout: post
 title: "Very cool browser extension - Wappalyzer"
 date: "2016-06-13T08:08:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/06/13/very-cool-browser-extension-wappalyzer
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "CFLive Meeting"
 date: "2006-03-15T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/15/CFLive-Meeting
 ---

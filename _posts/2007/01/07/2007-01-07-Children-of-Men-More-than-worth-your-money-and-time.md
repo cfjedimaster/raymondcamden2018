@@ -2,8 +2,8 @@
 layout: post
 title: "Children of Men - More than worth your money (and time)"
 date: "2007-01-07T13:01:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2007/01/07/Children-of-Men-More-than-worth-your-money-and-time
 ---

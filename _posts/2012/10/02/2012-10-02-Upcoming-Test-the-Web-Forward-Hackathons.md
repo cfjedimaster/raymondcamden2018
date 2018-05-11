@@ -2,8 +2,8 @@
 layout: post
 title: "Upcoming Test the Web Forward Hackathons"
 date: "2012-10-02T11:10:00+06:00"
-categories: development html5 
-tags: 
+categories: [development,html5]
+tags: []
 banner_image: 
 permalink: /2012/10/02/Upcoming-Test-the-Web-Forward-Hackathons
 ---

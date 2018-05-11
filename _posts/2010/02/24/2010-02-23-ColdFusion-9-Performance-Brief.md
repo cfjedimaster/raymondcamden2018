@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9 Performance Brief"
 date: "2010-02-24T10:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/24/ColdFusion-9-Performance-Brief
 ---

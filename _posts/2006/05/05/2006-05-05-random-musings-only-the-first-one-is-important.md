@@ -2,8 +2,8 @@
 layout: post
 title: "Random musings (only the first one is important)"
 date: "2006-05-05T14:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/05/random-musings-only-the-first-one-is-important
 ---

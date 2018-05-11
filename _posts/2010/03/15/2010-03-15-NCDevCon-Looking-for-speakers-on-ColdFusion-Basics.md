@@ -2,8 +2,8 @@
 layout: post
 title: "NCDevCon - Looking for speakers on ColdFusion Basics"
 date: "2010-03-15T14:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/03/15/NCDevCon-Looking-for-speakers-on-ColdFusion-Basics
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Firefox 3 and Firebug"
 date: "2007-11-28T11:11:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/11/28/Firefox-3-and-Firebug
 ---

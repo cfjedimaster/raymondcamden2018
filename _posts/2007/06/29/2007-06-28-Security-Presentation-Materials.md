@@ -2,8 +2,8 @@
 layout: post
 title: "Security Presentation Materials"
 date: "2007-06-29T09:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/29/Security-Presentation-Materials
 ---

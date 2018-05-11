@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap Orientation Example"
 date: "2011-11-04T11:11:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2011/11/04/phonegap-orientation-example
 ---

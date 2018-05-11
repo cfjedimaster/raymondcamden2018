@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Caching Results from ColdFusion Tags"
 date: "2005-08-09T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/09/Ask-a-Jedi-Caching-Results-from-ColdFusion-Tags
 ---

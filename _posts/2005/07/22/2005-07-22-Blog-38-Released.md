@@ -2,8 +2,8 @@
 layout: post
 title: "Blog 3.8 Released"
 date: "2005-07-22T12:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/07/22/Blog-38-Released
 ---

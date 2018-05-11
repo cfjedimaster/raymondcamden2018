@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Converting a set of static method calls to dynamic calls"
 date: "2008-02-26T15:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/02/26/Ask-a-Jedi-Converting-a-set-of-static-method-calls-to-dynamic-calls
 ---

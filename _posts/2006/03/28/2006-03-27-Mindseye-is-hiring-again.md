@@ -2,8 +2,8 @@
 layout: post
 title: "Mindseye is hiring (again)"
 date: "2006-03-28T10:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/28/Mindseye-is-hiring-again
 ---

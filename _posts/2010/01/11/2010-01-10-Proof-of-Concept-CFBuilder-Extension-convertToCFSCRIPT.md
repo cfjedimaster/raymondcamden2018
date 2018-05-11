@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept CFBuilder Extension: convertToCFSCRIPT"
 date: "2010-01-11T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/01/11/Proof-of-Concept-CFBuilder-Extension-convertToCFSCRIPT
 ---

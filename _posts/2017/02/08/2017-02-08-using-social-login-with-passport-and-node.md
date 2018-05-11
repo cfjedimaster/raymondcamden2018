@@ -2,8 +2,8 @@
 layout: post
 title: "Using Social Login with Passport and Node"
 date: "2017-02-08T11:29:00-07:00"
-categories: javascript 
-tags: nodejs
+categories: [javascript]
+tags: [nodejs]
 banner_image: /images/banners/node_passport_social.jpg
 permalink: /2017/02/08/using-social-login-with-passport-and-node
 ---

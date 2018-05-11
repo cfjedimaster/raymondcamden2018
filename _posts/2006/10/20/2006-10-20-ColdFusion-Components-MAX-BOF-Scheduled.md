@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Components MAX BOF Scheduled"
 date: "2006-10-20T12:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/20/ColdFusion-Components-MAX-BOF-Scheduled
 ---

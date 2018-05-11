@@ -2,8 +2,8 @@
 layout: post
 title: "Calendar Pod Fix for BlogCFC"
 date: "2006-02-24T18:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/24/Calendar-Pod-Fix-for-BlogCFC
 ---

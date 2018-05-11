@@ -2,8 +2,8 @@
 layout: post
 title: "Using the Page Visibility API"
 date: "2013-05-28T10:05:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/05/28/Using-the-Page-Visibility-API
 ---

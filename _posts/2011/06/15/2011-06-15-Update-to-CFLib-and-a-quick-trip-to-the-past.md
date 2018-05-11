@@ -2,8 +2,8 @@
 layout: post
 title: "Update to CFLib (and a quick trip to the past...)"
 date: "2011-06-15T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/06/15/Update-to-CFLib-and-a-quick-trip-to-the-past
 ---

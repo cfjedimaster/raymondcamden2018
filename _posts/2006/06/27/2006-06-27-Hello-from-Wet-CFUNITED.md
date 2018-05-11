@@ -2,8 +2,8 @@
 layout: post
 title: "Hello from (Wet) CFUNITED"
 date: "2006-06-27T23:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/27/Hello-from-Wet-CFUNITED
 ---

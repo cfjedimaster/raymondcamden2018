@@ -2,8 +2,8 @@
 layout: post
 title: "Yellow Shipping CFC"
 date: "2007-11-26T22:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/26/Yellow-Shipping-CFC
 ---

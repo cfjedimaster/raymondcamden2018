@@ -2,8 +2,8 @@
 layout: post
 title: "Using Grunt to Automate MobileFirst/Hybrid Builds"
 date: "2015-03-26T08:44:40+06:00"
-categories: development mobile 
-tags: mobilefirst
+categories: [development,mobile]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2015/03/26/using-grunt-to-automate-mobilefirsthybrid-builds
 ---

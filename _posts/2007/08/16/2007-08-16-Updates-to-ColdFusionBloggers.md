@@ -2,8 +2,8 @@
 layout: post
 title: "Updates to ColdFusionBloggers"
 date: "2007-08-16T22:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/16/Updates-to-ColdFusionBloggers
 ---

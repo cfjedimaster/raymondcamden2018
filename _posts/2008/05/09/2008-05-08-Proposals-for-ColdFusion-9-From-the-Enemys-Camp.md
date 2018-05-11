@@ -2,8 +2,8 @@
 layout: post
 title: "Proposals for ColdFusion 9 - From the Enemy's Camp"
 date: "2008-05-09T09:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/09/Proposals-for-ColdFusion-9-From-the-Enemys-Camp
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "What makes a code diva?"
 date: "2008-04-22T16:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/04/22/What-makes-a-code-diva
 ---

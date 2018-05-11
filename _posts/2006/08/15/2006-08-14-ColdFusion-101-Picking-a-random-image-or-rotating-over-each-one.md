@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Picking a random image or rotating over each one"
 date: "2006-08-15T07:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/15/ColdFusion-101-Picking-a-random-image-or-rotating-over-each-one
 ---

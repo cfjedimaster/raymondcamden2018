@@ -2,8 +2,8 @@
 layout: post
 title: "Birds of a Feather @ CFUNITED"
 date: "2007-06-26T09:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/26/Birds-of-a-Feather-CFUNITED
 ---

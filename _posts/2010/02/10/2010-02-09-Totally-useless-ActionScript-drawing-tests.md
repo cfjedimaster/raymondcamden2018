@@ -2,8 +2,8 @@
 layout: post
 title: "Totally useless ActionScript drawing tests"
 date: "2010-02-10T09:02:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2010/02/10/Totally-useless-ActionScript-drawing-tests
 ---

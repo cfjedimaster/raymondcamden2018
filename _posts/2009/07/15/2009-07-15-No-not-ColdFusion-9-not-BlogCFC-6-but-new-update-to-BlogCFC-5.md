@@ -2,8 +2,8 @@
 layout: post
 title: "No, not ColdFusion 9, not BlogCFC 6, but new update to BlogCFC 5"
 date: "2009-07-15T18:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/15/No-not-ColdFusion-9-not-BlogCFC-6-but-new-update-to-BlogCFC-5
 ---

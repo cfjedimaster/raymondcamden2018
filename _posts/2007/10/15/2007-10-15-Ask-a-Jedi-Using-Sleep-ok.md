@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using Sleep ok?"
 date: "2007-10-15T11:10:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2007/10/15/Ask-a-Jedi-Using-Sleep-ok
 ---

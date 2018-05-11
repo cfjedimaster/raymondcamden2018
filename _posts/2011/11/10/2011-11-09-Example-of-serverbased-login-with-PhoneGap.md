@@ -2,8 +2,8 @@
 layout: post
 title: "Example of server-based login with PhoneGap"
 date: "2011-11-10T09:11:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/11/10/Example-of-serverbased-login-with-PhoneGap
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Converting a dynamic web site to a PhoneGap application"
 date: "2012-05-05T13:05:00+06:00"
-categories: coldfusion development html5 javascript jquery mobile 
-tags: 
+categories: [coldfusion,development,html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/05/05/converting-a-dynamic-web-site-to-a-phonegap-application
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Adding your own links in the ColdFusion Administrator"
 date: "2006-11-13T18:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/13/Adding-your-own-links-in-the-ColdFusion-Administrator
 ---

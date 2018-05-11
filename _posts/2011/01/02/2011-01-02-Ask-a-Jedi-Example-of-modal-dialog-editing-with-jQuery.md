@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Example of modal dialog editing with jQuery"
 date: "2011-01-02T14:01:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/01/02/Ask-a-Jedi-Example-of-modal-dialog-editing-with-jQuery
 ---

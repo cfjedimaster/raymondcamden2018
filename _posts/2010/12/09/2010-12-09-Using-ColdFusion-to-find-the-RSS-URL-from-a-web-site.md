@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion to find the RSS URL from a web site"
 date: "2010-12-09T13:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/12/09/Using-ColdFusion-to-find-the-RSS-URL-from-a-web-site
 ---

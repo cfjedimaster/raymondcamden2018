@@ -2,8 +2,8 @@
 layout: post
 title: "Having trouble with splash screens, Cordova, and Android?"
 date: "2015-03-24T08:38:44+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/03/24/having-trouble-with-splash-screens-cordova-and-android
 ---

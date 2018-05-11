@@ -2,8 +2,8 @@
 layout: post
 title: "Topic Undefined - Episode 2"
 date: "2013-07-16T10:07:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/07/16/Topic-Undefined-Episode-2
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue Tip - Marking an event private"
 date: "2007-02-26T06:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/26/ModelGlue-Tip-Marking-an-event-private
 ---

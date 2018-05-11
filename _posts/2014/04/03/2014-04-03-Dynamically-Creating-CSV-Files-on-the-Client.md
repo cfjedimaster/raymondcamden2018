@@ -2,8 +2,8 @@
 layout: post
 title: "Dynamically Creating CSV Files on the Client"
 date: "2014-04-03T11:04:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/04/03/Dynamically-Creating-CSV-Files-on-the-Client
 ---

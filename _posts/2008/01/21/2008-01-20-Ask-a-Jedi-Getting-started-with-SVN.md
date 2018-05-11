@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Getting started with SVN"
 date: "2008-01-21T11:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/01/21/Ask-a-Jedi-Getting-started-with-SVN
 ---

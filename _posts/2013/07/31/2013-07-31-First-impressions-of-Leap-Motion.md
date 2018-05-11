@@ -2,8 +2,8 @@
 layout: post
 title: "First impressions of Leap Motion"
 date: "2013-07-31T17:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/07/31/First-impressions-of-Leap-Motion
 ---

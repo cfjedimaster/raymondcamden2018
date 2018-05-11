@@ -2,8 +2,8 @@
 layout: post
 title: "Help Me Get More Free Junk"
 date: "2005-09-23T10:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/23/Help-Me-Get-More-Free-Junk
 ---

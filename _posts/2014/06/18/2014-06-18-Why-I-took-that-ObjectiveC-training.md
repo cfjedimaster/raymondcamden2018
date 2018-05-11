@@ -2,8 +2,8 @@
 layout: post
 title: "Why I took that ObjectiveC training..."
 date: "2014-06-18T16:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/06/18/Why-I-took-that-ObjectiveC-training
 ---

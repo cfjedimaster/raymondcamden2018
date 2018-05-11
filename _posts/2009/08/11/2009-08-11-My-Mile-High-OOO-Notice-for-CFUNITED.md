@@ -2,8 +2,8 @@
 layout: post
 title: "My Mile High OOO Notice for CFUNITED"
 date: "2009-08-11T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/11/My-Mile-High-OOO-Notice-for-CFUNITED
 ---

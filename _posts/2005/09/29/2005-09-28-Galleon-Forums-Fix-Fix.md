@@ -2,8 +2,8 @@
 layout: post
 title: "Galleon Forums Fix Fix"
 date: "2005-09-29T07:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/29/Galleon-Forums-Fix-Fix
 ---

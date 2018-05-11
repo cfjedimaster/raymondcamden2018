@@ -2,8 +2,8 @@
 layout: post
 title: "500th (and more) ColdFusion project released at RIAForge"
 date: "2009-04-06T21:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/06/500th-and-more-ColdFusion-project-released-at-RIAForge
 ---

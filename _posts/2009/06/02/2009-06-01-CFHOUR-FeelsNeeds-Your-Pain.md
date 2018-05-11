@@ -2,8 +2,8 @@
 layout: post
 title: "CFHOUR() Feels(Needs) Your Pain"
 date: "2009-06-02T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/06/02/CFHOUR-FeelsNeeds-Your-Pain
 ---

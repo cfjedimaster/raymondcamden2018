@@ -2,8 +2,8 @@
 layout: post
 title: "Node 4 and libsass issues?"
 date: "2015-09-09T19:32:03+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/09/09/node-4-and-libsass-issues
 ---

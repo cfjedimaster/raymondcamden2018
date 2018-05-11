@@ -2,8 +2,8 @@
 layout: post
 title: "Railo 3 and the Cluster Scope"
 date: "2008-07-07T08:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/07/Railo-3-and-the-Cluster-Scope
 ---

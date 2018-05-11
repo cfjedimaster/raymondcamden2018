@@ -2,8 +2,8 @@
 layout: post
 title: "Jason Delmore of Adobe blogging"
 date: "2007-08-23T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/23/Jason-Delmore-of-Adobe-blogging
 ---

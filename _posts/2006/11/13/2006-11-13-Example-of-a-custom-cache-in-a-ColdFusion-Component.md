@@ -2,8 +2,8 @@
 layout: post
 title: "Example of a custom cache in a ColdFusion Component"
 date: "2006-11-13T14:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/13/Example-of-a-custom-cache-in-a-ColdFusion-Component
 ---

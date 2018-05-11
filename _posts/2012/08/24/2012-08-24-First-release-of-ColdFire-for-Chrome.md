@@ -2,8 +2,8 @@
 layout: post
 title: "First release of ColdFire for Chrome"
 date: "2012-08-24T16:08:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2012/08/24/First-release-of-ColdFire-for-Chrome
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Posted my first Brackets Extension - CSSLint"
 date: "2012-06-12T14:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2012/06/12/Posted-my-first-Brackets-Extension-CSSLint
 ---

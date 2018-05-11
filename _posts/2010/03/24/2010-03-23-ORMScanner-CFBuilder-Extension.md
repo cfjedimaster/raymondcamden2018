@@ -2,8 +2,8 @@
 layout: post
 title: "ORMScanner CFBuilder Extension"
 date: "2010-03-24T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/03/24/ORMScanner-CFBuilder-Extension
 ---

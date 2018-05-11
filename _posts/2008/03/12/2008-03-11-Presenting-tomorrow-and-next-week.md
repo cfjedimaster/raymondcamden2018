@@ -2,8 +2,8 @@
 layout: post
 title: "Presenting tomorrow, and next week"
 date: "2008-03-12T10:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/12/Presenting-tomorrow-and-next-week
 ---

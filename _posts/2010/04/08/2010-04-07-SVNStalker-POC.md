@@ -2,8 +2,8 @@
 layout: post
 title: "SVNStalker POC"
 date: "2010-04-08T01:04:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2010/04/08/SVNStalker-POC
 ---

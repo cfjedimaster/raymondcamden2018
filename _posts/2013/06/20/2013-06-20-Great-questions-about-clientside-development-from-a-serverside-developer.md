@@ -2,8 +2,8 @@
 layout: post
 title: "Great questions about client-side development from a server-side developer"
 date: "2013-06-20T18:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/06/20/Great-questions-about-clientside-development-from-a-serverside-developer
 ---

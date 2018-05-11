@@ -2,8 +2,8 @@
 layout: post
 title: "Working with SOAP in a Node App"
 date: "2016-10-12T14:56:00-07:00"
-categories: javascript 
-tags: nodejs
+categories: [javascript]
+tags: [nodejs]
 banner_image: 
 permalink: /2016/10/12/working-with-soap-in-a-node-app
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Newbies can share too!"
 date: "2006-06-24T11:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/06/24/Newbies-can-share-too
 ---

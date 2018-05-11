@@ -2,8 +2,8 @@
 layout: post
 title: "LoopBack now has a CLI!"
 date: "2017-01-23T09:39:00-07:00"
-categories: javascript 
-tags: loopback
+categories: [javascript]
+tags: [loopback]
 banner_image: 
 permalink: /2017/01/23/loopback-now-has-a-cli
 ---

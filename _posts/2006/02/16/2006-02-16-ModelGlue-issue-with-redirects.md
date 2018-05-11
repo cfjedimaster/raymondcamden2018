@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue issue with redirects"
 date: "2006-02-16T15:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/16/ModelGlue-issue-with-redirects
 ---

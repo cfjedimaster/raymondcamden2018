@@ -2,8 +2,8 @@
 layout: post
 title: "IndexedDB - On the move..."
 date: "2014-08-22T11:08:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2014/08/22/IndexedDB-On-the-move
 ---

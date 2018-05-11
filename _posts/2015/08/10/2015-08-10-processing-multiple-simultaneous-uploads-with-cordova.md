@@ -2,8 +2,8 @@
 layout: post
 title: "Processing multiple simultaneous uploads with Cordova"
 date: "2015-08-10T17:29:30+06:00"
-categories: development javascript jquery mobile 
-tags: cordova
+categories: [development,javascript,jquery,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2015/08/10/processing-multiple-simultaneous-uploads-with-cordova
 ---

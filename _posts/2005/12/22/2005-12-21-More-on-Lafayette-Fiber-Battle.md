@@ -2,8 +2,8 @@
 layout: post
 title: "More on Lafayette Fiber Battle"
 date: "2005-12-22T09:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/12/22/More-on-Lafayette-Fiber-Battle
 ---

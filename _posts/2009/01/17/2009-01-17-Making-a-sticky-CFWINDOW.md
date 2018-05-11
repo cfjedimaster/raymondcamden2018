@@ -2,8 +2,8 @@
 layout: post
 title: "Making a \"sticky\" CFWINDOW"
 date: "2009-01-17T17:01:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2009/01/17/Making-a-sticky-CFWINDOW
 ---

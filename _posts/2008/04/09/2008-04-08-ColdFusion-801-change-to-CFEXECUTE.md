@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8.0.1 change to CFEXECUTE"
 date: "2008-04-09T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/09/ColdFusion-801-change-to-CFEXECUTE
 ---

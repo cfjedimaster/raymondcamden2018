@@ -2,8 +2,8 @@
 layout: post
 title: "Video from PhoneGap presentation"
 date: "2012-07-13T12:07:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/07/13/Video-from-PhoneGap-presentation
 ---

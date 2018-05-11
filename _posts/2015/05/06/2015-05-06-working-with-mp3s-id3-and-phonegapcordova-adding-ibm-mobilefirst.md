@@ -2,8 +2,8 @@
 layout: post
 title: "Working with MP3s, ID3, and PhoneGap/Cordova - Adding IBM MobileFirst"
 date: "2015-05-06T15:44:15+06:00"
-categories: development javascript mobile 
-tags: mobilefirst
+categories: [development,javascript,mobile]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2015/05/06/working-with-mp3s-id3-and-phonegapcordova-adding-ibm-mobilefirst
 ---

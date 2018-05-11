@@ -2,8 +2,8 @@
 layout: post
 title: "This blog, this week"
 date: "2006-06-26T18:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/06/26/This-blog-this-week
 ---

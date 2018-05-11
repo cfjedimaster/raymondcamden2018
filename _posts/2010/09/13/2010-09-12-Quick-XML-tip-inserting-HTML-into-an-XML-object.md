@@ -2,8 +2,8 @@
 layout: post
 title: "Quick XML tip - inserting HTML into an XML object"
 date: "2010-09-13T07:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/09/13/Quick-XML-tip-inserting-HTML-into-an-XML-object
 ---

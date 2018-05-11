@@ -2,8 +2,8 @@
 layout: post
 title: "FusionReactor - Still the Best for ColdFusion"
 date: "2017-04-12T08:15:00-07:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2017/04/12/fusionreactor-still-the-best-for-coldfusion
 ---

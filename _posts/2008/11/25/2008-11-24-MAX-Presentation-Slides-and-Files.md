@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Presentation Slides and Files"
 date: "2008-11-25T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/25/MAX-Presentation-Slides-and-Files
 ---

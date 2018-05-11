@@ -2,8 +2,8 @@
 layout: post
 title: "The New TFA Trailer"
 date: "2015-10-20T05:58:43+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2015/10/20/the-new-tfa-trailer
 ---

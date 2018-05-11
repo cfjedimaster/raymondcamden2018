@@ -2,8 +2,8 @@
 layout: post
 title: "Win a copy of ColdFusion Builder and support a great cause"
 date: "2010-08-23T17:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/08/23/Win-a-copy-of-ColdFusion-Builder-and-support-a-great-cause
 ---

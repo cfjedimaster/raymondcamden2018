@@ -2,8 +2,8 @@
 layout: post
 title: "Three useful ColdFusion Builder links"
 date: "2010-03-22T15:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/03/22/Three-useful-ColdFusion-Builder-links
 ---

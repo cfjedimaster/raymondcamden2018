@@ -2,8 +2,8 @@
 layout: post
 title: "Wrapping up the last contest"
 date: "2006-11-09T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/09/Wrapping-up-the-last-contest
 ---

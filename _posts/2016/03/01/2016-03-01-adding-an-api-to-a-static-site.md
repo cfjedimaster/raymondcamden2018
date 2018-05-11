@@ -2,8 +2,8 @@
 layout: post
 title: "Adding an API to a static site"
 date: "2016-03-01T14:59:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/03/01/adding-an-api-to-a-static-site
 ---

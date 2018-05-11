@@ -2,8 +2,8 @@
 layout: post
 title: "Followup to FlashVars in Flex Articles"
 date: "2007-01-22T09:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/22/Followup-to-FlashVars-in-Flex-Articles
 ---

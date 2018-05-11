@@ -2,8 +2,8 @@
 layout: post
 title: "Off to CFUNITED! (And a few random notes...)"
 date: "2007-06-26T12:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/06/26/Off-to-CFUNITED-And-a-few-random-notes
 ---

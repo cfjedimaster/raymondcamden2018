@@ -2,8 +2,8 @@
 layout: post
 title: "Building CRUD with Transfer"
 date: "2008-11-05T13:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/05/Building-CRUD-with-Transfer
 ---

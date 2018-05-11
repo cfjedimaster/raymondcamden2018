@@ -2,8 +2,8 @@
 layout: post
 title: "Using the Page Visibility API with Edge Animate"
 date: "2013-05-29T10:05:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/05/29/Using-the-Page-Visibility-API-with-Edge-Animate
 ---

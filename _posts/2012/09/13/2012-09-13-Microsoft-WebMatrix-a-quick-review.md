@@ -2,8 +2,8 @@
 layout: post
 title: "Microsoft WebMatrix - a quick review"
 date: "2012-09-13T18:09:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/13/Microsoft-WebMatrix-a-quick-review
 ---

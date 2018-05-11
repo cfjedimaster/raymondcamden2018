@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion as a Service Examples - HTML/jQuery"
 date: "2009-12-15T13:12:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/12/15/ColdFusion-as-a-Service-Examples-HTMLjQuery
 ---

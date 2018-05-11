@@ -2,8 +2,8 @@
 layout: post
 title: "Updates to Flash Builder for iOS and Blackberry"
 date: "2011-06-20T08:06:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/06/20/Updates-to-Flash-Builder-for-iOS-and-Blackberry
 ---

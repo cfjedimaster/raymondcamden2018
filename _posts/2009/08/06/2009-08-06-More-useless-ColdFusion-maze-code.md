@@ -2,8 +2,8 @@
 layout: post
 title: "More useless ColdFusion maze code"
 date: "2009-08-06T19:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/06/More-useless-ColdFusion-maze-code
 ---

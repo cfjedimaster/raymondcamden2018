@@ -2,8 +2,8 @@
 layout: post
 title: "Using JavaScript, IndexedDB to cheat at WordBrain"
 date: "2015-07-17T08:45:09+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2015/07/17/using-javascript-indexeddb-to-cheat-at-wordbrain
 ---

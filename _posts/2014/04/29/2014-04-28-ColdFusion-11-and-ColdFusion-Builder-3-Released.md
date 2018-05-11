@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 11 and ColdFusion Builder 3 Released"
 date: "2014-04-29T09:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/04/29/ColdFusion-11-and-ColdFusion-Builder-3-Released
 ---

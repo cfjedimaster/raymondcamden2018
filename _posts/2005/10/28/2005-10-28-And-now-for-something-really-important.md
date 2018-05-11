@@ -2,8 +2,8 @@
 layout: post
 title: "And now for something really important..."
 date: "2005-10-28T16:10:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2005/10/28/And-now-for-something-really-important
 ---

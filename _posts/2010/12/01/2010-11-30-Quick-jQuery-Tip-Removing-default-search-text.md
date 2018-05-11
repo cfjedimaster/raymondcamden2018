@@ -2,8 +2,8 @@
 layout: post
 title: "Quick jQuery Tip - Removing default search text"
 date: "2010-12-01T11:12:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2010/12/01/Quick-jQuery-Tip-Removing-default-search-text
 ---

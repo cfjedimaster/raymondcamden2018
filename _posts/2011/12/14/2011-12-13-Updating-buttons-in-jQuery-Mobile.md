@@ -2,8 +2,8 @@
 layout: post
 title: "Updating buttons in jQuery Mobile"
 date: "2011-12-14T07:12:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/12/14/Updating-buttons-in-jQuery-Mobile
 ---

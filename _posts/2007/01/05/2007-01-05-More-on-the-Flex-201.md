@@ -2,8 +2,8 @@
 layout: post
 title: "More on the Flex 2.0.1"
 date: "2007-01-05T13:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/05/More-on-the-Flex-201
 ---

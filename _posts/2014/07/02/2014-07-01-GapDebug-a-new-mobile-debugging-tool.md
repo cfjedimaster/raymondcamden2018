@@ -2,8 +2,8 @@
 layout: post
 title: "GapDebug, a new mobile debugging tool"
 date: "2014-07-02T08:07:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/02/GapDebug-a-new-mobile-debugging-tool
 ---

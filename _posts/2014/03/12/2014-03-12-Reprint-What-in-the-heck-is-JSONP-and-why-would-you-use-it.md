@@ -2,8 +2,8 @@
 layout: post
 title: "Reprint: What in the heck is JSONP and why would you use it?"
 date: "2014-03-12T11:03:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2014/03/12/Reprint-What-in-the-heck-is-JSONP-and-why-would-you-use-it
 ---

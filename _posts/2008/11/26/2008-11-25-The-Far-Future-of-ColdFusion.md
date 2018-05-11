@@ -2,8 +2,8 @@
 layout: post
 title: "The (Far) Future of ColdFusion"
 date: "2008-11-26T07:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/26/The-Far-Future-of-ColdFusion
 ---

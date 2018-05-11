@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at ColdBox Developer Week 2"
 date: "2013-06-02T10:06:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/06/02/Speaking-at-ColdBox-Developer-Week-2
 ---

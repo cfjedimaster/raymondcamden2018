@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Jedi is no more..."
 date: "2014-10-06T14:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2014/10/06/ColdFusion-Jedi-is-no-more
 ---

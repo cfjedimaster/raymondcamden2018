@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: \"Object of type class.lang.Boolean cannot be used as an array\""
 date: "2008-01-02T07:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/02/Ask-a-Jedi-Object-of-type-classlangBoolean-cannot-be-used-as-an-array
 ---

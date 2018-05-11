@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Sorting Directory Paths in ColdFusion"
 date: "2005-08-29T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/29/ColdFusion-101-Sorting-Directory-Paths-in-ColdFusion
 ---

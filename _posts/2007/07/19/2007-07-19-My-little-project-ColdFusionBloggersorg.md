@@ -2,8 +2,8 @@
 layout: post
 title: "My little project - ColdFusionBloggers.org"
 date: "2007-07-19T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/19/My-little-project-ColdFusionBloggersorg
 ---

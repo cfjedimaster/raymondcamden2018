@@ -2,8 +2,8 @@
 layout: post
 title: "Nettuts Article: Deeper into Brackets"
 date: "2013-11-08T16:11:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/11/08/Nettuts-Article-Deeper-into-Brackets
 ---

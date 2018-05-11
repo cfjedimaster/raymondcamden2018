@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using HQL versus other ORM Functions"
 date: "2009-10-21T22:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/10/21/Ask-a-Jedi-Using-HQL-versus-other-ORM-Functions
 ---

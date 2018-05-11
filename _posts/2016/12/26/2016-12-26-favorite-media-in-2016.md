@@ -2,8 +2,8 @@
 layout: post
 title: "Favorite Media in 2016"
 date: "2016-12-26T08:04:00-07:00"
-categories: books movies video games music 
-tags: 
+categories: [books,movies,video games,music]
+tags: []
 banner_image: 
 permalink: /2016/12/26/favorite-media-in-2016
 ---

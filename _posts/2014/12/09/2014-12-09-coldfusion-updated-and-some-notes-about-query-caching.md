@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion updated, and some notes about query caching"
 date: "2014-12-09T14:45:31+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/12/09/coldfusion-updated-and-some-notes-about-query-caching
 ---

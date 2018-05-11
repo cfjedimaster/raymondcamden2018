@@ -2,8 +2,8 @@
 layout: post
 title: "CF901: Changes to the multi file uploader"
 date: "2010-07-22T09:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/22/CF901-Changes-to-the-multi-file-uploader
 ---

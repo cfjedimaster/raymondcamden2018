@@ -2,8 +2,8 @@
 layout: post
 title: "Hosting Node.js apps on Bluemix"
 date: "2015-03-02T14:28:40+06:00"
-categories: development 
-tags: bluemix
+categories: [development]
+tags: [bluemix]
 banner_image: 
 permalink: /2015/03/02/hosting-node-js-apps-on-bluemix
 ---

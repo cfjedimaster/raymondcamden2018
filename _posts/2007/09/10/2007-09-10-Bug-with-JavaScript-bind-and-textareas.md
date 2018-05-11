@@ -2,8 +2,8 @@
 layout: post
 title: "Bug with JavaScript bind and textareas"
 date: "2007-09-10T15:09:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2007/09/10/Bug-with-JavaScript-bind-and-textareas
 ---

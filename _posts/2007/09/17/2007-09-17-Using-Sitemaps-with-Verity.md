@@ -2,8 +2,8 @@
 layout: post
 title: "Using Sitemaps with Verity"
 date: "2007-09-17T18:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/17/Using-Sitemaps-with-Verity
 ---

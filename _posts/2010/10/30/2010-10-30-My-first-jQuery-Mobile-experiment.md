@@ -2,8 +2,8 @@
 layout: post
 title: "My first jQuery Mobile experiment"
 date: "2010-10-30T16:10:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/10/30/My-first-jQuery-Mobile-experiment
 ---

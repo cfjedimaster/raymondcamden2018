@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder Extension Developer Group"
 date: "2010-05-10T22:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/10/ColdFusion-Builder-Extension-Developer-Group
 ---

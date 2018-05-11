@@ -2,8 +2,8 @@
 layout: post
 title: "Update to ColdFusionBloggers.org: Ajax-based Contact Form"
 date: "2007-07-27T14:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/27/Update-to-ColdFusionBloggersorg-Ajaxbased-Contact-Form
 ---

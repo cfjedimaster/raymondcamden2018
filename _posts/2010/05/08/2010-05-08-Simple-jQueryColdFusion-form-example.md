@@ -2,8 +2,8 @@
 layout: post
 title: "Simple jQuery/ColdFusion form example"
 date: "2010-05-08T19:05:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/05/08/Simple-jQueryColdFusion-form-example
 ---

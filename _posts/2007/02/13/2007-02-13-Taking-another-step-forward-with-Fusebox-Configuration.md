@@ -2,8 +2,8 @@
 layout: post
 title: "Taking another step forward with Fusebox - Configuration"
 date: "2007-02-13T21:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/13/Taking-another-step-forward-with-Fusebox-Configuration
 ---

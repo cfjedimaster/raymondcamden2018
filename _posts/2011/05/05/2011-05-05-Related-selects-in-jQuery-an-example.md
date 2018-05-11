@@ -2,8 +2,8 @@
 layout: post
 title: "Related selects in jQuery - an example"
 date: "2011-05-05T19:05:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/05/05/Related-selects-in-jQuery-an-example
 ---

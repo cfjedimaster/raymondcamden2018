@@ -2,8 +2,8 @@
 layout: post
 title: "Two new ColdFusion 9.0.1 Gems"
 date: "2010-05-24T06:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/05/24/Two-new-ColdFusion-901-Gems
 ---

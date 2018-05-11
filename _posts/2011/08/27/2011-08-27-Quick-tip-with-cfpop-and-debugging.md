@@ -2,8 +2,8 @@
 layout: post
 title: "Quick tip with cfpop and debugging"
 date: "2011-08-27T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/08/27/Quick-tip-with-cfpop-and-debugging
 ---

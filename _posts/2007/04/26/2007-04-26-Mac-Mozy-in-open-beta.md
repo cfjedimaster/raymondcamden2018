@@ -2,8 +2,8 @@
 layout: post
 title: "Mac Mozy in open beta"
 date: "2007-04-26T22:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/04/26/Mac-Mozy-in-open-beta
 ---

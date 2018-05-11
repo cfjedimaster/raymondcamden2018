@@ -2,8 +2,8 @@
 layout: post
 title: "Bash me (and others!)"
 date: "2006-06-01T10:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/06/01/Bash-me-and-others
 ---

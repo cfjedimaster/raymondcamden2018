@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion to get the end of a file"
 date: "2009-04-12T19:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/12/Using-ColdFusion-to-get-the-end-of-a-file
 ---

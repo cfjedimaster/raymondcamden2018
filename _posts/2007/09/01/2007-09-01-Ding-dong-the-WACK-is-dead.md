@@ -2,8 +2,8 @@
 layout: post
 title: "Ding dong the WACK is dead..."
 date: "2007-09-01T11:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/09/01/Ding-dong-the-WACK-is-dead
 ---

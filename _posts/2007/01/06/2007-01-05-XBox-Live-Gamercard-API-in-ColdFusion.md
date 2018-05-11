@@ -2,8 +2,8 @@
 layout: post
 title: "XBox Live Gamercard API in ColdFusion"
 date: "2007-01-06T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/06/XBox-Live-Gamercard-API-in-ColdFusion
 ---

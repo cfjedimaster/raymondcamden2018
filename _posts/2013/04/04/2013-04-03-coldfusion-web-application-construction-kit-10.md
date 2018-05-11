@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Web Application Construction Kit 10"
 date: "2013-04-04T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/04/04/coldfusion-web-application-construction-kit-10
 ---

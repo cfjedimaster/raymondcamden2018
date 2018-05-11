@@ -2,8 +2,8 @@
 layout: post
 title: "CFCs and the Base Component"
 date: "2006-07-11T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/11/CFCs-and-the-Base-Component
 ---

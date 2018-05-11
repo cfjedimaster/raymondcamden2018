@@ -2,8 +2,8 @@
 layout: post
 title: "Attention BlogCFC Users and Subscribers to this Blog"
 date: "2005-08-31T19:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/31/Attention-BlogCFC-Users-and-Subscribers-to-this-Blog
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Oops! Blog go BOOM!"
 date: "2005-09-13T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/13/Oops-Blog-go-BOOM
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Simple Trick - Adding a Play Indicator to the Browser Tab"
 date: "2014-02-04T10:02:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2014/02/04/Simple-Trick-Adding-a-Play-Indicator-to-the-Browser-Tab
 ---

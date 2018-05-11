@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion and Subversion"
 date: "2006-05-03T14:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/03/ColdFusion-and-Subversion
 ---

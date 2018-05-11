@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Arguments in a CFC/UDF"
 date: "2006-02-16T12:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/16/Ask-a-Jedi-Arguments-in-a-CFCUDF
 ---

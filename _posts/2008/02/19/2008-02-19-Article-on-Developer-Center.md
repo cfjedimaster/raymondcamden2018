@@ -2,8 +2,8 @@
 layout: post
 title: "Article on Developer Center"
 date: "2008-02-19T21:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/02/19/Article-on-Developer-Center
 ---

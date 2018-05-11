@@ -2,8 +2,8 @@
 layout: post
 title: "Traffic on ColdFusion Bloggers"
 date: "2015-02-18T09:22:42+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/02/18/traffic-on-coldfusion-bloggers
 ---

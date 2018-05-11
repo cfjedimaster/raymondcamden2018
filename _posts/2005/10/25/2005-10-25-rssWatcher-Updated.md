@@ -2,8 +2,8 @@
 layout: post
 title: "rssWatcher Updated"
 date: "2005-10-25T15:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/25/rssWatcher-Updated
 ---

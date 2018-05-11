@@ -2,8 +2,8 @@
 layout: post
 title: "Follow up - Flash Builder 4, ColdFusion CFCs, and AIR"
 date: "2009-06-12T11:06:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2009/06/12/Follow-up-Flash-Builder-4-ColdFusion-CFCs-and-AIR
 ---

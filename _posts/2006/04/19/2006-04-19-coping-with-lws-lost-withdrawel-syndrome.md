@@ -2,8 +2,8 @@
 layout: post
 title: "Coping with LWS (Lost Withdrawel Syndrome)"
 date: "2006-04-19T17:04:00+06:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: 
 permalink: /2006/04/19/coping-with-lws-lost-withdrawel-syndrome
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Disabling CFC auto documentation"
 date: "2010-12-20T09:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/12/20/Disabling-CFC-auto-documentation
 ---

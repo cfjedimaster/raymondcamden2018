@@ -2,8 +2,8 @@
 layout: post
 title: "Two (More) iPhone development tips (also involves ColdFusion Components)"
 date: "2010-02-11T09:02:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2010/02/11/Two-More-iPhone-development-tips-also-involves-ColdFusion-Components
 ---

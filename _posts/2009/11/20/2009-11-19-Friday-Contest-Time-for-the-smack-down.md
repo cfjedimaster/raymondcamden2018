@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Contest - Time for the smack down"
 date: "2009-11-20T09:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/11/20/Friday-Contest-Time-for-the-smack-down
 ---

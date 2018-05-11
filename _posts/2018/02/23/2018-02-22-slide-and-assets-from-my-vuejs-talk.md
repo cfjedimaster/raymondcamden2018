@@ -2,8 +2,8 @@
 layout: post
 title: "Slides and Assets from My Vue.js Talk"
 date: "2018-02-23"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/publicspeaking.jpg
 permalink: /2018/02/23/slide-and-assets-from-my-vuejs-talk
 ---

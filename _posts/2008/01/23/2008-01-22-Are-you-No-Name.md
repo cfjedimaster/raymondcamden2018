@@ -2,8 +2,8 @@
 layout: post
 title: "Are you No Name?"
 date: "2008-01-23T11:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/01/23/Are-you-No-Name
 ---

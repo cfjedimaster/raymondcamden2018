@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 4.5 List control springing to top?"
 date: "2011-05-26T15:05:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/05/26/Flex-45-List-control-springing-to-top
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Generate Random Data CFBuilder Extension"
 date: "2010-06-28T14:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/06/28/Generate-Random-Data-CFBuilder-Extension
 ---

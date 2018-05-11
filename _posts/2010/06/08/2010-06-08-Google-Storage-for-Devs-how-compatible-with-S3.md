@@ -2,8 +2,8 @@
 layout: post
 title: "Google Storage for Devs - how compatible with S3?"
 date: "2010-06-08T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/06/08/Google-Storage-for-Devs-how-compatible-with-S3
 ---

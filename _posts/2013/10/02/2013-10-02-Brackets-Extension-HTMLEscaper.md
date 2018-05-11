@@ -2,8 +2,8 @@
 layout: post
 title: "Brackets Extension: HTMLEscaper"
 date: "2013-10-02T15:10:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/10/02/Brackets-Extension-HTMLEscaper
 ---

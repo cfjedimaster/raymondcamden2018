@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder - Beta 3 Released"
 date: "2009-12-17T07:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/17/ColdFusion-Builder-Beta-3-Released
 ---

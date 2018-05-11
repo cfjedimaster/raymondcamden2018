@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Action Metadata in OpenWhisk"
 date: "2017-08-04T09:45:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/08/04/working-with-action-metadata-in-openwhisk
 ---

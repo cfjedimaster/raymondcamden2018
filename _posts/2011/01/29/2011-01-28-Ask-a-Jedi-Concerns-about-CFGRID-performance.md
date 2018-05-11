@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Concerns about CFGRID performance"
 date: "2011-01-29T09:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2011/01/29/Ask-a-Jedi-Concerns-about-CFGRID-performance
 ---

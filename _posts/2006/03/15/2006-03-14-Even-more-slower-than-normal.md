@@ -2,8 +2,8 @@
 layout: post
 title: "Even more slower than normal..."
 date: "2006-03-15T09:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/03/15/Even-more-slower-than-normal
 ---

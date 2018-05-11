@@ -2,8 +2,8 @@
 layout: post
 title: "Checkout the Stroz on DevNet: Using ColdFusion 8 with Microsoft Exchange Server"
 date: "2007-11-05T17:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/05/Checkout-the-Stroz-on-DevNet-Using-ColdFusion-8-with-Microsoft-Exchange-Server
 ---

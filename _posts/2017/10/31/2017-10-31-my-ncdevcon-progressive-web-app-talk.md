@@ -2,8 +2,8 @@
 layout: post
 title: "My NCDevCon Progressive Web App Talk"
 date: "2017-10-31T04:59:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2017/10/31/my-ncdevcon-progressive-web-app-talk
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Example of Vue.js"
 date: "2017-08-07T07:36:00-07:00"
-categories: development 
-tags: javascript vuejs
+categories: [development]
+tags: [javascript,vuejs]
 banner_image: 
 permalink: /2017/08/07/quick-example-of-vuejs
 ---

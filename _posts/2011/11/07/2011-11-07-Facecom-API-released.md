@@ -2,8 +2,8 @@
 layout: post
 title: "Face.com API released"
 date: "2011-11-07T14:11:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2011/11/07/Facecom-API-released
 ---

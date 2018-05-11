@@ -2,8 +2,8 @@
 layout: post
 title: "Cumulative Hot Fix 3 did NOT include security updates"
 date: "2009-09-03T08:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/03/Cumulative-Hot-Fix-3-did-NOT-include-security-updates
 ---

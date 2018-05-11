@@ -2,8 +2,8 @@
 layout: post
 title: "When does it make sense to cache ColdFusion code?"
 date: "2009-03-08T11:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/03/08/When-does-it-make-sense-to-cache-ColdFusion-code
 ---

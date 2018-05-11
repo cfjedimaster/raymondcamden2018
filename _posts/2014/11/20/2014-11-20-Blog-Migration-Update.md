@@ -2,8 +2,8 @@
 layout: post
 title: "Blog Migration Update"
 date: "2014-11-20T18:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2014/11/20/Blog-Migration-Update
 ---

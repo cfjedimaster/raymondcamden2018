@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8, MySQL, HostMySite, and NPEs"
 date: "2007-09-28T17:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/28/ColdFusion-8-MySQL-HostMySite-and-NPEs
 ---

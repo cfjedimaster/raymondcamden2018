@@ -2,8 +2,8 @@
 layout: post
 title: "Starfish ColdFusion Debugger Version 0 Released"
 date: "2005-10-24T18:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/24/Starfish-ColdFusion-Debugger-Version-0-Released
 ---

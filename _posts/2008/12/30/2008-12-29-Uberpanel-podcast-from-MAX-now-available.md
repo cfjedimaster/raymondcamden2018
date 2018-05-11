@@ -2,8 +2,8 @@
 layout: post
 title: "Uberpanel podcast from MAX now available"
 date: "2008-12-30T08:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/12/30/Uberpanel-podcast-from-MAX-now-available
 ---

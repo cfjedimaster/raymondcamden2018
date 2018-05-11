@@ -2,8 +2,8 @@
 layout: post
 title: "How do you report bugs in Fusebox (and Model-Glue)?"
 date: "2007-02-07T16:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/07/How-do-you-report-bugs-in-Fusebox-and-ModelGlue
 ---

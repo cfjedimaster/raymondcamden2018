@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue Short URLs on the Cheap"
 date: "2006-11-07T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/07/ModelGlue-Short-URLs-on-the-Cheap
 ---

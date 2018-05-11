@@ -2,8 +2,8 @@
 layout: post
 title: "Can you do Flex \"Wrappers\" like you can with ColdFusion?"
 date: "2007-01-18T11:01:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2007/01/18/Can-you-do-Flex-Wrappers-like-you-can-with-ColdFusion
 ---

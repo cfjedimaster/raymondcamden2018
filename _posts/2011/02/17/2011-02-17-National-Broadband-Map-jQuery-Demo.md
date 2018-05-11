@@ -2,8 +2,8 @@
 layout: post
 title: "National Broadband Map (jQuery Demo)"
 date: "2011-02-17T21:02:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/02/17/National-Broadband-Map-jQuery-Demo
 ---

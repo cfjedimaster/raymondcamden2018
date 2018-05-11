@@ -2,8 +2,8 @@
 layout: post
 title: "Apollo added to RIAForge"
 date: "2007-03-19T14:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/03/19/Apollo-added-to-RIAForge
 ---

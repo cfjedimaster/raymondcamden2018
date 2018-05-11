@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation tonight: Introduction to jQuery Mobile"
 date: "2011-06-29T08:06:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/06/29/Presentation-tonight-Introduction-to-jQuery-Mobile
 ---

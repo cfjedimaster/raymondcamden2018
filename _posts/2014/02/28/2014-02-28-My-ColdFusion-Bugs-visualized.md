@@ -2,8 +2,8 @@
 layout: post
 title: "My ColdFusion Bugs - visualized"
 date: "2014-02-28T17:02:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2014/02/28/My-ColdFusion-Bugs-visualized
 ---

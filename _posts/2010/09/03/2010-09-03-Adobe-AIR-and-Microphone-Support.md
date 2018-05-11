@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe AIR and Microphone Support"
 date: "2010-09-03T16:09:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2010/09/03/Adobe-AIR-and-Microphone-Support
 ---

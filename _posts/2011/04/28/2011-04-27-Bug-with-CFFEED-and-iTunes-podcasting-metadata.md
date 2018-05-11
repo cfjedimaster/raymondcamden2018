@@ -2,8 +2,8 @@
 layout: post
 title: "Bug with CFFEED and iTunes podcasting metadata"
 date: "2011-04-28T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/04/28/Bug-with-CFFEED-and-iTunes-podcasting-metadata
 ---

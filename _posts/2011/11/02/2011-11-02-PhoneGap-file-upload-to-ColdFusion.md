@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap file upload to ColdFusion"
 date: "2011-11-02T18:11:00+06:00"
-categories: coldfusion javascript mobile 
-tags: 
+categories: [coldfusion,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2011/11/02/PhoneGap-file-upload-to-ColdFusion
 ---

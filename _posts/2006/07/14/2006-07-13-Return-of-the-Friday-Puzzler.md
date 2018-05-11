@@ -2,8 +2,8 @@
 layout: post
 title: "Return of the Friday Puzzler"
 date: "2006-07-14T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/14/Return-of-the-Friday-Puzzler
 ---

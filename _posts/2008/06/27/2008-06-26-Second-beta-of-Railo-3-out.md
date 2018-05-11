@@ -2,8 +2,8 @@
 layout: post
 title: "Second beta of Railo 3 out"
 date: "2008-06-27T09:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/27/Second-beta-of-Railo-3-out
 ---

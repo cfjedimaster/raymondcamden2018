@@ -2,8 +2,8 @@
 layout: post
 title: "Mobile developer? Check out Dreamweaver CS 5.5"
 date: "2011-05-04T14:05:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2011/05/04/Mobile-developer-Check-out-Dreamweaver-CS-55
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "And I'm back..."
 date: "2007-09-06T10:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/09/06/And-Im-back
 ---

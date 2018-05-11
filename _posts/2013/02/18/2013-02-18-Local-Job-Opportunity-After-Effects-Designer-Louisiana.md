@@ -2,8 +2,8 @@
 layout: post
 title: "Local Job Opportunity: After Effects Designer - Louisiana"
 date: "2013-02-18T19:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/02/18/Local-Job-Opportunity-After-Effects-Designer-Louisiana
 ---

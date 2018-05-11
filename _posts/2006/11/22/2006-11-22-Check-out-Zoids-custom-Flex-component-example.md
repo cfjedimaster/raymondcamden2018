@@ -2,8 +2,8 @@
 layout: post
 title: "Check out Zoid's custom Flex component example"
 date: "2006-11-22T12:11:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/11/22/Check-out-Zoids-custom-Flex-component-example
 ---

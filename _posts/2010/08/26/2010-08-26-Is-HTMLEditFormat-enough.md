@@ -2,8 +2,8 @@
 layout: post
 title: "Is HTMLEditFormat enough?"
 date: "2010-08-26T14:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/26/Is-HTMLEditFormat-enough
 ---

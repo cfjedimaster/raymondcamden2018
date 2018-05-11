@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Tip: Navigating in Ionic without History"
 date: "2015-07-14T13:06:11+06:00"
-categories: development html5 javascript mobile 
-tags: ionic
+categories: [development,html5,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/07/14/quick-tip-navigating-in-ionic-without-history
 ---

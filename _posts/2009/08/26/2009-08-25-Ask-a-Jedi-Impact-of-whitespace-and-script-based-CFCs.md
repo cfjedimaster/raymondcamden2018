@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Impact of whitespace and script based CFCs"
 date: "2009-08-26T09:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/26/Ask-a-Jedi-Impact-of-whitespace-and-script-based-CFCs
 ---

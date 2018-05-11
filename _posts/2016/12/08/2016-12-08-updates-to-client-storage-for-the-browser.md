@@ -2,8 +2,8 @@
 layout: post
 title: "Updates to Client Storage for the Browser"
 date: "2016-12-08T14:21:00-07:00"
-categories: development 
-tags: javascript
+categories: [development]
+tags: [javascript]
 banner_image: /images/banners/storage1.jpg
 permalink: /2016/12/08/updates-to-client-storage-for-the-browser
 ---

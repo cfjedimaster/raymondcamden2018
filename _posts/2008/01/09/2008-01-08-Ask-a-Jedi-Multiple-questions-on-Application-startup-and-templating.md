@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Multiple questions on Application startup and templating"
 date: "2008-01-09T10:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/09/Ask-a-Jedi-Multiple-questions-on-Application-startup-and-templating
 ---

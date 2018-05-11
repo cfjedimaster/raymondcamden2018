@@ -2,8 +2,8 @@
 layout: post
 title: "Minor Update to Lighthouse Pro"
 date: "2006-06-24T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/24/Minor-Update-to-Lighthouse-Pro
 ---

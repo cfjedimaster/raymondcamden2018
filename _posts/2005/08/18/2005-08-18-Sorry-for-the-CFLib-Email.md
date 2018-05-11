@@ -2,8 +2,8 @@
 layout: post
 title: "Sorry for the CFLib Email..."
 date: "2005-08-18T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/18/Sorry-for-the-CFLib-Email
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Mean People Suck"
 date: "2007-09-13T22:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/09/13/Mean-People-Suck
 ---

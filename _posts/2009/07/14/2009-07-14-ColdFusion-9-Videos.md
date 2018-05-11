@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9 Videos"
 date: "2009-07-14T13:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/14/ColdFusion-9-Videos
 ---

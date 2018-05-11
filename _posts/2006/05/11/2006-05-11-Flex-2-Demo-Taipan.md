@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 2 Demo: Taipan"
 date: "2006-05-11T19:05:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/05/11/Flex-2-Demo-Taipan
 ---

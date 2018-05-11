@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Rock Band"
 date: "2008-04-19T12:04:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2008/04/19/Review-Rock-Band
 ---

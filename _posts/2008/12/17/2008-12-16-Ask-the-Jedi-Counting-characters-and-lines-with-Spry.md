@@ -2,8 +2,8 @@
 layout: post
 title: "Ask the Jedi: Counting characters and lines with Spry"
 date: "2008-12-17T09:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/17/Ask-the-Jedi-Counting-characters-and-lines-with-Spry
 ---

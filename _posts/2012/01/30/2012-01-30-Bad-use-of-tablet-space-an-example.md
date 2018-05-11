@@ -2,8 +2,8 @@
 layout: post
 title: "Bad use of tablet space - an example"
 date: "2012-01-30T12:01:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/30/Bad-use-of-tablet-space-an-example
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Zone at DZone"
 date: "2008-01-29T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/29/ColdFusion-Zone-at-DZone
 ---

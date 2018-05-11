@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Handlebars tip concerning precompilation"
 date: "2015-03-14T13:09:54+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2015/03/14/quick-handlebars-tip-concerning-precompilation
 ---

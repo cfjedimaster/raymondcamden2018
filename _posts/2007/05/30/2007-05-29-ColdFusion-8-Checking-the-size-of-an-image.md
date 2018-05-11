@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Checking the size of an image"
 date: "2007-05-30T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/30/ColdFusion-8-Checking-the-size-of-an-image
 ---

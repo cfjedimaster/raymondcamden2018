@@ -2,8 +2,8 @@
 layout: post
 title: "Diagnose an OS X Slowdown"
 date: "2007-06-08T15:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/06/08/Diagnose-an-OS-X-Slowdown
 ---

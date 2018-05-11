@@ -2,8 +2,8 @@
 layout: post
 title: "Second example of an HTML-powered AIR application"
 date: "2010-08-15T18:08:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2010/08/15/Second-example-of-an-HTMLpowered-AIR-application
 ---

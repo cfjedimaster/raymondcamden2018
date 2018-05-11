@@ -2,8 +2,8 @@
 layout: post
 title: "Mobile app show and tell on Friday"
 date: "2011-11-02T10:11:00+06:00"
-categories: coldfusion javascript jquery mobile 
-tags: 
+categories: [coldfusion,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/11/02/Mobile-app-show-and-tell-on-Friday
 ---

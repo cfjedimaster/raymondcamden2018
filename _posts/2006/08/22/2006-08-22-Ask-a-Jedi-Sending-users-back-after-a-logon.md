@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Sending users back after a logon"
 date: "2006-08-22T19:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/22/Ask-a-Jedi-Sending-users-back-after-a-logon
 ---

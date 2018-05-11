@@ -2,8 +2,8 @@
 layout: post
 title: "An Ionic 1 and 2 app side by side"
 date: "2016-06-30T05:59:00-07:00"
-categories: javascript mobile 
-tags: ionic
+categories: [javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2016/06/30/an-ionic-1-and-2-app-side-by-side
 ---

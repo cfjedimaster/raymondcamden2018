@@ -2,8 +2,8 @@
 layout: post
 title: "How to use one remote method in Flex for multiple \"clients\""
 date: "2010-06-21T14:06:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2010/06/21/How-to-use-one-remote-method-in-Flex-for-multiple-clients
 ---

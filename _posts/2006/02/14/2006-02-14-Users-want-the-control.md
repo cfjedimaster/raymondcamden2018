@@ -2,8 +2,8 @@
 layout: post
 title: "Users want the control"
 date: "2006-02-14T17:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/02/14/Users-want-the-control
 ---

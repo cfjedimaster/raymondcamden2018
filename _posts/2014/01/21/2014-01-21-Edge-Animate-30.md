@@ -2,8 +2,8 @@
 layout: post
 title: "Edge Animate 3.0"
 date: "2014-01-21T15:01:00+06:00"
-categories: design html5 javascript 
-tags: 
+categories: [design,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/01/21/Edge-Animate-30
 ---

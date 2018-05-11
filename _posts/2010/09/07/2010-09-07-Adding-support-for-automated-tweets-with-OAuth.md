@@ -2,8 +2,8 @@
 layout: post
 title: "Adding support for automated tweets with OAuth"
 date: "2010-09-07T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/09/07/Adding-support-for-automated-tweets-with-OAuth
 ---

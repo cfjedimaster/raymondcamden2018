@@ -2,8 +2,8 @@
 layout: post
 title: "cf_happyHalloween"
 date: "2008-10-31T11:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/10/31/cfhappyHalloween
 ---

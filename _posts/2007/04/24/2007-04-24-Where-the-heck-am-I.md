@@ -2,8 +2,8 @@
 layout: post
 title: "Where the heck am I?"
 date: "2007-04-24T17:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/24/Where-the-heck-am-I
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Trouble with ColdFusion.Ajax.SubmitForm"
 date: "2008-07-03T13:07:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2008/07/03/Ask-a-Jedi-Trouble-with-ColdFusionAjaxSubmitForm
 ---

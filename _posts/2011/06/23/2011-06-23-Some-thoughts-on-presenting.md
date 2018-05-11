@@ -2,8 +2,8 @@
 layout: post
 title: "Some thoughts on presenting"
 date: "2011-06-23T14:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/06/23/Some-thoughts-on-presenting
 ---

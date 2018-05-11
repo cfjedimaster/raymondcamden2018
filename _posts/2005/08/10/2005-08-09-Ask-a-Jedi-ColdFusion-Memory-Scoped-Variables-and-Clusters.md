@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Memory Scoped Variables and Clusters"
 date: "2005-08-10T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/10/Ask-a-Jedi-ColdFusion-Memory-Scoped-Variables-and-Clusters
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Crazy Flex, Mobile, ColdFusion, BlazeDS experiment"
 date: "2011-09-02T17:09:00+06:00"
-categories: coldfusion flex mobile 
-tags: 
+categories: [coldfusion,flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/09/02/Crazy-Flex-Mobile-ColdFusion-BlazeDS-experiment
 ---

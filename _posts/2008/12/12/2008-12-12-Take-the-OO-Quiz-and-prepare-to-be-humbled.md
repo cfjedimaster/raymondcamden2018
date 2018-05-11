@@ -2,8 +2,8 @@
 layout: post
 title: "Take the OO Quiz - and prepare to be humbled..."
 date: "2008-12-12T15:12:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/12/12/Take-the-OO-Quiz-and-prepare-to-be-humbled
 ---

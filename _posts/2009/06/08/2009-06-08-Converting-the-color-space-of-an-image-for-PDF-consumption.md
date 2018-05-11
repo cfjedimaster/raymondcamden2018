@@ -2,8 +2,8 @@
 layout: post
 title: "Converting the color space of an image for PDF consumption"
 date: "2009-06-08T15:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/06/08/Converting-the-color-space-of-an-image-for-PDF-consumption
 ---

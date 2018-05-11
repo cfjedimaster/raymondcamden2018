@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Application.cfc Review"
 date: "2007-03-21T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/21/Quick-Applicationcfc-Review
 ---

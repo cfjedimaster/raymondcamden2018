@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder 2 - View bug"
 date: "2011-05-13T09:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/05/13/ColdFusion-Builder-2-View-bug
 ---

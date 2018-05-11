@@ -2,8 +2,8 @@
 layout: post
 title: "Brick by Mozilla"
 date: "2013-08-23T11:08:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/08/23/Brick-by-Mozilla
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of the Google Docs API"
 date: "2007-12-07T15:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/07/Quick-example-of-the-Google-Docs-API
 ---

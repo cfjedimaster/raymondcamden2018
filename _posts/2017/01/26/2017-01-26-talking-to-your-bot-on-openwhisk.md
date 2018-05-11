@@ -2,8 +2,8 @@
 layout: post
 title: "Talking to your Bot on OpenWhisk"
 date: "2017-01-26T09:45:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: /images/banners/owbot.jpg
 permalink: /2017/01/26/talking-to-your-bot-on-openwhisk
 ---

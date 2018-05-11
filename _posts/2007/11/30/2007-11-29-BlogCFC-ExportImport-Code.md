@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC Export/Import Code"
 date: "2007-11-30T09:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/11/30/BlogCFC-ExportImport-Code
 ---

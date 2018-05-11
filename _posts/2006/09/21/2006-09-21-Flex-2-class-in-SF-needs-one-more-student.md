@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 2 class in SF needs one more student"
 date: "2006-09-21T11:09:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/09/21/Flex-2-class-in-SF-needs-one-more-student
 ---

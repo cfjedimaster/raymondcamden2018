@@ -2,8 +2,8 @@
 layout: post
 title: "A special message from RIAForge's new director of public relations..."
 date: "2011-01-03T12:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/01/03/A-special-message-from-RIAForges-new-director-of-public-relations
 ---

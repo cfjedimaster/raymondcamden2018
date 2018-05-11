@@ -2,8 +2,8 @@
 layout: post
 title: "SpoolMail Updated"
 date: "2010-10-21T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/10/21/SpoolMail-Updated
 ---

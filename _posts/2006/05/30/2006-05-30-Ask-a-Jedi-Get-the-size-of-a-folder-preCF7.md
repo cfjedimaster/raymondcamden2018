@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Get the size of a folder (pre-CF7)"
 date: "2006-05-30T16:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/30/Ask-a-Jedi-Get-the-size-of-a-folder-preCF7
 ---

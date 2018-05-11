@@ -2,8 +2,8 @@
 layout: post
 title: "A few random 9/11 Thoughts"
 date: "2006-09-11T08:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/09/11/A-few-random-911-Thoughts
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Online presentation next week - How to Become An \"Intermediate\" JavaScript Programmer"
 date: "2015-06-04T09:20:09+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/06/04/online-presentation-next-week-how-to-become-an-intermediate-javascript-programmer
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Totally Useless Post: Half-Life 2 is Amazing"
 date: "2005-08-01T17:08:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2005/08/01/Totally-Useless-Post-HalfLife-2-is-Amazing
 ---

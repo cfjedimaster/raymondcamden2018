@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Sizing a window with ColdFusion"
 date: "2007-05-07T23:05:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2007/05/07/Ask-a-Jedi-Sizing-a-window-with-ColdFusion
 ---

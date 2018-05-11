@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Question about learning frameworks (and other things)"
 date: "2008-04-18T11:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/18/Ask-a-Jedi-Question-about-learning-frameworks-and-other-things
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Google Analytics and PhoneGap"
 date: "2013-03-28T17:03:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2013/03/28/Google-Analytics-and-PhoneGap
 ---

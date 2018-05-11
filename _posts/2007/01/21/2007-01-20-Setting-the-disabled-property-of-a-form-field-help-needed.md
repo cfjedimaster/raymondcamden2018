@@ -2,8 +2,8 @@
 layout: post
 title: "Setting the disabled property of a form field (help needed)"
 date: "2007-01-21T11:01:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2007/01/21/Setting-the-disabled-property-of-a-form-field-help-needed
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Yes, you're in the right place"
 date: "2011-12-09T14:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/12/09/Yes-youre-in-the-right-place
 ---

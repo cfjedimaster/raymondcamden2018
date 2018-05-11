@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Setting focus to a field inside cflayout - possible?"
 date: "2007-12-04T17:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/04/Ask-a-Jedi-Setting-focus-to-a-field-inside-cflayout-possible
 ---

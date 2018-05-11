@@ -2,8 +2,8 @@
 layout: post
 title: "Some basic Solr/Verity Differences"
 date: "2009-10-30T14:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/10/30/Some-basic-SolrVerity-Differences
 ---

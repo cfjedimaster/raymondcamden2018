@@ -2,8 +2,8 @@
 layout: post
 title: "Spock sneak peak / geolocation example"
 date: "2011-08-30T10:08:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2011/08/30/Spock-sneak-peak-geolocation-example
 ---

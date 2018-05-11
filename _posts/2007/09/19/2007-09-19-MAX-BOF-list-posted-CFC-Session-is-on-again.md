@@ -2,8 +2,8 @@
 layout: post
 title: "MAX BOF list posted - CFC Session is on again"
 date: "2007-09-19T21:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/19/MAX-BOF-list-posted-CFC-Session-is-on-again
 ---

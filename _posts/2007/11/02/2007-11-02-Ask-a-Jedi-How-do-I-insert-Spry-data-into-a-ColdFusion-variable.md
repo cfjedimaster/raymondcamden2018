@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How do I insert Spry data into a ColdFusion variable?"
 date: "2007-11-02T13:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/02/Ask-a-Jedi-How-do-I-insert-Spry-data-into-a-ColdFusion-variable
 ---

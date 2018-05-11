@@ -2,8 +2,8 @@
 layout: post
 title: "New Site (Well, Updated Site) Launched: Aspen/Snowmass"
 date: "2005-09-02T14:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/02/New-Site-Well-Updated-Site-Launched-AspenSnowmass
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Warning about Ionic Live Reload and the PhoneGap Developer App"
 date: "2015-03-08T10:23:55+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/03/08/warning-about-ionic-live-reload-and-the-phonegap-developer-app
 ---

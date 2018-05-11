@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Whacking the CFC"
 date: "2005-11-03T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/03/Ask-a-Jedi-Whacking-the-CFC
 ---

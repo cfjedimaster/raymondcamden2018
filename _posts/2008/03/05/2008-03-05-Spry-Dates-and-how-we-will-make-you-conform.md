@@ -2,8 +2,8 @@
 layout: post
 title: "Spry, Dates, and how we will make you conform...."
 date: "2008-03-05T16:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/03/05/Spry-Dates-and-how-we-will-make-you-conform
 ---

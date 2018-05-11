@@ -2,8 +2,8 @@
 layout: post
 title: "HTML Escaper Visual Studio Code Extension"
 date: "2016-02-10"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/02/10/html-escaper-visual-studio-code-extension
 ---

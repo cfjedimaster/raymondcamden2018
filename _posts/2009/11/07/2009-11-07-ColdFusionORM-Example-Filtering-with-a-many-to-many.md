@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion/ORM Example - Filtering with a many to many"
 date: "2009-11-07T13:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/11/07/ColdFusionORM-Example-Filtering-with-a-many-to-many
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Cool (and undocumented) ColdFusion 9 Feature"
 date: "2009-08-18T22:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/18/Cool-and-undocumented-ColdFusion-9-Feature
 ---

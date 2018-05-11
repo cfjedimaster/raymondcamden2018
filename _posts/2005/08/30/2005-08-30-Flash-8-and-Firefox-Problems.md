@@ -2,8 +2,8 @@
 layout: post
 title: "Flash 8 and Firefox Problems?"
 date: "2005-08-30T18:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/30/Flash-8-and-Firefox-Problems
 ---

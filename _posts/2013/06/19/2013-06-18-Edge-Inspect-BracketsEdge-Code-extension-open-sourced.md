@@ -2,8 +2,8 @@
 layout: post
 title: "Edge Inspect Brackets/Edge Code extension open sourced"
 date: "2013-06-19T09:06:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2013/06/19/Edge-Inspect-BracketsEdge-Code-extension-open-sourced
 ---

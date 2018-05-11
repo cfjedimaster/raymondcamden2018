@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of posting videos to Brightcove"
 date: "2009-12-01T13:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/01/Quick-example-of-posting-videos-to-Brightcove
 ---

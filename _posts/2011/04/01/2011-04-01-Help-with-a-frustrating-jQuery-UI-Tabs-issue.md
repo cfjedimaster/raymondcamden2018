@@ -2,8 +2,8 @@
 layout: post
 title: "Help with a frustrating jQuery UI Tabs issue"
 date: "2011-04-01T14:04:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2011/04/01/Help-with-a-frustrating-jQuery-UI-Tabs-issue
 ---

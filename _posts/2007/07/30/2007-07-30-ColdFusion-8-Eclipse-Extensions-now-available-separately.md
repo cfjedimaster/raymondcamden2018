@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8 Eclipse Extensions now available separately!"
 date: "2007-07-30T12:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/30/ColdFusion-8-Eclipse-Extensions-now-available-separately
 ---

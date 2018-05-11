@@ -2,8 +2,8 @@
 layout: post
 title: "2 new projects up at RIAForge"
 date: "2007-09-11T23:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/11/2-new-projects-up-at-RIAForge
 ---

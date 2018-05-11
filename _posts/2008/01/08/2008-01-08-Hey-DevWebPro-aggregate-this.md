@@ -2,8 +2,8 @@
 layout: post
 title: "Hey DevWebPro, aggregate this!"
 date: "2008-01-08T20:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/01/08/Hey-DevWebPro-aggregate-this
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Don't make your mobile site a prison"
 date: "2011-07-25T15:07:00+06:00"
-categories: javascript jquery mobile 
-tags: 
+categories: [javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/07/25/Dont-make-your-mobile-site-a-prison
 ---

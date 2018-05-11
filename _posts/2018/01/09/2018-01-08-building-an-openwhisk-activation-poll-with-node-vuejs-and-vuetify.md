@@ -2,8 +2,8 @@
 layout: post
 title: "Building an OpenWhisk Activation Poll with Node, Vue.js and Vuetify"
 date: "2018-01-09"
-categories: development serverless 
-tags: javascript vuejs openwhisk nodejs
+categories: [development,serverless]
+tags: [javascript,vuejs,openwhisk,nodejs]
 banner_image: 
 permalink: /2018/01/09/building-an-openwhisk-activation-poll-with-node-vuejs-and-vuetify
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Image Processing - Shrinking an image, but not the canvas"
 date: "2008-05-20T09:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/20/ColdFusion-Image-Processing-Shrinking-an-image-but-not-the-canvas
 ---

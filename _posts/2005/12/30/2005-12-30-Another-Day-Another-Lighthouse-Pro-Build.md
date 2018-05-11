@@ -2,8 +2,8 @@
 layout: post
 title: "Another Day - Another Lighthouse Pro Build"
 date: "2005-12-30T15:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/30/Another-Day-Another-Lighthouse-Pro-Build
 ---

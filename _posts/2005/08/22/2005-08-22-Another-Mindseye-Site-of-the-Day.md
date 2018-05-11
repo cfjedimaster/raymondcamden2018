@@ -2,8 +2,8 @@
 layout: post
 title: "Another Mindseye Site of the Day"
 date: "2005-08-22T21:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/22/Another-Mindseye-Site-of-the-Day
 ---

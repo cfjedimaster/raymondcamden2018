@@ -2,8 +2,8 @@
 layout: post
 title: "Preselecting a tab via the URL in ColdFusion 8"
 date: "2007-08-08T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/08/Preselecting-a-tab-via-the-URL-in-ColdFusion-8
 ---

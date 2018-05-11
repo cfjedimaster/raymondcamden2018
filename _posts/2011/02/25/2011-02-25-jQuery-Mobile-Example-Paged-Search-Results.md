@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile Example - Paged Search Results"
 date: "2011-02-25T13:02:00+06:00"
-categories: coldfusion jquery mobile 
-tags: 
+categories: [coldfusion,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/02/25/jQuery-Mobile-Example-Paged-Search-Results
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Pointing a Raygun at Your Site"
 date: "2018-02-03"
-categories: development 
-tags: javascript
+categories: [development]
+tags: [javascript]
 banner_image: /images/banners/mitchel-boot-70005.jpg
 permalink: /2018/02/03/pointing-a-raygun-at-your-site
 ---

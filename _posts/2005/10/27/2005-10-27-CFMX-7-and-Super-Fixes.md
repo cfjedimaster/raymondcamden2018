@@ -2,8 +2,8 @@
 layout: post
 title: "CFMX 7 and Super Fixes"
 date: "2005-10-27T13:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/27/CFMX-7-and-Super-Fixes
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Norton and Short Cuts"
 date: "2006-02-03T09:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/02/03/Norton-and-Short-Cuts
 ---

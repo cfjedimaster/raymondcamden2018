@@ -2,8 +2,8 @@
 layout: post
 title: "Another followup to my Alerts post"
 date: "2007-07-31T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/31/Another-followup-to-my-Alerts-post
 ---

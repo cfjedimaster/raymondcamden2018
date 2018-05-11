@@ -2,8 +2,8 @@
 layout: post
 title: "How long ago was 1973?"
 date: "2013-04-08T08:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/04/08/How-long-ago-was-1973
 ---

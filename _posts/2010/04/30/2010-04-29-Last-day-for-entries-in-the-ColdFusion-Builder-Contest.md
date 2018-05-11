@@ -2,8 +2,8 @@
 layout: post
 title: "Last day for entries in the ColdFusion Builder Contest"
 date: "2010-04-30T10:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/04/30/Last-day-for-entries-in-the-ColdFusion-Builder-Contest
 ---

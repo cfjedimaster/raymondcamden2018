@@ -2,8 +2,8 @@
 layout: post
 title: "Special Invite to Tech Workers in Lafayette"
 date: "2005-09-05T09:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/05/Special-Invite-to-Tech-Workers-in-Lafayette
 ---

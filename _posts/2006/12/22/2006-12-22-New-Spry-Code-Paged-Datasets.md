@@ -2,8 +2,8 @@
 layout: post
 title: "New Spry Code: Paged Datasets"
 date: "2006-12-22T14:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/12/22/New-Spry-Code-Paged-Datasets
 ---

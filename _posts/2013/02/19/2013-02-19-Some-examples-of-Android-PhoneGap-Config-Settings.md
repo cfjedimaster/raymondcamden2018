@@ -2,8 +2,8 @@
 layout: post
 title: "Some examples of Android PhoneGap Config Settings"
 date: "2013-02-19T17:02:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/02/19/Some-examples-of-Android-PhoneGap-Config-Settings
 ---

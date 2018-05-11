@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Handling nulls in a chart"
 date: "2008-09-17T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/17/Ask-a-Jedi-Handling-nulls-in-a-chart
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Strategies for minimizing/customizing resources loaded by a template"
 date: "2011-02-15T13:02:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2011/02/15/Ask-a-Jedi-Strategies-for-minimizingcustomizing-resources-loaded-by-a-template
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Sample - Reading a RSS Feed"
 date: "2011-06-05T11:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/06/05/ColdFusion-Sample-Reading-a-RSS-Feed
 ---

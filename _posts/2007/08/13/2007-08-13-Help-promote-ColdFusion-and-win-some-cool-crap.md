@@ -2,8 +2,8 @@
 layout: post
 title: "Help promote ColdFusion (and win some cool crap)"
 date: "2007-08-13T22:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/13/Help-promote-ColdFusion-and-win-some-cool-crap
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Review: The Last Jedi"
 date: "2017-12-15"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: /images/2017/12/tlj.jpg
 permalink: /2017/12/15/review-the-last-jedi
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Online presentation - Working with Static Sites"
 date: "2015-06-25T10:38:39+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/06/25/online-presentation-working-with-static-sites
 ---

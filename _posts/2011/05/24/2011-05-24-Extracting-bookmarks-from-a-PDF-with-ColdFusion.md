@@ -2,8 +2,8 @@
 layout: post
 title: "Extracting bookmarks from a PDF with ColdFusion"
 date: "2011-05-24T21:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/05/24/Extracting-bookmarks-from-a-PDF-with-ColdFusion
 ---

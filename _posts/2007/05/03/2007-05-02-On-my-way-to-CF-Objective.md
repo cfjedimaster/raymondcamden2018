@@ -2,8 +2,8 @@
 layout: post
 title: "On my way to CF Objective"
 date: "2007-05-03T06:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/03/On-my-way-to-CF-Objective
 ---

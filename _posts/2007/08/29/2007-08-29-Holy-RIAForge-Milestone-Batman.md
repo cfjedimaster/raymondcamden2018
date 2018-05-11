@@ -2,8 +2,8 @@
 layout: post
 title: "Holy RIAForge Milestone, Batman!"
 date: "2007-08-29T11:08:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/08/29/Holy-RIAForge-Milestone-Batman
 ---

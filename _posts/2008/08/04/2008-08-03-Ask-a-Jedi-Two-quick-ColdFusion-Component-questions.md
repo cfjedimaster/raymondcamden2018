@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Two quick ColdFusion Component questions"
 date: "2008-08-04T07:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/04/Ask-a-Jedi-Two-quick-ColdFusion-Component-questions
 ---

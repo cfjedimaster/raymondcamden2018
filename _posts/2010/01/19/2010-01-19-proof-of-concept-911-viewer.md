@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept 911 Viewer"
 date: "2010-01-19T17:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/01/19/proof-of-concept-911-viewer
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Transfer 1.0 is Gold (in more ways than one)"
 date: "2008-06-08T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/08/Transfer-10-is-Gold-in-more-ways-than-one
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Some criticisms on Solr in ColdFusion 9"
 date: "2010-01-26T13:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/01/26/Some-criticisms-on-Solr-in-ColdFusion-9
 ---

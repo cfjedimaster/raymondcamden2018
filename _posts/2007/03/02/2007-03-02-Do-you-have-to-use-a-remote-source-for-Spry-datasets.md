@@ -2,8 +2,8 @@
 layout: post
 title: "Do you have to use a remote source for Spry datasets?"
 date: "2007-03-02T14:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/03/02/Do-you-have-to-use-a-remote-source-for-Spry-datasets
 ---

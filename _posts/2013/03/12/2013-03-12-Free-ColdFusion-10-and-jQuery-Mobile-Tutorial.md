@@ -2,8 +2,8 @@
 layout: post
 title: "Free ColdFusion 10 and jQuery Mobile Tutorial"
 date: "2013-03-12T14:03:00+06:00"
-categories: coldfusion javascript mobile 
-tags: 
+categories: [coldfusion,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/03/12/Free-ColdFusion-10-and-jQuery-Mobile-Tutorial
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Blogbeat - Blog Stats Review"
 date: "2006-03-07T18:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/03/07/Blogbeat-Blog-Stats-Review
 ---

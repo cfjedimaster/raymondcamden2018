@@ -2,8 +2,8 @@
 layout: post
 title: "Followup to CFGRID MultiRow Post"
 date: "2010-09-16T22:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/09/16/Followup-to-CFGRID-MultiRow-Post
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New ColdFusion Site: <cf>Answers.org"
 date: "2007-01-19T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/19/New-ColdFusion-Site-ltcfgtAnswersorg
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "My perspective of working with the Ionic Framework"
 date: "2014-07-28T13:07:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/28/my-perspective-of-working-with-the-ionic-framework
 ---

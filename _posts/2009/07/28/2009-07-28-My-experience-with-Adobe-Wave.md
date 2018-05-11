@@ -2,8 +2,8 @@
 layout: post
 title: "My experience with Adobe Wave"
 date: "2009-07-28T23:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/28/My-experience-with-Adobe-Wave
 ---

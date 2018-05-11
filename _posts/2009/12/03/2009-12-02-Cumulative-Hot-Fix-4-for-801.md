@@ -2,8 +2,8 @@
 layout: post
 title: "Cumulative Hot Fix 4 for 8.0.1"
 date: "2009-12-03T10:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/03/Cumulative-Hot-Fix-4-for-801
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Poison Ivy: 2, Ray: 0"
 date: "2005-09-09T15:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/09/Poison-Ivy-2-Ray-0
 ---

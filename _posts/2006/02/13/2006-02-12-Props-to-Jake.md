@@ -2,8 +2,8 @@
 layout: post
 title: "Props to Jake"
 date: "2006-02-13T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/13/Props-to-Jake
 ---

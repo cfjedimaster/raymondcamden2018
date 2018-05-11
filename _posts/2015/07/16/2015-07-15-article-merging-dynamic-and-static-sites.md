@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Merging Dynamic and Static Sites"
 date: "2015-07-16T08:01:05+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/07/16/article-merging-dynamic-and-static-sites
 ---

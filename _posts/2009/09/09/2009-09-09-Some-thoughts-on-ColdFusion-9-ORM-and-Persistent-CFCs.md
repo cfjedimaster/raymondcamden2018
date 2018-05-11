@@ -2,8 +2,8 @@
 layout: post
 title: "Some thoughts on ColdFusion 9 ORM and Persistent CFCs"
 date: "2009-09-09T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/09/Some-thoughts-on-ColdFusion-9-ORM-and-Persistent-CFCs
 ---

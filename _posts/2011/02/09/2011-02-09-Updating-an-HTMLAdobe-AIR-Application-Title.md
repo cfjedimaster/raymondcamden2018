@@ -2,8 +2,8 @@
 layout: post
 title: "Updating an HTML/Adobe AIR Application Title"
 date: "2011-02-09T18:02:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2011/02/09/Updating-an-HTMLAdobe-AIR-Application-Title
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Vue.js Version of My Random Comic Book Viewer"
 date: "2017-12-29"
-categories: development serverless 
-tags: javascript vuejs openwhisk
+categories: [development,serverless]
+tags: [javascript,vuejs,openwhisk]
 banner_image: 
 permalink: /2017/12/29/vuejs-version-of-my-random-comic-book-viewer
 ---

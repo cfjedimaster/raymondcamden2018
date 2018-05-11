@@ -2,8 +2,8 @@
 layout: post
 title: "Macrochat Archive Live on Devnet"
 date: "2005-07-12T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/12/Macrochat-Archive-Live-on-Devnet
 ---

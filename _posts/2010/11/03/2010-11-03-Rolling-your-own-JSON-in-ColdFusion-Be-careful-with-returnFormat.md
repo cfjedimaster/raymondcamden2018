@@ -2,8 +2,8 @@
 layout: post
 title: "Rolling your own JSON in ColdFusion? Be careful with returnFormat"
 date: "2010-11-03T19:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/03/Rolling-your-own-JSON-in-ColdFusion-Be-careful-with-returnFormat
 ---

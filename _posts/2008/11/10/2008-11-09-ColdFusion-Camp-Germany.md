@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Camp (Germany)"
 date: "2008-11-10T07:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/10/ColdFusion-Camp-Germany
 ---

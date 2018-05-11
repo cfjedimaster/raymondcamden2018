@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation files (and thanks)"
 date: "2009-03-12T18:03:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2009/03/12/Presentation-files-and-thanks
 ---

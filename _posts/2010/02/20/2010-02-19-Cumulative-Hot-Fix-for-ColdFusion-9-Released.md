@@ -2,8 +2,8 @@
 layout: post
 title: "Cumulative Hot Fix for ColdFusion 9 Released"
 date: "2010-02-20T10:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/20/Cumulative-Hot-Fix-for-ColdFusion-9-Released
 ---

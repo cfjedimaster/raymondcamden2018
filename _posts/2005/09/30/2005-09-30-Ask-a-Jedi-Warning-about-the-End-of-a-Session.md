@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Warning about the End of a Session"
 date: "2005-09-30T12:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/30/Ask-a-Jedi-Warning-about-the-End-of-a-Session
 ---

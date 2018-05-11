@@ -2,8 +2,8 @@
 layout: post
 title: "DS9 Rewatch Complete"
 date: "2016-03-20T12:52:00-07:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: /images/banners/ds9.jpg
 permalink: /2016/03/20/ds9-rewatch-complete
 ---

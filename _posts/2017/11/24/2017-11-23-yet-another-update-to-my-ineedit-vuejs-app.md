@@ -2,8 +2,8 @@
 layout: post
 title: "Yet Another Update to my INeedIt Vue.js App"
 date: "2017-11-24"
-categories: development 
-tags: javascript vuejs
+categories: [development]
+tags: [javascript,vuejs]
 banner_image: 
 permalink: /2017/11/24/yet-another-update-to-my-ineedit-vuejs-app
 ---

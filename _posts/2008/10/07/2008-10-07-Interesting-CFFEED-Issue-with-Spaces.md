@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting CFFEED Issue with Spaces"
 date: "2008-10-07T13:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/07/Interesting-CFFEED-Issue-with-Spaces
 ---

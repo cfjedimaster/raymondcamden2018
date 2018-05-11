@@ -2,8 +2,8 @@
 layout: post
 title: "Example of getUserMedia and CSS Filters"
 date: "2012-05-25T11:05:00+06:00"
-categories: development html5 javascript jquery 
-tags: 
+categories: [development,html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/05/25/Example-of-getUserMedia-and-CSS
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Advanced ColdFusion Contest Entry 2: BruteForce"
 date: "2006-08-29T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/29/Advanced-ColdFusion-Contest-Entry-1-BruteForce
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Adding Google Streetview to ColdFusion CFMAP"
 date: "2011-02-11T17:02:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2011/02/11/Adding-Google-Streetview-to-ColdFusion-CFMAP
 ---

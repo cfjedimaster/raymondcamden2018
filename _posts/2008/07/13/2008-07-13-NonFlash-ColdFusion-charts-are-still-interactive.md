@@ -2,8 +2,8 @@
 layout: post
 title: "Non-Flash ColdFusion charts are still interactive"
 date: "2008-07-13T23:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/13/NonFlash-ColdFusion-charts-are-still-interactive
 ---

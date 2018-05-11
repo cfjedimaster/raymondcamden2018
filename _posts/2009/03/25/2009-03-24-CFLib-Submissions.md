@@ -2,8 +2,8 @@
 layout: post
 title: "CFLib Submissions"
 date: "2009-03-25T10:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/03/25/CFLib-Submissions
 ---

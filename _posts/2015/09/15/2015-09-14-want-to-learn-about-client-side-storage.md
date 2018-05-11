@@ -2,8 +2,8 @@
 layout: post
 title: "Want to learn about client-side storage?"
 date: "2015-09-15T08:52:14+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/09/15/want-to-learn-about-client-side-storage
 ---

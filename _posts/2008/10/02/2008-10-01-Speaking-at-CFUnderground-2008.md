@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at CF_Underground 2008"
 date: "2008-10-02T07:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/10/02/Speaking-at-CFUnderground-2008
 ---

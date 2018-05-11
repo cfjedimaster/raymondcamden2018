@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Quickie - Scan and Report on Exception Logs"
 date: "2009-08-19T22:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/19/ColdFusion-Quickie-Scan-and-Report-on-Exception-Logs
 ---

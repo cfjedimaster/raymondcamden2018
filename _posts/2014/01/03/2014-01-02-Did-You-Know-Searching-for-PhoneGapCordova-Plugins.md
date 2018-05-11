@@ -2,8 +2,8 @@
 layout: post
 title: "Did You Know: Searching for PhoneGap/Cordova Plugins"
 date: "2014-01-03T10:01:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/01/03/Did-You-Know-Searching-for-PhoneGapCordova-Plugins
 ---

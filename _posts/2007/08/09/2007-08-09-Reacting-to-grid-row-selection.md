@@ -2,8 +2,8 @@
 layout: post
 title: "Reacting to grid row selection"
 date: "2007-08-09T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/09/Reacting-to-grid-row-selection
 ---

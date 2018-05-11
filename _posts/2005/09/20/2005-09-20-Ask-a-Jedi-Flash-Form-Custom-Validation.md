@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Flash Form Custom Validation"
 date: "2005-09-20T18:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/20/Ask-a-Jedi-Flash-Form-Custom-Validation
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Another night in Detroit, and some thoughts on Compuware"
 date: "2006-06-07T23:06:00+06:00"
-categories: development misc 
-tags: 
+categories: [development,misc]
+tags: []
 banner_image: 
 permalink: /2006/06/07/Another-night-in-Detroit-and-some-thoughts-on-Compuware
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Recording and Slides from jQuery Mobile presentation"
 date: "2011-12-15T08:12:00+06:00"
-categories: html5 jquery mobile 
-tags: 
+categories: [html5,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/12/15/Recording-and-Slides-from-jQuery-Mobile-presentation
 ---

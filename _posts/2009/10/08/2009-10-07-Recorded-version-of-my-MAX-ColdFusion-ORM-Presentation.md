@@ -2,8 +2,8 @@
 layout: post
 title: "Recorded version of my MAX ColdFusion ORM Presentation"
 date: "2009-10-08T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/10/08/Recorded-version-of-my-MAX-ColdFusion-ORM-Presentation
 ---

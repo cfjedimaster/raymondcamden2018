@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Code Beautifiers?"
 date: "2007-10-11T10:10:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/10/11/ColdFusion-Code-Beautifiers
 ---

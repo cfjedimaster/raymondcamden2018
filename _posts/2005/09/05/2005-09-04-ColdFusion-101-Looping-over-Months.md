@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Looping over Months"
 date: "2005-09-05T09:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/05/ColdFusion-101-Looping-over-Months
 ---

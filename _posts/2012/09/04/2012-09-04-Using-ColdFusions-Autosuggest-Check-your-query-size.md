@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion's Autosuggest? Check your query size"
 date: "2012-09-04T23:09:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/04/Using-ColdFusions-Autosuggest-Check-your-query-size
 ---

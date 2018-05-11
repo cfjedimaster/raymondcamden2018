@@ -2,8 +2,8 @@
 layout: post
 title: "New MobileFirst Slack!"
 date: "2015-09-04T10:53:50+06:00"
-categories: development mobile 
-tags: mobilefirst
+categories: [development,mobile]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2015/09/04/new-mobilefirst-slack
 ---

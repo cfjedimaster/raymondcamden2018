@@ -2,8 +2,8 @@
 layout: post
 title: "IndexedDB and Date Example"
 date: "2013-06-06T11:06:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/06/06/IndexedDB-and-Date-Example
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder on structs and bracket notation"
 date: "2006-07-05T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/05/Reminder-on-structs-and-bracket-notation
 ---

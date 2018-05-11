@@ -2,8 +2,8 @@
 layout: post
 title: "Does your form validation need to be less strict?"
 date: "2008-06-30T19:07:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/06/30/Does-your-form-validation-need-to-be-less-strict
 ---

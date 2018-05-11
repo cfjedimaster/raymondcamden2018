@@ -2,8 +2,8 @@
 layout: post
 title: "Some Notes on Windows 10 and Ubuntu"
 date: "2017-07-28T08:02:00-07:00"
-categories: development 
-tags: windows
+categories: [development]
+tags: [windows]
 banner_image: 
 permalink: /2017/07/28/some-notes-on-windows-10-and-ubuntu
 ---

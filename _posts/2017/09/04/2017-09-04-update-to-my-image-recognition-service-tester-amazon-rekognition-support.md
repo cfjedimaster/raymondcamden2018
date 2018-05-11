@@ -2,8 +2,8 @@
 layout: post
 title: "Update to My Image Recognition Service Tester - Amazon Rekognition Support"
 date: "2017-09-04T13:22:00-07:00"
-categories: javascript 
-tags: nodejs
+categories: [javascript]
+tags: [nodejs]
 banner_image: 
 permalink: /2017/09/04/update-to-my-image-recognition-service-tester-amazon-rekognition-support
 ---

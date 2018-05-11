@@ -2,8 +2,8 @@
 layout: post
 title: "Join us tomorrow for the Create the Web livestream"
 date: "2012-09-23T23:09:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2012/09/23/Join-us-tomorrow-for-the-Create-the-Web-livestream
 ---

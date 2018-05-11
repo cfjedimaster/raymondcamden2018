@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Object-Oriented JavaScript"
 date: "2010-06-15T18:06:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2010/06/15/review-objectoriented-javascript
 ---

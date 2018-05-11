@@ -2,8 +2,8 @@
 layout: post
 title: "CFBL Week 4 Numbers - Resend"
 date: "2008-02-06T09:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/02/06/CFBL-Week-4-Numbers-Resend
 ---

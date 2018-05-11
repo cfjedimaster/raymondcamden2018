@@ -2,8 +2,8 @@
 layout: post
 title: "Variable Type Gotchas - ColdFusion Lists and Empty Elements"
 date: "2007-05-02T17:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/02/Variable-Type-Gotchas-ColdFusion-Lists-and-Empty-Elements
 ---

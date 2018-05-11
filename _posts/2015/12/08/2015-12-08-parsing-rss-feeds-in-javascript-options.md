@@ -2,8 +2,8 @@
 layout: post
 title: "Parsing RSS Feeds in JavaScript - Options"
 date: "2015-12-08T16:24:50+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/12/08/parsing-rss-feeds-in-javascript-options
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Dell Update Inifinity..."
 date: "2005-08-12T11:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/12/Dell-Update-Inifinity
 ---

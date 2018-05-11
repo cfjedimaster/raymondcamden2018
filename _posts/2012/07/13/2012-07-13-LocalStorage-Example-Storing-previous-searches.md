@@ -2,8 +2,8 @@
 layout: post
 title: "LocalStorage Example: Storing previous searches"
 date: "2012-07-13T15:07:00+06:00"
-categories: coldfusion html5 javascript jquery 
-tags: 
+categories: [coldfusion,html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/07/13/LocalStorage-Example-Storing-previous-searches
 ---

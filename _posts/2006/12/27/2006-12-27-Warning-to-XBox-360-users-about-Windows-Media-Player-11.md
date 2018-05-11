@@ -2,8 +2,8 @@
 layout: post
 title: "Warning to XBox 360 users about Windows Media Player 11"
 date: "2006-12-27T23:12:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2006/12/27/Warning-to-XBox-360-users-about-Windows-Media-Player-11
 ---

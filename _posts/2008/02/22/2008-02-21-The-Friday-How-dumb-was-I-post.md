@@ -2,8 +2,8 @@
 layout: post
 title: "The Friday \"How dumb was I\" post"
 date: "2008-02-22T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/02/22/The-Friday-How-dumb-was-I-post
 ---

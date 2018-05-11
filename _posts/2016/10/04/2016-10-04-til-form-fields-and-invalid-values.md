@@ -2,8 +2,8 @@
 layout: post
 title: "TIL - Form fields and invalid values"
 date: "2016-10-04T10:23:00-07:00"
-categories: development 
-tags: html5
+categories: [development]
+tags: [html5]
 banner_image: 
 permalink: /2016/10/04/til-form-fields-and-invalid-values
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Generating XML from a CFC? Watch out for whitespace"
 date: "2007-03-05T06:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/05/Generating-XML-from-a-CFC-Watch-out-for-whitespace
 ---

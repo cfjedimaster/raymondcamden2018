@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Railsea"
 date: "2012-06-24T11:06:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2012/06/24/review-railsea
 ---

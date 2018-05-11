@@ -2,8 +2,8 @@
 layout: post
 title: "Using AJAX and Server Side Search"
 date: "2007-04-07T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/07/Using-AJAX-and-Server-Side-Search
 ---

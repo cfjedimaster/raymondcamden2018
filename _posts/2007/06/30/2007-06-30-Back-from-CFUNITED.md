@@ -2,8 +2,8 @@
 layout: post
 title: "Back from CFUNITED"
 date: "2007-06-30T23:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/06/30/Back-from-CFUNITED
 ---

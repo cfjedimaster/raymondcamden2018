@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue, Internet Explorer, and File Downloads"
 date: "2006-03-03T12:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/03/ModelGlue-Internet-Explorer-and-File-Downloads
 ---

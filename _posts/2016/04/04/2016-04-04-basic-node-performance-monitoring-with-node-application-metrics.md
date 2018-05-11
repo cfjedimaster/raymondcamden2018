@@ -2,8 +2,8 @@
 layout: post
 title: "Basic Node performance monitoring with Node Application Metrics"
 date: "2016-04-04T13:13:00-07:00"
-categories: development 
-tags: nodejs
+categories: [development]
+tags: [nodejs]
 banner_image: 
 permalink: /2016/04/04/basic-node-performance-monitoring-with-node-application-metrics
 ---

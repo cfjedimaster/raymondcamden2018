@@ -2,8 +2,8 @@
 layout: post
 title: "cfObjective Slides/Code"
 date: "2008-05-04T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/04/cfObjective-SlidesCode
 ---

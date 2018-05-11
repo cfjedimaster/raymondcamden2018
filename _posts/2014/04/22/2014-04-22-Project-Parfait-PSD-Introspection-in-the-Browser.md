@@ -2,8 +2,8 @@
 layout: post
 title: "Project Parfait - PSD Introspection in the Browser"
 date: "2014-04-22T18:04:00+06:00"
-categories: design development 
-tags: 
+categories: [design,development]
+tags: []
 banner_image: 
 permalink: /2014/04/22/Project-Parfait-PSD-Introspection-in-the-Browser
 ---

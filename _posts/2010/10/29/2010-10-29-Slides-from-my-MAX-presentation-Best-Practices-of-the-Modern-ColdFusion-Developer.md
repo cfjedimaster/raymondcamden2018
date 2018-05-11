@@ -2,8 +2,8 @@
 layout: post
 title: "Slides from my MAX presentation: Best Practices of the Modern ColdFusion Developer"
 date: "2010-10-29T15:10:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2010/10/29/Slides-from-my-MAX-presentation-Best-Practices-of-the-Modern-ColdFusion-Developer
 ---

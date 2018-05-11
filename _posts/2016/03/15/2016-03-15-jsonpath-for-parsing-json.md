@@ -2,8 +2,8 @@
 layout: post
 title: "JSONPath for parsing JSON"
 date: "2016-03-15T10:09:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2016/03/15/jsonpath-for-parsing-json
 ---

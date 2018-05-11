@@ -2,8 +2,8 @@
 layout: post
 title: "Nifty little trick with fileRead and ColdFusion 10"
 date: "2012-05-21T07:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/05/21/Nifty-little-trick-with-fileRead-and-ColdFusion-10
 ---

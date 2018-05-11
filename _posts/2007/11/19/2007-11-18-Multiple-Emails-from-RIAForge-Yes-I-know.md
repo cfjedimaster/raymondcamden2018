@@ -2,8 +2,8 @@
 layout: post
 title: "Multiple Emails from RIAForge (Yes, I know)"
 date: "2007-11-19T06:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/11/19/Multiple-Emails-from-RIAForge-Yes-I-know
 ---

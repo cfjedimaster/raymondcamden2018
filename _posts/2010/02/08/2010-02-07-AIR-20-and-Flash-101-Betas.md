@@ -2,8 +2,8 @@
 layout: post
 title: "AIR 2.0 and Flash 10.1 Betas"
 date: "2010-02-08T09:02:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2010/02/08/AIR-20-and-Flash-101-Betas
 ---

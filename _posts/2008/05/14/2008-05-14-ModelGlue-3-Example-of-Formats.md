@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue 3 - Example of Formats"
 date: "2008-05-14T13:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/14/ModelGlue-3-Example-of-Formats
 ---

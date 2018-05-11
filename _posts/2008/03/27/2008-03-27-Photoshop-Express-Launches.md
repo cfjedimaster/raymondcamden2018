@@ -2,8 +2,8 @@
 layout: post
 title: "Photoshop Express Launches"
 date: "2008-03-27T12:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/03/27/Photoshop-Express-Launches
 ---

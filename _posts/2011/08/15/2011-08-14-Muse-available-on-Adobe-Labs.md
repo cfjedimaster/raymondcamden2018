@@ -2,8 +2,8 @@
 layout: post
 title: "Muse available on Adobe Labs"
 date: "2011-08-15T07:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/08/15/Muse-available-on-Adobe-Labs
 ---

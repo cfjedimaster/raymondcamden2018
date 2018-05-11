@@ -2,8 +2,8 @@
 layout: post
 title: "Creating a JSON Feed for Hugo"
 date: "2017-05-18T11:32:00-07:00"
-categories: static sites 
-tags: hugo
+categories: [static sites]
+tags: [hugo]
 banner_image: 
 permalink: /2017/05/18/creating-a-json-feed-for-hugo
 ---

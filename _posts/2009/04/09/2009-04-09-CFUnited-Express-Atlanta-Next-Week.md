@@ -2,8 +2,8 @@
 layout: post
 title: "CFUnited Express Atlanta - Next Week"
 date: "2009-04-09T16:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/09/CFUnited-Express-Atlanta-Next-Week
 ---

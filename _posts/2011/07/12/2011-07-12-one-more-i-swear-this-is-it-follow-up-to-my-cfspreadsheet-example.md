@@ -2,8 +2,8 @@
 layout: post
 title: "One more (I swear this is it) follow up to my CFSpreadSheet Example"
 date: "2011-07-12T23:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/07/12/one-more-i-swear-this-is-it-follow-up-to-my-cfspreadsheet-example
 ---

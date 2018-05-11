@@ -2,8 +2,8 @@
 layout: post
 title: "Selecting default items using ColdFusion 8's AJAX Controls"
 date: "2007-08-07T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/07/Selecting-default-items-using-ColdFusion-8s-AJAX-Controls
 ---

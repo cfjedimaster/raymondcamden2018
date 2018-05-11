@@ -2,8 +2,8 @@
 layout: post
 title: "Webinar Tips for Presenters"
 date: "2016-03-31T08:05:00-07:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: /images/banners/webinars.jpg
 permalink: /2016/03/31/webinar-tips-for-presenters
 ---

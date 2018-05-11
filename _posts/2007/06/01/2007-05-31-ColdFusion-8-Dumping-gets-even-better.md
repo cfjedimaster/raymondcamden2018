@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Dumping gets even better"
 date: "2007-06-01T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/01/ColdFusion-8-Dumping-gets-even-better
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "I'm here (and the travel curse continues...)"
 date: "2006-10-23T18:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/23/Im-here-and-the-travel-curse-continues
 ---

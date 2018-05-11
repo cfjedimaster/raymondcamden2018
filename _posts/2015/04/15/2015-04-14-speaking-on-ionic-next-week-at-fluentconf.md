@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking on Ionic next week at FluentConf"
 date: "2015-04-15T10:35:12+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/04/15/speaking-on-ionic-next-week-at-fluentconf
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Why is my Ajax not working?"
 date: "2011-09-26T10:09:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/09/26/Why-is-my-Ajax-not-working
 ---

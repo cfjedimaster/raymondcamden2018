@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion and Security"
 date: "2006-02-15T10:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/15/ColdFusion-and-Security
 ---

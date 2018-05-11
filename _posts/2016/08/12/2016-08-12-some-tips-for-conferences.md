@@ -2,8 +2,8 @@
 layout: post
 title: "Some Tips for Conferences"
 date: "2016-08-12T13:07:00-07:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: /images/banners/ctips.jpg
 permalink: /2016/08/12/some-tips-for-conferences
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of table sorting with ColdFusion and jQuery"
 date: "2010-01-28T08:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/01/28/Quick-example-of-table-sorting-with-ColdFusion-and-jQuery
 ---

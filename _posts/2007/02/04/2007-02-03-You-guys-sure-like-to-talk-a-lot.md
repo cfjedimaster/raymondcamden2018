@@ -2,8 +2,8 @@
 layout: post
 title: "You guys sure like to talk a lot..."
 date: "2007-02-04T08:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/04/You-guys-sure-like-to-talk-a-lot
 ---

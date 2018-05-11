@@ -2,8 +2,8 @@
 layout: post
 title: "FeedBurner CFC"
 date: "2007-08-24T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/24/FeedBurner-CFC
 ---

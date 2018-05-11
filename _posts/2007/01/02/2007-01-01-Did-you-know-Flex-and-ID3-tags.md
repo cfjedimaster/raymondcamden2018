@@ -2,8 +2,8 @@
 layout: post
 title: "Did you know - Flex and ID3 tags"
 date: "2007-01-02T09:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/02/Did-you-know-Flex-and-ID3-tags
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "I've fallen in love with The Flash"
 date: "2016-10-08T13:24:00-07:00"
-categories: television 
-tags: 
+categories: [television]
+tags: []
 banner_image: /images/banners/theflash.png
 permalink: /2016/10/08/ive-fallen-in-love-with-the-flash
 ---

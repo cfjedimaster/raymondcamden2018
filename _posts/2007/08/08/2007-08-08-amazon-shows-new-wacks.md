@@ -2,8 +2,8 @@
 layout: post
 title: "Amazon shows new WACKs"
 date: "2007-08-08T12:08:00+06:00"
-categories: books coldfusion 
-tags: 
+categories: [books,coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/08/amazon-shows-new-wacks
 ---

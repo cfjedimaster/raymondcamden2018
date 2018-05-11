@@ -2,8 +2,8 @@
 layout: post
 title: "Announcing - The End of the Year ColdFusion Panel of Uber Awesomeness"
 date: "2010-11-23T18:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/23/Announcing-The-End-of-the-Year-ColdFusion-Panel-of-Uber-Awesomeness
 ---

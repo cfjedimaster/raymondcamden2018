@@ -2,8 +2,8 @@
 layout: post
 title: "Introduction to LoopBack Presentation"
 date: "2016-03-31T13:00:00-07:00"
-categories: development 
-tags: strongloop
+categories: [development]
+tags: [strongloop]
 banner_image: /images/banners/loopbak.jpg
 permalink: /2016/03/31/introduction-to-loopback-presentation
 ---

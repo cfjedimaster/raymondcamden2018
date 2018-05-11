@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue.com is down"
 date: "2006-05-31T19:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/31/ModelGluecom-is-down
 ---

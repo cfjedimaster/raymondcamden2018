@@ -2,8 +2,8 @@
 layout: post
 title: "Thoughts on Tron Legacy"
 date: "2010-12-21T00:12:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2010/12/21/Thoughts-on-Tron-Legacy
 ---

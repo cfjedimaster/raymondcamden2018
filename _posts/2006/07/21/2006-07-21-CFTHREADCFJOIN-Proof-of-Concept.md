@@ -2,8 +2,8 @@
 layout: post
 title: "CFTHREAD/CFJOIN Proof of Concept"
 date: "2006-07-21T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/21/CFTHREADCFJOIN-Proof-of-Concept
 ---

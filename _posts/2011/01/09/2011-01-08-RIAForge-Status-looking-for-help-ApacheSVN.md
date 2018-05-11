@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Status (looking for help Apache/SVN)"
 date: "2011-01-09T11:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/01/09/RIAForge-Status-looking-for-help-ApacheSVN
 ---

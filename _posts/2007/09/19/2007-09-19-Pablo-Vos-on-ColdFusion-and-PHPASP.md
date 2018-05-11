@@ -2,8 +2,8 @@
 layout: post
 title: "Pablo Vos on ColdFusion and PHP/ASP"
 date: "2007-09-19T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/19/Pablo-Vos-on-ColdFusion-and-PHPASP
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "CFDEVCON - Calling all UK ColdFusion Devs"
 date: "2006-09-21T08:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/09/21/CFDEVCON-Calling-all-UK-ColdFusion-Devs
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Responding to tab changes with CFLAYOUT"
 date: "2011-10-25T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/10/25/Responding-to-tab-changes-with-CFLAYOUT
 ---

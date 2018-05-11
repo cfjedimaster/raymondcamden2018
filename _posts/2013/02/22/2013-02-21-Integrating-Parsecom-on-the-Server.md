@@ -2,8 +2,8 @@
 layout: post
 title: "Integrating Parse.com on the Server"
 date: "2013-02-22T10:02:00+06:00"
-categories: coldfusion development mobile 
-tags: 
+categories: [coldfusion,development,mobile]
+tags: []
 banner_image: 
 permalink: /2013/02/22/Integrating-Parsecom-on-the-Server
 ---

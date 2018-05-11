@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap RSS Reader"
 date: "2011-10-11T16:10:00+06:00"
-categories: html5 javascript jquery mobile 
-tags: 
+categories: [html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/10/11/PhoneGap-RSS-Reader
 ---

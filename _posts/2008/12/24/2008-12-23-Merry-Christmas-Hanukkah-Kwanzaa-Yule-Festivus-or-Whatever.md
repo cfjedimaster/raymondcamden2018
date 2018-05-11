@@ -2,8 +2,8 @@
 layout: post
 title: "Merry Christmas, Hanukkah, Kwanzaa, Yule, Festivus, or Whatever"
 date: "2008-12-24T08:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/24/Merry-Christmas-Hanukkah-Kwanzaa-Yule-Festivus-or-Whatever
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "DefinitelyTyped project for IBM MobileFirst and Hybrid Mobile Apps"
 date: "2016-01-19T10:48:55+06:00"
-categories: development javascript mobile 
-tags: mobilefirst
+categories: [development,javascript,mobile]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2016/01/19/definitelytyped-project-for-ibm-mobilefirst-and-hybrid-mobile-apps
 ---

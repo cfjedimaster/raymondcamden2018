@@ -2,8 +2,8 @@
 layout: post
 title: "Call to BlogCFC Users"
 date: "2005-10-26T15:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/10/26/Call-to-BlogCFC-Users
 ---

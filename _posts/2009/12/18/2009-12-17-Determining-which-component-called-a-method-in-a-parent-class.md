@@ -2,8 +2,8 @@
 layout: post
 title: "Determining which component called a method in a parent class"
 date: "2009-12-18T07:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/18/Determining-which-component-called-a-method-in-a-parent-class
 ---

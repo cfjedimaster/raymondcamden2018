@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Working with Intl"
 date: "2014-05-13T13:05:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2014/05/13/Article-Working-with-Intl
 ---

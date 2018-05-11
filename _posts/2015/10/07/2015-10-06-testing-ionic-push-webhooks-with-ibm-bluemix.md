@@ -2,8 +2,8 @@
 layout: post
 title: "Testing Ionic Push Webhooks with IBM Bluemix"
 date: "2015-10-07T09:45:33+06:00"
-categories: development javascript mobile 
-tags: bluemix ionic
+categories: [development,javascript,mobile]
+tags: [bluemix,ionic]
 banner_image: 
 permalink: /2015/10/07/testing-ionic-push-webhooks-with-ibm-bluemix
 ---

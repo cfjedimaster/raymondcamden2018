@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion and Pagination - Part 2"
 date: "2006-04-26T07:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/26/ColdFusion-and-Pagination-Part-2
 ---

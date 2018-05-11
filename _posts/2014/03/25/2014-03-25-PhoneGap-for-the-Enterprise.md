@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap for the Enterprise"
 date: "2014-03-25T18:03:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/03/25/PhoneGap-for-the-Enterprise
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Some ColdFusionBloggers.org Guidelines"
 date: "2010-07-30T11:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/07/30/Some-ColdFusionBloggersorg-Guidelines
 ---

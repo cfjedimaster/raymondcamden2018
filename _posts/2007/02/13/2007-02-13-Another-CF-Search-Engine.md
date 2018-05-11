@@ -2,8 +2,8 @@
 layout: post
 title: "Another CF Search Engine"
 date: "2007-02-13T15:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/13/Another-CF-Search-Engine
 ---

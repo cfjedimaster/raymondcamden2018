@@ -2,8 +2,8 @@
 layout: post
 title: "Have a ColdFusion Job? Need a ColdFusion Job?"
 date: "2005-09-27T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/27/Have-a-Job-Need-a-Job
 ---

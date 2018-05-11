@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Opening a new window from a Flash Form"
 date: "2005-09-12T19:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/12/Ask-a-Jedi-Opening-a-new-window-from-a-Flash-Form
 ---

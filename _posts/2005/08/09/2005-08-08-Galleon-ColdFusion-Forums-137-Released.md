@@ -2,8 +2,8 @@
 layout: post
 title: "Galleon ColdFusion Forums 1.3.7 Released"
 date: "2005-08-09T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/09/Galleon-ColdFusion-Forums-137-Released
 ---

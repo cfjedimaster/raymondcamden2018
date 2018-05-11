@@ -2,8 +2,8 @@
 layout: post
 title: "Morbid Question for Tech Workers"
 date: "2005-11-11T09:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/11/11/Morbid-Question-for-Tech-Workers
 ---

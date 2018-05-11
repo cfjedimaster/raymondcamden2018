@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Flickr Group"
 date: "2006-10-22T14:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/22/MAX-Flickr-Group
 ---

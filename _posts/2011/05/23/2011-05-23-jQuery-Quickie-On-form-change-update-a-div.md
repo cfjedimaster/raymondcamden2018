@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Quickie: On form change update a div"
 date: "2011-05-23T14:05:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2011/05/23/jQuery-Quickie-On-form-change-update-a-div
 ---

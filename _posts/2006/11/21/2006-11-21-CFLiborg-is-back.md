@@ -2,8 +2,8 @@
 layout: post
 title: "CFLib.org is back"
 date: "2006-11-21T23:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/21/CFLiborg-is-back
 ---

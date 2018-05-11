@@ -2,8 +2,8 @@
 layout: post
 title: "Aptana adds AIR Support"
 date: "2007-06-12T10:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/06/12/Aptana-adds-AIR-Support
 ---

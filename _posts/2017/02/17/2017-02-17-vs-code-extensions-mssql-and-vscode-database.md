@@ -2,8 +2,8 @@
 layout: post
 title: "VS Code Extensions: mssql and vscode-database"
 date: "2017-02-17T16:18:00-07:00"
-categories: development 
-tags: visual studio code
+categories: [development]
+tags: [visual studio code]
 banner_image: /images/banners/vsc_ext.jpg
 permalink: /2017/02/17/vs-code-extensions-mssql-and-vscode-database
 ---

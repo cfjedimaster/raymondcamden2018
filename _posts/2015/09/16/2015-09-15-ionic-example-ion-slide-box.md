@@ -2,8 +2,8 @@
 layout: post
 title: "Ionic Example: ion-slide-box"
 date: "2015-09-16T10:58:20+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/09/16/ionic-example-ion-slide-box
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: cfinvoke and createObject"
 date: "2007-04-15T16:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/15/Ask-a-Jedi-cfinvoke-and-createObject
 ---

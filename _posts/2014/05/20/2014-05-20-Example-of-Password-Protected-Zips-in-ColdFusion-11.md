@@ -2,8 +2,8 @@
 layout: post
 title: "Example of Password Protected Zips in ColdFusion 11"
 date: "2014-05-20T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/05/20/Example-of-Password-Protected-Zips-in-ColdFusion-11
 ---

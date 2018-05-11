@@ -2,8 +2,8 @@
 layout: post
 title: "Building an AIR Spy Application"
 date: "2009-10-27T22:10:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2009/10/27/Building-an-AIR-Spy-Application
 ---

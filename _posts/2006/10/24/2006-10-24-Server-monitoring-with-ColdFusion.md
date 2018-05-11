@@ -2,8 +2,8 @@
 layout: post
 title: "Server monitoring with ColdFusion"
 date: "2006-10-24T18:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/24/Server-monitoring-with-ColdFusion
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - Catholic University"
 date: "2012-10-29T11:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/10/29/ColdFusion-Job-Opening-Catholic-University
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Small \"policy\" change for this blog"
 date: "2010-11-22T14:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/11/22/Small-policy-change-for-this-blog
 ---

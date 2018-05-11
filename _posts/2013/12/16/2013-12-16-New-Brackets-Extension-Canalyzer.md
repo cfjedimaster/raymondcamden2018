@@ -2,8 +2,8 @@
 layout: post
 title: "New Brackets Extension - Canalyzer!"
 date: "2013-12-16T16:12:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/12/16/New-Brackets-Extension-Canalyzer
 ---

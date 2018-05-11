@@ -2,8 +2,8 @@
 layout: post
 title: "Translation via Google"
 date: "2008-10-13T22:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/13/Translation-via-Google
 ---

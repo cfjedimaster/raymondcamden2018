@@ -2,8 +2,8 @@
 layout: post
 title: "Ripple is Reborn (Again!)"
 date: "2015-09-02T08:54:58+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/09/02/ripple-is-reborn-again
 ---

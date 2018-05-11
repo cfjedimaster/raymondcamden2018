@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting PhoneGap/Android crash"
 date: "2012-03-01T17:03:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2012/03/01/Interesting-PhoneGapAndroid-crash
 ---

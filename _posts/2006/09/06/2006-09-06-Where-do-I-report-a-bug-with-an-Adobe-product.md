@@ -2,8 +2,8 @@
 layout: post
 title: "Where do I report a bug with an Adobe product?"
 date: "2006-09-06T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/09/06/Where-do-I-report-a-bug-with-an-Adobe-product
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Recording and Assets from WebSockets Presentation"
 date: "2012-06-06T12:06:00+06:00"
-categories: coldfusion html5 javascript 
-tags: 
+categories: [coldfusion,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/06/06/Recording-and-Assets-from-WebSockets-Presentation
 ---

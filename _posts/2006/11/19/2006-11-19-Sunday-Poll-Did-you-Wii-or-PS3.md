@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday Poll: Did you Wii or PS3?"
 date: "2006-11-19T16:11:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2006/11/19/Sunday-Poll-Did-you-Wii-or-PS3
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Handling Errors in OpenWhisk Sequences with a Combinator"
 date: "2017-05-26T09:04:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/05/26/handling-errors-in-openwhisk-sequences-with-a-combinator
 ---

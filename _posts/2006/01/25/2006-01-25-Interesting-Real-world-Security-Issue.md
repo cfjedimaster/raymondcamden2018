@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting (Real world) Security Issue"
 date: "2006-01-25T12:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/25/Interesting-Real-world-Security-Issue
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Adding a real time component to your Flex application"
 date: "2011-05-23T23:05:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/05/23/Adding-a-real-time-component-to-your-Flex-application
 ---

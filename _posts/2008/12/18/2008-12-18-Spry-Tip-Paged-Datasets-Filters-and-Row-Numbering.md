@@ -2,8 +2,8 @@
 layout: post
 title: "Spry Tip - Paged Datasets, Filters, and Row Numbering"
 date: "2008-12-18T13:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/18/Spry-Tip-Paged-Datasets-Filters-and-Row-Numbering
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Review: REST Web APIs: The Book"
 date: "2015-08-02T09:34:35+06:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: 
 permalink: /2015/08/02/review-rest-web-apis-the-book
 ---

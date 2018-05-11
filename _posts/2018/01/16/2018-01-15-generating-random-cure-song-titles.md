@@ -2,8 +2,8 @@
 layout: post
 title: "Generating Random Cure Song Titles with Markov Chain"
 date: "2018-01-16"
-categories: development 
-tags: javascript
+categories: [development]
+tags: [javascript]
 banner_image: 
 permalink: /2018/01/16/generating-random-cure-song-titles
 ---

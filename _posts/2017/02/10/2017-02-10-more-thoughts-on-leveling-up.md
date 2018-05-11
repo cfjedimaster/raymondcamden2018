@@ -2,8 +2,8 @@
 layout: post
 title: "More Thoughts on Leveling Up"
 date: "2017-02-10T09:24:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: /images/banners/level_up.jpg
 permalink: /2017/02/10/more-thoughts-on-leveling-up
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile Alpha 4 Released (plus jQuery core update!)"
 date: "2011-03-31T23:04:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2011/03/31/jQuery-Mobile-Alpha-4-Released-plus-jQuery-core-update
 ---

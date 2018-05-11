@@ -2,8 +2,8 @@
 layout: post
 title: "Girly man geek helps jock get on MTV"
 date: "2007-07-02T13:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/07/02/Girly-man-geek-helps-jock-get-on-MTV
 ---

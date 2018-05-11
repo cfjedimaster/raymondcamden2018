@@ -2,8 +2,8 @@
 layout: post
 title: "I Heart Amazon Referrals"
 date: "2009-05-01T15:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/05/01/I-Heart-Amazon-Referrals
 ---

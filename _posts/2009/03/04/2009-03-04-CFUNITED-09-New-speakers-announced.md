@@ -2,8 +2,8 @@
 layout: post
 title: "CFUNITED 09 - New speakers announced"
 date: "2009-03-04T17:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/03/04/CFUNITED-09-New-speakers-announced
 ---

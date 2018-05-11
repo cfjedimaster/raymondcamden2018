@@ -2,8 +2,8 @@
 layout: post
 title: "Having trouble with too many map markers and CFMAP?"
 date: "2009-12-15T21:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/15/Having-trouble-with-too-many-map-markers-and-CFMAP
 ---

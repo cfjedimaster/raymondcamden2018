@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - SignUpGenius.com"
 date: "2013-06-28T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/06/28/ColdFusion-Job-Opening-SignUpGeniuscom
 ---

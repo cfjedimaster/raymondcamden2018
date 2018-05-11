@@ -2,8 +2,8 @@
 layout: post
 title: "Check out Happy Metrix (again)"
 date: "2015-01-06T11:54:34+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2015/01/06/check-out-happy-metrix-again
 ---

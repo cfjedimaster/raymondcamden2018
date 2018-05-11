@@ -2,8 +2,8 @@
 layout: post
 title: "Parse.com - dynamic data storage for mobile"
 date: "2012-01-03T13:01:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/03/Parsecom-dynamic-data-storage-for-mobile
 ---

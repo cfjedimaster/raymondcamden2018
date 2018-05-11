@@ -2,8 +2,8 @@
 layout: post
 title: "Transfer Query - From Phrase to AND Search"
 date: "2008-09-23T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/23/Transfer-Query-From-Phrase-to-AND-Search
 ---

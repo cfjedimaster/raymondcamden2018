@@ -2,8 +2,8 @@
 layout: post
 title: "IndexedDB on iOS 8 - Broken Bad"
 date: "2014-09-25T10:09:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/09/25/IndexedDB-on-iOS-8-Broken-Bad
 ---

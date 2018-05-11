@@ -2,8 +2,8 @@
 layout: post
 title: "Battlestar Galactica Season 3"
 date: "2006-10-07T13:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/07/Battlestar-Galactica-Season-3
 ---

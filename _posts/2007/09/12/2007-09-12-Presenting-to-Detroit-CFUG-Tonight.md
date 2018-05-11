@@ -2,8 +2,8 @@
 layout: post
 title: "Presenting to Detroit CFUG Tonight"
 date: "2007-09-12T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/12/Presenting-to-Detroit-CFUG-Tonight
 ---

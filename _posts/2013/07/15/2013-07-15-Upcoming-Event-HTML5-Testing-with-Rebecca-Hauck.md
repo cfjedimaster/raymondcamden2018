@@ -2,8 +2,8 @@
 layout: post
 title: "Upcoming Event: HTML5 Testing with Rebecca Hauck"
 date: "2013-07-15T17:07:00+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2013/07/15/Upcoming-Event-HTML5-Testing-with-Rebecca-Hauck
 ---

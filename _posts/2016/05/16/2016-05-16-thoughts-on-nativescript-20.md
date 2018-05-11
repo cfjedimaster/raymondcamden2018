@@ -2,8 +2,8 @@
 layout: post
 title: "Thoughts on NativeScript 2.0"
 date: "2016-05-16T09:55:00-07:00"
-categories: development mobile 
-tags: nativescript
+categories: [development,mobile]
+tags: [nativescript]
 banner_image: 
 permalink: /2016/05/16/thoughts-on-nativescript-20
 ---

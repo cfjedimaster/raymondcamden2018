@@ -2,8 +2,8 @@
 layout: post
 title: "New Option for Android Testing - Genymotion on Demand"
 date: "2017-03-09T08:54:00-07:00"
-categories: development mobile 
-tags: cordova
+categories: [development,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2017/03/09/new-option-for-android-testing-genymotion-on-demand
 ---

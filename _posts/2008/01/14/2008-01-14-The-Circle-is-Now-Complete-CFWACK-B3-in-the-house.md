@@ -2,8 +2,8 @@
 layout: post
 title: "The Circle is Now Complete - CFWACK B3 in the house..."
 date: "2008-01-14T17:01:00+06:00"
-categories: books coldfusion 
-tags: 
+categories: [books,coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/14/The-Circle-is-Now-Complete-CFWACK-B3-in-the-house
 ---

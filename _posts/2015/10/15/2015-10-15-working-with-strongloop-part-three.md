@@ -2,8 +2,8 @@
 layout: post
 title: "Working with StrongLoop (Part Three)"
 date: "2015-10-15T12:23:24+06:00"
-categories: development javascript 
-tags: strongloop
+categories: [development,javascript]
+tags: [strongloop]
 banner_image: 
 permalink: /2015/10/15/working-with-strongloop-part-three
 ---

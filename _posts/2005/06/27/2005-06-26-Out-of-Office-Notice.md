@@ -2,8 +2,8 @@
 layout: post
 title: "Out of Office Notice..."
 date: "2005-06-27T11:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/06/27/Out-of-Office-Notice
 ---

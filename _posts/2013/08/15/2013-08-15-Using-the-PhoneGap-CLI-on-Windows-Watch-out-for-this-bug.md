@@ -2,8 +2,8 @@
 layout: post
 title: "Using the PhoneGap CLI on Windows? Watch out for this bug."
 date: "2013-08-15T19:08:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/08/15/Using-the-PhoneGap-CLI-on-Windows-Watch-out-for-this-bug
 ---

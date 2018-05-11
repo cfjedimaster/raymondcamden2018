@@ -2,8 +2,8 @@
 layout: post
 title: "Source code for ColdFusionBloggers"
 date: "2011-03-18T18:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/18/Source-code-for-ColdFusionBloggers
 ---

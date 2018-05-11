@@ -2,8 +2,8 @@
 layout: post
 title: "Quick ColdFusion/jQuery Google Ajax Language Example"
 date: "2009-10-26T08:10:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/10/26/Quick-ColdFusionjQuery-Google-Ajax-Language-Example
 ---

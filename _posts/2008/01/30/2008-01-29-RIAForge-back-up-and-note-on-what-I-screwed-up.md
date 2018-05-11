@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge back up (and note on what I screwed up)"
 date: "2008-01-30T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/30/RIAForge-back-up-and-note-on-what-I-screwed-up
 ---

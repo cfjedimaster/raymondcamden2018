@@ -2,8 +2,8 @@
 layout: post
 title: "Displaying Google Street View images"
 date: "2016-02-13"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: /images/banners/map.jpg
 permalink: /2016/02/13/displaying-google-street-view-images
 ---

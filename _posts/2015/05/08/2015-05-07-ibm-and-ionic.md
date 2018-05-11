@@ -2,8 +2,8 @@
 layout: post
 title: "IBM and Ionic"
 date: "2015-05-08T09:15:55+06:00"
-categories: development mobile 
-tags: ionic mobilefirst
+categories: [development,mobile]
+tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/05/08/ibm-and-ionic
 ---

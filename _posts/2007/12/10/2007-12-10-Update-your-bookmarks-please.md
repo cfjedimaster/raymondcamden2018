@@ -2,8 +2,8 @@
 layout: post
 title: "Update your bookmarks please"
 date: "2007-12-10T13:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/12/10/Update-your-bookmarks-please
 ---

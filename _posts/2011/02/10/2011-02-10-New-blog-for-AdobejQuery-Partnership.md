@@ -2,8 +2,8 @@
 layout: post
 title: "New blog for Adobe/jQuery Partnership"
 date: "2011-02-10T17:02:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2011/02/10/New-blog-for-AdobejQuery-Partnership
 ---

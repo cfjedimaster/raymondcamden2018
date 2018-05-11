@@ -2,8 +2,8 @@
 layout: post
 title: "Google+ Sign-In and ColdFusion"
 date: "2014-02-20T22:02:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2014/02/20/Google-SignIn-and-ColdFusion
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Is it cold in here or is it just me? ColdFire RC1 Released"
 date: "2007-03-13T12:03:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/03/13/Is-it-cold-in-here-or-is-it-just-me-ColdFire-RC1-Released
 ---

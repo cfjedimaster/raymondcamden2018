@@ -2,8 +2,8 @@
 layout: post
 title: "Ray's Adventures in Model-Glue Land"
 date: "2005-07-21T08:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/07/21/Rays-Adventures-in-ModelGlue-Land
 ---

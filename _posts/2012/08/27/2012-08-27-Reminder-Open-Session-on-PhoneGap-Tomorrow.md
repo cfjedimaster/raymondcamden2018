@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - Open Session on PhoneGap Tomorrow!"
 date: "2012-08-27T17:08:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/08/27/Reminder-Open-Session-on-PhoneGap-Tomorrow
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Important note about ColdFusion 11 and CFHTTP"
 date: "2014-05-22T12:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/05/22/Important-note-about-ColdFusion-11-and-CFHTTP
 ---

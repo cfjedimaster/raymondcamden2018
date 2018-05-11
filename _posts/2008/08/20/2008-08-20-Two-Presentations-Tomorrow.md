@@ -2,8 +2,8 @@
 layout: post
 title: "Two Presentations Tomorrow"
 date: "2008-08-20T18:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/20/Two-Presentations-Tomorrow
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Article on Spry HTML Datasets and DWCS4"
 date: "2009-01-26T22:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2009/01/26/Article-on-Spry-HTML-Datasets-and-DWCS4
 ---

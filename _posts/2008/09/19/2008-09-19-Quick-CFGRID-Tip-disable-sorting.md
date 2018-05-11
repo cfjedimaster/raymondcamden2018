@@ -2,8 +2,8 @@
 layout: post
 title: "Quick CFGRID Tip - disable sorting"
 date: "2008-09-19T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/19/Quick-CFGRID-Tip-disable-sorting
 ---

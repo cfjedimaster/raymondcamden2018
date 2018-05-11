@@ -2,8 +2,8 @@
 layout: post
 title: "XCode \"forgets\" frameworks and bundles after a restart"
 date: "2014-06-25T11:06:00+06:00"
-categories: development misc 
-tags: 
+categories: [development,misc]
+tags: []
 banner_image: 
 permalink: /2014/06/25/XCode-forgets-frameworks-and-bundles-after-a-restart
 ---

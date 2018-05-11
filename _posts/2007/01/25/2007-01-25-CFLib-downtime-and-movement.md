@@ -2,8 +2,8 @@
 layout: post
 title: "CFLib downtime and movement..."
 date: "2007-01-25T17:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/01/25/CFLib-downtime-and-movement
 ---

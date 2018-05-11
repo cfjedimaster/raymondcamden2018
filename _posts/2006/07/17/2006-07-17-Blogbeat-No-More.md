@@ -2,8 +2,8 @@
 layout: post
 title: "Blogbeat No More..."
 date: "2006-07-17T14:07:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/07/17/Blogbeat-No-More
 ---

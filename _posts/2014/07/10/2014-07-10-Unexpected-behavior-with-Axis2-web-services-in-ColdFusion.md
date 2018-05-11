@@ -2,8 +2,8 @@
 layout: post
 title: "Unexpected behavior with Axis2 web services in ColdFusion"
 date: "2014-07-10T12:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/07/10/Unexpected-behavior-with-Axis2-web-services-in-ColdFusion
 ---

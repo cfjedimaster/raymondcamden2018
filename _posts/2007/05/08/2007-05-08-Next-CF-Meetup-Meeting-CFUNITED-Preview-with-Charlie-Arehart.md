@@ -2,8 +2,8 @@
 layout: post
 title: "Next CF Meetup Meeting - CFUNITED Preview with Charlie Arehart"
 date: "2007-05-08T17:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/08/Next-CF-Meetup-Meeting-CFUNITED-Preview-with-Charlie-Arehart
 ---

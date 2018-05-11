@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: Finding a meeting time"
 date: "2006-06-16T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/16/Friday-Puzzler-Finding-a-meeting-time
 ---

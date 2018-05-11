@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: What's up with \"CFIDE\"? (And some cool Allaire history to boot!)"
 date: "2005-11-08T11:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/08/Ask-a-Jedi-Whats-up-with-CFIDE-And-some-cool-Allaire-history-to-boot
 ---

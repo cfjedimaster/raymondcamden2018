@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of the Google Analytics Embed API"
 date: "2015-06-10T13:31:36+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/06/10/quick-example-of-the-google-analytics-embed-api
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday OT Post: Tomb Raider"
 date: "2013-03-24T11:03:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2013/03/24/sunday-ot-post-tomb-raider
 ---

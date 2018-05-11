@@ -2,8 +2,8 @@
 layout: post
 title: "Change ColdFusion Builder's Icon"
 date: "2010-02-22T12:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/22/Change-ColdFusion-Builders-Icon
 ---

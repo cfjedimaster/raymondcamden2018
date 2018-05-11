@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Handling a recurring billing date"
 date: "2010-02-09T18:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/09/Ask-a-Jedi-Handling-a-recurring-billing-date
 ---

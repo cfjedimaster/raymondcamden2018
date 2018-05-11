@@ -2,8 +2,8 @@
 layout: post
 title: "Somewhat lame iOS Cordova debugging tip"
 date: "2014-02-17T14:02:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/02/17/Somewhat-lame-iOS-Cordova-debugging-tip
 ---

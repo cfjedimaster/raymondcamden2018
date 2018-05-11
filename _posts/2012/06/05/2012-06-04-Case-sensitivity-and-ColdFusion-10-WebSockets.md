@@ -2,8 +2,8 @@
 layout: post
 title: "Case sensitivity and ColdFusion 10 WebSockets"
 date: "2012-06-05T10:06:00+06:00"
-categories: coldfusion html5 javascript 
-tags: 
+categories: [coldfusion,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/06/05/Case-sensitivity-and-ColdFusion-10-WebSockets
 ---

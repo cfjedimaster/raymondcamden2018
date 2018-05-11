@@ -2,8 +2,8 @@
 layout: post
 title: "Quick tip for Cordova and the Browser platform - Setting a custom port"
 date: "2015-10-22T09:10:44+06:00"
-categories: development mobile 
-tags: cordova
+categories: [development,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2015/10/22/quick-tip-for-cordova-and-the-browser-platform
 ---

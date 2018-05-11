@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Day One - and why Brian Rinaldi is my hero"
 date: "2008-11-18T11:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/11/18/MAX-Day-One-and-why-Brian-Rinaldi-is-my-hero
 ---

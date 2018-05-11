@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Portal Update"
 date: "2006-08-15T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/15/ColdFusion-Portal-Update
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Mr. Camden goes to Washington"
 date: "2008-06-17T14:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/06/17/Mr-Camden-goes-to-Washington
 ---

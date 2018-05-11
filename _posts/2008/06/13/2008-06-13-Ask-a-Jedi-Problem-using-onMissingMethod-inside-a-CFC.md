@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Problem using onMissingMethod inside a CFC"
 date: "2008-06-13T11:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/13/Ask-a-Jedi-Problem-using-onMissingMethod-inside-a-CFC
 ---

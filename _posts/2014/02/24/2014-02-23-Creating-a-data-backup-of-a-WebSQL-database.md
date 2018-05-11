@@ -2,8 +2,8 @@
 layout: post
 title: "Creating a data backup of a WebSQL database"
 date: "2014-02-24T10:02:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/02/24/Creating-a-data-backup-of-a-WebSQL-database
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Modifying a search to enable OR/AND style matches"
 date: "2010-02-15T13:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/15/Modifying-a-search-to-enable-ORAND-style-matches
 ---

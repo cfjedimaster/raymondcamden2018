@@ -2,8 +2,8 @@
 layout: post
 title: "FYI - iOS, JavaScript, and inactive tabs"
 date: "2013-01-20T17:01:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/01/20/FYI-iOS-JavaScript-and-inactive-tabs
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe Developer Week"
 date: "2008-03-19T21:03:00+06:00"
-categories: coldfusion development flex 
-tags: 
+categories: [coldfusion,development,flex]
+tags: []
 banner_image: 
 permalink: /2008/03/19/Adobe-Developer-Week
 ---

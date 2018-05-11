@@ -2,8 +2,8 @@
 layout: post
 title: "Curious about Edge Inspect?"
 date: "2012-10-24T10:10:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/10/24/Curious-about-Edge-Inspect
 ---

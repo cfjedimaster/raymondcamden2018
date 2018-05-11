@@ -2,8 +2,8 @@
 layout: post
 title: "Handling CFDIV's resizes"
 date: "2009-01-06T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/01/06/Handling-CFDIVs-resizes
 ---

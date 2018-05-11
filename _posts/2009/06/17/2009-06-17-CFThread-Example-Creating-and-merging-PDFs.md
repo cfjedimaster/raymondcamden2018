@@ -2,8 +2,8 @@
 layout: post
 title: "CFThread Example - Creating and merging PDFs"
 date: "2009-06-17T21:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/06/17/CFThread-Example-Creating-and-merging-PDFs
 ---

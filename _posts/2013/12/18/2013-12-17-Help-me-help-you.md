@@ -2,8 +2,8 @@
 layout: post
 title: "Help me help you..."
 date: "2013-12-18T10:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/12/18/Help-me-help-you
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Exploring CFDUMP, AKA an Ode to Dump"
 date: "2011-03-24T23:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/24/Exploring-CFDUMP-AKA-an-Ode-to-Dump
 ---

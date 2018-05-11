@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: What do I need to know to learn ColdFusion?"
 date: "2006-04-11T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/11/Ask-a-Jedi-What-do-I-need-to-know-to-learn-ColdFusion
 ---

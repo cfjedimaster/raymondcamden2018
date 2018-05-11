@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using ColdFusion Image functions and ImageUtils to create dynamic banners"
 date: "2010-05-19T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/05/19/Ask-a-Jedi-Using-ColdFusion-Image-functions-and-ImageUtils-to-create-dynamic-banners
 ---

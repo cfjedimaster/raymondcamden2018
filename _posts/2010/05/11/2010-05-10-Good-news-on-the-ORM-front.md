@@ -2,8 +2,8 @@
 layout: post
 title: "Good news on the ORM front"
 date: "2010-05-11T08:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/05/11/Good-news-on-the-ORM-front
 ---

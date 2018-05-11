@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Koans"
 date: "2012-01-23T10:01:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2012/01/23/ColdFusion-Koans
 ---

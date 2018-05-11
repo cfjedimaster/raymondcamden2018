@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation from Frameworks Conference Posted"
 date: "2007-05-14T13:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/14/Presentation-from-Frameworks-Conference-Posted
 ---

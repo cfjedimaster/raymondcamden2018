@@ -2,8 +2,8 @@
 layout: post
 title: "Drag and drop image matching search at Behance"
 date: "2013-10-18T13:10:00+06:00"
-categories: design html5 javascript 
-tags: 
+categories: [design,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/10/18/Drag-and-drop-image-matching-search-at-Behance
 ---

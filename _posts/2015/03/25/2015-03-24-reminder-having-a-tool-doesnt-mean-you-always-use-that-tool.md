@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - Having a tool doesn't mean you always use that tool..."
 date: "2015-03-25T10:24:19+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/03/25/reminder-having-a-tool-doesnt-mean-you-always-use-that-tool
 ---

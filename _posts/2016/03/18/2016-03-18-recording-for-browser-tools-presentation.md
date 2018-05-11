@@ -2,8 +2,8 @@
 layout: post
 title: "Recording for Browser Tools Presentation"
 date: "2016-03-18T07:51:00-07:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: /images/banners/usingbrowsertool.jpg
 permalink: /2016/03/18/recording-for-browser-tools-presentation
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday OT: Rise of the Runelords"
 date: "2015-03-01T08:44:36+06:00"
-categories: games 
-tags: 
+categories: [games]
+tags: []
 banner_image: 
 permalink: /2015/03/01/sunday-ot-rise-of-the-runelords
 ---

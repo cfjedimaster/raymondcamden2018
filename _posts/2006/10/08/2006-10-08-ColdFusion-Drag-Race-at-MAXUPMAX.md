@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Drag Race at MAXUP/MAX"
 date: "2006-10-08T11:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/08/ColdFusion-Drag-Race-at-MAXUPMAX
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi - Issue with single quotes in a query"
 date: "2007-10-05T13:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/05/Ask-a-Jedi-Issue-with-single-quotes-in-a-query
 ---

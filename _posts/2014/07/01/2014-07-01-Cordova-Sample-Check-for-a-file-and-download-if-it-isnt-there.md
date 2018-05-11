@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova Sample: Check for a file and download if it isn't there"
 date: "2014-07-01T12:07:00+06:00"
-categories: html5 mobile 
-tags: 
+categories: [html5,mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/01/Cordova-Sample-Check-for-a-file-and-download-if-it-isnt-there
 ---

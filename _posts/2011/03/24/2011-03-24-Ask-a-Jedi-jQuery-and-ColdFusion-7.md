@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: jQuery and ColdFusion 7"
 date: "2011-03-24T17:03:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2011/03/24/Ask-a-Jedi-jQuery-and-ColdFusion-7
 ---

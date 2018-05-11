@@ -2,8 +2,8 @@
 layout: post
 title: "Using the Gamepad API"
 date: "2014-06-20T16:06:00+06:00"
-categories: games html5 javascript 
-tags: 
+categories: [games,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/06/20/Using-the-Gamepad-API
 ---

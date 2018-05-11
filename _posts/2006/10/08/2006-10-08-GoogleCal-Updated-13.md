@@ -2,8 +2,8 @@
 layout: post
 title: "GoogleCal Updated (1.3)"
 date: "2006-10-08T22:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/08/GoogleCal-Updated-13
 ---

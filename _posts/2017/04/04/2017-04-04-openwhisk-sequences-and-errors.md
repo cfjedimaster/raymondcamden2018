@@ -2,8 +2,8 @@
 layout: post
 title: "OpenWhisk Sequences and Errors"
 date: "2017-04-04T09:54:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/04/04/openwhisk-sequences-and-errors
 ---

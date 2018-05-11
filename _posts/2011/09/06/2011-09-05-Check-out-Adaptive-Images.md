@@ -2,8 +2,8 @@
 layout: post
 title: "Check out Adaptive Images"
 date: "2011-09-06T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/09/06/Check-out-Adaptive-Images
 ---

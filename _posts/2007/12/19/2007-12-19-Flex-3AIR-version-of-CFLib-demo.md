@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 3/AIR version of CFLib demo"
 date: "2007-12-19T16:12:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/12/19/Flex-3AIR-version-of-CFLib-demo
 ---

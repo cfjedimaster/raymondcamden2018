@@ -2,8 +2,8 @@
 layout: post
 title: "FusionDebug 2 Released"
 date: "2007-02-15T14:02:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/02/15/FusionDebug-2-Released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "You know you're a geek when..."
 date: "2006-07-20T22:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/07/20/You-know-youre-a-geek-when
 ---

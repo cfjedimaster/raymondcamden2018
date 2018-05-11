@@ -2,8 +2,8 @@
 layout: post
 title: "My next book - Working with Static Sites"
 date: "2016-07-21T09:29:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/07/21/my-next-book-working-with-static-sites
 ---

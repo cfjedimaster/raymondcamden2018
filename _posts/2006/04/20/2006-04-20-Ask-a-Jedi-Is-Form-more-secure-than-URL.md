@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Is Form more secure than URL?"
 date: "2006-04-20T14:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/20/Ask-a-Jedi-Is-Form-more-secure-than-URL
 ---

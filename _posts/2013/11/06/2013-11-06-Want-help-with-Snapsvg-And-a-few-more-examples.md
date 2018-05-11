@@ -2,8 +2,8 @@
 layout: post
 title: "Want help with Snap.svg? (And a few more examples...)"
 date: "2013-11-06T15:11:00+06:00"
-categories: design development javascript 
-tags: 
+categories: [design,development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/11/06/Want-help-with-Snapsvg-And-a-few-more-examples
 ---

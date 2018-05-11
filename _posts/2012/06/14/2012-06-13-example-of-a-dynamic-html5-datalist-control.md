@@ -2,8 +2,8 @@
 layout: post
 title: "Example of a dynamic HTML5 datalist control"
 date: "2012-06-14T09:06:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/06/14/example-of-a-dynamic-html5-datalist-control
 ---

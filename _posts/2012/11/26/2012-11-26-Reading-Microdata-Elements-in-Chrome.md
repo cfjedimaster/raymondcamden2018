@@ -2,8 +2,8 @@
 layout: post
 title: "Reading Microdata Elements in Chrome"
 date: "2012-11-26T15:11:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/11/26/Reading-Microdata-Elements-in-Chrome
 ---

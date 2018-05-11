@@ -2,8 +2,8 @@
 layout: post
 title: "Missed NCDevCon? Watch the entire thing online now - in your underwear"
 date: "2012-10-03T13:10:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2012/10/03/Missed-NCDevCon-Watch-the-entire-thing-online-now-in-your-underwear
 ---

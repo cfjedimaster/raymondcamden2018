@@ -2,8 +2,8 @@
 layout: post
 title: "My first ColdFusion 9 scoop - disable server side validation"
 date: "2009-07-13T01:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/13/My-first-ColdFusion-9-scoop-disable-server-side-validation
 ---

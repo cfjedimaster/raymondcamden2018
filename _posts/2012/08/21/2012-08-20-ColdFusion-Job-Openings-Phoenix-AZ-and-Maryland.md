@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Openings - Phoenix, AZ and Maryland"
 date: "2012-08-21T07:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/08/21/ColdFusion-Job-Openings-Phoenix-AZ-and-Maryland
 ---

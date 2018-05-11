@@ -2,8 +2,8 @@
 layout: post
 title: "Followup to last Model-Glue article - checking for the existence of a value"
 date: "2007-03-29T08:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/29/Followup-to-last-ModelGlue-article-checking-for-the-existence-of-a-value
 ---

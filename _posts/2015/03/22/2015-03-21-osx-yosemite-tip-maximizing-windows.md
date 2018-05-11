@@ -2,8 +2,8 @@
 layout: post
 title: "OS X Yosemite Tip - Maximizing Windows"
 date: "2015-03-22T08:17:10+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2015/03/22/osx-yosemite-tip-maximizing-windows
 ---

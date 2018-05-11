@@ -2,8 +2,8 @@
 layout: post
 title: "Creating simple comparative bars with JavaScript and CSS"
 date: "2015-03-19T09:27:30+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2015/03/19/creating-simple-comparative-bars-with-javascript-and-css
 ---

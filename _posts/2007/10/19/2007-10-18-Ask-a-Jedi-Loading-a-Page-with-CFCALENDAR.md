@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Loading a Page with CFCALENDAR"
 date: "2007-10-19T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/19/Ask-a-Jedi-Loading-a-Page-with-CFCALENDAR
 ---

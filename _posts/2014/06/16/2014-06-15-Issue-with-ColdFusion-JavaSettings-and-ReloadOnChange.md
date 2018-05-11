@@ -2,8 +2,8 @@
 layout: post
 title: "Issue with ColdFusion JavaSettings and ReloadOnChange"
 date: "2014-06-16T09:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/06/16/Issue-with-ColdFusion-JavaSettings-and-ReloadOnChange
 ---

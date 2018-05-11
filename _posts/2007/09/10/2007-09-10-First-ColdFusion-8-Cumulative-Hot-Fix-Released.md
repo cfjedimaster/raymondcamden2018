@@ -2,8 +2,8 @@
 layout: post
 title: "First ColdFusion 8 Cumulative Hot Fix Released"
 date: "2007-09-10T19:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/10/First-ColdFusion-8-Cumulative-Hot-Fix-Released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Mobile Chat Session on Thursday"
 date: "2011-08-17T10:08:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/08/17/Flex-Mobile-Chat-Session-on-Thursday
 ---

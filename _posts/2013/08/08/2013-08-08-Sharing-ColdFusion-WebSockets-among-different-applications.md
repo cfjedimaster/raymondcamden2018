@@ -2,8 +2,8 @@
 layout: post
 title: "Sharing ColdFusion WebSockets among different applications"
 date: "2013-08-08T16:08:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2013/08/08/Sharing-ColdFusion-WebSockets-among-different-applications
 ---

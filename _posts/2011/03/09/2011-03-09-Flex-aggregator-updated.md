@@ -2,8 +2,8 @@
 layout: post
 title: "Flex aggregator updated..."
 date: "2011-03-09T18:03:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2011/03/09/Flex-aggregator-updated
 ---

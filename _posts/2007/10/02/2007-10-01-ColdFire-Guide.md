@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFire Guide"
 date: "2007-10-02T08:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/02/ColdFire-Guide
 ---

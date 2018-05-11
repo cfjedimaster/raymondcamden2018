@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday OT - New Games"
 date: "2014-05-18T16:05:00+06:00"
-categories: games 
-tags: 
+categories: [games]
+tags: []
 banner_image: 
 permalink: /2014/05/18/Sunday-OT-New-Games
 ---

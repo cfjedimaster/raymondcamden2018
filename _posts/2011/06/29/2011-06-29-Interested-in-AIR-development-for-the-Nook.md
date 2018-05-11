@@ -2,8 +2,8 @@
 layout: post
 title: "Interested in AIR development for the Nook?"
 date: "2011-06-29T23:06:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2011/06/29/Interested-in-AIR-development-for-the-Nook
 ---

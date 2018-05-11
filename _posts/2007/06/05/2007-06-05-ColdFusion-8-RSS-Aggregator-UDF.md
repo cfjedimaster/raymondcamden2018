@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: RSS Aggregator UDF"
 date: "2007-06-05T18:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/05/ColdFusion-8-RSS-Aggregator-UDF
 ---

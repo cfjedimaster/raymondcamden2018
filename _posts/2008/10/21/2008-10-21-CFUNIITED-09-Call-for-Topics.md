@@ -2,8 +2,8 @@
 layout: post
 title: "CFUNIITED 09: Call for Topics"
 date: "2008-10-21T22:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/21/CFUNIITED-09-Call-for-Topics
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Data-driven Edge Animate projects"
 date: "2012-11-07T08:11:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/11/07/datadriven-edge-animate-projects
 ---

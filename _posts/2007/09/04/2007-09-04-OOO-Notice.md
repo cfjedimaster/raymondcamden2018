@@ -2,8 +2,8 @@
 layout: post
 title: "OOO Notice"
 date: "2007-09-04T15:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/09/04/OOO-Notice
 ---

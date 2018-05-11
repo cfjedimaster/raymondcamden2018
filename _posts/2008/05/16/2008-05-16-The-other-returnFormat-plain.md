@@ -2,8 +2,8 @@
 layout: post
 title: "The other returnFormat - plain"
 date: "2008-05-16T17:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/16/The-other-returnFormat-plain
 ---

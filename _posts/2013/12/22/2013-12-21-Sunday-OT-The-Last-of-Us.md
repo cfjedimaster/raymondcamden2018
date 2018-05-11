@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday OT: The Last of Us"
 date: "2013-12-22T11:12:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2013/12/22/Sunday-OT-The-Last-of-Us
 ---

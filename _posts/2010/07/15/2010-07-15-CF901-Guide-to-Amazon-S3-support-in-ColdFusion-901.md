@@ -2,8 +2,8 @@
 layout: post
 title: "CF901: Guide to Amazon S3 support in ColdFusion 9.0.1"
 date: "2010-07-15T13:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/15/CF901-Guide-to-Amazon-S3-support-in-ColdFusion-901
 ---

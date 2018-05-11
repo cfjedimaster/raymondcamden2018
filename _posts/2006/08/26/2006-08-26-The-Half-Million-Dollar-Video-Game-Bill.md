@@ -2,8 +2,8 @@
 layout: post
 title: "The Half Million Dollar Video Game Bill"
 date: "2006-08-26T13:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/08/26/The-Half-Million-Dollar-Video-Game-Bill
 ---

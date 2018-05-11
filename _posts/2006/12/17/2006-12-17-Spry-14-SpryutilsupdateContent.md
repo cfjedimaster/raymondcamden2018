@@ -2,8 +2,8 @@
 layout: post
 title: "Spry 1.4: Spry.utils.updateContent"
 date: "2006-12-17T13:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/12/17/Spry-14-SpryutilsupdateContent
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Official release of ColdFusion Builder 2, Creative Suite 5.5, Flash Builder 4.5"
 date: "2011-05-03T08:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/05/03/Official-release-of-ColdFusion-Builder-2-Creative-Suite-55-Flash-Builder-55
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "November is National Adoption Month"
 date: "2011-11-16T09:11:00+06:00"
-categories: adoption 
-tags: 
+categories: [adoption]
+tags: []
 banner_image: 
 permalink: /2011/11/16/November-is-National-Adoption-Month
 ---

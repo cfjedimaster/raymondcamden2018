@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: How to get to there from here..."
 date: "2013-07-26T10:07:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2013/07/26/Friday-Puzzler-How-to-get-to-there-from-here
 ---

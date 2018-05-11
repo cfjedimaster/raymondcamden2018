@@ -2,8 +2,8 @@
 layout: post
 title: "Last Update, Honest, to My Vue.js INeedIt Demo"
 date: "2017-11-28"
-categories: development 
-tags: javascript vuejs
+categories: [development]
+tags: [javascript,vuejs]
 banner_image: 
 permalink: /2017/11/28/last-update-honest-to-my-vuejs-ineedit-demo
 ---

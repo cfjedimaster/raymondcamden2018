@@ -2,8 +2,8 @@
 layout: post
 title: "Next Event - Modern Development with the JAMStack"
 date: "2018-04-30"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: /images/banners/Banner_JAMStack.jpg
 permalink: /2018/04/30/next-event-modern-development-with-the-jamstack
 ---

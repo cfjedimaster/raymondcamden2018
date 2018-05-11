@@ -2,8 +2,8 @@
 layout: post
 title: "Video Tutorial: Installing the Ripple Emulator for PhoneGap Development"
 date: "2013-05-23T17:05:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2013/05/23/Video-Tutorial-Installing-the-Ripple-Emulator-for-PhoneGap-Development
 ---

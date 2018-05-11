@@ -2,8 +2,8 @@
 layout: post
 title: "CreativeSDK (really) Launches"
 date: "2014-10-06T18:10:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2014/10/06/CreativeSDK-really-Launches
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Correction to earlier ColdFusionBloggers.org post and a warning about removing HTML"
 date: "2007-08-01T19:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/01/Correction-to-earlier-ColdFusionBloggersorg-post-and-a-warning-about-removing-HTML
 ---

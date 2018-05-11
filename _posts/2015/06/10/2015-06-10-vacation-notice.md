@@ -2,8 +2,8 @@
 layout: post
 title: "Vacation Notice"
 date: "2015-06-10T20:32:17+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2015/06/10/vacation-notice
 ---

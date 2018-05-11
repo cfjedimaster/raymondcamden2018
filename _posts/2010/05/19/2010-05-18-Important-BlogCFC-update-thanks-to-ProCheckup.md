@@ -2,8 +2,8 @@
 layout: post
 title: "Important BlogCFC update - thanks to ProCheckup"
 date: "2010-05-19T09:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/19/Important-BlogCFC-update-thanks-to-ProCheckup
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Food for thought - 10 Beginner Tips from the PHP Masters"
 date: "2010-11-08T12:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/08/Food-for-thought-10-Beginner-Tips-from-the-PHP-Masters
 ---

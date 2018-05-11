@@ -2,8 +2,8 @@
 layout: post
 title: "I love Louisiana, but..."
 date: "2006-05-17T10:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/17/I-love-Louisiana-but
 ---

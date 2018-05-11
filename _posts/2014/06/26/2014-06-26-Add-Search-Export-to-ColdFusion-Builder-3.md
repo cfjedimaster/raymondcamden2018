@@ -2,8 +2,8 @@
 layout: post
 title: "Add \"Search Export\" to ColdFusion Builder 3"
 date: "2014-06-26T11:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/06/26/Add-Search-Export-to-ColdFusion-Builder-3
 ---

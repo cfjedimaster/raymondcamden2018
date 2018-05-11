@@ -2,8 +2,8 @@
 layout: post
 title: "Can you send flushed content to ColdFusion 8 Ajax UI containers?"
 date: "2007-08-27T16:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/27/Can-you-send-flushed-content-to-ColdFusion-8-Ajax-UI-containers
 ---

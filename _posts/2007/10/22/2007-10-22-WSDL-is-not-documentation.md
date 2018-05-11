@@ -2,8 +2,8 @@
 layout: post
 title: "WSDL is not documentation!"
 date: "2007-10-22T12:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/10/22/WSDL-is-not-documentation
 ---

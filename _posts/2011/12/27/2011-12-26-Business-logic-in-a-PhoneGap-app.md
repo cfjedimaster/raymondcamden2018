@@ -2,8 +2,8 @@
 layout: post
 title: "Business logic in a PhoneGap app"
 date: "2011-12-27T09:12:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2011/12/27/Business-logic-in-a-PhoneGap-app
 ---

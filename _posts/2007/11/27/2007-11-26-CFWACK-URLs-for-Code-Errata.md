@@ -2,8 +2,8 @@
 layout: post
 title: "CFWACK URLs for Code, Errata"
 date: "2007-11-27T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/27/CFWACK-URLs-for-Code-Errata
 ---

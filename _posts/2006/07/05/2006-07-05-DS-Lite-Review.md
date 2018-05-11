@@ -2,8 +2,8 @@
 layout: post
 title: "DS Lite Review"
 date: "2006-07-05T15:07:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2006/07/05/DS-Lite-Review
 ---

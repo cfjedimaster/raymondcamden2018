@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: What version of the JRE is bundled with CFMX?"
 date: "2005-07-27T12:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/27/Ask-a-Jedi-What-version-of-the-JRE-is-bundled-with-CFMX
 ---

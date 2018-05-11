@@ -2,8 +2,8 @@
 layout: post
 title: "Continuing my Fusebox study"
 date: "2007-02-07T09:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/07/Continuing-my-Fusebox-study
 ---

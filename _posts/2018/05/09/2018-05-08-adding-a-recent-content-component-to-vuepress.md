@@ -2,8 +2,8 @@
 layout: post
 title: "Adding a Recent Content Component to VuePress"
 date: "2018-05-09"
-categories: static sites 
-tags: vuejs
+categories: [static sites]
+tags: [vuejs]
 banner_image: /images/banners/pineapple.jpg
 permalink: /2018/05/09/adding-a-recent-content-component-to-vuepress
 ---

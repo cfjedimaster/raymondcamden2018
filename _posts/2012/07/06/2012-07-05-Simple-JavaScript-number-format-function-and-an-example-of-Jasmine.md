@@ -2,8 +2,8 @@
 layout: post
 title: "Simple JavaScript number format function, and an example of Jasmine"
 date: "2012-07-06T10:07:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2012/07/06/Simple-JavaScript-number-format-function-and-an-example-of-Jasmine
 ---

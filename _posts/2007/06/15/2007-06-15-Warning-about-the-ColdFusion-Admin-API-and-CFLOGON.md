@@ -2,8 +2,8 @@
 layout: post
 title: "Warning about the ColdFusion Admin API and CFLOGON"
 date: "2007-06-15T13:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/15/Warning-about-the-ColdFusion-Admin-API-and-CFLOGON
 ---

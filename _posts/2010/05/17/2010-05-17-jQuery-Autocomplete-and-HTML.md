@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Autocomplete and HTML"
 date: "2010-05-17T14:05:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2010/05/17/jQuery-Autocomplete-and-HTML
 ---

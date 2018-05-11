@@ -2,8 +2,8 @@
 layout: post
 title: "Editing notification settings for Twitter on Android"
 date: "2012-08-03T10:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2012/08/03/Editing-notification-settings-for-Twitter-on-Android
 ---

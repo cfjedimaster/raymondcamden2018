@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Building a ColdFusion site to support dynamic subdomains"
 date: "2009-06-01T22:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/06/01/Ask-a-Jedi-Building-a-ColdFusion-site-to-support-dynamic-subdomains
 ---

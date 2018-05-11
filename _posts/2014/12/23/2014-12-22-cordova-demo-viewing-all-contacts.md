@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova Demo - Viewing all Contacts"
 date: "2014-12-23T07:51:44+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/12/23/cordova-demo-viewing-all-contacts
 ---

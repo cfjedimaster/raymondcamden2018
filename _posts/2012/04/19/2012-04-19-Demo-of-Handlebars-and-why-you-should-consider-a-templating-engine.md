@@ -2,8 +2,8 @@
 layout: post
 title: "Demo of Handlebars, and why you should consider a templating engine"
 date: "2012-04-19T18:04:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/04/19/Demo-of-Handlebars-and-why-you-should-consider-a-templating-engine
 ---

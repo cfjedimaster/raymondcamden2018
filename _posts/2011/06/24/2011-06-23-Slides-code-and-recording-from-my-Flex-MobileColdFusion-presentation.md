@@ -2,8 +2,8 @@
 layout: post
 title: "Slides, code, and recording from my Flex Mobile/ColdFusion presentation"
 date: "2011-06-24T08:06:00+06:00"
-categories: coldfusion flex mobile 
-tags: 
+categories: [coldfusion,flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/06/24/Slides-code-and-recording-from-my-Flex-MobileColdFusion-presentation
 ---

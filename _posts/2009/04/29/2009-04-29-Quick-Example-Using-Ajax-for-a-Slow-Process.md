@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Example - Using Ajax for a Slow Process"
 date: "2009-04-29T14:04:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/04/29/Quick-Example-Using-Ajax-for-a-Slow-Process
 ---

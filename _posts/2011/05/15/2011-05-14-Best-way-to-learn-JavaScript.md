@@ -2,8 +2,8 @@
 layout: post
 title: "Best way to learn JavaScript?"
 date: "2011-05-15T07:05:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2011/05/15/Best-way-to-learn-JavaScript
 ---

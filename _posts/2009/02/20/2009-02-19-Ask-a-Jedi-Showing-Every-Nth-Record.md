@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Showing Every Nth Record"
 date: "2009-02-20T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/02/20/Ask-a-Jedi-Showing-Every-Nth-Record
 ---

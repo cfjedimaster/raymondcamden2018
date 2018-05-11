@@ -2,8 +2,8 @@
 layout: post
 title: "Name these books"
 date: "2006-09-15T16:09:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2006/09/15/Name-these-books
 ---

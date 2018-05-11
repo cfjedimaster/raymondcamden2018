@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How do you start an Adobe User Group?"
 date: "2007-11-01T11:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/11/01/Ask-a-Jedi-How-do-you-start-an-Adobe-User-Group
 ---

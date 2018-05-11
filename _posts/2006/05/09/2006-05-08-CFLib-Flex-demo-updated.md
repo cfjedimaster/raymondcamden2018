@@ -2,8 +2,8 @@
 layout: post
 title: "CFLib Flex demo updated"
 date: "2006-05-09T10:05:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/05/09/CFLib-Flex-demo-updated
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Unconference Update"
 date: "2009-08-27T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/27/ColdFusion-Unconference-Update
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - University of Maryland, College Park, MD"
 date: "2013-07-01T19:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/07/01/ColdFusion-Job-Opening-University-of-Maryland-College-Park-MD
 ---

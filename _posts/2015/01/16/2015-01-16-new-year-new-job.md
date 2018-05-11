@@ -2,8 +2,8 @@
 layout: post
 title: "New Year, New Job"
 date: "2015-01-16T14:16:47+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2015/01/16/new-year-new-job
 ---

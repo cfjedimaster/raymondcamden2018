@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 7.0.1 Released"
 date: "2005-09-28T00:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/27/ColdFusion-701-Released
 ---

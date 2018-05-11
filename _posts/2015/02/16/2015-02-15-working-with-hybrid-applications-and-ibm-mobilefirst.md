@@ -2,8 +2,8 @@
 layout: post
 title: "Working with hybrid applications and IBM MobileFirst"
 date: "2015-02-16T08:13:56+06:00"
-categories: development javascript mobile uncategorized 
-tags: mobilefirst
+categories: [development,javascript,mobile,uncategorized]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2015/02/16/working-with-hybrid-applications-and-ibm-mobilefirst
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Adding keyboard navigation to a client-side application"
 date: "2015-02-16T15:24:09+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2015/02/16/adding-keyboard-navigation-to-a-client-side-application
 ---

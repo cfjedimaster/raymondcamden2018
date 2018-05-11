@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Is it worthwhile to learn everything about ColdFusion immediately?"
 date: "2007-02-08T09:02:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/02/08/Ask-a-Jedi-Is-it-worthwhile-to-learn-everything-about-ColdFusion-immediately
 ---

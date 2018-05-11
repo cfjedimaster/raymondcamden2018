@@ -2,8 +2,8 @@
 layout: post
 title: "Some cool things in Lucee"
 date: "2015-10-01T16:39:39+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/10/01/some-cool-things-in-lucee
 ---

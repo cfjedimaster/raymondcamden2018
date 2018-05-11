@@ -2,8 +2,8 @@
 layout: post
 title: "Collapsible content and Ajax loading with jQuery Mobile"
 date: "2011-04-05T19:04:00+06:00"
-categories: coldfusion javascript jquery mobile 
-tags: 
+categories: [coldfusion,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/04/05/Collapsible-content-and-Ajax-loading-with-jQuery-Mobile
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Update"
 date: "2010-11-03T00:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/11/02/RIAForge-Update
 ---

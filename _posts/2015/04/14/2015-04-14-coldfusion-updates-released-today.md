@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Updates Released Today"
 date: "2015-04-14T17:14:53+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/04/14/coldfusion-updates-released-today
 ---

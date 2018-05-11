@@ -2,8 +2,8 @@
 layout: post
 title: "CFAJAXPROXY and Extended CFCs"
 date: "2009-05-11T23:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/05/11/CFAJAXPROXY-and-Extended-CFCs
 ---

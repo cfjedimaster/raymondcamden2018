@@ -2,8 +2,8 @@
 layout: post
 title: "Attending my ColdFusion session at RIAUnleashed?"
 date: "2011-10-26T07:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/10/26/Attending-my-ColdFusion-session-at-RIAUnleashed
 ---

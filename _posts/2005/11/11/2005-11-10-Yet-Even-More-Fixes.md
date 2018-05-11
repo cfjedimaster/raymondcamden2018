@@ -2,8 +2,8 @@
 layout: post
 title: "Yet Even More Fixes..."
 date: "2005-11-11T08:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/11/Yet-Even-More-Fixes
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - there is a maximum number of network connections in your browser"
 date: "2011-02-23T10:02:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2011/02/23/Reminder-there-is-a-maximum-number-of-network-connections-in-your-browser
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Flex for CFers"
 date: "2006-08-28T10:08:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/08/28/Flex-for-CFers
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "What do you need to get for mobile development?"
 date: "2012-01-16T09:01:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/16/What-do-you-need-to-get-for-mobile-development
 ---

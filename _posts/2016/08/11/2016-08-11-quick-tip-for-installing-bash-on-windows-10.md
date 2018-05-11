@@ -2,8 +2,8 @@
 layout: post
 title: "Quick tip for installing Bash on Windows 10"
 date: "2016-08-11T08:21:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/08/11/quick-tip-for-installing-bash-on-windows-10
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "CFBuilder Contest: Gilt"
 date: "2010-05-18T14:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/18/CFBuilder-Contest-Gilt
 ---

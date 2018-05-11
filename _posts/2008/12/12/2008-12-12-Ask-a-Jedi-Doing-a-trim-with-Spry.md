@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Doing a trim with Spry"
 date: "2008-12-12T13:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/12/Ask-a-Jedi-Doing-a-trim-with-Spry
 ---

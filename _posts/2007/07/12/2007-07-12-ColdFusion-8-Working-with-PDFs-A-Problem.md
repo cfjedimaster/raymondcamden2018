@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Working with PDFs - A Problem"
 date: "2007-07-12T14:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/12/ColdFusion-8-Working-with-PDFs-A-Problem
 ---

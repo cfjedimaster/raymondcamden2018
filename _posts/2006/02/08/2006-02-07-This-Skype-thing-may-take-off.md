@@ -2,8 +2,8 @@
 layout: post
 title: "This Skype thing may take off..."
 date: "2006-02-08T09:02:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2006/02/08/This-Skype-thing-may-take-off
 ---

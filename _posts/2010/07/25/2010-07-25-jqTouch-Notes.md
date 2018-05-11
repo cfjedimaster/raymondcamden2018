@@ -2,8 +2,8 @@
 layout: post
 title: "jQTouch Notes"
 date: "2010-07-25T12:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/07/25/jqTouch-Notes
 ---

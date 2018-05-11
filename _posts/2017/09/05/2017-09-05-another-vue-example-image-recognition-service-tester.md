@@ -2,8 +2,8 @@
 layout: post
 title: "Another Vue Example - Image Recognition Service Tester"
 date: "2017-09-05T15:02:00-07:00"
-categories: development 
-tags: javascript vuejs
+categories: [development]
+tags: [javascript,vuejs]
 banner_image: 
 permalink: /2017/09/05/another-vue-example-image-recognition-service-tester
 ---

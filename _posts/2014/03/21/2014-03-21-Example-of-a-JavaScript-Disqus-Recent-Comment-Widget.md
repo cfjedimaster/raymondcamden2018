@@ -2,8 +2,8 @@
 layout: post
 title: "Example of a JavaScript Disqus Recent Comment Widget"
 date: "2014-03-21T16:03:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2014/03/21/Example-of-a-JavaScript-Disqus-Recent-Comment-Widget
 ---

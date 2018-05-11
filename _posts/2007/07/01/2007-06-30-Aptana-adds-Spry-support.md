@@ -2,8 +2,8 @@
 layout: post
 title: "Aptana adds Spry support"
 date: "2007-07-01T10:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/07/01/Aptana-adds-Spry-support
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Listing all var scoped variables"
 date: "2007-07-03T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/03/Ask-a-Jedi-Listing-all-var-scoped-variables
 ---

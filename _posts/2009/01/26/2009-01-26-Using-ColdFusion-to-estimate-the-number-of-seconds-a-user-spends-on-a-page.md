@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion to estimate the number of seconds a user spends on a page"
 date: "2009-01-26T12:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/01/26/Using-ColdFusion-to-estimate-the-number-of-seconds-a-user-spends-on-a-page
 ---

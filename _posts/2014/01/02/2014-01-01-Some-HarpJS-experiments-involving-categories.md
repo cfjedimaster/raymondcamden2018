@@ -2,8 +2,8 @@
 layout: post
 title: "Some HarpJS experiments involving categories"
 date: "2014-01-02T09:01:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2014/01/02/Some-HarpJS-experiments-involving-categories
 ---

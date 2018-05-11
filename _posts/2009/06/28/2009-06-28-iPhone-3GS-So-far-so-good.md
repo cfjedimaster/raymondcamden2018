@@ -2,8 +2,8 @@
 layout: post
 title: "iPhone 3GS - So far, so good"
 date: "2009-06-28T12:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/06/28/iPhone-3GS-So-far-so-good
 ---

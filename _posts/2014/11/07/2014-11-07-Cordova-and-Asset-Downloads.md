@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova and Asset Downloads"
 date: "2014-11-07T16:11:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/11/07/Cordova-and-Asset-Downloads
 ---

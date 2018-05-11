@@ -2,8 +2,8 @@
 layout: post
 title: "UX question, handling notifications"
 date: "2014-10-02T11:10:00+06:00"
-categories: design development 
-tags: 
+categories: [design,development]
+tags: []
 banner_image: 
 permalink: /2014/10/02/UX-question-handling-notifications
 ---

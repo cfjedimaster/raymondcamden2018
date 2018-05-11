@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Unconference firming up @ MAX"
 date: "2008-11-06T07:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/06/ColdFusion-Unconference-firming-up-MAX
 ---

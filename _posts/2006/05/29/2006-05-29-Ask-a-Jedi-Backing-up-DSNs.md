@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Backing up DSNs"
 date: "2006-05-29T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/29/Ask-a-Jedi-Backing-up-DSNs
 ---

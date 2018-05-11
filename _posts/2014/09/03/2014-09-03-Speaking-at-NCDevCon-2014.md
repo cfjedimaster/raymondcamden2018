@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at NCDevCon 2014"
 date: "2014-09-03T14:09:00+06:00"
-categories: coldfusion development javascript 
-tags: 
+categories: [coldfusion,development,javascript]
+tags: []
 banner_image: 
 permalink: /2014/09/03/Speaking-at-NCDevCon-2014
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: What is Cause and RootCause in ColdFusion exceptions?"
 date: "2010-01-20T07:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/01/20/Ask-a-Jedi-What-is-Cause-and-RootCause-in-ColdFusion-exceptions
 ---

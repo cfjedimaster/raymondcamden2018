@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap hits 1.6"
 date: "2012-04-11T18:04:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2012/04/11/PhoneGap-hits-16
 ---

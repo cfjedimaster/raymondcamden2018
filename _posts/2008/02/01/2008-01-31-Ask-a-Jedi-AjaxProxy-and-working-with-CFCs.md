@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: AjaxProxy and working with CFCs"
 date: "2008-02-01T07:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/02/01/Ask-a-Jedi-AjaxProxy-and-working-with-CFCs
 ---

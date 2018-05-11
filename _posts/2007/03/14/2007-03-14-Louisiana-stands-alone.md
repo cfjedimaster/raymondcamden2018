@@ -2,8 +2,8 @@
 layout: post
 title: "Louisiana stands alone"
 date: "2007-03-14T18:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/03/14/Louisiana-stands-alone
 ---

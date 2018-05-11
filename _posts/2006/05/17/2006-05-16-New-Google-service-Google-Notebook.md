@@ -2,8 +2,8 @@
 layout: post
 title: "New Google service: Google Notebook"
 date: "2006-05-17T08:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/05/17/New-Google-service-Google-Notebook
 ---

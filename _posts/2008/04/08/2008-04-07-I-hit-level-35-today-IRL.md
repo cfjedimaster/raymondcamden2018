@@ -2,8 +2,8 @@
 layout: post
 title: "I hit level 35 today (IRL)"
 date: "2008-04-08T08:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/04/08/I-hit-level-35-today-IRL
 ---

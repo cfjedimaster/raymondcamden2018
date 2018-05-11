@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion page timeouts and scheduled tasks"
 date: "2012-07-03T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/07/03/ColdFusion-page-timeouts-and-scheduled-tasks
 ---

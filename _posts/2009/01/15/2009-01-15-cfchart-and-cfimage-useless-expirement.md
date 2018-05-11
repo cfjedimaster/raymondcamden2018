@@ -2,8 +2,8 @@
 layout: post
 title: "cfchart and cfimage - useless experiment"
 date: "2009-01-15T21:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/01/15/cfchart-and-cfimage-useless-expirement
 ---

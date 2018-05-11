@@ -2,8 +2,8 @@
 layout: post
 title: "The Magic of 1"
 date: "2007-03-20T12:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/20/The-Magic-of-1
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Working with the Forwarder Action in OpenWhisk"
 date: "2017-08-05T06:03:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/08/05/working-with-the-forwarder-action-in-openwhisk
 ---

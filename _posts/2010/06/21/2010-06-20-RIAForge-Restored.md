@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Restored"
 date: "2010-06-21T09:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/06/21/RIAForge-Restored
 ---

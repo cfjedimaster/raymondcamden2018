@@ -2,8 +2,8 @@
 layout: post
 title: "Var Scoping Tool"
 date: "2006-07-20T16:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/20/Var-Scoping-Tool
 ---

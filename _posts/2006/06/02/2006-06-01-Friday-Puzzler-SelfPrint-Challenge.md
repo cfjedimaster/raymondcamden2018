@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: Self-Print Challenge"
 date: "2006-06-02T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/02/Friday-Puzzler-SelfPrint-Challenge
 ---

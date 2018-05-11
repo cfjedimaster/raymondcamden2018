@@ -2,8 +2,8 @@
 layout: post
 title: "Community track at MAX - MAXUP"
 date: "2006-09-09T13:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/09/09/Community-track-at-MAX-MAXUP
 ---

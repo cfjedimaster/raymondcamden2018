@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Base64 representations of strings in ColdFusion"
 date: "2011-02-02T13:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/02/02/Working-with-Base64-representations-of-strings-in-ColdFusion
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New DZone reference for ColdFusion Builder 2"
 date: "2011-05-16T09:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/05/16/New-DZone-reference-for-ColdFusion-Builder-2
 ---

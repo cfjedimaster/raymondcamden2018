@@ -2,8 +2,8 @@
 layout: post
 title: "Missed me at CFUNITED? Catch my presentation this week"
 date: "2010-08-09T11:08:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2010/08/09/Missed-me-at-CFUNITED-Catch-my-presentation-this-week
 ---

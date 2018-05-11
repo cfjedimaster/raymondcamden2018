@@ -2,8 +2,8 @@
 layout: post
 title: "Upcoming E-Seminar on FusionReactor and ColdFusion"
 date: "2013-02-21T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/02/21/Upcoming-ESeminar-on-FusionReactor-and-ColdFusion
 ---

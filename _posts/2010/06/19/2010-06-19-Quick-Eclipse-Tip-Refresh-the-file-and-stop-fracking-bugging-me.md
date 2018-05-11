@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Eclipse Tip - \"Refresh the file and stop fracking bugging me\""
 date: "2010-06-19T11:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/06/19/Quick-Eclipse-Tip-Refresh-the-file-and-stop-fracking-bugging-me
 ---

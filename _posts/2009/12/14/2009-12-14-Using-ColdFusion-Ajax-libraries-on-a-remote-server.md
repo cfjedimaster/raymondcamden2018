@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion Ajax libraries on a remote server"
 date: "2009-12-14T18:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/14/Using-ColdFusion-Ajax-libraries-on-a-remote-server
 ---

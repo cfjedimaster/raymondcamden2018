@@ -2,8 +2,8 @@
 layout: post
 title: "Quick demo of accessing XML data with jQuery"
 date: "2012-02-16T11:02:00+06:00"
-categories: development javascript jquery 
-tags: 
+categories: [development,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/02/16/Quick-demo-of-accessing-XML-data-with-jQuery
 ---

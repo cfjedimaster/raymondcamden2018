@@ -2,8 +2,8 @@
 layout: post
 title: "Really useful Chrome Dev Tools tip"
 date: "2014-12-10T09:18:58+06:00"
-categories: development javascript jquery 
-tags: 
+categories: [development,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2014/12/10/really-useful-chrome-dev-tools-tip
 ---

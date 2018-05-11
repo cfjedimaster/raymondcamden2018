@@ -2,8 +2,8 @@
 layout: post
 title: "Article posted to HTML5Rocks - Databinding UI Elements with IndexedDB"
 date: "2012-07-09T16:07:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/07/09/Article-posted-to-HTML5Rocks-Databinding-UI-Elements-with-IndexedDB
 ---

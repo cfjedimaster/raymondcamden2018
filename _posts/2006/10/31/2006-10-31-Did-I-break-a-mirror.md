@@ -2,8 +2,8 @@
 layout: post
 title: "Did I break a mirror?"
 date: "2006-10-31T15:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/31/Did-I-break-a-mirror
 ---

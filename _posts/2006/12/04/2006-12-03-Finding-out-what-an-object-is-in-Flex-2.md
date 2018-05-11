@@ -2,8 +2,8 @@
 layout: post
 title: "Finding out what an object is in Flex 2"
 date: "2006-12-04T11:12:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/12/04/Finding-out-what-an-object-is-in-Flex-2
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Using the Meetup API in Client-Side Applications"
 date: "2015-11-20T13:06:04+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/11/20/using-the-meetup-api-in-client-side-applications
 ---

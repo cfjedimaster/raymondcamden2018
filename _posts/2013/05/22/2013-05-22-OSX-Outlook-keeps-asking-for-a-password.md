@@ -2,8 +2,8 @@
 layout: post
 title: "OSX Outlook keeps asking for a password"
 date: "2013-05-22T18:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/05/22/OSX-Outlook-keeps-asking-for-a-password
 ---

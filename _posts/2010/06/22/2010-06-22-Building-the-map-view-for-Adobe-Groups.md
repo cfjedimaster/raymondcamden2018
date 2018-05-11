@@ -2,8 +2,8 @@
 layout: post
 title: "Building the map view for Adobe Groups"
 date: "2010-06-22T19:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/06/22/Building-the-map-view-for-Adobe-Groups
 ---

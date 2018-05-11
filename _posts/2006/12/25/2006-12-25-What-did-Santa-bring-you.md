@@ -2,8 +2,8 @@
 layout: post
 title: "What did Santa bring you?"
 date: "2006-12-25T16:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/12/25/What-did-Santa-bring-you
 ---

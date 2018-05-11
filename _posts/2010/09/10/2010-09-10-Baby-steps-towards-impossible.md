@@ -2,8 +2,8 @@
 layout: post
 title: "Baby steps towards impossible"
 date: "2010-09-10T15:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/09/10/Baby-steps-towards-impossible
 ---

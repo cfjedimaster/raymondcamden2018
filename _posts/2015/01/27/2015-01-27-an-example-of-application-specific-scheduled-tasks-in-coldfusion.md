@@ -2,8 +2,8 @@
 layout: post
 title: "An example of application specific scheduled tasks in ColdFusion"
 date: "2015-01-27T16:11:19+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/01/27/an-example-of-application-specific-scheduled-tasks-in-coldfusion
 ---

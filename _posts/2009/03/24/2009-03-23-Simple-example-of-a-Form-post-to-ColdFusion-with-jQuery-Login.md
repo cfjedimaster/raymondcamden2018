@@ -2,8 +2,8 @@
 layout: post
 title: "Simple example of a Form post to ColdFusion with jQuery - Login"
 date: "2009-03-24T08:03:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/03/24/Simple-example-of-a-Form-post-to-ColdFusion-with-jQuery-Login
 ---

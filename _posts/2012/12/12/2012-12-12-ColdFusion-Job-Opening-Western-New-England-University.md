@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - Western New England University"
 date: "2012-12-12T18:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/12/12/ColdFusion-Job-Opening-Western-New-England-University
 ---

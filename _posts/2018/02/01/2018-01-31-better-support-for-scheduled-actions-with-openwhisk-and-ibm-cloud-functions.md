@@ -2,8 +2,8 @@
 layout: post
 title: "Better Support for Scheduled Actions with OpenWhisk and IBM Cloud Functions"
 date: "2018-02-01"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2018/02/01/better-support-for-scheduled-actions-with-openwhisk-and-ibm-cloud-functions
 ---

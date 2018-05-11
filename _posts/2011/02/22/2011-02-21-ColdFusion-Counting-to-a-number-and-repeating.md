@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion: Counting to a number and repeating"
 date: "2011-02-22T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/02/22/ColdFusion-Counting-to-a-number-and-repeating
 ---

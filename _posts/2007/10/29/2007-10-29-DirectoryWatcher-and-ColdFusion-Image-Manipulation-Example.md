@@ -2,8 +2,8 @@
 layout: post
 title: "DirectoryWatcher and ColdFusion Image Manipulation Example"
 date: "2007-10-29T16:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/29/DirectoryWatcher-and-ColdFusion-Image-Manipulation-Example
 ---

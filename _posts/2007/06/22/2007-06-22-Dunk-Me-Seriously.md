@@ -2,8 +2,8 @@
 layout: post
 title: "Dunk Me (Seriously)"
 date: "2007-06-22T12:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/06/22/Dunk-Me-Seriously
 ---

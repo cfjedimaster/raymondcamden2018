@@ -2,8 +2,8 @@
 layout: post
 title: "Notes from the cfObjective Keynote"
 date: "2009-05-15T15:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/05/15/Notes-from-the-cfObjective-Keynote
 ---

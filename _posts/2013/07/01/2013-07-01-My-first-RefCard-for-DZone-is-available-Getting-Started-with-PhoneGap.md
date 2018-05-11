@@ -2,8 +2,8 @@
 layout: post
 title: "My first RefCard for DZone is available - Getting Started with PhoneGap"
 date: "2013-07-01T12:07:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/07/01/My-first-RefCard-for-DZone-is-available-Getting-Started-with-PhoneGap
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Happy New Year!"
 date: "2005-12-31T23:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/12/31/Happy-New-Year
 ---

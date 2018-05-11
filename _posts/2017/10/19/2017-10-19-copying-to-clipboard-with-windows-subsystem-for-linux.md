@@ -2,8 +2,8 @@
 layout: post
 title: "Copying to Clipboard with Windows Subsystem for Linux"
 date: "2017-10-19T07:52:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2017/10/19/copying-to-clipboard-with-windows-subsystem-for-linux
 ---

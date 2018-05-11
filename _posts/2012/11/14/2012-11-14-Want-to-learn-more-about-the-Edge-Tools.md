@@ -2,8 +2,8 @@
 layout: post
 title: "Want to learn more about the Edge Tools?"
 date: "2012-11-14T14:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2012/11/14/Want-to-learn-more-about-the-Edge-Tools
 ---

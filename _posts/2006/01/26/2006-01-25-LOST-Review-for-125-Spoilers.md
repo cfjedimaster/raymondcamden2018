@@ -2,8 +2,8 @@
 layout: post
 title: "LOST Review for 1/25 (Spoilers)"
 date: "2006-01-26T09:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/01/26/LOST-Review-for-125-Spoilers
 ---

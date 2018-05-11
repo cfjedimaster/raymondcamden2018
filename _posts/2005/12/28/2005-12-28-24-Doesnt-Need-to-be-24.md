@@ -2,8 +2,8 @@
 layout: post
 title: "24 Doesn't Need to be 24"
 date: "2005-12-28T22:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/12/28/24-Doesnt-Need-to-be-24
 ---

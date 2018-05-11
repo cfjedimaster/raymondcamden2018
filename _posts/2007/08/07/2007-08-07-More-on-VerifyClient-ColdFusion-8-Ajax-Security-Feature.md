@@ -2,8 +2,8 @@
 layout: post
 title: "More on VerifyClient - ColdFusion 8 Ajax Security Feature"
 date: "2007-08-07T12:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/07/More-on-VerifyClient-ColdFusion-8-Ajax-Security-Feature
 ---

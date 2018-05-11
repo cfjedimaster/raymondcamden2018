@@ -2,8 +2,8 @@
 layout: post
 title: "Automating, and customizing, your Android applications"
 date: "2010-12-14T09:12:00+06:00"
-categories: coldfusion flex mobile 
-tags: 
+categories: [coldfusion,flex,mobile]
+tags: []
 banner_image: 
 permalink: /2010/12/14/Automating-and-customizing-your-Android-applications
 ---

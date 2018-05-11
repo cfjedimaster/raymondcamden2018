@@ -2,8 +2,8 @@
 layout: post
 title: "Presenting on PhoneGap Next Week"
 date: "2013-04-23T12:04:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/04/23/Presenting-on-PhoneGap-Next-Week
 ---

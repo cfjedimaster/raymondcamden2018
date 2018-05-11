@@ -2,8 +2,8 @@
 layout: post
 title: "Two CFBuilder Extensions"
 date: "2010-05-25T07:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/25/Two-CFBuilder-Extensions
 ---

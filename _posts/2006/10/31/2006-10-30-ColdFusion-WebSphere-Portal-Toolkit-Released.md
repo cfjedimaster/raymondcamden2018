@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion WebSphere Portal Toolkit Released"
 date: "2006-10-31T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/31/ColdFusion-WebSphere-Portal-Toolkit-Released
 ---

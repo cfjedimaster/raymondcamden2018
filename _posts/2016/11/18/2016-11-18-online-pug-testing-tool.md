@@ -2,8 +2,8 @@
 layout: post
 title: "Online Pug Testing Tool"
 date: "2016-11-18T09:35:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2016/11/18/online-pug-testing-tool
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "An Example of the Async Clipboard API with Vue.js"
 date: "2018-04-19"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/clipboard.jpg
 permalink: /2018/04/19/an-example-of-the-async-clipboard-api-with-vuejs
 ---
@@ -39,7 +39,7 @@ I feel bad missing that, but it's not like this is the first time I saw code and
 
 So - want to see an example using Vue.js? Of course you do! Imagine a scenario where we have generated a code for our user. We want to make it easier to use so when we can, we'll provide a button to copy it into their clipboard. First, the HTML:
 
-```markup
+```html
 <div id="app" v-cloak>
   Your cool code:
   <input v-model="code">

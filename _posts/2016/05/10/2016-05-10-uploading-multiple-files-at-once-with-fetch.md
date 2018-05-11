@@ -2,8 +2,8 @@
 layout: post
 title: "Uploading multiple files at once - with Fetch"
 date: "2016-05-10T13:21:00-07:00"
-categories: javascript development 
-tags: 
+categories: [javascript,development]
+tags: []
 banner_image: 
 permalink: /2016/05/10/uploading-multiple-files-at-once-with-fetch
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Changes to the ColdFusion Online Meetup group"
 date: "2007-03-28T08:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/28/Changes-to-the-ColdFusion-Online-Meetup-group
 ---

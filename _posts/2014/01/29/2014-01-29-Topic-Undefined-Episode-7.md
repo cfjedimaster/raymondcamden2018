@@ -2,8 +2,8 @@
 layout: post
 title: "Topic Undefined - Episode 7"
 date: "2014-01-29T18:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/01/29/Topic-Undefined-Episode-7
 ---

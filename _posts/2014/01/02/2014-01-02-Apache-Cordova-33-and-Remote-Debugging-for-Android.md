@@ -2,8 +2,8 @@
 layout: post
 title: "Apache Cordova 3.3 and Remote Debugging for Android"
 date: "2014-01-02T14:01:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/01/02/Apache-Cordova-33-and-Remote-Debugging-for-Android
 ---

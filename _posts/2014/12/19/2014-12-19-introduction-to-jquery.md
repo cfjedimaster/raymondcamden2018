@@ -2,8 +2,8 @@
 layout: post
 title: "Introduction to jQuery"
 date: "2014-12-19T12:06:21+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2014/12/19/introduction-to-jquery
 ---

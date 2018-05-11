@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Effective JavaScript"
 date: "2013-08-25T21:08:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/08/25/Review-Effective-JavaScript
 ---

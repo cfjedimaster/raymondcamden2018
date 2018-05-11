@@ -2,8 +2,8 @@
 layout: post
 title: "Project Parfait moves to Creative Cloud"
 date: "2014-08-21T15:08:00+06:00"
-categories: design development 
-tags: 
+categories: [design,development]
+tags: []
 banner_image: 
 permalink: /2014/08/21/Project-Parfait-moves-to-Creative-Cloud
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Using Wrap() in a PDF"
 date: "2009-04-08T17:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/08/Using-Wrap-in-a-PDF
 ---

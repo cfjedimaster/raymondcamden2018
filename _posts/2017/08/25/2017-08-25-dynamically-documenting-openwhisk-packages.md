@@ -2,8 +2,8 @@
 layout: post
 title: "Dynamically Documenting OpenWhisk Packages"
 date: "2017-08-25T15:30:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/08/25/dynamically-documenting-openwhisk-packages
 ---

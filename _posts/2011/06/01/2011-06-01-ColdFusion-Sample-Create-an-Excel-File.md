@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Sample - Create an Excel File"
 date: "2011-06-01T23:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/06/01/ColdFusion-Sample-Create-an-Excel-File
 ---

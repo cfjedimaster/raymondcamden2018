@@ -2,8 +2,8 @@
 layout: post
 title: "Careers in Usability?"
 date: "2008-02-11T17:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/02/11/Careers-in-Usability
 ---

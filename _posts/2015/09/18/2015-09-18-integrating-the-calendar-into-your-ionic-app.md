@@ -2,8 +2,8 @@
 layout: post
 title: "Integrating the Calendar into your Ionic App"
 date: "2015-09-18T11:50:48+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/09/18/integrating-the-calendar-into-your-ionic-app
 ---

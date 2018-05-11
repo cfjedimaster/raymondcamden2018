@@ -2,8 +2,8 @@
 layout: post
 title: "Broken CFC outline in ColdFusion Builder? Check your HTML"
 date: "2010-11-29T09:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/11/29/Broken-CFC-outline-in-ColdFusion-Builder-Check-your-HTML
 ---

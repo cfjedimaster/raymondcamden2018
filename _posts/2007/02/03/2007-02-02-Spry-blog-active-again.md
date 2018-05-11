@@ -2,8 +2,8 @@
 layout: post
 title: "Spry blog active again"
 date: "2007-02-03T11:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/03/Spry-blog-active-again
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Lost for May 24 - The WTF Edition"
 date: "2007-05-24T03:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/05/24/Lost-for-May-24-The-WTF-Edition
 ---

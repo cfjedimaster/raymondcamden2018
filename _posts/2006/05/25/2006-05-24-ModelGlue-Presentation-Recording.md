@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue Presentation Recording"
 date: "2006-05-25T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/25/ModelGlue-Presentation-Recording
 ---

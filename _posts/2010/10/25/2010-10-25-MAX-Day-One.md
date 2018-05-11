@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Day One"
 date: "2010-10-25T21:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/10/25/MAX-Day-One
 ---

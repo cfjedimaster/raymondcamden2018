@@ -2,8 +2,8 @@
 layout: post
 title: "Harlan AdServer Updated"
 date: "2007-05-28T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/28/Harlan-AdServer-Updated
 ---

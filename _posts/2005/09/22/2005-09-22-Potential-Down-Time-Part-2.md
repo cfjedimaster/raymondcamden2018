@@ -2,8 +2,8 @@
 layout: post
 title: "Potential Down Time (Part 2)"
 date: "2005-09-22T22:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/22/Potential-Down-Time-Part-2
 ---

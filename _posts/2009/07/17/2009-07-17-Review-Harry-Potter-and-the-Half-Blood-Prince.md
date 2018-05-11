@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Harry Potter and the Half Blood Prince"
 date: "2009-07-17T23:07:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2009/07/17/Review-Harry-Potter-and-the-Half-Blood-Prince
 ---

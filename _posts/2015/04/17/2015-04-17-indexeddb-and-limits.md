@@ -2,8 +2,8 @@
 layout: post
 title: "IndexedDB and Limits"
 date: "2015-04-17T15:05:42+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2015/04/17/indexeddb-and-limits
 ---

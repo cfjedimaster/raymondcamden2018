@@ -2,8 +2,8 @@
 layout: post
 title: "Try Flex (no, really, go ahead and try it)"
 date: "2006-10-29T16:10:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/10/29/Try-Flex-no-really-go-ahead-and-try-it
 ---

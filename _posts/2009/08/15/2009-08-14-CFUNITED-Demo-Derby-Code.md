@@ -2,8 +2,8 @@
 layout: post
 title: "CFUNITED Demo Derby Code"
 date: "2009-08-15T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/15/CFUNITED-Demo-Derby-Code
 ---

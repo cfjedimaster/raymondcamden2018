@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Name conflicts on file rename/move"
 date: "2009-11-06T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/11/06/Ask-a-Jedi-Name-conflicts-on-file-renamemove
 ---

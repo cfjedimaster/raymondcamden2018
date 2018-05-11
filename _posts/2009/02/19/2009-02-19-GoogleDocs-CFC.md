@@ -2,8 +2,8 @@
 layout: post
 title: "GoogleDocs CFC"
 date: "2009-02-19T22:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/02/19/GoogleDocs-CFC
 ---

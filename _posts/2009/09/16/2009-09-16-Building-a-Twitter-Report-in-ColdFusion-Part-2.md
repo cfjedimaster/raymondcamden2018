@@ -2,8 +2,8 @@
 layout: post
 title: "Building a Twitter Report in ColdFusion (Part 2)"
 date: "2009-09-16T14:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/16/Building-a-Twitter-Report-in-ColdFusion-Part-2
 ---

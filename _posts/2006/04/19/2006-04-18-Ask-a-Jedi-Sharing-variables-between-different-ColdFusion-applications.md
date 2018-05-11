@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Sharing variables between different ColdFusion applications"
 date: "2006-04-19T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/19/Ask-a-Jedi-Sharing-variables-between-different-ColdFusion-applications
 ---

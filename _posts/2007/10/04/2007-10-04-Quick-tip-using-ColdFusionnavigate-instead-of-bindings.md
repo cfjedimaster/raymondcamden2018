@@ -2,8 +2,8 @@
 layout: post
 title: "Quick tip - using ColdFusion.navigate instead of bindings"
 date: "2007-10-04T17:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/04/Quick-tip-using-ColdFusionnavigate-instead-of-bindings
 ---

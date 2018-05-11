@@ -2,8 +2,8 @@
 layout: post
 title: "Finally tried a NoSQL server... and it's kinda cool"
 date: "2011-09-02T12:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/09/02/Finally-tried-a-NoSQL-server-and-its-kinda-cool
 ---

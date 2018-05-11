@@ -2,8 +2,8 @@
 layout: post
 title: "Lighthouse Pro 2.3 Released"
 date: "2007-03-16T13:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/16/Lighthouse-Pro-23-Released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "If I use ColdFusion, I don't have to worry about data types, right?"
 date: "2009-04-28T14:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/28/If-I-use-ColdFusion-I-dont-have-to-worry-about-data-types-right
 ---

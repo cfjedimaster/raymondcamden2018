@@ -2,8 +2,8 @@
 layout: post
 title: "The right (and wrong) way to package a ColdFusion Builder extension"
 date: "2011-03-10T09:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/03/10/The-right-and-wrong-way-to-package-a-ColdFusion-Builder-extension
 ---

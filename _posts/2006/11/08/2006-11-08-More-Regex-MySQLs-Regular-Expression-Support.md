@@ -2,8 +2,8 @@
 layout: post
 title: "More Regex - MySQL's Regular Expression Support"
 date: "2006-11-08T12:11:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/11/08/More-Regex-MySQLs-Regular-Expression-Support
 ---

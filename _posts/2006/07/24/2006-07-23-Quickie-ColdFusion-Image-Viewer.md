@@ -2,8 +2,8 @@
 layout: post
 title: "Quickie ColdFusion Image Viewer"
 date: "2006-07-24T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/24/Quickie-ColdFusion-Image-Viewer
 ---

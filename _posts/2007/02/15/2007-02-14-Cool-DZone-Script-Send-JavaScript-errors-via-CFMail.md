@@ -2,8 +2,8 @@
 layout: post
 title: "Cool DZone Script - Send JavaScript errors via CFMail"
 date: "2007-02-15T10:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/15/Cool-DZone-Script-Send-JavaScript-errors-via-CFMail
 ---

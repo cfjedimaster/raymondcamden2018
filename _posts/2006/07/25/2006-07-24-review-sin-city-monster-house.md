@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Sin City, Monster House"
 date: "2006-07-25T08:07:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2006/07/25/review-sin-city-monster-house
 ---

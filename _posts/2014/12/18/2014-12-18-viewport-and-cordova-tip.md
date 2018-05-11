@@ -2,8 +2,8 @@
 layout: post
 title: "Viewport and Cordova Tip"
 date: "2014-12-18T17:18:11+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2014/12/18/viewport-and-cordova-tip
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Is CreateObject slow?"
 date: "2006-07-17T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/17/Ask-a-Jedi-Is-CreateObject-slow
 ---

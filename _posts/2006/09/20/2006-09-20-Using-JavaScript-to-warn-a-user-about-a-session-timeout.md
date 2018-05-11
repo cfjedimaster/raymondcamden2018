@@ -2,8 +2,8 @@
 layout: post
 title: "Using JavaScript to warn a user about a session timeout"
 date: "2006-09-20T17:09:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2006/09/20/Using-JavaScript-to-warn-a-user-about-a-session-timeout
 ---

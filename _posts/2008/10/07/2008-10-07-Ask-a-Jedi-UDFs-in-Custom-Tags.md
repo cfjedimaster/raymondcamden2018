@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: UDFs in Custom Tags"
 date: "2008-10-07T18:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/07/Ask-a-Jedi-UDFs-in-Custom-Tags
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "MPAA and Censorship"
 date: "2005-12-08T16:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/12/08/MPAA-and-Censorship
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Experiment with Mobile Adsense"
 date: "2011-10-10T10:10:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2011/10/10/Experiment-with-Mobile-Adsense
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Thank you, Jack Wilber"
 date: "2015-01-30T14:30:59+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2015/01/30/thank-you-jack-wilber
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "My New Lynda Course - Building APIs with LoopBack"
 date: "2018-01-10"
-categories: javascript 
-tags: nodejs loopback
+categories: [javascript]
+tags: [nodejs,loopback]
 banner_image: /images/banners/lynda_loopback.jpg
 permalink: /2018/01/10/my-new-lynda-course-building-apis-with-loopback
 ---

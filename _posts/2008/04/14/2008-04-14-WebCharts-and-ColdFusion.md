@@ -2,8 +2,8 @@
 layout: post
 title: "WebCharts and ColdFusion"
 date: "2008-04-14T13:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/14/WebCharts-and-ColdFusion
 ---

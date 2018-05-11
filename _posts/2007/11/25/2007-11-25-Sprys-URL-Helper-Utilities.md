@@ -2,8 +2,8 @@
 layout: post
 title: "Spry's URL Helper Utilities"
 date: "2007-11-25T16:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/11/25/Sprys-URL-Helper-Utilities
 ---

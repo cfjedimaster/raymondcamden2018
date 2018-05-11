@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking Down Under Next Week"
 date: "2015-08-20T08:31:26+06:00"
-categories: uncategorized 
-tags: cordova ionic mobilefirst
+categories: [uncategorized]
+tags: [cordova,ionic,mobilefirst]
 banner_image: 
 permalink: /2015/08/20/speaking-down-under-next-week
 ---

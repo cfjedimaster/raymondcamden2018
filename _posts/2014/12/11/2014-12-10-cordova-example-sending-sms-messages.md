@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova Example - Sending SMS Messages"
 date: "2014-12-11T10:47:08+06:00"
-categories: development javascript mobile 
-tags: 
+categories: [development,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/12/11/cordova-example-sending-sms-messages
 ---

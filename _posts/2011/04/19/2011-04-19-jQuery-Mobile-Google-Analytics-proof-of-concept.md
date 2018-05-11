@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile + Google Analytics proof of concept"
 date: "2011-04-19T14:04:00+06:00"
-categories: javascript jquery mobile 
-tags: 
+categories: [javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/04/19/jQuery-Mobile-Google-Analytics-proof-of-concept
 ---

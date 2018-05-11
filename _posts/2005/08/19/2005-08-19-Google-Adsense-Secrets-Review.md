@@ -2,8 +2,8 @@
 layout: post
 title: "Google Adsense Secrets Review"
 date: "2005-08-19T22:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/19/Google-Adsense-Secrets-Review
 ---

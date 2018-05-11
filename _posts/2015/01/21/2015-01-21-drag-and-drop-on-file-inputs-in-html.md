@@ -2,8 +2,8 @@
 layout: post
 title: "Drag and Drop on File Inputs in HTML"
 date: "2015-01-21T12:50:36+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/01/21/drag-and-drop-on-file-inputs-in-html
 ---

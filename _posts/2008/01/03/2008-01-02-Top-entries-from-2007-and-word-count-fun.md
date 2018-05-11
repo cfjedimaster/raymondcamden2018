@@ -2,8 +2,8 @@
 layout: post
 title: "Top entries from 2007, and word count fun"
 date: "2008-01-03T09:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/01/03/Top-entries-from-2007-and-word-count-fun
 ---

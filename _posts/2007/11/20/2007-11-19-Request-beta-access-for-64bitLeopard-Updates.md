@@ -2,8 +2,8 @@
 layout: post
 title: "Request beta access for 64bit/Leopard Updates"
 date: "2007-11-20T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/20/Request-beta-access-for-64bitLeopard-Updates
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Windows 7 version of PhoneGap/Cordova"
 date: "2012-07-12T19:07:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/07/12/Windows-7-version-of-PhoneGapCordova
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "OOO for a bit so why not say hi to each other?"
 date: "2014-10-16T17:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2014/10/16/OOO-for-a-bit-so-why-not-say-hi-to-each-other
 ---

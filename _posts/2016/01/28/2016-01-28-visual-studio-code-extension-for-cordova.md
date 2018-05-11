@@ -2,8 +2,8 @@
 layout: post
 title: "Visual Studio Code extension for Cordova"
 date: "2016-01-28T17:27:24-07:00"
-categories: mobile development 
-tags: cordova
+categories: [mobile,development]
+tags: [cordova]
 banner_image: /images/2016/01/taco.png
 permalink: /2016/01/28/visual-studio-code-extension-for-cordova
 ---

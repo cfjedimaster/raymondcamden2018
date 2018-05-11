@@ -2,8 +2,8 @@
 layout: post
 title: "Repeat - ColdFusion 9 does NOT remove the need to var scope!"
 date: "2010-02-08T13:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/08/Repeat-ColdFusion-9-does-NOT-remove-the-need-to-var-scope
 ---

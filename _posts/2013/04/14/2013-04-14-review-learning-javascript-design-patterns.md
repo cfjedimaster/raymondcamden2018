@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Learning JavaScript Design Patterns"
 date: "2013-04-14T12:04:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/04/14/review-learning-javascript-design-patterns
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Example of form validation in a jQuery Mobile Application"
 date: "2012-07-30T10:07:00+06:00"
-categories: javascript jquery mobile 
-tags: 
+categories: [javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/07/30/Example-of-form-validation-in-a-jQuery-Mobile-Application
 ---

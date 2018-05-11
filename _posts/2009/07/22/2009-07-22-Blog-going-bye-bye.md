@@ -2,8 +2,8 @@
 layout: post
 title: "Blog going bye bye..."
 date: "2009-07-22T22:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/07/22/Blog-going-bye-bye
 ---

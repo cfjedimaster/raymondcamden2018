@@ -2,8 +2,8 @@
 layout: post
 title: "SciFi BOF @ CFUNITED"
 date: "2010-05-20T15:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/20/SciFi-BOF-CFUNITED
 ---

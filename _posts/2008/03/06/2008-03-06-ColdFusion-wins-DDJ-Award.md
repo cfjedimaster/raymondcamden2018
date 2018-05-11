@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion wins DDJ Award"
 date: "2008-03-06T14:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/06/ColdFusion-wins-DDJ-Award
 ---

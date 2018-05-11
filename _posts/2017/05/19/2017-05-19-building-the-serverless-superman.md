@@ -2,8 +2,8 @@
 layout: post
 title: "Building the Serverless Superman"
 date: "2017-05-19T14:30:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: /images/banners/serverless_superman.jpg
 permalink: /2017/05/19/building-the-serverless-superman
 ---

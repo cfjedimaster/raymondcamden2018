@@ -2,8 +2,8 @@
 layout: post
 title: "Get BIRT-y with Flash and Flex"
 date: "2010-01-29T10:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2010/01/29/Get-BIRTy-with-Flash-and-Flex
 ---

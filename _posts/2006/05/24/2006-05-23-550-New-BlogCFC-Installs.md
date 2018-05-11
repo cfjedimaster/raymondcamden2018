@@ -2,8 +2,8 @@
 layout: post
 title: "550 New BlogCFC Installs"
 date: "2006-05-24T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/24/550-New-BlogCFC-Installs
 ---

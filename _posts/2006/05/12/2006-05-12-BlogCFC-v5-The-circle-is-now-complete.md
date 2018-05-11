@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC v5: The circle is now complete..."
 date: "2006-05-12T14:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/12/BlogCFC-v5-The-circle-is-now-complete
 ---

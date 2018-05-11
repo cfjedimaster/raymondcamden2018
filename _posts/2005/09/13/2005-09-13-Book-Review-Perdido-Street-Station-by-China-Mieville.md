@@ -2,8 +2,8 @@
 layout: post
 title: "Book Review: Perdido Street Station by China Miéville"
 date: "2005-09-13T18:09:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2005/09/13/Book-Review-Perdido-Street-Station-by-China-Mieville
 ---

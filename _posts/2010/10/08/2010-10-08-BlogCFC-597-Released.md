@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC 5.9.7 Released"
 date: "2010-10-08T19:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/10/08/BlogCFC-597-Released
 ---

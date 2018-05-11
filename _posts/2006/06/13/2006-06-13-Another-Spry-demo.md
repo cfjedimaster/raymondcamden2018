@@ -2,8 +2,8 @@
 layout: post
 title: "Another Spry demo"
 date: "2006-06-13T13:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/06/13/Another-Spry-demo
 ---

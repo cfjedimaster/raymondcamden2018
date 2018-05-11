@@ -2,8 +2,8 @@
 layout: post
 title: "What's going on this week"
 date: "2006-09-25T13:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/09/25/Whats-going-on-this-week
 ---

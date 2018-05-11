@@ -2,8 +2,8 @@
 layout: post
 title: "Did You Know: Looping with ColdFusion Custom Tags"
 date: "2005-12-23T15:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/23/Did-You-Know-Looping-with-ColdFusion-Custom-Tags
 ---

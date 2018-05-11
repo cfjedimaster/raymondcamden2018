@@ -2,8 +2,8 @@
 layout: post
 title: "CF101: Adding an API to your site"
 date: "2012-01-18T10:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/01/18/CF101-Adding-an-API-to-your-site
 ---

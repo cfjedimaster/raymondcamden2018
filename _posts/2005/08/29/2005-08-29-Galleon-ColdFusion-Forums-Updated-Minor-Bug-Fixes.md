@@ -2,8 +2,8 @@
 layout: post
 title: "Galleon ColdFusion Forums Updated (Minor Bug Fixes)"
 date: "2005-08-29T19:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/29/Galleon-ColdFusion-Forums-Updated-Minor-Bug-Fixes
 ---

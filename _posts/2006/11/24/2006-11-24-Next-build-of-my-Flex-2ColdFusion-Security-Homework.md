@@ -2,8 +2,8 @@
 layout: post
 title: "Next build of my Flex 2/ColdFusion Security Homework"
 date: "2006-11-24T23:11:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/11/24/Next-build-of-my-Flex-2ColdFusion-Security-Homework
 ---

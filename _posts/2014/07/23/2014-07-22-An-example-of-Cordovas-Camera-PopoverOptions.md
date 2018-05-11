@@ -2,8 +2,8 @@
 layout: post
 title: "An example of Cordova's Camera PopoverOptions"
 date: "2014-07-23T10:07:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/23/An-example-of-Cordovas-Camera-PopoverOptions
 ---

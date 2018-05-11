@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Quickie: Tell if a file is being run as a custom tag"
 date: "2010-12-02T11:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/12/02/ColdFusion-Quickie-Tell-if-a-file-is-being-run-as-a-custom-tag
 ---

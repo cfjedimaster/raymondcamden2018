@@ -2,8 +2,8 @@
 layout: post
 title: "InsideRIA Links for March 8-21, 2009"
 date: "2009-03-21T12:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/03/21/InsideRIA-Links-for-March-821-2009
 ---

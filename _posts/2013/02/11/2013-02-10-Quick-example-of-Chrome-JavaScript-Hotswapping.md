@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of Chrome JavaScript Hot Swapping"
 date: "2013-02-11T09:02:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/02/11/Quick-example-of-Chrome-JavaScript-Hotswapping
 ---

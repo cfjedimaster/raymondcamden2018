@@ -2,8 +2,8 @@
 layout: post
 title: "ToXML Update"
 date: "2006-07-13T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/13/ToXML-Update
 ---

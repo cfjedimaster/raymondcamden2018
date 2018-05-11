@@ -2,8 +2,8 @@
 layout: post
 title: "SauceDB - Working on the front end"
 date: "2015-07-15T16:04:07+06:00"
-categories: development javascript mobile 
-tags: cordova ionic
+categories: [development,javascript,mobile]
+tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/07/15/saucedb-working-on-the-front-end
 ---

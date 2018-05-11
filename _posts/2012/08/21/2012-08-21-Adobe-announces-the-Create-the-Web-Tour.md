@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe announces the Create the Web Tour"
 date: "2012-08-21T11:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2012/08/21/Adobe-announces-the-Create-the-Web-Tour
 ---

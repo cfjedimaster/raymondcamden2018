@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Another CF8 Ajax question - Running code when stuff loads"
 date: "2008-01-31T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/31/Ask-a-Jedi-Another-CF8-Ajax-question-Running-code-when-stuff-loads
 ---

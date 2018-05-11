@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion handling of Subversion events"
 date: "2006-12-09T14:12:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2006/12/09/ColdFsion-handling-of-Subversion-events
 ---

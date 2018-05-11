@@ -2,8 +2,8 @@
 layout: post
 title: "Subscriber bug fixed"
 date: "2006-04-18T17:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/04/18/Subscriber-bug-fixed
 ---

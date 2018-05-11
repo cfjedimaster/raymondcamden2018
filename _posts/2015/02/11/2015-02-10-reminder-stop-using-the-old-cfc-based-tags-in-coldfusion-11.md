@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - stop using the old CFC-based tags in ColdFusion 11"
 date: "2015-02-11T05:57:56+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/02/11/reminder-stop-using-the-old-cfc-based-tags-in-coldfusion-11
 ---

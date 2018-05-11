@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile 1.1 Released"
 date: "2012-04-13T19:04:00+06:00"
-categories: html5 javascript jquery mobile 
-tags: 
+categories: [html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/04/13/jQuery-Mobile-11-Released
 ---

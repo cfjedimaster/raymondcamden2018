@@ -2,8 +2,8 @@
 layout: post
 title: "Scary little CFFEED Bug"
 date: "2010-06-18T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/06/18/Scary-little-CFFEED-Bug
 ---

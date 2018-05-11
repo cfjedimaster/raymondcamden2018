@@ -2,8 +2,8 @@
 layout: post
 title: "First draft of a ColdFusion Spider"
 date: "2010-11-04T18:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/04/First-draft-of-a-ColdFusion-Spider
 ---

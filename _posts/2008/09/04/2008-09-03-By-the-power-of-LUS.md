@@ -2,8 +2,8 @@
 layout: post
 title: "By the power of LUS..."
 date: "2008-09-04T08:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/09/04/By-the-power-of-LUS
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "What is the impact of enabling CLOB/BLOB for a ColdFusion DSN?"
 date: "2013-07-12T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/07/12/What-is-the-impact-of-enabling-CLOBBLOB-for-a-ColdFusion-DSN
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap RSS Reader - Part 4"
 date: "2012-07-09T09:07:00+06:00"
-categories: javascript jquery mobile 
-tags: 
+categories: [javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/07/09/phonegap-rss-reader-part-4
 ---

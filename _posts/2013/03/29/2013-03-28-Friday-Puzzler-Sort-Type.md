@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: Sort Type"
 date: "2013-03-29T10:03:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2013/03/29/Friday-Puzzler-Sort-Type
 ---

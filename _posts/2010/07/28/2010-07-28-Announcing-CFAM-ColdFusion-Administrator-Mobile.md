@@ -2,8 +2,8 @@
 layout: post
 title: "Announcing CFAM - ColdFusion Administrator Mobile"
 date: "2010-07-28T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/28/Announcing-CFAM-ColdFusion-Administrator-Mobile
 ---

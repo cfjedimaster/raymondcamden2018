@@ -2,8 +2,8 @@
 layout: post
 title: "Getting an error running a Cordova project to iOS?"
 date: "2015-10-23T14:15:34+06:00"
-categories: development mobile 
-tags: cordova
+categories: [development,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2015/10/23/getting-an-error-running-a-cordova-project-to-ios
 ---

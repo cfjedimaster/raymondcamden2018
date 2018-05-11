@@ -2,8 +2,8 @@
 layout: post
 title: "Stop using jQuery!! (all the time...)"
 date: "2012-10-23T10:10:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/10/23/Stop-using-jQuery-all-the-time
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusionJedi.com lives (hopefully)"
 date: "2007-06-06T19:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/06/ColdFusionJedicom-lives-hopefully
 ---

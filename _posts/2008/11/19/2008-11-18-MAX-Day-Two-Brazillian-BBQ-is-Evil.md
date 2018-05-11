@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Day Two - Brazillian BBQ is Evil"
 date: "2008-11-19T09:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/11/19/MAX-Day-Two-Brazillian-BBQ-is-Evil
 ---

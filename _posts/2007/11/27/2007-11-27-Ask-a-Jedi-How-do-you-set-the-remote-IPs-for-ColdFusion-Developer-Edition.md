@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How do you set the remote IPs for ColdFusion Developer Edition?"
 date: "2007-11-27T16:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/27/Ask-a-Jedi-How-do-you-set-the-remote-IPs-for-ColdFusion-Developer-Edition
 ---

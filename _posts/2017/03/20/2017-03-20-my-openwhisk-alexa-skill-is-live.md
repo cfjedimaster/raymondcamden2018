@@ -2,8 +2,8 @@
 layout: post
 title: "My OpenWhisk Alexa Skill is Live!"
 date: "2017-03-20T16:58:00-07:00"
-categories: serverless 
-tags: openwhisk alexa
+categories: [serverless]
+tags: [openwhisk,alexa]
 banner_image: 
 permalink: /2017/03/20/my-openwhisk-alexa-skill-is-live
 ---

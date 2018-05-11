@@ -2,8 +2,8 @@
 layout: post
 title: "Why I love my insurance company (Mega)"
 date: "2007-04-03T10:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/03/Why-I-love-my-insurance-company-Mega
 ---

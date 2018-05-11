@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Challenge - Reorder a CFC File"
 date: "2007-08-24T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/24/Friday-Challenge-Reorder-a-CFC-File
 ---

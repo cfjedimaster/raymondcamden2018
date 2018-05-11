@@ -2,8 +2,8 @@
 layout: post
 title: "Updated CFTHREAD/CFJOIN POC from Adobe"
 date: "2006-09-13T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/09/13/Updated-CFTHREADCFJOIN-POC-from-Adobe
 ---

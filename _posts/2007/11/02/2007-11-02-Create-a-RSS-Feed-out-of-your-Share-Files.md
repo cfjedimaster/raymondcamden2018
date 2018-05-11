@@ -2,8 +2,8 @@
 layout: post
 title: "Create a RSS Feed out of your Share Files"
 date: "2007-11-02T19:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/02/Create-a-RSS-Feed-out-of-your-Share-Files
 ---

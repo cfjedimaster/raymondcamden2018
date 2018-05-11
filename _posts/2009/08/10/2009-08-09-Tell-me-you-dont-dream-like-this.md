@@ -2,8 +2,8 @@
 layout: post
 title: "Tell me you don't dream like this"
 date: "2009-08-10T09:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/08/10/Tell-me-you-dont-dream-like-this
 ---

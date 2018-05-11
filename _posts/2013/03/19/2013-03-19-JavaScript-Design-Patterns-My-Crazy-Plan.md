@@ -2,8 +2,8 @@
 layout: post
 title: "JavaScript Design Patterns - My Crazy Plan"
 date: "2013-03-19T15:03:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/03/19/JavaScript-Design-Patterns-My-Crazy-Plan
 ---

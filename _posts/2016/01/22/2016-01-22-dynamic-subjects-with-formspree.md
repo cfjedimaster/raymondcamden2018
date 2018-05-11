@@ -2,8 +2,8 @@
 layout: post
 title: "Dynamic Subjects with Formspree"
 date: "2016-01-22T08:29:46-06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: /images/2016/01/formspree_big.jpg
 permalink: /2016/01/22/dynamic-subjects-with-formspree
 ---

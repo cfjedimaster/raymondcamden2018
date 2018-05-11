@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Figuring out how many rows of data to use with Spry"
 date: "2006-12-22T09:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/12/22/Ask-a-Jedi-Figuring-out-how-many-rows-of-data-to-use-with-Spry
 ---

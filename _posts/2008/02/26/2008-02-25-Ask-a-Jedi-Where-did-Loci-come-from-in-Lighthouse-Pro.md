@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Where did Loci come from in Lighthouse Pro?"
 date: "2008-02-26T10:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/02/26/Ask-a-Jedi-Where-did-Loci-come-from-in-Lighthouse-Pro
 ---

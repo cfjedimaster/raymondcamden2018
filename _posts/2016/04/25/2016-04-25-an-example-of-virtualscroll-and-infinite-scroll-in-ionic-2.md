@@ -2,8 +2,8 @@
 layout: post
 title: "An example of virtualScroll and Infinite Scroll in Ionic 2"
 date: "2016-04-25T08:50:00-07:00"
-categories: mobile javascript 
-tags: ionic strongloop
+categories: [mobile,javascript]
+tags: [ionic,strongloop]
 banner_image: /images/banners/infinite.jpg
 permalink: /2016/04/25/an-example-of-virtualscroll-and-infinite-scroll-in-ionic-2
 ---

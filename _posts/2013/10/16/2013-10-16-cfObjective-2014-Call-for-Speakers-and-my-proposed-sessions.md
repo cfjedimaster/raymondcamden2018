@@ -2,8 +2,8 @@
 layout: post
 title: "cfObjective 2014 Call for Speakers (and my proposed sessions)"
 date: "2013-10-16T14:10:00+06:00"
-categories: coldfusion development html5 javascript 
-tags: 
+categories: [coldfusion,development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/10/16/cfObjective-2014-Call-for-Speakers-and-my-proposed-sessions
 ---

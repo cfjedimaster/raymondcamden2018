@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue Updates"
 date: "2006-05-16T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/16/ModelGlue-Updates
 ---

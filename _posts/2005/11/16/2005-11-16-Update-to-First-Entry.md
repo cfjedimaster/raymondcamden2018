@@ -2,8 +2,8 @@
 layout: post
 title: "Update to First Entry"
 date: "2005-11-16T22:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/16/Update-to-First-Entry
 ---

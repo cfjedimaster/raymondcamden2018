@@ -2,8 +2,8 @@
 layout: post
 title: "BellSouth - Thanks for the Suit!"
 date: "2005-12-20T16:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/12/20/BellSouth-Thanks-for-the-Suit
 ---

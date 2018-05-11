@@ -2,8 +2,8 @@
 layout: post
 title: "Looking for comments - CFCs for Exceptions"
 date: "2011-04-11T19:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/04/11/Looking-for-comments-CFCs-for-Exceptions
 ---

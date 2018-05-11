@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap Build and PhoneGap 3.0"
 date: "2013-10-01T15:10:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/10/01/PhoneGap-Build-and-PhoneGap-30
 ---

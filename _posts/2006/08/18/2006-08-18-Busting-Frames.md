@@ -2,8 +2,8 @@
 layout: post
 title: "Busting Frames"
 date: "2006-08-18T13:08:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/08/18/Busting-Frames
 ---

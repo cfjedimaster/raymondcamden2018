@@ -2,8 +2,8 @@
 layout: post
 title: "Helping spread the word - Contributions for Virginia Tech"
 date: "2007-04-18T07:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/18/Helping-spread-the-word-Contributions-for-Virginia-Tech
 ---

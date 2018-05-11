@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe Groups is now ColdFusion"
 date: "2010-04-13T20:04:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/04/13/Adobe-Groups-is-now-ColdFusion
 ---

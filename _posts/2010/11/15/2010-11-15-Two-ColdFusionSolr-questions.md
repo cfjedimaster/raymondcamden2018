@@ -2,8 +2,8 @@
 layout: post
 title: "Two ColdFusion/Solr questions"
 date: "2010-11-15T19:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/15/Two-ColdFusionSolr-questions
 ---

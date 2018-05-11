@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: My URL is smarter than your URL..."
 date: "2006-04-21T11:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/21/Friday-Puzzler-My-URL-is-smarter-than-your-URL
 ---

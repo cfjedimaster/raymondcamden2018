@@ -2,8 +2,8 @@
 layout: post
 title: "Testing HTML/AIR support for HTML5 controls"
 date: "2010-12-02T09:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/12/02/Testing-HTMLAIR-support-for-HTML5-controls
 ---

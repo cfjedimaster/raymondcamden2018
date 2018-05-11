@@ -2,8 +2,8 @@
 layout: post
 title: "Article: A Case Study in JavaScript Code Improvement"
 date: "2015-01-08T09:42:56+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/01/08/article-a-case-study-in-javascript-code-improvement
 ---

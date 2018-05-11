@@ -2,8 +2,8 @@
 layout: post
 title: "Presenting on ColdFusion 10 and WebSockets"
 date: "2012-05-03T14:05:00+06:00"
-categories: coldfusion html5 javascript 
-tags: 
+categories: [coldfusion,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/05/03/Presenting-on-ColdFusion-10-and-WebSockets
 ---

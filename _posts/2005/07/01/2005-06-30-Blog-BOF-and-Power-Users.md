@@ -2,8 +2,8 @@
 layout: post
 title: "Blog BOF and \"Power Users\""
 date: "2005-07-01T08:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/07/01/Blog-BOF-and-Power-Users
 ---

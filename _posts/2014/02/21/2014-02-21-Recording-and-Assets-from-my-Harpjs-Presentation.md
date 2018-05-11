@@ -2,8 +2,8 @@
 layout: post
 title: "Recording and Assets from my Harp.js Presentation"
 date: "2014-02-21T14:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/02/21/Recording-and-Assets-from-my-Harpjs-Presentation
 ---

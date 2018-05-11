@@ -2,8 +2,8 @@
 layout: post
 title: "HDC12 Presentation and Demo Assets"
 date: "2012-09-07T13:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2012/09/07/HDC12-Presentation-and-Demo-Assets
 ---

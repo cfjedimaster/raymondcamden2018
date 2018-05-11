@@ -2,8 +2,8 @@
 layout: post
 title: "Update to my Pie chart with lots of data post"
 date: "2011-01-26T07:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/01/26/Update-to-my-Pie-chart-with-lots-of-data-post
 ---

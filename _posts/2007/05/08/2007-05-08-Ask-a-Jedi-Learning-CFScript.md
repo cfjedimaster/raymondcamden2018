@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Learning CFScript"
 date: "2007-05-08T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/08/Ask-a-Jedi-Learning-CFScript
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Pardon me while I have a brain cramp (or three)"
 date: "2008-08-16T15:08:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/08/16/Pardon-me-while-I-have-a-brain-cramp-or-three
 ---

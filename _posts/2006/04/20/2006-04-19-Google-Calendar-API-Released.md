@@ -2,8 +2,8 @@
 layout: post
 title: "Google Calendar API Released"
 date: "2006-04-20T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/20/Google-Calendar-API-Released
 ---

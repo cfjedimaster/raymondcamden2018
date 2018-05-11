@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe Community Achievement Awards Announced"
 date: "2009-05-21T22:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/05/21/Adobe-Community-Achievement-Awards-Announced
 ---

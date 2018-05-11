@@ -2,8 +2,8 @@
 layout: post
 title: "My cheesy non-database ColdFusion Code for Model-Glue.com"
 date: "2007-11-19T12:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/19/My-cheesy-nondatabase-ColdFusion-Code-for-ModelGluecom
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Job Opening for ColdFusion Developer at Arizona State University"
 date: "2012-02-04T15:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/02/04/Job-Opening-for-ColdFusion-Developer-at-Arizona-State-University
 ---

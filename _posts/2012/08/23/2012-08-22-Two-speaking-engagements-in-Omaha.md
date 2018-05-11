@@ -2,8 +2,8 @@
 layout: post
 title: "Two speaking engagements in Omaha"
 date: "2012-08-23T09:08:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/08/23/Two-speaking-engagements-in-Omaha
 ---

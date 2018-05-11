@@ -2,8 +2,8 @@
 layout: post
 title: "Selecting multiple images in a PhoneGap/Cordova app"
 date: "2015-03-12T08:43:27+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/03/12/selecting-multiple-images-in-a-phonegapcordova-app
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "2 quick links (one tech, one music)"
 date: "2008-05-03T16:05:00+06:00"
-categories: coldfusion music 
-tags: 
+categories: [coldfusion,music]
+tags: []
 banner_image: 
 permalink: /2008/05/03/2-quick-links-one-tech-one-music
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New Spry Preview: Tooltips"
 date: "2007-06-23T13:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/06/23/New-Spry-Preview-Tooltips
 ---

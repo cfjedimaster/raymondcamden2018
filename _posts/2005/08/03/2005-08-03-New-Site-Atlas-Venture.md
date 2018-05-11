@@ -2,8 +2,8 @@
 layout: post
 title: "New Site: Atlas Venture"
 date: "2005-08-03T18:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/03/New-Site-Atlas-Venture
 ---

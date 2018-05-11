@@ -2,8 +2,8 @@
 layout: post
 title: "Lighthouse Pro 2.5 Out the Door (Kuler, YouTube News too...)"
 date: "2008-10-17T12:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/17/Lighthouse-Pro-25-Out-the-Door-Kuler-YouTube-News-too
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - Football Nation"
 date: "2012-03-29T18:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/03/29/ColdFusion-Job-Opening-Football-Nation
 ---

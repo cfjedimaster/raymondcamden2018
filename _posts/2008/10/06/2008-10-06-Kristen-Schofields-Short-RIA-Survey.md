@@ -2,8 +2,8 @@
 layout: post
 title: "Kristen Schofield's Short RIA Survey"
 date: "2008-10-06T21:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/10/06/Kristen-Schofields-Short-RIA-Survey
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Removing Pagination from CFGRID"
 date: "2008-12-21T17:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/12/21/Ask-a-Jedi-Removing-Pagination-from-CFGRID
 ---

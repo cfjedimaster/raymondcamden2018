@@ -2,8 +2,8 @@
 layout: post
 title: "Duplicate Application name issue"
 date: "2007-04-12T12:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/12/Duplicate-Application-name-issue
 ---

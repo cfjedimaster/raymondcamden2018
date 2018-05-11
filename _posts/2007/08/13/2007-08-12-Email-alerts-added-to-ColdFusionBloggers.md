@@ -2,8 +2,8 @@
 layout: post
 title: "Email alerts added to ColdFusionBloggers"
 date: "2007-08-13T08:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/08/13/Email-alerts-added-to-ColdFusionBloggers
 ---

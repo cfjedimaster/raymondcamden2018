@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Ionic Native - Shake, Rattle, and Roll (Follow Up)"
 date: "2016-08-22T11:32:00-07:00"
-categories: javascript mobile 
-tags: ionic
+categories: [javascript,mobile]
+tags: [ionic]
 banner_image: /images/banners/shakerattle.jpg
 permalink: /2016/08/22/working-with-ionic-native-shake-rattle-and-roll-follow-up
 ---

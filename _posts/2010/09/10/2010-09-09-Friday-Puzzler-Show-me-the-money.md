@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: Show me the money"
 date: "2010-09-10T09:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/09/10/Friday-Puzzler-Show-me-the-money
 ---

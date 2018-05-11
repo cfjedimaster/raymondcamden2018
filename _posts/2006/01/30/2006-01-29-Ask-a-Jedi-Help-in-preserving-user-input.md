@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Help in preserving user input"
 date: "2006-01-30T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/30/Ask-a-Jedi-Help-in-preserving-user-input
 ---

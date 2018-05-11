@@ -2,8 +2,8 @@
 layout: post
 title: "HTML5 Data Attribute Example"
 date: "2011-11-03T10:11:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/11/03/HTML5-Data-Attribute-Example
 ---

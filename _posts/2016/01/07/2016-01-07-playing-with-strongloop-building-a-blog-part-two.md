@@ -2,8 +2,8 @@
 layout: post
 title: "Playing with StrongLoop - Building a Blog - Part Two"
 date: "2016-01-07T15:03:48+06:00"
-categories: development javascript 
-tags: nodejs strongloop
+categories: [development,javascript]
+tags: [nodejs,strongloop]
 banner_image: 
 permalink: /2016/01/07/playing-with-strongloop-building-a-blog-part-two
 ---

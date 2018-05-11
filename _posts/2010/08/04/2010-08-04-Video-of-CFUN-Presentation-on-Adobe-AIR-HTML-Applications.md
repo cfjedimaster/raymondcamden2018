@@ -2,8 +2,8 @@
 layout: post
 title: "Video of CFUN Presentation on Adobe AIR HTML Applications"
 date: "2010-08-04T12:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/08/04/Video-of-CFUN-Presentation-on-Adobe-AIR-HTML-Applications
 ---

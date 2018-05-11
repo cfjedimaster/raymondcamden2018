@@ -2,8 +2,8 @@
 layout: post
 title: "My biggest regret (in code)"
 date: "2011-01-21T09:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/01/21/My-biggest-regret-in-code
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "cfObjective - Scorpio Keynote by Jason Delmore, Product Manager for CF."
 date: "2007-05-04T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/04/cfObjective-Scorpio-Keynote-by-Jason-Delmore-Product-Manager-for-CF
 ---

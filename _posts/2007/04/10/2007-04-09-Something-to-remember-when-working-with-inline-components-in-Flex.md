@@ -2,8 +2,8 @@
 layout: post
 title: "Something to remember when working with inline components in Flex"
 date: "2007-04-10T10:04:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/04/10/Something-to-remember-when-working-with-inline-components-in-Flex
 ---

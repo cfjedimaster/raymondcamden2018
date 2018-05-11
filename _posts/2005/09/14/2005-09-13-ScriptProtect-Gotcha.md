@@ -2,8 +2,8 @@
 layout: post
 title: "ScriptProtect \"Gotcha\""
 date: "2005-09-14T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/14/ScriptProtect-Gotcha
 ---

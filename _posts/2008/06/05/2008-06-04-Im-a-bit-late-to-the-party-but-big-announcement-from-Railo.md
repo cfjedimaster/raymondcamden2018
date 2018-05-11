@@ -2,8 +2,8 @@
 layout: post
 title: "I'm a bit late to the party, but big announcement from Railo"
 date: "2008-06-05T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/05/Im-a-bit-late-to-the-party-but-big-announcement-from-Railo
 ---

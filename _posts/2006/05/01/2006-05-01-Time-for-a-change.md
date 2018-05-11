@@ -2,8 +2,8 @@
 layout: post
 title: "Time for a change..."
 date: "2006-05-01T14:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/01/Time-for-a-change
 ---

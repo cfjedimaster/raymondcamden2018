@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Formatting a year to just 08?"
 date: "2008-01-17T14:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/17/Ask-a-Jedi-Formatting-a-year-to-just-08
 ---

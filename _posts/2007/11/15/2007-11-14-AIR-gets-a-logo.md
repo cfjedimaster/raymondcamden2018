@@ -2,8 +2,8 @@
 layout: post
 title: "AIR gets a logo"
 date: "2007-11-15T11:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/11/15/AIR-gets-a-logo
 ---

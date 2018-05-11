@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Organizing user uploads"
 date: "2006-12-28T09:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/12/28/Ask-a-Jedi-Organizing-user-uploads
 ---

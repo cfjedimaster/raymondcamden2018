@@ -2,8 +2,8 @@
 layout: post
 title: "Building a Parse.com Enabled PhoneGap App - Part 3"
 date: "2012-09-27T16:09:00+06:00"
-categories: development html5 javascript mobile 
-tags: 
+categories: [development,html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2012/09/27/Building-a-Parsecom-Enabled-PhoneGap-App-Part-3
 ---

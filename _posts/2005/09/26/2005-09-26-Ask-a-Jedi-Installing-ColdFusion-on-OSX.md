@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Installing ColdFusion on OSX"
 date: "2005-09-26T12:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/26/Ask-a-Jedi-Installing-ColdFusion-on-OSX
 ---

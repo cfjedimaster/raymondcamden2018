@@ -2,8 +2,8 @@
 layout: post
 title: "CFUNITED05 Presentations"
 date: "2005-07-01T08:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/01/CFUNITED05-Presentations
 ---

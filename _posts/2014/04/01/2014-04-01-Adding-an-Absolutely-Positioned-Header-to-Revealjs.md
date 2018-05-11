@@ -2,8 +2,8 @@
 layout: post
 title: "Adding an Absolutely Positioned Header to Reveal.js"
 date: "2014-04-01T11:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2014/04/01/Adding-an-Absolutely-Positioned-Header-to-Revealjs
 ---

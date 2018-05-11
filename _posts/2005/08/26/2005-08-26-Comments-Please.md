@@ -2,8 +2,8 @@
 layout: post
 title: "Comments Please..."
 date: "2005-08-26T15:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/26/Comments-Please
 ---

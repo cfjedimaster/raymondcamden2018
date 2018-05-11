@@ -2,8 +2,8 @@
 layout: post
 title: "What I want from an App Store (as a developer)"
 date: "2011-11-01T15:11:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2011/11/01/What-I-want-from-an-App-Store-as-a-developer
 ---

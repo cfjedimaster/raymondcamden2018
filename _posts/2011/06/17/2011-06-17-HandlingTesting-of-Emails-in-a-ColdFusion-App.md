@@ -2,8 +2,8 @@
 layout: post
 title: "Handling/Testing of Emails in a ColdFusion App"
 date: "2011-06-17T18:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/06/17/HandlingTesting-of-Emails-in-a-ColdFusion-App
 ---

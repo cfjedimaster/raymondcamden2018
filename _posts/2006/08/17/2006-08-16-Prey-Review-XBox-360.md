@@ -2,8 +2,8 @@
 layout: post
 title: "Prey Review (XBox 360)"
 date: "2006-08-17T09:08:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2006/08/17/Prey-Review-XBox-360
 ---

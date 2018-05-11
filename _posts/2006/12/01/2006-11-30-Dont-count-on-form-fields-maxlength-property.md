@@ -2,8 +2,8 @@
 layout: post
 title: "Don't count on form field's maxlength property"
 date: "2006-12-01T11:12:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2006/12/01/Dont-count-on-form-fields-maxlength-property
 ---

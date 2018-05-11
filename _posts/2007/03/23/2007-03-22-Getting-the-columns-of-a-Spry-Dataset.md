@@ -2,8 +2,8 @@
 layout: post
 title: "Getting the columns of a Spry Dataset"
 date: "2007-03-23T09:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/03/23/Getting-the-columns-of-a-Spry-Dataset
 ---

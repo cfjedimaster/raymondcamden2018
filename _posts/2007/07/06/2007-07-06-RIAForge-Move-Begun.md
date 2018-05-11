@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Move Begun"
 date: "2007-07-06T22:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/07/06/RIAForge-Move-Begun
 ---

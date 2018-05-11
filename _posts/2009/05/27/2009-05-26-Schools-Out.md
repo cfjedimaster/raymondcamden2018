@@ -2,8 +2,8 @@
 layout: post
 title: "School's Out"
 date: "2009-05-27T08:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/05/27/Schools-Out
 ---

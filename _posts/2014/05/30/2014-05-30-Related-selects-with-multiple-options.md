@@ -2,8 +2,8 @@
 layout: post
 title: "Related selects with multiple options"
 date: "2014-05-30T18:05:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2014/05/30/Related-selects-with-multiple-options
 ---

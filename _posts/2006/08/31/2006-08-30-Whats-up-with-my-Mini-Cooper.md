@@ -2,8 +2,8 @@
 layout: post
 title: "What's up with my Mini Cooper?"
 date: "2006-08-31T10:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/08/31/Whats-up-with-my-Mini-Cooper
 ---

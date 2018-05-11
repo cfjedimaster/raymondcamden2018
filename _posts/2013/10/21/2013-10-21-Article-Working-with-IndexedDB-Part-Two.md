@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Working with IndexedDB - Part Two"
 date: "2013-10-21T14:10:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/10/21/Article-Working-with-IndexedDB-Part-Two
 ---

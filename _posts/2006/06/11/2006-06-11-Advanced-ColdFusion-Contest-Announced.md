@@ -2,8 +2,8 @@
 layout: post
 title: "Advanced ColdFusion Contest Announced"
 date: "2006-06-11T21:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/11/Advanced-ColdFusion-Contest-Announced
 ---

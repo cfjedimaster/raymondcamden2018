@@ -2,8 +2,8 @@
 layout: post
 title: "Flying the not-so-friendly skies"
 date: "2008-07-17T15:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/07/17/Flying-the-notsofriendly-skies
 ---

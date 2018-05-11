@@ -2,8 +2,8 @@
 layout: post
 title: "Testing MetaCert's Security API Service"
 date: "2015-03-13T12:24:22+06:00"
-categories: development javascript mobile 
-tags: 
+categories: [development,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2015/03/13/testing-metacerts-security-api-service
 ---

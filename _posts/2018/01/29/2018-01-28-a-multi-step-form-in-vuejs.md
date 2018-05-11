@@ -2,8 +2,8 @@
 layout: post
 title: "A Multi-Step Form in Vue.js"
 date: "2018-01-29"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: 
 permalink: /2018/01/29/a-multi-step-form-in-vuejs
 ---

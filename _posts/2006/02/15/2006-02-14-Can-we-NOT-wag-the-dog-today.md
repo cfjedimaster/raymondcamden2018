@@ -2,8 +2,8 @@
 layout: post
 title: "Can we NOT wag the dog today?"
 date: "2006-02-15T09:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/02/15/Can-we-NOT-wag-the-dog-today
 ---

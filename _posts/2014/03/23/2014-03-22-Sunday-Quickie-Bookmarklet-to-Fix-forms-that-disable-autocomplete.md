@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday Quickie - Bookmarklet to Fix Forms that Disable autocomplete"
 date: "2014-03-23T10:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2014/03/23/Sunday-Quickie-Bookmarklet-to-Fix-forms-that-disable-autocomplete
 ---

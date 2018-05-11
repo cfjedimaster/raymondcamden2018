@@ -2,8 +2,8 @@
 layout: post
 title: "How I cheated Mozilla's new HTML5 Game"
 date: "2012-03-28T15:03:00+06:00"
-categories: html5 video games 
-tags: 
+categories: [html5,video games]
+tags: []
 banner_image: 
 permalink: /2012/03/28/How-I-cheated-Mozillas-new-HTML5-Game
 ---

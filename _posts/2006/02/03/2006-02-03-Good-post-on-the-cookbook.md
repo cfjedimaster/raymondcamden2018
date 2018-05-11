@@ -2,8 +2,8 @@
 layout: post
 title: "Good post on the cookbook"
 date: "2006-02-03T15:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/03/Good-post-on-the-cookbook
 ---

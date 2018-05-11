@@ -2,8 +2,8 @@
 layout: post
 title: "Chrome 37 has landed - but what exactly changed?"
 date: "2014-08-27T08:08:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/08/27/Chrome-37-has-landed-but-what-exactly-changed
 ---

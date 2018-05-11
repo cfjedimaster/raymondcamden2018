@@ -2,8 +2,8 @@
 layout: post
 title: "Nuxt and Server-Side/Static Vue.js Sites"
 date: "2018-01-15"
-categories: development 
-tags: javascript vuejs
+categories: [development]
+tags: [javascript,vuejs]
 banner_image: 
 permalink: /2018/01/15/nuxt-and-server-sidestatic-vuejs-sites
 ---

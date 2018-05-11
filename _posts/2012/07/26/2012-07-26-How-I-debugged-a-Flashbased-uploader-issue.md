@@ -2,8 +2,8 @@
 layout: post
 title: "How I debugged a Flash-based uploader issue"
 date: "2012-07-26T15:07:00+06:00"
-categories: coldfusion development flex 
-tags: 
+categories: [coldfusion,development,flex]
+tags: []
 banner_image: 
 permalink: /2012/07/26/How-I-debugged-a-Flashbased-uploader-issue
 ---

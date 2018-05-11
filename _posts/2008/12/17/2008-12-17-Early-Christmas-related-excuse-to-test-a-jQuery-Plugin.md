@@ -2,8 +2,8 @@
 layout: post
 title: "Early Christmas related excuse to test a jQuery Plugin"
 date: "2008-12-17T17:12:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2008/12/17/Early-Christmas-related-excuse-to-test-a-jQuery-Plugin
 ---

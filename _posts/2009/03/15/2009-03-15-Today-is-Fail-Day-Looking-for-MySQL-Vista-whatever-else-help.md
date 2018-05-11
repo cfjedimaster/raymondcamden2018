@@ -2,8 +2,8 @@
 layout: post
 title: "Today is Fail Day... (Looking for MySQL, Vista, whatever else help)"
 date: "2009-03-15T15:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/03/15/Today-is-Fail-Day-Looking-for-MySQL-Vista-whatever-else-help
 ---

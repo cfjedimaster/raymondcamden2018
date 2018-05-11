@@ -2,8 +2,8 @@
 layout: post
 title: "Missing orders, Prime membership, Cloud music, etc with Amazon?"
 date: "2015-02-02T16:18:10+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2015/02/02/missing-orders-prime-membership-cloud-music-etc-with-amazon
 ---

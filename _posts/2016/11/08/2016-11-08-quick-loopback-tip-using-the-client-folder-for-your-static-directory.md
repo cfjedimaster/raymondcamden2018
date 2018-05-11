@@ -2,8 +2,8 @@
 layout: post
 title: "Quick LoopBack Tip - Using the Client Folder for your Static Directory"
 date: "2016-11-08T09:36:00-07:00"
-categories: development 
-tags: loopback
+categories: [development]
+tags: [loopback]
 banner_image: 
 permalink: /2016/11/08/quick-loopback-tip-using-the-client-folder-for-your-static-directory
 ---

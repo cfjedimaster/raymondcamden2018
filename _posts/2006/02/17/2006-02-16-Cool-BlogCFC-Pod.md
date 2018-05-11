@@ -2,8 +2,8 @@
 layout: post
 title: "Cool BlogCFC Pod"
 date: "2006-02-17T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/17/Cool-BlogCFC-Pod
 ---

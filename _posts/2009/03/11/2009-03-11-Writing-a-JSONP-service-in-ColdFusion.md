@@ -2,8 +2,8 @@
 layout: post
 title: "Writing a JSONP service in ColdFusion"
 date: "2009-03-11T14:03:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/03/11/Writing-a-JSONP-service-in-ColdFusion
 ---

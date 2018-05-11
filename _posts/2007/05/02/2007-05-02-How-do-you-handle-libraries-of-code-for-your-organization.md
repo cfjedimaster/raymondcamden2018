@@ -2,8 +2,8 @@
 layout: post
 title: "How do you handle libraries of code for your organization?"
 date: "2007-05-02T12:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/05/02/How-do-you-handle-libraries-of-code-for-your-organization
 ---

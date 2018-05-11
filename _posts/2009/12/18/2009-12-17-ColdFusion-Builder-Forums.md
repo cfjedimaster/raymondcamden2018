@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder Forums"
 date: "2009-12-18T10:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/12/18/ColdFusion-Builder-Forums
 ---

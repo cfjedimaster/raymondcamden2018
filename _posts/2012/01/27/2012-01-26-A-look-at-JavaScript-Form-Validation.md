@@ -2,8 +2,8 @@
 layout: post
 title: "A look at JavaScript Form Validation"
 date: "2012-01-27T10:01:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2012/01/27/A-look-at-JavaScript-Form-Validation
 ---

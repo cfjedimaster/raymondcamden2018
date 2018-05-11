@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue code to avoid"
 date: "2007-04-03T11:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/03/ModelGlue-code-to-avoid
 ---

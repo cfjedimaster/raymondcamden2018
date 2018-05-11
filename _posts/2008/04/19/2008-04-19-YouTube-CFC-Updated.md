@@ -2,8 +2,8 @@
 layout: post
 title: "YouTube CFC Updated"
 date: "2008-04-19T22:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/19/YouTube-CFC-Updated
 ---

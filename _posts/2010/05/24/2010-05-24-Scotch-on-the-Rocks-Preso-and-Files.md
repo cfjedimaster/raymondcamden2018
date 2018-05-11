@@ -2,8 +2,8 @@
 layout: post
 title: "Scotch on the Rocks Preso and Files"
 date: "2010-05-24T16:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/05/24/Scotch-on-the-Rocks-Preso-and-Files
 ---

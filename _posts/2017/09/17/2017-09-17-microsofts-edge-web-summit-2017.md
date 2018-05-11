@@ -2,8 +2,8 @@
 layout: post
 title: "Microsoft's Edge Web Summit 2017"
 date: "2017-09-17T15:35:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2017/09/17/microsofts-edge-web-summit-2017
 ---

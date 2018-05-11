@@ -2,8 +2,8 @@
 layout: post
 title: "Spry built-in variables for Datasets"
 date: "2006-11-01T11:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/11/01/Spry-builtin-variables-for-Datasets
 ---

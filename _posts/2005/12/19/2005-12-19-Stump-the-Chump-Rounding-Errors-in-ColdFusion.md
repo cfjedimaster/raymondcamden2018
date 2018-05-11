@@ -2,8 +2,8 @@
 layout: post
 title: "Stump the Chump: Rounding Errors in ColdFusion"
 date: "2005-12-19T12:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/19/Stump-the-Chump-Rounding-Errors-in-ColdFusion
 ---

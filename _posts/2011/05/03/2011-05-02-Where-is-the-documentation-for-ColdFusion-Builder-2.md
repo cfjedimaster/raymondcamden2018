@@ -2,8 +2,8 @@
 layout: post
 title: "Where is the documentation for ColdFusion Builder 2?"
 date: "2011-05-03T10:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/05/03/Where-is-the-documentation-for-ColdFusion-Builder-2
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New project: Service Data Format Library"
 date: "2013-04-10T08:04:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/04/10/New-project-Service-Data-Format-Library
 ---

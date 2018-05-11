@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Creating a list of product options"
 date: "2008-08-20T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/20/Ask-a-Jedi-Creating-a-list-of-product-options
 ---

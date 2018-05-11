@@ -2,8 +2,8 @@
 layout: post
 title: "Detecting invalid HTML with JavaScript"
 date: "2012-01-23T14:01:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/01/23/Detecting-invalid-HTML-with-JavaScript
 ---

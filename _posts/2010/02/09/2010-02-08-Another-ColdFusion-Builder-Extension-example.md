@@ -2,8 +2,8 @@
 layout: post
 title: "Another ColdFusion Builder Extension example"
 date: "2010-02-09T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/09/Another-ColdFusion-Builder-Extension-example
 ---

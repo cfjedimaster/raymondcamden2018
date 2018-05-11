@@ -2,8 +2,8 @@
 layout: post
 title: "Update on My Random Comic Book Character API"
 date: "2017-06-21T12:35:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/06/21/update-on-my-random-comic-book-character-api
 ---

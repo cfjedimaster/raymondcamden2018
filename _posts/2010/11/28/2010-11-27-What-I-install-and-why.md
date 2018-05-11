@@ -2,8 +2,8 @@
 layout: post
 title: "What I install (and why)"
 date: "2010-11-28T11:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/11/28/What-I-install-and-why
 ---

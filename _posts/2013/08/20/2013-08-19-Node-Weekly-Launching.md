@@ -2,8 +2,8 @@
 layout: post
 title: "Node Weekly Launching"
 date: "2013-08-20T10:08:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/08/20/Node-Weekly-Launching
 ---

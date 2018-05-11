@@ -2,8 +2,8 @@
 layout: post
 title: "Building your first Model-Glue application (part 9)"
 date: "2006-04-03T22:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/03/Building-your-first-ModelGlue-application-part-9
 ---

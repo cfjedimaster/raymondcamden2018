@@ -2,8 +2,8 @@
 layout: post
 title: "Quick thanks to Aquafold"
 date: "2007-07-30T12:07:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/07/30/Quick-thanks-to-Aquafold
 ---

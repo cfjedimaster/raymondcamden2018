@@ -2,8 +2,8 @@
 layout: post
 title: "cfObjective Call for Speakers is open"
 date: "2010-12-08T14:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/12/08/cfObjective-Call-for-Speakers-is-open
 ---

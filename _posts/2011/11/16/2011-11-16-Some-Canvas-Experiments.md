@@ -2,8 +2,8 @@
 layout: post
 title: "Some Canvas Experiments"
 date: "2011-11-16T16:11:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/11/16/Some-Canvas-Experiments
 ---

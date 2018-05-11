@@ -2,8 +2,8 @@
 layout: post
 title: "Slow posting, responding for a while"
 date: "2013-11-13T21:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/11/13/Slow-posting-responding-for-a-while
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Edge Code CC and Edge Inspect Integration"
 date: "2013-06-11T17:06:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2013/06/11/Edge-Code-CC-and-Edge-Inspect-Integration
 ---

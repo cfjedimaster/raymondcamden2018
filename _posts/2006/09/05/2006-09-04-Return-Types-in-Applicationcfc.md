@@ -2,8 +2,8 @@
 layout: post
 title: "Return Types in Application.cfc"
 date: "2006-09-05T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/09/05/Return-Types-in-Applicationcfc
 ---

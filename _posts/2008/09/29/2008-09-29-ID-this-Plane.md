@@ -2,8 +2,8 @@
 layout: post
 title: "ID this Plane"
 date: "2008-09-29T21:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/09/29/ID-this-Plane
 ---

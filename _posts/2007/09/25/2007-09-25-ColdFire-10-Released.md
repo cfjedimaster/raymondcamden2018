@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFire 1.0 Released"
 date: "2007-09-25T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/25/ColdFire-10-Released
 ---

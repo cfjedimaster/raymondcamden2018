@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting error reporting difference in Chrome and Firefox"
 date: "2015-02-14T13:03:37+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2015/02/14/interesting-error-reporting-difference-in-chrome-and-firefox
 ---

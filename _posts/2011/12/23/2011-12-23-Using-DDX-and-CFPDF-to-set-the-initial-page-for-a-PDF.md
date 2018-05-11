@@ -2,8 +2,8 @@
 layout: post
 title: "Using DDX and CFPDF to set the initial page for a PDF"
 date: "2011-12-23T12:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/12/23/Using-DDX-and-CFPDF-to-set-the-initial-page-for-a-PDF
 ---

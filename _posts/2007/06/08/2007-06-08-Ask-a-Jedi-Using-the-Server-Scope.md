@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using the Server Scope"
 date: "2007-06-08T19:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/08/Ask-a-Jedi-Using-the-Server-Scope
 ---

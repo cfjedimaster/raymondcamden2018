@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion Builder's debugger for Flex and Ajax"
 date: "2010-11-04T15:11:00+06:00"
-categories: coldfusion flex jquery 
-tags: 
+categories: [coldfusion,flex,jquery]
+tags: []
 banner_image: 
 permalink: /2010/11/04/Using-ColdFusion-Builders-debugger-for-Flex-and-Ajax
 ---

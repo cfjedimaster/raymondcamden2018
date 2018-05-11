@@ -2,8 +2,8 @@
 layout: post
 title: "Brackets Sprint 22 - The Awesomer"
 date: "2013-03-27T12:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/03/27/Brackets-Sprint-22-The-Awesomer
 ---

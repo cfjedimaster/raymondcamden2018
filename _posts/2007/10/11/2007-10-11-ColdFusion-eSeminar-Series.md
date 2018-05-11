@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion eSeminar Series"
 date: "2007-10-11T13:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/11/ColdFusion-eSeminar-Series
 ---

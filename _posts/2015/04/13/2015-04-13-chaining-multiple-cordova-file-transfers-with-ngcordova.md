@@ -2,8 +2,8 @@
 layout: post
 title: "Chaining multiple Cordova File Transfers with ngCordova"
 date: "2015-04-13T11:28:39+06:00"
-categories: development html5 javascript mobile 
-tags: ionic
+categories: [development,html5,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/04/13/chaining-multiple-cordova-file-transfers-with-ngcordova
 ---

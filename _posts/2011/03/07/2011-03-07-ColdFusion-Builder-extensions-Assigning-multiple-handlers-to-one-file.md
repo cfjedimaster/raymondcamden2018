@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder extensions - Assigning multiple handlers to one file"
 date: "2011-03-07T16:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/07/ColdFusion-Builder-extensions-Assigning-multiple-handlers-to-one-file
 ---

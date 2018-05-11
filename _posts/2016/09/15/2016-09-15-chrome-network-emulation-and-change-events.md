@@ -2,8 +2,8 @@
 layout: post
 title: "Chrome Network Emulation and Change Events"
 date: "2016-09-15T10:58:00-07:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2016/09/15/chrome-network-emulation-and-change-events
 ---

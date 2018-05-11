@@ -2,8 +2,8 @@
 layout: post
 title: "Forta's Response to the Computerworld Article"
 date: "2007-05-26T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/26/Fortas-Response-to-the-Computerworld-Article
 ---

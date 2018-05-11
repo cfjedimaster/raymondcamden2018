@@ -2,8 +2,8 @@
 layout: post
 title: "Oops, RSS issue"
 date: "2014-12-10T06:32:19+06:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: 
 permalink: /2014/12/10/oops-rss-issue
 ---

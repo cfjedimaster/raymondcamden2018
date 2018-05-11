@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at NCDevCon"
 date: "2011-08-09T16:08:00+06:00"
-categories: coldfusion jquery mobile 
-tags: 
+categories: [coldfusion,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/08/09/Speaking-at-NCDevCon
 ---

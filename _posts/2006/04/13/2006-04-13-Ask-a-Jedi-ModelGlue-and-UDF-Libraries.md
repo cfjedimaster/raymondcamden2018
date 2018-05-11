@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Model-Glue and UDF Libraries"
 date: "2006-04-13T15:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/13/Ask-a-Jedi-ModelGlue-and-UDF-Libraries
 ---

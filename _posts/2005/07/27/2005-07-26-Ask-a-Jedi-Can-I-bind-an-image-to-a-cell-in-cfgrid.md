@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Can I bind an image to a cell in cfgrid?"
 date: "2005-07-27T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/27/Ask-a-Jedi-Can-I-bind-an-image-to-a-cell-in-cfgrid
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Apollo videos from Apollo Camp"
 date: "2007-03-21T17:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/03/21/Apollo-videos-from-Apollo-Camp
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Big update for ColdFusion 10, and Security Fix"
 date: "2013-07-09T14:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/07/09/Big-update-for-ColdFusion-10-and-Security-Fix
 ---

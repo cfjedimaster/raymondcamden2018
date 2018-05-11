@@ -2,8 +2,8 @@
 layout: post
 title: "Demo of a multi-step form in jQuery Mobile"
 date: "2011-11-18T12:11:00+06:00"
-categories: coldfusion jquery mobile 
-tags: 
+categories: [coldfusion,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/11/18/Demo-of-a-multistep-form-in-jQuery-Mobile
 ---

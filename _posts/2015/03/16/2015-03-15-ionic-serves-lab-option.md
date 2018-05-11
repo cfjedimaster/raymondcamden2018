@@ -2,8 +2,8 @@
 layout: post
 title: "Ionic Serve's Lab option"
 date: "2015-03-16T09:41:16+06:00"
-categories: development mobile 
-tags: ionic
+categories: [development,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/03/16/ionic-serves-lab-option
 ---

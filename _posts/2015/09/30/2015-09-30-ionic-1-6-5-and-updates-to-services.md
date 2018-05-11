@@ -2,8 +2,8 @@
 layout: post
 title: "Ionic 1.6.5 and updates to Services"
 date: "2015-09-30T15:34:46+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/09/30/ionic-1-6-5-and-updates-to-services
 ---

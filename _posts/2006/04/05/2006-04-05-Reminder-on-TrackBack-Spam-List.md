@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder on TrackBack Spam List"
 date: "2006-04-05T18:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/04/05/Reminder-on-TrackBack-Spam-List
 ---

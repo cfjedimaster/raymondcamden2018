@@ -2,8 +2,8 @@
 layout: post
 title: "Position of CFERROR Matters"
 date: "2006-11-30T17:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/30/Position-of-CFERROR-Matters
 ---

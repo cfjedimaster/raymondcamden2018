@@ -2,8 +2,8 @@
 layout: post
 title: "Recommendation: The Merchant Princes series by Charles Stross"
 date: "2014-02-23T23:02:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2014/02/23/Recommendation-The-Merchant-Princes-series-by-Charles-Stross
 ---

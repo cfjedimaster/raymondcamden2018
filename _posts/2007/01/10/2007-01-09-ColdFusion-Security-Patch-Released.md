@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Security Patch Released"
 date: "2007-01-10T08:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/10/ColdFusion-Security-Patch-Released
 ---

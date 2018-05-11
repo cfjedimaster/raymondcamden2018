@@ -2,8 +2,8 @@
 layout: post
 title: "Quick TailView Tip"
 date: "2009-11-25T09:11:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2009/11/25/Quick-TailView-Tip
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ContentBox Holiday Contest"
 date: "2012-11-26T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/11/26/ContentBox-Holiday-Contest
 ---

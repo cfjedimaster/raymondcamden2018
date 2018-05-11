@@ -2,8 +2,8 @@
 layout: post
 title: "Online presentation tonight on ColdFusion 11"
 date: "2014-12-17T05:19:48+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/12/17/online-presentation-tonight-on-coldfusion-11
 ---

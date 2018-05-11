@@ -2,8 +2,8 @@
 layout: post
 title: "Spry 1.2 Released"
 date: "2006-07-14T07:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/07/14/Spry-12-Released
 ---

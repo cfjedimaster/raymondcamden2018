@@ -2,8 +2,8 @@
 layout: post
 title: "New ORM Related session @ MAX"
 date: "2008-10-30T16:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/30/New-ORM-Related-session-MAX
 ---

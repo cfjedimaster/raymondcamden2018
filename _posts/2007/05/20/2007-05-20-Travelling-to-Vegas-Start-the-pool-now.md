@@ -2,8 +2,8 @@
 layout: post
 title: "Travelling to Vegas - Start the pool now..."
 date: "2007-05-20T19:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/05/20/Travelling-to-Vegas-Start-the-pool-now
 ---

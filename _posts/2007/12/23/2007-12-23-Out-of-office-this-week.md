@@ -2,8 +2,8 @@
 layout: post
 title: "Out of office this week"
 date: "2007-12-23T16:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/12/23/Out-of-office-this-week
 ---

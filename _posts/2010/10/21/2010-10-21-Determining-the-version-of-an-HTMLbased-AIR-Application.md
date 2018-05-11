@@ -2,8 +2,8 @@
 layout: post
 title: "Determining the version of an HTML-based AIR Application"
 date: "2010-10-21T15:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/10/21/Determining-the-version-of-an-HTMLbased-AIR-Application
 ---

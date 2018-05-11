@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking tonight at Boston CFUG on CFIMAGE"
 date: "2007-08-08T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/08/Speaking-tonight-at-Boston-CFUG-on-CFIMAGE
 ---

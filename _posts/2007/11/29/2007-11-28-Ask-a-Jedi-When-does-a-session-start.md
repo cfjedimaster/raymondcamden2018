@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: When does a session start?"
 date: "2007-11-29T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/29/Ask-a-Jedi-When-does-a-session-start
 ---

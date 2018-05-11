@@ -2,8 +2,8 @@
 layout: post
 title: "Happy November, Happy National Adoption Month"
 date: "2007-11-01T15:11:00+06:00"
-categories: adoption 
-tags: 
+categories: [adoption]
+tags: []
 banner_image: 
 permalink: /2007/11/01/Happy-November-Happy-National-Adoption-Month
 ---

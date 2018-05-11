@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of script-based FTP operations"
 date: "2011-09-10T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/09/10/Quick-example-of-scriptbased-FTP-operations
 ---

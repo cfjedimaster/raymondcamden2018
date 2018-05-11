@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge is now officially the mac-daddy"
 date: "2008-06-12T18:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/06/12/RIAForge-is-now-officially-the-macdaddy
 ---

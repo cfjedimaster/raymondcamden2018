@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Documentation on VFS Support"
 date: "2009-10-12T09:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/10/12/Ask-a-Jedi-Documentation-on-VFS-Support
 ---

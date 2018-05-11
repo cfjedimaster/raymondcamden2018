@@ -2,8 +2,8 @@
 layout: post
 title: "Coming soon (like tomorrow) - 24 ways"
 date: "2012-11-30T14:11:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2012/11/30/Coming-soon-like-tomorrow-24-ways
 ---

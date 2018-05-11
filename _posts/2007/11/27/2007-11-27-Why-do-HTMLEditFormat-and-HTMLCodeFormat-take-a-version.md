@@ -2,8 +2,8 @@
 layout: post
 title: "Why do HTMLEditFormat and HTMLCodeFormat take a version?"
 date: "2007-11-27T17:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/27/Why-do-HTMLEditFormat-and-HTMLCodeFormat-take-a-version
 ---

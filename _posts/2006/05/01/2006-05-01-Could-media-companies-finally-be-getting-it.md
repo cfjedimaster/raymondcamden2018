@@ -2,8 +2,8 @@
 layout: post
 title: "Could media companies finally be getting it?"
 date: "2006-05-01T17:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/01/Could-media-companies-finally-be-getting-it
 ---

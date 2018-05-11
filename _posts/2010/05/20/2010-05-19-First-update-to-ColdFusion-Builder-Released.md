@@ -2,8 +2,8 @@
 layout: post
 title: "First update to ColdFusion Builder Released"
 date: "2010-05-20T08:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/20/First-update-to-ColdFusion-Builder-Released
 ---

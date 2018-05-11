@@ -2,8 +2,8 @@
 layout: post
 title: "Another charting option: XML/SWF Charts"
 date: "2008-01-04T08:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/01/04/Another-charting-option-XMLSWF-Charts
 ---

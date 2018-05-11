@@ -2,8 +2,8 @@
 layout: post
 title: "Sometimes it's the small mistakes... (2)"
 date: "2010-05-08T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/05/08/Sometimes-its-the-small-mistakes-2
 ---

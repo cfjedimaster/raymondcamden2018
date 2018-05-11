@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Question on DBA's and their plans to ruin our lives..."
 date: "2008-06-26T10:06:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2008/06/26/Ask-a-Jedi-Question-on-DBAs-and-their-plans-to-ruin-our-lives
 ---

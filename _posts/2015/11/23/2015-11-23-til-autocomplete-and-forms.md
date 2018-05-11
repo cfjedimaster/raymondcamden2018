@@ -2,8 +2,8 @@
 layout: post
 title: "TIL - Autocomplete and forms"
 date: "2015-11-23T15:34:15+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2015/11/23/til-autocomplete-and-forms
 ---

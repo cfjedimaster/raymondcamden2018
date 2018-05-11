@@ -2,8 +2,8 @@
 layout: post
 title: "Is MAX over yet?"
 date: "2008-11-24T11:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/11/24/Is-MAX-over-yet
 ---

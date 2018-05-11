@@ -2,8 +2,8 @@
 layout: post
 title: "Slides, code, and recording from my PhoneGap Presentation"
 date: "2012-03-14T23:03:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/03/14/Slides-code-and-recording-from-my-PhoneGap-Presentation
 ---

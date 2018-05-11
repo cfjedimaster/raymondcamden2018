@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: UDFs and CFCs"
 date: "2006-05-11T12:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/11/Ask-a-Jedi-UDFs-and-CFCs
 ---

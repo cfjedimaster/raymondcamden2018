@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Building a Calendar"
 date: "2005-08-31T19:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/31/ColdFusion-101-Building-a-Calendar
 ---

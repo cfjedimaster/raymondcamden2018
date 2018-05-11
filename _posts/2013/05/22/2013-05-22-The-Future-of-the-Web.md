@@ -2,8 +2,8 @@
 layout: post
 title: "The Future of the Web"
 date: "2013-05-22T11:05:00+06:00"
-categories: development html5 
-tags: 
+categories: [development,html5]
+tags: []
 banner_image: 
 permalink: /2013/05/22/The-Future-of-the-Web
 ---

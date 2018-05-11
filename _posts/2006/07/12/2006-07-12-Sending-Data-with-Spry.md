@@ -2,8 +2,8 @@
 layout: post
 title: "Sending Data with Spry"
 date: "2006-07-12T21:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/07/12/Sending-Data-with-Spry
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Contest Extension"
 date: "2006-03-29T15:03:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/03/29/Contest-Extension
 ---

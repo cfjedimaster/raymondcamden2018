@@ -2,8 +2,8 @@
 layout: post
 title: "Follow up to CFGRID post, interesting queryConvertForGrid Behavior"
 date: "2009-04-11T11:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/11/Follow-up-to-CFGRID-post-interesting-queryConvertForGrid-Behavior
 ---

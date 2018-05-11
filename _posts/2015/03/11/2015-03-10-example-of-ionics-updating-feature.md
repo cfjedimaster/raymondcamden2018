@@ -2,8 +2,8 @@
 layout: post
 title: "Example of Ionic's Updating Feature"
 date: "2015-03-11T09:20:13+06:00"
-categories: javascript mobile 
-tags: ionic
+categories: [javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/03/11/example-of-ionics-updating-feature
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting arraySet Behavior"
 date: "2010-04-28T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/04/28/Interesting-arraySet-Behavior
 ---

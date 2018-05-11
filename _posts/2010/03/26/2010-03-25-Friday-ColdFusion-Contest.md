@@ -2,8 +2,8 @@
 layout: post
 title: "Friday ColdFusion Contest"
 date: "2010-03-26T10:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/03/26/Friday-ColdFusion-Contest
 ---

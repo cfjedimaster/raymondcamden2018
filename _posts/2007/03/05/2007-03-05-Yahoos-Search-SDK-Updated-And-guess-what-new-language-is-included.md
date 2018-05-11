@@ -2,8 +2,8 @@
 layout: post
 title: "Yahoo's Search SDK Updated (And guess what new language is included?)"
 date: "2007-03-05T14:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/05/Yahoos-Search-SDK-Updated-And-guess-what-new-language-is-included
 ---

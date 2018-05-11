@@ -2,8 +2,8 @@
 layout: post
 title: "Video of my HTML5 Storage presentation"
 date: "2012-09-10T23:09:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/10/Video-of-my-HTML5-Storage-presentation
 ---

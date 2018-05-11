@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap Sample - Shake to Roll"
 date: "2013-01-15T22:01:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/01/15/PhoneGap-Sample-Shake-to-Roll
 ---

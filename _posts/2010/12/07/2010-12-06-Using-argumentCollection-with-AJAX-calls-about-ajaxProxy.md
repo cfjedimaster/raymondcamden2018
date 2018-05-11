@@ -2,8 +2,8 @@
 layout: post
 title: "Using argumentCollection with AJAX calls - about ajaxProxy"
 date: "2010-12-07T10:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/12/07/Using-argumentCollection-with-AJAX-calls-about-ajaxProxy
 ---

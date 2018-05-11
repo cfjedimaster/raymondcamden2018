@@ -2,8 +2,8 @@
 layout: post
 title: "Day 100 from the ColdFusion war front (or, what's going on with RIAForge)"
 date: "2008-08-12T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/12/Day-100-from-the-ColdFusion-war-front-or-whats-going-on-with-RIAForge
 ---

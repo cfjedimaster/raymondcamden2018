@@ -2,8 +2,8 @@
 layout: post
 title: "Mindseye is Hiring - Flash/Flex"
 date: "2005-12-21T09:12:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2005/12/21/Mindseye-is-Hiring-FlashFlex
 ---

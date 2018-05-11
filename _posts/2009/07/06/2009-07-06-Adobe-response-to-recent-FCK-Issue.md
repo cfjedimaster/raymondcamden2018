@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe response to recent FCK Issue"
 date: "2009-07-06T12:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/06/Adobe-response-to-recent-FCK-Issue
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Quickie - Adding an average to a line chart"
 date: "2010-12-20T17:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/12/20/ColdFusion-Quickie-Adding-an-average-to-a-line-chart
 ---

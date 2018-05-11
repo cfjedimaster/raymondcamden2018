@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap Day US and EU Announced"
 date: "2014-07-22T16:07:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/22/PhoneGap-Day-US-and-EU-Announced
 ---

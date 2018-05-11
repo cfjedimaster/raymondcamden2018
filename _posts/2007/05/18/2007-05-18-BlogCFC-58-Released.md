@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC 5.8 Released"
 date: "2007-05-18T17:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/18/BlogCFC-58-Released
 ---

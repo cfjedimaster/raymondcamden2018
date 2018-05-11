@@ -2,8 +2,8 @@
 layout: post
 title: "Another warning about CFCs"
 date: "2006-03-11T22:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/11/Another-warning-about-CFCs
 ---

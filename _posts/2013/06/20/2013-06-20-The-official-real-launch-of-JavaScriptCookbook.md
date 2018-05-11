@@ -2,8 +2,8 @@
 layout: post
 title: "The official, real launch of JavaScriptCookbook"
 date: "2013-06-20T11:06:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/06/20/The-official-real-launch-of-JavaScriptCookbook
 ---

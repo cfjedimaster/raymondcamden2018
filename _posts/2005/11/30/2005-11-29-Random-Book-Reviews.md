@@ -2,8 +2,8 @@
 layout: post
 title: "Random Book Reviews"
 date: "2005-11-30T10:11:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2005/11/30/Random-Book-Reviews
 ---

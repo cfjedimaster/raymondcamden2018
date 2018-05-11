@@ -2,8 +2,8 @@
 layout: post
 title: "All Mac All Day (or in another words - my thoughts on moving to the Mac full time)"
 date: "2007-05-10T19:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/05/10/All-Mac-All-Day-or-in-another-words-my-thoughts-on-moving-to-the-Mac-full-time
 ---

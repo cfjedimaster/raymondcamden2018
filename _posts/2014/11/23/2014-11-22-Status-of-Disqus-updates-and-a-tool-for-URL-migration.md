@@ -2,8 +2,8 @@
 layout: post
 title: "Status of Disqus updates, and a tool for URL migration"
 date: "2014-11-23T10:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2014/11/23/Status-of-Disqus-updates-and-a-tool-for-URL-migration
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - Accepting ColdFusion and Development Questions"
 date: "2005-08-06T09:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/06/Reminder-Accepting-ColdFusion-and-Development-Questions
 ---

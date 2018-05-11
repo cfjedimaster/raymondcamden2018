@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFire Update"
 date: "2008-03-12T11:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/12/ColdFire-Update
 ---

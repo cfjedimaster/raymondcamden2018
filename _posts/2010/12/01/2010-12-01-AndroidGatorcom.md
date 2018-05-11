@@ -2,8 +2,8 @@
 layout: post
 title: "AndroidGator.com"
 date: "2010-12-01T19:12:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2010/12/01/AndroidGatorcom
 ---

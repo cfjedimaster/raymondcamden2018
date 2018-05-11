@@ -2,8 +2,8 @@
 layout: post
 title: "Yes, Virginia, there are queries in Transfer"
 date: "2008-11-24T23:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/24/Yes-Virginia-there-are-queries-in-Transfer
 ---

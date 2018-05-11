@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Creating Brackets Extensions"
 date: "2014-02-04T00:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/02/04/Article-Creating-Brackets-Extensions
 ---

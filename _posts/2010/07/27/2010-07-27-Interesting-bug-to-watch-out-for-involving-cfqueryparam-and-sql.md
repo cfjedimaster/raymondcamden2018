@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting bug to watch out for involving cfqueryparam and sql"
 date: "2010-07-27T18:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/27/Interesting-bug-to-watch-out-for-involving-cfqueryparam-and-sql
 ---

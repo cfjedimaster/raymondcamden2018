@@ -2,8 +2,8 @@
 layout: post
 title: "Holy crap XML is cool..."
 date: "2005-07-21T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/21/Holy-crap-XML-is-cool
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Dynamic debug templates in ColdFusion?"
 date: "2011-04-29T18:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/04/29/Dynamic-debug-templates-in-ColdFusion
 ---

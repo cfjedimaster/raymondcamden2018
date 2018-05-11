@@ -2,8 +2,8 @@
 layout: post
 title: "RDS support in Eclipse"
 date: "2006-03-21T07:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/21/RDS-support-in-Eclipse
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Cool use of CFPOD"
 date: "2009-01-07T23:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/01/07/Cool-use-of-CFPOD
 ---

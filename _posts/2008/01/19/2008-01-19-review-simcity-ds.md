@@ -2,8 +2,8 @@
 layout: post
 title: "Review: SimCity DS"
 date: "2008-01-19T15:01:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2008/01/19/review-simcity-ds
 ---

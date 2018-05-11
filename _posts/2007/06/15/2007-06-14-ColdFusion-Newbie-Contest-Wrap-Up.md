@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Newbie Contest - Wrap Up"
 date: "2007-06-15T09:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/15/ColdFusion-Newbie-Contest-Wrap-Up
 ---

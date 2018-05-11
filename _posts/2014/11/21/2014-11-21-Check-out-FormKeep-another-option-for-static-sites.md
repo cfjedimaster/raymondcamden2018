@@ -2,8 +2,8 @@
 layout: post
 title: "Check out FormKeep, another option for static sites"
 date: "2014-11-21T14:11:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/11/21/Check-out-FormKeep-another-option-for-static-sites
 ---

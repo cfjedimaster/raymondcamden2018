@@ -2,8 +2,8 @@
 layout: post
 title: "Flash Professional CC adds HTML5 Canvas Support"
 date: "2013-12-03T12:12:00+06:00"
-categories: design development html5 
-tags: 
+categories: [design,development,html5]
+tags: []
 banner_image: 
 permalink: /2013/12/03/Flash-Professional-CC-adds-HTML5-Canvas-Support
 ---

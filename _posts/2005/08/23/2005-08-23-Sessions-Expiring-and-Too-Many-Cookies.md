@@ -2,8 +2,8 @@
 layout: post
 title: "Sessions Expiring and Too Many Cookies"
 date: "2005-08-23T18:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/23/Sessions-Expiring-and-Too-Many-Cookies
 ---

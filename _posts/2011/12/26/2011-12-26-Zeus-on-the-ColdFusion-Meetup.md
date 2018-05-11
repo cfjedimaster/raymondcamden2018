@@ -2,8 +2,8 @@
 layout: post
 title: "Zeus on the ColdFusion Meetup"
 date: "2011-12-26T16:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/12/26/Zeus-on-the-ColdFusion-Meetup
 ---

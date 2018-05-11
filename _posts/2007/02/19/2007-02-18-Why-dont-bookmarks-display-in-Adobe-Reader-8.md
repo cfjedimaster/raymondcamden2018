@@ -2,8 +2,8 @@
 layout: post
 title: "Why don't bookmarks display in Adobe Reader 8?"
 date: "2007-02-19T09:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/19/Why-dont-bookmarks-display-in-Adobe-Reader-8
 ---

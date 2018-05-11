@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue 1.0 Released"
 date: "2005-09-28T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/28/ModelGlue-10-Released
 ---

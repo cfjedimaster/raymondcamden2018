@@ -2,8 +2,8 @@
 layout: post
 title: "Followup on last factory/galleon post"
 date: "2007-02-24T14:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/24/Followup-on-last-factorygalleon-post
 ---

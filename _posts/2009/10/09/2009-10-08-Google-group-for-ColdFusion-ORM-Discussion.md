@@ -2,8 +2,8 @@
 layout: post
 title: "Google group for ColdFusion ORM Discussion"
 date: "2009-10-09T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/10/09/Google-group-for-ColdFusion-ORM-Discussion
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova Example: Writing to a file"
 date: "2014-11-05T09:11:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/11/05/Cordova-Example-Writing-to-a-file
 ---

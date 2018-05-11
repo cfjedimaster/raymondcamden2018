@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder about forms and ColdFusion 8 Ajax Containers"
 date: "2007-08-05T20:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/05/Reminder-about-forms-and-ColdFusion-8-Ajax-Containers
 ---

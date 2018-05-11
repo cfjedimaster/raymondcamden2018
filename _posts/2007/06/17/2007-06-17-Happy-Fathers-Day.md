@@ -2,8 +2,8 @@
 layout: post
 title: "Happy Father's Day"
 date: "2007-06-17T14:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/06/17/Happy-Fathers-Day
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Choose Your Own Application"
 date: "2013-02-05T12:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/02/05/Choose-Your-Own-Application
 ---

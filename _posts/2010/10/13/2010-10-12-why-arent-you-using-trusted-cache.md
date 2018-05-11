@@ -2,8 +2,8 @@
 layout: post
 title: "Why aren't you using Trusted Cache?"
 date: "2010-10-13T08:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/10/13/why-arent-you-using-trusted-cache
 ---

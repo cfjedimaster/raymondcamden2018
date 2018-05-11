@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of serving up cached XML (with CF8 and CF9)"
 date: "2009-08-03T12:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/03/Quick-example-of-serving-up-cached-XML-with-CF8-and-CF9
 ---

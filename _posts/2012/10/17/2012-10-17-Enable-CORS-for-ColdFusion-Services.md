@@ -2,8 +2,8 @@
 layout: post
 title: "Enable CORS for ColdFusion Services"
 date: "2012-10-17T12:10:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2012/10/17/Enable-CORS-for-ColdFusion-Services
 ---

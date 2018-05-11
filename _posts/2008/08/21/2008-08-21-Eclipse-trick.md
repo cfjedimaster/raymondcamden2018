@@ -2,8 +2,8 @@
 layout: post
 title: "Eclipse trick"
 date: "2008-08-21T16:08:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/08/21/Eclipse-trick
 ---

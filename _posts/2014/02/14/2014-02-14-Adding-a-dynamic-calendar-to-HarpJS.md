@@ -2,8 +2,8 @@
 layout: post
 title: "Adding a dynamic calendar to HarpJS"
 date: "2014-02-14T13:02:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2014/02/14/Adding-a-dynamic-calendar-to-HarpJS
 ---

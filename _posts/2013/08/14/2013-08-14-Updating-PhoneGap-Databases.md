@@ -2,8 +2,8 @@
 layout: post
 title: "Updating PhoneGap Databases"
 date: "2013-08-14T12:08:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/08/14/Updating-PhoneGap-Databases
 ---

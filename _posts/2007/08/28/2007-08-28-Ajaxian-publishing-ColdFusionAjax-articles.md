@@ -2,8 +2,8 @@
 layout: post
 title: "Ajaxian publishing ColdFusion/Ajax articles"
 date: "2007-08-28T12:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/28/Ajaxian-publishing-ColdFusionAjax-articles
 ---

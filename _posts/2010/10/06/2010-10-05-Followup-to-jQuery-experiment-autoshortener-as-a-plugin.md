@@ -2,8 +2,8 @@
 layout: post
 title: "Followup to jQuery experiment - autoshortener as a plugin"
 date: "2010-10-06T10:10:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/10/06/Followup-to-jQuery-experiment-autoshortener-as-a-plugin
 ---

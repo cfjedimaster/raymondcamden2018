@@ -2,8 +2,8 @@
 layout: post
 title: "Example of callback URL support in ColdFusion Builder"
 date: "2012-01-09T14:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/01/09/Example-of-callback-URL-support-in-ColdFusion-Builder
 ---

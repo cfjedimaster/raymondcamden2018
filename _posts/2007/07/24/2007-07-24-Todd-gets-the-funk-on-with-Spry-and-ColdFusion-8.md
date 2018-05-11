@@ -2,8 +2,8 @@
 layout: post
 title: "Todd gets the funk on with Spry and ColdFusion 8"
 date: "2007-07-24T18:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/24/Todd-gets-the-funk-on-with-Spry-and-ColdFusion-8
 ---

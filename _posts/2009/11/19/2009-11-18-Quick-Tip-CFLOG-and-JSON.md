@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Tip - CFLOG and JSON"
 date: "2009-11-19T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/11/19/Quick-Tip-CFLOG-and-JSON
 ---

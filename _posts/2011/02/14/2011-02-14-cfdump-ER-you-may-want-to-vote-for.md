@@ -2,8 +2,8 @@
 layout: post
 title: "cfdump ER you may want to vote for"
 date: "2011-02-14T23:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/02/14/cfdump-ER-you-may-want-to-vote-for
 ---

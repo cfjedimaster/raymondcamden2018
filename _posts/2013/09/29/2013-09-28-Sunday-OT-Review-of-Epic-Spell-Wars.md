@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday OT: Review of Epic Spell Wars"
 date: "2013-09-29T08:09:00+06:00"
-categories: games 
-tags: 
+categories: [games]
+tags: []
 banner_image: 
 permalink: /2013/09/29/Sunday-OT-Review-of-Epic-Spell-Wars
 ---

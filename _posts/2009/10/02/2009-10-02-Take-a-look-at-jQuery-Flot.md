@@ -2,8 +2,8 @@
 layout: post
 title: "Take a look at jQuery Flot"
 date: "2009-10-02T14:10:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/10/02/Take-a-look-at-jQuery-Flot
 ---

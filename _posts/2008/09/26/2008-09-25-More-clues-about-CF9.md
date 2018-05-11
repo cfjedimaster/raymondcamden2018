@@ -2,8 +2,8 @@
 layout: post
 title: "More clues about CF9"
 date: "2008-09-26T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/26/More-clues-about-CF9
 ---

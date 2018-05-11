@@ -2,8 +2,8 @@
 layout: post
 title: "Is this a bug with ColdFusion Spreadsheet functionality?"
 date: "2011-10-14T17:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/10/14/Is-this-a-bug-with-ColdFusion-Spreadsheet-functionality
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Two Spry tips"
 date: "2006-12-15T22:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/12/15/Two-Spry-tips
 ---

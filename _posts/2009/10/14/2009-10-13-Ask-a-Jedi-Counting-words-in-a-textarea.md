@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Counting words in a textarea"
 date: "2009-10-14T09:10:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/10/14/Ask-a-Jedi-Counting-words-in-a-textarea
 ---

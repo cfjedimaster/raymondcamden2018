@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion and Transfer (And that 3 letter \"O\" word)"
 date: "2008-11-03T22:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/03/ColdFusion-and-Transfer-And-that-3-letter-O-word
 ---

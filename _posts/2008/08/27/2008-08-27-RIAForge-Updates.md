@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Updates"
 date: "2008-08-27T23:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/27/RIAForge-Updates
 ---

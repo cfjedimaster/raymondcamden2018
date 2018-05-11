@@ -2,8 +2,8 @@
 layout: post
 title: "Contest Delay (and Thank You)"
 date: "2005-11-15T13:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/11/15/Contest-Delay-and-Thank-You
 ---

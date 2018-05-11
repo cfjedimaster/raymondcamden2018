@@ -2,8 +2,8 @@
 layout: post
 title: "What broke my event handler?"
 date: "2013-10-28T17:10:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/10/28/What-broke-my-event-handler
 ---

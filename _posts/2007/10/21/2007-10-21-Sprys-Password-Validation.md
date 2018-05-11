@@ -2,8 +2,8 @@
 layout: post
 title: "Spry's Password Validation"
 date: "2007-10-21T16:10:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2007/10/21/Sprys-Password-Validation
 ---

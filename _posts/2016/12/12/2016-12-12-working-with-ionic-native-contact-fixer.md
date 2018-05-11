@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Ionic Native - Contact Fixer"
 date: "2016-12-12T10:26:00-07:00"
-categories: javascript mobile 
-tags: ionic
+categories: [javascript,mobile]
+tags: [ionic]
 banner_image: /images/banners/contactfixer.jpg
 permalink: /2016/12/12/working-with-ionic-native-contact-fixer
 ---

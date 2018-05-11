@@ -2,8 +2,8 @@
 layout: post
 title: "Two ColdFusion 8 Documentation Resources"
 date: "2007-06-25T18:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/25/Two-ColdFusion-8-Documentation-Resources
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Update to ColdFusion Eclipse Plugins"
 date: "2007-08-17T23:08:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/08/17/Update-to-ColdFusion-Eclipse-Plugins
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Leaving Big Blue"
 date: "2018-02-12T11:43:32+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: /images/banners/leavingibm.jpg
 permalink: /2018/02/12/leaving-big-blue
 ---

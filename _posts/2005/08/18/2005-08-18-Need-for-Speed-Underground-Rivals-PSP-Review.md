@@ -2,8 +2,8 @@
 layout: post
 title: "Need for Speed: Underground Rivals PSP Review"
 date: "2005-08-18T19:08:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2005/08/18/Need-for-Speed-Underground-Rivals-PSP-Review
 ---

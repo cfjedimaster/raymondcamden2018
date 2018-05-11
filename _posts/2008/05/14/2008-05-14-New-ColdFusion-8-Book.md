@@ -2,8 +2,8 @@
 layout: post
 title: "New ColdFusion 8 Book"
 date: "2008-05-14T11:05:00+06:00"
-categories: books coldfusion 
-tags: 
+categories: [books,coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/14/New-ColdFusion-8-Book
 ---

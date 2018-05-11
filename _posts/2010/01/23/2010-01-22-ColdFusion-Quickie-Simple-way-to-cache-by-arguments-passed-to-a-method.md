@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Quickie: Simple way to cache by arguments passed to a method"
 date: "2010-01-23T10:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/01/23/ColdFusion-Quickie-Simple-way-to-cache-by-arguments-passed-to-a-method
 ---

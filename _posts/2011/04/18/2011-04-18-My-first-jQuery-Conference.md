@@ -2,8 +2,8 @@
 layout: post
 title: "My first jQuery Conference"
 date: "2011-04-18T11:04:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2011/04/18/My-first-jQuery-Conference
 ---

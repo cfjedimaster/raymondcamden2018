@@ -2,8 +2,8 @@
 layout: post
 title: "Some recent ColdFusion ORM Pain"
 date: "2013-04-09T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/04/09/Some-recent-ColdFusion-ORM-Pain
 ---

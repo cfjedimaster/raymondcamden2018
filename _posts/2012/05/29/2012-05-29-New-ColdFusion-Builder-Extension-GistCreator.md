@@ -2,8 +2,8 @@
 layout: post
 title: "New ColdFusion Builder Extension: GistCreator"
 date: "2012-05-29T18:05:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2012/05/29/New-ColdFusion-Builder-Extension-GistCreator
 ---

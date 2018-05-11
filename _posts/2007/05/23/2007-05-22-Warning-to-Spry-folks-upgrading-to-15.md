@@ -2,8 +2,8 @@
 layout: post
 title: "Warning to Spry folks upgrading to 1.5"
 date: "2007-05-23T09:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/05/23/Warning-to-Spry-folks-upgrading-to-15
 ---

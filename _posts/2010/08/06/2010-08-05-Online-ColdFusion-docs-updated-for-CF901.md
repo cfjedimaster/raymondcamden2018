@@ -2,8 +2,8 @@
 layout: post
 title: "Online ColdFusion docs updated for CF901"
 date: "2010-08-06T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/06/Online-ColdFusion-docs-updated-for-CF901
 ---

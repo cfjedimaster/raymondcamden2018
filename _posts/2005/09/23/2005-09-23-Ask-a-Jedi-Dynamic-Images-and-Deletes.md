@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Dynamic Images and Deletes"
 date: "2005-09-23T12:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/23/Ask-a-Jedi-Dynamic-Images-and-Deletes
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Edge Code Update"
 date: "2013-09-17T11:09:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/09/17/Edge-Code-Update
 ---

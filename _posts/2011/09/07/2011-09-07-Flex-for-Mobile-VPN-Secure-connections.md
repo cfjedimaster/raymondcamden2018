@@ -2,8 +2,8 @@
 layout: post
 title: "Flex for Mobile - VPN? Secure connections?"
 date: "2011-09-07T16:09:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/09/07/Flex-for-Mobile-VPN-Secure-connections
 ---

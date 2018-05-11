@@ -2,8 +2,8 @@
 layout: post
 title: "Tip for PhoneGap Users - Modify the WWW template"
 date: "2013-01-24T15:01:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/01/24/Tip-for-PhoneGap-Users-Modify-the-WWW-template
 ---

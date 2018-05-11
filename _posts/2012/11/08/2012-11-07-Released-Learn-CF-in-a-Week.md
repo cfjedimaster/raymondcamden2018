@@ -2,8 +2,8 @@
 layout: post
 title: "Released: Learn CF in a Week"
 date: "2012-11-08T06:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/11/08/Released-Learn-CF-in-a-Week
 ---

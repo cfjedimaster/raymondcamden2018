@@ -2,8 +2,8 @@
 layout: post
 title: "Simple POC - Dynamically select an element from a list and skip the last chosen"
 date: "2012-10-22T18:10:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/10/22/Simple-POC-Dynamically-select-an-element-from-a-list-and-skip-the-last-chosen
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using ColdFusion to serve files"
 date: "2006-03-10T14:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/10/Ask-a-Jedi-Using-ColdFusion-to-serve-files
 ---

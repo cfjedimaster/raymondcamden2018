@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Does ColdFusion have a htmlfoot tag?"
 date: "2008-04-30T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/30/Ask-a-Jedi-Does-ColdFusion-have-a-htmlfoot-tag
 ---

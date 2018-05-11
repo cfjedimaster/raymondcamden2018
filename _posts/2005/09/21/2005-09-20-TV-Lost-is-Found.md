@@ -2,8 +2,8 @@
 layout: post
 title: "TV: Lost is Found"
 date: "2005-09-21T11:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/21/TV-Lost-is-Found
 ---

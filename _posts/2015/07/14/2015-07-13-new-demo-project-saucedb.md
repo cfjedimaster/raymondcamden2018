@@ -2,8 +2,8 @@
 layout: post
 title: "New Demo Project: SauceDB"
 date: "2015-07-14T10:27:56+06:00"
-categories: development html5 javascript mobile 
-tags: bluemix cordova ionic
+categories: [development,html5,javascript,mobile]
+tags: [bluemix,cordova,ionic]
 banner_image: 
 permalink: /2015/07/14/new-demo-project-saucedb
 ---

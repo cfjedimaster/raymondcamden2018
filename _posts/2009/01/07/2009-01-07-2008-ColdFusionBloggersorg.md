@@ -2,8 +2,8 @@
 layout: post
 title: "2008 @ ColdFusionBloggers.org"
 date: "2009-01-07T17:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/01/07/2008-ColdFusionBloggersorg
 ---

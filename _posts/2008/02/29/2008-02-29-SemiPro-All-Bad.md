@@ -2,8 +2,8 @@
 layout: post
 title: "Semi-Pro, All Bad"
 date: "2008-02-29T23:03:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2008/02/29/SemiPro-All-Bad
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "query, dump, query, dump - is this better?"
 date: "2011-08-25T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/08/25/query-dump-query-dump-is-this-better
 ---

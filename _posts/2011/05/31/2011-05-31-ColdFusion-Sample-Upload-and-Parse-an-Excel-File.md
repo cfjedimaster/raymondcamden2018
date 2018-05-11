@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Sample - Upload and Parse an Excel File"
 date: "2011-05-31T22:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/05/31/ColdFusion-Sample-Upload-and-Parse-an-Excel-File
 ---

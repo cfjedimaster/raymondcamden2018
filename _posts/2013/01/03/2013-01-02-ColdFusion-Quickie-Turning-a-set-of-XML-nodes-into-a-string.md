@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Quickie - Turning a set of XML nodes into a string."
 date: "2013-01-03T10:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/01/03/ColdFusion-Quickie-Turning-a-set-of-XML-nodes-into-a-string
 ---

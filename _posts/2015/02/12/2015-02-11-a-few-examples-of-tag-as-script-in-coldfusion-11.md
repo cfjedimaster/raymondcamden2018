@@ -2,8 +2,8 @@
 layout: post
 title: "A few examples of \"tag as script\" in ColdFusion 11"
 date: "2015-02-12T05:34:50+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/02/12/a-few-examples-of-tag-as-script-in-coldfusion-11
 ---

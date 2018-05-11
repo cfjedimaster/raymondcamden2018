@@ -2,8 +2,8 @@
 layout: post
 title: "Eventbrite API Demos"
 date: "2014-08-15T07:08:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2014/08/15/Eventbrite-API-Demos
 ---

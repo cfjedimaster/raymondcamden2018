@@ -2,8 +2,8 @@
 layout: post
 title: "Ionic 2 Weather Application"
 date: "2016-06-17T10:54:00-07:00"
-categories: javascript mobile 
-tags: ionic cordova
+categories: [javascript,mobile]
+tags: [ionic,cordova]
 banner_image: 
 permalink: /2016/06/17/ionic-2-weather-application
 ---

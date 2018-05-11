@@ -2,8 +2,8 @@
 layout: post
 title: "Book Review: Flex 3 in Action"
 date: "2008-08-05T10:08:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2008/08/05/book-review-flex-3-in-action
 ---

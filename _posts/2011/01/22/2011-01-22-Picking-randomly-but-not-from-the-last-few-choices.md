@@ -2,8 +2,8 @@
 layout: post
 title: "Picking randomly but not from the last few choices"
 date: "2011-01-22T15:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/01/22/Picking-randomly-but-not-from-the-last-few-choices
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Can I do it in a CFC?"
 date: "2007-04-26T17:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/26/Can-I-do-it-in-a-CFC
 ---

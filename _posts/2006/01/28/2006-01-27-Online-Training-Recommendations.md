@@ -2,8 +2,8 @@
 layout: post
 title: "Online Training Recommendations"
 date: "2006-01-28T09:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/01/28/Online-Training-Recommendations
 ---

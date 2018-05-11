@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Moving to Static and Keeping Your Toys"
 date: "2013-12-16T10:12:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/12/16/Article-Moving-to-Static-and-Keeping-Your-Toys
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Two iPhone development tips, and jQuery to the rescue"
 date: "2008-10-10T00:10:00+06:00"
-categories: development jquery 
-tags: 
+categories: [development,jquery]
+tags: []
 banner_image: 
 permalink: /2008/10/09/Two-iPhone-development-tips-and-jQuery-to-the-rescue
 ---

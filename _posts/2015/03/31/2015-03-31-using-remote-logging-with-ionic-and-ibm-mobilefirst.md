@@ -2,8 +2,8 @@
 layout: post
 title: "Using Remote Logging with Ionic and IBM MobileFirst"
 date: "2015-03-31T16:26:58+06:00"
-categories: development mobile 
-tags: ionic mobilefirst
+categories: [development,mobile]
+tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/03/31/using-remote-logging-with-ionic-and-ibm-mobilefirst
 ---

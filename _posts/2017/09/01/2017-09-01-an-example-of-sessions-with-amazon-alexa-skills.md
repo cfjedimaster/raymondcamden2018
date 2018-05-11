@@ -2,8 +2,8 @@
 layout: post
 title: "An Example of Sessions with Amazon Alexa Skills"
 date: "2017-09-01T09:42:00-07:00"
-categories: development 
-tags: alexa
+categories: [development]
+tags: [alexa]
 banner_image: 
 permalink: /2017/09/01/an-example-of-sessions-with-amazon-alexa-skills
 ---

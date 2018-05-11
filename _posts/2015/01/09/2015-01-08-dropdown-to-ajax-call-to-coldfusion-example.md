@@ -2,8 +2,8 @@
 layout: post
 title: "Dropdown to Ajax call to ColdFusion example"
 date: "2015-01-09T10:22:44+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2015/01/09/dropdown-to-ajax-call-to-coldfusion-example
 ---

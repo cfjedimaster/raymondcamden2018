@@ -2,8 +2,8 @@
 layout: post
 title: "Online Presentation - Developing in JavaScript in 2017"
 date: "2017-07-31T07:48:00-07:00"
-categories: javascript 
-tags: development
+categories: [javascript]
+tags: [development]
 banner_image: 
 permalink: /2017/07/31/online-presentation-developing-in-javascript-in-2017
 ---

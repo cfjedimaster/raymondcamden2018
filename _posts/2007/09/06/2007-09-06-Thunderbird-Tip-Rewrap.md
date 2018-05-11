@@ -2,8 +2,8 @@
 layout: post
 title: "Thunderbird Tip: Rewrap"
 date: "2007-09-06T19:09:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/09/06/Thunderbird-Tip-Rewrap
 ---

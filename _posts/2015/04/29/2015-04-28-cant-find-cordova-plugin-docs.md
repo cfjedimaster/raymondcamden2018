@@ -2,8 +2,8 @@
 layout: post
 title: "Can't find Cordova plugin docs?"
 date: "2015-04-29T08:33:39+06:00"
-categories: development mobile 
-tags: cordova
+categories: [development,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2015/04/29/cant-find-cordova-plugin-docs
 ---

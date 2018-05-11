@@ -2,8 +2,8 @@
 layout: post
 title: "Join me at Adobe MAX"
 date: "2013-04-12T13:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/04/12/Join-me-at-Adobe-MAX
 ---

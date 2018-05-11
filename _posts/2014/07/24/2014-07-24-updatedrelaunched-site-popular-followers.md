@@ -2,8 +2,8 @@
 layout: post
 title: "Updated/Relaunched site - Popular Followers"
 date: "2014-07-24T11:07:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/07/24/updatedrelaunched-site-popular-followers
 ---

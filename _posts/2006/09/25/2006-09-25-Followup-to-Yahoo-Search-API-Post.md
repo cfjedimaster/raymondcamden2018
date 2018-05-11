@@ -2,8 +2,8 @@
 layout: post
 title: "Followup to Yahoo Search API Post"
 date: "2006-09-25T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/09/25/Followup-to-Yahoo-Search-API-Post
 ---

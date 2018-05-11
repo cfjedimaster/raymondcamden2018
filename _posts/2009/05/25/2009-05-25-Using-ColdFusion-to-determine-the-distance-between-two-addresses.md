@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion to determine the distance between two addresses"
 date: "2009-05-25T13:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/05/25/Using-ColdFusion-to-determine-the-distance-between-two-addresses
 ---

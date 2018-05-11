@@ -2,8 +2,8 @@
 layout: post
 title: "Performing sentiment analysis of Twitter data"
 date: "2016-02-25"
-categories: javascript 
-tags: nodejs
+categories: [javascript]
+tags: [nodejs]
 banner_image: 
 permalink: /2016/02/25/performing-sentiment-analysis-of-twitter-data
 ---

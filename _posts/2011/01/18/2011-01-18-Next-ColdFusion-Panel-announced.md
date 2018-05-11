@@ -2,8 +2,8 @@
 layout: post
 title: "Next ColdFusion Panel announced"
 date: "2011-01-18T12:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2011/01/18/Next-ColdFusion-Panel-announced
 ---

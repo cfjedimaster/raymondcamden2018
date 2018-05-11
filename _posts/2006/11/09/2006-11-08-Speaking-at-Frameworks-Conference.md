@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at Frameworks Conference"
 date: "2006-11-09T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/09/Speaking-at-Frameworks-Conference
 ---

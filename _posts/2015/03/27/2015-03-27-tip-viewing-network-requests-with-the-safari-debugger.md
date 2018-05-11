@@ -2,8 +2,8 @@
 layout: post
 title: "Tip: Viewing Network Requests with the Safari Debugger"
 date: "2015-03-27T11:18:31+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/03/27/tip-viewing-network-requests-with-the-safari-debugger
 ---

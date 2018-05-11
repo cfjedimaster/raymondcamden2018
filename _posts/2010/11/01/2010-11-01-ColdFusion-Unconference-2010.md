@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Unconference - 2010"
 date: "2010-11-01T12:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/01/ColdFusion-Unconference-2010
 ---

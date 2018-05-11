@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Ramping Up to CFMX N+1"
 date: "2005-08-01T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/01/Ask-a-Jedi-Ramping-Up-to-CFMX-N1
 ---

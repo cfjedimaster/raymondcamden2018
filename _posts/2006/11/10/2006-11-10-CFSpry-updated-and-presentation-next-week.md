@@ -2,8 +2,8 @@
 layout: post
 title: "CFSpry updated, and presentation next week"
 date: "2006-11-10T17:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/10/CFSpry-updated-and-presentation-next-week
 ---

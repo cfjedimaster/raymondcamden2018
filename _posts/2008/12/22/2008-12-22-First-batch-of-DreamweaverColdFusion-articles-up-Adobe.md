@@ -2,8 +2,8 @@
 layout: post
 title: "First batch of Dreamweaver/ColdFusion articles up @ Adobe"
 date: "2008-12-22T17:12:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2008/12/22/First-batch-of-DreamweaverColdFusion-articles-up-Adobe
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Simple jQuery/ColdFusion data loading example"
 date: "2010-05-01T23:05:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/05/01/Simple-jQueryColdFusion-data-loading-example
 ---

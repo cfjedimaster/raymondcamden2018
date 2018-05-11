@@ -2,8 +2,8 @@
 layout: post
 title: "Two more MAX Videos: Cutting-Edge HTML and Debugging Your Web Apps"
 date: "2013-05-31T10:05:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/05/31/Two-more-MAX-Videos-CuttingEdge-HTML-and-Debugging-Your-Web-Apps
 ---

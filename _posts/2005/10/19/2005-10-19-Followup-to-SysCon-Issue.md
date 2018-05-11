@@ -2,8 +2,8 @@
 layout: post
 title: "Followup to Sys-Con Issue"
 date: "2005-10-19T12:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/10/19/Followup-to-SysCon-Issue
 ---

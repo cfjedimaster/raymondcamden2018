@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation on Thursday: A Gentle Introduction to HTML5"
 date: "2011-04-04T10:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2011/04/04/Presentation-on-Thursday-A-Gentle-Introduction-to-HTML5
 ---

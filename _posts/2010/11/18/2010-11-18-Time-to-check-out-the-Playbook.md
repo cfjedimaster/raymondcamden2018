@@ -2,8 +2,8 @@
 layout: post
 title: "Time to check out the Playbook"
 date: "2010-11-18T17:11:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2010/11/18/Time-to-check-out-the-Playbook
 ---

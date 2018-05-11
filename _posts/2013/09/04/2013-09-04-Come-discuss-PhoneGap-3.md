@@ -2,8 +2,8 @@
 layout: post
 title: "Come discuss PhoneGap 3"
 date: "2013-09-04T14:09:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/09/04/Come-discuss-PhoneGap-3
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Question: How do I render a grid row differently based on data?"
 date: "2009-06-17T00:06:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2009/06/16/Flex-Question-How-do-I-render-a-grid-row-differently-based-on-data
 ---

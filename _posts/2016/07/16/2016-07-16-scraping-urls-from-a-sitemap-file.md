@@ -2,8 +2,8 @@
 layout: post
 title: "Scraping URLs from a Sitemap File"
 date: "2016-07-16T08:01:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2016/07/16/scraping-urls-from-a-sitemap-file
 ---

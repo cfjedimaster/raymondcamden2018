@@ -2,8 +2,8 @@
 layout: post
 title: "My first video course for O'Reilly - JavaScript Templating"
 date: "2015-06-05T07:30:18+06:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: 
 permalink: /2015/06/05/my-first-video-course-for-oreilly-javascript-templating
 ---

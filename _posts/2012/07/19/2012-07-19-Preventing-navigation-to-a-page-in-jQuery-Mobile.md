@@ -2,8 +2,8 @@
 layout: post
 title: "Preventing navigation to a page in jQuery Mobile"
 date: "2012-07-19T20:07:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/07/19/Preventing-navigation-to-a-page-in-jQuery-Mobile
 ---

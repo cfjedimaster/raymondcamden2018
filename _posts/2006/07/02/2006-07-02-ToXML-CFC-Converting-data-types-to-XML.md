@@ -2,8 +2,8 @@
 layout: post
 title: "ToXML CFC - Converting data types to XML"
 date: "2006-07-02T16:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/02/ToXML-CFC-Converting-data-types-to-XML
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder 3 Updated (the right way)"
 date: "2015-01-26T16:34:17+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/01/26/coldfusion-builder-3-updated-the-right-way
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at Ionic Dallas next month"
 date: "2015-06-09T08:10:20+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/06/09/speaking-at-ionic-dallas-next-month
 ---

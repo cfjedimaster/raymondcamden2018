@@ -2,8 +2,8 @@
 layout: post
 title: "Look what Todd did..."
 date: "2007-12-11T16:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/11/Look-what-Todd-did
 ---

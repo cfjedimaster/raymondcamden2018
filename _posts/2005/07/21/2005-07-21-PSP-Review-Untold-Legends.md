@@ -2,8 +2,8 @@
 layout: post
 title: "PSP Review: Untold Legends"
 date: "2005-07-21T18:07:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2005/07/21/PSP-Review-Untold-Legends
 ---

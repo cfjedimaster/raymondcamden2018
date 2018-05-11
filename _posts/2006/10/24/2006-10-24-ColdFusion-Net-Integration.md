@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion .Net Integration"
 date: "2006-10-24T17:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/24/ColdFusion-Net-Integration
 ---

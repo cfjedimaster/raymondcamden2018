@@ -2,8 +2,8 @@
 layout: post
 title: "Cross-Domain AJAX calls using ColdFusion"
 date: "2008-03-07T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/07/CrossDomain-AJAX-calls-using-ColdFusion
 ---

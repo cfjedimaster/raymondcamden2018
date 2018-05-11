@@ -2,8 +2,8 @@
 layout: post
 title: "Lighthouse Pro 2.4.3"
 date: "2008-03-14T15:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/03/14/Lighthouse-Pro-243
 ---

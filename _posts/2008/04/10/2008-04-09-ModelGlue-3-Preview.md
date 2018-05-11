@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue 3 Preview"
 date: "2008-04-10T10:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/04/10/ModelGlue-3-Preview
 ---

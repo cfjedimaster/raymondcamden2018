@@ -2,8 +2,8 @@
 layout: post
 title: "Shall we play a game?"
 date: "2007-09-08T16:09:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2007/09/08/Shall-we-play-a-game
 ---

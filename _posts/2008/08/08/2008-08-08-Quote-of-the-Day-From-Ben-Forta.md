@@ -2,8 +2,8 @@
 layout: post
 title: "Quote of the Day: From Ben Forta"
 date: "2008-08-08T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/08/Quote-of-the-Day-From-Ben-Forta
 ---

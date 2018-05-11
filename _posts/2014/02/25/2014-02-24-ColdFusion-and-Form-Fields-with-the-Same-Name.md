@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion and Form Fields with the Same Name"
 date: "2014-02-25T07:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/02/25/ColdFusion-and-Form-Fields-with-the-Same-Name
 ---

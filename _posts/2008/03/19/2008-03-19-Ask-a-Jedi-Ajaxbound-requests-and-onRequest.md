@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Ajax-bound requests and onRequest"
 date: "2008-03-19T12:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/19/Ask-a-Jedi-Ajaxbound-requests-and-onRequest
 ---

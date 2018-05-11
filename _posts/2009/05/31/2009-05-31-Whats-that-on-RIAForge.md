@@ -2,8 +2,8 @@
 layout: post
 title: "What's that on RIAForge?"
 date: "2009-05-31T16:05:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2009/05/31/Whats-that-on-RIAForge
 ---

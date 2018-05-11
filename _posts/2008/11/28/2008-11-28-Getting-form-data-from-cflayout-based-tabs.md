@@ -2,8 +2,8 @@
 layout: post
 title: "Getting form data from cflayout based tabs"
 date: "2008-11-28T22:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/28/Getting-form-data-from-cflayout-based-tabs
 ---

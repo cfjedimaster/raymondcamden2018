@@ -2,8 +2,8 @@
 layout: post
 title: "Bug in BlogCFC 3.9"
 date: "2005-09-08T16:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/08/Bug-in-BlogCFC-39
 ---

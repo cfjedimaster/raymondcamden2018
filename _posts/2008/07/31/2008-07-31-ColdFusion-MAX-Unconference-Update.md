@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion MAX Unconference Update"
 date: "2008-07-31T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/31/ColdFusion-MAX-Unconference-Update
 ---

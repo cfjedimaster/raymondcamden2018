@@ -2,8 +2,8 @@
 layout: post
 title: "Some thoughts on organizing a large jQuery Mobile project"
 date: "2012-05-16T11:05:00+06:00"
-categories: development html5 javascript jquery mobile 
-tags: 
+categories: [development,html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/05/16/Some-thoughts-on-organizing-a-large-jQuery-Mobile-project
 ---

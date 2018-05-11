@@ -2,8 +2,8 @@
 layout: post
 title: "An Example of Ajax Searching with Vue.js"
 date: "2018-03-01"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/ajaxsearch.jpg
 permalink: /2018/03/01/an-example-of-ajax-searching-with-vuejs
 ---

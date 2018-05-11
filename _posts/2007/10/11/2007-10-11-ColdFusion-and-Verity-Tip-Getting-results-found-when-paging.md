@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion and Verity Tip - Getting results found when paging"
 date: "2007-10-11T15:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/11/ColdFusion-and-Verity-Tip-Getting-results-found-when-paging
 ---

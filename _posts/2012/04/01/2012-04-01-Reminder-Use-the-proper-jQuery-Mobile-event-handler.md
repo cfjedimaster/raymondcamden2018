@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - Use the proper jQuery Mobile event handler"
 date: "2012-04-01T16:04:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/04/01/Reminder-Use-the-proper-jQuery-Mobile-event-handler
 ---

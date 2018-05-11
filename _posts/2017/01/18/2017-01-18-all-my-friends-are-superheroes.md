@@ -2,8 +2,8 @@
 layout: post
 title: "All My Friends Are Superheroes"
 date: "2017-01-18T09:24:00-07:00"
-categories: serverless mobile 
-tags: openwhisk ionic
+categories: [serverless,mobile]
+tags: [openwhisk,ionic]
 banner_image: /images/banners/marvelow2.jpg
 permalink: /2017/01/18/all-my-friends-are-superheroes
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Adobe AIR and Dreamweaver CS 5.5"
 date: "2011-06-26T20:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/06/26/Working-with-Adobe-AIR-and-Dreamweaver-CS-55
 ---

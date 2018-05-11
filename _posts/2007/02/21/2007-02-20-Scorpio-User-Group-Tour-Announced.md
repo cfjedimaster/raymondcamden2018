@@ -2,8 +2,8 @@
 layout: post
 title: "Scorpio User Group Tour Announced"
 date: "2007-02-21T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/21/Scorpio-User-Group-Tour-Announced
 ---

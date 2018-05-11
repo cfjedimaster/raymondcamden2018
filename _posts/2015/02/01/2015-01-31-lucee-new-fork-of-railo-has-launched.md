@@ -2,8 +2,8 @@
 layout: post
 title: "Lucee, new fork of Railo, has launched"
 date: "2015-02-01T08:43:32+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/02/01/lucee-new-fork-of-railo-has-launched
 ---

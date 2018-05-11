@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Transfer's Event Model"
 date: "2008-12-08T21:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/12/08/Working-with-Transfers-Event-Model
 ---

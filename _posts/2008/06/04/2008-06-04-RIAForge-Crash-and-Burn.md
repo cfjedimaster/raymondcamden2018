@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Crash and Burn"
 date: "2008-06-04T23:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/06/04/RIAForge-Crash-and-Burn
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Tip: Adding a bookmark to a PDF when it has none"
 date: "2010-02-19T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/19/Quick-Tip-Adding-a-bookmark-to-a-PDF-when-it-has-none
 ---

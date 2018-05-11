@@ -2,8 +2,8 @@
 layout: post
 title: "Second issue of Appliness Launches"
 date: "2012-04-30T16:04:00+06:00"
-categories: development html5 javascript jquery mobile 
-tags: 
+categories: [development,html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/04/30/Second-issue-of-Appliness-Launches
 ---

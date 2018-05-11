@@ -2,8 +2,8 @@
 layout: post
 title: "What has changed (tag/function-wise) in ColdFusion 8?"
 date: "2007-08-15T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/15/What-has-changed-tagfunctionwise-in-ColdFusion-8
 ---

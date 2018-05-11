@@ -2,8 +2,8 @@
 layout: post
 title: "Another proof of concept - MockData"
 date: "2012-12-13T11:12:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2012/12/13/Another-proof-of-concept-MockData
 ---

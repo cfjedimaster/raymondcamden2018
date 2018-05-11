@@ -2,8 +2,8 @@
 layout: post
 title: "Some tips for writing JavaScript adapters for IBM MobileFirst"
 date: "2015-04-06T10:09:59+06:00"
-categories: development javascript mobile 
-tags: mobilefirst
+categories: [development,javascript,mobile]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2015/04/06/some-tips-for-writing-javascript-adapters-for-ibm-mobilefirst
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "JSON/Paging Fix for Spry"
 date: "2007-09-06T12:09:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2007/09/06/JSONPaging-Fix-for-Spry
 ---

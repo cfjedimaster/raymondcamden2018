@@ -2,8 +2,8 @@
 layout: post
 title: "I fought the meme and the meme won..."
 date: "2006-04-06T16:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/04/06/I-fought-the-meme-and-the-meme-won
 ---

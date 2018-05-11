@@ -2,8 +2,8 @@
 layout: post
 title: "Managing relationships with Transfer (or the ORM meets Dr. Phil)"
 date: "2008-11-07T21:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/07/Managing-relationships-with-Transfer-or-the-ORM-meets-Dr-Phil
 ---

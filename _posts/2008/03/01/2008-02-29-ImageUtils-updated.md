@@ -2,8 +2,8 @@
 layout: post
 title: "ImageUtils updated"
 date: "2008-03-01T10:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/01/ImageUtils-updated
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New Site: Adobe TechLive"
 date: "2012-12-17T09:12:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2012/12/17/New-Site-Adobe-TechLive
 ---

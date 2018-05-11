@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Log Viewer added to Eclipse Plugins"
 date: "2007-05-30T14:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/30/ColdFusion-8-Log-Viewer-added-to-Eclipse-Plugins
 ---

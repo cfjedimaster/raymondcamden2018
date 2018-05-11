@@ -2,8 +2,8 @@
 layout: post
 title: "Be careful with CFCHART"
 date: "2009-01-07T14:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/01/07/Be-careful-with-CFCHART
 ---

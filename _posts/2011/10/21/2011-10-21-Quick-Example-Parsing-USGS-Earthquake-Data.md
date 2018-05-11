@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Example - Parsing USGS Earthquake Data"
 date: "2011-10-21T12:10:00+06:00"
-categories: coldfusion html5 javascript jquery 
-tags: 
+categories: [coldfusion,html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/10/21/Quick-Example-Parsing-USGS-Earthquake-Data
 ---

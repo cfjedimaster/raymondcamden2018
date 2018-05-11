@@ -2,8 +2,8 @@
 layout: post
 title: "End of Year RIAForge Stats"
 date: "2007-12-31T09:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/12/31/End-of-Year-RIAForge-Stats
 ---

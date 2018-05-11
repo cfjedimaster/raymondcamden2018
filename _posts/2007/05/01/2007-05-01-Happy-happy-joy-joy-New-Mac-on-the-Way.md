@@ -2,8 +2,8 @@
 layout: post
 title: "Happy happy - joy joy - New Mac on the Way"
 date: "2007-05-01T22:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/05/01/Happy-happy-joy-joy-New-Mac-on-the-Way
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "IBM Watson OpenWhisk Actions"
 date: "2017-10-24T07:58:00-07:00"
-categories: serverless 
-tags: openwhisk watson
+categories: [serverless]
+tags: [openwhisk,watson]
 banner_image: 
 permalink: /2017/10/24/ibm-watson-openwhisk-actions
 ---

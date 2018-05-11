@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Security Reminder - Read me now"
 date: "2007-05-18T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/18/ColdFusion-Security-Reminder-Read-me-now
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Got cookies? (in your logs)"
 date: "2008-07-03T15:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/03/Got-cookies-in-your-logs
 ---

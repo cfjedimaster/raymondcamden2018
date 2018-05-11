@@ -2,8 +2,8 @@
 layout: post
 title: "New on Adobe Labs"
 date: "2008-11-17T16:11:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2008/11/17/New-on-Adobe-Labs
 ---

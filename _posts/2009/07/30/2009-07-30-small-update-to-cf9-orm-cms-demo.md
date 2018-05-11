@@ -2,8 +2,8 @@
 layout: post
 title: "Small update to CF9 ORM CMS Demo"
 date: "2009-07-31T00:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/30/small-update-to-cf9-orm-cms-demo
 ---

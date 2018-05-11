@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - State College, PA"
 date: "2013-06-17T18:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/06/17/ColdFusion-Job-Opening-State-College-PA
 ---

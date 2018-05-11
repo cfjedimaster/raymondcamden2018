@@ -2,8 +2,8 @@
 layout: post
 title: "Yes, Virginia, you can put HTML into a CFGRID"
 date: "2007-08-10T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/10/Yes-Virginia-you-can-put-HTML-into-a-CFGRID
 ---

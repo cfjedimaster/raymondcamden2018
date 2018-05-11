@@ -2,8 +2,8 @@
 layout: post
 title: "Another year, another Wordpress issue"
 date: "2016-01-02T16:28:28+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2016/01/02/another-year-another-wordpress-issue
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Using the MobileFirst Mobile Browser Simulator"
 date: "2015-02-20T15:49:47+06:00"
-categories: development html5 javascript 
-tags: mobilefirst
+categories: [development,html5,javascript]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2015/02/20/using-the-mobilefirst-mobile-browser-simulator
 ---

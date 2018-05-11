@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Zeus POTW: Application Metadata"
 date: "2011-12-05T08:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/12/05/ColdFusion-Zeus-POTW-Application-Metadata
 ---

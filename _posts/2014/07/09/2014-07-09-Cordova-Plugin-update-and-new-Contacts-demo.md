@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova Plugins update, and new Contacts demo"
 date: "2014-07-09T11:07:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/09/Cordova-Plugin-update-and-new-Contacts-demo
 ---

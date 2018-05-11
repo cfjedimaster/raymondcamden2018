@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept - An Edge Inspect Screenshot Viewer"
 date: "2012-11-06T11:11:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2012/11/06/Proof-of-Concept-An-Edge-Inspect-Screenshot-Viewer
 ---

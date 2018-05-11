@@ -2,8 +2,8 @@
 layout: post
 title: "Spry up on Livedocs"
 date: "2007-05-10T11:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/05/10/Spry-up-on-Livedocs
 ---

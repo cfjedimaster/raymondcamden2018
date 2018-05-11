@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Stylin' with Flex"
 date: "2006-05-09T19:05:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/05/09/Ask-a-Jedi-Stylin-with-Flex
 ---

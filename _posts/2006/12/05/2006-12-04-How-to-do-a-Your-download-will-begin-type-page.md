@@ -2,8 +2,8 @@
 layout: post
 title: "How to do a \"Your download will begin...\" type page."
 date: "2006-12-05T11:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/12/05/How-to-do-a-Your-download-will-begin-type-page
 ---

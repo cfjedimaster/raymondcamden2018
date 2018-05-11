@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - there is more to the CGI scope than what the dump shows"
 date: "2011-09-03T12:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/09/03/Reminder-there-is-more-to-the-CGI-scope-than-what-the-dump-shows
 ---

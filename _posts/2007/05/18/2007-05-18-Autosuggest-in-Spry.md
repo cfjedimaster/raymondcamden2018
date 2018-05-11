@@ -2,8 +2,8 @@
 layout: post
 title: "Autosuggest in Spry"
 date: "2007-05-18T23:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/05/18/Autosuggest-in-Spry
 ---

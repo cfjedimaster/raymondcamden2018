@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept Cordova integration with Brackets"
 date: "2014-07-08T08:07:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/08/Proof-of-Concept-Cordova-integration-with-Brackets
 ---

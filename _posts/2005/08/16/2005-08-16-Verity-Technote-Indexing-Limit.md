@@ -2,8 +2,8 @@
 layout: post
 title: "Verity Technote : Indexing Limit"
 date: "2005-08-16T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/16/Verity-Technote-Indexing-Limit
 ---

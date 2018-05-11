@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Thickbox and ColdFusion Dynamic Image Resizing - With Bookmarks"
 date: "2009-02-20T13:02:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/02/20/jQuery-Thickbox-and-ColdFusion-Dynamic-Image-Resizing-With-Bookmarks
 ---

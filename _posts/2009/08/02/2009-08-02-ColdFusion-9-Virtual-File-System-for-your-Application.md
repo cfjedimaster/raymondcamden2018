@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9 Virtual File System for your Application"
 date: "2009-08-02T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/02/ColdFusion-9-Virtual-File-System-for-your-Application
 ---

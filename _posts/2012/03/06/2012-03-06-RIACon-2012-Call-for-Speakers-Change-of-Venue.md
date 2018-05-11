@@ -2,8 +2,8 @@
 layout: post
 title: "RIACon 2012 - Call for Speakers, Change of Venue"
 date: "2012-03-06T19:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/03/06/RIACon-2012-Call-for-Speakers-Change-of-Venue
 ---

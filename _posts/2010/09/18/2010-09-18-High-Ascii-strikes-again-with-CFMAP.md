@@ -2,8 +2,8 @@
 layout: post
 title: "High Ascii strikes again (with CFMAP)"
 date: "2010-09-18T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/09/18/High-Ascii-strikes-again-with-CFMAP
 ---

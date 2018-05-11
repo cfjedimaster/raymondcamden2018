@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How do I learn Model-Glue?"
 date: "2005-07-29T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/29/Ask-a-Jedi-How-do-I-learn-ModelGlue
 ---

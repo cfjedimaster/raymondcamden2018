@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Update - SVN Files/Changelists"
 date: "2009-12-21T15:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/12/21/RIAForge-Update-SVN-FilesChangelists
 ---

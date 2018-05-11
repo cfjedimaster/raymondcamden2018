@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation tonight on ColdFusion and Open Source"
 date: "2008-04-29T10:04:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2008/04/29/Presentation-tonight-on-ColdFusion-and-Open-Source
 ---

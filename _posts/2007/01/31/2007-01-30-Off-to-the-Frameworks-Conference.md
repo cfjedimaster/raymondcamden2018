@@ -2,8 +2,8 @@
 layout: post
 title: "Off to the Frameworks Conference"
 date: "2007-01-31T07:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/01/31/Off-to-the-Frameworks-Conference
 ---

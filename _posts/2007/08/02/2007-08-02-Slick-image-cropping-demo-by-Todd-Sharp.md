@@ -2,8 +2,8 @@
 layout: post
 title: "Slick image cropping demo by Todd Sharp"
 date: "2007-08-02T11:08:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2007/08/02/Slick-image-cropping-demo-by-Todd-Sharp
 ---

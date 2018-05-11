@@ -2,8 +2,8 @@
 layout: post
 title: "Open Session on PhoneGap Development"
 date: "2012-05-07T10:05:00+06:00"
-categories: development html5 mobile 
-tags: 
+categories: [development,html5,mobile]
+tags: []
 banner_image: 
 permalink: /2012/05/07/Open-Session-on-PhoneGap-Development
 ---

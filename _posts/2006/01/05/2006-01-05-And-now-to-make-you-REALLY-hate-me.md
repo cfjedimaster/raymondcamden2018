@@ -2,8 +2,8 @@
 layout: post
 title: "And now to make you REALLY hate me..."
 date: "2006-01-05T18:01:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2006/01/05/And-now-to-make-you-REALLY-hate-me
 ---

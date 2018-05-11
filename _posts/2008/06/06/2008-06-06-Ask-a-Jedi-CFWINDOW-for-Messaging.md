@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: CFWINDOW for Messaging?"
 date: "2008-06-06T11:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/06/Ask-a-Jedi-CFWINDOW-for-Messaging
 ---

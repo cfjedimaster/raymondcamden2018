@@ -2,8 +2,8 @@
 layout: post
 title: "Sunday OT: Best 2600 Video Ever"
 date: "2013-08-11T11:08:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2013/08/11/Sunday-OT-Best-2600-Video-Ever
 ---

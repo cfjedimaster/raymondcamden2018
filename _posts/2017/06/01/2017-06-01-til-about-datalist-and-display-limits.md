@@ -2,8 +2,8 @@
 layout: post
 title: "TIL about Datalist and Display Limits"
 date: "2017-06-01T08:09:00-07:00"
-categories: html5 
-tags: html5
+categories: [html5]
+tags: [html5]
 banner_image: 
 permalink: /2017/06/01/til-about-datalist-and-display-limits
 ---

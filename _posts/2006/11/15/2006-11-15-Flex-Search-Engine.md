@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Search Engine"
 date: "2006-11-15T17:11:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/11/15/Flex-Search-Engine
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Holy Smokes - I'm a Banner?!?"
 date: "2005-09-15T19:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/15/Holy-Smokes-Im-a-Banner
 ---

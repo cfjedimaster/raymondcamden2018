@@ -2,8 +2,8 @@
 layout: post
 title: "How to handle setup logic with IndexedDB"
 date: "2012-04-25T18:04:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/04/25/How-to-handle-setup-logic-with-indexedDB
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Scotch on the Rocks 2010 (and other random ramblings)"
 date: "2010-05-30T10:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/30/Scotch-on-the-Rocks-2010-and-other-random-ramblings
 ---

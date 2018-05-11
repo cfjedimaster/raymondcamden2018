@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Take your blankety-blank darn freaking text elsewhere!"
 date: "2005-09-20T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/20/ColdFusion-101-Take-your-blanketyblank-darn-freaking-text-elsewhere
 ---

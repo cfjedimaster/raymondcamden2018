@@ -2,8 +2,8 @@
 layout: post
 title: "Good example of a jQuery demo with two rewrites"
 date: "2011-04-22T23:04:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2011/04/22/Good-example-of-a-jQuery-demo-with-two-rewrites
 ---

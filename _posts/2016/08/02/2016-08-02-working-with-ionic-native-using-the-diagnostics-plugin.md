@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Ionic Native - Using the Diagnostics Plugin"
 date: "2016-08-02T13:42:00-07:00"
-categories: javascript mobile 
-tags: ionic
+categories: [javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2016/08/02/working-with-ionic-native-using-the-diagnostics-plugin
 ---

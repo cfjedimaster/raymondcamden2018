@@ -2,8 +2,8 @@
 layout: post
 title: "MGDoc, a Model-Glue documentor"
 date: "2006-03-30T18:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/30/MGDoc-a-ModelGlue-documentor
 ---

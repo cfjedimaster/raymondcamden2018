@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: XML Forms, CFSELECT, and Value Issues"
 date: "2005-08-24T12:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/24/Ask-a-Jedi-XML-Forms-CFSELECT-and-Value-Issues
 ---

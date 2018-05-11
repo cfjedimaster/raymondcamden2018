@@ -2,8 +2,8 @@
 layout: post
 title: "SauceDB: Writing data back"
 date: "2015-07-29T17:28:48+06:00"
-categories: development javascript mobile 
-tags: bluemix cordova ionic
+categories: [development,javascript,mobile]
+tags: [bluemix,cordova,ionic]
 banner_image: 
 permalink: /2015/07/29/saucedb-writing-data-back
 ---

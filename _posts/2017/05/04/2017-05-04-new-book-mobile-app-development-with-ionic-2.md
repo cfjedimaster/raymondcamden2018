@@ -2,8 +2,8 @@
 layout: post
 title: "New Book: Mobile App Development with Ionic 2"
 date: "2017-05-04T09:32:00-07:00"
-categories: mobile 
-tags: ionic
+categories: [mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2017/05/04/new-book-mobile-app-development-with-ionic-2
 ---

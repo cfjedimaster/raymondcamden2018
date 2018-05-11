@@ -2,8 +2,8 @@
 layout: post
 title: "Looking for a Face.com API replacement? Try ReKognition."
 date: "2012-09-18T13:09:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/18/Looking-for-a-Facecom-API-replacement-Try-ReKognition
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Contest Entry Examined"
 date: "2005-10-04T16:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/04/ColdFusion-Contest-Entry-Examined
 ---

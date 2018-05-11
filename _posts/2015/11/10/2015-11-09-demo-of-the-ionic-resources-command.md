@@ -2,8 +2,8 @@
 layout: post
 title: "Demo of the Ionic Resources command"
 date: "2015-11-10T10:54:39+06:00"
-categories: development mobile 
-tags: cordova ionic
+categories: [development,mobile]
+tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/11/10/demo-of-the-ionic-resources-command
 ---

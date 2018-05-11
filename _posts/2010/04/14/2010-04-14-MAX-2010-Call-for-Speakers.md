@@ -2,8 +2,8 @@
 layout: post
 title: "MAX 2010 Call for Speakers"
 date: "2010-04-14T18:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/04/14/MAX-2010-Call-for-Speakers
 ---

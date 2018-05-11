@@ -2,8 +2,8 @@
 layout: post
 title: "New online material for Chrome DevTools"
 date: "2013-03-21T17:03:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/03/21/New-online-material-for-Chrome-DevTools
 ---

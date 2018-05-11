@@ -2,8 +2,8 @@
 layout: post
 title: "Multi-File Upload with Flex and ColdFusion"
 date: "2006-08-13T16:08:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/08/13/MultiFile-Upload-with-Flex-and-ColdFusion
 ---

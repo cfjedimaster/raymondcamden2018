@@ -2,8 +2,8 @@
 layout: post
 title: "Workarounds for things not supported in ColdFusion Script"
 date: "2011-04-07T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/04/07/Workarounds-for-things-not-supported-in-ColdFusion-Script
 ---

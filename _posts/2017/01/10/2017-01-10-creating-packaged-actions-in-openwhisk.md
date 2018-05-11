@@ -2,8 +2,8 @@
 layout: post
 title: "Creating Zipped Actions in OpenWhisk"
 date: "2017-01-10T13:12:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/01/10/creating-packaged-actions-in-openwhisk
 ---

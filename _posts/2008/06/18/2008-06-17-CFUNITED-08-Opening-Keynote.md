@@ -2,8 +2,8 @@
 layout: post
 title: "CFUNITED 08 Opening Keynote"
 date: "2008-06-18T09:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/18/CFUNITED-08-Opening-Keynote
 ---

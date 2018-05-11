@@ -2,8 +2,8 @@
 layout: post
 title: "DRK12 Released"
 date: "2005-07-21T21:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/07/21/DRK12-Released
 ---

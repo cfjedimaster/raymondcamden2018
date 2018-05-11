@@ -2,8 +2,8 @@
 layout: post
 title: "Another Adobe ColdFusion Survey"
 date: "2008-01-14T15:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/14/Another-Adobe-ColdFusion-Survey
 ---

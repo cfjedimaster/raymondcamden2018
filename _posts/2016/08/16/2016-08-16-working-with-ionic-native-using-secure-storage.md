@@ -2,8 +2,8 @@
 layout: post
 title: "Working with Ionic Native - Using Secure Storage"
 date: "2016-08-16T15:05:00-07:00"
-categories: javascript mobile 
-tags: ionic
+categories: [javascript,mobile]
+tags: [ionic]
 banner_image: /images/banners/secure_storage.jpg
 permalink: /2016/08/16/working-with-ionic-native-using-secure-storage
 ---

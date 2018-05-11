@@ -2,8 +2,8 @@
 layout: post
 title: "Application Report - ColdFusion Admin Extension example"
 date: "2011-08-15T14:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/08/15/Application-Report-ColdFusion-Admin-Extension-example
 ---

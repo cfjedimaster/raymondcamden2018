@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting CFDUMP Bug"
 date: "2009-11-04T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/11/04/Interesting-CFDUMP-Bug
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Introduction to API Connect Webinar"
 date: "2016-06-08T07:31:00-07:00"
-categories: development 
-tags: nodejs
+categories: [development]
+tags: [nodejs]
 banner_image: 
 permalink: /2016/06/08/introduction-to-api-connect-webinar
 ---

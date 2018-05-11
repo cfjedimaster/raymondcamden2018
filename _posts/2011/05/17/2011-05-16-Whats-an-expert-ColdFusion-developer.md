@@ -2,8 +2,8 @@
 layout: post
 title: "What's an expert ColdFusion developer?"
 date: "2011-05-17T08:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/05/17/Whats-an-expert-ColdFusion-developer
 ---

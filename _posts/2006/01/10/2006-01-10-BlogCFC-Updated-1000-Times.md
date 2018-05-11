@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC Updated.... 1000 Times"
 date: "2006-01-10T18:01:00+06:00"
-categories: coldfusion misc 
-tags: 
+categories: [coldfusion,misc]
+tags: []
 banner_image: 
 permalink: /2006/01/10/BlogCFC-Updated-1000-Times
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Better example of PhoneGap, Parse, and uploading files"
 date: "2013-07-23T10:07:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/07/23/better-example-of-phonegap-parse-and-uploading-files
 ---

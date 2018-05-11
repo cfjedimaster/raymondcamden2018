@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Sample - Using CFZIP"
 date: "2011-11-26T19:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/11/26/ColdFusion-Samples-Using-CFZIP
 ---

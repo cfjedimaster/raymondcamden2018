@@ -2,8 +2,8 @@
 layout: post
 title: "Some notes on CFFILE/UploadAll"
 date: "2009-11-14T07:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/11/14/Some-notes-on-CFFILEUploadAll
 ---

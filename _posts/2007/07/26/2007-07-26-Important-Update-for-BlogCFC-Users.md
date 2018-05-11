@@ -2,8 +2,8 @@
 layout: post
 title: "Important Update for BlogCFC Users"
 date: "2007-07-26T18:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/07/26/Important-Update-for-BlogCFC-Users
 ---

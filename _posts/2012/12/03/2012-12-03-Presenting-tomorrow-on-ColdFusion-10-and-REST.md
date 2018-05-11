@@ -2,8 +2,8 @@
 layout: post
 title: "Presenting tomorrow on ColdFusion 10 and REST"
 date: "2012-12-03T13:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/12/03/Presenting-tomorrow-on-ColdFusion-10-and-REST
 ---

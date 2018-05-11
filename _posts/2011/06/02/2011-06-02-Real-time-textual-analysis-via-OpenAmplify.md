@@ -2,8 +2,8 @@
 layout: post
 title: "Real time textual analysis via OpenAmplify"
 date: "2011-06-02T23:06:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/06/02/Real-time-textual-analysis-via-OpenAmplify
 ---

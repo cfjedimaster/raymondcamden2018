@@ -2,8 +2,8 @@
 layout: post
 title: "Eliza - Because I wanted to waste time!"
 date: "2005-09-16T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/16/Eliza-Because-I-wanted-to-waste-time
 ---

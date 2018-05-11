@@ -2,8 +2,8 @@
 layout: post
 title: "Out next week"
 date: "2006-10-22T12:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/22/Out-next-week
 ---

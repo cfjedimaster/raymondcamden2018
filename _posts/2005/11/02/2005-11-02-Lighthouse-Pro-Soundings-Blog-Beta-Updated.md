@@ -2,8 +2,8 @@
 layout: post
 title: "Lighthouse Pro, Soundings, Blog Beta Updated"
 date: "2005-11-02T13:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/02/Lighthouse-Pro-Soundings-Blog-Beta-Updated
 ---

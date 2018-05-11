@@ -2,8 +2,8 @@
 layout: post
 title: "And now for something very important..."
 date: "2007-04-08T09:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/08/And-now-for-something-very-important
 ---

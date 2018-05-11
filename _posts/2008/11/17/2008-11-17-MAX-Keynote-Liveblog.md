@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Keynote Liveblog"
 date: "2008-11-17T12:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/11/17/MAX-Keynote-Liveblog
 ---

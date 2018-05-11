@@ -2,8 +2,8 @@
 layout: post
 title: "Upgrading Serverless Superman to IBM Composer"
 date: "2017-10-20"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: /images/banners/superfsh.jpg
 permalink: /2017/10/20/upgrading-serverless-superman-to-ibm-composer
 ---

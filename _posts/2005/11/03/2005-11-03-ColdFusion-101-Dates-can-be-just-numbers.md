@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Dates can be just numbers"
 date: "2005-11-03T15:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/03/ColdFusion-101-Dates-can-be-just-numbers
 ---

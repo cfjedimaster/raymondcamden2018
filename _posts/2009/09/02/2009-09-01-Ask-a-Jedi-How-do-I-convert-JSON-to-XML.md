@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How do I convert JSON to XML?"
 date: "2009-09-02T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/02/Ask-a-Jedi-How-do-I-convert-JSON-to-XML
 ---

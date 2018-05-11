@@ -2,8 +2,8 @@
 layout: post
 title: "Making Subclipse recognize a project checked out from Subversion"
 date: "2009-09-03T17:09:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2009/09/03/Making-Subclipse-recognize-a-project-checked-out-from-Subversion
 ---

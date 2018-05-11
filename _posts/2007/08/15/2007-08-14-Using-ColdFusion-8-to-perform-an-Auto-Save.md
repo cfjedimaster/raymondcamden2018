@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion 8 to perform an \"Auto Save\""
 date: "2007-08-15T09:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/15/Using-ColdFusion-8-to-perform-an-Auto-Save
 ---

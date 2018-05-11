@@ -2,8 +2,8 @@
 layout: post
 title: "Avoid the minified AngularJS library in development"
 date: "2014-12-26T10:52:40+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2014/12/26/avoid-the-minified-angularjs-library-in-development
 ---

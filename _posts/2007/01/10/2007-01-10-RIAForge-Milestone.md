@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Milestone"
 date: "2007-01-10T22:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/01/10/RIAForge-Milestone
 ---

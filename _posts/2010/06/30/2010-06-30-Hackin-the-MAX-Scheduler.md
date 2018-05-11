@@ -2,8 +2,8 @@
 layout: post
 title: "Hackin' the MAX Scheduler"
 date: "2010-06-30T21:07:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/06/30/Hackin-the-MAX-Scheduler
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Learn about Ionic at Appcamp"
 date: "2015-10-02T11:10:58+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/10/02/learn-about-ionic-at-appcamp
 ---

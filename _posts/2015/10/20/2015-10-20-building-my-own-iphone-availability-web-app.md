@@ -2,8 +2,8 @@
 layout: post
 title: "Building my own iPhone Availability Web App"
 date: "2015-10-20T11:16:06+06:00"
-categories: development javascript jquery mobile 
-tags: bluemix
+categories: [development,javascript,jquery,mobile]
+tags: [bluemix]
 banner_image: 
 permalink: /2015/10/20/building-my-own-iphone-availability-web-app
 ---

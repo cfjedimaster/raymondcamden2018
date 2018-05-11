@@ -2,8 +2,8 @@
 layout: post
 title: "Using CFDIV for Paging (ColdFusionBloggers.org Update)"
 date: "2007-07-24T23:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/24/Using-CFDIV-for-Paging-ColdFusionBloggersorg-Update
 ---

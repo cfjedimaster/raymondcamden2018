@@ -2,8 +2,8 @@
 layout: post
 title: "Bonehead Custom Tag mistake"
 date: "2008-06-04T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/04/Bonehead-Custom-Tag-mistake
 ---

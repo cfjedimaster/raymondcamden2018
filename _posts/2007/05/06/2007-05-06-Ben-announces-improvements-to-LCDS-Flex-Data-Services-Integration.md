@@ -2,8 +2,8 @@
 layout: post
 title: "Ben announces improvements to LCDS (Flex Data Services) Integration"
 date: "2007-05-06T13:05:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2007/05/06/Ben-announces-improvements-to-LCDS-Flex-Data-Services-Integration
 ---

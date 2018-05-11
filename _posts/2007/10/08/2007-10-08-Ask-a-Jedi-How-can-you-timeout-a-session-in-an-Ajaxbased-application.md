@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How can you timeout a session in an Ajax-based application?"
 date: "2007-10-08T12:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/08/Ask-a-Jedi-How-can-you-timeout-a-session-in-an-Ajaxbased-application
 ---

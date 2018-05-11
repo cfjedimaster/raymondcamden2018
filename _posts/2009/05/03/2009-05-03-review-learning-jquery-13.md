@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Learning jQuery 1.3"
 date: "2009-05-03T12:05:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2009/05/03/review-learning-jquery-13
 ---

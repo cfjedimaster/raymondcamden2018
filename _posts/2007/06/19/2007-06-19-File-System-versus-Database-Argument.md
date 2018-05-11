@@ -2,8 +2,8 @@
 layout: post
 title: "File System versus Database Argument"
 date: "2007-06-19T17:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/06/19/File-System-versus-Database-Argument
 ---

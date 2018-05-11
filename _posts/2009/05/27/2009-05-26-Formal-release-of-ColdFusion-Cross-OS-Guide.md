@@ -2,8 +2,8 @@
 layout: post
 title: "'Formal' release of ColdFusion Cross OS Guide"
 date: "2009-05-27T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/05/27/Formal-release-of-ColdFusion-Cross-OS-Guide
 ---

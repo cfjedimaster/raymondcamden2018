@@ -2,8 +2,8 @@
 layout: post
 title: "My first extension for Visual Studio Code - CSSLint"
 date: "2015-12-16T14:49:58+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/12/16/my-first-extension-for-visual-studio-code-csslint
 ---

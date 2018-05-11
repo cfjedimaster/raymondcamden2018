@@ -2,8 +2,8 @@
 layout: post
 title: "Recording: Debugging Mobile Applications Presentation"
 date: "2014-04-18T16:04:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2014/04/18/Recording-Debugging-Mobile-Applications-Presentation
 ---

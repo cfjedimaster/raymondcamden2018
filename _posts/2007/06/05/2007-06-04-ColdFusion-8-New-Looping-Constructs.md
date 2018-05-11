@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: New Looping Constructs"
 date: "2007-06-05T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/05/ColdFusion-8-New-Looping-Constructs
 ---

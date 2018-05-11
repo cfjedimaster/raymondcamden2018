@@ -2,8 +2,8 @@
 layout: post
 title: "First draft of UPS Package Released"
 date: "2006-12-12T12:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/12/12/First-draft-of-UPS-Package-Released
 ---

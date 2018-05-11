@@ -2,8 +2,8 @@
 layout: post
 title: "Favorite Media of 2017"
 date: "2017-12-24"
-categories: books movies music video games 
-tags: 
+categories: [books,movies,music,video games]
+tags: []
 banner_image: 
 permalink: /2017/12/24/favorite-media-of-2017
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Video on Thermo"
 date: "2007-12-12T11:12:00+06:00"
-categories: development flex 
-tags: 
+categories: [development,flex]
+tags: []
 banner_image: 
 permalink: /2007/12/12/Video-on-Thermo
 ---

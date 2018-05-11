@@ -2,8 +2,8 @@
 layout: post
 title: "The last book you will ever read"
 date: "2008-05-11T09:05:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2008/05/11/The-last-book-you-will-ever-read
 ---

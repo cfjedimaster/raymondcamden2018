@@ -2,8 +2,8 @@
 layout: post
 title: "Article on Improving Your JavaScript Skills"
 date: "2016-02-01T12:12:24-07:00"
-categories: javascript development 
-tags: 
+categories: [javascript,development]
+tags: []
 banner_image: /images/2016/02/levelup_javascript.jpg
 permalink: /2016/02/01/article-on-improving-your-javascript-skills
 ---

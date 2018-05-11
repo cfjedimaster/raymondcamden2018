@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion to help with my son's homework"
 date: "2008-09-25T22:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/25/Using-ColdFusion-to-help-with-my-sons-homework
 ---

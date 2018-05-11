@@ -2,8 +2,8 @@
 layout: post
 title: "Vote and Suggest Topics for the CF Summit"
 date: "2013-06-12T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/06/12/Vote-and-Suggest-Topics-for-the-CF-Summit
 ---

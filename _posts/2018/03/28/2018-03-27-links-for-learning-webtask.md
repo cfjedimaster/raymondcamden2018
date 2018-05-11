@@ -2,8 +2,8 @@
 layout: post
 title: "Links for Learning Webtask"
 date: "2018-03-28"
-categories: serverless 
-tags: webtask
+categories: [serverless]
+tags: [webtask]
 banner_image: /images/banners/library.jpg
 permalink: /2018/03/28/links-for-learning-webtask
 ---

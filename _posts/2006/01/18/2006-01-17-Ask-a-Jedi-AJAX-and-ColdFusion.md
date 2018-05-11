@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: AJAX and ColdFusion"
 date: "2006-01-18T07:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/18/Ask-a-Jedi-AJAX-and-ColdFusion
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "A PhoneGap Build API wrapper in Node"
 date: "2012-08-31T12:08:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2012/08/31/A-PhoneGap-Build-API-wrapper-in-Node
 ---

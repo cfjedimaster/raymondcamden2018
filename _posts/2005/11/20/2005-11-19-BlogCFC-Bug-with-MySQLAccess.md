@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC Bug with MySQL/Access"
 date: "2005-11-20T08:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/11/20/BlogCFC-Bug-with-MySQLAccess
 ---

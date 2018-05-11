@@ -2,8 +2,8 @@
 layout: post
 title: "Lost is one step away..."
 date: "2007-02-21T23:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/21/Lost-is-one-step-away
 ---

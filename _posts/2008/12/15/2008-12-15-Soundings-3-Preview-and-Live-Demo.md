@@ -2,8 +2,8 @@
 layout: post
 title: "Soundings 3 - Preview and Live Demo"
 date: "2008-12-15T22:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/12/15/Soundings-3-Preview-and-Live-Demo
 ---

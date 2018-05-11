@@ -2,8 +2,8 @@
 layout: post
 title: "Some thoughts on HoloLens (and the new Surface Laptop)"
 date: "2017-05-12T10:01:00-07:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2017/05/12/some-thoughts-on-hololens-and-the-new-surface-laptop
 ---

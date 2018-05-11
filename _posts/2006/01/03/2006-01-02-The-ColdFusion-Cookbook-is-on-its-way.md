@@ -2,8 +2,8 @@
 layout: post
 title: "The ColdFusion Cookbook is on it's way..."
 date: "2006-01-03T08:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/03/The-ColdFusion-Cookbook-is-on-its-way
 ---

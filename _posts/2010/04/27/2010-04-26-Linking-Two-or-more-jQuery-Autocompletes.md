@@ -2,8 +2,8 @@
 layout: post
 title: "Linking Two (or more) jQuery Autocompletes"
 date: "2010-04-27T09:04:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/04/27/Linking-Two-or-more-jQuery-Autocompletes
 ---

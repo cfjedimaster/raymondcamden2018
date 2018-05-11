@@ -2,8 +2,8 @@
 layout: post
 title: "New docs for script functions based on CFCs"
 date: "2009-12-13T09:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/13/New-docs-for-script-functions-based-on-CFCs
 ---

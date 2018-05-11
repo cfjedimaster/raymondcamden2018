@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Fusion-Reactor 2 (Beta)"
 date: "2006-06-21T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/21/Review-FusionReactor-2-Beta
 ---

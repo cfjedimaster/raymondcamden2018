@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Pros and Cons of Flash Forms"
 date: "2006-05-31T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/31/Ask-a-Jedi-Pros-and-Cons-of-Flash-Forms
 ---

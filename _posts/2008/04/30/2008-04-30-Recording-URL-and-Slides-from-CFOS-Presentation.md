@@ -2,8 +2,8 @@
 layout: post
 title: "Recording URL and Slides from CF/OS Presentation"
 date: "2008-04-30T12:04:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2008/04/30/Recording-URL-and-Slides-from-CFOS-Presentation
 ---

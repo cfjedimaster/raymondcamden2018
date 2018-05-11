@@ -2,8 +2,8 @@
 layout: post
 title: "Using jQuery to convert text into form fields (2)"
 date: "2010-03-19T14:03:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2010/03/19/Using-jQuery-to-convert-text-into-form-fields-2
 ---

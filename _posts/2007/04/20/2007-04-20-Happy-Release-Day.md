@@ -2,8 +2,8 @@
 layout: post
 title: "Happy Release Day"
 date: "2007-04-20T16:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/20/Happy-Release-Day
 ---

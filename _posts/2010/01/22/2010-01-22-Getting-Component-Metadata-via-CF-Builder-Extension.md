@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Component Metadata via CF Builder Extension"
 date: "2010-01-22T12:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/01/22/Getting-Component-Metadata-via-CF-Builder-Extension
 ---

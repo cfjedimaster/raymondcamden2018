@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting CFTIMER Behavior"
 date: "2007-04-02T14:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/02/Interesting-CFTIMER-Behavior
 ---

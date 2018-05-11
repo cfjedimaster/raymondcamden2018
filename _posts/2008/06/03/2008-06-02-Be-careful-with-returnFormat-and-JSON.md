@@ -2,8 +2,8 @@
 layout: post
 title: "Be careful with returnFormat and JSON"
 date: "2008-06-03T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/03/Be-careful-with-returnFormat-and-JSON
 ---

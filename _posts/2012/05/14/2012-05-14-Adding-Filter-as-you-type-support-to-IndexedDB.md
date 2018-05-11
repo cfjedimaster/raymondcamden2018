@@ -2,8 +2,8 @@
 layout: post
 title: "Adding \"Filter as you type\" support to IndexedDB"
 date: "2012-05-14T15:05:00+06:00"
-categories: development html5 javascript jquery 
-tags: 
+categories: [development,html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/05/14/Adding-Filter-as-you-type-support-to-IndexedDB
 ---

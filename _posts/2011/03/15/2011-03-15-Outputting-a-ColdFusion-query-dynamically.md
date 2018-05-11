@@ -2,8 +2,8 @@
 layout: post
 title: "Outputting a ColdFusion query dynamically"
 date: "2011-03-15T15:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/15/Outputting-a-ColdFusion-query-dynamically
 ---

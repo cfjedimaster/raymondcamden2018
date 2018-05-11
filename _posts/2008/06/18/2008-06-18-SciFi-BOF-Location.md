@@ -2,8 +2,8 @@
 layout: post
 title: "SciFi BOF Location"
 date: "2008-06-18T11:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/06/18/SciFi-BOF-Location
 ---

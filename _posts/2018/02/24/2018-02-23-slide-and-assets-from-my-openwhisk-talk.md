@@ -2,8 +2,8 @@
 layout: post
 title: "Slides and Assets from My OpenWhisk Talk"
 date: "2018-02-24"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: /images/banners/publicspeaking.jpg
 permalink: /2018/02/24/slide-and-assets-from-my-openwhisk-talk
 ---

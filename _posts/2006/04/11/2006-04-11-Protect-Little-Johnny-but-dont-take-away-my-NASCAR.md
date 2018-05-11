@@ -2,8 +2,8 @@
 layout: post
 title: "Protect Little Johnny, but don't take away my NASCAR!"
 date: "2006-04-11T17:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/04/11/Protect-Little-Johnny-but-dont-take-away-my-NASCAR
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Star Trek"
 date: "2009-05-08T23:05:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2009/05/08/Review-Star-Trek
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Using CAPTCHA in ColdFusion with reload powered by jQuery"
 date: "2011-03-15T00:03:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/03/14/Using-CAPTCHA-in-ColdFusion-with-reload-powered-by-jQuery
 ---

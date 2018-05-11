@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue Question - Helpers calling helpers"
 date: "2010-04-20T13:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/04/20/ModelGlue-Question-Helpers-calling-helpers
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Warning about ColdFusion 10 and ORM Logging"
 date: "2014-01-17T16:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/01/17/Warning-about-ColdFusion-10-and-ORM-Logging
 ---

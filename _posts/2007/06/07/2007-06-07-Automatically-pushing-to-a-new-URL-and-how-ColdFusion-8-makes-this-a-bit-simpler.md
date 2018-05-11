@@ -2,8 +2,8 @@
 layout: post
 title: "Automatically pushing to a new URL, and how ColdFusion 8 makes this a bit simpler"
 date: "2007-06-07T15:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/07/Automatically-pushing-to-a-new-URL-and-how-ColdFusion-8-makes-this-a-bit-simpler
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC Update"
 date: "2005-09-09T19:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/09/BlogCFC-Update
 ---

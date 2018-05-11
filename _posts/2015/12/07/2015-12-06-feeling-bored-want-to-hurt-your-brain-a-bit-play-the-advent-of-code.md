@@ -2,8 +2,8 @@
 layout: post
 title: "Feeling bored? Want to hurt your brain a bit? Play the Advent of Code"
 date: "2015-12-07T10:34:22+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/12/07/feeling-bored-want-to-hurt-your-brain-a-bit-play-the-advent-of-code
 ---

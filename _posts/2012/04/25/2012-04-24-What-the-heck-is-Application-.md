@@ -2,8 +2,8 @@
 layout: post
 title: "What the heck is Application ''?"
 date: "2012-04-25T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/04/25/What-the-heck-is-Application-
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Not Enough Pink Shoes"
 date: "2005-07-18T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/18/Not-Enough-Pink-Shoes
 ---

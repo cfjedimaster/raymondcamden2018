@@ -2,8 +2,8 @@
 layout: post
 title: "Dev Tools Tip - Preserving network logs on leaving a page"
 date: "2013-12-19T15:12:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/12/19/Dev-Tools-Tip-Preserving-network-logs-on-leaving-a-page
 ---

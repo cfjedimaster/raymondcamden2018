@@ -2,8 +2,8 @@
 layout: post
 title: "The Flex Show - A Flex Podcast"
 date: "2007-01-16T07:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/16/The-Flex-Show-A-Flex-Podcast
 ---

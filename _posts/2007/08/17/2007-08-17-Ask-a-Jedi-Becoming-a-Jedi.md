@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Becoming a Jedi?"
 date: "2007-08-17T12:08:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/08/17/Ask-a-Jedi-Becoming-a-Jedi
 ---

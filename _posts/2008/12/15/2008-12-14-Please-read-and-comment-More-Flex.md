@@ -2,8 +2,8 @@
 layout: post
 title: "Please read and comment: More Flex?"
 date: "2008-12-15T07:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/15/Please-read-and-comment-More-Flex
 ---

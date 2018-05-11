@@ -2,8 +2,8 @@
 layout: post
 title: "My NCDevCon presentation: Practical HTML5"
 date: "2014-06-12T18:06:00+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2014/06/12/My-NCDevCon-presentation-Practical-HTML5
 ---

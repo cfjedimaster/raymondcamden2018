@@ -2,8 +2,8 @@
 layout: post
 title: "What I did this weekend..."
 date: "2007-04-23T19:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/23/What-I-did-this-weekend
 ---

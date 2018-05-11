@@ -2,8 +2,8 @@
 layout: post
 title: "Heroes Returns Tonight"
 date: "2007-04-23T11:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/23/Heroes-Returns-Tonight
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Got a new Chrome? Got a joystick? Check out the Gamepad API"
 date: "2012-08-01T17:08:00+06:00"
-categories: html5 javascript video games 
-tags: 
+categories: [html5,javascript,video games]
+tags: []
 banner_image: 
 permalink: /2012/08/01/Got-a-new-Chrome-Got-a-joystick-Check-out-the-Gamepad-API
 ---

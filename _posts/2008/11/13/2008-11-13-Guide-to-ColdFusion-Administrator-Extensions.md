@@ -2,8 +2,8 @@
 layout: post
 title: "Guide to ColdFusion Administrator Extensions"
 date: "2008-11-13T21:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/13/Guide-to-ColdFusion-Administrator-Extensions
 ---

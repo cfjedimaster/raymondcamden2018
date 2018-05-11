@@ -2,8 +2,8 @@
 layout: post
 title: "Follow up to ColdFusion Axis2 Web Service Issue"
 date: "2014-08-21T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/08/21/Follow-up-to-ColdFusion-Axis2-Web-Service-Issue
 ---

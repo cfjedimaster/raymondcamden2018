@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue Sample - Cookbook"
 date: "2006-01-18T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/18/ModelGlue-Sample-Cookbook
 ---

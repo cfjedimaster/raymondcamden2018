@@ -2,8 +2,8 @@
 layout: post
 title: "Tour de ColdFusion Beta"
 date: "2010-06-28T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/06/28/Tour-de-ColdFusion-Beta
 ---

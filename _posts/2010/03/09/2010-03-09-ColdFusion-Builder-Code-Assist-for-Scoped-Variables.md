@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder - Code Assist for Scoped Variables"
 date: "2010-03-09T13:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/03/09/ColdFusion-Builder-Code-Assist-for-Scoped-Variables
 ---

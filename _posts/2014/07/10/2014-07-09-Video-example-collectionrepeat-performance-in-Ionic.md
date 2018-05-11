@@ -2,8 +2,8 @@
 layout: post
 title: "Video example: collection-repeat performance in Ionic"
 date: "2014-07-10T08:07:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/07/10/Video-example-collectionrepeat-performance-in-Ionic
 ---

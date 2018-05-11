@@ -2,8 +2,8 @@
 layout: post
 title: "AIR and Flex 3 Betas Launch Tonight"
 date: "2007-06-11T01:06:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/06/11/AIR-and-Flex-3-Betas-Launch-Tonight
 ---

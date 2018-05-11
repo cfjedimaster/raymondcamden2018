@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using links to select tabs in jQuery UI Tabs"
 date: "2010-06-11T10:06:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2010/06/11/Ask-a-Jedi-Using-links-to-select-tabs-in-jQuery-UI-Tabs
 ---

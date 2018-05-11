@@ -2,8 +2,8 @@
 layout: post
 title: "Happy 20th, ColdFusion"
 date: "2015-07-02T09:12:42+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2015/07/02/happy-20th-coldfusion
 ---

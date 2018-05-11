@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Tidbit - How does CF show the lines where your error occured?"
 date: "2008-12-03T11:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/12/03/ColdFusion-Tidbit-How-does-CF-show-the-lines-where-your-error-occured
 ---

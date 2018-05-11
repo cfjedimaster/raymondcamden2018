@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Application.cfc versus Application.cfm"
 date: "2005-12-07T22:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/07/Ask-a-Jedi-Applicationcfc-versus-Applicationcfm
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "How Many Days Since the Last JavaScript Framework?"
 date: "2016-08-11T14:28:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: /images/banners/jsf.jpg
 permalink: /2016/08/11/how-many-days-since-the-last-javascript-framework
 ---

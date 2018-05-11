@@ -2,8 +2,8 @@
 layout: post
 title: "Waste of Time: James T. Kirk Facts"
 date: "2006-01-26T17:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/01/26/Waste-of-Time-James-T-Kirk-Facts
 ---

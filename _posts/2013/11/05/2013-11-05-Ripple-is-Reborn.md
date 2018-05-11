@@ -2,8 +2,8 @@
 layout: post
 title: "Ripple is Reborn!"
 date: "2013-11-05T22:11:00+06:00"
-categories: development html5 mobile 
-tags: 
+categories: [development,html5,mobile]
+tags: []
 banner_image: 
 permalink: /2013/11/05/Ripple-is-Reborn
 ---

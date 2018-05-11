@@ -2,8 +2,8 @@
 layout: post
 title: "Using swipe gestures for navigation in jQuery Mobile"
 date: "2011-03-14T14:03:00+06:00"
-categories: coldfusion javascript jquery mobile 
-tags: 
+categories: [coldfusion,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/03/14/Using-swipe-gestures-for-navigation-in-jQuery-Mobile
 ---

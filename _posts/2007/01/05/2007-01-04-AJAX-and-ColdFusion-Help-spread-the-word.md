@@ -2,8 +2,8 @@
 layout: post
 title: "AJAX and ColdFusion - Help spread the word"
 date: "2007-01-05T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/05/AJAX-and-ColdFusion-Help-spread-the-word
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Wounded Horse Report"
 date: "2006-01-20T07:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/01/20/Wounded-Horse-Report
 ---

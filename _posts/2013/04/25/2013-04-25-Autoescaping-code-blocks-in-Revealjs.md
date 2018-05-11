@@ -2,8 +2,8 @@
 layout: post
 title: "Auto-escaping code blocks in Reveal.js"
 date: "2013-04-25T12:04:00+06:00"
-categories: development html5 
-tags: 
+categories: [development,html5]
+tags: []
 banner_image: 
 permalink: /2013/04/25/Autoescaping-code-blocks-in-Revealjs
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New Music - Saint Etienne"
 date: "2005-08-11T11:08:00+06:00"
-categories: music 
-tags: 
+categories: [music]
+tags: []
 banner_image: 
 permalink: /2005/08/11/New-Music-Saint-Etienne
 ---

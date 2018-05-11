@@ -2,8 +2,8 @@
 layout: post
 title: "My early access Cordova book is half off today!"
 date: "2015-03-09T05:40:01+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/03/09/my-early-access-cordova-book-is-half-off-today
 ---

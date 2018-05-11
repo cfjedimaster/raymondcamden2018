@@ -2,8 +2,8 @@
 layout: post
 title: "INeedIt - Simple Flex Mobile example"
 date: "2011-05-15T00:05:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/05/14/INeedIt-Simple-Flex-Mobile-example
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Building a Quiz Manager for jQuery Mobile"
 date: "2013-12-05T12:12:00+06:00"
-categories: html5 javascript jquery mobile 
-tags: 
+categories: [html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2013/12/05/Building-a-Quiz-Manager-for-jQuery-Mobile
 ---

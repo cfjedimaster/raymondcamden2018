@@ -2,8 +2,8 @@
 layout: post
 title: "Baby steps in factory land"
 date: "2007-02-11T05:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/11/Baby-steps-in-factory-land
 ---

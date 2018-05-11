@@ -2,8 +2,8 @@
 layout: post
 title: "Verity Tip: THESAURUS Searching"
 date: "2005-08-18T18:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/18/Verity-Tip-THESAURUS-Searching
 ---

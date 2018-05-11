@@ -2,8 +2,8 @@
 layout: post
 title: "Best of CF9: MuralBuilder"
 date: "2010-01-21T13:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/01/21/Best-of-CF9-MuralBuilder
 ---

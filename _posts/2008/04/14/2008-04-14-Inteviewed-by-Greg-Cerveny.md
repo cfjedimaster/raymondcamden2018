@@ -2,8 +2,8 @@
 layout: post
 title: "Inteviewed by Greg Cerveny"
 date: "2008-04-14T18:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/14/Inteviewed-by-Greg-Cerveny
 ---

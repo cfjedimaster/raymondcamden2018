@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue tip - Watch out for renamed events"
 date: "2007-03-22T13:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/22/ModelGlue-tip-Watch-out-for-renamed-events
 ---

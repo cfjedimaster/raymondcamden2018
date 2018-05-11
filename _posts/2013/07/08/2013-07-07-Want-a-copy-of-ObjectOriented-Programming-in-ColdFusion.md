@@ -2,8 +2,8 @@
 layout: post
 title: "Want a copy of Object-Oriented Programming in ColdFusion?"
 date: "2013-07-08T09:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/07/08/Want-a-copy-of-ObjectOriented-Programming-in-ColdFusion
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "My first O'Reilly Book: Client-Side Data Storage"
 date: "2016-01-06T08:04:37+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2016/01/06/my-first-oreilly-book-client-side-data-storage
 ---

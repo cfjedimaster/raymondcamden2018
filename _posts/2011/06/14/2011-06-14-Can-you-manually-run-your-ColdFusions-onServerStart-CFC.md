@@ -2,8 +2,8 @@
 layout: post
 title: "Can you manually run your ColdFusion's onServerStart CFC?"
 date: "2011-06-14T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/06/14/Can-you-manually-run-your-ColdFusions-onServerStart-CFC
 ---

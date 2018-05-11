@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Dynamic Selected Tab and Flash Form Recompiling"
 date: "2005-11-03T16:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/03/Ask-a-Jedi-Dynamic-Selected-Tab-and-Flash-Form-Recompiling
 ---

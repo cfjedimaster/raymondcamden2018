@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe releases public release candidate of ColdFusion 8 - AKA Scorpio"
 date: "2007-05-30T00:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/29/Adobe-releases-public-release-candidate-of-ColdFusion-8-AKA-Scorpio
 ---

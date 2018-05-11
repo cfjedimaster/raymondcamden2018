@@ -2,8 +2,8 @@
 layout: post
 title: "Query of query issue with where clause/joins"
 date: "2009-07-02T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/02/Query-of-query-issue-with-where-clausejoins
 ---

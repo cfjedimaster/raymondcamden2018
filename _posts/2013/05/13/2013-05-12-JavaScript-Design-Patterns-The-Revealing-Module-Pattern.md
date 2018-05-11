@@ -2,8 +2,8 @@
 layout: post
 title: "JavaScript Design Patterns - The Revealing Module Pattern"
 date: "2013-05-13T08:05:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/05/13/JavaScript-Design-Patterns-The-Revealing-Module-Pattern
 ---

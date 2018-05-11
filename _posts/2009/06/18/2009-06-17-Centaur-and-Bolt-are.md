@@ -2,8 +2,8 @@
 layout: post
 title: "Centaur and Bolt are..."
 date: "2009-06-18T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/06/18/Centaur-and-Bolt-are
 ---

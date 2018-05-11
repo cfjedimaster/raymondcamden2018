@@ -2,8 +2,8 @@
 layout: post
 title: "CFJUG Meeting Tonight - ColdFusion Variable Datatypes"
 date: "2007-04-30T08:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/30/CFJUG-Meeting-Tonight-ColdFusion-Variable-Datatypes
 ---

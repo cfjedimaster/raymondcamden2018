@@ -2,8 +2,8 @@
 layout: post
 title: "Generating mazes in ColdFusion"
 date: "2009-07-23T08:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/23/Generating-mazes-in-ColdFusion
 ---

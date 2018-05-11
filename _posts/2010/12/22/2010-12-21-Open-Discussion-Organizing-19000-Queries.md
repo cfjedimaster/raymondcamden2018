@@ -2,8 +2,8 @@
 layout: post
 title: "Open Discussion - Organizing 19000 Queries"
 date: "2010-12-22T10:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/12/22/Open-Discussion-Organizing-19000-Queries
 ---

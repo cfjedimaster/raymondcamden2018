@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept - Throttling automatic emails in ColdFusion"
 date: "2010-10-14T19:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/10/14/Proof-of-Concept-Throttling-automatic-emails-in-ColdFusion
 ---

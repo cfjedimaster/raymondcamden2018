@@ -2,8 +2,8 @@
 layout: post
 title: "IBM MobileFirst 7.1 Released"
 date: "2015-08-14T07:18:09+06:00"
-categories: development mobile 
-tags: mobilefirst
+categories: [development,mobile]
+tags: [mobilefirst]
 banner_image: 
 permalink: /2015/08/14/ibm-mobilefirst-7-1-released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Small (In other words - obvious) Flex Builder 2 Tip"
 date: "2006-11-10T09:11:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/11/10/Small-In-other-words-obvious-Flex-Builder-2-Tip
 ---

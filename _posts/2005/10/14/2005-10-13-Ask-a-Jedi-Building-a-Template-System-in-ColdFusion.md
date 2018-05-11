@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Building a Template System in ColdFusion"
 date: "2005-10-14T09:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/14/Ask-a-Jedi-Building-a-Template-System-in-ColdFusion
 ---

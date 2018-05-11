@@ -2,8 +2,8 @@
 layout: post
 title: "Four Years and Counting..."
 date: "2007-02-23T09:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/23/Four-Years-and-Counting
 ---

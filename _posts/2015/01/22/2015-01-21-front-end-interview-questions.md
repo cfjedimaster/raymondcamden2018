@@ -2,8 +2,8 @@
 layout: post
 title: "Front-End Interview Questions"
 date: "2015-01-22T11:29:31+06:00"
-categories: design development html5 javascript 
-tags: 
+categories: [design,development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2015/01/22/front-end-interview-questions
 ---

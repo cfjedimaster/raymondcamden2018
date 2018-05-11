@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC/Flex article up at Adobe's Developer Center"
 date: "2006-09-18T19:09:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/09/18/BlogCFCFlex-article-up-at-Adobes-Developer-Center
 ---

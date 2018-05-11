@@ -2,8 +2,8 @@
 layout: post
 title: "Handling unknown events in Model-Glue"
 date: "2006-11-05T20:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/05/Handling-unknown-events-in-ModelGlue
 ---

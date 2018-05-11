@@ -2,8 +2,8 @@
 layout: post
 title: "Yahoo Answers API Example"
 date: "2006-09-26T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/09/26/Yahoo-Answers-API-Example
 ---

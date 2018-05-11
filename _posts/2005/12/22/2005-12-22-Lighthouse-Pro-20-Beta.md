@@ -2,8 +2,8 @@
 layout: post
 title: "Lighthouse Pro 2.0 Beta"
 date: "2005-12-22T18:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/22/Lighthouse-Pro-20-Beta
 ---

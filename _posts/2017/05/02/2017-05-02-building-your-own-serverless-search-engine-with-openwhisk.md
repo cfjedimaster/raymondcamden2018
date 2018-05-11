@@ -2,8 +2,8 @@
 layout: post
 title: "Building Your Own Serverless Search Engine with OpenWhisk"
 date: "2017-05-02T13:43:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: /images/banners/owsearchengine.jpg
 permalink: /2017/05/02/building-your-own-serverless-search-engine-with-openwhisk
 ---

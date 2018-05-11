@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Builder 2 for the Mac"
 date: "2006-10-25T10:10:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/10/25/Flex-Builder-2-for-the-Mac
 ---

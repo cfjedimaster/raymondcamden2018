@@ -2,8 +2,8 @@
 layout: post
 title: "Kameo Review"
 date: "2006-04-15T11:04:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2006/04/15/kameo-review
 ---

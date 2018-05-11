@@ -2,8 +2,8 @@
 layout: post
 title: "Blackberry version of Hangman"
 date: "2010-12-16T08:12:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2010/12/16/Blackberry-version-of-Hangman
 ---

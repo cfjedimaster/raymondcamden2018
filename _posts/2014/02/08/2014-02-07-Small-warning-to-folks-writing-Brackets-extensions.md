@@ -2,8 +2,8 @@
 layout: post
 title: "Small warning to folks writing Brackets extensions"
 date: "2014-02-08T08:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/02/08/Small-warning-to-folks-writing-Brackets-extensions
 ---

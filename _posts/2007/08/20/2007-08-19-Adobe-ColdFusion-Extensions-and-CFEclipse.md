@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe ColdFusion Extensions and CFEclipse"
 date: "2007-08-20T08:08:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/08/20/Adobe-ColdFusion-Extensions-and-CFEclipse
 ---

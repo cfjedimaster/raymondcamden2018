@@ -2,8 +2,8 @@
 layout: post
 title: "Video: Using ColdFusion Builder's SQL Editor"
 date: "2010-02-19T17:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/19/Video-Using-ColdFusion-Builders-SQL-Editor
 ---

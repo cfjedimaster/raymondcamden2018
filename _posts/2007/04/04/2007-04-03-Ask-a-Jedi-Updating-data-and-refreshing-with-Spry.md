@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Updating data and refreshing with Spry"
 date: "2007-04-04T10:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/04/04/Ask-a-Jedi-Updating-data-and-refreshing-with-Spry
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "One more item for the ColdFusion Security Checklist - AJAX Debugging"
 date: "2007-06-14T20:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/14/One-more-item-for-the-ColdFusion-Security-Checklist-AJAX-Debugging
 ---

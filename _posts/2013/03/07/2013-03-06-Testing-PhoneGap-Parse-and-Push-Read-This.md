@@ -2,8 +2,8 @@
 layout: post
 title: "Testing PhoneGap, Parse, and Push? Read This"
 date: "2013-03-07T10:03:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2013/03/07/Testing-PhoneGap-Parse-and-Push-Read-This
 ---

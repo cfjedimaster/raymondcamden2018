@@ -2,8 +2,8 @@
 layout: post
 title: "Building a Customizable Weather App in Vue.js"
 date: "2018-03-19T17:01:00+06:00"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/weatherapp.jpg
 permalink: /2018/03/19/building-a-customizable-weather-app-in-vue
 ---

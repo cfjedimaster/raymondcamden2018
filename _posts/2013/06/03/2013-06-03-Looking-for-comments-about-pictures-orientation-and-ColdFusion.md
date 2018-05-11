@@ -2,8 +2,8 @@
 layout: post
 title: "Looking for comments about pictures, orientation, and ColdFusion"
 date: "2013-06-03T13:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/06/03/Looking-for-comments-about-pictures-orientation-and-ColdFusion
 ---

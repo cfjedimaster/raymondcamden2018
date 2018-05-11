@@ -2,8 +2,8 @@
 layout: post
 title: "Very odd CFDOCUMENT Bug"
 date: "2014-03-16T18:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/03/16/Very-off-CFDOCUMENT-Bug
 ---

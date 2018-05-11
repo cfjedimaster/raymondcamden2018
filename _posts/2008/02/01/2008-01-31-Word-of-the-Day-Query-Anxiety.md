@@ -2,8 +2,8 @@
 layout: post
 title: "Word of the Day: Query Anxiety"
 date: "2008-02-01T10:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/02/01/Word-of-the-Day-Query-Anxiety
 ---

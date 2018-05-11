@@ -2,8 +2,8 @@
 layout: post
 title: "Trouble downloading from RIAForge? Read this"
 date: "2010-01-29T07:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/01/29/Trouble-downloading-from-RIAForge-Read-this
 ---

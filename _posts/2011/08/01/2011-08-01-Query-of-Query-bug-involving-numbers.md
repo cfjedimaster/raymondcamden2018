@@ -2,8 +2,8 @@
 layout: post
 title: "Query of Query bug involving numbers"
 date: "2011-08-01T18:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/08/01/Query-of-Query-bug-involving-numbers
 ---

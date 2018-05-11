@@ -2,8 +2,8 @@
 layout: post
 title: "Did you know a hot fix for ColdFusion was released this week?"
 date: "2008-05-17T09:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/17/Did-you-know-a-hot-fix-for-ColdFusion-was-released-this-week
 ---

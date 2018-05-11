@@ -2,8 +2,8 @@
 layout: post
 title: "Possible Cordova FileSystem Resource"
 date: "2015-02-10T08:48:19+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2015/02/10/possible-cordova-filesystem-resource
 ---

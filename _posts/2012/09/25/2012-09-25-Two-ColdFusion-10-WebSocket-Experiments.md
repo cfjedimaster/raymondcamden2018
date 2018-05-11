@@ -2,8 +2,8 @@
 layout: post
 title: "Two ColdFusion 10 WebSocket Experiments"
 date: "2012-09-25T11:09:00+06:00"
-categories: coldfusion html5 javascript 
-tags: 
+categories: [coldfusion,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/25/Two-ColdFusion-10-WebSocket-Experiments
 ---

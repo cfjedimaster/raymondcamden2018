@@ -2,8 +2,8 @@
 layout: post
 title: "Linting your ColdFusion code"
 date: "2014-07-31T08:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/07/31/Linting-your-ColdFusion-code
 ---

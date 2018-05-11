@@ -2,8 +2,8 @@
 layout: post
 title: "Another Flex conference announced - FlexManiacs"
 date: "2007-01-16T11:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/16/Another-Flex-conference-announced-FlexManiacs
 ---

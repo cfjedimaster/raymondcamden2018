@@ -2,8 +2,8 @@
 layout: post
 title: "This Movie Is Not Yet Rated and C.S.A."
 date: "2007-08-12T10:08:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2007/08/12/this-movie-is-not-yet-rated-and-csa
 ---

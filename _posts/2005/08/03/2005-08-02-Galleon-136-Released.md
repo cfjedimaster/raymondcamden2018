@@ -2,8 +2,8 @@
 layout: post
 title: "Galleon 1.3.6 Released"
 date: "2005-08-03T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/03/Galleon-136-Released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "INeedIt - Addressing text size issues"
 date: "2011-05-18T00:05:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/05/17/INeedIt-Addressing-text-size-issues
 ---

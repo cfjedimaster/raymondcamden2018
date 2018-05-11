@@ -2,8 +2,8 @@
 layout: post
 title: "Migrating a Static Site from Harp to Jekyll"
 date: "2017-10-23T07:35:00-07:00"
-categories: static sites 
-tags: jekyll
+categories: [static sites]
+tags: [jekyll]
 banner_image: 
 permalink: /2017/10/23/migrating-a-static-site-from-harp-to-jekyll
 ---

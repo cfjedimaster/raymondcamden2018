@@ -2,8 +2,8 @@
 layout: post
 title: "My XMLProxy.cfm"
 date: "2006-08-04T16:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/04/My-XMLProxycfm
 ---

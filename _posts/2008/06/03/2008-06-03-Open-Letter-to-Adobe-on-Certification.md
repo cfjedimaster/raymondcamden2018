@@ -2,8 +2,8 @@
 layout: post
 title: "Open Letter to Adobe on Certification"
 date: "2008-06-03T16:06:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2008/06/03/Open-Letter-to-Adobe-on-Certification
 ---

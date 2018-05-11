@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Website up, Sessions Listed (including mine)"
 date: "2008-06-25T14:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/06/25/MAX-Website-up-Sessions-Listed-including-mine
 ---

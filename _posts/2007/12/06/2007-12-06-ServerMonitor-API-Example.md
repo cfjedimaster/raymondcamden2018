@@ -2,8 +2,8 @@
 layout: post
 title: "ServerMonitor API Example"
 date: "2007-12-06T12:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/06/ServerMonitor-API-Example
 ---

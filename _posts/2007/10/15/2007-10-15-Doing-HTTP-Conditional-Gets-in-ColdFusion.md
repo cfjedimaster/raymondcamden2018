@@ -2,8 +2,8 @@
 layout: post
 title: "Doing HTTP Conditional Gets in ColdFusion"
 date: "2007-10-15T17:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/15/Doing-HTTP-Conditional-Gets-in-ColdFusion
 ---

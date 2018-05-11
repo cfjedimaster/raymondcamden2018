@@ -2,8 +2,8 @@
 layout: post
 title: "Increasing the canvas size of an image"
 date: "2009-09-04T14:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/04/Increasing-the-canvas-size-of-an-image
 ---

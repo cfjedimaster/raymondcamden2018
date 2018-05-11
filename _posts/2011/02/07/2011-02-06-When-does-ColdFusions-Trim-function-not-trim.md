@@ -2,8 +2,8 @@
 layout: post
 title: "When does ColdFusion's Trim function not trim?"
 date: "2011-02-07T10:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/02/07/When-does-ColdFusions-Trim-function-not-trim
 ---

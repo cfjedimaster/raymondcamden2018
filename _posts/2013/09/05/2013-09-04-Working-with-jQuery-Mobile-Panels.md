@@ -2,8 +2,8 @@
 layout: post
 title: "Working with jQuery Mobile Panels"
 date: "2013-09-05T10:09:00+06:00"
-categories: html5 javascript jquery mobile 
-tags: 
+categories: [html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2013/09/05/Working-with-jQuery-Mobile-Panels
 ---

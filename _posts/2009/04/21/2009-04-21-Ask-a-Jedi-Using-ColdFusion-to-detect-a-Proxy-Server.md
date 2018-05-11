@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using ColdFusion to detect a Proxy Server"
 date: "2009-04-21T23:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/21/Ask-a-Jedi-Using-ColdFusion-to-detect-a-Proxy-Server
 ---

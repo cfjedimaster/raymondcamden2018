@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Var Scoping Queries"
 date: "2006-01-19T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/19/Ask-a-Jedi-Var-Scoping-Queries
 ---

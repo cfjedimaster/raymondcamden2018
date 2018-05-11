@@ -2,8 +2,8 @@
 layout: post
 title: "Working on my NativeScript RSS Application"
 date: "2016-05-27T08:32:00-07:00"
-categories: development mobile 
-tags: nativescript
+categories: [development,mobile]
+tags: [nativescript]
 banner_image: 
 permalink: /2016/05/27/working-on-my-nativescript-rss-application
 ---

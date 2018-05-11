@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept - CFMAP with Driving Directions"
 date: "2010-01-18T14:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/01/18/Proof-of-Concept-CFMAP-with-Driving-Directions
 ---

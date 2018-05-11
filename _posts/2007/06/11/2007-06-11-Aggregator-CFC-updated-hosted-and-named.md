@@ -2,8 +2,8 @@
 layout: post
 title: "Aggregator CFC updated, hosted, and named"
 date: "2007-06-11T12:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/11/Aggregator-CFC-updated-hosted-and-named
 ---

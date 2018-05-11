@@ -2,8 +2,8 @@
 layout: post
 title: "Lamest command line tool ever"
 date: "2006-12-14T10:12:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/12/14/Lamest-command-line-tool-ever
 ---

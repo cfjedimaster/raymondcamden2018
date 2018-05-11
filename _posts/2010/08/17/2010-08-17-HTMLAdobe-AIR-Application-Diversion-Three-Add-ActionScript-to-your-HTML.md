@@ -2,8 +2,8 @@
 layout: post
 title: "HTML/Adobe AIR Application Diversion Three - Add ActionScript to your HTML"
 date: "2010-08-17T18:08:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2010/08/17/HTMLAdobe-AIR-Application-Diversion-Three-Add-ActionScript-to-your-HTML
 ---

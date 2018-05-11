@@ -2,8 +2,8 @@
 layout: post
 title: "Persistence with ColdFusion Builder Extensions"
 date: "2011-03-29T19:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/29/Persistence-with-ColdFusion-Builder-Extensions
 ---

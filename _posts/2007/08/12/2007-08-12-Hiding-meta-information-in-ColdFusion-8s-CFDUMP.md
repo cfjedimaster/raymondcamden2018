@@ -2,8 +2,8 @@
 layout: post
 title: "Hiding meta information in ColdFusion 8's CFDUMP"
 date: "2007-08-12T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/12/Hiding-meta-information-in-ColdFusion-8s-CFDUMP
 ---

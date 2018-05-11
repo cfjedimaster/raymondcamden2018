@@ -2,8 +2,8 @@
 layout: post
 title: "Searching multiple ColdFusion SOLR Collections at once"
 date: "2011-01-04T14:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/01/04/Searching-multiple-ColdFusion-SOLR-Collections-at-once
 ---

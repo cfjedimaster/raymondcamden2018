@@ -2,8 +2,8 @@
 layout: post
 title: "Safari and HTTP Caching"
 date: "2015-07-16T09:38:36+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2015/07/16/safari-and-http-caching
 ---

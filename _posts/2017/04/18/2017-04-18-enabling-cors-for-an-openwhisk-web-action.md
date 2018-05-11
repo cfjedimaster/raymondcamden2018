@@ -2,8 +2,8 @@
 layout: post
 title: "Enabling CORS for an OpenWhisk Web Action"
 date: "2017-04-18T08:45:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/04/18/enabling-cors-for-an-openwhisk-web-action
 ---

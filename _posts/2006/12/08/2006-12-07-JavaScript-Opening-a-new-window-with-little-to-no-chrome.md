@@ -2,8 +2,8 @@
 layout: post
 title: "JavaScript - Opening a new window with little to no chrome"
 date: "2006-12-08T10:12:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2006/12/08/JavaScript-Opening-a-new-window-with-little-to-no-chrome
 ---

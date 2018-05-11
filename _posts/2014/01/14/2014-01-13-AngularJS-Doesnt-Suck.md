@@ -2,8 +2,8 @@
 layout: post
 title: "AngularJS Doesn't Suck!"
 date: "2014-01-14T10:01:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/01/14/AngularJS-Doesnt-Suck
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "KTML Tip - Getting the Latest Version"
 date: "2005-07-19T08:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/19/KTML-Tip-Getting-the-Latest-Version
 ---

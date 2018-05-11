@@ -2,8 +2,8 @@
 layout: post
 title: "Star Wars Teaser"
 date: "2014-11-28T10:11:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2014/11/28/Star-Wars-Teaser
 ---

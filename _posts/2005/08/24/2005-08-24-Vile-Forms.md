@@ -2,8 +2,8 @@
 layout: post
 title: "\"Vile\" Forms"
 date: "2005-08-24T14:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/24/Vile-Forms
 ---

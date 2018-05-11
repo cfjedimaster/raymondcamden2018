@@ -2,8 +2,8 @@
 layout: post
 title: "Thank you to the NYCFUG"
 date: "2008-02-14T07:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/02/14/Thank-you-to-the-NYCFUG
 ---

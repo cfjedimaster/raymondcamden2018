@@ -2,8 +2,8 @@
 layout: post
 title: "MAX 2009 Augmented Reality demo"
 date: "2009-07-22T18:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/07/22/MAX-2009-Augmented-Reality-demo
 ---

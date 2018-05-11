@@ -2,8 +2,8 @@
 layout: post
 title: "Using Postman with OpenWhisk"
 date: "2017-07-24T10:33:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/07/24/using-postman-with-openwhisk
 ---

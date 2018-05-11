@@ -2,8 +2,8 @@
 layout: post
 title: "Is the Sys-CON at it again?"
 date: "2009-01-26T09:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/01/26/Is-the-SysCON-at-it-again
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Online CFMeetup celebrating it's 200th meeting"
 date: "2011-07-07T13:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/07/07/Online-CFMeetup-celebrating-its-200th-meeting
 ---

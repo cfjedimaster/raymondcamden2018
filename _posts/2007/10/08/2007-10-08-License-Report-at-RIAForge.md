@@ -2,8 +2,8 @@
 layout: post
 title: "License Report at RIAForge"
 date: "2007-10-08T19:10:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/10/08/License-Report-at-RIAForge
 ---

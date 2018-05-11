@@ -2,8 +2,8 @@
 layout: post
 title: "MAX: Day 2 Keynote"
 date: "2005-10-18T20:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/10/18/MAX-Day-2-Keynote
 ---

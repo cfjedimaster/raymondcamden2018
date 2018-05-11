@@ -2,8 +2,8 @@
 layout: post
 title: "Oh snap - special CFMEETUP on ColdFusion 9 and ColdFusion Builder"
 date: "2009-07-09T18:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/09/Oh-snap-special-CFMEETUP-on-ColdFusion-9-and-ColdFusion-Builder
 ---

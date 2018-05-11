@@ -2,8 +2,8 @@
 layout: post
 title: "An update to my RSS Reader built with Ionic"
 date: "2015-06-22T08:12:11+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/06/22/an-update-to-my-rss-reader-built-with-ionic
 ---

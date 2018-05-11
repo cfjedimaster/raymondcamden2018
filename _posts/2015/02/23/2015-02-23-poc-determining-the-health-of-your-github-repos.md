@@ -2,8 +2,8 @@
 layout: post
 title: "POC - Determining the \"Health\" of your GitHub Repos"
 date: "2015-02-23T13:57:34+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/02/23/poc-determining-the-health-of-your-github-repos
 ---

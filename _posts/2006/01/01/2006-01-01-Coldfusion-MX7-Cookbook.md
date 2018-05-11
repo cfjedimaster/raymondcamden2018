@@ -2,8 +2,8 @@
 layout: post
 title: "Coldfusion MX7 Cookbook"
 date: "2006-01-01T17:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/01/Coldfusion-MX7-Cookbook
 ---

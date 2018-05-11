@@ -2,8 +2,8 @@
 layout: post
 title: "Job Posting: Simpleview, inc"
 date: "2012-01-07T21:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/01/07/Job-Posting-Simpleview-inc
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Recording from Static Sites Presentation"
 date: "2015-07-06T07:36:11+06:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: 
 permalink: /2015/07/06/recording-from-static-sites-presentation
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Developer Center at Yahoo (For real this time)"
 date: "2007-10-09T12:10:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2007/10/09/ColdFusion-Developer-Center-at-Yahoo-For-real-this-time
 ---

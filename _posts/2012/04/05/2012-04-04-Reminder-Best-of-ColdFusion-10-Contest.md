@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - Best of ColdFusion 10 Contest!"
 date: "2012-04-05T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/04/05/Reminder-Best-of-ColdFusion-10-Contest
 ---

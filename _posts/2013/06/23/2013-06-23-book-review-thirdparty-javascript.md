@@ -2,8 +2,8 @@
 layout: post
 title: "Book Review: Third-Party JavaScript"
 date: "2013-06-23T12:06:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/06/23/book-review-thirdparty-javascript
 ---

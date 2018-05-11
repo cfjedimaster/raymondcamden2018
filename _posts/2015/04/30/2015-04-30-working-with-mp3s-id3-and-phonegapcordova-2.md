@@ -2,8 +2,8 @@
 layout: post
 title: "Working with MP3s, ID3, and PhoneGap/Cordova (2)"
 date: "2015-04-30T16:24:24+06:00"
-categories: development mobile 
-tags: cordova ionic
+categories: [development,mobile]
+tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/04/30/working-with-mp3s-id3-and-phonegapcordova-2
 ---

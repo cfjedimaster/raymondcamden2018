@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Caching CFC Instances"
 date: "2005-11-08T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/08/Ask-a-Jedi-Caching-CFC-Instances
 ---

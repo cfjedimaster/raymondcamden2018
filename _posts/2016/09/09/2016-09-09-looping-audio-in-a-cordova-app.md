@@ -2,8 +2,8 @@
 layout: post
 title: "Looping Audio in a Cordova App"
 date: "2016-09-09T08:20:00-07:00"
-categories: mobile 
-tags: cordova
+categories: [mobile]
+tags: [cordova]
 banner_image: /images/banners/loopaudio.jpg
 permalink: /2016/09/09/looping-audio-in-a-cordova-app
 ---

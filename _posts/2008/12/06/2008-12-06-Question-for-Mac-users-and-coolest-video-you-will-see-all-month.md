@@ -2,8 +2,8 @@
 layout: post
 title: "Question for Mac users, and coolest video you will see all month..."
 date: "2008-12-06T15:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/06/Question-for-Mac-users-and-coolest-video-you-will-see-all-month
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "cfObjective Keynote: News on Centaur (CF9)"
 date: "2008-05-02T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/02/cfObjective-Keynote-News-on-Centaur-CF9
 ---

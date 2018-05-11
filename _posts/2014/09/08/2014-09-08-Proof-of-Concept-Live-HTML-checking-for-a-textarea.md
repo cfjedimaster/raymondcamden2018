@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept: Live HTML checking for a textarea"
 date: "2014-09-08T16:09:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/09/08/Proof-of-Concept-Live-HTML-checking-for-a-textarea
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: ColdFusion's version of .Net's IsPostBack"
 date: "2009-02-27T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/02/27/Ask-a-Jedi-ColdFusions-version-of-Nets-IsPostBack
 ---

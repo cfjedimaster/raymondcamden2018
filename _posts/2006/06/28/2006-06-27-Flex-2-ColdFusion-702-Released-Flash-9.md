@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 2, ColdFusion 7.02 Released, Flash 9"
 date: "2006-06-28T07:06:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/06/28/Flex-2-ColdFusion-702-Released-Flash-9
 ---

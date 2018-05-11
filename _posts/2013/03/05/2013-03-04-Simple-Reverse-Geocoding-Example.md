@@ -2,8 +2,8 @@
 layout: post
 title: "Simple Reverse Geocoding Example"
 date: "2013-03-05T10:03:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2013/03/05/Simple-Reverse-Geocoding-Example
 ---

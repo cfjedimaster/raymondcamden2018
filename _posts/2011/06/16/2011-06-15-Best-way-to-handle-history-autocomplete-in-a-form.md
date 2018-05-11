@@ -2,8 +2,8 @@
 layout: post
 title: "Best way to handle history autocomplete in a form?"
 date: "2011-06-16T10:06:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/06/16/Best-way-to-handle-history-autocomplete-in-a-form
 ---

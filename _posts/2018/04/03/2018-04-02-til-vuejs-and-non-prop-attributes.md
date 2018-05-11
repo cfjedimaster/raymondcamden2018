@@ -2,8 +2,8 @@
 layout: post
 title: "TIL - Vue.js and Non-Prop Attributes"
 date: "2018-04-03"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/code.jpg
 permalink: /2018/04/03/til-vuejs-and-non-prop-attributes
 ---

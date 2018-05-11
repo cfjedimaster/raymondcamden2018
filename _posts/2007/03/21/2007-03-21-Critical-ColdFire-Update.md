@@ -2,8 +2,8 @@
 layout: post
 title: "Critical ColdFire Update"
 date: "2007-03-21T17:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/21/Critical-ColdFire-Update
 ---

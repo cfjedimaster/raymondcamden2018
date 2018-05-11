@@ -2,8 +2,8 @@
 layout: post
 title: "Happy Canvas Day (CanvasWiki Released!)"
 date: "2006-03-01T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/01/Happy-Canvas-Day-CanvasWiki-Released
 ---

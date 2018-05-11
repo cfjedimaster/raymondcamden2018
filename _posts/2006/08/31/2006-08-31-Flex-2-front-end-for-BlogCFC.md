@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 2 front end for BlogCFC"
 date: "2006-08-31T17:08:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/08/31/Flex-2-front-end-for-BlogCFC
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Brackets Sprint 37 and Upcoming Hackathon"
 date: "2014-03-18T09:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/03/18/Brackets-Sprint-37-and-Upcoming-Hackathon
 ---

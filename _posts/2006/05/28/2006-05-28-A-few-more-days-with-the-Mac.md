@@ -2,8 +2,8 @@
 layout: post
 title: "A few more days with the Mac"
 date: "2006-05-28T18:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/05/28/A-few-more-days-with-the-Mac
 ---

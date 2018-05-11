@@ -2,8 +2,8 @@
 layout: post
 title: "Mozy is a life saver"
 date: "2007-04-25T09:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/04/25/Mozy-is-a-life-safer
 ---

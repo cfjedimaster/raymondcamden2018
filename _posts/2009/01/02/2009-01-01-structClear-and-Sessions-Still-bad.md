@@ -2,8 +2,8 @@
 layout: post
 title: "structClear and Sessions - Still bad?"
 date: "2009-01-02T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/01/02/structClear-and-Sessions-Still-bad
 ---

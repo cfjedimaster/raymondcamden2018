@@ -2,8 +2,8 @@
 layout: post
 title: "Couple of new ColdFusion conferences coming up..."
 date: "2009-07-22T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/22/Couple-of-new-ColdFusion-conferences-coming-up
 ---

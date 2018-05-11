@@ -2,8 +2,8 @@
 layout: post
 title: "Book Review: The Intellectual Devotional: American History"
 date: "2008-03-15T18:03:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2008/03/15/book-review-the-intellectual-devotional-american-history
 ---

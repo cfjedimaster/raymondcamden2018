@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking of Model-Glue (and other Frameworks)..."
 date: "2008-10-27T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/27/Speaking-of-ModelGlue-and-other-Frameworks
 ---

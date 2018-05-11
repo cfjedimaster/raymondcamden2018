@@ -2,8 +2,8 @@
 layout: post
 title: "CS3 doesn't like me - can anyone help?"
 date: "2007-09-13T11:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/09/13/CS3-doesnt-like-me-can-anyone-help
 ---

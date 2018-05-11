@@ -2,8 +2,8 @@
 layout: post
 title: "Using jQuery to add form fields - with validation"
 date: "2009-02-22T18:02:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2009/02/22/Using-jQuery-to-add-form-fields-with-validation
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New files in Flash Builder and code hinting/coloring"
 date: "2010-04-18T14:04:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2010/04/18/New-files-in-Flash-Builder-and-code-hintingcoloring
 ---

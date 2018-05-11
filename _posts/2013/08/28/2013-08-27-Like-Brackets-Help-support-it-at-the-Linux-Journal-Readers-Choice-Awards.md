@@ -2,8 +2,8 @@
 layout: post
 title: "Like Brackets? Help support it at the Linux Journal Readers Choice Awards"
 date: "2013-08-28T10:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/08/28/Like-Brackets-Help-support-it-at-the-Linux-Journal-Readers-Choice-Awards
 ---

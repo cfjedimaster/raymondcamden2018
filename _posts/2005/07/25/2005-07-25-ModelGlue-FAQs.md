@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue FAQs"
 date: "2005-07-25T16:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/07/25/ModelGlue-FAQs
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Replacing colors in an image with ColdFusion - Anyone know how?"
 date: "2006-12-28T23:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/12/28/Replacing-colors-in-an-image-with-ColdFusion-Anyone-know-how
 ---

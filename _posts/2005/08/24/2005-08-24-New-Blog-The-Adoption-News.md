@@ -2,8 +2,8 @@
 layout: post
 title: "New Blog: The Adoption News"
 date: "2005-08-24T19:08:00+06:00"
-categories: adoption 
-tags: 
+categories: [adoption]
+tags: []
 banner_image: 
 permalink: /2005/08/24/New-Blog-The-Adoption-News
 ---

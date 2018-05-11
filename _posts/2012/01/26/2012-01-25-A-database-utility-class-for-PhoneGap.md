@@ -2,8 +2,8 @@
 layout: post
 title: "A database utility class for PhoneGap"
 date: "2012-01-26T09:01:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/26/A-database-utility-class-for-PhoneGap
 ---

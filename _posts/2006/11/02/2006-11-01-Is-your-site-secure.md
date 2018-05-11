@@ -2,8 +2,8 @@
 layout: post
 title: "Is your site secure?"
 date: "2006-11-02T11:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/02/Is-your-site-secure
 ---

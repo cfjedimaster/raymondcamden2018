@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion/Solr Slides and Recording"
 date: "2011-09-09T17:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/09/09/ColdFusionSolr-Slides-and-Recording
 ---

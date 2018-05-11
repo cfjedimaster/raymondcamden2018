@@ -2,8 +2,8 @@
 layout: post
 title: "Update to ColdFusionBloggers.org, and a general Thank You!"
 date: "2007-07-31T18:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/31/Update-to-ColdFusionBloggersorg-and-a-general-Thank-You
 ---

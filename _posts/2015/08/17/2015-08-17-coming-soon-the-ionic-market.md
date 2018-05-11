@@ -2,8 +2,8 @@
 layout: post
 title: "Coming Soon: The Ionic Market"
 date: "2015-08-17T12:42:21+06:00"
-categories: development mobile 
-tags: ionic
+categories: [development,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/08/17/coming-soon-the-ionic-market
 ---

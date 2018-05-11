@@ -2,8 +2,8 @@
 layout: post
 title: "Another reason to attend MAX - Hack on Brackets and PhoneGap"
 date: "2013-04-18T15:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/04/18/Another-reason-to-attend-MAX-Hack-on-Brackets-and-PhoneGap
 ---

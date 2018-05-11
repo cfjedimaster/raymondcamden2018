@@ -2,8 +2,8 @@
 layout: post
 title: "It is here - Yahoo launches ColdFusion Developer Center"
 date: "2007-06-07T19:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/07/It-is-here-Yahoo-launches-ColdFusion-Developer-Center
 ---

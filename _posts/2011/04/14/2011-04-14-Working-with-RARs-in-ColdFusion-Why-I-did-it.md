@@ -2,8 +2,8 @@
 layout: post
 title: "Working with RARs in ColdFusion - Why I did it..."
 date: "2011-04-14T18:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/04/14/Working-with-RARs-in-ColdFusion-Why-I-did-it
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Another bug with queryExecute - Threads"
 date: "2014-10-09T12:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/10/09/Another-bug-with-queryExecute-Threads
 ---

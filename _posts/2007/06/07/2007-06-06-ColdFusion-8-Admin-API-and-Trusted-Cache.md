@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Admin API and Trusted Cache"
 date: "2007-06-07T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/07/ColdFusion-8-Admin-API-and-Trusted-Cache
 ---

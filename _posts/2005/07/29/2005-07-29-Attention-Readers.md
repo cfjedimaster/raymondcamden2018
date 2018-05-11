@@ -2,8 +2,8 @@
 layout: post
 title: "Attention Readers"
 date: "2005-07-29T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/29/Attention-Readers
 ---

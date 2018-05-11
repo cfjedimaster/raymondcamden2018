@@ -2,8 +2,8 @@
 layout: post
 title: "Review of Midway Arcade Cabinet"
 date: "2005-12-14T17:12:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2005/12/14/Review-of-Midway-Arcade-Cabinet
 ---

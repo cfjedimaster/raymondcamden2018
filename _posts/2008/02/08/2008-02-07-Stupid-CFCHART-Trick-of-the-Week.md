@@ -2,8 +2,8 @@
 layout: post
 title: "Stupid CFCHART Trick of the Week"
 date: "2008-02-08T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/02/08/Stupid-CFCHART-Trick-of-the-Week
 ---

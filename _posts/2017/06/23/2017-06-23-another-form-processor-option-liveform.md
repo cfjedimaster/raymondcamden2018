@@ -2,8 +2,8 @@
 layout: post
 title: "Another Form Processor Option - LiveForm"
 date: "2017-06-23T08:41:00-07:00"
-categories: static sites 
-tags: 
+categories: [static sites]
+tags: []
 banner_image: 
 permalink: /2017/06/23/another-form-processor-option-liveform
 ---

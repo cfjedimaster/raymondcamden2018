@@ -2,8 +2,8 @@
 layout: post
 title: "W3Conf (San Francisco February 21-23)"
 date: "2013-01-23T16:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/01/23/W3Conf-San-Francisco-February-2123
 ---

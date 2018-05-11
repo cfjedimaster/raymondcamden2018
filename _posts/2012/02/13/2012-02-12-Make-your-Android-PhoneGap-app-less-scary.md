@@ -2,8 +2,8 @@
 layout: post
 title: "Make your Android PhoneGap app less scary"
 date: "2012-02-13T09:02:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2012/02/13/Make-your-Android-PhoneGap-app-less-scary
 ---

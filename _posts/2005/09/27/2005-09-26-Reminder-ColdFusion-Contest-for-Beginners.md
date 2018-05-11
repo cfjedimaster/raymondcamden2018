@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - ColdFusion Contest for Beginners"
 date: "2005-09-27T09:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/27/Reminder-ColdFusion-Contest-for-Beginners
 ---

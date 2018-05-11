@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Transfer Tip"
 date: "2009-03-19T10:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/03/19/Quick-Transfer-Tip
 ---

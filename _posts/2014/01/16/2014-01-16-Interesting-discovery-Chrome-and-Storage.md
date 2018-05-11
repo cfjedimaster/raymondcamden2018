@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting discovery - Chrome and Storage"
 date: "2014-01-16T15:01:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2014/01/16/Interesting-discovery-Chrome-and-Storage
 ---

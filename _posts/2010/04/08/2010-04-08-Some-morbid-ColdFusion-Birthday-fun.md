@@ -2,8 +2,8 @@
 layout: post
 title: "Some morbid ColdFusion Birthday fun"
 date: "2010-04-08T14:04:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/04/08/Some-morbid-ColdFusion-Birthday-fun
 ---

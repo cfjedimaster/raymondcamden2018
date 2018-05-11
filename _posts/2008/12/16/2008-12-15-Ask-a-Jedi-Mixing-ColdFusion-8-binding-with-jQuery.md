@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Mixing ColdFusion 8 binding with jQuery"
 date: "2008-12-16T09:12:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2008/12/16/Ask-a-Jedi-Mixing-ColdFusion-8-binding-with-jQuery
 ---

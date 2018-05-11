@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Keynote Notes Day 2 - Part Deux"
 date: "2007-10-02T13:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/10/02/MAX-Keynote-Notes-Day-2-Part-Deux
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Using the New York Times API to Chart Occurrences in Headlines"
 date: "2014-09-15T10:09:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2014/09/15/using-the-new-york-times-api-to-chart-occurrences-in-headlines
 ---

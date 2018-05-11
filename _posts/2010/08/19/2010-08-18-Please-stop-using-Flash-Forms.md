@@ -2,8 +2,8 @@
 layout: post
 title: "Please stop using Flash Forms"
 date: "2010-08-19T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/19/Please-stop-using-Flash-Forms
 ---

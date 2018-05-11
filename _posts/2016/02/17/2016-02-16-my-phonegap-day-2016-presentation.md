@@ -2,8 +2,8 @@
 layout: post
 title: "My PhoneGap Day 2016 Presentation"
 date: "2016-02-17"
-categories: development 
-tags: cordova
+categories: [development]
+tags: [cordova]
 banner_image: /images/banners/phonegap-logo.png
 permalink: /2016/02/17/my-phonegap-day-2016-presentation
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "If Spry Do This..."
 date: "2006-08-01T18:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/08/01/If-Spry-Do-This
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Check out CodeSchool's Angular course"
 date: "2014-07-29T15:07:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2014/07/29/Check-out-CodeSchools-Angular-course
 ---

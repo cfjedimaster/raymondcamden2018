@@ -2,8 +2,8 @@
 layout: post
 title: "Table not found error when you know it exists? Check your triggers"
 date: "2011-03-16T15:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2011/03/16/Table-not-found-error-when-you-know-it-exists-Check-your-triggers
 ---

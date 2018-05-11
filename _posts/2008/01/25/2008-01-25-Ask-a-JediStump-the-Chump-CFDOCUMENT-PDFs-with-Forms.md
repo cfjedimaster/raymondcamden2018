@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi/Stump the Chump: CFDOCUMENT PDFs with Forms"
 date: "2008-01-25T12:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/25/Ask-a-JediStump-the-Chump-CFDOCUMENT-PDFs-with-Forms
 ---

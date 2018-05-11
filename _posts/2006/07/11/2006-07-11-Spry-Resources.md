@@ -2,8 +2,8 @@
 layout: post
 title: "Spry Resources"
 date: "2006-07-11T11:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/07/11/Spry-Resources
 ---

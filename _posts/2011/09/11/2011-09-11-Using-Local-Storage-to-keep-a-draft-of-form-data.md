@@ -2,8 +2,8 @@
 layout: post
 title: "Using Local Storage to keep a draft of form data"
 date: "2011-09-11T19:09:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/09/11/Using-Local-Storage-to-keep-a-draft-of-form-data
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Article: HTML out of the Browser"
 date: "2014-04-17T11:04:00+06:00"
-categories: development html5 
-tags: 
+categories: [development,html5]
+tags: []
 banner_image: 
 permalink: /2014/04/17/Article-HTML-out-of-the-Browser
 ---

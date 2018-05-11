@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue List of Sites"
 date: "2007-07-21T14:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/21/ModelGlue-List-of-Sites
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Review: No Man's Sky"
 date: "2016-09-04T11:55:00-07:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: /images/banners/sky.jpg
 permalink: /2016/09/04/review-no-mans-sky
 ---

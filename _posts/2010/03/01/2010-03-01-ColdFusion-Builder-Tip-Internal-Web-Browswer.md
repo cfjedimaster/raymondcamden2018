@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder Tip - Internal Web Browser"
 date: "2010-03-01T13:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/03/01/ColdFusion-Builder-Tip-Internal-Web-Browswer
 ---

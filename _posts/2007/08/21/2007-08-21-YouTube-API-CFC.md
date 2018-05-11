@@ -2,8 +2,8 @@
 layout: post
 title: "YouTube API CFC"
 date: "2007-08-21T23:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/21/YouTube-API-CFC
 ---

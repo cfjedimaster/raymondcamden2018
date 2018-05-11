@@ -2,8 +2,8 @@
 layout: post
 title: "Alert can still lock browsers - why?"
 date: "2007-01-07T13:01:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2007/01/07/Alert-can-still-lock-browsers-why
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Advice for a Server to Client Side Developer"
 date: "2013-02-01T09:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/02/01/Advice-for-a-Server-to-Client-Side-Developer
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Warning about a Model-Glue Issue"
 date: "2009-12-11T15:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/11/Warning-about-a-ModelGlue-Issue
 ---

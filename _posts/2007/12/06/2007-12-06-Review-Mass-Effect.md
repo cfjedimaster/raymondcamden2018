@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Mass Effect"
 date: "2007-12-06T22:12:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2007/12/06/Review-Mass-Effect
 ---

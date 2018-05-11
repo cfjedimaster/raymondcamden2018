@@ -2,8 +2,8 @@
 layout: post
 title: "My MAX Preso - the future of ColdFusion"
 date: "2011-10-04T16:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/10/04/My-MAX-Preso-the-future-of-ColdFusion
 ---

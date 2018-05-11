@@ -2,8 +2,8 @@
 layout: post
 title: "Best alternative to cfcontent for large files?"
 date: "2010-11-23T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/23/Best-alternative-to-cfcontent-for-large-files
 ---

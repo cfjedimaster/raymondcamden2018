@@ -2,8 +2,8 @@
 layout: post
 title: "Are you going to CF Objective?"
 date: "2007-02-27T13:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/27/Are-you-going-to-CF-Objective
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Testing Multiple Image Recognition Services at Once"
 date: "2017-06-15T08:04:00-07:00"
-categories: javascript 
-tags: nodejs
+categories: [javascript]
+tags: [nodejs]
 banner_image: 
 permalink: /2017/06/15/testing-multiple-image-recognition-services-at-once
 ---

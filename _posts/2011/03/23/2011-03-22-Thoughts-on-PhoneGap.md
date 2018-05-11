@@ -2,8 +2,8 @@
 layout: post
 title: "Thoughts on PhoneGap"
 date: "2011-03-23T10:03:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2011/03/23/Thoughts-on-PhoneGap
 ---

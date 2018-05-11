@@ -2,8 +2,8 @@
 layout: post
 title: "Goodbye MAX, and One More Thing..."
 date: "2005-10-19T15:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/19/Goodbye-MAX-and-One-More-Thing
 ---

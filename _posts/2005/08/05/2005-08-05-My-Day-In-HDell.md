@@ -2,8 +2,8 @@
 layout: post
 title: "My Day In H(D)ell"
 date: "2005-08-05T19:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/05/My-Day-In-HDell
 ---

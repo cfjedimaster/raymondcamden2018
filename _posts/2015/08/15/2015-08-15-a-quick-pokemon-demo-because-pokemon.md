@@ -2,8 +2,8 @@
 layout: post
 title: "A quick Pokemon demo, because, Pokemon"
 date: "2015-08-15T13:45:25+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2015/08/15/a-quick-pokemon-demo-because-pokemon
 ---

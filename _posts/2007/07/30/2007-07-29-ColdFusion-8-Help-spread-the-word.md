@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8 - Help spread the word"
 date: "2007-07-30T09:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/30/ColdFusion-8-Help-spread-the-word
 ---

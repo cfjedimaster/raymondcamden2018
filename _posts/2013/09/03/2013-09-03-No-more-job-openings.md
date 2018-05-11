@@ -2,8 +2,8 @@
 layout: post
 title: "No more job openings..."
 date: "2013-09-03T13:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/09/03/No-more-job-openings
 ---

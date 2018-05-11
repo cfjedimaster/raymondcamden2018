@@ -2,8 +2,8 @@
 layout: post
 title: "The Cordova Browser Platform"
 date: "2016-03-22T15:09:00-07:00"
-categories: mobile 
-tags: cordova
+categories: [mobile]
+tags: [cordova]
 banner_image: /images/banners/browserplatform.png
 permalink: /2016/03/22/the-cordova-browser-platform
 ---

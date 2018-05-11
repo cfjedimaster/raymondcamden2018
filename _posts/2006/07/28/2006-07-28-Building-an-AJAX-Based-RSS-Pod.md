@@ -2,8 +2,8 @@
 layout: post
 title: "Building an AJAX Based RSS Pod"
 date: "2006-07-28T18:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/28/Building-an-AJAX-Based-RSS-Pod
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Debugging Application.cfc Issues"
 date: "2006-03-22T11:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/22/Ask-a-Jedi-Debugging-Applicationcfc-Issues
 ---

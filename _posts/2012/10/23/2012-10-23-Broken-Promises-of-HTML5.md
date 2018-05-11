@@ -2,8 +2,8 @@
 layout: post
 title: "Broken Promises of HTML5 - by Christian Heilmann"
 date: "2012-10-23T18:10:00+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2012/10/23/Broken-Promises-of-HTML5
 ---

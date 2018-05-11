@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Multi-purpose CFC Functions"
 date: "2006-02-06T14:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/02/06/Ask-a-Jedi-Multipurpose-CFC-Functions
 ---

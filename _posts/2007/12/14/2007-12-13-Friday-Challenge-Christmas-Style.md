@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Challenge - Christmas Style"
 date: "2007-12-14T09:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/14/Friday-Challenge-Christmas-Style
 ---

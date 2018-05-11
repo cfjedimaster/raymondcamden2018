@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome Joe!"
 date: "2008-07-24T21:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/07/24/Welcome-Joe
 ---

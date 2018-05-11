@@ -2,8 +2,8 @@
 layout: post
 title: "Yet Another Galleon ColdFusion Forums Update, and ColdFusion Tip"
 date: "2005-08-30T19:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/30/Yet-Another-Galleon-Update-and-ColdFusion-Tip
 ---

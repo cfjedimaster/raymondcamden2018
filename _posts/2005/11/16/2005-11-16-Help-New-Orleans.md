@@ -2,8 +2,8 @@
 layout: post
 title: "Help New Orleans"
 date: "2005-11-16T17:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/11/16/Help-New-Orleans
 ---

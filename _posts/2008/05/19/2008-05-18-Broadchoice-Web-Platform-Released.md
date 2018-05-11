@@ -2,8 +2,8 @@
 layout: post
 title: "Broadchoice Web Platform Released"
 date: "2008-05-19T10:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/05/19/Broadchoice-Web-Platform-Released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at MAX 2011 - What's Next in ColdFusion"
 date: "2011-06-07T23:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/06/07/Speaking-at-MAX-2011-Whats-Next-in-ColdFusion
 ---

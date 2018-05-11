@@ -2,8 +2,8 @@
 layout: post
 title: "Using ColdFusion and Ajax to check for an existing database record (with jQuery)"
 date: "2011-09-01T15:09:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2011/09/01/Using-ColdFusion-and-Ajax-to-check-for-an-existing-database-record-with-jQuery
 ---

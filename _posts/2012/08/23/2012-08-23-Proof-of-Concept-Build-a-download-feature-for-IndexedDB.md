@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept - Build a download feature for IndexedDB"
 date: "2012-08-23T13:08:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/08/23/Proof-of-Concept-Build-a-download-feature-for-IndexedDB
 ---

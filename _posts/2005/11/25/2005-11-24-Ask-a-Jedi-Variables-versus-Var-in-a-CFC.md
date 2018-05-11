@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Variables versus Var in a CFC"
 date: "2005-11-25T08:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/25/Ask-a-Jedi-Variables-versus-Var-in-a-CFC
 ---

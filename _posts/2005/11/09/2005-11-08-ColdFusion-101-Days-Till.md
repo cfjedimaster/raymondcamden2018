@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Days Till"
 date: "2005-11-09T08:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/09/ColdFusion-101-Days-Till
 ---

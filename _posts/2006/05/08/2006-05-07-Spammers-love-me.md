@@ -2,8 +2,8 @@
 layout: post
 title: "Spammers love me!"
 date: "2006-05-08T10:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/08/Spammers-love-me
 ---

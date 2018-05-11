@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile course available on Udemy"
 date: "2011-12-23T11:12:00+06:00"
-categories: jquery mobile 
-tags: 
+categories: [jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/12/23/jQuery-Mobile-course-available-on-Udemy
 ---

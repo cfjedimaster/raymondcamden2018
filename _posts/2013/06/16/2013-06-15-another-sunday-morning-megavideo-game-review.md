@@ -2,8 +2,8 @@
 layout: post
 title: "Another Sunday morning mega-video game review"
 date: "2013-06-16T10:06:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2013/06/16/another-sunday-morning-megavideo-game-review
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Migrating from static XML to CF for Spry development"
 date: "2007-12-18T14:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/18/Ask-a-Jedi-Migrating-from-static-XML-to-CF-for-Spry-development
 ---

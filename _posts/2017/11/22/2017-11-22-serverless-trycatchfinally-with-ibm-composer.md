@@ -2,8 +2,8 @@
 layout: post
 title: "Serverless Try/Catch/Finally with IBM Composer"
 date: "2017-11-22T01:38:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/11/22/serverless-trycatchfinally-with-ibm-composer
 ---

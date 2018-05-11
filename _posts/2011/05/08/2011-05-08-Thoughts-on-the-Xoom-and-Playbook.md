@@ -2,8 +2,8 @@
 layout: post
 title: "Thoughts on the Xoom and Playbook"
 date: "2011-05-08T11:05:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2011/05/08/Thoughts-on-the-Xoom-and-Playbook
 ---

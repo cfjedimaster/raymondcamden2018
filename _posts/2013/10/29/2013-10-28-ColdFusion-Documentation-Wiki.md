@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Documentation Wiki"
 date: "2013-10-29T07:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/10/29/ColdFusion-Documentation-Wiki
 ---

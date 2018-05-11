@@ -2,8 +2,8 @@
 layout: post
 title: "Correction on RDS for CFE Support"
 date: "2006-06-30T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/30/Correction-on-RDS-for-CFE-Support
 ---

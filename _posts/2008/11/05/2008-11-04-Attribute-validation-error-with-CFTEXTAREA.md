@@ -2,8 +2,8 @@
 layout: post
 title: "Attribute validation error with CFTEXTAREA"
 date: "2008-11-05T06:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/05/Attribute-validation-error-with-CFTEXTAREA
 ---

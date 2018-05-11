@@ -2,8 +2,8 @@
 layout: post
 title: "My OT funny/not so funny story from this weekend"
 date: "2008-10-20T10:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/10/20/My-OT-funnynot-so-funny-story-from-this-weekend
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Contest Delay"
 date: "2008-07-11T14:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/11/Contest-Delay
 ---

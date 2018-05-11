@@ -2,8 +2,8 @@
 layout: post
 title: "Updated ColdFusion OAuth Code"
 date: "2014-01-28T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/01/28/updated-coldfusion-oauth-code
 ---

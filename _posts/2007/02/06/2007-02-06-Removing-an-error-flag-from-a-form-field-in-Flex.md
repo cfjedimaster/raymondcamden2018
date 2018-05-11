@@ -2,8 +2,8 @@
 layout: post
 title: "Removing an error flag from a form field in Flex"
 date: "2007-02-06T15:02:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/02/06/Removing-an-error-flag-from-a-form-field-in-Flex
 ---

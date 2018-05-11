@@ -2,8 +2,8 @@
 layout: post
 title: "Spry Demo: CFLib"
 date: "2006-06-23T12:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/23/Spry-Demo-CFLib
 ---

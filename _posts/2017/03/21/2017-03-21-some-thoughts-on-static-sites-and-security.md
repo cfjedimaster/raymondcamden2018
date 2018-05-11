@@ -2,8 +2,8 @@
 layout: post
 title: "Some Thoughts on Static Sites and Security"
 date: "2017-03-21T10:34:00-07:00"
-categories: static sites 
-tags: 
+categories: [static sites]
+tags: []
 banner_image: /images/banners/sss.jpg
 permalink: /2017/03/21/some-thoughts-on-static-sites-and-security
 ---

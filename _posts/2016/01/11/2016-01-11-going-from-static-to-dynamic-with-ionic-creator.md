@@ -2,8 +2,8 @@
 layout: post
 title: "Going from static to dynamic with Ionic Creator"
 date: "2016-01-11T14:28:32+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2016/01/11/going-from-static-to-dynamic-with-ionic-creator
 ---

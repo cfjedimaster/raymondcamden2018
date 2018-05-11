@@ -2,8 +2,8 @@
 layout: post
 title: "Find the bug...."
 date: "2007-06-22T11:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/22/Find-the-bug
 ---

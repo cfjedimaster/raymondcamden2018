@@ -2,8 +2,8 @@
 layout: post
 title: "Frameworks code/slides"
 date: "2007-02-03T12:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/03/Frameworks-codeslides
 ---

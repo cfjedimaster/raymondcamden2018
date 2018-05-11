@@ -2,8 +2,8 @@
 layout: post
 title: "The Future of cfObjective."
 date: "2014-09-29T18:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/09/29/The-Future-of-cfObjective
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 101: Day of the Week Formatting"
 date: "2006-08-03T09:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/03/ColdFusion-101-Day-of-the-Week-Formatting
 ---

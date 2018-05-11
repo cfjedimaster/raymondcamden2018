@@ -2,8 +2,8 @@
 layout: post
 title: "Heading back to the bayou"
 date: "2007-01-12T21:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/01/12/Heading-back-to-the-bayou
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Important Note for ColdFusion 8 Ajax Developers"
 date: "2009-04-20T22:04:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/04/20/Important-Note-for-ColdFusion-8-Ajax-Developers
 ---

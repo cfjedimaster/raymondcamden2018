@@ -2,8 +2,8 @@
 layout: post
 title: "Articles on TDN and StrongLoop.com"
 date: "2016-04-06T08:19:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: /images/banners/learning_header.jpg
 permalink: /2016/04/06/articles-on-tdn-and-strongloopcom
 ---

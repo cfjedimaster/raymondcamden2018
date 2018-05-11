@@ -2,8 +2,8 @@
 layout: post
 title: "Building an HTML5 Comic Book Reader"
 date: "2012-05-29T12:05:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/05/29/Building-an-HTML5-Comic-Book-Reader
 ---

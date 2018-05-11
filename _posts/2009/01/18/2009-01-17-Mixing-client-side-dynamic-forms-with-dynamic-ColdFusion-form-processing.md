@@ -2,8 +2,8 @@
 layout: post
 title: "Mixing client side dynamic forms with dynamic ColdFusion form processing"
 date: "2009-01-18T11:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/01/18/Mixing-client-side-dynamic-forms-with-dynamic-ColdFusion-form-processing
 ---

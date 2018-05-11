@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap Developer App"
 date: "2014-04-21T15:04:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2014/04/21/PhoneGap-Developer-App
 ---

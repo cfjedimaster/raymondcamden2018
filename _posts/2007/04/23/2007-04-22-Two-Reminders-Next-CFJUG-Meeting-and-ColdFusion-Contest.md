@@ -2,8 +2,8 @@
 layout: post
 title: "Two Reminders - Next CFJUG Meeting and ColdFusion Contest"
 date: "2007-04-23T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/23/Two-Reminders-Next-CFJUG-Meeting-and-ColdFusion-Contest
 ---

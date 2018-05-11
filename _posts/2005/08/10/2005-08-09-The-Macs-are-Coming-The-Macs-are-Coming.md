@@ -2,8 +2,8 @@
 layout: post
 title: "The Macs are Coming! The Macs are Coming!"
 date: "2005-08-10T10:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/10/The-Macs-are-Coming-The-Macs-are-Coming
 ---

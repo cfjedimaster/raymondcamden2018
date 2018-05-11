@@ -2,8 +2,8 @@
 layout: post
 title: "Apache Cordova SplashScreen Change"
 date: "2016-01-25T16:16:10-06:00"
-categories: mobile development 
-tags: cordova
+categories: [mobile,development]
+tags: [cordova]
 banner_image: /images/2016/01/apache-cordova.opt.png
 permalink: /2016/01/25/cordova-splash-screen-change
 ---

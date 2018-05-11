@@ -2,8 +2,8 @@
 layout: post
 title: "Why you will never read my blog again..."
 date: "2007-04-19T11:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/19/Why-you-will-never-read-my-blog-again
 ---

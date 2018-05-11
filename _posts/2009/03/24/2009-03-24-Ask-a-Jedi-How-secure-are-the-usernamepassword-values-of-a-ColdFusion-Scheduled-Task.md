@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How secure are the username/password values of a ColdFusion Scheduled Task?"
 date: "2009-03-24T18:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/03/24/Ask-a-Jedi-How-secure-are-the-usernamepassword-values-of-a-ColdFusion-Scheduled-Task
 ---

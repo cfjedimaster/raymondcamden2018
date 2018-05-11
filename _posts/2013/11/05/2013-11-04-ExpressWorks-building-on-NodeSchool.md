@@ -2,8 +2,8 @@
 layout: post
 title: "ExpressWorks (building on NodeSchool)"
 date: "2013-11-05T06:11:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/11/05/ExpressWorks-building-on-NodeSchool
 ---

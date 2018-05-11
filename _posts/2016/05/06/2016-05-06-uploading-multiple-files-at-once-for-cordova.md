@@ -2,8 +2,8 @@
 layout: post
 title: "Uploading multiple files at once - for Cordova"
 date: "2016-05-06T09:45:00-07:00"
-categories: mobile javascript 
-tags: cordova
+categories: [mobile,javascript]
+tags: [cordova]
 banner_image: 
 permalink: /2016/05/06/uploading-multiple-files-at-once-for-cordova
 ---

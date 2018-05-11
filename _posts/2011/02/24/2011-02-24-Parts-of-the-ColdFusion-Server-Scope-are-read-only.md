@@ -2,8 +2,8 @@
 layout: post
 title: "Parts of the ColdFusion Server Scope are read only"
 date: "2011-02-24T13:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/02/24/Parts-of-the-ColdFusion-Server-Scope-are-read-only
 ---

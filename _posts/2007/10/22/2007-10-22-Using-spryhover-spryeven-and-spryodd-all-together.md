@@ -2,8 +2,8 @@
 layout: post
 title: "Using spry:hover, spry:even, and spry:odd all together"
 date: "2007-10-22T17:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/10/22/Using-spryhover-spryeven-and-spryodd-all-together
 ---

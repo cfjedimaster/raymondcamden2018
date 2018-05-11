@@ -2,8 +2,8 @@
 layout: post
 title: "Intro to jQuery slides + code"
 date: "2011-10-28T17:10:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/10/28/Intro-to-jQuery-slides-code
 ---

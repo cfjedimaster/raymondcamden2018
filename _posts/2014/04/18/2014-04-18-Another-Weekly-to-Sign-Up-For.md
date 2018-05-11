@@ -2,8 +2,8 @@
 layout: post
 title: "Another Weekly to Sign Up For..."
 date: "2014-04-18T12:04:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/04/18/Another-Weekly-to-Sign-Up-For
 ---

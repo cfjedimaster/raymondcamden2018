@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC Quick Fix for Titles with Quotes"
 date: "2005-07-21T12:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/07/21/BlogCFC-Quick-Fix-for-Titles-with-Quotes
 ---

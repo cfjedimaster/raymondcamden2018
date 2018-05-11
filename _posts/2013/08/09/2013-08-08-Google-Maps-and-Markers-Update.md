@@ -2,8 +2,8 @@
 layout: post
 title: "Google Maps and Markers Update"
 date: "2013-08-09T08:08:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/08/09/Google-Maps-and-Markers-Update
 ---

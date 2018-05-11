@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC, ColdFire Updates"
 date: "2008-01-14T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/14/BlogCFC-ColdFire-Updates
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Quick demo of jQuery and Google Maps"
 date: "2011-08-06T19:08:00+06:00"
-categories: javascript jquery mobile 
-tags: 
+categories: [javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/08/06/Quick-demo-of-jQuery-and-Google-Maps
 ---

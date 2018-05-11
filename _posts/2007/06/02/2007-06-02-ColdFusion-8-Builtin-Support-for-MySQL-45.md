@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Built-in Support for MySQL 4/5"
 date: "2007-06-02T11:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/02/ColdFusion-8-Builtin-Support-for-MySQL-45
 ---

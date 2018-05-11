@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: MVC too much work?"
 date: "2008-03-26T12:03:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2008/03/26/Ask-a-Jedi-MVC-too-much-work
 ---

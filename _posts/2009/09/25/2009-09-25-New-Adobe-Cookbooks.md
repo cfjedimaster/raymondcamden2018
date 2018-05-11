@@ -2,8 +2,8 @@
 layout: post
 title: "New Adobe Cookbooks"
 date: "2009-09-25T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/25/New-Adobe-Cookbooks
 ---

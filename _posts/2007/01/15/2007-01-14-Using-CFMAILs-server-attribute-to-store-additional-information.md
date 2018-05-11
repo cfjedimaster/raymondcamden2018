@@ -2,8 +2,8 @@
 layout: post
 title: "Using CFMAIL's server attribute to store additional information"
 date: "2007-01-15T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/15/Using-CFMAILs-server-attribute-to-store-additional-information
 ---

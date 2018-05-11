@@ -2,8 +2,8 @@
 layout: post
 title: "IIS, SES URLs, and \"Check for file existence...\""
 date: "2005-07-14T18:07:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2005/07/14/IIS-SES-URLs-and-Check-for-file-existence
 ---

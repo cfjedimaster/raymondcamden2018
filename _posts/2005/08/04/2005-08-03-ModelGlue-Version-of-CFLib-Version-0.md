@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue Version of CFLib: Version 0"
 date: "2005-08-04T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/04/ModelGlue-Version-of-CFLib-Version-0
 ---

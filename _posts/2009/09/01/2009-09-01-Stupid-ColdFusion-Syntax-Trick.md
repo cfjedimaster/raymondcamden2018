@@ -2,8 +2,8 @@
 layout: post
 title: "Stupid ColdFusion Syntax Trick"
 date: "2009-09-01T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/01/Stupid-ColdFusion-Syntax-Trick
 ---

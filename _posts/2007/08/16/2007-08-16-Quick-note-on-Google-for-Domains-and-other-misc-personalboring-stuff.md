@@ -2,8 +2,8 @@
 layout: post
 title: "Quick note on Google for Domains (and other misc personal/boring stuff)"
 date: "2007-08-16T14:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/08/16/Quick-note-on-Google-for-Domains-and-other-misc-personalboring-stuff
 ---

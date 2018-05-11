@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Puzzle Quest: Challenge of the Warlords"
 date: "2007-12-24T18:12:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2007/12/24/Review-Puzzle-Quest-Challenge-of-the-Warlords
 ---

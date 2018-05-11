@@ -2,8 +2,8 @@
 layout: post
 title: "Subtle little query caching performance issue"
 date: "2009-08-17T23:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/17/Subtle-little-query-caching-performance-issue
 ---

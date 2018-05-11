@@ -2,8 +2,8 @@
 layout: post
 title: "Determining the original case of form fields in ColdFusion"
 date: "2010-11-12T22:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/12/Determining-the-original-case-of-form-fields-in-ColdFusion
 ---

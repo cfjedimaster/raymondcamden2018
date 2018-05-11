@@ -2,8 +2,8 @@
 layout: post
 title: "Advanced Contest Clarifications"
 date: "2006-02-23T09:02:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/02/23/Advanced-Contest-Clarifications
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Birds of a Feather Sessions Posted"
 date: "2008-11-08T13:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/11/08/MAX-Birds-of-a-Feather-Sessions-Posted
 ---

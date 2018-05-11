@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Automatically selecting certain values with ColdFusion Ajax-bound controls"
 date: "2010-11-30T22:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/30/Ask-a-Jedi-Automatically-selecting-certain-values-with-ColdFusion-Ajaxbound-controls
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - Speaking at Boston CFUG on Friday"
 date: "2006-01-31T10:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/31/Reminder-Speaking-at-Boston-CFUG-on-Friday
 ---

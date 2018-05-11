@@ -2,8 +2,8 @@
 layout: post
 title: "Launching Today - Serverless Weekly"
 date: "2017-05-05T09:56:00-07:00"
-categories: serverless 
-tags: 
+categories: [serverless]
+tags: []
 banner_image: 
 permalink: /2017/05/05/launching-today-serverless-weekly
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "More on the Ajax changes to Lighthouse Pro"
 date: "2008-09-29T14:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/29/More-on-the-Ajax-changes-to-Lighthouse-Pro
 ---

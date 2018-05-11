@@ -2,8 +2,8 @@
 layout: post
 title: "cfObjective Blog Posts (City Related)"
 date: "2008-04-23T13:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/23/cfObjective-Blog-Posts-City-Related
 ---

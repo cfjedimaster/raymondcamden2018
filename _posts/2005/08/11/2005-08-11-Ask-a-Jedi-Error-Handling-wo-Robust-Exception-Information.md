@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Error Handling w/o Robust Exception Information"
 date: "2005-08-11T22:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/11/Ask-a-Jedi-Error-Handling-wo-Robust-Exception-Information
 ---

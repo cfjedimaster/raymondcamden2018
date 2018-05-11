@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking on Cordova, Ionic, and MobileFirst/Bluemix in Manilla"
 date: "2015-09-03T11:30:09+06:00"
-categories: development mobile 
-tags: bluemix cordova ionic mobilefirst
+categories: [development,mobile]
+tags: [bluemix,cordova,ionic,mobilefirst]
 banner_image: 
 permalink: /2015/09/03/speaking-on-cordova-ionic-and-mobilefirstbluemix-in-manilla
 ---

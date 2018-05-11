@@ -2,8 +2,8 @@
 layout: post
 title: "Career Advice for a New Web Dev"
 date: "2017-08-09T10:38:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2017/08/09/career-advice-for-a-new-web-dev
 ---

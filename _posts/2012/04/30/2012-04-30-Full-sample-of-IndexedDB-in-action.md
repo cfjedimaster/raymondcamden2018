@@ -2,8 +2,8 @@
 layout: post
 title: "\"Full\" sample of IndexedDB in action"
 date: "2012-04-30T11:04:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/04/30/Full-sample-of-IndexedDB-in-action
 ---

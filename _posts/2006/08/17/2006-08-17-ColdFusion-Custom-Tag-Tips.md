@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Custom Tag Tips"
 date: "2006-08-17T15:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/17/ColdFusion-Custom-Tag-Tips
 ---

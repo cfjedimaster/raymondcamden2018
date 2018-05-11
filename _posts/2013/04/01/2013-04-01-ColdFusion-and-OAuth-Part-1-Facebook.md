@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion and OAuth Part 1 - Facebook"
 date: "2013-04-01T13:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/04/01/ColdFusion-and-OAuth-Part-1-Facebook
 ---

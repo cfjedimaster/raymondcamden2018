@@ -2,8 +2,8 @@
 layout: post
 title: "Spry adds support for CSV and TSV datasets"
 date: "2007-10-23T11:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/10/23/Spry-adds-support-for-CSV-and-TSV-datasets
 ---

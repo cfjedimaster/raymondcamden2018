@@ -2,8 +2,8 @@
 layout: post
 title: "Timing out users by role in a ColdFusion Application"
 date: "2014-10-08T12:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/10/08/Timing-out-users-by-role-in-a-ColdFusion-Application
 ---

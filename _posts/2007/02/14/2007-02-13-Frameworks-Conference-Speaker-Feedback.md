@@ -2,8 +2,8 @@
 layout: post
 title: "Frameworks Conference Speaker Feedback"
 date: "2007-02-14T10:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/02/14/Frameworks-Conference-Speaker-Feedback
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder Reference via DZone"
 date: "2010-03-15T10:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/03/15/ColdFusion-Builder-Reference-via-DZone
 ---

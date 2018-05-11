@@ -2,8 +2,8 @@
 layout: post
 title: "Who dropped the mountain on my blog?"
 date: "2006-08-01T00:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/07/31/Who-dropped-the-mountain-on-my-blog
 ---

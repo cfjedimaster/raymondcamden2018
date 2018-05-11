@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking Engagements for March, 2013"
 date: "2013-03-05T13:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/03/05/Speaking-Engagements-for-March-2013
 ---

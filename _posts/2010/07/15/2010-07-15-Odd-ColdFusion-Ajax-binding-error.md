@@ -2,8 +2,8 @@
 layout: post
 title: "Odd ColdFusion Ajax binding error?"
 date: "2010-07-15T19:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/15/Odd-ColdFusion-Ajax-binding-error
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Podcast Explosion"
 date: "2005-11-01T16:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/01/ColdFusion-Podcast-Explosion
 ---

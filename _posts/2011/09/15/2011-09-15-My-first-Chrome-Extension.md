@@ -2,8 +2,8 @@
 layout: post
 title: "My first Chrome Extension"
 date: "2011-09-15T12:09:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/09/15/My-first-Chrome-Extension
 ---

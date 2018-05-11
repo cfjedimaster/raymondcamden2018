@@ -2,8 +2,8 @@
 layout: post
 title: "Adding a file display list to a multi-file upload HTML control"
 date: "2013-09-10T11:09:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/09/10/Adding-a-file-display-list-to-a-multifile-upload-HTML-control
 ---

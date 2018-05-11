@@ -2,8 +2,8 @@
 layout: post
 title: "South Korea closing out international adoption"
 date: "2009-08-11T15:08:00+06:00"
-categories: adoption 
-tags: 
+categories: [adoption]
+tags: []
 banner_image: 
 permalink: /2009/08/11/South-Korea-closing-out-international-adoption
 ---

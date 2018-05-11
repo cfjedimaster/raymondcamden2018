@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Homefront and Bad Company 2"
 date: "2011-03-27T11:03:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2011/03/27/review-homefront-and-bad-company-2
 ---

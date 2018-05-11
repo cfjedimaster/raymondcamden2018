@@ -2,8 +2,8 @@
 layout: post
 title: "Simple mobile directory browser built with AIR"
 date: "2010-11-30T09:11:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2010/11/30/Simple-mobile-directory-browser-built-with-AIR
 ---

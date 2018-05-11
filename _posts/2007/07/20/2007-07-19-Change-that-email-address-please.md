@@ -2,8 +2,8 @@
 layout: post
 title: "Change that email address please"
 date: "2007-07-20T09:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/07/20/Change-that-email-address-please
 ---

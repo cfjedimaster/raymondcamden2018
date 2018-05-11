@@ -2,8 +2,8 @@
 layout: post
 title: "Migrating servers on Google Compute Engine"
 date: "2015-02-24T13:20:13+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/02/24/migrating-servers-on-google-compute-engine
 ---

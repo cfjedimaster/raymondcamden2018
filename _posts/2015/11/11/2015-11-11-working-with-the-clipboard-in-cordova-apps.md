@@ -2,8 +2,8 @@
 layout: post
 title: "Working with the Clipboard in Cordova apps"
 date: "2015-11-11T14:14:51+06:00"
-categories: development javascript mobile 
-tags: cordova
+categories: [development,javascript,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2015/11/11/working-with-the-clipboard-in-cordova-apps
 ---

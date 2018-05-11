@@ -2,8 +2,8 @@
 layout: post
 title: "Can't dump? Try a fake dump."
 date: "2010-10-06T18:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/10/06/Cant-dump-Try-a-fake-dump
 ---

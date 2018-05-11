@@ -2,8 +2,8 @@
 layout: post
 title: "Critical update for Canvas (ColdFusion Wiki) users"
 date: "2007-05-08T18:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/05/08/Critical-update-for-Canvas-ColdFusion-Wiki-users
 ---

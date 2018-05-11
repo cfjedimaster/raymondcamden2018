@@ -2,8 +2,8 @@
 layout: post
 title: "Spry Updated"
 date: "2006-10-20T17:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/20/Spry-Updated
 ---

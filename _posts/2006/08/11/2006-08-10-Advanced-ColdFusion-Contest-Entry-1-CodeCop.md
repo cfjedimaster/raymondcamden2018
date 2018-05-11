@@ -2,8 +2,8 @@
 layout: post
 title: "Advanced ColdFusion Contest Entry 1: CodeCop"
 date: "2006-08-11T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/11/Advanced-ColdFusion-Contest-Entry-1-CodeCop
 ---

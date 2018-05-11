@@ -2,8 +2,8 @@
 layout: post
 title: "Handling SMS with OpenWhisk, IBM Watson and Twilio - an Update"
 date: "2017-07-07T09:49:00-07:00"
-categories: serverless 
-tags: openwhisk watson
+categories: [serverless]
+tags: [openwhisk,watson]
 banner_image: 
 permalink: /2017/07/07/handling-sms-with-openwhisk-ibm-watson-and-twilio-an-update
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Want to learn about Ionic?"
 date: "2015-04-23T08:56:40+06:00"
-categories: development mobile 
-tags: ionic
+categories: [development,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/04/23/want-to-learn-about-ionic
 ---

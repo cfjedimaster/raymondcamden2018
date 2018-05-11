@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Fingering the bad web service"
 date: "2009-09-08T22:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/08/Ask-a-Jedi-Fingering-the-bad-web-service
 ---

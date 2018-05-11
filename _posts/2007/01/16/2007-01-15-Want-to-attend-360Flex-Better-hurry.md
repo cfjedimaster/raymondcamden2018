@@ -2,8 +2,8 @@
 layout: post
 title: "Want to attend 360Flex? Better hurry"
 date: "2007-01-16T10:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/16/Want-to-attend-360Flex-Better-hurry
 ---

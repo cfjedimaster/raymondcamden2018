@@ -2,8 +2,8 @@
 layout: post
 title: "A quick test of Prism.js"
 date: "2013-09-07T12:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/09/07/A-quick-test-of-Prismjs
 ---

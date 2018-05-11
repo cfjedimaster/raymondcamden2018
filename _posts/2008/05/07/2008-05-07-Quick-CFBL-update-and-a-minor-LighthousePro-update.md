@@ -2,8 +2,8 @@
 layout: post
 title: "Quick CFBL update and a minor LighthousePro update"
 date: "2008-05-07T15:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/05/07/Quick-CFBL-update-and-a-minor-LighthousePro-update
 ---

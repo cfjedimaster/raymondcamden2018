@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder on CFLOGON and Web Based Security"
 date: "2006-08-19T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/19/Reminder-on-CFLOGON-and-Web-Based-Security
 ---

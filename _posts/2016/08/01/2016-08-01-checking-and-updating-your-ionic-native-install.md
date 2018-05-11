@@ -2,8 +2,8 @@
 layout: post
 title: "Checking (and updating) your Ionic Native install"
 date: "2016-08-01T10:14:00-07:00"
-categories: development 
-tags: ionic
+categories: [development]
+tags: [ionic]
 banner_image: /images/banners/ionic_native_update.jpg
 permalink: /2016/08/01/checking-and-updating-your-ionic-native-install
 ---

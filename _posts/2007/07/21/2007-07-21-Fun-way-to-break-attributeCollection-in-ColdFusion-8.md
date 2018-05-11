@@ -2,8 +2,8 @@
 layout: post
 title: "Fun way to break attributeCollection in ColdFusion 8"
 date: "2007-07-21T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/21/Fun-way-to-break-attributeCollection-in-ColdFusion-8
 ---

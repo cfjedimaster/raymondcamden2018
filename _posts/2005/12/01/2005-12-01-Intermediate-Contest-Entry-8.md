@@ -2,8 +2,8 @@
 layout: post
 title: "Intermediate Contest Entry 8"
 date: "2005-12-01T23:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/01/Intermediate-Contest-Entry-8
 ---

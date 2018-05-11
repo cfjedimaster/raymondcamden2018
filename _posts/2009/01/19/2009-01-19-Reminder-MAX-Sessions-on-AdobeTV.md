@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - MAX Sessions on AdobeTV"
 date: "2009-01-19T14:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/01/19/Reminder-MAX-Sessions-on-AdobeTV
 ---

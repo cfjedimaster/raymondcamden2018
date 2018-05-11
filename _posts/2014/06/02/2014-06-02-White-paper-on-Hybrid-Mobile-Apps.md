@@ -2,8 +2,8 @@
 layout: post
 title: "White paper on Hybrid Mobile Apps"
 date: "2014-06-02T11:06:00+06:00"
-categories: html5 mobile 
-tags: 
+categories: [html5,mobile]
+tags: []
 banner_image: 
 permalink: /2014/06/02/White-paper-on-Hybrid-Mobile-Apps
 ---

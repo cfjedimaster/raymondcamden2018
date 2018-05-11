@@ -2,8 +2,8 @@
 layout: post
 title: "Readers - your time for revenge is here..."
 date: "2008-12-29T16:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/29/Readers-your-time-for-revenge-is-here
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Templating"
 date: "2006-08-10T13:08:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/08/10/Flex-Templating
 ---

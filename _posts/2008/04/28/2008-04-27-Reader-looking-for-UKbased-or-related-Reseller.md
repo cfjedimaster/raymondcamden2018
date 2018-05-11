@@ -2,8 +2,8 @@
 layout: post
 title: "Reader looking for UK-based (or related) Reseller"
 date: "2008-04-28T10:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/04/28/Reader-looking-for-UKbased-or-related-Reseller
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Flex released - where do I go next?"
 date: "2008-02-25T12:02:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2008/02/25/Ask-a-Jedi-Flex-released-where-do-I-go-next
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation tomorrow: Beginning SQLite Database Development for AIR"
 date: "2010-06-09T15:06:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2010/06/09/Presentation-tomorrow-Beginning-SQLite-Database-Development-for-AIR
 ---

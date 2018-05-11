@@ -2,8 +2,8 @@
 layout: post
 title: "How to add a panel to Chrome Dev Tools"
 date: "2012-07-15T13:07:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2012/07/15/How-to-add-a-panel-to-Chrome-Dev-Tools
 ---

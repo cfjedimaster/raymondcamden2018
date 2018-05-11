@@ -2,8 +2,8 @@
 layout: post
 title: "CFJUG Recording and Materials"
 date: "2007-05-01T09:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/01/CFJUG-Recording-and-Materials
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Commenting (via Disqus) returns to CFLib"
 date: "2011-10-09T11:10:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2011/10/09/Commenting-via-Disqus-returns-to-CFLib
 ---

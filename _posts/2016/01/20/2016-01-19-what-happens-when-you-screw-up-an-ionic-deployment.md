@@ -2,8 +2,8 @@
 layout: post
 title: "What happens when you screw up an Ionic Deployment?"
 date: "2016-01-20T09:48:27+06:00"
-categories: javascript mobile 
-tags: ionic
+categories: [javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2016/01/20/what-happens-when-you-screw-up-an-ionic-deployment
 ---

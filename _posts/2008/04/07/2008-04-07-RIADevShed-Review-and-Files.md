@@ -2,8 +2,8 @@
 layout: post
 title: "RIA Dev Shed Review (and Files)"
 date: "2008-04-07T16:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/04/07/RIADevShed-Review-and-Files
 ---

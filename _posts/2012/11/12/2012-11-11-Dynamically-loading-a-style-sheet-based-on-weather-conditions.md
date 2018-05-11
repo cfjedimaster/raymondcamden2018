@@ -2,8 +2,8 @@
 layout: post
 title: "Dynamically loading a style sheet based on weather conditions"
 date: "2012-11-12T11:11:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/11/12/Dynamically-loading-a-style-sheet-based-on-weather-conditions
 ---

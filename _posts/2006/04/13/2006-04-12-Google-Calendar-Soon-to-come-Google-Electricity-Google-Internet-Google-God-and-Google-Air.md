@@ -2,8 +2,8 @@
 layout: post
 title: "Google Calendar - Soon to come: Google Electricity, Google Internet, Google God, and Google Air"
 date: "2006-04-13T10:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/04/13/Google-Calendar-Soon-to-come-Google-Electricity-Google-Internet-Google-God-and-Google-Air
 ---

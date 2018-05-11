@@ -2,8 +2,8 @@
 layout: post
 title: "Intermediate ColdFusion Contest!"
 date: "2005-10-30T14:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/30/Intermediate-ColdFusion-Contest
 ---

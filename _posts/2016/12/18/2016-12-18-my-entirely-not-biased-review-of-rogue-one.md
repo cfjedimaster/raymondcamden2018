@@ -2,8 +2,8 @@
 layout: post
 title: "My Entirely Not-Biased Review of Rogue One"
 date: "2016-12-18T09:32:00-07:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: /images/banners/r1review.jpg
 permalink: /2016/12/18/my-entirely-not-biased-review-of-rogue-one
 ---

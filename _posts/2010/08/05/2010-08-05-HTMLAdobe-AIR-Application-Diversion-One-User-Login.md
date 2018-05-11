@@ -2,8 +2,8 @@
 layout: post
 title: "HTML/Adobe AIR Application Diversion One - User Login"
 date: "2010-08-05T19:08:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/08/05/HTMLAdobe-AIR-Application-Diversion-One-User-Login
 ---

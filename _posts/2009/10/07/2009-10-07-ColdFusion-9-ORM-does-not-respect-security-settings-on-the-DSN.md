@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9 ORM does not respect security settings on the DSN"
 date: "2009-10-07T11:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/10/07/ColdFusion-9-ORM-does-not-respect-security-settings-on-the-DSN
 ---

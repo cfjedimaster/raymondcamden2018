@@ -2,8 +2,8 @@
 layout: post
 title: "New Camera Hotness from Chrome"
 date: "2017-01-24T08:44:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: /images/banners/canary_cam0.jpg
 permalink: /2017/01/24/new-camera-hotness-from-chrome
 ---

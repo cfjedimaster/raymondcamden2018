@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Chart Gotcha"
 date: "2007-02-16T15:02:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/02/16/Flex-Chart-Gotcha
 ---

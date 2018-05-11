@@ -2,8 +2,8 @@
 layout: post
 title: "Help me pick a PC..."
 date: "2010-05-07T11:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/07/Help-me-pick-a-PC
 ---

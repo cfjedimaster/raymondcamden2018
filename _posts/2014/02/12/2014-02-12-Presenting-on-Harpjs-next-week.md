@@ -2,8 +2,8 @@
 layout: post
 title: "Presenting on Harp.js next week"
 date: "2014-02-12T14:02:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2014/02/12/Presenting-on-Harpjs-next-week
 ---

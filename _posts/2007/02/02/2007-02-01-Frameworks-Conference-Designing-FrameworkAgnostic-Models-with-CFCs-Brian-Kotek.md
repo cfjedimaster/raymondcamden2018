@@ -2,8 +2,8 @@
 layout: post
 title: "Frameworks Conference: Designing Framework-Agnostic Models with CFCs - Brian Kotek"
 date: "2007-02-02T11:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/02/Frameworks-Conference-Designing-FrameworkAgnostic-Models-with-CFCs-Brian-Kotek
 ---

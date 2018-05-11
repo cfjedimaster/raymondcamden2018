@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8.0.1 - Easier to add PDF Watermarks"
 date: "2008-04-04T13:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/04/ColdFusion-801-Easier-to-add-PDF-Watermarks
 ---

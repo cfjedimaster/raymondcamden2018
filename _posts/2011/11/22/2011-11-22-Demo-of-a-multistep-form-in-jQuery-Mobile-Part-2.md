@@ -2,8 +2,8 @@
 layout: post
 title: "Demo of a multi-step form in jQuery Mobile (Part 2)"
 date: "2011-11-22T14:11:00+06:00"
-categories: html5 javascript jquery mobile 
-tags: 
+categories: [html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/11/22/Demo-of-a-multistep-form-in-jQuery-Mobile-Part-2
 ---

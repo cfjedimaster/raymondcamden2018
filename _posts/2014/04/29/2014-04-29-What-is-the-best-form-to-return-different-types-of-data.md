@@ -2,8 +2,8 @@
 layout: post
 title: "What is the \"best\" form to return different types of data?"
 date: "2014-04-29T23:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/04/29/What-is-the-best-form-to-return-different-types-of-data
 ---

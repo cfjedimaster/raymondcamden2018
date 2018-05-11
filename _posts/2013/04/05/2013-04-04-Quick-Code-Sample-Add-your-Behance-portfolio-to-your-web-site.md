@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Code Sample - Add your Behance portfolio to your web site"
 date: "2013-04-05T09:04:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2013/04/05/Quick-Code-Sample-Add-your-Behance-portfolio-to-your-web-site
 ---

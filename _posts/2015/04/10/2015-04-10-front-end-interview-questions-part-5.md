@@ -2,8 +2,8 @@
 layout: post
 title: "Front-End Interview Questions – Part 5"
 date: "2015-04-10T13:02:13+06:00"
-categories: design development html5 javascript 
-tags: 
+categories: [design,development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2015/04/10/front-end-interview-questions-part-5
 ---

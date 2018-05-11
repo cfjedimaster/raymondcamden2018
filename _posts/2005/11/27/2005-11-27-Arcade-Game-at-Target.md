@@ -2,8 +2,8 @@
 layout: post
 title: "Arcade Game at Target"
 date: "2005-11-27T12:11:00+06:00"
-categories: video games 
-tags: 
+categories: [video games]
+tags: []
 banner_image: 
 permalink: /2005/11/27/Arcade-Game-at-Target
 ---

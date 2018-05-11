@@ -2,8 +2,8 @@
 layout: post
 title: "Example of pagination with jQuery and ColdFusion with \"External Buttons\""
 date: "2010-02-01T09:02:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/02/01/Example-of-pagination-with-jQuery-and-ColdFusion-with-External-Buttons
 ---

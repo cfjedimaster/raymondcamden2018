@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Google Analytics Tip"
 date: "2008-02-11T14:02:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/02/11/Quick-Google-Analytics-Tip
 ---

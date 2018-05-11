@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue 3 - Example of Custom Event Types"
 date: "2008-05-09T16:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/09/ModelGlue-3-Example-of-Custom-Event-Types
 ---

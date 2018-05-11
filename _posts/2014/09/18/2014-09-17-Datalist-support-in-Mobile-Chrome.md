@@ -2,8 +2,8 @@
 layout: post
 title: "Datalist support in Mobile Chrome"
 date: "2014-09-18T07:09:00+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2014/09/18/Datalist-support-in-Mobile-Chrome
 ---

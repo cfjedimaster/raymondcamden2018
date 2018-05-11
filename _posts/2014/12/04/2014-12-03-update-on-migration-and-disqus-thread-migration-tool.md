@@ -2,8 +2,8 @@
 layout: post
 title: "Update on migration and Disqus Thread Migration tool"
 date: "2014-12-04T08:43:43+06:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: 
 permalink: /2014/12/04/update-on-migration-and-disqus-thread-migration-tool
 ---

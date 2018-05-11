@@ -2,8 +2,8 @@
 layout: post
 title: "Keep your DOM from shifting around..."
 date: "2014-08-05T10:08:00+06:00"
-categories: development html5 javascript jquery 
-tags: 
+categories: [development,html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2014/08/05/Keep-your-DOM-from-shifting-around
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Using jQuery to mimic the NYT's new paragraph linking"
 date: "2010-12-03T07:12:00+06:00"
-categories: javascript jquery 
-tags: 
+categories: [javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2010/12/03/Using-jQuery-to-mimic-the-NYTs-new-paragraph-linking
 ---

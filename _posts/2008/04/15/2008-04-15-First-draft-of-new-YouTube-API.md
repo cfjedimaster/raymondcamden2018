@@ -2,8 +2,8 @@
 layout: post
 title: "First draft of new YouTube API"
 date: "2008-04-16T00:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/15/First-draft-of-new-YouTube-API
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Exporting from CFGRID"
 date: "2007-09-04T19:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/04/Exporting-from-CFGRID
 ---

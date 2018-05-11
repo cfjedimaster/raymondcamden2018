@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking Engagements in January"
 date: "2013-01-02T12:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/01/02/Speaking-Engagements-in-January
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova Media API Example"
 date: "2014-06-23T12:06:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/06/23/Cordova-Media-API-Example
 ---

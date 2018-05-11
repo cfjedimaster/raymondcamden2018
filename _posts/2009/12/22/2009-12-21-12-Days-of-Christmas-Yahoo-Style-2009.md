@@ -2,8 +2,8 @@
 layout: post
 title: "12 Days of Christmas - Yahoo Style - 2009"
 date: "2009-12-22T11:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/22/12-Days-of-Christmas-Yahoo-Style-2009
 ---

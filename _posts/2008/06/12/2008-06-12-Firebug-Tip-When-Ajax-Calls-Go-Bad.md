@@ -2,8 +2,8 @@
 layout: post
 title: "Firebug Tip - When Ajax Calls Go Bad..."
 date: "2008-06-12T12:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/06/12/Firebug-Tip-When-Ajax-Calls-Go-Bad
 ---

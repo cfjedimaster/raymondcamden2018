@@ -2,8 +2,8 @@
 layout: post
 title: "Livedocs gone?"
 date: "2007-07-29T18:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/07/29/Livedocs-gone
 ---

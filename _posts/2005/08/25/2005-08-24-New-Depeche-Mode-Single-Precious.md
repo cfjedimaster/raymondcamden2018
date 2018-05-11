@@ -2,8 +2,8 @@
 layout: post
 title: "New Depeche Mode Single: Precious"
 date: "2005-08-25T10:08:00+06:00"
-categories: music 
-tags: 
+categories: [music]
+tags: []
 banner_image: 
 permalink: /2005/08/25/New-Depeche-Mode-Single-Precious
 ---

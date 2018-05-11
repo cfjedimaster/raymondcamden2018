@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap Build adds Hydration"
 date: "2012-08-23T18:08:00+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2012/08/23/PhoneGap-Build-adds-Hydration
 ---

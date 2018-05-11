@@ -2,8 +2,8 @@
 layout: post
 title: "Looking for wireless suggestions"
 date: "2007-09-26T10:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/09/26/Looking-for-wireless-suggestions
 ---

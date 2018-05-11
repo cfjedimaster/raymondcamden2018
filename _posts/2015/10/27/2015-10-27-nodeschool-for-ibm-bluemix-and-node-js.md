@@ -2,8 +2,8 @@
 layout: post
 title: "NodeSchool for IBM Bluemix and Node.js"
 date: "2015-10-27T11:51:26+06:00"
-categories: development javascript 
-tags: bluemix
+categories: [development,javascript]
+tags: [bluemix]
 banner_image: 
 permalink: /2015/10/27/nodeschool-for-ibm-bluemix-and-node-js
 ---

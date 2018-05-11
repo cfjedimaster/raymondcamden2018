@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Announcement"
 date: "2005-10-06T10:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/10/06/Flex-Announcement
 ---

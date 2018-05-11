@@ -2,8 +2,8 @@
 layout: post
 title: "Spry, Detail Regions, and hiding content until a click"
 date: "2008-08-28T17:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/08/28/Spry-Detail-Regions-and-hiding-content-until-a-click
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Google Geocode CFC"
 date: "2007-01-26T17:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/26/Google-Geocode-CFC
 ---

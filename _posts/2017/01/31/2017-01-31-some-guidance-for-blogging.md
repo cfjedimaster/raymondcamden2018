@@ -2,8 +2,8 @@
 layout: post
 title: "Some Guidance for Blogging"
 date: "2017-01-31T09:21:00-07:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: /images/banners/blogging.jpg
 permalink: /2017/01/31/some-guidance-for-blogging
 ---

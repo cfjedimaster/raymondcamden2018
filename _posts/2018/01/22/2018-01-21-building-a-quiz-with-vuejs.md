@@ -2,8 +2,8 @@
 layout: post
 title: "Building a Quiz with Vue.js"
 date: "2018-01-22"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/vuequiz.jpg
 permalink: /2018/01/22/building-a-quiz-with-vuejs
 ---

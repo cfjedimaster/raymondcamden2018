@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Using CFTREE for Navigation (2)"
 date: "2008-07-10T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/10/Ask-a-Jedi-Using-CFTREE-for-Navigation-2
 ---

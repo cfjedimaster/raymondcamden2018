@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Ad Server updated"
 date: "2011-10-25T14:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/10/25/ColdFusion-Ad-Server-updated
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile Web Development Essentials, Second Edition"
 date: "2013-09-26T11:09:00+06:00"
-categories: books html5 javascript mobile 
-tags: 
+categories: [books,html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/09/26/jQuery-Mobile-Web-Development-Essentials-Second-Edition
 ---

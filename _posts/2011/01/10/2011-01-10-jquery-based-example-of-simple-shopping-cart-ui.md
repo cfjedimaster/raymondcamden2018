@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery based example of simple shopping cart UI"
 date: "2011-01-10T13:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2011/01/10/jquery-based-example-of-simple-shopping-cart-ui
 ---

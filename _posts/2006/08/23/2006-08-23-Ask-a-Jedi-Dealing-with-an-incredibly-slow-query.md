@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Dealing with an incredibly slow query"
 date: "2006-08-23T14:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/23/Ask-a-Jedi-Dealing-with-an-incredibly-slow-query
 ---

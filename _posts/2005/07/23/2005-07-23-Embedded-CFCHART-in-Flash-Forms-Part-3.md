@@ -2,8 +2,8 @@
 layout: post
 title: "Embedded CFCHART in Flash Forms - Part 3"
 date: "2005-07-23T23:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/23/Embedded-CFCHART-in-Flash-Forms-Part-3
 ---

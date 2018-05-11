@@ -2,8 +2,8 @@
 layout: post
 title: "Old School CFCHART Tip"
 date: "2013-01-18T15:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/01/18/Old-School-CFCHART-Tip
 ---

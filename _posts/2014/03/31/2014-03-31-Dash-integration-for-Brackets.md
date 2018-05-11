@@ -2,8 +2,8 @@
 layout: post
 title: "Dash integration for Brackets"
 date: "2014-03-31T11:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/03/31/Dash-integration-for-Brackets
 ---

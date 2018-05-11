@@ -2,8 +2,8 @@
 layout: post
 title: "Going Serverless with OpenWhisk"
 date: "2016-12-23T12:49:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: /images/banners/openwhisk.jpg
 permalink: /2016/12/23/going-serverless-with-openwhisk
 ---

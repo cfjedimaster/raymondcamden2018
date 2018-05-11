@@ -2,8 +2,8 @@
 layout: post
 title: "Fighting against a content stealer on Blogger"
 date: "2016-07-15T07:55:00-07:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2016/07/15/fighting-against-a-content-stealer-on-blogger
 ---

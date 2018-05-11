@@ -2,8 +2,8 @@
 layout: post
 title: "My Wife Kicks Butt..."
 date: "2008-08-07T16:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/08/07/My-Wife-Kicks-Butt
 ---

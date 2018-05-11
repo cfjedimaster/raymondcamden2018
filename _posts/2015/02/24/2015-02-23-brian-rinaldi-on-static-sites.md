@@ -2,8 +2,8 @@
 layout: post
 title: "Brian Rinaldi on Static Sites"
 date: "2015-02-24T09:10:18+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/02/24/brian-rinaldi-on-static-sites
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "CFBL Update - Week 5 - Half-Way to SkinnyVille Edition"
 date: "2008-02-14T10:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/02/14/CFBL-Update-Week-5-HalfWay-to-SkinnyVille-Edition
 ---

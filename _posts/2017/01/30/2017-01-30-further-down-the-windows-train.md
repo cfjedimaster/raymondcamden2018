@@ -2,8 +2,8 @@
 layout: post
 title: "Further Down the Windows Train..."
 date: "2017-01-30T10:32:00-07:00"
-categories: development 
-tags: windows
+categories: [development]
+tags: [windows]
 banner_image: 
 permalink: /2017/01/30/further-down-the-windows-train
 ---

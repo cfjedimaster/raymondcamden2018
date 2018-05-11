@@ -2,8 +2,8 @@
 layout: post
 title: "Working with StrongLoop (Part Four) - Locking down the API"
 date: "2015-10-21T10:03:59+06:00"
-categories: development javascript 
-tags: strongloop
+categories: [development,javascript]
+tags: [strongloop]
 banner_image: 
 permalink: /2015/10/21/working-with-strongloop-part-four-locking-down-the-api
 ---

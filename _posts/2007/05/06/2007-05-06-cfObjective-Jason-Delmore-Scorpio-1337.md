@@ -2,8 +2,8 @@
 layout: post
 title: "cfObjective - Jason Delmore: Scorpio: 1337"
 date: "2007-05-06T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/06/cfObjective-Jason-Delmore-Scorpio-1337
 ---

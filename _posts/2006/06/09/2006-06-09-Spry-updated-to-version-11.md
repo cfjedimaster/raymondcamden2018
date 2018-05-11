@@ -2,8 +2,8 @@
 layout: post
 title: "Spry updated to version 1.1"
 date: "2006-06-09T14:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/06/09/Spry-updated-to-version-11
 ---

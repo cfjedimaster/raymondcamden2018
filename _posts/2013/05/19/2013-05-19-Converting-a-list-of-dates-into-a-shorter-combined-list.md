@@ -2,8 +2,8 @@
 layout: post
 title: "Converting a list of dates into a shorter, combined list"
 date: "2013-05-19T11:05:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2013/05/19/Converting-a-list-of-dates-into-a-shorter-combined-list
 ---

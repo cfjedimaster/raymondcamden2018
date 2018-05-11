@@ -2,8 +2,8 @@
 layout: post
 title: "Real World Flex Seminar"
 date: "2006-08-04T08:08:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/08/04/Real-World-Flex-Seminar
 ---

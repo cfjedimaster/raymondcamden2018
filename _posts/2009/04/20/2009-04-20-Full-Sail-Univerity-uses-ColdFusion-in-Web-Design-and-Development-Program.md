@@ -2,8 +2,8 @@
 layout: post
 title: "Full Sail University uses ColdFusion in Web Design and Development Program"
 date: "2009-04-20T18:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/20/Full-Sail-Univerity-uses-ColdFusion-in-Web-Design-and-Development-Program
 ---

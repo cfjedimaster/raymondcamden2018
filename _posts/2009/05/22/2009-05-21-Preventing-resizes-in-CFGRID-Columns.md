@@ -2,8 +2,8 @@
 layout: post
 title: "Preventing resizes in CFGRID Columns"
 date: "2009-05-22T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/05/22/Preventing-resizes-in-CFGRID-Columns
 ---

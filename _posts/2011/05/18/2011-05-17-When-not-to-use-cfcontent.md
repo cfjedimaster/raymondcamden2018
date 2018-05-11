@@ -2,8 +2,8 @@
 layout: post
 title: "When not to use cfcontent"
 date: "2011-05-18T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/05/18/When-not-to-use-cfcontent
 ---

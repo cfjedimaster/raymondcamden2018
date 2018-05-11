@@ -2,8 +2,8 @@
 layout: post
 title: "Looking for Suggestions: Best Conferences for Mobile/Web Development"
 date: "2014-11-18T11:11:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/11/18/Looking-for-Suggestions-Best-Conferences-for-MobileWeb-Development
 ---

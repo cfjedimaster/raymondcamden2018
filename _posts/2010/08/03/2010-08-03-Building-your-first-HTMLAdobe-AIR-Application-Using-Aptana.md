@@ -2,8 +2,8 @@
 layout: post
 title: "Building your first HTML/Adobe AIR Application - Using Aptana"
 date: "2010-08-03T14:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/08/03/Building-your-first-HTMLAdobe-AIR-Application-Using-Aptana
 ---

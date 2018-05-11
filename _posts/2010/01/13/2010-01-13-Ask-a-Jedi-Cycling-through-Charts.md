@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Cycling through Charts"
 date: "2010-01-13T17:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/01/13/Ask-a-Jedi-Cycling-through-Charts
 ---

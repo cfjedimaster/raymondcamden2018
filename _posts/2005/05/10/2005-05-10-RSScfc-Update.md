@@ -2,8 +2,8 @@
 layout: post
 title: "RSS.cfc Update"
 date: "2005-05-10T19:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/05/10/RSScfc-Update
 ---

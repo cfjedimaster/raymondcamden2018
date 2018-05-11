@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Questions on the VFS"
 date: "2010-07-07T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/07/Ask-a-Jedi-Questions-on-the-VFS
 ---

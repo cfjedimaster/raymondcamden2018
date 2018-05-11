@@ -2,8 +2,8 @@
 layout: post
 title: "Mobile version of ColdFusion Bloggers updated"
 date: "2011-03-18T10:03:00+06:00"
-categories: coldfusion jquery mobile 
-tags: 
+categories: [coldfusion,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2011/03/18/Mobile-version-of-ColdFusion-Bloggers-updated
 ---

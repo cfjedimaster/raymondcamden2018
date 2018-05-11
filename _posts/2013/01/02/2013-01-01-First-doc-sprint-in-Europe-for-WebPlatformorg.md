@@ -2,8 +2,8 @@
 layout: post
 title: "First doc sprint in Europe for WebPlatform.org"
 date: "2013-01-02T07:01:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/01/02/First-doc-sprint-in-Europe-for-WebPlatformorg
 ---

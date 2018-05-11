@@ -2,8 +2,8 @@
 layout: post
 title: "Mach II port of Canvas Wiki"
 date: "2006-03-09T15:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/09/Mach-II-port-of-Canvas-Wiki
 ---

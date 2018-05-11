@@ -2,8 +2,8 @@
 layout: post
 title: "Railo 3 Released"
 date: "2008-09-10T08:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/10/Railo-3-Released
 ---

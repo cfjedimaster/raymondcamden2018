@@ -2,8 +2,8 @@
 layout: post
 title: "Having trouble emulating iOS with Cordova/Ionic?"
 date: "2016-12-21T16:27:00-07:00"
-categories: mobile 
-tags: cordova
+categories: [mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2016/12/21/having-trouble-emulating-ios-cordova-ionic
 ---

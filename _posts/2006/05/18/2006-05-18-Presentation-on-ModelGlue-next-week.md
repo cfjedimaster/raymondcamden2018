@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation on Model-Glue next week"
 date: "2006-05-18T11:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/18/Presentation-on-ModelGlue-next-week
 ---

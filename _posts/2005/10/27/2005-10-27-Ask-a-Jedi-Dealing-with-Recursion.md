@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Dealing with Recursion"
 date: "2005-10-27T18:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/10/27/Ask-a-Jedi-Dealing-with-Recursion
 ---

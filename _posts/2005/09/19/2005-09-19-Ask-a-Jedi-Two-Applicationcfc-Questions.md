@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Two Application.cfc Questions"
 date: "2005-09-19T17:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/19/Ask-a-Jedi-Two-Applicationcfc-Questions
 ---

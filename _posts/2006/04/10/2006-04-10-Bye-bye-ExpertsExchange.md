@@ -2,8 +2,8 @@
 layout: post
 title: "Bye bye Experts-Exchange"
 date: "2006-04-10T16:04:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/04/10/Bye-bye-ExpertsExchange
 ---

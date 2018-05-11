@@ -2,8 +2,8 @@
 layout: post
 title: "On doors closing (and hopefully opening)"
 date: "2009-04-16T08:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/04/16/On-doors-closing-and-hopefully-opening
 ---

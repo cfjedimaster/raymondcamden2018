@@ -2,8 +2,8 @@
 layout: post
 title: "Cordova/Ionic Sample App: My Sound Board"
 date: "2015-07-30T10:18:16+06:00"
-categories: development javascript 
-tags: cordova ionic
+categories: [development,javascript]
+tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/07/30/cordovaionic-sample-app-my-sound-board
 ---

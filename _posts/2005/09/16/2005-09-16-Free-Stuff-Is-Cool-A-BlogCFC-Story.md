@@ -2,8 +2,8 @@
 layout: post
 title: "Free Stuff Is Cool... (A BlogCFC Story)"
 date: "2005-09-16T17:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/16/Free-Stuff-Is-Cool-A-BlogCFC-Story
 ---

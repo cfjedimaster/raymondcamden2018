@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Builder 2.0.1 Extension Updates"
 date: "2012-04-21T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/04/21/Small-but-nice-ColdFusion-Builder-201-Update
 ---

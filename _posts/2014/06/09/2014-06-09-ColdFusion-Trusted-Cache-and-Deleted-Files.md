@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Trusted Cache and Deleted Files"
 date: "2014-06-09T17:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/06/09/ColdFusion-Trusted-Cache-and-Deleted-Files
 ---

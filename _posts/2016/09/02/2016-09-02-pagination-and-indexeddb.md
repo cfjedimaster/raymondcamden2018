@@ -2,8 +2,8 @@
 layout: post
 title: "Pagination and IndexedDB"
 date: "2016-09-02T15:04:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: /images/banners/pagination.jpg
 permalink: /2016/09/02/pagination-and-indexeddb
 ---

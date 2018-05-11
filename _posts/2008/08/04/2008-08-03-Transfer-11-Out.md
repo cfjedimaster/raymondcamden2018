@@ -2,8 +2,8 @@
 layout: post
 title: "Transfer 1.1 Out"
 date: "2008-08-04T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/04/Transfer-11-Out
 ---

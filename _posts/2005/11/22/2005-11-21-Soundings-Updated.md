@@ -2,8 +2,8 @@
 layout: post
 title: "Soundings Updated"
 date: "2005-11-22T08:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/11/22/Soundings-Updated
 ---

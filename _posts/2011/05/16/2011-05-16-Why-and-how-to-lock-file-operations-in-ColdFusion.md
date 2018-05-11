@@ -2,8 +2,8 @@
 layout: post
 title: "Why (and how) to lock file operations in ColdFusion"
 date: "2011-05-16T19:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/05/16/Why-and-how-to-lock-file-operations-in-ColdFusion
 ---

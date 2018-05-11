@@ -2,8 +2,8 @@
 layout: post
 title: "An Introduction to Creating Alexa Skills with OpenWhisk"
 date: "2017-03-09T12:02:00-07:00"
-categories: serverless 
-tags: openwhisk alexa
+categories: [serverless]
+tags: [openwhisk,alexa]
 banner_image: /images/banners/alexaow.jpg
 permalink: /2017/03/09/an-introduction-to-creating-alexa-skills-with-openwhisk
 ---

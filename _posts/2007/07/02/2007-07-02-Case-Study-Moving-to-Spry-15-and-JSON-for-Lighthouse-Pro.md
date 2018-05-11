@@ -2,8 +2,8 @@
 layout: post
 title: "Case Study - Moving to Spry 1.5 and JSON for Lighthouse Pro"
 date: "2007-07-02T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/02/Case-Study-Moving-to-Spry-15-and-JSON-for-Lighthouse-Pro
 ---

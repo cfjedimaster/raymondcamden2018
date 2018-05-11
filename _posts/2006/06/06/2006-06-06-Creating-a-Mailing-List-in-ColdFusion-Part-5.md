@@ -2,8 +2,8 @@
 layout: post
 title: "Creating a Mailing List in ColdFusion (Part 5)"
 date: "2006-06-06T17:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/06/Creating-a-Mailing-List-in-ColdFusion-Part-5
 ---

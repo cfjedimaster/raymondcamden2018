@@ -2,8 +2,8 @@
 layout: post
 title: "Metadata properties for CFFEED"
 date: "2007-08-22T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/22/Metadata-properties-for-CFFEED
 ---

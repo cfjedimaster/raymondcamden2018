@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Question on Application based CFCs"
 date: "2008-03-24T13:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/24/Ask-a-Jedi-Question-on-Application-based-CFCs
 ---

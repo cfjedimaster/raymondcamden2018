@@ -2,8 +2,8 @@
 layout: post
 title: "The travel curse continues..."
 date: "2006-10-27T02:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/27/The-travel-curse-continues
 ---

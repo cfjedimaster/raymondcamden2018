@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9 without OpenOffice"
 date: "2010-04-09T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/04/09/ColdFusion-9-without-OpenOffice
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Trying something new - my new podcast with Brian Rinaldi"
 date: "2013-06-26T10:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2013/06/26/Trying-something-new-my-new-podcast-with-Brian-Rinaldi
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Canvas 2 Beta"
 date: "2006-12-29T09:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/12/29/Canvas-2-Beta
 ---

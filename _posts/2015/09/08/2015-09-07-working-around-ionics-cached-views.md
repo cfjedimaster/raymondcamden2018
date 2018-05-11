@@ -2,8 +2,8 @@
 layout: post
 title: "Working around Ionic's cached views"
 date: "2015-09-08T01:58:19+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/09/08/working-around-ionics-cached-views
 ---

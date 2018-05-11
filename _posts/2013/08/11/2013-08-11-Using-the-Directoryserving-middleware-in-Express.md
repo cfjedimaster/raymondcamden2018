@@ -2,8 +2,8 @@
 layout: post
 title: "Using the Directory-serving middleware in Express"
 date: "2013-08-11T14:08:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/08/11/Using-the-Directoryserving-middleware-in-Express
 ---

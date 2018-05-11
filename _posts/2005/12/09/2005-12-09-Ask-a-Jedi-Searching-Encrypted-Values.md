@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Searching Encrypted Values"
 date: "2005-12-09T17:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/12/09/Ask-a-Jedi-Searching-Encrypted-Values
 ---

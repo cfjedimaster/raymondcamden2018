@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Why isn't my form reloading the whole page?"
 date: "2007-10-31T17:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/31/Ask-a-Jedi-Why-isnt-my-form-reloading-the-whole-page
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Quick tweak added to ColdFusionBloggers.org"
 date: "2008-10-07T10:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/07/Quick-tweak-added-to-ColdFusionBloggersorg
 ---

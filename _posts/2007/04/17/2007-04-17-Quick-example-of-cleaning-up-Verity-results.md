@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of cleaning up Verity results"
 date: "2007-04-17T13:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/04/17/Quick-example-of-cleaning-up-Verity-results
 ---

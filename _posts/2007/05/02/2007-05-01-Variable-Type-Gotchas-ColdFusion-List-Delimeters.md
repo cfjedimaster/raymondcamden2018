@@ -2,8 +2,8 @@
 layout: post
 title: "Variable Type Gotchas - ColdFusion List Delimeters"
 date: "2007-05-02T09:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/02/Variable-Type-Gotchas-ColdFusion-List-Delimeters
 ---

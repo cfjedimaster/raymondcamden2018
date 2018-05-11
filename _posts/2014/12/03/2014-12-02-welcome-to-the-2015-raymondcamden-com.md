@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to the 2015 RaymondCamden.com"
 date: "2014-12-03T06:40:35+06:00"
-categories: uncategorized 
-tags: 
+categories: [uncategorized]
+tags: []
 banner_image: 
 permalink: /2014/12/03/welcome-to-the-2015-raymondcamden-com
 ---

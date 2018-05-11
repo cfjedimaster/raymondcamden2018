@@ -2,8 +2,8 @@
 layout: post
 title: "Review: WireframeSketcher"
 date: "2010-12-21T09:12:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2010/12/21/Review-WireframeSketcher
 ---

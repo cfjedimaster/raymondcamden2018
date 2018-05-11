@@ -2,8 +2,8 @@
 layout: post
 title: "Contest Deadline is Today!"
 date: "2006-08-01T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/01/Contest-Deadline-is-Today
 ---

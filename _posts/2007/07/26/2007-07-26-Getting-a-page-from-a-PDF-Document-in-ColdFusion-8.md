@@ -2,8 +2,8 @@
 layout: post
 title: "Getting a page from a PDF Document in ColdFusion 8"
 date: "2007-07-26T15:07:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/07/26/Getting-a-page-from-a-PDF-Document-in-ColdFusion-8
 ---

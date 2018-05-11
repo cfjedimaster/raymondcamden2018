@@ -2,8 +2,8 @@
 layout: post
 title: "Hey you - yes you - I need your feedback"
 date: "2010-12-18T13:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/12/18/Hey-you-yes-you-I-need-your-feedback
 ---

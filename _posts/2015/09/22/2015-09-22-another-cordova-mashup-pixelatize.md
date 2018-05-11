@@ -2,8 +2,8 @@
 layout: post
 title: "Another Cordova Mashup - Pixelatize"
 date: "2015-09-22T13:35:56+06:00"
-categories: development javascript mobile 
-tags: cordova ionic
+categories: [development,javascript,mobile]
+tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/09/22/another-cordova-mashup-pixelatize
 ---

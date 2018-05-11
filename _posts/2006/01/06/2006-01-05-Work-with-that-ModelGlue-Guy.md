@@ -2,8 +2,8 @@
 layout: post
 title: "Work with that Model-Glue Guy..."
 date: "2006-01-06T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/06/Work-with-that-ModelGlue-Guy
 ---

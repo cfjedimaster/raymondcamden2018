@@ -2,8 +2,8 @@
 layout: post
 title: "Spry Presentation Recording"
 date: "2006-11-16T20:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/11/16/Spry-Presentation-Recording
 ---

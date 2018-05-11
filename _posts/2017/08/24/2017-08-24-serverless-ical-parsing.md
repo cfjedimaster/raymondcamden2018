@@ -2,8 +2,8 @@
 layout: post
 title: "Serverless iCal Parsing"
 date: "2017-08-24T09:00:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/08/24/serverless-ical-parsing
 ---

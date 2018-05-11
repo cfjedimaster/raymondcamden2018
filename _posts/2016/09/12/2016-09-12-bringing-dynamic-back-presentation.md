@@ -2,8 +2,8 @@
 layout: post
 title: "Bringing Dynamic Back (Presentation)"
 date: "2016-09-12T07:03:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/09/12/bringing-dynamic-back-presentation
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Make this the last year someone doesn't know what ColdFusion is!"
 date: "2007-02-27T06:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/02/27/Make-this-the-last-year-someone-doesnt-know-what-ColdFusion-is
 ---

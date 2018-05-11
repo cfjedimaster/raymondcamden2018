@@ -2,8 +2,8 @@
 layout: post
 title: "Thank you / OOO Notice"
 date: "2006-03-04T10:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/03/04/Thank-you-OOO-Notice
 ---

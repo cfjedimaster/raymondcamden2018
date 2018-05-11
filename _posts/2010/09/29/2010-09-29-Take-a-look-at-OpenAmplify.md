@@ -2,8 +2,8 @@
 layout: post
 title: "Take a look at OpenAmplify"
 date: "2010-09-29T11:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/09/29/Take-a-look-at-OpenAmplify
 ---

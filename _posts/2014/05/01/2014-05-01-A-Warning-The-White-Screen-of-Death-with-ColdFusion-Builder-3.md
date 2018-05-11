@@ -2,8 +2,8 @@
 layout: post
 title: "A Warning - The White Screen of Death with ColdFusion Builder 3"
 date: "2014-05-01T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/05/01/A-Warning-The-White-Screen-of-Death-with-ColdFusion-Builder-3
 ---

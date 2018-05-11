@@ -2,8 +2,8 @@
 layout: post
 title: "A Tip for Zipped Actions and Packages in OpenWhisk"
 date: "2017-04-13T12:51:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/04/13/a-tip-for-zipped-actions-and-packages-in-openwhisk
 ---

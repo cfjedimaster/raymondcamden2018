@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Finding where a variable is defined"
 date: "2008-10-06T11:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/10/06/Ask-a-Jedi-Finding-where-a-variable-is-defined
 ---

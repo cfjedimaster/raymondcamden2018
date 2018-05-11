@@ -2,8 +2,8 @@
 layout: post
 title: "Preselecting data with Spry"
 date: "2006-10-09T19:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/09/Preselecting-data-with-Spry
 ---

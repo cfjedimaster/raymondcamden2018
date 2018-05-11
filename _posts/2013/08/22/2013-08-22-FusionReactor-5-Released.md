@@ -2,8 +2,8 @@
 layout: post
 title: "FusionReactor 5 Released"
 date: "2013-08-22T11:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/08/22/FusionReactor-5-Released
 ---

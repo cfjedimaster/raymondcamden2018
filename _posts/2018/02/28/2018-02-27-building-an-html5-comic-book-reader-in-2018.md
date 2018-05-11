@@ -2,8 +2,8 @@
 layout: post
 title: "Building an HTML5 Comic Book Reader - in 2018"
 date: "2018-02-28"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: /images/banners/comicbooks2018.jpg
 permalink: /2018/02/28/building-an-html5-comic-book-reader-in-2018
 ---

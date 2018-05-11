@@ -2,8 +2,8 @@
 layout: post
 title: "WebSocket example with keyword highlighting"
 date: "2012-08-06T11:08:00+06:00"
-categories: coldfusion html5 javascript 
-tags: 
+categories: [coldfusion,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/08/06/WebSocket-example-with-keyword-highlighting
 ---

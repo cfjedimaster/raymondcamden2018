@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - NexOne, Inc"
 date: "2013-03-20T10:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/03/20/ColdFusion-Job-Opening-NexOne-Inc
 ---

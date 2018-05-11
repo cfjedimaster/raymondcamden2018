@@ -2,8 +2,8 @@
 layout: post
 title: "Handling this error: The tag does not allow the attribute(s) RESULT."
 date: "2007-01-16T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/16/Handling-this-error-The-tag-does-not-allow-the-attributes-RESULT
 ---

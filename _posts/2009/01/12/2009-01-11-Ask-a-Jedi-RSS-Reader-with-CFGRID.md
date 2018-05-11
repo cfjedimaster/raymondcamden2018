@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: RSS Reader with CFGRID?"
 date: "2009-01-12T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/01/12/Ask-a-Jedi-RSS-Reader-with-CFGRID
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Reminder - You don't need AppCache for PhoneGap/Cordova"
 date: "2015-02-26T05:59:59+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/02/26/reminder-you-dont-need-appcache-for-phonegapcordova
 ---

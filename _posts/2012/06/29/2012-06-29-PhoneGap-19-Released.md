@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap 1.9 Released"
 date: "2012-06-29T23:06:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/06/29/PhoneGap-19-Released
 ---

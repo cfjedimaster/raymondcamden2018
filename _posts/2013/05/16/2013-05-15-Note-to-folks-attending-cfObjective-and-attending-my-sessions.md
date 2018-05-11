@@ -2,8 +2,8 @@
 layout: post
 title: "Note to folks attending cfObjective and attending my sessions"
 date: "2013-05-16T08:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/05/16/Note-to-folks-attending-cfObjective-and-attending-my-sessions
 ---

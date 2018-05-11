@@ -2,8 +2,8 @@
 layout: post
 title: "Nice ColdFusion 9 Admin Change - Settings Summary"
 date: "2009-08-03T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/03/Nice-ColdFusion-9-Admin-Change-Settings-Summary
 ---

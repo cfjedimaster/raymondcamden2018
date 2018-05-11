@@ -2,8 +2,8 @@
 layout: post
 title: "Fun little AJAX/Internet Explorer issue (with cool Spry fix!)"
 date: "2006-10-11T15:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/10/11/Fun-little-AJAXInternet-Explorer-issue-with-cool-Spry-fix
 ---

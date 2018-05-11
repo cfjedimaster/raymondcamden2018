@@ -2,8 +2,8 @@
 layout: post
 title: "Open BlueDragon Steering Committee"
 date: "2008-04-08T11:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/08/Open-BlueDragon-Steering-Committee
 ---

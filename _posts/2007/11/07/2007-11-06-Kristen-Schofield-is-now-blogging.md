@@ -2,8 +2,8 @@
 layout: post
 title: "Kristen Schofield is now blogging"
 date: "2007-11-07T07:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/07/Kristen-Schofield-is-now-blogging
 ---

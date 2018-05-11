@@ -2,8 +2,8 @@
 layout: post
 title: "HP Printer and the Tone of Death"
 date: "2007-06-10T12:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/06/10/HP-Printer-and-the-Tone-of-Death
 ---

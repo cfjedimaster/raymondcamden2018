@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Worthless Post"
 date: "2007-10-05T18:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/10/05/Friday-Worthless-Post
 ---

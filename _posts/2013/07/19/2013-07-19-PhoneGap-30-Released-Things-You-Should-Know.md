@@ -2,8 +2,8 @@
 layout: post
 title: "PhoneGap 3.0 Released - Things You Should Know"
 date: "2013-07-19T17:07:00+06:00"
-categories: javascript mobile 
-tags: 
+categories: [javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2013/07/19/PhoneGap-30-Released-Things-You-Should-Know
 ---

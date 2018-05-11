@@ -2,8 +2,8 @@
 layout: post
 title: "Two more Windows Phone/PhoneGap Tips"
 date: "2013-08-21T17:08:00+06:00"
-categories: html5 mobile 
-tags: 
+categories: [html5,mobile]
+tags: []
 banner_image: 
 permalink: /2013/08/21/Two-more-Windows-PhonePhoneGap-Tips
 ---

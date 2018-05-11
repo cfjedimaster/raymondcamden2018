@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue 2 Beta 1 Available"
 date: "2006-06-14T23:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/14/ModelGlue-2-Beta-1-Available
 ---

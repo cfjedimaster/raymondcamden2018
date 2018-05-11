@@ -2,8 +2,8 @@
 layout: post
 title: "Out of Office - Detroit"
 date: "2006-06-04T23:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/06/04/Out-of-Office-Detroit
 ---

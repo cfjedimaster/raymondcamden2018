@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Where do you get help for ActionScript in Flash Forms?"
 date: "2006-04-04T10:04:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2006/04/04/Ask-a-Jedi-Where-do-you-get-help-for-ActionScript-in-Flash-Forms
 ---

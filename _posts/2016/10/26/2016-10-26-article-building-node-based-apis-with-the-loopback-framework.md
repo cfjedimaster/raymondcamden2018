@@ -2,8 +2,8 @@
 layout: post
 title: "Article: Building Node-based APIs with the LoopBack Framework"
 date: "2016-10-26T09:14:00-07:00"
-categories: development 
-tags: loopback
+categories: [development]
+tags: [loopback]
 banner_image: /images/banners/loopback_header.jpg
 permalink: /2016/10/26/article-building-node-based-apis-with-the-loopback-framework
 ---

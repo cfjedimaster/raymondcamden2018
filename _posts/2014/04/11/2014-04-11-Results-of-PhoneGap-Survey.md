@@ -2,8 +2,8 @@
 layout: post
 title: "Results of PhoneGap Survey"
 date: "2014-04-11T16:04:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2014/04/11/Results-of-PhoneGap-Survey
 ---

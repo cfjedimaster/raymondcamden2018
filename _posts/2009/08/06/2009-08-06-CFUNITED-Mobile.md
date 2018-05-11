@@ -2,8 +2,8 @@
 layout: post
 title: "CFUNITED Mobile"
 date: "2009-08-06T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/08/06/CFUNITED-Mobile
 ---

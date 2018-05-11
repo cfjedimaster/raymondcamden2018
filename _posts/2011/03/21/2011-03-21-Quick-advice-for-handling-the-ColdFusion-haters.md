@@ -2,8 +2,8 @@
 layout: post
 title: "Quick advice for handling the ColdFusion haters"
 date: "2011-03-21T18:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/21/Quick-advice-for-handling-the-ColdFusion-haters
 ---

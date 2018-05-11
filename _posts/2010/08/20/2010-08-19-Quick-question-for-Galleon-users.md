@@ -2,8 +2,8 @@
 layout: post
 title: "Quick question for Galleon users"
 date: "2010-08-20T08:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/08/20/Quick-question-for-Galleon-users
 ---

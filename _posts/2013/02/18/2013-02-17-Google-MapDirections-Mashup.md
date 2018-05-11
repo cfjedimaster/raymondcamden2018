@@ -2,8 +2,8 @@
 layout: post
 title: "Google Map/Directions Mashup"
 date: "2013-02-18T08:02:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2013/02/18/Google-MapDirections-Mashup
 ---

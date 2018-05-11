@@ -2,8 +2,8 @@
 layout: post
 title: "A tip concerning Model-Glue and Google AdSense"
 date: "2008-07-08T07:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/08/A-tip-concerning-ModelGlue-and-Google-AdSense
 ---

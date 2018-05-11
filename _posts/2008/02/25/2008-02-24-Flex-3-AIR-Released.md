@@ -2,8 +2,8 @@
 layout: post
 title: "Flex 3, AIR Released"
 date: "2008-02-25T00:02:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2008/02/25/Flex-3-AIR-Released
 ---

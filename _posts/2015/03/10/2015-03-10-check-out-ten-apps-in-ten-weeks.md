@@ -2,8 +2,8 @@
 layout: post
 title: "Check out \"Ten Apps in Ten Weeks\""
 date: "2015-03-10T16:04:48+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/03/10/check-out-ten-apps-in-ten-weeks
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Why can't stats be in English?"
 date: "2006-05-01T17:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/05/01/Why-cant-stats-be-in-English
 ---

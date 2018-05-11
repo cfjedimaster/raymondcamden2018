@@ -2,8 +2,8 @@
 layout: post
 title: "(Unofficial) Lighthouse Pro for Sybase"
 date: "2007-11-21T17:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/21/Unofficial-Lighthouse-Pro-for-Sybase
 ---

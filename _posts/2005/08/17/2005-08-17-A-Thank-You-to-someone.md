@@ -2,8 +2,8 @@
 layout: post
 title: "A Thank You (to someone...)"
 date: "2005-08-17T19:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/08/17/A-Thank-You-to-someone
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Latest update on the CFML Advisory Committee"
 date: "2010-02-10T21:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/02/10/Latest-update-on-the-CFML-Advisory-Committee
 ---

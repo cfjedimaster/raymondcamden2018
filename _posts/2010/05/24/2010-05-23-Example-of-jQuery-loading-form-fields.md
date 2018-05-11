@@ -2,8 +2,8 @@
 layout: post
 title: "Example of jQuery loading form fields"
 date: "2010-05-24T10:05:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/05/24/Example-of-jQuery-loading-form-fields
 ---

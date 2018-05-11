@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Cookbook hits 100!"
 date: "2006-06-13T14:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/13/ColdFusion-Cookbook-hits-100
 ---

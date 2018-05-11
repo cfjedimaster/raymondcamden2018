@@ -2,8 +2,8 @@
 layout: post
 title: "Is your Ionic View title not updating?"
 date: "2015-12-18T15:21:11+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/12/18/is-your-ionic-view-title-not-updating
 ---

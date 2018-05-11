@@ -2,8 +2,8 @@
 layout: post
 title: "Did I stutter?"
 date: "2011-02-20T14:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2011/02/20/Did-I-stutter
 ---

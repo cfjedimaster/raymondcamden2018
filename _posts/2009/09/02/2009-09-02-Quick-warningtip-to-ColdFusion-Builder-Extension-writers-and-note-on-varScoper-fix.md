@@ -2,8 +2,8 @@
 layout: post
 title: "Quick warning/tip to ColdFusion Builder Extension writers (and note on varScoper fix)"
 date: "2009-09-02T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/02/Quick-warningtip-to-ColdFusion-Builder-Extension-writers-and-note-on-varScoper-fix
 ---

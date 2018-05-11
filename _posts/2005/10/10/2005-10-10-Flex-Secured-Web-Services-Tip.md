@@ -2,8 +2,8 @@
 layout: post
 title: "Flex, Secured Web Services Tip"
 date: "2005-10-10T17:10:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2005/10/10/Flex-Secured-Web-Services-Tip
 ---

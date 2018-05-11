@@ -2,8 +2,8 @@
 layout: post
 title: "Processing forms with duplicate field names"
 date: "2010-04-01T00:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/03/31/Processing-forms-with-duplicate-field-names
 ---

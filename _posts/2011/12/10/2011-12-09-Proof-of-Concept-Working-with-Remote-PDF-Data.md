@@ -2,8 +2,8 @@
 layout: post
 title: "Proof of Concept - Working with Remote PDF Data"
 date: "2011-12-10T08:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/12/10/Proof-of-Concept-Working-with-Remote-PDF-Data
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Example of console debugging with Weinre and PhoneGap"
 date: "2011-10-19T16:10:00+06:00"
-categories: development javascript mobile 
-tags: 
+categories: [development,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2011/10/19/Example-of-console-debugging-with-Weinre-and-PhoneGap
 ---

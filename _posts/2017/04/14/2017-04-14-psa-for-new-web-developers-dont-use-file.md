@@ -2,8 +2,8 @@
 layout: post
 title: "PSA for New Web Developers - Don't Use file://"
 date: "2017-04-14T12:55:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: /images/banners/psa1.jpg
 permalink: /2017/04/14/psa-for-new-web-developers-dont-use-file
 ---

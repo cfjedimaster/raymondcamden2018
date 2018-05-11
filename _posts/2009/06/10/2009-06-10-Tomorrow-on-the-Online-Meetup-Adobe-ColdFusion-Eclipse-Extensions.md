@@ -2,8 +2,8 @@
 layout: post
 title: "Tomorrow on the Online Meetup - Adobe ColdFusion Eclipse Extensions"
 date: "2009-06-10T20:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/06/10/Tomorrow-on-the-Online-Meetup-Adobe-ColdFusion-Eclipse-Extensions
 ---

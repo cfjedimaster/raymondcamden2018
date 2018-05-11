@@ -2,8 +2,8 @@
 layout: post
 title: "Best of ColdFusion 9 Contest: And the winners are..."
 date: "2010-01-29T17:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/01/29/Best-of-ColdFusion-9-Contest-And-the-winners-are
 ---

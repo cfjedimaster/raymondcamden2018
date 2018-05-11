@@ -2,8 +2,8 @@
 layout: post
 title: "Changing the text of a CFWINDOW"
 date: "2007-09-28T09:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/28/Changing-the-text-of-a-CFWINDOW
 ---

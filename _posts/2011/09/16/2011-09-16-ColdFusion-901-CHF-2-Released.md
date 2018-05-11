@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9.0.1 CHF 2 Released"
 date: "2011-09-16T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/09/16/ColdFusion-901-CHF-2-Released
 ---

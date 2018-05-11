@@ -2,8 +2,8 @@
 layout: post
 title: "The new, Fetch version of ColdFusion Debugging (with Flair)"
 date: "2007-12-11T12:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/11/The-new-Fetch-version-of-ColdFusion-Debugging-with-Flair
 ---

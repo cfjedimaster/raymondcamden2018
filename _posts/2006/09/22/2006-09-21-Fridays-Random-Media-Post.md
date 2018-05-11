@@ -2,8 +2,8 @@
 layout: post
 title: "Friday's Random Media Post"
 date: "2006-09-22T10:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/09/22/Fridays-Random-Media-Post
 ---

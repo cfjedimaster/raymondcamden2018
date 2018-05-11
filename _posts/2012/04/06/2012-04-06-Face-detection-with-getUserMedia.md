@@ -2,8 +2,8 @@
 layout: post
 title: "Face detection with getUserMedia"
 date: "2012-04-06T16:04:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2012/04/06/Face-detection-with-getUserMedia
 ---

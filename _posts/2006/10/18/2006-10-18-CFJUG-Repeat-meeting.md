@@ -2,8 +2,8 @@
 layout: post
 title: "CFJUG Repeat meeting"
 date: "2006-10-18T13:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/18/CFJUG-Repeat-meeting
 ---

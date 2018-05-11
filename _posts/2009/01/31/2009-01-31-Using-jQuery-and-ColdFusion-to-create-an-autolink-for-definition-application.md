@@ -2,8 +2,8 @@
 layout: post
 title: "Using jQuery and ColdFusion to create an auto-link for definition application"
 date: "2009-01-31T13:01:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2009/01/31/Using-jQuery-and-ColdFusion-to-create-an-autolink-for-definition-application
 ---

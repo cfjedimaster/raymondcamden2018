@@ -2,8 +2,8 @@
 layout: post
 title: "CFBuilder Contest: AppCore Creator"
 date: "2010-05-13T00:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2010/05/12/CFBuilder-Contest-AppCore-Creator
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Simple photo filters with VintageJS and Cordova"
 date: "2014-09-23T11:09:00+06:00"
-categories: html5 javascript mobile 
-tags: 
+categories: [html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/09/23/Simple-photo-filters-with-VintageJS-and-Cordova
 ---

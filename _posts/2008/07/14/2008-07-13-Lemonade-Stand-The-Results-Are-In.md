@@ -2,8 +2,8 @@
 layout: post
 title: "Lemonade Stand - The Results Are In"
 date: "2008-07-14T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/14/Lemonade-Stand-The-Results-Are-In
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Getting the value of AJAX-ified controls"
 date: "2007-06-19T09:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/06/19/ColdFusion-8-Getting-the-value-of-AJAXified-controls
 ---

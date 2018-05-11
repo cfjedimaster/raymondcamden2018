@@ -2,8 +2,8 @@
 layout: post
 title: "Counting Word Instances in a String"
 date: "2007-08-02T14:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/02/Counting-Word-Instances-in-a-String
 ---

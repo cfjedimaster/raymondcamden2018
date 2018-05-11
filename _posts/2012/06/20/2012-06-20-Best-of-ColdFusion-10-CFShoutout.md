@@ -2,8 +2,8 @@
 layout: post
 title: "Best of ColdFusion 10: CFShoutout"
 date: "2012-06-20T12:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/06/20/Best-of-ColdFusion-10-CFShoutout
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Spry Example: Check if user exists"
 date: "2006-08-25T18:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/25/Spry-Example-Check-it-user-exists
 ---

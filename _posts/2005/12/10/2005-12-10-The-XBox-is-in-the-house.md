@@ -2,8 +2,8 @@
 layout: post
 title: "The XBox is in the house..."
 date: "2005-12-10T21:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/12/10/The-XBox-is-in-the-house
 ---

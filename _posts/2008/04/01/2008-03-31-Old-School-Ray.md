@@ -2,8 +2,8 @@
 layout: post
 title: "Old School Ray"
 date: "2008-04-01T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/01/Old-School-Ray
 ---

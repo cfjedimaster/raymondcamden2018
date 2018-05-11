@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge updated to include wikis"
 date: "2007-03-23T14:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/03/23/RIAForge-updated-to-include-wikis
 ---

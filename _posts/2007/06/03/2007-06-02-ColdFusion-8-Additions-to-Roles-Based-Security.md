@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 8: Additions to Roles Based Security"
 date: "2007-06-03T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/06/03/ColdFusion-8-Additions-to-Roles-Based-Security
 ---

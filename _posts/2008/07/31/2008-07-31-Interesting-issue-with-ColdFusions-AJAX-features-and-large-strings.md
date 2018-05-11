@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting issue with ColdFusion's AJAX features and large strings"
 date: "2008-07-31T15:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/31/Interesting-issue-with-ColdFusions-AJAX-features-and-large-strings
 ---

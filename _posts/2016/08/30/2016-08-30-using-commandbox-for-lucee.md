@@ -2,8 +2,8 @@
 layout: post
 title: "Using CommandBox for Lucee"
 date: "2016-08-30T09:03:00-07:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: /images/banners/cbl.jpg
 permalink: /2016/08/30/using-commandbox-for-lucee
 ---

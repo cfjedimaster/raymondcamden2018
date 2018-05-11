@@ -2,8 +2,8 @@
 layout: post
 title: "Simple Google Maps demo with Custom Markers - Followup"
 date: "2012-12-03T17:12:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2012/12/03/Simple-Google-Maps-demo-with-Custom-Markers-Followup
 ---

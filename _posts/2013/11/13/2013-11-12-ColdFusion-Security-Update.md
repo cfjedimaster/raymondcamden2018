@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Security Update"
 date: "2013-11-13T06:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/11/13/ColdFusion-Security-Update
 ---

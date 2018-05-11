@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Tip: What to do when your error handling isn't working?"
 date: "2008-07-15T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/15/Quick-Tip-What-to-do-when-your-error-handling-isnt-working
 ---

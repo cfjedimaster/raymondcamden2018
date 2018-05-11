@@ -2,8 +2,8 @@
 layout: post
 title: "New ColdFusion Security resource"
 date: "2011-03-23T16:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/03/23/New-ColdFusion-Security-resource
 ---

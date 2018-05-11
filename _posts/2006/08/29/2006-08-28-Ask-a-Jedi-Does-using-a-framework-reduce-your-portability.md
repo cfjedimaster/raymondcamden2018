@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Does using a framework reduce your portability?"
 date: "2006-08-29T08:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/08/29/Ask-a-Jedi-Does-using-a-framework-reduce-your-portability
 ---

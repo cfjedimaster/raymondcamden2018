@@ -2,8 +2,8 @@
 layout: post
 title: "Disqus update (and BlogCFC export script)"
 date: "2014-11-26T14:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/11/26/disqus-update-and-blogcfc-export-script
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Rogue One Teaser Released"
 date: "2016-04-07T08:09:00-07:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2016/04/07/rogue-one-teaser-released
 ---

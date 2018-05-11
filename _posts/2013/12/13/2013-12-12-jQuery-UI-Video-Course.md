@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery UI Video Course"
 date: "2013-12-13T08:12:00+06:00"
-categories: development javascript jquery 
-tags: 
+categories: [development,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2013/12/13/jQuery-UI-Video-Course
 ---

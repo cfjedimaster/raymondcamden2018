@@ -2,8 +2,8 @@
 layout: post
 title: "CFBL - Week 10 - The End"
 date: "2008-03-20T13:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/03/20/CFBL-Week-10-The-End
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Adding an XMLList back to an XML object in Flex/ActionScript 3"
 date: "2007-01-17T13:01:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2007/01/17/Adding-an-XMLList-back-to-an-XML-object-in-FlexActionScript-3
 ---

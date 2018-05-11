@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Can you run a tag in \"end\" mode inside a CFIF?"
 date: "2007-09-21T14:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/21/Ask-a-Jedi-Can-you-run-a-tag-in-end-mode-inside-a-CFIF
 ---

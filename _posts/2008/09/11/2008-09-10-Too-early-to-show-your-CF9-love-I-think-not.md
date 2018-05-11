@@ -2,8 +2,8 @@
 layout: post
 title: "Too early to show your CF9 love? I think not!"
 date: "2008-09-11T10:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/11/Too-early-to-show-your-CF9-love-I-think-not
 ---

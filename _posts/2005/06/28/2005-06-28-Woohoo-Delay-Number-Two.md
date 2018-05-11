@@ -2,8 +2,8 @@
 layout: post
 title: "Woohoo! Delay Number Two"
 date: "2005-06-28T19:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/06/28/Woohoo-Delay-Number-Two
 ---

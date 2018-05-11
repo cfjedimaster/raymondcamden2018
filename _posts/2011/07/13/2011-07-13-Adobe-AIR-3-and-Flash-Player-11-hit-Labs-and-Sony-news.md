@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe AIR 3 and Flash Player 11 hit Labs (and Sony news!)"
 date: "2011-07-13T16:07:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2011/07/13/Adobe-AIR-3-and-Flash-Player-11-hit-Labs-and-Sony-news
 ---

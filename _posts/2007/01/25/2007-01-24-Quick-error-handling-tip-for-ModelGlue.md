@@ -2,8 +2,8 @@
 layout: post
 title: "Quick error handling tip for Model-Glue"
 date: "2007-01-25T07:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/25/Quick-error-handling-tip-for-ModelGlue
 ---

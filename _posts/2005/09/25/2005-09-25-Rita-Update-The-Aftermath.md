@@ -2,8 +2,8 @@
 layout: post
 title: "Rita Update - The Aftermath"
 date: "2005-09-25T15:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2005/09/25/Rita-Update-The-Aftermath
 ---

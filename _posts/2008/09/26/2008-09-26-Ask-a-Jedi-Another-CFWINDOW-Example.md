@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Another CFWINDOW Example"
 date: "2008-09-26T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/26/Ask-a-Jedi-Another-CFWINDOW-Example
 ---

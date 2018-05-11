@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion's Multi File uploader is impacted by debugging"
 date: "2010-09-01T15:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/09/01/ColdFusions-Multi-File-uploader-is-impacted-by-debugging
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Delaying an Edge Animate asset until visible - Part 2"
 date: "2013-07-11T16:07:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2013/07/11/Delaying-an-Edge-Animate-asset-until-visible-Part-2
 ---

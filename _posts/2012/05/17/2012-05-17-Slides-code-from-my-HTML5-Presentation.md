@@ -2,8 +2,8 @@
 layout: post
 title: "Slides, code, from my HTML5 Presentation"
 date: "2012-05-17T13:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2012/05/17/Slides-code-from-my-HTML5-Presentation
 ---

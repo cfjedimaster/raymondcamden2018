@@ -2,8 +2,8 @@
 layout: post
 title: "\"Apache Cordova in Action\" 50% off Monday"
 date: "2016-07-17T08:30:00-07:00"
-categories: development mobile 
-tags: cordova
+categories: [development,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2016/07/17/apache-cordova-in-action-50-off-monday
 ---

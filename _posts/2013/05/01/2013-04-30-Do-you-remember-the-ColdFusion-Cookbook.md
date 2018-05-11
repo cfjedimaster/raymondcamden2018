@@ -2,8 +2,8 @@
 layout: post
 title: "Do you remember the ColdFusion Cookbook?"
 date: "2013-05-01T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2013/05/01/Do-you-remember-the-ColdFusion-Cookbook
 ---

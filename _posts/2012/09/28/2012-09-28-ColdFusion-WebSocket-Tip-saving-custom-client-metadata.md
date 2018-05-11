@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion WebSocket Tip - saving custom client metadata"
 date: "2012-09-28T11:09:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/28/ColdFusion-WebSocket-Tip-saving-custom-client-metadata
 ---

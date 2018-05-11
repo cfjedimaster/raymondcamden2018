@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusionCommunity.org Launches"
 date: "2007-11-10T19:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/10/ColdFusionCommunityorg-Launches
 ---

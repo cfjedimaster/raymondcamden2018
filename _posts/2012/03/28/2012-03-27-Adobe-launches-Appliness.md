@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe launches Appliness"
 date: "2012-03-28T10:03:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2012/03/28/Adobe-launches-Appliness
 ---

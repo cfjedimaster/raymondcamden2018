@@ -2,8 +2,8 @@
 layout: post
 title: "CFFEED Fixes in 8.0.1"
 date: "2008-04-04T09:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/04/CFFEED-Fixes-in-801
 ---

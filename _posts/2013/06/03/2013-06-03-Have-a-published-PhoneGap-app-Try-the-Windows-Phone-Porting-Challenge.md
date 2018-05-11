@@ -2,8 +2,8 @@
 layout: post
 title: "Have a published PhoneGap app? Try the Windows Phone Porting Challenge"
 date: "2013-06-03T17:06:00+06:00"
-categories: html5 mobile 
-tags: 
+categories: [html5,mobile]
+tags: []
 banner_image: 
 permalink: /2013/06/03/Have-a-published-PhoneGap-app-Try-the-Windows-Phone-Porting-Challenge
 ---

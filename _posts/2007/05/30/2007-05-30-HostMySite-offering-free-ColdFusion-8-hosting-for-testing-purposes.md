@@ -2,8 +2,8 @@
 layout: post
 title: "HostMySite offering free ColdFusion 8 hosting (for testing purposes)"
 date: "2007-05-30T12:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/30/HostMySite-offering-free-ColdFusion-8-hosting-for-testing-purposes
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Can you use string functions along with WDDX and JavaScript?"
 date: "2005-07-28T17:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/07/28/Ask-a-Jedi-Can-you-use-string-functions-along-with-WDDX-and-JavaScript
 ---

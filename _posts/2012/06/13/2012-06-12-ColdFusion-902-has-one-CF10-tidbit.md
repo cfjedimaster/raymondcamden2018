@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9.0.2 has one CF10 tidbit"
 date: "2012-06-13T08:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/06/13/ColdFusion-902-has-one-CF10-tidbit
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "IE issue with AjaxProxy"
 date: "2008-07-01T11:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/01/IE-issue-with-AjaxProxy
 ---

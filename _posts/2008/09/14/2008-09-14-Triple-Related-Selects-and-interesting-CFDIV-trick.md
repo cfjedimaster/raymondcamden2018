@@ -2,8 +2,8 @@
 layout: post
 title: "Triple Related Selects (and interesting CFDIV trick)"
 date: "2008-09-14T21:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/14/Triple-Related-Selects-and-interesting-CFDIV-trick
 ---

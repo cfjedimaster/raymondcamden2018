@@ -2,8 +2,8 @@
 layout: post
 title: "BFusion/BFlex Conference"
 date: "2009-10-19T11:10:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2009/10/19/BFusionBFlex-Conference
 ---

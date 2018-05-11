@@ -2,8 +2,8 @@
 layout: post
 title: "Tips for folks new to CFBuilder and the Eclipse Platform"
 date: "2010-03-26T16:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/03/26/Tips-for-folks-new-to-CFBuilder-and-the-Eclipse-Platform
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "If I'm going to use Eclipse for ColdFusion development, what packages do I need?"
 date: "2009-01-06T16:01:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2009/01/06/If-Im-going-to-use-Eclipse-for-ColdFusion-development-what-packages-do-I-need
 ---

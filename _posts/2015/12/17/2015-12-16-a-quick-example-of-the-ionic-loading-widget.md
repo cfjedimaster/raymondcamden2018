@@ -2,8 +2,8 @@
 layout: post
 title: "A quick example of the Ionic Loading Widget"
 date: "2015-12-17T09:36:46+06:00"
-categories: development javascript mobile 
-tags: ionic
+categories: [development,javascript,mobile]
+tags: [ionic]
 banner_image: 
 permalink: /2015/12/17/a-quick-example-of-the-ionic-loading-widget
 ---

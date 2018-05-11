@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge DNS"
 date: "2007-10-16T07:10:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/10/16/RIAForge-DNS
 ---

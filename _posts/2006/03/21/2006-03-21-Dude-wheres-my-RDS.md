@@ -2,8 +2,8 @@
 layout: post
 title: "Dude, where's my RDS?"
 date: "2006-03-21T13:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/03/21/Dude-wheres-my-RDS
 ---

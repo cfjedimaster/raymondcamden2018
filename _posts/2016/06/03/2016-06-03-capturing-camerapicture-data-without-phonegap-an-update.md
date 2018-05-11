@@ -2,8 +2,8 @@
 layout: post
 title: "Capturing camera/picture data without PhoneGap - An Update"
 date: "2016-06-03T14:41:00-07:00"
-categories: development 
-tags: javascript
+categories: [development]
+tags: [javascript]
 banner_image: 
 permalink: /2016/06/03/capturing-camerapicture-data-without-phonegap-an-update
 ---

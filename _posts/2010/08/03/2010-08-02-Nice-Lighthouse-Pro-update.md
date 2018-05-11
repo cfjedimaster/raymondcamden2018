@@ -2,8 +2,8 @@
 layout: post
 title: "Nice Lighthouse Pro update"
 date: "2010-08-03T09:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/08/03/Nice-Lighthouse-Pro-update
 ---

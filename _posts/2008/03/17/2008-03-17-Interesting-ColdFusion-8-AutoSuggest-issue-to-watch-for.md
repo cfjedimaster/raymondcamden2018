@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting ColdFusion 8, Auto-Suggest issue to watch for"
 date: "2008-03-17T14:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/03/17/Interesting-ColdFusion-8-AutoSuggest-issue-to-watch-for
 ---

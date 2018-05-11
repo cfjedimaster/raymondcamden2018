@@ -2,8 +2,8 @@
 layout: post
 title: "Better handling of missing files with your web application"
 date: "2011-03-11T09:03:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2011/03/11/Better-handling-of-missing-files-with-your-web-application
 ---

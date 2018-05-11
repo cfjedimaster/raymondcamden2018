@@ -2,8 +2,8 @@
 layout: post
 title: "Splitting up your ColdSpring.xml file in a Model-Glue Application"
 date: "2009-09-23T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/09/23/Splitting-up-your-ColdSpringxml-file-in-a-ModelGlue-Application
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Scraping a web page in Node with Cheerio"
 date: "2016-11-30T07:03:00-07:00"
-categories: javascript 
-tags: nodejs
+categories: [javascript]
+tags: [nodejs]
 banner_image: /images/banners/cheerio.jpg
 permalink: /2016/11/30/scraping-a-web-page-in-node-with-cheerio
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: CFCHART and Scaling to Decimal Points"
 date: "2009-03-30T14:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/03/30/Ask-a-Jedi-CFCHART-and-Scaling-to-Decimal-Points
 ---

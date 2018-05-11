@@ -2,8 +2,8 @@
 layout: post
 title: "Friday Puzzler: All Fish Must Die!"
 date: "2006-07-21T08:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/21/Friday-Puzzler-All-Fish-Must-Die
 ---

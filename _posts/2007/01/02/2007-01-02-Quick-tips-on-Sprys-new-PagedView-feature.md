@@ -2,8 +2,8 @@
 layout: post
 title: "Quick tips on Spry's new PagedView feature"
 date: "2007-01-02T17:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/01/02/Quick-tips-on-Sprys-new-PagedView-feature
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Coolest. Windows. Feature. Ever."
 date: "2007-05-15T10:05:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2007/05/15/Coolest-Windows-Feature-Ever
 ---

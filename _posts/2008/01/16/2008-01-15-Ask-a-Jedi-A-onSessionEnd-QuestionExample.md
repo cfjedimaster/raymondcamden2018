@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: A onSessionEnd Question/Example"
 date: "2008-01-16T06:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/16/Ask-a-Jedi-A-onSessionEnd-QuestionExample
 ---

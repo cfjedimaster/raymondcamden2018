@@ -2,8 +2,8 @@
 layout: post
 title: "Project updates"
 date: "2008-04-30T18:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/04/30/Project-updates
 ---

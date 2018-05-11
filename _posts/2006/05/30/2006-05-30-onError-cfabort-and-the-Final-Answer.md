@@ -2,8 +2,8 @@
 layout: post
 title: "onError, cfabort, and the Final Answer"
 date: "2006-05-30T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/30/onError-cfabort-and-the-Final-Answer
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Handling JSON with prefixes in jQuery and jQueryUI"
 date: "2011-11-08T09:11:00+06:00"
-categories: coldfusion javascript jquery 
-tags: 
+categories: [coldfusion,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/11/08/Handling-JSON-with-prefixes-in-jQuery-and-jQueryUI
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Example of Ajax-based address verification with ColdFusion and jQuery"
 date: "2010-07-16T18:07:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/07/16/Example-of-Ajaxbased-address-verification-with-ColdFusion-and-jQuery
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion News"
 date: "2012-12-19T11:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/12/19/ColdFusion-News
 ---

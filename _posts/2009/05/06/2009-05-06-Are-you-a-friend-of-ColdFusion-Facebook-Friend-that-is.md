@@ -2,8 +2,8 @@
 layout: post
 title: "Are you a friend of ColdFusion? (Facebook Friend that is...)"
 date: "2009-05-06T12:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/05/06/Are-you-a-friend-of-ColdFusion-Facebook-Friend-that-is
 ---

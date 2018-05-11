@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Form Validation with Selects"
 date: "2009-02-16T09:02:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2009/02/16/jQuery-Form-Validation-with-Selects
 ---

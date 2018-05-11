@@ -2,8 +2,8 @@
 layout: post
 title: "Flex Mobile and ColdFusion Sessions"
 date: "2011-07-28T17:07:00+06:00"
-categories: coldfusion flex mobile 
-tags: 
+categories: [coldfusion,flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/07/28/Flex-Mobile-and-ColdFusion-Sessions
 ---

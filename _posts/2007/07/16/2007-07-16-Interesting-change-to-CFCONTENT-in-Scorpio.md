@@ -2,8 +2,8 @@
 layout: post
 title: "Interesting change to CFCONTENT in Scorpio"
 date: "2007-07-16T22:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/07/16/Interesting-change-to-CFCONTENT-in-Scorpio
 ---

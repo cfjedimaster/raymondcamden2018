@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Getting a list of application names in ColdFusion"
 date: "2007-12-19T18:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/19/Ask-a-Jedi-Getting-a-list-of-application-names-in-ColdFusion
 ---

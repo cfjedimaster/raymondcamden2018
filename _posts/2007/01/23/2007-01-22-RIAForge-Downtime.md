@@ -2,8 +2,8 @@
 layout: post
 title: "RIAForge Downtime"
 date: "2007-01-23T07:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2007/01/23/RIAForge-Downtime
 ---

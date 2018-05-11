@@ -2,8 +2,8 @@
 layout: post
 title: "For your post-Christmas hangover, another CanIUse Mashup"
 date: "2012-12-26T10:12:00+06:00"
-categories: html5 
-tags: 
+categories: [html5]
+tags: []
 banner_image: 
 permalink: /2012/12/26/For-your-postChristmas-hangover-another-CanIUse-Mashup
 ---

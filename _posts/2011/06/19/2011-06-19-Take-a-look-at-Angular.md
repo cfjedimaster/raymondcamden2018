@@ -2,8 +2,8 @@
 layout: post
 title: "Take a look at Angular"
 date: "2011-06-19T16:06:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2011/06/19/Take-a-look-at-Angular
 ---

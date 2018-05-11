@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation tonight to the Connecticut CF User Group"
 date: "2008-07-09T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/07/09/Presentation-tonight-to-the-Connecticut-CF-User-Group
 ---

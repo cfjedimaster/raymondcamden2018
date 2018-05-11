@@ -2,8 +2,8 @@
 layout: post
 title: "Quick note about HTML5 Form validity and browser differences"
 date: "2013-12-19T08:12:00+06:00"
-categories: html5 javascript 
-tags: 
+categories: [html5,javascript]
+tags: []
 banner_image: 
 permalink: /2013/12/19/Quick-note-about-HTML5-Form-validity-and-browser-differences
 ---

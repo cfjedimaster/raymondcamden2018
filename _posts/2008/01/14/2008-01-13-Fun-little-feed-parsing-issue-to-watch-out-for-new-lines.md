@@ -2,8 +2,8 @@
 layout: post
 title: "Fun little feed parsing issue to watch out for - new lines!"
 date: "2008-01-14T10:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/01/14/Fun-little-feed-parsing-issue-to-watch-out-for-new-lines
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Presentation to the Scottish CFUG today a 2PM CST (Cool Standard Time)"
 date: "2007-01-18T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/18/Presentation-to-the-Scottish-CFUG-today-a-2PM-CST-Cool-Standard-Time
 ---

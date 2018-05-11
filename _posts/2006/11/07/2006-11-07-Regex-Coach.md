@@ -2,8 +2,8 @@
 layout: post
 title: "Regex Coach"
 date: "2006-11-07T22:11:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/11/07/Regex-Coach
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe TV Video - Debugging Tips for ColdFusion"
 date: "2011-11-08T21:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/11/08/Adobe-TV-Video-Debugging-Tips-for-ColdFusion
 ---

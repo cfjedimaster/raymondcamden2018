@@ -2,8 +2,8 @@
 layout: post
 title: "Did you know Adobe had a Product Security Incident Response blog?"
 date: "2009-07-04T10:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/04/Did-you-know-Adobe-had-a-Product-Security-Incident-Response-blog
 ---

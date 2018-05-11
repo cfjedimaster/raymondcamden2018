@@ -2,8 +2,8 @@
 layout: post
 title: "Recording and saving audio in Cordova applications"
 date: "2015-07-27T14:02:15+06:00"
-categories: development javascript mobile 
-tags: cordova
+categories: [development,javascript,mobile]
+tags: [cordova]
 banner_image: 
 permalink: /2015/07/27/recording-and-saving-audio-in-cordova-applications
 ---

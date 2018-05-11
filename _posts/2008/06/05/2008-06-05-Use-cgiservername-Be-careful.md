@@ -2,8 +2,8 @@
 layout: post
 title: "Use cgi.server_name? Be careful"
 date: "2008-06-05T15:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2008/06/05/Use-cgiservername-Be-careful
 ---

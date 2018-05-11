@@ -2,8 +2,8 @@
 layout: post
 title: "Downloading files to a PhoneGap application - Part 1"
 date: "2012-01-19T09:01:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/19/Downloading-files-to-a-PhoneGap-application-Part-1
 ---

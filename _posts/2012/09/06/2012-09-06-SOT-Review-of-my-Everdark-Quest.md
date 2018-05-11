@@ -2,8 +2,8 @@
 layout: post
 title: "SOT: Review of my Everdark Quest"
 date: "2012-09-06T12:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2012/09/06/SOT-Review-of-my-Everdark-Quest
 ---

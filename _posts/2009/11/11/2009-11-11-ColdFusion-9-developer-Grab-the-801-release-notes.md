@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion 9 developer? Grab the 8.0.1 release notes!"
 date: "2009-11-11T20:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/11/11/ColdFusion-9-developer-Grab-the-801-release-notes
 ---

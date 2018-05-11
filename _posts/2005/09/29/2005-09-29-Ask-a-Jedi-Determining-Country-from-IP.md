@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Determining Country from IP"
 date: "2005-09-29T18:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/09/29/Ask-a-Jedi-Determining-Country-from-IP
 ---

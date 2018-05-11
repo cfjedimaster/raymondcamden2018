@@ -2,8 +2,8 @@
 layout: post
 title: "Context Menu Example with jQuery Mobile"
 date: "2012-05-23T11:05:00+06:00"
-categories: development html5 javascript jquery mobile 
-tags: 
+categories: [development,html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/05/23/Context-Menu-Example-with-jQuery-Mobile
 ---

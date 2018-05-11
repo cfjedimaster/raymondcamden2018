@@ -2,8 +2,8 @@
 layout: post
 title: "Top 10 PHP Vulnerbalities (and why ColdFusion developers need to care)"
 date: "2006-06-14T09:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/06/14/Top-10-PHP-Vulnerbalities
 ---

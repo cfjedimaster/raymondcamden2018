@@ -2,8 +2,8 @@
 layout: post
 title: "Good article on computer languages and being practical"
 date: "2006-06-16T12:06:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2006/06/16/Good-article-on-computer-languages-and-being-practical
 ---

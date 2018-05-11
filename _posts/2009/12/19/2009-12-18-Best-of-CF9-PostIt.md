@@ -2,8 +2,8 @@
 layout: post
 title: "Best of CF9: PostIt"
 date: "2009-12-19T10:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/12/19/Best-of-CF9-PostIt
 ---

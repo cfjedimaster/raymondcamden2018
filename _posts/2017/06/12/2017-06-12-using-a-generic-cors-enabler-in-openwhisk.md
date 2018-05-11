@@ -2,8 +2,8 @@
 layout: post
 title: "Using a Generic CORS Enabler in OpenWhisk"
 date: "2017-06-12T14:44:00-07:00"
-categories: serverless 
-tags: openwhisk
+categories: [serverless]
+tags: [openwhisk]
 banner_image: 
 permalink: /2017/06/12/using-a-generic-cors-enabler-in-openwhisk
 ---

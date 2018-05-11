@@ -2,8 +2,8 @@
 layout: post
 title: "ADC: Real-world example of the HTML5 FileSystem API"
 date: "2012-05-01T11:05:00+06:00"
-categories: development html5 javascript 
-tags: 
+categories: [development,html5,javascript]
+tags: []
 banner_image: 
 permalink: /2012/05/01/ADC-Realworld-example-of-the-HTML5-FileSystem-API
 ---

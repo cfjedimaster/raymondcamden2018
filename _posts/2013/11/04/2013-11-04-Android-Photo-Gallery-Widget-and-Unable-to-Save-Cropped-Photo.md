@@ -2,8 +2,8 @@
 layout: post
 title: "Android, Photo Gallery Widget, and \"Unable to Save Cropped Photo\""
 date: "2013-11-04T18:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2013/11/04/Android-Photo-Gallery-Widget-and-Unable-to-Save-Cropped-Photo
 ---

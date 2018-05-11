@@ -2,8 +2,8 @@
 layout: post
 title: "Spry update on the way"
 date: "2008-02-20T15:02:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/02/20/Spry-update-on-the-way
 ---

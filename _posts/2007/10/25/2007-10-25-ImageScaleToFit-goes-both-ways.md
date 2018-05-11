@@ -2,8 +2,8 @@
 layout: post
 title: "ImageScaleToFit goes both ways"
 date: "2007-10-25T15:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/25/ImageScaleToFit-goes-both-ways
 ---

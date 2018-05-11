@@ -2,8 +2,8 @@
 layout: post
 title: "Model-Glue 3 - The New Frakin' Awesomeness"
 date: "2008-05-02T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/05/02/ModelGlue-3-The-New-Frakin-Awesomeness
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Important Model-Glue note, and CanvasWiki update"
 date: "2009-07-16T12:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/07/16/Important-ModelGlue-note-and-CanvasWiki-update
 ---

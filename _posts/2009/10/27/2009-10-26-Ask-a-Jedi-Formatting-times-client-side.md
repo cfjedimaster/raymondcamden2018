@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Formatting times client side"
 date: "2009-10-27T10:10:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2009/10/27/Ask-a-Jedi-Formatting-times-client-side
 ---

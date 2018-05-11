@@ -2,8 +2,8 @@
 layout: post
 title: "IMified Relaunches"
 date: "2008-09-11T18:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/09/11/IMified-Relaunches
 ---

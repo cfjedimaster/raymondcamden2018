@@ -2,8 +2,8 @@
 layout: post
 title: "Quick little regex example - Youtube video from URL"
 date: "2011-07-05T18:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/07/05/Quick-little-regex-example-Youtube-video-from-URL
 ---

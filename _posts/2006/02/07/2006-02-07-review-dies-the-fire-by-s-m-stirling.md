@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Dies the Fire by S. M. Stirling"
 date: "2006-02-07T12:02:00+06:00"
-categories: books 
-tags: 
+categories: [books]
+tags: []
 banner_image: 
 permalink: /2006/02/07/review-dies-the-fire-by-s-m-stirling
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Experiment - Build your own stock market AI"
 date: "2012-10-15T10:10:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2012/10/15/Experiment-Build-your-own-stock-market-AI
 ---

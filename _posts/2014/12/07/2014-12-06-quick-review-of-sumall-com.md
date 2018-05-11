@@ -2,8 +2,8 @@
 layout: post
 title: "Quick review of SumAll.com"
 date: "2014-12-07T10:20:29+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2014/12/07/quick-review-of-sumall-com
 ---

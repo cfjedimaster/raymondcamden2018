@@ -2,8 +2,8 @@
 layout: post
 title: "Watch out for the reserved event values in Model-Glue"
 date: "2007-05-22T17:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/22/Watch-out-for-the-reserved-event-values-in-ModelGlue
 ---

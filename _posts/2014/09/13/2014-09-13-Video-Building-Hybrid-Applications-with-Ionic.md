@@ -2,8 +2,8 @@
 layout: post
 title: "Video: Building Hybrid Applications with Ionic"
 date: "2014-09-13T12:09:00+06:00"
-categories: development html5 javascript mobile 
-tags: 
+categories: [development,html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/09/13/Video-Building-Hybrid-Applications-with-Ionic
 ---

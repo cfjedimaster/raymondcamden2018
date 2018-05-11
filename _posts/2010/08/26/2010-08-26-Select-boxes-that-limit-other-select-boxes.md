@@ -2,8 +2,8 @@
 layout: post
 title: "Select boxes that limit other select boxes"
 date: "2010-08-26T18:08:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/08/26/Select-boxes-that-limit-other-select-boxes
 ---

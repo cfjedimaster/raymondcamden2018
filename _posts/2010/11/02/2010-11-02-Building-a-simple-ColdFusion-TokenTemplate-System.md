@@ -2,8 +2,8 @@
 layout: post
 title: "Building a simple ColdFusion Token/Template System"
 date: "2010-11-02T13:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/11/02/Building-a-simple-ColdFusion-TokenTemplate-System
 ---

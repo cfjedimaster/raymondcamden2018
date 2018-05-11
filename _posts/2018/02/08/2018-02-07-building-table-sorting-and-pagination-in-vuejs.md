@@ -2,8 +2,8 @@
 layout: post
 title: "Building Table Sorting and Pagination in Vue.js"
 date: "2018-02-08"
-categories: javascript 
-tags: vuejs
+categories: [javascript]
+tags: [vuejs]
 banner_image: /images/banners/hannes-egler-369155.jpg
 permalink: /2018/02/08/building-table-sorting-and-pagination-in-vuejs
 ---

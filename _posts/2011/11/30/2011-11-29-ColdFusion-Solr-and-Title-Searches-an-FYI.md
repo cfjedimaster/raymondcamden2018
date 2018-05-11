@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion, Solr, and Title Searches - an FYI"
 date: "2011-11-30T09:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/11/30/ColdFusion-Solr-and-Title-Searches-an-FYI
 ---

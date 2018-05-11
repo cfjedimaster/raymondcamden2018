@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: CFINCLUDE versus CFMODULE"
 date: "2006-01-11T18:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/11/Ask-a-Jedi-CFINCLUDE-versus-CFMODULE
 ---

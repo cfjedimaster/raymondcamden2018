@@ -2,8 +2,8 @@
 layout: post
 title: "Using CF8 Ajax features to solve the 'pick one of thousands' issue"
 date: "2008-12-25T21:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/12/25/Using-CF8-Ajax-features-to-solve-the-pick-one-of-thousands-issue
 ---

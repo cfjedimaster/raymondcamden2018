@@ -2,8 +2,8 @@
 layout: post
 title: "Yes, you can cock fight, but you can't play GTA"
 date: "2006-06-16T18:06:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/06/16/Yes-you-can-cock-fight-but-you-cant-play-GTA
 ---

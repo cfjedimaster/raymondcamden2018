@@ -2,8 +2,8 @@
 layout: post
 title: "Video encoding with Zencoder"
 date: "2011-04-26T07:04:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2011/04/26/Video-encoding-with-Zencoder
 ---

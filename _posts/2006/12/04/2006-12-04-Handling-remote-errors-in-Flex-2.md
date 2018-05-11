@@ -2,8 +2,8 @@
 layout: post
 title: "Handling remote errors in Flex 2"
 date: "2006-12-04T21:12:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2006/12/04/Handling-remote-errors-in-Flex-2
 ---

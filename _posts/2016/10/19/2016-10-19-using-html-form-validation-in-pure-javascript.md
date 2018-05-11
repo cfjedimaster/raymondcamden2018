@@ -2,8 +2,8 @@
 layout: post
 title: "Using HTML Form Validation in Pure JavaScript"
 date: "2016-10-19T08:11:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2016/10/19/using-html-form-validation-in-pure-javascript
 ---

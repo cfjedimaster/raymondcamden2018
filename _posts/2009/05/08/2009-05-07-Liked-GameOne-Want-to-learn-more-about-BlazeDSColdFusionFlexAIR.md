@@ -2,8 +2,8 @@
 layout: post
 title: "Liked GameOne? Want to learn more about BlazeDS/ColdFusion/Flex/AIR?"
 date: "2009-05-08T10:05:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2009/05/08/Liked-GameOne-Want-to-learn-more-about-BlazeDSColdFusionFlexAIR
 ---

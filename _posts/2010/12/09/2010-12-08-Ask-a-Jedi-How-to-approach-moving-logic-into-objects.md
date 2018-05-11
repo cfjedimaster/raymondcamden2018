@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: How to approach moving logic into objects"
 date: "2010-12-09T09:12:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2010/12/09/Ask-a-Jedi-How-to-approach-moving-logic-into-objects
 ---

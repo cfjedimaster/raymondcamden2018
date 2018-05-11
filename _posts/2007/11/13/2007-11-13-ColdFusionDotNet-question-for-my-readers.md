@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion/DotNet question for my readers"
 date: "2007-11-13T14:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/11/13/ColdFusionDotNet-question-for-my-readers
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Happy New Year, and my thoughts on last and this year"
 date: "2008-01-01T08:01:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/01/01/Happy-New-Year-and-my-thoughts-on-last-and-this-year
 ---

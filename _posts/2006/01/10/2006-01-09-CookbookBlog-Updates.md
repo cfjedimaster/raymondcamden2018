@@ -2,8 +2,8 @@
 layout: post
 title: "Cookbook/Blog Updates"
 date: "2006-01-10T11:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/01/10/CookbookBlog-Updates
 ---

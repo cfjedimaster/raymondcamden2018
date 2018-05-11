@@ -2,8 +2,8 @@
 layout: post
 title: "Adding Referrer Protection to Webtasks"
 date: "2018-03-19"
-categories: serverless 
-tags: webtask
+categories: [serverless]
+tags: [webtask]
 banner_image: /images/banners/gate.jpg
 permalink: /2018/03/16/adding-referrer-protection-to-webtasks
 ---

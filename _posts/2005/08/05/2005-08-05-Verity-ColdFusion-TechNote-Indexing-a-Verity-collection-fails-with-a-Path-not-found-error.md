@@ -2,8 +2,8 @@
 layout: post
 title: "Verity ColdFusion TechNote: Indexing a Verity collection fails with a Path not found error"
 date: "2005-08-05T13:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2005/08/05/Verity-ColdFusion-TechNote-Indexing-a-Verity-collection-fails-with-a-Path-not-found-error
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Hosting static sites with Surge"
 date: "2015-03-04T16:02:12+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/03/04/hosting-static-sites-with-surge
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Crazy cool Chrome extension (and how to dig into the source)"
 date: "2015-04-21T09:40:04+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/04/21/crazy-cool-chrome-extension-and-how-to-dig-into-the-source
 ---

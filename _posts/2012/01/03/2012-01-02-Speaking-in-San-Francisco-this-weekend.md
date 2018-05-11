@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking in San Francisco this weekend"
 date: "2012-01-03T09:01:00+06:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/03/Speaking-in-San-Francisco-this-weekend
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Galleon updated - getTempDirectory issue"
 date: "2011-01-18T09:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/01/18/Galleon-updated-getTempDirectory-issue
 ---

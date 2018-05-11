@@ -2,8 +2,8 @@
 layout: post
 title: "Building a Twitter Search that highlights important tweets"
 date: "2011-11-21T12:11:00+06:00"
-categories: html5 javascript jquery 
-tags: 
+categories: [html5,javascript,jquery]
+tags: []
 banner_image: 
 permalink: /2011/11/21/Building-a-Twitter-Search-that-highlights-important-people
 ---

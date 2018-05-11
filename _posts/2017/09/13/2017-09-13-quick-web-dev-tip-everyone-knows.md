@@ -2,8 +2,8 @@
 layout: post
 title: "Quick Web Dev Tip Everyone Knows"
 date: "2017-09-13T08:59:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2017/09/13/quick-web-dev-tip-everyone-knows
 ---

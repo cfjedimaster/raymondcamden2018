@@ -2,8 +2,8 @@
 layout: post
 title: "Avoid those \"hidden\" features"
 date: "2007-08-28T10:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/08/28/Avoid-those-hidden-features
 ---

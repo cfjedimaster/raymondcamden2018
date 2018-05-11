@@ -2,8 +2,8 @@
 layout: post
 title: "Early Access to My Next Book - Apache Cordova in Action"
 date: "2014-11-25T08:11:00+06:00"
-categories: books html5 javascript mobile 
-tags: 
+categories: [books,html5,javascript,mobile]
+tags: []
 banner_image: 
 permalink: /2014/11/25/Early-Access-to-My-Next-Book-Apache-Cordova-in-Action
 ---

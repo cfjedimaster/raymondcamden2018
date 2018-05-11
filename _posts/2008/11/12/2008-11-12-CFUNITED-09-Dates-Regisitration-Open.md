@@ -2,8 +2,8 @@
 layout: post
 title: "CFUNITED 09 Dates, Regisitration Open"
 date: "2008-11-12T16:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/12/CFUNITED-09-Dates-Regisitration-Open
 ---

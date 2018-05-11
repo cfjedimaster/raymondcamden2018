@@ -2,8 +2,8 @@
 layout: post
 title: "Quick example of jQuery Templates"
 date: "2010-07-09T14:07:00+06:00"
-categories: coldfusion jquery 
-tags: 
+categories: [coldfusion,jquery]
+tags: []
 banner_image: 
 permalink: /2010/07/09/Quick-example-of-jQuery-Templates
 ---

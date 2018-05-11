@@ -2,8 +2,8 @@
 layout: post
 title: "Lighthouse Pro 2.4 Released (ColdFusion Bugtracker)"
 date: "2007-05-12T18:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/05/12/Lighthouse-Pro-24-Released-ColdFusion-Bugtracker
 ---

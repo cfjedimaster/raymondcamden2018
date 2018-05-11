@@ -2,8 +2,8 @@
 layout: post
 title: "There is a new ColdFusion Builder, right?"
 date: "2012-05-31T13:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/05/31/There-is-a-new-ColdFusion-Builder-right
 ---

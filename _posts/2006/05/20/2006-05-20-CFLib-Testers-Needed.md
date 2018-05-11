@@ -2,8 +2,8 @@
 layout: post
 title: "CFLib Testers Needed"
 date: "2006-05-20T16:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/20/CFLib-Testers-Needed
 ---

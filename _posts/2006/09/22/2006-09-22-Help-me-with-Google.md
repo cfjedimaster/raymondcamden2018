@@ -2,8 +2,8 @@
 layout: post
 title: "Help me with Google"
 date: "2006-09-22T12:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/09/22/Help-me-with-Google
 ---

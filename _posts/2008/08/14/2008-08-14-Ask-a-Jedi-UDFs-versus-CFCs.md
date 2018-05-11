@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: UDFs versus CFCs"
 date: "2008-08-14T22:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/14/Ask-a-Jedi-UDFs-versus-CFCs
 ---

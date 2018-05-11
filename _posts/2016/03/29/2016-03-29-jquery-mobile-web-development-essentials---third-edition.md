@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Mobile Web Development Essentials - Third Edition"
 date: "2016-03-29T07:46:00-07:00"
-categories: mobile 
-tags: 
+categories: [mobile]
+tags: []
 banner_image: 
 permalink: /2016/03/29/jquery-mobile-web-development-essentials-third-edition
 ---

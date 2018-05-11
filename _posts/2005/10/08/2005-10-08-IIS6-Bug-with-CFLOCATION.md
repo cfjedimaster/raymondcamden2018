@@ -2,8 +2,8 @@
 layout: post
 title: "IIS6 Bug with CFLOCATION"
 date: "2005-10-09T00:10:00+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2005/10/08/IIS6-Bug-with-CFLOCATION
 ---

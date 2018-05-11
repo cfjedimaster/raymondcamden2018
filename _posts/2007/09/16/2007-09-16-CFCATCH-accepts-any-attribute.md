@@ -2,8 +2,8 @@
 layout: post
 title: "CFCATCH accepts any attribute?"
 date: "2007-09-16T17:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/16/CFCATCH-accepts-any-attribute
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "The Dark Side of the iPhone?"
 date: "2008-08-04T18:08:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/08/04/The-Dark-Side-of-the-iPhone
 ---

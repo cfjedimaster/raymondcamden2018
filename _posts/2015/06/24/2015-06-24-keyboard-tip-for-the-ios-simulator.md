@@ -2,8 +2,8 @@
 layout: post
 title: "Keyboard Tip for the iOS Simulator"
 date: "2015-06-24T15:01:53+06:00"
-categories: development mobile 
-tags: 
+categories: [development,mobile]
+tags: []
 banner_image: 
 permalink: /2015/06/24/keyboard-tip-for-the-ios-simulator
 ---

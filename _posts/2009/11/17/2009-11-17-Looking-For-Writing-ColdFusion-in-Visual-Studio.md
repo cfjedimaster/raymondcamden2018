@@ -2,8 +2,8 @@
 layout: post
 title: "Looking For: Writing ColdFusion in Visual Studio"
 date: "2009-11-17T12:11:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2009/11/17/Looking-For-Writing-ColdFusion-in-Visual-Studio
 ---

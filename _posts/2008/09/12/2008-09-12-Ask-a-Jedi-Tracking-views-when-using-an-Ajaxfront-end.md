@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Tracking views when using an Ajax-front end"
 date: "2008-09-12T18:09:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/09/12/Ask-a-Jedi-Tracking-views-when-using-an-Ajaxfront-end
 ---

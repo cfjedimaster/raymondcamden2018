@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery 101 Presentation"
 date: "2009-04-07T22:04:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2009/04/07/jQuery-101-Presentation
 ---

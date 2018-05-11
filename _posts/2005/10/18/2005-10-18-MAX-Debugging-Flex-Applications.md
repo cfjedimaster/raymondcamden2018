@@ -2,8 +2,8 @@
 layout: post
 title: "MAX: Debugging Flex Applications"
 date: "2005-10-18T20:10:00+06:00"
-categories: flex 
-tags: 
+categories: [flex]
+tags: []
 banner_image: 
 permalink: /2005/10/18/MAX-Debugging-Flex-Applications
 ---

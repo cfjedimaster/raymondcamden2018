@@ -2,8 +2,8 @@
 layout: post
 title: "Guest Blog Post: Solr in a multi-instance setup"
 date: "2012-07-18T00:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/07/17/Guest-Blog-Post-Solr-in-a-multiinstance-setup
 ---

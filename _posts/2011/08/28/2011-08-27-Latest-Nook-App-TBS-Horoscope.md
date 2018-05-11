@@ -2,8 +2,8 @@
 layout: post
 title: "Latest Nook App - TBS Horoscope"
 date: "2011-08-28T09:08:00+06:00"
-categories: flex mobile 
-tags: 
+categories: [flex,mobile]
+tags: []
 banner_image: 
 permalink: /2011/08/28/Latest-Nook-App-TBS-Horoscope
 ---

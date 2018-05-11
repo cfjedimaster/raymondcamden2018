@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: jQuery versus Spry..."
 date: "2008-06-28T11:06:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2008/06/28/Ask-a-Jedi-jQuery-versus-Spry
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "These are not the search results you are lookin for..."
 date: "2008-03-30T16:03:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/03/30/These-are-not-the-search-results-you-are-lookin-for
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Code and Design of Gameone"
 date: "2009-04-26T22:04:00+06:00"
-categories: coldfusion flex 
-tags: 
+categories: [coldfusion,flex]
+tags: []
 banner_image: 
 permalink: /2009/04/26/Code-and-Design-of-Gameone
 ---

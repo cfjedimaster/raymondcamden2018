@@ -2,8 +2,8 @@
 layout: post
 title: "My first jQuery/AIR Application: Selecter Tester"
 date: "2009-04-16T18:04:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2009/04/16/My-first-jQueryAIR-Application-Selecter-Tester
 ---

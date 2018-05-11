@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Administrator Extension - Verity Searcher"
 date: "2007-10-17T16:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/10/17/ColdFusion-Administrator-Extension-Verity-Searcher
 ---

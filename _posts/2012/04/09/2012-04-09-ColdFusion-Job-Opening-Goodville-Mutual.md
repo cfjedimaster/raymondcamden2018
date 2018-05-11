@@ -2,8 +2,8 @@
 layout: post
 title: "ColdFusion Job Opening - Goodville Mutual"
 date: "2012-04-09T18:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/04/09/ColdFusion-Job-Opening-Goodville-Mutual
 ---

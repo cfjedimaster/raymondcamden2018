@@ -2,8 +2,8 @@
 layout: post
 title: "Additional (Free!) chapters from CFWACK posted"
 date: "2007-12-23T09:12:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/12/23/Additional-Free-chapters-from-CFWACK-posted
 ---

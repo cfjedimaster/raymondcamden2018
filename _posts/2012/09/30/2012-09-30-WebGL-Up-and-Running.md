@@ -2,8 +2,8 @@
 layout: post
 title: "WebGL: Up and Running"
 date: "2012-09-30T14:09:00+06:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/30/WebGL-Up-and-Running
 ---

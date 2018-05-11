@@ -2,8 +2,8 @@
 layout: post
 title: "This is ColdFusion - this is ColdFusion 100% in Script, on Bolt..."
 date: "2009-02-03T16:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/02/03/This-is-ColdFusion-this-is-ColdFusion-100-in-Script-on-Bolt
 ---

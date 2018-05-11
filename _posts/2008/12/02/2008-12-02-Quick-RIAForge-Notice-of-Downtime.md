@@ -2,8 +2,8 @@
 layout: post
 title: "Quick RIAForge Notice of Downtime"
 date: "2008-12-02T14:12:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/12/02/Quick-RIAForge-Notice-of-Downtime
 ---

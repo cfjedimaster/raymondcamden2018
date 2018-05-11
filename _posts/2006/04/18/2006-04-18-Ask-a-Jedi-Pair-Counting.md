@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Pair Counting"
 date: "2006-04-18T15:04:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/04/18/Ask-a-Jedi-Pair-Counting
 ---

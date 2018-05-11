@@ -2,8 +2,8 @@
 layout: post
 title: "AngularJS IndexedDB Demo"
 date: "2014-02-07T11:02:00+06:00"
-categories: development javascript 
-tags: 
+categories: [development,javascript]
+tags: []
 banner_image: 
 permalink: /2014/02/07/AngularJS-IndexedDB-Demo
 ---

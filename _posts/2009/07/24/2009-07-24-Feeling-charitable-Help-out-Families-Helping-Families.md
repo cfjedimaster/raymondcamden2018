@@ -2,8 +2,8 @@
 layout: post
 title: "Feeling charitable? Help out Families Helping Families"
 date: "2009-07-24T14:07:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2009/07/24/Feeling-charitable-Help-out-Families-Helping-Families
 ---

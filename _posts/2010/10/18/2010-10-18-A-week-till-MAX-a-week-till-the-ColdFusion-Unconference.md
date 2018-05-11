@@ -2,8 +2,8 @@
 layout: post
 title: "A week till MAX - a week till the ColdFusion Unconference"
 date: "2010-10-18T18:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/10/18/A-week-till-MAX-a-week-till-the-ColdFusion-Unconference
 ---

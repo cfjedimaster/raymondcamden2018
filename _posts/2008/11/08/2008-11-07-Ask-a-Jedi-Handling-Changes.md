@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Handling Changes"
 date: "2008-11-08T10:11:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/11/08/Ask-a-Jedi-Handling-Changes
 ---

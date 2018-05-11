@@ -2,8 +2,8 @@
 layout: post
 title: "What is your favorite Java class to use with ColdFusion?"
 date: "2009-04-27T15:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2009/04/27/What-is-your-favorite-Java-class-to-use-with-ColdFusion
 ---

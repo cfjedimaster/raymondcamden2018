@@ -2,8 +2,8 @@
 layout: post
 title: "Demo of Color Palettes and PhoneGap"
 date: "2012-01-13T13:01:00+06:00"
-categories: html5 javascript jquery mobile 
-tags: 
+categories: [html5,javascript,jquery,mobile]
+tags: []
 banner_image: 
 permalink: /2012/01/13/Demo-of-Color-Palettes-and-PhoneGap
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Error thowing and cfthrow"
 date: "2006-05-02T10:05:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/05/02/Ask-a-Jedi-Error-thowing-and-cfthrow
 ---

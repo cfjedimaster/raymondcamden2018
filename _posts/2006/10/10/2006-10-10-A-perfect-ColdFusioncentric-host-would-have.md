@@ -2,8 +2,8 @@
 layout: post
 title: "A perfect ColdFusion-centric host would have..."
 date: "2006-10-10T16:10:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2006/10/10/A-perfect-ColdFusioncentric-host-would-have
 ---

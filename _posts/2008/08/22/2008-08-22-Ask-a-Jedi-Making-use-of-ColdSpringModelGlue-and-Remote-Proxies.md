@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Making use of ColdSpring/Model-Glue and Remote Proxies"
 date: "2008-08-22T17:08:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/08/22/Ask-a-Jedi-Making-use-of-ColdSpringModelGlue-and-Remote-Proxies
 ---

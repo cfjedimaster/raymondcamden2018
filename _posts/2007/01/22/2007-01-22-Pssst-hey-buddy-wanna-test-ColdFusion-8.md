@@ -2,8 +2,8 @@
 layout: post
 title: "Pssst - hey buddy - wanna test ColdFusion 8?"
 date: "2007-01-22T18:01:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/01/22/Pssst-hey-buddy-wanna-test-ColdFusion-8
 ---

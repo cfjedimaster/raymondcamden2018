@@ -2,8 +2,8 @@
 layout: post
 title: "NCDevCon Resources"
 date: "2012-09-30T11:09:00+06:00"
-categories: coldfusion javascript 
-tags: 
+categories: [coldfusion,javascript]
+tags: []
 banner_image: 
 permalink: /2012/09/30/NCDevCon-Resources
 ---

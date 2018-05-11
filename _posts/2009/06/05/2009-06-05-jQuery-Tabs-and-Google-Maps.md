@@ -2,8 +2,8 @@
 layout: post
 title: "jQuery Tabs and Google Maps"
 date: "2009-06-05T14:06:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2009/06/05/jQuery-Tabs-and-Google-Maps
 ---

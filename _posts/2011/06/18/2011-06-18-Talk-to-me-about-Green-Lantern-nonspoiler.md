@@ -2,8 +2,8 @@
 layout: post
 title: "Talk to me about Green Lantern (non-spoiler)"
 date: "2011-06-18T22:06:00+06:00"
-categories: movies 
-tags: 
+categories: [movies]
+tags: []
 banner_image: 
 permalink: /2011/06/18/Talk-to-me-about-Green-Lantern-nonspoiler
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "All the cool kids are going to MAX - are you?"
 date: "2006-10-13T14:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/10/13/All-the-cool-kids-are-going-to-MAX-are-you
 ---

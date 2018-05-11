@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Disabling form submission when using ColdFusion Ajax Binding"
 date: "2010-07-10T19:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/07/10/Ask-a-Jedi-Disabling-form-submission-when-using-ColdFusion-Ajax-Binding
 ---

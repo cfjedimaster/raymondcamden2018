@@ -2,8 +2,8 @@
 layout: post
 title: "Quick DevTools Tip - what is still trying to load?"
 date: "2016-10-17T14:46:00-07:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2016/10/17/quick-devtools-tip-what-is-still-trying-to-load
 ---

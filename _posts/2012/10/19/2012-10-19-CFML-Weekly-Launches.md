@@ -2,8 +2,8 @@
 layout: post
 title: "CFML Weekly Launches"
 date: "2012-10-19T11:10:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2012/10/19/CFML-Weekly-Launches
 ---

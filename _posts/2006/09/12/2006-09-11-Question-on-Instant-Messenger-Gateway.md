@@ -2,8 +2,8 @@
 layout: post
 title: "Question on Instant Messenger Gateway"
 date: "2006-09-12T08:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/09/12/Question-on-Instant-Messenger-Gateway
 ---

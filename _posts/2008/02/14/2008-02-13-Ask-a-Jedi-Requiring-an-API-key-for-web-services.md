@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Requiring an API key for web services"
 date: "2008-02-14T09:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/02/14/Ask-a-Jedi-Requiring-an-API-key-for-web-services
 ---

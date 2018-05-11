@@ -2,8 +2,8 @@
 layout: post
 title: "Working with the Disqus API - Deeper Stats (2)"
 date: "2016-08-25T10:04:00-07:00"
-categories: javascript 
-tags: 
+categories: [javascript]
+tags: []
 banner_image: /images/banners/disqus_api.jpg
 permalink: /2016/08/25/working-with-the-disqus-api-deeper-stats-2
 ---

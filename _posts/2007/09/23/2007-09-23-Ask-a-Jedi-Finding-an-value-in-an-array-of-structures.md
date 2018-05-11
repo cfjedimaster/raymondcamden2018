@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Finding an value in an array of structures"
 date: "2007-09-23T13:09:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2007/09/23/Ask-a-Jedi-Finding-an-value-in-an-array-of-structures
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Important ColdFire security update"
 date: "2008-02-06T20:02:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2008/02/06/Important-ColdFire-security-update
 ---

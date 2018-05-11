@@ -2,8 +2,8 @@
 layout: post
 title: "Helping orphans in Iraq"
 date: "2007-07-10T12:07:00+06:00"
-categories: adoption 
-tags: 
+categories: [adoption]
+tags: []
 banner_image: 
 permalink: /2007/07/10/Helping-orphans-in-Iraq
 ---

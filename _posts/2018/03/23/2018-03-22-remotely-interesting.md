@@ -2,8 +2,8 @@
 layout: post
 title: "Remotely Interesting"
 date: "2018-03-23"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: /images/banners/remotelyinteresting.jpg
 permalink: /2018/03/23/remotely-interesting
 ---

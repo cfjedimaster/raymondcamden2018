@@ -2,8 +2,8 @@
 layout: post
 title: "Adobe ColdFusion 2016 Released"
 date: "2016-02-16"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2016/02/16/adobe-coldfusion-2016-released
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: jQuery or ColdFusion 8 Ajax? Or both?"
 date: "2009-02-11T15:02:00+06:00"
-categories: jquery 
-tags: 
+categories: [jquery]
+tags: []
 banner_image: 
 permalink: /2009/02/11/Ask-a-Jedi-jQuery-or-ColdFusion-8-Ajax-Or-both
 ---

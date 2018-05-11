@@ -2,8 +2,8 @@
 layout: post
 title: "Geek the Tube"
 date: "2006-11-06T22:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/11/06/Geek-the-Tube
 ---

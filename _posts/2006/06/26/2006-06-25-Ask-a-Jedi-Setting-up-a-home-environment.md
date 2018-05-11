@@ -2,8 +2,8 @@
 layout: post
 title: "Ask a Jedi: Setting up a home environment"
 date: "2006-06-26T10:06:00+06:00"
-categories: coldfusion development 
-tags: 
+categories: [coldfusion,development]
+tags: []
 banner_image: 
 permalink: /2006/06/26/Ask-a-Jedi-Setting-up-a-home-environment
 ---

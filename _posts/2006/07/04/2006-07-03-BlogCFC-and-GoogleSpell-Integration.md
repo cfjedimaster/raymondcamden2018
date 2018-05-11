@@ -2,8 +2,8 @@
 layout: post
 title: "BlogCFC and GoogleSpell Integration"
 date: "2006-07-04T09:07:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2006/07/04/BlogCFC-and-GoogleSpell-Integration
 ---

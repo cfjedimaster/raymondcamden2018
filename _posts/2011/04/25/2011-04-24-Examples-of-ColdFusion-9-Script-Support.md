@@ -2,8 +2,8 @@
 layout: post
 title: "Examples of ColdFusion 9 Script Support"
 date: "2011-04-25T10:04:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2011/04/25/Examples-of-ColdFusion-9-Script-Support
 ---

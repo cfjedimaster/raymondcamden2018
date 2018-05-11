@@ -2,8 +2,8 @@
 layout: post
 title: "Upcoming Presentation: Static site generators: Why use them and how they work"
 date: "2015-08-25T22:27:58+06:00"
-categories: development 
-tags: 
+categories: [development]
+tags: []
 banner_image: 
 permalink: /2015/08/25/upcoming-presentation-static-site-generators-why-use-them-and-how-they-work
 ---

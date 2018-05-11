@@ -2,8 +2,8 @@
 layout: post
 title: "MAX Videos to be available... to all"
 date: "2008-11-24T12:11:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2008/11/24/MAX-Videos-to-be-available-to-all
 ---

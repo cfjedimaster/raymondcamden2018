@@ -2,8 +2,8 @@
 layout: post
 title: "Quick look at Visustin"
 date: "2010-06-09T10:06:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2010/06/09/Quick-look-at-Visustin
 ---

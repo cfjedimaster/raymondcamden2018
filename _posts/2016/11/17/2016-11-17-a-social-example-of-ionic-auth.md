@@ -2,8 +2,8 @@
 layout: post
 title: "A Social Example of Ionic Auth"
 date: "2016-11-17T08:38:00-07:00"
-categories: mobile 
-tags: ionic
+categories: [mobile]
+tags: [ionic]
 banner_image: /images/banners/socialauth.jpg
 permalink: /2016/11/17/a-social-example-of-ionic-auth
 ---

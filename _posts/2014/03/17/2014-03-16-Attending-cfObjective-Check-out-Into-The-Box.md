@@ -2,8 +2,8 @@
 layout: post
 title: "Attending cfObjective? Check out Into The Box"
 date: "2014-03-17T09:03:00+06:00"
-categories: coldfusion 
-tags: 
+categories: [coldfusion]
+tags: []
 banner_image: 
 permalink: /2014/03/17/Attending-cfObjective-Check-out-Into-The-Box
 ---

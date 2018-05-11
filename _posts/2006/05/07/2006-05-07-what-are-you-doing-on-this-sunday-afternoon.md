@@ -2,8 +2,8 @@
 layout: post
 title: "What are you doing on this Sunday afternoon?"
 date: "2006-05-07T14:05:00+06:00"
-categories: misc 
-tags: 
+categories: [misc]
+tags: []
 banner_image: 
 permalink: /2006/05/07/what-are-you-doing-on-this-sunday-afternoon
 ---
