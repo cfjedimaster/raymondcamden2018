@@ -4,6 +4,8 @@ title: "CFMAP and Centering"
 date: "2009-12-27T19:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/27/CFMAP-and-Centering
 ---
 
 For a while now I've had two line items in my "To write about" notebook. They concerned figuring out how to use CFMAP (and Google Maps in general) to center the map on an address. Out of the box you have an immediate address that acts as the center, but I wanted to see how the center could be changed post map load. 
@@ -242,7 +244,7 @@ And finally, I decided to get crazy. I knew that Google's Streetview stuff was p
 <p/>
 
 <code>
-panoramaOptions = { latlng:point };
+panoramaOptions = {% raw %}{ latlng:point }{% endraw %};
 var myPano = new GStreetviewPanorama(document.getElementById("streetView"), panoramaOptions);
 </code>
 <p/>

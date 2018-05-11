@@ -4,6 +4,8 @@ title: "Building a simple ColdFusion Token/Template System"
 date: "2010-11-02T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/11/02/Building-a-simple-ColdFusion-TokenTemplate-System
 ---
 
 As ColdFusion developers, we build a lot of different types of applications. For the most part though these apps come down to simple content management systems. We build out forms and let our clients enter blocks of text that then get put together nicely on the front end. While the actual view of the application is dynamic, typically the text itself is rather static. So for example, this blog post comprises a title and a body, and is certainly dynamic when viewed by the public, but the actual words themselves are just straight text. Sometimes we need to provide a way to add an additional level of dynamicness (yes, I know that isn't a word, but I'm going for it anyway). A great example of this is an email template. Your web site may send out emails to users on a weekly schedule. The text of the email may need to include customization. It may want to say something like, "Hello #name#", where name is the person receiving the email. You can do this quite easily in ColdFusion, but what if the client wants more control over the text? What if they want to change "Hello" to "Hiya" or perhaps add a ! after the name? This is where a simple token/template system can come in handy. Here is a quick UDF I built with a few sample uses of it. (And by the way, I'm pretty sure I've blogged about this before in the past few years, but it was on my mind this week so I thought I'd whip out another example.)
@@ -15,23 +17,23 @@ To begin - let's look at a simple template. You can imagine our client editing t
 <p>
 
 <code>
-Hello {name},
+Hello {% raw %}{name}{% endraw %},
 
-Thank you for signing up for our {newslettertype} news list.
-Every day we will send you new and exciting emails about {producttype}.
+Thank you for signing up for our {% raw %}{newslettertype}{% endraw %} news list.
+Every day we will send you new and exciting emails about {% raw %}{producttype}{% endraw %}.
 
 Thank you, 
-{source}
+{% raw %}{source}{% endraw %}
 </code>
 
 <p>
 
-I've decided on the use of { and } to wrap the dynamic aspects of the template. Any character could be used really but you want something that stands out from the rest of the text. Now that we've got a block of text, we need to create a ColdFusion UDF that will:
+I've decided on the use of {% raw %}{ and }{% endraw %} to wrap the dynamic aspects of the template. Any character could be used really but you want something that stands out from the rest of the text. Now that we've got a block of text, we need to create a ColdFusion UDF that will:
 
 <p>
 
 <ul>
-<li>Look for and find all the {...} strings in the text
+<li>Look for and find all the {% raw %}{...}{% endraw %} strings in the text
 <li>Accept data in that contains the "real" values for those tokens
 <li>Replace the tokens with real data and return the string
 </ul>
@@ -53,25 +55,25 @@ Here is the UDF I came up with. It is a bit complex so I'll go into the design d
 	&lt;!--- first, find tokens in the string so we know what we can recognize ---&gt;
 	&lt;!--- note that we will use a list, which means we wouldn't support a token with a comma in it, which is fair I think ---&gt;
 	&lt;cfset var knownTokens = ""&gt;
-	&lt;cfset var matches = reMatch("{.+?}", arguments.string)&gt;
+	&lt;cfset var matches = reMatch("{% raw %}{.+?}{% endraw %}", arguments.string)&gt;
 	&lt;cfset var match = ""&gt;
 	
 	&lt;cfloop index="match" array="#matches#"&gt;
-		&lt;cfset knownTokens = listAppend(knownTokens, replaceList(match, "{,}",""))&gt;
+		&lt;cfset knownTokens = listAppend(knownTokens, replaceList(match, "{% raw %}{,}{% endraw %}",""))&gt;
 	&lt;/cfloop&gt;
 
 	&lt;!--- based on our data, do different things ---&gt;
 	&lt;cfif isStruct(arguments.data)&gt;
 		&lt;cfset var thisResult = arguments.string&gt;
 		&lt;cfloop index="token" list="#knownTokens#"&gt;
-			&lt;cfset thisResult = rereplace(thisResult, "{" & token & "}", arguments.data[token], "all")&gt;
+			&lt;cfset thisResult = rereplace(thisResult, "{% raw %}{" & token & "}{% endraw %}", arguments.data[token], "all")&gt;
 		&lt;/cfloop&gt;
 		&lt;cfset arrayAppend(result, thisResult)&gt;
 	&lt;cfelseif isArray(arguments.data)&gt;
 		&lt;cfloop index="item" array="#arguments.data#"&gt;
 			&lt;cfset var thisResult = arguments.string&gt;
 			&lt;cfloop index="token" list="#knownTokens#"&gt;
-				&lt;cfset thisResult = rereplace(thisResult, "{" & token & "}", item[token], "all")&gt;
+				&lt;cfset thisResult = rereplace(thisResult, "{% raw %}{" & token & "}{% endraw %}", item[token], "all")&gt;
 			&lt;/cfloop&gt;
 			&lt;cfset arrayAppend(result, thisResult)&gt;
 		&lt;/cfloop&gt;
@@ -80,7 +82,7 @@ Here is the UDF I came up with. It is a bit complex so I'll go into the design d
 		&lt;cfloop query="arguments.data"&gt;
 			&lt;cfset var thisResult = arguments.string&gt;
 			&lt;cfloop index="token" list="#knownTokens#"&gt;
-				&lt;cfset thisResult = rereplace(thisResult, "{" & token & "}", arguments.data[token][currentRow], "all")&gt;
+				&lt;cfset thisResult = rereplace(thisResult, "{% raw %}{" & token & "}{% endraw %}", arguments.data[token][currentRow], "all")&gt;
 			&lt;/cfloop&gt;
 			&lt;cfset arrayAppend(result, thisResult)&gt;
 		&lt;/cfloop&gt;
@@ -103,16 +105,16 @@ I begin by getting all my tokens. This is done with (edited a bit):
 <p>
 
 <code>
-&lt;cfset matches = reMatch("{.+?}", arguments.string)&gt;
+&lt;cfset matches = reMatch("{% raw %}{.+?}{% endraw %}", arguments.string)&gt;
 	
 &lt;cfloop index="match" array="#matches#"&gt;
-	&lt;cfset knownTokens = listAppend(knownTokens, replaceList(match, "{,}",""))&gt;
+	&lt;cfset knownTokens = listAppend(knownTokens, replaceList(match, "{% raw %}{,}{% endraw %}",""))&gt;
 &lt;/cfloop&gt;
 </code>
 
 <p>
 
-The reMatch finds all the {...} tokens and the loop removes the {} from them. Once I have that, I then split into a branch that handles my three types of data. In all cases though we assume that if you have a token for foo, you have data for foo. I don't care if you send me more data than I need, but I do care if you don't have data for one of my tokens. Right now if you make that mistake, you get an ugly error, but the UDF could be updated to make it more explicit.
+The reMatch finds all the {% raw %}{...}{% endraw %} tokens and the loop removes the {} from them. Once I have that, I then split into a branch that handles my three types of data. In all cases though we assume that if you have a token for foo, you have data for foo. I don't care if you send me more data than I need, but I do care if you don't have data for one of my tokens. Right now if you make that mistake, you get an ugly error, but the UDF could be updated to make it more explicit.
 
 <p>
 
@@ -124,13 +126,13 @@ So, let's look at a complete example:
 
 &lt;!--- Our template ---&gt;
 &lt;cfsavecontent variable="template"&gt;
-Hello {name},
+Hello {% raw %}{name}{% endraw %},
 
-Thank you for signing up for our {newslettertype} news list.
-Every day we will send you new and exciting emails about {producttype}.
+Thank you for signing up for our {% raw %}{newslettertype}{% endraw %} news list.
+Every day we will send you new and exciting emails about {% raw %}{producttype}{% endraw %}.
 
 Thank you, 
-{source}
+{% raw %}{source}{% endraw %}
 &lt;/cfsavecontent&gt;
 
 &lt;!--- Our sample data ---&gt;
@@ -161,12 +163,12 @@ Thank you,
 &lt;cfdump var="#results#" label="Query Test"&gt;
 &lt;p/&gt;
 
-&lt;cfset s = {name="Luke", newslettertype="Lightsabers", producttype="swords", source="The Empire"}&gt;
+&lt;cfset s = {% raw %}{name="Luke", newslettertype="Lightsabers", producttype="swords", source="The Empire"}{% endraw %}&gt;
 &lt;cfset results = tokenReplace(template, s)&gt;
 &lt;cfdump var="#results#" label="Struct Test"&gt;
 &lt;p/&gt;
 
-&lt;cfset s2 = {name="Scott", newslettertype="Beers", producttype="beer", source="The Beer Industry"}&gt;
+&lt;cfset s2 = {% raw %}{name="Scott", newslettertype="Beers", producttype="beer", source="The Beer Industry"}{% endraw %}&gt;
 &lt;cfset array = [s,s2]&gt;
 &lt;cfset results = tokenReplace(template, array)&gt;
 &lt;cfdump var="#results#" label="Array Test"&gt;

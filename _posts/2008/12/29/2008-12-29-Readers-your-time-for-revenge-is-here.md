@@ -4,6 +4,8 @@ title: "Readers - your time for revenge is here..."
 date: "2008-12-29T16:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/12/29/Readers-your-time-for-revenge-is-here
 ---
 
 Ok, forgive the overly dramatic title. This week will be a bit slow for blogging. I'm off work and just puttering round with the wife and kids doing, well, nothing much, which is pretty fun. (Although I'm doing some fun updates to <a href="http://soundings.riaforge.org">Soundings</a>.) I have a favor to ask of my readers and I hope you guys can help.

@@ -4,6 +4,8 @@ title: "Timing out users by role in a ColdFusion Application"
 date: "2014-10-08T12:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2014/10/08/Timing-out-users-by-role-in-a-ColdFusion-Application
 ---
 
 <p>
@@ -126,16 +128,16 @@ I do want to share the userService now as it is a tiny bit more complex. It now 
 	public struct function authenticate(required string username, required string password) {
 		&#x2F;&#x2F;admin:admin
 		if(username == &quot;admin&quot; &amp;&amp; password == &quot;admin&quot;) {
-			return { id:1, role:&quot;admin&quot;, status:true};	
+			return {% raw %}{ id:1, role:&quot;admin&quot;, status:true}{% endraw %};	
 		}
 		if(username == &quot;user&quot; &amp;&amp; password == &quot;user&quot;) {
-			return { id:2, role:&quot;user&quot;, status:true};	
+			return {% raw %}{ id:2, role:&quot;user&quot;, status:true}{% endraw %};	
 		}
-		return { status:false };
+		return {% raw %}{ status:false }{% endraw %};
 	}	
 }
 </code></pre>
 
 <p>
 Anyway, I hope this is useful. I've included both versions as an attachment to this blog entry.
-</p><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2Fdifferenttimeoutexample%2Ezip'>Download attached file.</a></p>
+</p><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2013%{% endraw %}2Eraymondcamden{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fdifferenttimeoutexample%{% endraw %}2Ezip'>Download attached file.</a></p>

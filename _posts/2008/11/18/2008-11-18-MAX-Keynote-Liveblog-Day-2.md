@@ -4,6 +4,8 @@ title: "MAX Keynote Liveblog - Day 2"
 date: "2008-11-18T13:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/11/18/MAX-Keynote-Liveblog-Day-2
 ---
 
 Woot, any presentation that begins with Tim Buntel is going to kick butt. They re doing a 'spy spoof' thing now with Lynch as the chief. Way to start a keynote Adobe!

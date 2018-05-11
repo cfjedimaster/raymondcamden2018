@@ -4,6 +4,8 @@ title: "ColdFusion/Spry Kit Proof of Concept"
 date: "2006-11-02T21:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/02/ColdFusionSpry-Kit-Proof-of-Concept
 ---
 
 So - in case folks are curious - I now have both a dishwasher and the Internet back at my house. I feel like I've returned to the modern world. (Yes, I'm spoiled.)

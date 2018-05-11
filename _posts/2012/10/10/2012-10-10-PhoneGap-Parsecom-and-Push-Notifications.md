@@ -4,6 +4,8 @@ title: "PhoneGap, Parse.com, and Push Notifications"
 date: "2012-10-10T17:10:00+06:00"
 categories: JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2012/10/10/PhoneGap-Parsecom-and-Push-Notifications
 ---
 
 <b>Edit on March 7, 2013: Please read this <a href="http://www.raymondcamden.com/index.cfm/2013/3/7/Testing-PhoneGap-Parse-and-Push-Read-This">blog entry</a>.</b> 
@@ -42,7 +44,7 @@ Ok, now you need to get into the Java a bit. When you created your application, 
 
 <b>Do not worry about the com.borismus.webintent folder. You will not have it yet and we'll come to that later.</b>
 
-You don't normally need to edit this file if you use the AppLaud plugin. If you built the project by hand following the <a href="http://docs.phonegap.com/en/2.1.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android">PhoneGap Android guide</a> then you have already worked with this file a bit.
+You don't normally need to edit this file if you use the AppLaud plugin. If you built the project by hand following the <a href="http://docs.phonegap.com/en/2.1.0/guide_getting-started_android_index.md.html#Getting{% raw %}%20Started%{% endraw %}20with%20Android">PhoneGap Android guide</a> then you have already worked with this file a bit.
 
 Get this file open, and do the following:
 

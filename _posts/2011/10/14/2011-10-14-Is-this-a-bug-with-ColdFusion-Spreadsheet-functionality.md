@@ -4,6 +4,8 @@ title: "Is this a bug with ColdFusion Spreadsheet functionality?"
 date: "2011-10-14T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/10/14/Is-this-a-bug-with-ColdFusion-Spreadsheet-functionality
 ---
 
 A user reported an odd bug to me, and as I've not done a lot with cfspreadsheet, I thought I'd share what we both saw and see if others agree that it is a bug. Take a simple Excel file with a few sheets in it.

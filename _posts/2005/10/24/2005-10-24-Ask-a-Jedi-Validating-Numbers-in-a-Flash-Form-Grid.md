@@ -4,6 +4,8 @@ title: "Ask a Jedi: Validating Numbers in a Flash Form Grid"
 date: "2005-10-24T18:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/24/Ask-a-Jedi-Validating-Numbers-in-a-Flash-Form-Grid
 ---
 
 A reader asks:

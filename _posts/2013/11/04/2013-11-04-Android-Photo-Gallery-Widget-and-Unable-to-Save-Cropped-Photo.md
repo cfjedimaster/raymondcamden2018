@@ -4,6 +4,8 @@ title: "Android, Photo Gallery Widget, and \"Unable to Save Cropped Photo\""
 date: "2013-11-04T18:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2013/11/04/Android-Photo-Gallery-Widget-and-Unable-to-Save-Cropped-Photo
 ---
 
 <p>
@@ -23,7 +25,7 @@ Unable to save cropped photo
 </p>
 
 <pre><code class="language-markup">
-11-04 15:32:32.988: W/ActivityManager(519): Permission Denial: opening provider com.android.gallery3d.provider.GalleryProvider from ProcessRecord{423d6d10 910:com.google.android.gms/u0a10021} (pid=910, uid=10021) requires com.google.android.gallery3d.permission.GALLERY_PROVIDER or com.google.android.gallery3d.permission.GALLERY_PROVIDER 
+11-04 15:32:32.988: W/ActivityManager(519): Permission Denial: opening provider com.android.gallery3d.provider.GalleryProvider from ProcessRecord{% raw %}{423d6d10 910:com.google.android.gms/u0a10021}{% endraw %} (pid=910, uid=10021) requires com.google.android.gallery3d.permission.GALLERY_PROVIDER or com.google.android.gallery3d.permission.GALLERY_PROVIDER 
 </code></pre>
 
 <p>

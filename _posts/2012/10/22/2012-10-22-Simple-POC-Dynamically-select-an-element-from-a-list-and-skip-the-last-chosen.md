@@ -4,6 +4,8 @@ title: "Simple POC - Dynamically select an element from a list and skip the last
 date: "2012-10-22T18:10:00+06:00"
 categories: HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2012/10/22/Simple-POC-Dynamically-select-an-element-from-a-list-and-skip-the-last-chosen
 ---
 
 Pardon the super-long title up there. This is based on a simple StackOverflow question from today (<a href="http://stackoverflow.com/questions/13015128/select-random-list-item-and-add-class">Select random list item and add class</a>) based on a simple premise: Given a set of tags, how would you remove a class from one of them and dynamically re-apply it to another one chosen by random?

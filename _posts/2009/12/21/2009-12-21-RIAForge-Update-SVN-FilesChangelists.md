@@ -4,6 +4,8 @@ title: "RIAForge Update - SVN Files/Changelists"
 date: "2009-12-21T15:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2009/12/21/RIAForge-Update-SVN-FilesChangelists
 ---
 
 This weekend I worked on restoring and updating some functionality to <a href="http://www.riaforge.org">RIAForge</a>. RIAForge used to support the ability to browse SVN repositories via the site. It allowed you to browse the repo, view files, and examine the history. This was removed for a few reasons. Today I've restored the functionality and added the ability to view changelists as well. So for example:

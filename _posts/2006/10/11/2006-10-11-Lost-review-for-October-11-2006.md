@@ -4,6 +4,8 @@ title: "Lost review for October 11, 2006"
 date: "2006-10-11T23:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/11/Lost-review-for-October-11-2006
 ---
 
 This weeks episode focused on the Koreans, which is always a favorite of mine (I'm a bit biased). We finally found that Sun did indeed cheat on her husband. As far as I remember it was always implied, but tonight's episode made it clear. 

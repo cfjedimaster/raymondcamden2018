@@ -4,6 +4,8 @@ title: "MAX:  Advanced ColdFusion MX 7 Printing and Reporting"
 date: "2005-10-17T12:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/17/Max-Advanced-ColdFusion-MX-7-Printing-and-Reporting
 ---
 
 Notes from Dean Harmon's presentation on CFDOCUMENT/CFREPORT:

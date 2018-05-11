@@ -4,6 +4,8 @@ title: "Working with Dynamic Map Markers in ColdFusion 9"
 date: "2009-12-12T16:12:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/12/12/Working-with-Dynamic-Map-Markers-in-ColdFusion-9
 ---
 
 John asks:
@@ -28,7 +30,7 @@ $(document).ready(function() {
         var address = $("#address").val()
 		$.trim(address)		
 		if(address == "") return
-		ColdFusion.Map.addMarker("mainMap", {address:address, markerwindowcontent:address})		
+		ColdFusion.Map.addMarker("mainMap", {% raw %}{address:address, markerwindowcontent:address}{% endraw %})		
         $("#address").val("")
     })
 
@@ -81,7 +83,7 @@ function init() {
         var address = $("#address").val()
         $.trim(address)     
         if(address == "") return
-        ColdFusion.Map.addMarker("mainMap", {address:address, markerwindowcontent:address})     
+        ColdFusion.Map.addMarker("mainMap", {% raw %}{address:address, markerwindowcontent:address}{% endraw %})     
         $("#address").val("")
     })
 
@@ -178,7 +180,7 @@ function init() {
         var address = $("#address").val()
         $.trim(address)     
         if(address == "") return
-        ColdFusion.Map.addMarker("mainMap", {address:address, tip:address, markerwindowcontent:address})     
+        ColdFusion.Map.addMarker("mainMap", {% raw %}{address:address, tip:address, markerwindowcontent:address}{% endraw %})     
         $("#address").val("")
 		
     })

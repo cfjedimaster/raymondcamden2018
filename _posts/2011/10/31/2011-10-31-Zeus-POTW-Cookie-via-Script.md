@@ -4,6 +4,8 @@ title: "ColdFusion Zeus POTW: Cookie via Script"
 date: "2011-10-31T11:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/10/31/Zeus-POTW-Cookie-via-Script
 ---
 
 In my last Zeus preview, I discussed what I thought was a minor, but nice, language enhancement. Turns out the "minor" feature got quite a few replies from my readers. So in that vein, I'm posting another "minor but good" improvement this week. In current versions of ColdFusion, you have two ways to set cookies:
@@ -25,7 +27,7 @@ ColdFusion Zeus fixes this in a rather simple, and elegant way. You can still se
 
 <code>
 &lt;cfscript&gt;
-cookie.age = {value="38", expires="never"};
+cookie.age = {% raw %}{value="38", expires="never"}{% endraw %};
 &lt;/cfscript&gt;
 </code>
 

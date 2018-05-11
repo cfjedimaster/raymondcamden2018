@@ -4,6 +4,8 @@ title: "Soundings ColdFusion Survey Application Updated"
 date: "2005-10-08T16:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/08/Soundings-ColdFusion-Survey-Application-Updated
 ---
 
 Soundings, my ColdFusion survey application, has been updated. You can download Soundings <a href="http://ray.camdenfamily.com/downloads/soundings.zip">here</a>. Changes are listed below:

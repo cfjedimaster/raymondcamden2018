@@ -4,6 +4,8 @@ title: "Review: Star Wars - The Force Unleashed"
 date: "2008-10-05T17:10:00+06:00"
 categories: Video Games 
 tags: 
+banner_image: 
+permalink: /2008/10/05/review-star-wars-the-force-unleashed
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B000R0URCE&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;margin-right:10px;margin-bottom:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>

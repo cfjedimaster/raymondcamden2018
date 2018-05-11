@@ -4,6 +4,8 @@ title: "Want help with Snap.svg? (And a few more examples...)"
 date: "2013-11-06T15:11:00+06:00"
 categories: Design Development JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/11/06/Want-help-with-Snapsvg-And-a-few-more-examples
 ---
 
 <p>
@@ -73,7 +75,7 @@ Next I was asked to make the fragment animate to half its size.  Animating a siz
 						console.dir(redSomething);
 						var width = redSomething.attr(&quot;width&quot;);
 						var height = redSomething.attr(&quot;height&quot;);
-						redSomething.animate({width:width&#x2F;2,height:height&#x2F;2}, 2000);
+						redSomething.animate({% raw %}{width:width&#x2F;2,height:height&#x2F;2}{% endraw %}, 2000);
 					});
 					
 					s.append(f);

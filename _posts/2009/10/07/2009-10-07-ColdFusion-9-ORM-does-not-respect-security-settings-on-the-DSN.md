@@ -4,6 +4,8 @@ title: "ColdFusion 9 ORM does not respect security settings on the DSN"
 date: "2009-10-07T11:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/10/07/ColdFusion-9-ORM-does-not-respect-security-settings-on-the-DSN
 ---
 
 Now <i>this</i> this is surprising. During my first presentation on ColdFusion 9 and ORM, I was asked about security permissions on DSNs and how they impact ORM. So for example, if you go into the Advanced Settings of a DSN and only allow certain operations (Select, Update, etc), will that impact ORM? I told the attendee that I honestly wasn't sure, but that I'd assume it would. 

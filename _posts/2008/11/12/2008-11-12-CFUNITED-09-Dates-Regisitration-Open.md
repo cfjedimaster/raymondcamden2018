@@ -4,6 +4,8 @@ title: "CFUNITED 09 Dates, Regisitration Open"
 date: "2008-11-12T16:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/12/CFUNITED-09-Dates-Regisitration-Open
 ---
 
 The title pretty much says it all, but the dates and <a href="http://register.cfunited.com/">registration form</a> for CFUNITED 09 is now open. 

@@ -4,6 +4,8 @@ title: "Spry's HTML Panel"
 date: "2007-11-04T17:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/11/04/Sprys-HTML-Panel
 ---
 
 Over the past few weeks, I've been taking a look at Spry's widgets, specifically those related to form items. I've been surprised by what I've found. I really wish I would have looked at them earlier. Today I looked at another widget, the HTML Panel. This one isn't form related, but is <i>darn</i> cool.
@@ -78,8 +80,8 @@ So far so good - and easy as well. But wait - it gets a <i>lot</i> sexier. One o
 
 &lt;p&gt;
 &lt;b&gt;
-	&lt;a href="f1.html" onClick="panel.loadContent(this.href,{id:'content'}); return false"&gt;Test One&lt;/a&gt; / 
-	&lt;a href="f2.html" onClick="panel.loadContent(this.href,{id:'content'}); return false"&gt;Test Two&lt;/a&gt;
+	&lt;a href="f1.html" onClick="panel.loadContent(this.href,{% raw %}{id:'content'}{% endraw %}); return false"&gt;Test One&lt;/a&gt; / 
+	&lt;a href="f2.html" onClick="panel.loadContent(this.href,{% raw %}{id:'content'}{% endraw %}); return false"&gt;Test Two&lt;/a&gt;
 &lt;/b&gt;
 &lt;/p&gt;
 
@@ -97,7 +99,7 @@ var panel = new Spry.Widget.HTMLPanel("panel");
 As with the previous example, I've got a menu on top with a section in the middle that will be dynamic, but let's focus on one of the links:
 
 <code>
-&lt;a href="f1.html" onClick="panel.loadContent(this.href,{id:'content'}); return false"&gt;Test One&lt;/a&gt;
+&lt;a href="f1.html" onClick="panel.loadContent(this.href,{% raw %}{id:'content'}{% endraw %}); return false"&gt;Test One&lt;/a&gt;
 </code>
 
 Note that I have a normal href. Then notice my onclick. First off - the URL for the onclick refers to the same URL defined in the tag itself. A little fancy self-referring which is nice if you ever change the URL. The second argument passed to the loadContent function is an object with one key/value pair. The ID attribute simply means, "Load the remote URL, but just show the stuff inside the content id." Let's look at f1.html:

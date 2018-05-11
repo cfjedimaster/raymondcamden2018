@@ -4,6 +4,8 @@ title: "Lighthouse Pro 2.0 Beta"
 date: "2005-12-22T18:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/12/22/Lighthouse-Pro-20-Beta
 ---
 
 So <a href="http://ray.camdenfamily.com/index.cfm/2005/12/21/Question-for-Lighthouse-Pro-Users">yesterday</a> I blogged about the possibility of removing the Flash Forms from <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a>, my ColdFusion bug tracking application. I worked on it last night, and this morning, and I think I've wrapped it up. I haven't replace the official zip yet (nor have I updated the docs or changed the version number in the screen), but if you want to see the 2.0 version, you can download it <a href="http://ray.camdenfamily.com/downloads/lighthouseprobeta.zip">here</a>. What has changed?

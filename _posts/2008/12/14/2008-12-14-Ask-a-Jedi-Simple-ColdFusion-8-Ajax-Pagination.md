@@ -4,6 +4,8 @@ title: "Ask a Jedi: Simple ColdFusion 8 Ajax Pagination"
 date: "2008-12-14T16:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/14/Ask-a-Jedi-Simple-ColdFusion-8-Ajax-Pagination
 ---
 
 Omer asks:

@@ -4,6 +4,8 @@ title: "ColdFusion Sample - Using CFZIP"
 date: "2011-11-26T19:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/11/26/ColdFusion-Samples-Using-CFZIP
 ---
 
 It's been a while since I did a "ColdFusion Sample", so if you've forgotten, the idea of this is blog series to demonstrate a ColdFusion tag or feature in a complete, if simple, application. In this entry, I'm going to demonstrate <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-7695.html">CFZIP</a>. This tag allows for creating, reading, and extracting zip files. In my example I'll be making use of reading and extracting.
@@ -81,7 +83,7 @@ So that portion isn't too complex. But let's ramp it up a notch. What if we allo
 
 &lt;/cfif&gt;
 
-&lt;cfset thumbs = directoryList(thumbDir,true,"name","*.jpg|*.png|*.gif" )&gt;
+&lt;cfset thumbs = directoryList(thumbDir,true,"name","*.jpg{% raw %}|*.png|{% endraw %}*.gif" )&gt;
 
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -166,4 +168,4 @@ At this point I've got an array of images in a temporary directory. I can then s
 
 <p>
 
-That's it. I'm not going to post a demo for this as I <i>know</i> some jerk will abuse the upload. I did include a zip of the code base though. You should be able to extract this locally under your web root and just play with it.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fzipdemo%2Ezip'>Download attached file.</a></p>
+That's it. I'm not going to post a demo for this as I <i>know</i> some jerk will abuse the upload. I did include a zip of the code base though. You should be able to extract this locally under your web root and just play with it.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fzipdemo%{% endraw %}2Ezip'>Download attached file.</a></p>

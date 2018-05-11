@@ -4,6 +4,8 @@ title: "Did I break a mirror?"
 date: "2006-10-31T15:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/31/Did-I-break-a-mirror
 ---
 
 Sorry for the large collection of off topic posts this week. I swear it is not my intent to turn this into a rant blog (although it is fun to rant), but this week has just gotten better and better. Today my Internet connection shut down at home, and Cox is saying it is an issue with my wiring. Of course they can't come out to fix it till Thursday. 

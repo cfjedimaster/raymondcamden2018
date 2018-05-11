@@ -4,6 +4,8 @@ title: "MAX Keynote Review (Edited 12:12 PM)"
 date: "2006-10-24T13:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/24/MAX-Keynote-Review
 ---
 
 Hey - I'm posting the first part of my keynote review now as the net access is a bit flakey. I will update this entry with an edit later in the keynote.

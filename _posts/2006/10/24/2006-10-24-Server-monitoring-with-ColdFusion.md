@@ -4,6 +4,8 @@ title: "Server monitoring with ColdFusion"
 date: "2006-10-24T18:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/24/Server-monitoring-with-ColdFusion
 ---
 
 Unlocking the CF Server Black Box

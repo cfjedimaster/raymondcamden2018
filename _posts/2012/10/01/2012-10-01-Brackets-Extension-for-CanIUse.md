@@ -4,6 +4,8 @@ title: "Brackets Extension for CanIUse"
 date: "2012-10-01T16:10:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2012/10/01/Brackets-Extension-for-CanIUse
 ---
 
 I blogged on this earlier and have been tweeting about it over the weekend, but I think I'm ready to "formally" release my Brackets extension for CanIUse.com:

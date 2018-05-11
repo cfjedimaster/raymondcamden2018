@@ -4,6 +4,8 @@ title: "Ask a Jedi: Yahoo RSS Feeds and Images"
 date: "2005-10-03T12:10:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2005/10/03/Ask-a-Jedi-Yahoo-RSS-Feeds-and-Images
 ---
 
 A reader asks:

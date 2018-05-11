@@ -4,6 +4,8 @@ title: "PhoneGap Orientation Example"
 date: "2011-11-04T11:11:00+06:00"
 categories: JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2011/11/04/phonegap-orientation-example
 ---
 
 This morning I read a post on the Phonegap Google group asking about their support for orientation changes. While PhoneGap has good <a href="http://docs.phonegap.com/en/1.1.0/phonegap_events_events.md.html#Events">event support</a> it doesn't support orientation changes. Why? Because there is no need - turns out the mobile browsers support this themselves. It is probably a good idea to remember that your mobile browsers can do quite a bit themselves. If you find something missing from PhoneGap that you think should be included, ensure the browsers just don't support it already. (And if not, check out the excellent <a href="https://github.com/phonegap/phonegap-plugins">list of plugins</a>.)
@@ -72,4 +74,4 @@ And here is a quick screen shot of it in action.
 
 <p>
 
-p.s. Recently I mentioned a <a href="http://wiki.phonegap.com/w/page/34483744/PhoneGap%20Eclipse%20PlugIn%20for%20Android">plugin</a> that significantly improves the experience of creating PhoneGap applications in Eclipse. I began having issues with orientation changes crashing the application. On a whim I decided to check and see if a new version of the plugin existed and indeed there was. Updating fixed everything. I still wish the plugin had a way to output an empty HTML file but it's much easier than building things out by hand.
+p.s. Recently I mentioned a <a href="http://wiki.phonegap.com/w/page/34483744/PhoneGap{% raw %}%20Eclipse%{% endraw %}20PlugIn{% raw %}%20for%{% endraw %}20Android">plugin</a> that significantly improves the experience of creating PhoneGap applications in Eclipse. I began having issues with orientation changes crashing the application. On a whim I decided to check and see if a new version of the plugin existed and indeed there was. Updating fixed everything. I still wish the plugin had a way to output an empty HTML file but it's much easier than building things out by hand.

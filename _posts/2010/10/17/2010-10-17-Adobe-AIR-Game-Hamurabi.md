@@ -4,6 +4,8 @@ title: "Adobe AIR Game - Hamurabi"
 date: "2010-10-17T14:10:00+06:00"
 categories: jQuery 
 tags: 
+banner_image: 
+permalink: /2010/10/17/Adobe-AIR-Game-Hamurabi
 ---
 
 Today I'm happy to release a little project I've been working on for the past few weeks - a port of the old basic game of <a href="http://en.wikipedia.org/wiki/Hamurabi">Hamurabi</a>. This is a game I used to play on my Apple II a long, long, <i>long</i> time ago. The premis of the game is simple. Given a kingdom with acres of land, bushels of grain, and a population, you decide how much land to buy or sell, how much food to give your people, and how much should be planted. Of course, what those figures mean for your kingdom is notoriously hard to figure out. The game is hard (although I made it a tiny bit easier) and intentionally vague. You will fail. I failed pretty badly too into I completely ported over the old BASIC code and saw the exact numbers used.
@@ -57,7 +59,7 @@ function send(msg) {
 	data.owner = myid;
 	data.message = msg;
 	message.setBody(data); 
-	message.setHeaders({"gatewayid":gatewayid});
+	message.setHeaders({% raw %}{"gatewayid":gatewayid}{% endraw %});
 	producer.send(message); 
 	air.trace('done sending msg');		
 }
@@ -80,4 +82,4 @@ Here is something that was a bit interesting. When I broadcast a message from th
 
 <p>
 
-Anyway, take a spin with the application and use the Download link if you want to see the complete source behind the application.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FHamurabi%2Ezip'>Download attached file.</a></p>
+Anyway, take a spin with the application and use the Download link if you want to see the complete source behind the application.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FHamurabi%{% endraw %}2Ezip'>Download attached file.</a></p>

@@ -4,9 +4,11 @@ title: "Building a Parse.com Enabled PhoneGap App - Part 5"
 date: "2012-10-24T18:10:00+06:00"
 categories: Development HTML5 JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2012/10/24/Building-a-Parsecom-Enabled-PhoneGap-App-Part-5
 ---
 
-Welcome to my final entry on using <a href="http://www.parse.com">Parse.com</a> services with <a href="http://www.phonegap.com">PhoneGap</a>. I apologize for taking so long to get this entry out the door. Blame Germany. (I blame the <a href="http://en.wikipedia.org/wiki/Ma%C3%9F">Maß</a>.) In this entry I'll be wrapping things up and discussing what should be done to get the application to market. Both on the PhoneGap side as well as Parse. Let's begin with the PhoneGap side.
+Welcome to my final entry on using <a href="http://www.parse.com">Parse.com</a> services with <a href="http://www.phonegap.com">PhoneGap</a>. I apologize for taking so long to get this entry out the door. Blame Germany. (I blame the <a href="http://en.wikipedia.org/wiki/Ma{% raw %}%C3%{% endraw %}9F">Maß</a>.) In this entry I'll be wrapping things up and discussing what should be done to get the application to market. Both on the PhoneGap side as well as Parse. Let's begin with the PhoneGap side.
 <!--more-->
 <h2>Preparing Your PhoneGap App</h2>
 

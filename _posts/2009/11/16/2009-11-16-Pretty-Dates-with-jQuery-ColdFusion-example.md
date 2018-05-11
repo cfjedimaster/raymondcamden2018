@@ -4,6 +4,8 @@ title: "\"Pretty Dates\" with jQuery (ColdFusion example)"
 date: "2009-11-16T17:11:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/11/16/Pretty-Dates-with-jQuery-ColdFusion-example
 ---
 
 Just a quick note here to share a jQuery plugin that <a href="http://www.cfsilence.com/">Todd Sharp</a> shared with me: <a href="http://bassistance.de/jquery-plugins/jquery-plugin-prettydate/">Prettydate</a>. Prettydate takes dates (which you would hide within your DOM) and formats them in a more generic "time since.." form. So for example, a date within a few seconds will post as "just now", whereas an entry a few minutes old will display as "5 minutes old." The plugin supports dates up to one month old and will automatically update while your users look at a page. This creates a cool effect. They may initially see:
@@ -38,9 +40,9 @@ $(document).ready(function() {
 &lt;body&gt;
 
 &lt;cfset articles = [
-	{title="Article AAA", date=dateAdd("s", -50, now())},
-	{title="Article One", date=dateAdd("n", -5, now())},
-	{title="Article Two", date=dateAdd("n", -58, now())}
+	{% raw %}{title="Article AAA", date=dateAdd("s", -50, now())}{% endraw %},
+	{% raw %}{title="Article One", date=dateAdd("n", -5, now())}{% endraw %},
+	{% raw %}{title="Article Two", date=dateAdd("n", -58, now())}{% endraw %}
 	]&gt;
 	
 	

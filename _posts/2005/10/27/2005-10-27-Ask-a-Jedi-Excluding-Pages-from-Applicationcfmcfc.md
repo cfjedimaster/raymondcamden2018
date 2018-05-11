@@ -4,6 +4,8 @@ title: "Ask a Jedi: Excluding Pages from Application.cfm/cfc"
 date: "2005-10-27T18:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/27/Ask-a-Jedi-Excluding-Pages-from-Applicationcfmcfc
 ---
 
 A reader asks:
@@ -25,7 +27,7 @@ onRequestStart {
 
 This code basically says, if you aren't logged in, force login.cfm to load and stop everything else. This works fine - but if you want a register or "Forgot Password" type page, how do you handle it?
 
-One way around it is to do it all in one file. That's what I do for <a href="http://ray.camdenfamily.com/forums">Galleon</a>. Galleon doesn't force you to login to browse, but you will notice on the <a href="http://ray.camdenfamily.com/forums/login.cfm?ref=%2Fforums%2Findex%2Ecfm%3F">login page</a> that we support both logging in, registering, and retrieving a lost password. This works for Galleon since the registration is somewhat simple.
+One way around it is to do it all in one file. That's what I do for <a href="http://ray.camdenfamily.com/forums">Galleon</a>. Galleon doesn't force you to login to browse, but you will notice on the <a href="http://ray.camdenfamily.com/forums/login.cfm?ref={% raw %}%2Fforums%{% endraw %}2Findex{% raw %}%2Ecfm%{% endraw %}3F">login page</a> that we support both logging in, registering, and retrieving a lost password. This works for Galleon since the registration is somewhat simple.
 
 Another possibility is to modify your security a bit. Instead of - "Always go to login.cfm if not logged in", your logic could be "Always go to login.cfm if not logged in unless you are at register.cfm". This is a <i>bit</i> of a hack I suppose, but is safe since you are still blocking access to everything except one page. 
 

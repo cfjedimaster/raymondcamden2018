@@ -4,6 +4,8 @@ title: "ColdFusion Customer List"
 date: "2006-11-29T14:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/29/ColdFusion-Customer-List
 ---
 
 This is a cross post from <a href="http://www.talkingtree.com/blog/index.cfm/2006/11/29/Top-Companies-Using-ColdFusion-MX">Steven's blog</a>, but I thought it worthy of mention. Adobe has posted a list of some of the world's top companies that use ColdFusion:

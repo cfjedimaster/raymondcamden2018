@@ -4,6 +4,8 @@ title: "Dynamically skipping animations in Edge Animate"
 date: "2012-12-04T14:12:00+06:00"
 categories: HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2012/12/04/Dynamically-skipping-animations-in-Edge-Animate
 ---
 
 As much as I like animation, sometimes less is more. I know we've all seen cool animations that were, well, cool, but after you've seen it a few times you wish you could simply bypass it. Here's a simple example of how you can modify an <a href="http://html.adobe.com/edge/animate/">Edge Animate</a> project to remember that a user has seen the animation and skip to the end.

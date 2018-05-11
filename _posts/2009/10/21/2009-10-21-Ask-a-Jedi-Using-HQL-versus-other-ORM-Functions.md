@@ -4,6 +4,8 @@ title: "Ask a Jedi: Using HQL versus other ORM Functions"
 date: "2009-10-21T22:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/10/21/Ask-a-Jedi-Using-HQL-versus-other-ORM-Functions
 ---
 
 Robert asked a pretty interesting question earlier in the week:

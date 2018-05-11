@@ -4,6 +4,8 @@ title: "Ask a Jedi: Dealing with Recursion"
 date: "2005-10-27T18:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/27/Ask-a-Jedi-Dealing-with-Recursion
 ---
 
 This question came in today and I just had to answer it quickly: (Sorry to the 200 other people who have email in my queue!)

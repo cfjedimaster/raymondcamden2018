@@ -4,6 +4,8 @@ title: "Setting up my Transfer Application"
 date: "2008-11-04T20:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/04/Setting-up-my-Transfer-Application
 ---
 
 Following up on my <a href="http://www.raymondcamden.com/index.cfm/2008/11/3/ColdFusion-and-Transfer-And-that-3-letter-O-word">blog entry</a> from yesterday, today I'm going to talk about how to install Transfer and what my simple little application is going to look like.
@@ -106,4 +108,4 @@ This returned: Transfer version: 1.1
 
 Wow, that was a lot of typing and I really haven't accomplished anything yet. But as I said, I like to go slow and ensure that the framework can even <i>load</i> without me screwing it up, and so far, it has. 
 
-Alright - so everyone with me so far? In the next blog entry I'll actually start using the Employee object with a very simple (and awesomely ugly - yes - I make web sites ugly) CRUD.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory%2Ezip'>Download attached file.</a></p>
+Alright - so everyone with me so far? In the next blog entry I'll actually start using the Employee object with a very simple (and awesomely ugly - yes - I make web sites ugly) CRUD.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory%{% endraw %}2Ezip'>Download attached file.</a></p>

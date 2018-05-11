@@ -4,6 +4,8 @@ title: "ColdFusion 10 WebSockets, Selectors, and canSendMessage"
 date: "2012-10-04T18:10:00+06:00"
 categories: ColdFusion HTML5 
 tags: 
+banner_image: 
+permalink: /2012/10/04/ColdFusion-10-WebSockets-Selectors-and-canSendMessage
 ---
 
 Here is an interesting little "feature" I ran into last week while preparing for my presentation on WebSockets in ColdFusion 10. One of the features I demonstrated is called selectors. It allows you to subscribe to a channel but only receive messages that pass a boolean test. In my demo application, I listened to a channel that broadcasted the change in stocks. I used a selector to say, in code, "I only care about stocks that have a change greater than 10." This worked perfectly. 

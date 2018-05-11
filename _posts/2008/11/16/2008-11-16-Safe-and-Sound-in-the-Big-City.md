@@ -4,6 +4,8 @@ title: "Safe and Sound in the Big City"
 date: "2008-11-16T17:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/11/16/Safe-and-Sound-in-the-Big-City
 ---
 
 Woot. I got here - safe - and on time. Well, two minutes late, but believe me, I'm not going to complain about a few minutes. I love San Francisco, but I swear in all the years I've been here, this is the warmest I've felt it. So much for all the warm clothes and jacket.

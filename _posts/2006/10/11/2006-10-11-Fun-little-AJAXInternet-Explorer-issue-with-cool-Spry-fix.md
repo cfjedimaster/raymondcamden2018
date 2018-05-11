@@ -4,6 +4,8 @@ title: "Fun little AJAX/Internet Explorer issue (with cool Spry fix!)"
 date: "2006-10-11T15:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/11/Fun-little-AJAXInternet-Explorer-issue-with-cool-Spry-fix
 ---
 
 A few days ago I mentioned a little issue I ran into with Spry. Today I was helping my friend diagnose some issues with his application and IE and I ran into a new little bug. This isn't a Spry issue - but just IE in general.
@@ -23,8 +25,8 @@ Luckily there is a cool little way to fix this in Spry using conditionals. Spry 
 <code>
 &lt;div spry:region="categories"&gt;
 &lt;select spry:repeatchildren="categories" spry:choose="choose" name="category" onChange="categories.setCurrentRow(this.selectedIndex);"&gt;
-&lt;option spry:when="{ds_RowNumber} == {ds_CurrentRowNumber}" selected="selected"&gt;{category}&lt;/option&gt;
-&lt;option spry:default="default"&gt;{category}&lt;/option&gt;
+&lt;option spry:when="{% raw %}{ds_RowNumber}{% endraw %} == {% raw %}{ds_CurrentRowNumber}{% endraw %}" selected="selected"&gt;{% raw %}{category}{% endraw %}&lt;/option&gt;
+&lt;option spry:default="default"&gt;{% raw %}{category}{% endraw %}&lt;/option&gt;
 &lt;/select&gt;
 &lt;/div&gt; 
 </code>

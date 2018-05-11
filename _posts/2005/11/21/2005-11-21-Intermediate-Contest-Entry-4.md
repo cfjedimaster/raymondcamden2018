@@ -4,6 +4,8 @@ title: "Intermediate Contest Entry 4"
 date: "2005-11-21T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/21/Intermediate-Contest-Entry-4
 ---
 
 Welcome to the fourth entry in the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">Intermediate ColdFusion Contest</a>. The earlier entries may be found at the end of this post. Today's entry is from Uipko Berghuis. Before reading on, please check his application <a href="http://ray.camdenfamily.com/demos/contest2/berghuis/blackjack">here</a>. You can download his code from the download link at the bottom. Please respect the copyright of the creator.
@@ -44,4 +46,4 @@ Earlier Entries:
 <li><a href="http://ray.camdenfamily.com/index.cfm/2005/11/16/Intermediate-Contest-Entry-1">Entry 1</a>
 </ul>
 
-This is the fourth entry. We have eight more to go. My feeling is that I'll get one more done this week, and then four or so next week, with a wrap up in early December, just in time to start the Advanced/Jedi/Guru/Warlord/ThunderTiki/etc contest - just in case you were worried you would be bored over the Christmas holidays. ;)<p><a href='enclosures/D%3A%5Cwebsites%5Ccamdenfamily%5Csource%5Cmorpheus%5Cblog%5Cenclosures%2Fberghuis%2Ezip'>Download attached file.</a></p>
+This is the fourth entry. We have eight more to go. My feeling is that I'll get one more done this week, and then four or so next week, with a wrap up in early December, just in time to start the Advanced/Jedi/Guru/Warlord/ThunderTiki/etc contest - just in case you were worried you would be bored over the Christmas holidays. ;)<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Ccamdenfamily%{% endraw %}5Csource{% raw %}%5Cmorpheus%{% endraw %}5Cblog{% raw %}%5Cenclosures%{% endraw %}2Fberghuis%2Ezip'>Download attached file.</a></p>

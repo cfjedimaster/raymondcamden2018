@@ -4,6 +4,8 @@ title: "Spry's Password Validation"
 date: "2007-10-21T16:10:00+06:00"
 categories: JavaScript 
 tags: 
+banner_image: 
+permalink: /2007/10/21/Sprys-Password-Validation
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2007/10/20/Playing-with-form-validation-in-Spry">blogged</a>  about my initial look into Spry's form validation widgets. I began with the checkbox validation class. Today I looked at password field validation. As before, the widget is employed by loading in a JavaScript and CSS file, surrounding the form field with a span, and then lastly enabling the widget with a line of JavaScript code. Let's look at a very simple example of this:
@@ -70,7 +72,7 @@ Password: &lt;input type="password" name="password"&gt;
 
 &lt;script type="text/javascript"&gt;
 	var spryp = new Spry.Widget.ValidationPassword("mypassword",
-		{minChars:6,minNumbers:2,minUpperAlphaChars:2}
+		{% raw %}{minChars:6,minNumbers:2,minUpperAlphaChars:2}{% endraw %}
 	);
 &lt;/script&gt; 
 

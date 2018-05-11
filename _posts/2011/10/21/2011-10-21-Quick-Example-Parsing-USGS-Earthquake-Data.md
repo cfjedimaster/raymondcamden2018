@@ -4,6 +4,8 @@ title: "Quick Example - Parsing USGS Earthquake Data"
 date: "2011-10-21T12:10:00+06:00"
 categories: ColdFusion HTML5 JavaScript jQuery 
 tags: 
+banner_image: 
+permalink: /2011/10/21/Quick-Example-Parsing-USGS-Earthquake-Data
 ---
 
 Apparently there were a few earthquakes yesterday. All I know is that I'm happy I live in a state where our natural disasters are huge and slow moving. (Not that I left last time a hurricane hit anyway.) One of the cool services the US Geological Service provides is a set of <a href="http://earthquake.usgs.gov/earthquakes/catalogs/">feeds</a> for earthquake data. These are organized by how far back they go in time as well as how low of a magnitude they include. Since there's quite a few small earthquakes every day this helps you focus on more of the "OMG THE WORLD IS ENDING" variety quake as opposed to the "Did the garbage truck just go by" mini-quake. The USGS provides both RSS feeds and CSV, and I thought it would be cool to whip up a quick ColdFusion demo that makes use of this data stream.

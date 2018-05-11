@@ -4,6 +4,8 @@ title: "What was \"THE\" game for you this year?"
 date: "2008-12-27T19:12:00+06:00"
 categories: Video Games 
 tags: 
+banner_image: 
+permalink: /2008/12/27/What-was-THE-game-for-you-this-year
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//Video-Games-Posters.jpg" align="left" hspace="5">

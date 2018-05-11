@@ -4,6 +4,8 @@ title: "My (Kinda) Farewell"
 date: "2006-12-22T18:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/12/22/My-Kinda-Farewell
 ---
 
 While I have some posts planned for next week, I will be out of the office and taking a nice vacation as I'm sure (or I hope) most folks are as well. For those who celebrate, have a Merry Christmas! 

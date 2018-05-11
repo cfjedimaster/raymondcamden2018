@@ -4,6 +4,8 @@ title: "Lost review for October 18, 2006"
 date: "2006-10-18T23:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/18/Lost-review-for-October-18-2006
 ---
 
 Now <b>that</b> is what I'm talking about. This wasn't a great episode over all - but the interaction between Charlie and Locke was wonderful, <i>especially</i> while Locke couldn't speak.

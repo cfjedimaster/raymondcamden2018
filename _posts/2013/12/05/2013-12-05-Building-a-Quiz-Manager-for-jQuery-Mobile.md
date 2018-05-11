@@ -4,6 +4,8 @@ title: "Building a Quiz Manager for jQuery Mobile"
 date: "2013-12-05T12:12:00+06:00"
 categories: HTML5 JavaScript jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2013/12/05/Building-a-Quiz-Manager-for-jQuery-Mobile
 ---
 
 <p>
@@ -150,7 +152,7 @@ var quizMaster = (function () {
 		&#x2F;&#x2F;Were we taking the quiz already?
 		var status = getUserStatus();
 		if(!status) {
-			status = {question:-1,answers:[]};
+			status = {% raw %}{question:-1,answers:[]}{% endraw %};
 			storeUserStatus(status);
 		}
 		&#x2F;&#x2F;If a quiz doesn&#x27;t have an intro, just go right to the question

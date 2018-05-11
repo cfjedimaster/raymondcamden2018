@@ -4,6 +4,8 @@ title: "Two iPhone development tips, and jQuery to the rescue"
 date: "2008-10-10T00:10:00+06:00"
 categories: Development jQuery 
 tags: 
+banner_image: 
+permalink: /2008/10/09/Two-iPhone-development-tips-and-jQuery-to-the-rescue
 ---
 
 I've spent the last week or so doing iPhone web development. Let me be clear - that's web development. I'm not actually writing any fancy native applications for the iPhone. While most of my time was spent on just the basic work of the app (and I'll have some server side details on that tomorrow at <a href="http://blog.broadchoice.com">ArgumentCollection</a>), I wanted to look into what - if any - tweaks were available to on the iPhone web browser. I've found two things that I think are pretty interesting.
@@ -43,7 +45,7 @@ function test() {
 }
 
 function init() {
-	$("a").click(function(e) { $("#content").load(e.target.href);return false; });
+	$("a").click(function(e) {% raw %}{ $("#content").load(e.target.href);return false; }{% endraw %});
 }
 
 $(document).ready(init);
@@ -74,7 +76,7 @@ $(document).ready(init);
 So what's going on here? The first link is a vanilla link. If I clicked on it, even though it was linking back to itself, it broke my full screen view. The second link used JavaScript and document.location.href. That also failed. I then tried Ajax. My third link used jQuery to load the contents of a file into a div I wrapped around my main content. Finally I tried one more simpe link, and then added jQuery code to find all the links and edit the click event:
 
 <code>
-$("a").click(function(e) { $("#content").load(e.target.href);return false; });
+$("a").click(function(e) {% raw %}{ $("#content").load(e.target.href);return false; }{% endraw %});
 </code>
 
 This worked perfectly! In theory I just add this to my main template and all the links I have will now use AJAX to load their content.

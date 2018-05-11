@@ -4,6 +4,8 @@ title: "Using ColdFusion UI tags and many bound controls"
 date: "2013-10-29T13:10:00+06:00"
 categories: ColdFusion JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/10/29/Using-ColdFusion-UI-tags-and-many-bound-controls
 ---
 
 <p>
@@ -36,7 +38,7 @@ So yes, indeed, there is a size issue. When making an XHR (Ajax) request, there 
 &lt;cfform&gt;
 	&lt;cftextarea name=&quot;fieldpoo&quot; value=&quot;#repeatString(&#x27;x &#x27;,1999)#&quot; width=&quot;400&quot; height=&quot;400&quot; &#x2F;&gt;
 
-&lt;cfgrid bind=&quot;cfc:testingzone.test2.getData({cfgridpage},{cfgridpagesize},{cfgridsortcolumn},{cfgridsortdirection},{fieldpoo})&quot;
+&lt;cfgrid bind=&quot;cfc:testingzone.test2.getData({% raw %}{cfgridpage}{% endraw %},{% raw %}{cfgridpagesize}{% endraw %},{% raw %}{cfgridsortcolumn}{% endraw %},{% raw %}{cfgridsortdirection}{% endraw %},{% raw %}{fieldpoo}{% endraw %})&quot;
 name=&quot;mygrid&quot; format=&quot;html&quot; width=&quot;400&quot;&gt;
 	&lt;cfgridcolumn name=&quot;title&quot;&gt;
 &lt;&#x2F;cfgrid&gt;

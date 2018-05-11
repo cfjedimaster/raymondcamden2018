@@ -4,6 +4,8 @@ title: "GoogleCal Updated (1.3)"
 date: "2006-10-08T22:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/08/GoogleCal-Updated-13
 ---
 
 I've updated <a href="http://ray.camdenfamily.com/projects/googlecal/">GoogleCal</a> - my ColdFusion API for Google's Calendar service. It now "officially" supports adding events. I also added code to retrieve all the calendars for a user. 

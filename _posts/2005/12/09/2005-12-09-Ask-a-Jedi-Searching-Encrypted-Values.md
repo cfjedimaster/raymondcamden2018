@@ -4,6 +4,8 @@ title: "Ask a Jedi: Searching Encrypted Values"
 date: "2005-12-09T17:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/12/09/Ask-a-Jedi-Searching-Encrypted-Values
 ---
 
 Here is an old entry from my Ask a Jedi files. As a reminder - please do not use the feature for <b>immediate</b> support. I don't always have time to respond. Anyway...

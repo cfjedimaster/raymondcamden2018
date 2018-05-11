@@ -4,6 +4,8 @@ title: "First version of Share CFC Released"
 date: "2007-10-06T21:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/06/First-version-of-Share-CFC-Released
 ---
 
 At MAX Adobe talked about <a href="http://labs.adobe.com/technologies/share/">Share</a>, their new document storage/sharing service. It's relatively simple to use. You upload a file - set permissions - and then get some nifty little widgets. For example - you can upload a PDF and then get a Flash Paper preview you can embed in a web page. (I've done one below.) Images should also allow for embedding as well, but I believe there is a bug with the thumbnail. Anyway - this was cool in itself - but when I heard there was an API during the keynote, I immediately opened my browser to the <a href="http://labs.adobe.com/wiki/index.php/Share:API">docs</a>.  (API is about the only word that gets my attention more than wishlist.)
@@ -85,4 +87,4 @@ You can download the zip below. It isn't explicitly stated in the file, but this
 
 And lastly - here is a sample embed of a PDF:
 
-Edit: Removed preview as it was throwing errors.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fshare%2Ecfc%2Ezip'>Download attached file.</a></p>
+Edit: Removed preview as it was throwing errors.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fshare%{% endraw %}2Ecfc%2Ezip'>Download attached file.</a></p>

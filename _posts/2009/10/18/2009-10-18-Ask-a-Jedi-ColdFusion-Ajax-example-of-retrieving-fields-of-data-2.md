@@ -4,6 +4,8 @@ title: "Ask a Jedi: ColdFusion Ajax example of retrieving fields of data (2)"
 date: "2009-10-19T00:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data-2
 ---
 
 Earlier today I <a href="http://www.raymondcamden.com/index.cfm/2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data">blogged</a> a simple example of using ColdFusion Ajax controls to load detail information based on a primary key. The reader who asked the question sent me a followup asking if it was possible to change the form to use a button instead of a keypress to load the data.
@@ -19,10 +21,10 @@ price: &lt;cfinput type="text" name="price" id="price" readonly="true"&gt;&lt;br
 &lt;/cfform&gt;
 </code>
 
-Now for the weird part. It's easy enough to bind to a button. I'd just use {mybutton@click}. However, I still need the ID value. So in order to bind to the CFC, I'd have to use:
+Now for the weird part. It's easy enough to bind to a button. I'd just use {% raw %}{mybutton@click}{% endraw %}. However, I still need the ID value. So in order to bind to the CFC, I'd have to use:
 
 <code>
-&lt;cfajaxproxy bind="cfc:test.getData({artid@none},{mybutton@click})" onsuccess="showData"&gt;
+&lt;cfajaxproxy bind="cfc:test.getData({% raw %}{artid@none}{% endraw %},{% raw %}{mybutton@click}{% endraw %})" onsuccess="showData"&gt;
 </code>
 
 Unfortunately, this then requires that the getData method have a second argument. I <i>could</i> just add a dummy argument to the method, but that felt wrong. I decided to take another approach.
@@ -30,7 +32,7 @@ Unfortunately, this then requires that the getData method have a second argument
 The cfajaxproxy tag allows you to bind to JavaScript functions as well. I switched my tag to the following:
 
 <code>
-&lt;cfajaxproxy bind="javascript:getData({mybutton@click})"&gt;
+&lt;cfajaxproxy bind="javascript:getData({% raw %}{mybutton@click}{% endraw %})"&gt;
 </code>
 
 Next, I knew I still needed a way to communicate to the CFC. I added another cfajaxproxy:
@@ -59,7 +61,7 @@ dataService.setCallbackHandler(showData)
 Basically, dataService becomes a proxy to my remote methods in the CFC. This is probably a bit confusing now so let me paste in the entire template:
 
 <code>
-&lt;cfajaxproxy bind="javascript:getData({mybutton@click})"&gt;
+&lt;cfajaxproxy bind="javascript:getData({% raw %}{mybutton@click}{% endraw %})"&gt;
 &lt;cfajaxproxy cfc="test" jsclassname="dataproxy"&gt;
 
 &lt;script&gt;

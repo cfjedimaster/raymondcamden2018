@@ -4,6 +4,8 @@ title: "Call to BlogCFC Users"
 date: "2005-10-26T15:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2005/10/26/Call-to-BlogCFC-Users
 ---
 
 If you are currently using BlogCFC, please do me a favor and add a comment here with:

@@ -4,6 +4,8 @@ title: "Followup to Sys-Con Issue"
 date: "2005-10-19T12:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2005/10/19/Followup-to-SysCon-Issue
 ---
 
 So, last night I <a href="http://ray.camdenfamily.com/index.cfm/2005/10/19/Should-I-Be-Honored-or-Offended">blogged</a> about how one of my articles was being reprinted at Sys-Con without my permission. I got a lot of feedback from that posting (thanks everyone), and this morning I got a personal email from the group publisher for Sys-Con. We had breakfast and he explained that what had happaned was that the article was picked out as a <i>potential</i> article for republication, with my permission, but that the web team had thought permission was already granted. 

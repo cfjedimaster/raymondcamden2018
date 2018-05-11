@@ -4,6 +4,8 @@ title: "Two Model-Glue 2 backwards compatability issues to watch out for"
 date: "2006-11-25T15:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/25/Two-ModelGlue-2-backwards-compatability-issues-to-watch-out-for
 ---
 
 Joe has worked very hard to make <a href="http://www.model-glue.com">Model-Glue 2</a> backwards compatible, but I ran into two small issues today I wanted to warn people about. (I've already sent a bug report to Joe.) 

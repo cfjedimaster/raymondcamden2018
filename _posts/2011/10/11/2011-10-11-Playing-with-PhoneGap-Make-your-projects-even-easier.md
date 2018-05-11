@@ -4,9 +4,11 @@ title: "Playing with PhoneGap? Make your projects even easier"
 date: "2011-10-11T12:10:00+06:00"
 categories: Development Mobile 
 tags: 
+banner_image: 
+permalink: /2011/10/11/Playing-with-PhoneGap-Make-your-projects-even-easier
 ---
 
-The documentation for creating PhoneGap projects in Eclipse is pretty simple (<a href="http://www.phonegap.com/start#android">link</a>), but at 6 or so steps it isn't terribly difficult to make a mistake. While there doesn't seem to be an "official" plugin yet, you should check out the <a href="http://wiki.phonegap.com/w/page/34483744/PhoneGap%20Eclipse%20PlugIn%20for%20Android">MDS PhoneGap Eclipse</a> plugin. I installed this just now and it worked great. A few caveats though...
+The documentation for creating PhoneGap projects in Eclipse is pretty simple (<a href="http://www.phonegap.com/start#android">link</a>), but at 6 or so steps it isn't terribly difficult to make a mistake. While there doesn't seem to be an "official" plugin yet, you should check out the <a href="http://wiki.phonegap.com/w/page/34483744/PhoneGap{% raw %}%20Eclipse%{% endraw %}20PlugIn{% raw %}%20for%{% endraw %}20Android">MDS PhoneGap Eclipse</a> plugin. I installed this just now and it worked great. A few caveats though...
 
 <ul>
 <li>The plugin currently ships with PhoneGap 1.0, not 1.1. But if you download PhoneGap and extract it, you can point the plugin to the folder for 1.1 and it will make use of that.

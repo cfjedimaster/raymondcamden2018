@@ -4,6 +4,8 @@ title: "Most-viewed blog entries of 2012 (thanks Charlie!)"
 date: "2012-12-29T19:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2012/12/29/Mostviewed-blog-entries-of-2012-thanks-Charlie
 ---
 
 Ok, I'll admit it. I'm not afraid to steal a good idea when I see it. Earlier today Charlie Arehart posted his <a href="http://www.carehart.org/blog/client/index.cfm/2012/12/29/Most-viewed_ColdFusion_blog_entries_of_2012">top ColdFusion blog entries</a> for the year. I thought that was a great idea and figured I'd share it as well. Interestingly enough, none of my top ten is ColdFusion-related. They are almost entirely PhoneGap-related (with jQuery Mobile being the other top topic).

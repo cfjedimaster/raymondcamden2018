@@ -4,6 +4,8 @@ title: "Cordova, Plugins, and Determining What Supports What"
 date: "2014-10-01T11:10:00+06:00"
 categories: HTML5 Mobile 
 tags: 
+banner_image: 
+permalink: /2014/10/01/Cordova-Plugins-and-Determining-what-supports-what
 ---
 
 <p>

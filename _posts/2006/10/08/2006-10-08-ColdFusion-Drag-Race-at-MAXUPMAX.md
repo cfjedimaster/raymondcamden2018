@@ -4,6 +4,8 @@ title: "ColdFusion Drag Race at MAXUP/MAX"
 date: "2006-10-08T11:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/08/ColdFusion-Drag-Race-at-MAXUPMAX
 ---
 
 My session at <a href="http://barcamp.org/MAXUP">MAXUP</a> is entitled ColdFusion Drag Race. The session will be from 12 to 1 on Wednesday, right at lunch so you won't be missing anything if you attend. 

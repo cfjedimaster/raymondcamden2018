@@ -4,6 +4,8 @@ title: "Decorating Eye for the Transfer Guy"
 date: "2008-11-25T22:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/25/Decorating-Eye-for-the-Transfer-Guy
 ---
 
 Today I get to talk about my favorite Transfer topic (although events may supplant it) - Decorators. No, I'm not talking about the people who come in and hang wallpaper or rearrange your furniture. Rather, decorators in Transfer allow you to extend and build upon the TransferObjects automatically created for you when you get data via Transfer.
@@ -145,4 +147,4 @@ This will set the name of a new employee to anon, anon. Not terribly exciting bu
 
 I'll leave you with another link from the main docs: <a href="http://docs.transfer-orm.com/wiki/How_to_Encrypt_User_Passwords_Using_a_Decorator.cfm">How to Encrypt User Passwords Using a Decorator</a>. This is a good example of using decorators and handling encryption. 
 
-I've updated the download zip to include the new code. As always, comments are welcome!<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory%2D2%2Ezip'>Download attached file.</a></p>
+I've updated the download zip to include the new code. As always, comments are welcome!<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory%{% endraw %}2D2%2Ezip'>Download attached file.</a></p>

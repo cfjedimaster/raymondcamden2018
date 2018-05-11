@@ -4,6 +4,8 @@ title: "Using ColdFusion Builder's debugger for Flex and Ajax"
 date: "2010-11-04T15:11:00+06:00"
 categories: ColdFusion Flex jQuery 
 tags: 
+banner_image: 
+permalink: /2010/11/04/Using-ColdFusion-Builders-debugger-for-Flex-and-Ajax
 ---
 
 This is probably one more blog entry of mine that falls into the "obvious" category, but until I tried it today I didn't know it was possible so <i>hopefully</i> I'm not the only one. I don't normally use the debugger in ColdFusion Builder. There isn't anything wrong with it - it just doesn't really mesh with the way I like to write code. On the flip side, I make a heck of a lot of use out of the debugger in Flash Builder. Why do I use it more there and less in ColdFusion? No idea. That being said, a reader this week asked me an interesting question. He is using Flash Builder and wanted to know about debugging on the server side. I knew you could debug the Flex side of course. You can also easily debug the network communications. What I wasn't sure of was how I'd handle debugging on the ColdFusion Builder side when I'm actually using Flash Builder. The debuggers in both products aren't related. (Well, I assume they share some code at the Eclipse level.) Here is what I found out.

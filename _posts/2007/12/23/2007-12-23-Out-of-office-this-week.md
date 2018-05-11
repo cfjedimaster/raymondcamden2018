@@ -4,6 +4,8 @@ title: "Out of office this week"
 date: "2007-12-23T16:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/12/23/Out-of-office-this-week
 ---
 
 Since I consider Out of Office email auto responders to be the spawn of the devil (I've gotten maybe 100 this holiday season and frankly I despise them - if you can't at least configure them to respond to a unique email once, then you are no better than most spammers), I thought I'd drop a quick note to let folks know I'll be off this week. As always, the 'rule' is to not find any major bugs in my software while I'm on vacation. ;)

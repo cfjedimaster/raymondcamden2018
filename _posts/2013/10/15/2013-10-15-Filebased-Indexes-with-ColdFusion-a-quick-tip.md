@@ -4,6 +4,8 @@ title: "File-based Indexes with ColdFusion - a quick tip"
 date: "2013-10-15T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2013/10/15/Filebased-Indexes-with-ColdFusion-a-quick-tip
 ---
 
 <p>

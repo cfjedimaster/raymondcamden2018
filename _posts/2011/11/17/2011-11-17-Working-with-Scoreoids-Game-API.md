@@ -4,6 +4,8 @@ title: "Working with Scoreoid's Game API"
 date: "2011-11-17T13:11:00+06:00"
 categories: ColdFusion HTML5 JavaScript jQuery 
 tags: 
+banner_image: 
+permalink: /2011/11/17/Working-with-Scoreoids-Game-API
 ---
 
 <b>Edited on February 26, 2012:</b> Scoreoid has recently gone through an API update. The demo here will no longer work, but the changes are not huge. I got my own local copy running well. If anyone wants an updated ColdFusion wrapper, please let me know.
@@ -87,7 +89,7 @@ First, the HTML:
 				game.init(username);
 				console.log("Let's get this thing started - user is "+username);	
 				$("#introDiv").fadeOut(animDur, function() {
-					$("#gameContainer").fadeIn(animDur,function() { drawGameStats(); });
+					$("#gameContainer").fadeIn(animDur,function() {% raw %}{ drawGameStats(); }{% endraw %});
 				});
 			}
 		});
@@ -239,7 +241,7 @@ component {
 	}
 	
 	public function addPlayer(required string username) {
-		var result = apiCall("createPlayer", {"username"=arguments.username});
+		var result = apiCall("createPlayer", {% raw %}{"username"=arguments.username}{% endraw %});
 		//Note - we should throw an error if they do - but for now, meh
 	}
 
@@ -290,7 +292,7 @@ That handles adding the user. To store my stats, I created a wrapper for updateP
 
 <code>
 public function updatePlayerField(required string username, required string field, required any value) {
-	apiCall("updatePlayerField", {"username"=arguments.username, "field"=arguments.field, "value"=arguments.value});	
+	apiCall("updatePlayerField", {% raw %}{"username"=arguments.username, "field"=arguments.field, "value"=arguments.value}{% endraw %});	
 }
 </code>
 
@@ -314,7 +316,7 @@ Looking at this now - I should make my Scoreoid wrapper allow for N calls. Even 
 <p/>
 
 <code>
-$.post("game.cfc?method=registerPlayer", {username:username}, function() {
+$.post("game.cfc?method=registerPlayer", {% raw %}{username:username}{% endraw %}, function() {
 </code>
 
 <p>
@@ -324,7 +326,7 @@ And I also register a 'heart beat' that pings the server every few seconds.
 <p>
 
 <code>
-$.post("game.cfc?method=storePlayer", {username:game.username, score:game.score, level:game.level});
+$.post("game.cfc?method=storePlayer", {% raw %}{username:game.username, score:game.score, level:game.level}{% endraw %});
 </code>
 
 <p>
@@ -351,15 +353,15 @@ You can also dig deeper into game stats and see player info as well. Remember ea
 
 <code>
 public any function getGameAverage(required string field) {
-	return apiCall("getGameAverage",{"field"=arguments.field}).number;	
+	return apiCall("getGameAverage",{% raw %}{"field"=arguments.field}{% endraw %}).number;	
 }
 
 public any function getGameLowest(required string field) {
-	return apiCall("getGameLowest",{"field"=arguments.field}).number;	
+	return apiCall("getGameLowest",{% raw %}{"field"=arguments.field}{% endraw %}).number;	
 }
 
 public any function getGameTop(required string field) {
-	return apiCall("getGameTop",{"field"=arguments.field}).number;	
+	return apiCall("getGameTop",{% raw %}{"field"=arguments.field}{% endraw %}).number;	
 }
 </code>
 
@@ -397,7 +399,7 @@ component {
 	}
 	
 	public function addPlayer(required string username) {
-		var result = apiCall("createPlayer", {"username"=arguments.username});
+		var result = apiCall("createPlayer", {% raw %}{"username"=arguments.username}{% endraw %});
 		//Note - we should throw an error if they do - but for now, meh
 	}
 
@@ -406,15 +408,15 @@ component {
 	}
 
 	public any function getGameAverage(required string field) {
-		return apiCall("getGameAverage",{"field"=arguments.field}).number;	
+		return apiCall("getGameAverage",{% raw %}{"field"=arguments.field}{% endraw %}).number;	
 	}
 
 	public any function getGameLowest(required string field) {
-		return apiCall("getGameLowest",{"field"=arguments.field}).number;	
+		return apiCall("getGameLowest",{% raw %}{"field"=arguments.field}{% endraw %}).number;	
 	}
 
 	public any function getGameTop(required string field) {
-		return apiCall("getGameTop",{"field"=arguments.field}).number;	
+		return apiCall("getGameTop",{% raw %}{"field"=arguments.field}{% endraw %}).number;	
 	}
 
 	public array function getPlayers() {
@@ -427,7 +429,7 @@ component {
 	}
 	
 	public function updatePlayerField(required string username, required string field, required any value) {
-		apiCall("updatePlayerField", {"username"=arguments.username, "field"=arguments.field, "value"=arguments.value});	
+		apiCall("updatePlayerField", {% raw %}{"username"=arguments.username, "field"=arguments.field, "value"=arguments.value}{% endraw %});	
 	}
 			
 	private function apiCall(required string method,struct args) {

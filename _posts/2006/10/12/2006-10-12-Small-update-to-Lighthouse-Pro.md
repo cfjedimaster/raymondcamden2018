@@ -4,6 +4,8 @@ title: "Small update to Lighthouse Pro"
 date: "2006-10-12T15:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/12/Small-update-to-Lighthouse-Pro
 ---
 
 A very minor update was released today for <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a>. The new version is 2.1.002 and contains the following updates:

@@ -4,6 +4,8 @@ title: "Review: Mass Effect"
 date: "2007-12-06T22:12:00+06:00"
 categories: Video Games 
 tags: 
+banner_image: 
+permalink: /2007/12/06/Review-Mass-Effect
 ---
 
 Mass Effect, the latest release from BioWare, is an interesting game. In some respects, it is one of the top games of the year, which is saying a lot with the likes of Bioshock and Call of Duty 4 out, but on the other hand, it has some pretty big flaws as well. Let me explain.

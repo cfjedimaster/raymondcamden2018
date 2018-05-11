@@ -4,6 +4,8 @@ title: "Using CF8 Ajax features to solve the 'pick one of thousands' issue"
 date: "2008-12-25T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/25/Using-CF8-Ajax-features-to-solve-the-pick-one-of-thousands-issue
 ---
 
 Let me apologize for the title. I tried like heck but I couldn't find a better title for the issue I'm talking about. Personally I blame the apple pie. Let me describe the problem and how I used ColdFusion 8 Ajax features to solve it. If folks have a better title for the blog entry, I'll be sure to use it in the Spry/jQuery and maybe Ext versions I have planned.
@@ -103,4 +105,4 @@ The selectUser function takes an ID and a label. I then use getElementById to gr
 
 This is a simple demo and could be improved with a bit more functionality. Using RIAForge as the example, I probably would not want to "Next" through more than 4500 records. Adding a simple name filter on top would help reduce the amount of pages I'd have to flip through.
 
-Thoughts? As I mentioned at the beginning of this post I plan on discussing similar solutions in jQuery and Spry as well.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Farchive21%2Ezip'>Download attached file.</a></p>
+Thoughts? As I mentioned at the beginning of this post I plan on discussing similar solutions in jQuery and Spry as well.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Farchive21%{% endraw %}2Ezip'>Download attached file.</a></p>

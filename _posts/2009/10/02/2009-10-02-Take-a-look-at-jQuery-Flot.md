@@ -4,6 +4,8 @@ title: "Take a look at jQuery Flot"
 date: "2009-10-02T14:10:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/10/02/Take-a-look-at-jQuery-Flot
 ---
 
 I'm a huge charting fan. I don't know why - maybe it's my simple mind having an issue time with shiny pictures than raw numbers. For some time now I've been meaning to take a look at <a href="http://code.google.com/p/flot/">flot</a>, a jQuery based chart engine. If you take a look at the <a href="http://people.iola.dk/olau/flot/examples/">examples</a> you can see they look pretty darn professional and even better they are pretty simple to use.
@@ -127,8 +129,8 @@ The method runs a query against the cfargallery database. It converts the query 
 $.getJSON("salesdata.cfc?method=getsalesdata&returnformat=json", {}, function(data) {
 	    $.plot($("#chart"), [ data ], 
 		{
-			lines:{show:true},
-			points:{show:true}
+			lines:{% raw %}{show:true}{% endraw %},
+			points:{% raw %}{show:true}{% endraw %}
 		})
 })
 </code>

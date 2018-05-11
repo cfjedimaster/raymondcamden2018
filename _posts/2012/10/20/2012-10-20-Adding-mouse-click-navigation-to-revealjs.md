@@ -4,6 +4,8 @@ title: "Adding mouse click navigation to Reveal.js"
 date: "2012-10-20T17:10:00+06:00"
 categories: JavaScript Misc 
 tags: 
+banner_image: 
+permalink: /2012/10/20/Adding-mouse-click-navigation-to-revealjs
 ---
 
 I'm growing more and more fond of the HTML presentation framework <a href="http://lab.hakim.se/reveal-js/#/">Reveal.js</a>. One thing I was curious about was whether I could use mouse clicks to navigate a presentation. Why? I'm considering using a Bluetooth device to navigate a presentation while I'm away from my laptop. I've also recently installed <a href="https://itunes.apple.com/us/app/touch-mouse/id338237450?mt=8">Touch Mouse</a> from Logitech, which allows your iOS device to drive a mouse (both the cursor and mouse buttons). 

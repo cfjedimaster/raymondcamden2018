@@ -4,6 +4,8 @@ title: "CFJUG Repeat meeting"
 date: "2006-10-18T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/18/CFJUG-Repeat-meeting
 ---
 
 The repeat of my last CFJUG meeting will be tonight at 5PM CST. The URL is:

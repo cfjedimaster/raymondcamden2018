@@ -4,6 +4,8 @@ title: "What I want from an App Store (as a developer)"
 date: "2011-11-01T15:11:00+06:00"
 categories: Development Mobile 
 tags: 
+banner_image: 
+permalink: /2011/11/01/What-I-want-from-an-App-Store-as-a-developer
 ---
 
 Here is a list of things I want from an App Store as a developer - in a perfect world. These are not in any particular order.

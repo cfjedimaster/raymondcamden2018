@@ -4,6 +4,8 @@ title: "ColdFusion Quickie - Adding an average to a line chart"
 date: "2010-12-20T17:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/12/20/ColdFusion-Quickie-Adding-an-average-to-a-line-chart
 ---
 
 This came up in an IM conversation earlier today. Given a simple line chart, is it easy to add an average? Here is a quick way to do it. First, I'll start off with an array of data points. A query would work fine as well of course.

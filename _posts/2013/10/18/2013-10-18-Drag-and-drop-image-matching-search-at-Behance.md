@@ -4,6 +4,8 @@ title: "Drag and drop image matching search at Behance"
 date: "2013-10-18T13:10:00+06:00"
 categories: Design HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/10/18/Drag-and-drop-image-matching-search-at-Behance
 ---
 
 <p>
@@ -135,4 +137,4 @@ This returns an array of colors. From that I can build a RGB string and pass it 
 And that's it. I've actually put the demo online so you can see, <strong>but please remember that Behance limits API calls to 150 an hour.</strong> Based on the average traffic of my blog that limit will probably be blown away. But you may get lucky. I've attached the code as a zip as well.
 </p>
 
-<a href="http://www.raymondcamden.com/demos/2013/oct/18/ct_demo.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2FArchive33%2Ezip'>Download attached file.</a></p>
+<a href="http://www.raymondcamden.com/demos/2013/oct/18/ct_demo.html"><img src="https://static.raymondcamden.com/images/icon_128.png" title="Demo, Baby" border="0"></a><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2013%{% endraw %}2Eraymondcamden{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FArchive33%{% endraw %}2Ezip'>Download attached file.</a></p>

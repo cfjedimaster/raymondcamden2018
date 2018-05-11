@@ -4,6 +4,8 @@ title: "Good post on Cordova, PhoneGap, and versioning"
 date: "2014-11-10T18:11:00+06:00"
 categories: Mobile 
 tags: 
+banner_image: 
+permalink: /2014/11/10/Good-post-on-Cordova-PhoneGap-and-versioning
 ---
 
 <p>

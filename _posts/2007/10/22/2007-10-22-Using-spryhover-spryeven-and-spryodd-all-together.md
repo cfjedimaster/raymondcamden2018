@@ -4,15 +4,17 @@ title: "Using spry:hover, spry:even, and spry:odd all together"
 date: "2007-10-22T17:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/22/Using-spryhover-spryeven-and-spryodd-all-together
 ---
 
 One of the nicer features of Spry is the simple way you can apply even, odd, and hover classes to a dataset. Consider this example:
 
 <code>
 &lt;tr spry:repeat="mydata" spry:setrow="mydata" spry:hover="hover" spry:even="even" spry:odd="odd"&gt;
-	&lt;td style="cursor: pointer;"&gt;{name}&lt;/td&gt;
-	&lt;td style="cursor: pointer;"&gt;{age}&lt;/td&gt;
-	&lt;td style="cursor: pointer;"&gt;{gender}&lt;/td&gt;
+	&lt;td style="cursor: pointer;"&gt;{% raw %}{name}{% endraw %}&lt;/td&gt;
+	&lt;td style="cursor: pointer;"&gt;{% raw %}{age}{% endraw %}&lt;/td&gt;
+	&lt;td style="cursor: pointer;"&gt;{% raw %}{gender}{% endraw %}&lt;/td&gt;
 &lt;/tr&gt;
 </code>
 
@@ -46,9 +48,9 @@ would be red even when you hover over it. If you want hover to be more
 specific, then you have to change the order:
 
 
-.even { background-color: red }<br>
-.odd { background-color: yellow }<br>
-.hover { background-color: blue }<br>
+.even {% raw %}{ background-color: red }{% endraw %}<br>
+.odd {% raw %}{ background-color: yellow }{% endraw %}<br>
+.hover {% raw %}{ background-color: blue }{% endraw %}<br>
 </blockquote>
 
 When I switched the order - it worked perfectly.

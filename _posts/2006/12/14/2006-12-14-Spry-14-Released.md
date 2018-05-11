@@ -4,6 +4,8 @@ title: "Spry 1.4 Released!"
 date: "2006-12-14T17:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/12/14/Spry-14-Released
 ---
 
 The site still says 1.3, but you can now download <a href="http://www.macromedia.com/go/labs_spry_download">Spry 1.4</a>. I'll have some examples later on.
@@ -145,7 +147,7 @@ Straight from the changelist here are the updates:
 				        </li>
 				        <li>RSS Reader
 				        	<ul>
-				        		<li>Modified index.{html,cfm,php} to use spry:setrow. </li>
+				        		<li>Modified index.{% raw %}{html,cfm,php}{% endraw %} to use spry:setrow. </li>
 			        		</ul>
 
 				        </li>

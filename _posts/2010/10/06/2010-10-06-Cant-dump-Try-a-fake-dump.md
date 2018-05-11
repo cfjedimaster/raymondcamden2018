@@ -4,6 +4,8 @@ title: "Can't dump? Try a fake dump."
 date: "2010-10-06T18:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/10/06/Cant-dump-Try-a-fake-dump
 ---
 
 Earlier today on Twitter @samhamilton and I shared a few messages about finding a replacement for cfdump. Apparently, some ColdFusion hosts lock down access to internal Java components which unfortunately breaks cfdump. He linked to <a href="http://forum.hostek.com/showthread.php?77-Do-you-support-the-CFDUMP-tag&highlight=">this forum posting</a> as an example. I wasn't able to replicate that on my ColdFusion 901 server so it may be an issue with 8 only. Either way I thought it would be fun to see if I could recreate cfdump quickly. I wrote the following tag in about 20 minutes (10 minutes for the initial version, then about 10 more minutes later on for small changes). It works best with arrays, structs, and queries, but will try to display a component as well. It also sniffs for JSON strings and will automatically deserialize them. The layout is - of course - not optimal. But it gets the job done. Here is a sample screen shot:
@@ -179,4 +181,4 @@ I've attached a zip of the custom tag to the bottom of this entry. But for those
 &lt;cfelse&gt;
 	&lt;cfoutput&gt;[FakeDump] Sorry, I couldn't handle this data.&lt;/cfoutput&gt;
 &lt;/cfif&gt;
-</code><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Ffakedump1%2Ezip'>Download attached file.</a></p>
+</code><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Ffakedump1%{% endraw %}2Ezip'>Download attached file.</a></p>

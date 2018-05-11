@@ -4,6 +4,8 @@ title: "Adobe TV Video - Debugging Tips for ColdFusion"
 date: "2011-11-08T21:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/11/08/Adobe-TV-Video-Debugging-Tips-for-ColdFusion
 ---
 
 I recorded this short video a while ago, but it's finally gone live. A quick look at some debugging tips for ColdFusion. Enjoy.

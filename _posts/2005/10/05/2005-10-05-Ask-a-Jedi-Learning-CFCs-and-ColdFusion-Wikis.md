@@ -4,6 +4,8 @@ title: "Ask a Jedi: Learning CFCs and ColdFusion Wikis..."
 date: "2005-10-05T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/05/Ask-a-Jedi-Learning-CFCs-and-ColdFusion-Wikis
 ---
 
 Two short questions today. The first concerns CFC:

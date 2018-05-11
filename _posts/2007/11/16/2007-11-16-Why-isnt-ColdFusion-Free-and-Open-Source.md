@@ -4,6 +4,8 @@ title: "Why isn't ColdFusion Free and Open Source?"
 date: "2007-11-16T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/16/Why-isnt-ColdFusion-Free-and-Open-Source
 ---
 
 So the post is a bit old (one week), but I wanted to point out a very interesting article by ColdFusion Product Jason Delmore:

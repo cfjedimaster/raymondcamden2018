@@ -4,6 +4,8 @@ title: "Ask the Crowd: Documentation"
 date: "2008-12-11T17:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/11/Ask-the-Crowd-Documentation
 ---
 
 Brian asked:

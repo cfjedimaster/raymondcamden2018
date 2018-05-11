@@ -4,6 +4,8 @@ title: "ColdFusion Contest - Final Entries"
 date: "2005-10-24T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/24/ColdFusion-Contest-Final-Entries
 ---
 
 So, this contest has taken <i>way</i> longer than I thought it would, but that just speaks to how many responses I got, which I think is a good thing. If you haven't looked at the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/12/ColdFusion-Contest-Entry-Examined--Part-5">previous entries</a>, I suggest that you do so. I'm going to quickly link to and point out the final two entries, and tonight I will pick a winner. (Along with releasing Starfish Version 0 hopefully.)

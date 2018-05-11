@@ -4,6 +4,8 @@ title: "Last CFJUG Recording Available"
 date: "2006-10-19T23:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/19/Last-CFJUG-Recording-Available
 ---
 
 This time I didn't screw up! You can watch the recording of my repeat presentation on security at this URL:
@@ -12,4 +14,4 @@ This time I didn't screw up! You can watch the recording of my repeat presentati
 
 As I said before - most of my readers won't need to watch this presentation - but heck - if you are bored, be my guest.
 
-The Powerpoint and code are attached to this article.<p><a href='enclosures/D%3A%5Cwebsites%5Cdev%2Ecamdenfamily%2Ecom%5Cenclosures%2Fsecpreso1%2Ezip'>Download attached file.</a></p>
+The Powerpoint and code are attached to this article.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Cdev%{% endraw %}2Ecamdenfamily{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fsecpreso1%{% endraw %}2Ezip'>Download attached file.</a></p>

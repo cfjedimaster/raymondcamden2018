@@ -4,6 +4,8 @@ title: "ColdFusion Security Hotfix"
 date: "2011-12-13T14:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/12/13/ColdFusion-Security-Hotfix
 ---
 
 A new security hotfix for ColdFusion was released today:

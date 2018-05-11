@@ -4,6 +4,8 @@ title: "Good tutorial on making an RSS Feed with ColdFusion"
 date: "2006-10-16T15:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/16/Good-tutorial-on-making-an-RSS-Feed-with-ColdFusion
 ---
 
 I was planning a simple tutorial on how to create an RSS feed. This would be a very simple and direct "Do This", and not "Here are the ten thousand versions of RSS" type of article, but Pete beat me to it. You can find this article here:

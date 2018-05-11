@@ -4,6 +4,8 @@ title: "Ask a Jedi: Add a \"Show All\" button to CFGRID"
 date: "2009-10-29T14:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/10/29/Ask-a-Jedi-Add-a-Show-All-button-to-CFGRID
 ---
 
 Brett asks:
@@ -29,7 +31,7 @@ function showall() {
 	console.log('hello')
 	var theGrid = ColdFusion.Grid.getGridObject('entries')
 	var ds = theGrid.getDataSource()
-	ds.reload({params:{start:0,limit:ds.totalLength}})
+	ds.reload({% raw %}{params:{start:0,limit:ds.totalLength}{% endraw %}})
 	theGrid.getView().refresh()
 }
 &lt;/script&gt;
@@ -38,7 +40,7 @@ function showall() {
 &lt;body&gt;
 
 &lt;cfform name="test"&gt;
-&lt;cfgrid autowidth="true" name="entries" format="html" bind="url:getentries.cfm?page={cfgridpage}&pagesize={cfgridpagesize}&sort={cfgridsortcolumn}&dir={cfgridsortdirection}"&gt;
+&lt;cfgrid autowidth="true" name="entries" format="html" bind="url:getentries.cfm?page={% raw %}{cfgridpage}{% endraw %}&pagesize={% raw %}{cfgridpagesize}{% endraw %}&sort={% raw %}{cfgridsortcolumn}{% endraw %}&dir={% raw %}{cfgridsortdirection}{% endraw %}"&gt;
    &lt;cfgridcolumn name="id" display="false"&gt;
    &lt;cfgridcolumn name="body" display="false"&gt;
 

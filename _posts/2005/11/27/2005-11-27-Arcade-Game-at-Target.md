@@ -4,6 +4,8 @@ title: "Arcade Game at Target"
 date: "2005-11-27T12:11:00+06:00"
 categories: Video Games 
 tags: 
+banner_image: 
+permalink: /2005/11/27/Arcade-Game-at-Target
 ---
 
 So, I <a href="http://ray.camdenfamily.com/index.cfm/2005/10/28/And-now-for-something-really-important">blogged</a> a few weeks ago about how Target was going to start selling a 'real' arcade game for around 500 dollars. I saw the unit yesterday and I have mixed feelings about it. It is a bit too small - however, the unit I saw was on a ledge about 6 inches or so off the ground. If I did buy the unit, I would do the same - simply raise it up a bit.

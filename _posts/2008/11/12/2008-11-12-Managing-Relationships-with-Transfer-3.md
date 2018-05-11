@@ -4,6 +4,8 @@ title: "Managing Relationships with Transfer (3)"
 date: "2008-11-12T21:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/12/Managing-Relationships-with-Transfer-3
 ---
 
 Welcome to my third post on managing relationships with Transfer. If you want to get caught up on the earlier ones, or any of the other entries in this series on learning Transfer, please see the Related Blog Entries section below. Previously I talked about ManyToOne relationships (multiple employees were linked to single departments) and ManyToMany relationships (multiple employees linked up with multiple benefits). Today I'll cover the final variety - OneToMany.
@@ -160,4 +162,4 @@ So really, thats all there is too it. There are additional methods you can do wi
 <li>A parent can get a child object at a particular position. So given that we sorted our positions by start date descending, you could get the most resent position by doing ob.getPosition(1).
 </ul>
 
-As before, I've included the zip along with the database schema. Questions/comments are welcome. The next two posts will talk more about getting data via filtering, search, and finally, TQL. I'm going to try to get these two done before MAX. I have 2-3 more posts planned after that, but it may be delayed a while because of the conference.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory4%2Ezip'>Download attached file.</a></p>
+As before, I've included the zip along with the database schema. Questions/comments are welcome. The next two posts will talk more about getting data via filtering, search, and finally, TQL. I'm going to try to get these two done before MAX. I have 2-3 more posts planned after that, but it may be delayed a while because of the conference.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory4%{% endraw %}2Ezip'>Download attached file.</a></p>

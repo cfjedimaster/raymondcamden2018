@@ -4,6 +4,8 @@ title: "Two Spry tips"
 date: "2006-12-15T22:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/12/15/Two-Spry-tips
 ---
 
 I've got 30 minutes before my next pain pill so I'm having a bit of clarity. I thought I'd share two Spry tips that Kin and Donald (the Spry Guys) shared with me. Neither of these relate to the new 1.4 release, they are just things I missed before. I have to say, for Spry being "incomplete", it certainly has a lot in there!

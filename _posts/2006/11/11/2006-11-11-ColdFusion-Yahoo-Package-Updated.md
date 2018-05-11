@@ -4,6 +4,8 @@ title: "ColdFusion Yahoo Package Updated"
 date: "2006-11-11T23:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/11/ColdFusion-Yahoo-Package-Updated
 ---
 
 I just checked in a new update to the <a href="http://cfyahoo.riaforge.org/">ColdFusion Yahoo Package</a>. This addition has a few small changes but the big addition is in Local Search. Yahoo's Local Search is pretty darn powerful. You can send in any basic query ("comic books"), along with address information in just about any form. The results are very detailed and include maps, ratings, telephone number, address, web site, etc. 

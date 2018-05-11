@@ -4,6 +4,8 @@ title: "So - why did we build a web version again?"
 date: "2006-12-06T21:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/12/06/So-why-did-we-build-a-web-version-again
 ---
 
 I'm looking into various accounting packages that I can use for my new business and one of things I'd like to consider is an online version. I want this because I'm going back and forth between a PC and a Mac, plus I just want something I can access from multiple locations.

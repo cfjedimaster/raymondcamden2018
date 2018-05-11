@@ -4,6 +4,8 @@ title: "New Layout"
 date: "2007-10-28T16:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/28/New-Layout
 ---
 
 I've updated the look and feel to my blog again. The design is called "refresh" and comes from <a href="http://www.styleshout.com">StyyleShout.com</a>, the same guys who provided the design for <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>. Check out their site as they have some wicked cool (sorry - trying to sound young) free designs. 

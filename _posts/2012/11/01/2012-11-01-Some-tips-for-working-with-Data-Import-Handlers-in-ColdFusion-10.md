@@ -4,6 +4,8 @@ title: "Some tips for working with Data Import Handlers in ColdFusion 10"
 date: "2012-11-01T18:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2012/11/01/Some-tips-for-working-with-Data-Import-Handlers-in-ColdFusion-10
 ---
 
 While working on the Solr chapter for CFWACK10, I ran into a few interesting quirks that I thought I would document to - hopefully - save others from pulling their hair out. If you aren't aware of what Data Import Handlers (DIH) mean, it is simply a means by which you can tell Solr where your data is and how it should index it. It means you can skip the normal "query and index" process in ColdFusion and basically just tell Solr to get your crap by itself.

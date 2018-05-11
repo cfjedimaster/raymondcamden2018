@@ -4,6 +4,8 @@ title: "Ask a Jedi: Detect JavaScript with ColdFusion?"
 date: "2008-10-15T22:10:00+06:00"
 categories: ColdFusion JavaScript 
 tags: 
+banner_image: 
+permalink: /2008/10/15/Ask-a-Jedi-Detect-JavaScript-with-ColdFusion
 ---
 
 Jose asks:

@@ -4,6 +4,8 @@ title: "The Saints are Coming"
 date: "2006-11-12T22:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/11/12/The-Saints-are-Coming
 ---
 
 I'm not a huge fan of Green Day (although I love the American Edit mashup of American Idiot), but this video, and song, absolutely broke my heart:

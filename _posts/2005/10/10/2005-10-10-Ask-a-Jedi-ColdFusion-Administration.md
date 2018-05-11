@@ -4,6 +4,8 @@ title: "Ask a Jedi: ColdFusion Administration"
 date: "2005-10-10T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/10/Ask-a-Jedi-ColdFusion-Administration
 ---
 
 A reader asks:

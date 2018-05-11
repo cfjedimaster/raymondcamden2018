@@ -4,6 +4,8 @@ title: "Updating Death Clock for Flex 4.6"
 date: "2011-10-21T15:10:00+06:00"
 categories: Flex Mobile 
 tags: 
+banner_image: 
+permalink: /2011/10/21/Updating-Death-Clock-for-Flex-46
 ---
 
 Adobe has been talking lately about the next update to Flex and Flash Builder, version 4.6. There's a lot of cool stuff planned, but some of the things that interest me most are the new UI components. You can read a good article on them here, <a href="http://www.adobe.com/devnet/flex/articles/whats-new-flex-flash-builder-46.html">What's new in Flex 4.6 SDK and Flash Builder 4.6</a>. I thought it might be interesting to update one of my own application, the Death Clock mobile app, to use some of these new components.
@@ -24,11 +26,11 @@ For my new application, I decided to get rid of this work around and make use of
 &lt;s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
 		xmlns:s="library://ns.adobe.com/flex/spark" title="Death Clock" initialize="init()" xmlns:mx="library://ns.adobe.com/flex/mx" backgroundColor="0x000000"&gt;
 	&lt;fx:Declarations&gt;
-		&lt;mx:NumberValidator id="dayValidator" source="{dayBorn}" property="text" allowNegative="false" minValue="1" maxValue="31" 
+		&lt;mx:NumberValidator id="dayValidator" source="{% raw %}{dayBorn}{% endraw %}" property="text" allowNegative="false" minValue="1" maxValue="31" 
 							invalidCharError="Day Born must be a number." integerError="Day Born must be a number." negativeError="Day Born must be a positive number."
 							lowerThanMinError="Day Born must be over 0." exceedsMaxError="Day Born must be lower than 31."/&gt;
 		
-		&lt;mx:NumberValidator id="yearValidator" source="{yearBorn}" property="text" allowNegative="false" minValue="1900" maxValue="2020" 
+		&lt;mx:NumberValidator id="yearValidator" source="{% raw %}{yearBorn}{% endraw %}" property="text" allowNegative="false" minValue="1900" maxValue="2020" 
 							invalidCharError="Year Born must be a number." integerError="Year Born must be a number." negativeError="Year Born must be a positive number." 
 							lowerThanMinError="Year Born must be over 1900." exceedsMaxError="Year Born must be lower than 2020." /&gt;
 		
@@ -137,7 +139,7 @@ For my new application, I decided to get rid of this work around and make use of
 				trace('diff is '+timeLeft);
 				//trace(bDay.toString()+'\n'+deathDate.toString()+'\n'+timeLeft.toString());
 				
-				navigator.pushView(Counter,{deathDate:deathDate,timeLeft:timeLeft});
+				navigator.pushView(Counter,{% raw %}{deathDate:deathDate,timeLeft:timeLeft}{% endraw %});
 				
 			}
 		]]&gt;
@@ -156,10 +158,10 @@ For my new application, I decided to get rid of this work around and make use of
 	&lt;!--
 	The idea of button groups to handle drop downs is from Dirk Eismann (DEismann@herrlich-ramuschkat.de)
 	--&gt;
-	&lt;s:HGroup width="100%" height.selectedGender="100%"&gt;
+	&lt;s:HGroup width="100{% raw %}%" height.selectedGender="100%{% endraw %}"&gt;
 		&lt;s:Label text="Gender: " width="50%" /&gt;
 		&lt;s:Button id="genderButton" label="Male" click="toggleGenderState()" includeIn="normal,selectedMonth" /&gt;
-		&lt;s:Scroller includeIn="selectedGender" height="100%" width="100%"&gt;			
+		&lt;s:Scroller includeIn="selectedGender" height="100{% raw %}%" width="100%{% endraw %}"&gt;			
 			&lt;s:Group&gt;			
 				&lt;s:layout&gt;
 					&lt;s:VerticalLayout/&gt;
@@ -171,10 +173,10 @@ For my new application, I decided to get rid of this work around and make use of
 		
 	&lt;/s:HGroup&gt;
 	
-	&lt;s:HGroup width="100%" height.selectedMonth="100%"&gt;
+	&lt;s:HGroup width="100{% raw %}%" height.selectedMonth="100%{% endraw %}"&gt;
 		&lt;s:Label text="Month Born: " width="50%" /&gt;
 		&lt;s:Button id="monthButton" label="January" click="toggleMonthState()" includeIn="normal,selectedGender" /&gt;
-		&lt;s:Scroller includeIn="selectedMonth" height="100%" width="100%"&gt;			
+		&lt;s:Scroller includeIn="selectedMonth" height="100{% raw %}%" width="100%{% endraw %}"&gt;			
 			&lt;s:Group &gt;			
 				&lt;s:layout&gt;
 					&lt;s:VerticalLayout/&gt;
@@ -274,7 +276,7 @@ That's right at 190 lines. Not bad for my first Flex mobile application. Now let
 			trace('diff is '+timeLeft);
 			//trace(bDay.toString()+'\n'+deathDate.toString()+'\n'+timeLeft.toString());
 			
-			navigator.pushView(Counter,{deathDate:deathDate,timeLeft:timeLeft});
+			navigator.pushView(Counter,{% raw %}{deathDate:deathDate,timeLeft:timeLeft}{% endraw %});
 		}
 	]]&gt;
 	&lt;/fx:Script&gt;

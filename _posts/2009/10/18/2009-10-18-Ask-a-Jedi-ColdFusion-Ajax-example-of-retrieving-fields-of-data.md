@@ -4,6 +4,8 @@ title: "Ask a Jedi: ColdFusion Ajax example of retrieving fields of data"
 date: "2009-10-18T12:10:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data
 ---
 
 I have to apologize for the title of this blog entry. I can't honestly think of a nicer way to say it. But enough of that, let me just get to the question.
@@ -31,9 +33,9 @@ I've got a form with 4 inputs. The first one is our primary ID field. When the u
 <code>
 &lt;cfform&gt;
 id: &lt;cfinput type="text" name="artid" id="artid"&gt;&lt;br/&gt;
-name: &lt;cfinput type="text" name="artname" id="artname" bind="cfc:test.getName({artid@keyup})" readonly="true"&gt;&lt;br/&gt;
-description: &lt;cftextarea name="description" id="description" bind="cfc:test.getDescription({artid@keyup})" readonly="true"&gt;&lt;/cftextarea&gt;&lt;br/&gt;
-price: &lt;cfinput type="text" name="price" id="price" bind="cfc:test.getPrice({artid@keyup})" readonly="true"&gt;&lt;br/&gt;
+name: &lt;cfinput type="text" name="artname" id="artname" bind="cfc:test.getName({% raw %}{artid@keyup}{% endraw %})" readonly="true"&gt;&lt;br/&gt;
+description: &lt;cftextarea name="description" id="description" bind="cfc:test.getDescription({% raw %}{artid@keyup}{% endraw %})" readonly="true"&gt;&lt;/cftextarea&gt;&lt;br/&gt;
+price: &lt;cfinput type="text" name="price" id="price" bind="cfc:test.getPrice({% raw %}{artid@keyup}{% endraw %})" readonly="true"&gt;&lt;br/&gt;
 &lt;/cfform&gt;
 </code>
 
@@ -85,7 +87,7 @@ I've modified the 3 form fields now so that each of them is bound to the ID fiel
 As you can see, the 3 methods all make use of a central getData() method. That method runs the query and then the individual queries all just return one field. (<b>ColdFusion 9 users - please read my PS at the end.</b>) This works, but as you can guess, each time we type into the ID field we perform 3 Ajax requests. This isn't horrible - and the data being returned is rather small, but multiple network requests for the same row of data could probably be done better. Let's look at a modified version.
 
 <code>
-&lt;cfajaxproxy bind="cfc:test.getData({artid@keyup})" onsuccess="showData"&gt;
+&lt;cfajaxproxy bind="cfc:test.getData({% raw %}{artid@keyup}{% endraw %})" onsuccess="showData"&gt;
 
 &lt;script&gt;
 

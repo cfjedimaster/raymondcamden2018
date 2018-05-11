@@ -4,6 +4,8 @@ title: "Playing with PhoneGap? Try the Mega Demo"
 date: "2011-10-04T11:10:00+06:00"
 categories: HTML5 JavaScript jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2011/10/04/Playing-with-PhoneGap-Try-the-Mega-Demo
 ---
 
 So yesterday was pretty exciting at MAX. I plan on doing a write up after everything is done, but I wanted to specifically talk a bit about the PhoneGap news. In case you didn't hear it, Adobe acquired Nitobi Software, the guys behind <a href="http://www.phonegap.com">PhoneGap</a>. PhoneGap allows you to take your HTML and JavaScript and deploy natively to the mobile platform. Between PhoneGap and Flex Mobile, you've got two really good options for mobile development. I've got a few blog posts planned for later in the week, but today I wanted to share a little project I've been working on called PhoneGapMega.
@@ -25,4 +27,4 @@ Here's a few quick screen shots:
 <p/>
 As I mentioned, the mega demo contains examples of <i>almost</i> all the APIs. The main one I'm missing now is a demo for the File APIs. I've got a basic idea of what I'm going to do there so I'll be adding that soon. I've also added a demo showing how you can call remote resources without worrying about the normal browser restrictions on 'out of domain' XHR calls. In this case, I'm calling a ColdFusion Component on my server.
 <p/>
-I hope this is helpful for folks looking to explore PhoneGap. I'll also point out I'm definitely not the first to do this. You can download <a href="https://market.android.com/details?id=com.gwtmobile.phonegap&feature=search_result">GWT Mobile PhoneGap Showcase</a> for another example as well.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FPhoneGapMega%2Eapk'>Download attached file.</a></p>
+I hope this is helpful for folks looking to explore PhoneGap. I'll also point out I'm definitely not the first to do this. You can download <a href="https://market.android.com/details?id=com.gwtmobile.phonegap&feature=search_result">GWT Mobile PhoneGap Showcase</a> for another example as well.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FPhoneGapMega%{% endraw %}2Eapk'>Download attached file.</a></p>

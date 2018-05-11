@@ -4,6 +4,8 @@ title: "Intro to jQuery slides + code"
 date: "2011-10-28T17:10:00+06:00"
 categories: JavaScript jQuery 
 tags: 
+banner_image: 
+permalink: /2011/10/28/Intro-to-jQuery-slides-code
 ---
 
 Thanks to everyone who attended my presentation today at RIAUnleashed. You can find the slide and code in the presentation below. Use the menu in the Flash application to download the attachment. 

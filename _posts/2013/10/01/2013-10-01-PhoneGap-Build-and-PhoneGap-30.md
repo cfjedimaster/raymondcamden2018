@@ -4,6 +4,8 @@ title: "PhoneGap Build and PhoneGap 3.0"
 date: "2013-10-01T15:10:00+06:00"
 categories: HTML5 JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2013/10/01/PhoneGap-Build-and-PhoneGap-30
 ---
 
 <p>

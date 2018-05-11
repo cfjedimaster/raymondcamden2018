@@ -4,6 +4,8 @@ title: "Moving from dynamic to static with Harp"
 date: "2013-10-22T14:10:00+06:00"
 categories: ColdFusion Development 
 tags: 
+banner_image: 
+permalink: /2013/10/22/Moving-from-dynamic-to-static-with-Harp
 ---
 
 <p>
@@ -42,16 +44,16 @@ First - I decided to go with <a href="http://embeddedjs.com/">EJS</a> for my tem
 
 &lt;head&gt;
 &lt;meta name=&quot;robots&quot; content=&quot;index,follow&quot; &#x2F;&gt;
-&lt;meta name=&quot;title&quot; content=&quot;&lt;%- title %&gt;&quot;&#x2F;&gt;
+&lt;meta name=&quot;title&quot; content=&quot;&lt;{% raw %}%- title %{% endraw %}&gt;&quot;&#x2F;&gt;
 &lt;meta name=&quot;Description&quot; content=&quot;What the Thunder Said is a site devoted to the life and works of T.S. Eliot.&quot;&gt;
 &lt;meta name=&quot;Keywords&quot; content=&quot;t.s. eliot,eliot,T.S. Eliot,poetry,fiction,what the thunder said,thunder,waste land&quot;&gt;
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text&#x2F;css&quot; href=&quot;&#x2F;style.css&quot;&gt;
-&lt;title&gt;&lt;%- title %&gt;&lt;&#x2F;title&gt;
+&lt;title&gt;&lt;{% raw %}%- title %{% endraw %}&gt;&lt;&#x2F;title&gt;
 &lt;&#x2F;head&gt;
 
 &lt;body bgcolor=&quot;#ac9581&quot; text=&quot;#000000&quot; link=&quot;#490000&quot; vlink=&quot;#490000&quot;&gt;
 
-&lt;%- yield %&gt;
+&lt;{% raw %}%- yield %{% endraw %}&gt;
 
 &lt;&#x2F;body&gt;
 &lt;&#x2F;html&gt;</code></pre>

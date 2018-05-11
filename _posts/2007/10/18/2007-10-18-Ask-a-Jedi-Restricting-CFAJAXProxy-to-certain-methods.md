@@ -4,6 +4,8 @@ title: "Ask a Jedi: Restricting CFAJAXProxy to certain methods"
 date: "2007-10-18T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/18/Ask-a-Jedi-Restricting-CFAJAXProxy-to-certain-methods
 ---
 
 A user asked this about the cfajaxproxy tag:

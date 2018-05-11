@@ -4,6 +4,8 @@ title: "Quick example of posting videos to Brightcove"
 date: "2009-12-01T13:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/01/Quick-example-of-posting-videos-to-Brightcove
 ---
 
 A reader asked for help using <a href="http://www.brightcove.com">Brightcove</a>'s API to upload a video using ColdFusion. While I do not plan on writing a full wrapper, or going into great detail, I thought a quick blog post on what he tried, and why it failed, could help others who plan on using the service.
@@ -17,7 +19,7 @@ timeout="600" result="resultVar" multipart="true"&gt;
   &lt;cfhttpparam type="file" name="file" file="c:\com\brightcove\AT_T_test.mp4" /&gt;
 
   &lt;cfset jsonRequest = '{"method": "create_video", "params":
-{"video": {"name": "test", "shortDescription": "test"},"token":
+{% raw %}{"video": {"name": "test", "shortDescription": "test"}{% endraw %},"token":
 "blahblahblah.."}}'&gt;
 
   &lt;cfhttpparam type="url"  name="json" value="#jsonRequest#"&gt;

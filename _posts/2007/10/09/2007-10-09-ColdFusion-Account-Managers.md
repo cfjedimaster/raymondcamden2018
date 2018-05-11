@@ -4,6 +4,8 @@ title: "ColdFusion Account Managers"
 date: "2007-10-09T17:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/09/ColdFusion-Account-Managers
 ---
 
 I'm stealing some blog content from Ben Forta's <a href="http://www.forta.com/blog/index.cfm/2007/10/9/ColdFusions-Dedicated-Account-Managers">blog</a> to help spread the word about the resources Adobe has put behind ColdFusion. Quote:

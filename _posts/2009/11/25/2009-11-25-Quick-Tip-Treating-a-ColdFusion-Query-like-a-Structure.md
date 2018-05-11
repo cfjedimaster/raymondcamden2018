@@ -4,6 +4,8 @@ title: "Quick Tip - Treating a ColdFusion Query like a Structure"
 date: "2009-11-25T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/11/25/Quick-Tip-Treating-a-ColdFusion-Query-like-a-Structure
 ---
 
 I've mentioned this before, but as it came across today on my <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=B7B75388-087A-5C47-43ABA869EA6C7FEE&page=1">forums</a>, I thought it wouldn't hurt to write up a quick example. ColdFusion queries are pretty easy to work with. You have multiple options for looping over them and can easily address the data when using a cfoutput:

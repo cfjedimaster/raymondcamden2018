@@ -4,6 +4,8 @@ title: "Sunday Mega Video Game Review"
 date: "2012-11-25T14:11:00+06:00"
 categories: Video Games 
 tags: 
+banner_image: 
+permalink: /2012/11/25/sunday-mega-video-game-review
 ---
 
 Over the holiday weekend I binged a bit. Certainly on food and good beer, but mostly on video games. I've been on kind of a XBox rejection lately. Ever since I finished Red Dead Redemption (amazing game by the way), I've not found anything interesting enough to actually turn on the console. But over the past few weeks I've been lucky to get not one, but three really good games. What follows are my thoughts on each, and as always, I can't wait to hear what my readers think. (As a reminder, the product links are affiliate links. If you purchase through them, I get a little kick back.)

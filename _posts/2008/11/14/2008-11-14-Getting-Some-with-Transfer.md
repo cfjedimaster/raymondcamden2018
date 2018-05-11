@@ -4,6 +4,8 @@ title: "Getting Some with Transfer"
 date: "2008-11-14T21:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/14/Getting-Some-with-Transfer
 ---
 
 In today's Transfer entry I'm going to talk about getting objects in Transfer. I had previously talked about the get method and how it can load an object via a primary key, but what about other methods of finding objects?
@@ -38,7 +40,7 @@ I quickly updated the edit form to support this and updated a few of my employee
 The API is simple enough. Tell Transfer the class, the property, and the value. readByPropertyMap isn't that much different. Instead of passing one property and value you pass a structure. To be honest, I can't think of a business case for this in my current application. For testing I'm going to just use username and last name. Since username is already unique this will work. But note that I don't think this is a great example:
 
 <code>
-&lt;cfset s = {lastname="Camden",username="cfjedimaster"}&gt;
+&lt;cfset s = {% raw %}{lastname="Camden",username="cfjedimaster"}{% endraw %}&gt;
 &lt;cfset ray = application.transfer.readByPropertyMap("employee", s)&gt;
 &lt;cfdump var="#ray.getMemento()#"&gt;
 </code>
@@ -85,4 +87,4 @@ Or...
 
 This will sort by last name, descending. The listByPropertyMap works pretty much the exact same way as readByPropertyMap but with the option to also specify a sort column. 
 
-Alright - so if you played around with the code a bit you may have noticed something. All of these methods expect <b>exact</b> matches. You can't use them to search but rather to perform exact matches on properties. How would you do random, fuzzy (ie, partial matches) in Transfer? TQL (Transfer Query Language) is your solution. Until next time...<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory5%2Ezip'>Download attached file.</a></p>
+Alright - so if you played around with the code a bit you may have noticed something. All of these methods expect <b>exact</b> matches. You can't use them to search but rather to perform exact matches on properties. How would you do random, fuzzy (ie, partial matches) in Transfer? TQL (Transfer Query Language) is your solution. Until next time...<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory5%{% endraw %}2Ezip'>Download attached file.</a></p>

@@ -4,6 +4,8 @@ title: "Quick tip - using ColdFusion.navigate instead of bindings"
 date: "2007-10-04T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/04/Quick-tip-using-ColdFusionnavigate-instead-of-bindings
 ---
 
 A user pinged me during MAX (what's wrong with you guys, didn't I warn you about questions??!? ;) with a problem. He wanted to use a CFDIV tag that bound to a form. The problem was - he didn't want to actually do anything until the form was complete. He was using bindings, and everytime the form changed, the div reloaded, even though the form wasn't complete. There are two simple solutions to this.
@@ -27,8 +29,8 @@ function checkForm() {
 	var name = document.getElementById("name").value;
 	var age = document.getElementById("age").value;
 	//Employ Mr. T error handling
-	if(name == '') { alert('Enter a name, fool!'); return false; }
-	if(age == '') { alert('I pity the fool who doesn\'t have an age!'); return false; }
+	if(name == '') {% raw %}{ alert('Enter a name, fool!'); return false; }{% endraw %}
+	if(age == '') {% raw %}{ alert('I pity the fool who doesn\'t have an age!'); return false; }{% endraw %}
 	ColdFusion.navigate('div.cfm?name='+escape(name)+'&age='+escape(age),'resultdiv');
 	return false;
 }

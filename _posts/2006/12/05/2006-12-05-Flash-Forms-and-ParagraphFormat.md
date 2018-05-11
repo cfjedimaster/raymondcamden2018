@@ -4,6 +4,8 @@ title: "Flash Forms and ParagraphFormat"
 date: "2006-12-05T14:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/12/05/Flash-Forms-and-ParagraphFormat
 ---
 
 A user recently sent in this problem: They noticed that if they paragraphFormatted the result of an HTML textarea, they got nicely formatted results. If they did the same thing with a Flash Form textarea, it didn't work.

@@ -4,6 +4,8 @@ title: "BlogCFC 4 Released"
 date: "2005-11-10T16:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/10/BlogCFC-4-Released
 ---
 
 After <i>much</i> too much time, I'm happy to announce the release of <a href="http://ray.camdenfamily.com/projects/blogcfc">BlogCFC 4.0</a>. With this release come numerous new features since the last official release. A short list of updates includes trackback support, search stats, layout improvements, bug fixes, etc. Also I'm happy to announce the launch of the <a href="http://ray.camdenfamily.com/projects/blogcfc">BlogCFC project page</a>. This is the page to go to download the latest bits. 

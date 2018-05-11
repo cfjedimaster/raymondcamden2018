@@ -4,6 +4,8 @@ title: "Preselecting data with Spry"
 date: "2006-10-09T19:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/09/Preselecting-data-with-Spry
 ---
 
 I was working with a friend today who had an interesting question. How do you preselect a row in a Spry Dataset? Turns out this was pretty simple (at first).

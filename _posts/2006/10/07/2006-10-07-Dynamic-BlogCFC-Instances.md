@@ -4,6 +4,8 @@ title: "Dynamic BlogCFC Instances"
 date: "2006-10-07T14:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/07/Dynamic-BlogCFC-Instances
 ---
 
 This may be better off at <a href="http://www.blogcfc.com">BlogCFC.com</a>, but I've had a few requests for this lately so I thought I'd post it here.

@@ -4,6 +4,8 @@ title: "Best of CF9: GView"
 date: "2009-12-08T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/08/Best-of-CF9-GView
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Welcome to the next entry in the Best of ColdFusion 9 Contest. Today's entry is GView by <a href="http://www.bennadel.com/index.cfm">Ben Nadel</a>. This entry was reviewed by Daniel Short (and as before, I'll chime in here and there and interpret some of his comments). GView is a simple GMail viewer. It makes use of ColdFusion 9's new IMAP support primarily, but also hits the caching system, VFS, and other new features. <b>Note:</b> Ben was nice and sent us a pre-configured configuration for a demo GMail account. I've removed those credentials from the zip. You can find the settings within the Application.cfc file and they must be updated if you want to test the code.
@@ -66,4 +68,4 @@ Another nice little touch - note the dynamic application name:
 
 Most of my OS applications use a method like this to name themselves. By hashing the current path you are guaranteed a unique name per server.  If he had used something simple like "gview", it's possible that another application on the server may use the same name.
 
-Anyway - that's it. As always, keep the comments friendly, download it, and check it out by clicking the download link below.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fgview%5Fcfimap%2Ezip'>Download attached file.</a></p>
+Anyway - that's it. As always, keep the comments friendly, download it, and check it out by clicking the download link below.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fgview%{% endraw %}5Fcfimap%2Ezip'>Download attached file.</a></p>

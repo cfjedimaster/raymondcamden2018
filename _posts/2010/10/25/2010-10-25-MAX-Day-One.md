@@ -4,6 +4,8 @@ title: "MAX Day One"
 date: "2010-10-25T21:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2010/10/25/MAX-Day-One
 ---
 
 Let's start with the <b>Good:</b>

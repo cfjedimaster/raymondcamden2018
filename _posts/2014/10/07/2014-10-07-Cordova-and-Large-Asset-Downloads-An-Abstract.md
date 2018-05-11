@@ -4,6 +4,8 @@ title: "Cordova and Large Asset Downloads - An Abstract"
 date: "2014-10-07T17:10:00+06:00"
 categories: Development Mobile 
 tags: 
+banner_image: 
+permalink: /2014/10/07/Cordova-and-Large-Asset-Downloads-An-Abstract
 ---
 
 <p>

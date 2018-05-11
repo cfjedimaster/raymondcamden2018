@@ -4,6 +4,8 @@ title: "self.getFamily().addOne().addOne()"
 date: "2014-11-01T20:11:00+06:00"
 categories: Adoption 
 tags: 
+banner_image: 
+permalink: /2014/11/01/selfgetFamilyaddOneaddOne
 ---
 
 <p>

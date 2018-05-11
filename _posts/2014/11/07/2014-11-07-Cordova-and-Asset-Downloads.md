@@ -4,6 +4,8 @@ title: "Cordova and Asset Downloads"
 date: "2014-11-07T16:11:00+06:00"
 categories: JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2014/11/07/Cordova-and-Asset-Downloads
 ---
 
 <p>
@@ -145,7 +147,7 @@ function getAssets() {
 	var dirEntry = window.resolveLocalFileSystemURL(cordova.file.dataDirectory, function(dir) {
 		&#x2F;&#x2F;now we have the data dir, get our asset dir
 		console.log(&quot;got main dir&quot;,dir);
-		dir.getDirectory(globals.assetSubDir+&quot;&#x2F;&quot;, {create:true}, function(aDir) {
+		dir.getDirectory(globals.assetSubDir+&quot;&#x2F;&quot;, {% raw %}{create:true}{% endraw %}, function(aDir) {
 			console.log(&quot;ok, got assets&quot;, aDir);	
 			
 			var reader = aDir.createReader();

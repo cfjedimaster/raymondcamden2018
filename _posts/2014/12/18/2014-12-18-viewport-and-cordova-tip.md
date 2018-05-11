@@ -4,6 +4,8 @@ title: "Viewport and Cordova Tip"
 date: "2014-12-18T17:18:11+06:00"
 categories: Development Mobile 
 tags: 
+banner_image: 
+permalink: /2014/12/18/viewport-and-cordova-tip
 ---
 
 Yesterday I ran into an interesting thing with Cordova and I thought I'd share. I assume most folks are aware of the benefits of adding a meta tag specifying viewport when building mobile-friendly websites. If you aren't, here are a <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag">few</a> <a href="http://css-tricks.com/snippets/html/responsive-meta-tag/">examples</a> <a href="https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/set-the-viewport?hl=en">demonstrating</a> the idea. I created a quick Cordova application yesterday specifically to demonstrate this for the <a href="http://manning.com/camden/">book</a> I'm writing. Using the same base HTML, I made two applications and in one of them I used the meta tag. 

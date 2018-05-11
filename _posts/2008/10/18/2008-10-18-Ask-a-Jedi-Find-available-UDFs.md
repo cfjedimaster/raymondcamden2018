@@ -4,6 +4,8 @@ title: "Ask a Jedi: Find available UDFs"
 date: "2008-10-18T12:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/18/Ask-a-Jedi-Find-available-UDFs
 ---
 
 Brandon asks:
@@ -23,12 +25,12 @@ b = 2;
 c = 3;
 d = 'you betcha!';
 
-function e() { return 'beer!'; }
+function e() {% raw %}{ return 'beer!'; }{% endraw %}
 
 f = [1,2,3];
-g = {name='Ray',consuming=e};
+g = {% raw %}{name='Ray',consuming=e}{% endraw %};
 
-function h() { return "more beer!"; }
+function h() {% raw %}{ return "more beer!"; }{% endraw %}
 &lt;/cfscript&gt;
 
 &lt;cffunction name="i"&gt;

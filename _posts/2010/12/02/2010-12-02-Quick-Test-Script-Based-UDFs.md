@@ -4,6 +4,8 @@ title: "Quick Test - Script Based UDFs"
 date: "2010-12-02T17:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/12/02/Quick-Test-Script-Based-UDFs
 ---
 
 I've been writing UDFs for a <i>long</i> time - <a href="http://www.cflib.org">CFLib</a> was begun when ColdFusion 5 was still in development. But I have to tell you - this one surprised me. Without checking the docs or writing code, tell me what the following script will do:

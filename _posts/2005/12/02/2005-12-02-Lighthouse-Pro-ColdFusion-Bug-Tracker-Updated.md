@@ -4,6 +4,8 @@ title: "Lighthouse Pro (ColdFusion Bug Tracker) Updated"
 date: "2005-12-02T17:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2005/12/02/Lighthouse-Pro-ColdFusion-Bug-Tracker-Updated
 ---
 
 This is a very, very small update to <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a>. The updates are:

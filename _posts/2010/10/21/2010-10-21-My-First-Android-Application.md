@@ -4,6 +4,8 @@ title: "My First Android Application"
 date: "2010-10-21T19:10:00+06:00"
 categories: Flex Mobile 
 tags: 
+banner_image: 
+permalink: /2010/10/21/My-First-Android-Application
 ---
 
 Earlier this week I finally found the time to get my hands on Adobe's new tools to enable AIR development for mobile, specifically the Android platform. I have to be a bit vague about the details as things are still under NDA but I thought I'd share some quick thoughts, and the actual results of my first Android application.
@@ -16,4 +18,4 @@ When I can, I'll post the full code to the application, and talk about the exper
 <img src="https://static.raymondcamden.com/images/image0.png" />
 
 <b>Shot 2:</b><br/>
-<img src="https://static.raymondcamden.com/images/cfjedi/image1.png" /><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FDeathClock%2Ezip'>Download attached file.</a></p>
+<img src="https://static.raymondcamden.com/images/cfjedi/image1.png" /><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FDeathClock%{% endraw %}2Ezip'>Download attached file.</a></p>

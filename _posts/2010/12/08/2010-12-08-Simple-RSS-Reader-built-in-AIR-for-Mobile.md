@@ -4,6 +4,8 @@ title: "Simple RSS Reader built in AIR for Mobile"
 date: "2010-12-08T19:12:00+06:00"
 categories: Flex Mobile 
 tags: 
+banner_image: 
+permalink: /2010/12/08/Simple-RSS-Reader-built-in-AIR-for-Mobile
 ---
 
 Tonight I whipped up a quick port of Mike Chamber's code that <a href="http://www.mikechambers.com/blog/2008/01/22/parsing-rss-20-feeds-in-actionscript-3/">demonstrates RSS parsing in ActionScript</a>. I took his code and built a simple native AIR for Mobile application from it. The more I work with <a href="http://labs.adobe.com/technologies/flashbuilder_burrito/">Flash Builder "Burrito"</a> and <a href="http://labs.adobe.com/technologies/flexsdk_hero/">Flex SDK "Hero"</a> (the new AIR framework with mobile support), the more I <i>really</i> appreciate how easy Adobe has made mobile development. I've got a full application here that downloads a RSS feed, displays it nicely, and allows you to read the entry text. While this isn't that special, what impresses me is that steps done to make it easy to create the application. For example, it's trivial to tell the application to move from one screen to another. It's trivial to pass data from one view to another. These are all things that aren't terribly complex in a traditional AIR application - but frankly there is nothing at all wrong with making things even simpler. Let's take a look at the code - and again - credit goes to Mike Chambers for the original.
@@ -30,7 +32,7 @@ Here is that template in full. I'm going to skip over the things covered in Mike
 <code>
 &lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
-		xmlns:s="library://ns.adobe.com/flex/spark" title="News from {COMPANY}" viewActivate="init()"&gt;
+		xmlns:s="library://ns.adobe.com/flex/spark" title="News from {% raw %}{COMPANY}{% endraw %}" viewActivate="init()"&gt;
 	&lt;fx:Declarations&gt;
 		&lt;!-- Place non-visual elements (e.g., services, value objects) here --&gt;
 	&lt;/fx:Declarations&gt;
@@ -104,7 +106,7 @@ Here is that template in full. I'm going to skip over the things covered in Mike
 	}	
 	
 	private function loadEntry(evt:Event):void {
-		navigator.pushView(ItemView,{item:rssListing.selectedItem});
+		navigator.pushView(ItemView,{% raw %}{item:rssListing.selectedItem}{% endraw %});
 		
 	}
 
@@ -120,7 +122,7 @@ Here is that template in full. I'm going to skip over the things covered in Mike
 		&lt;s:VerticalLayout paddingTop="10" paddingLeft="5" paddingRight="5" gap="20" /&gt;
 	&lt;/s:layout&gt;
 	
-	&lt;s:List id="rssListing" dataProvider="{rssItems}" width="100%" height="100%" click="loadEntry(event)" labelField="title" /&gt;
+	&lt;s:List id="rssListing" dataProvider="{% raw %}{rssItems}{% endraw %}" width="100{% raw %}%" height="100%{% endraw %}" click="loadEntry(event)" labelField="title" /&gt;
 
 	&lt;s:Button width="100%" label="Visit Website" click="navigateToURL(new URLRequest(URL))" /&gt;
 
@@ -135,7 +137,7 @@ As I said, I won't bother discussing what Mike's post does, but let me point out
 
 <code>
 private function loadEntry(evt:Event):void {
-	navigator.pushView(ItemView,{item:rssListing.selectedItem});
+	navigator.pushView(ItemView,{% raw %}{item:rssListing.selectedItem}{% endraw %});
 }
 </code>
 
@@ -195,10 +197,10 @@ Now let's look at the rss item viewf.
 		&lt;s:VerticalLayout paddingTop="10" paddingLeft="5" paddingRight="5" gap="20" /&gt;
 	&lt;/s:layout&gt;
 
-	&lt;s:Label width="100%" id="titleValue" text="{data.item.title}"  /&gt;
+	&lt;s:Label width="100{% raw %}%" id="titleValue" text="{data.item.title}{% endraw %}"  /&gt;
 	&lt;s:Label width="100%" id="dateValue" /&gt;
 
-	&lt;s:TextArea id="bodyText" width="100%" height="100%"  /&gt;
+	&lt;s:TextArea id="bodyText" width="100{% raw %}%" height="100%{% endraw %}"  /&gt;
 	
 	&lt;s:Button width="100%" label="Click to Read" click="navigateToURL(new URLRequest(data.item.link))" /&gt;
 &lt;/s:View&gt;
@@ -214,4 +216,4 @@ For the most part, this isn't anything special. Note how I make use of data.item
 
 <p>
 
-And that's it. I've included a zip that includes all the source code. The zip also includes an APK file if you want to skip compiling it yourself. I've got an interesting idea for a follow up to this - and if I can stay off of Warcraft enough - I'll get it out tomorrow night.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FSimpleRSS%2Ezip'>Download attached file.</a></p>
+And that's it. I've included a zip that includes all the source code. The zip also includes an APK file if you want to skip compiling it yourself. I've got an interesting idea for a follow up to this - and if I can stay off of Warcraft enough - I'll get it out tomorrow night.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FSimpleRSS%{% endraw %}2Ezip'>Download attached file.</a></p>

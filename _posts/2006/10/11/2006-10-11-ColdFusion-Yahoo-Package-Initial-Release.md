@@ -4,6 +4,8 @@ title: "ColdFusion Yahoo Package - Initial Release"
 date: "2006-10-11T11:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/11/ColdFusion-Yahoo-Package-Initial-Release
 ---
 
 Ok, "ColdFusion Yahoo Package" is kind of a dumb name, but I'm sharing my initial release of the API I've built for Yahoo's various web services. Right now I only support Search and Answers. Here is an example of using the Search API:
@@ -31,4 +33,4 @@ And here is an example that searches for resolved questions about ColdFusion:
 &lt;cfdump var="#result#" label="Question search for 'coldfusion', type=resolved"&gt;
 </code>
 
-This code is <b>not</b> heavily tested, nor did I include a license just yet (it will be the same license as the rest of my code). The idea though is to create a very simple API for your ColdFusion applications to work with Yahoo. Feedback is appreciated.<p><a href='enclosures/D%3A%5Cwebsites%5Cdev%2Ecamdenfamily%2Ecom%5Cenclosures%2Fyahoo%2Ezip'>Download attached file.</a></p>
+This code is <b>not</b> heavily tested, nor did I include a license just yet (it will be the same license as the rest of my code). The idea though is to create a very simple API for your ColdFusion applications to work with Yahoo. Feedback is appreciated.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Cdev%{% endraw %}2Ecamdenfamily{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fyahoo%{% endraw %}2Ezip'>Download attached file.</a></p>

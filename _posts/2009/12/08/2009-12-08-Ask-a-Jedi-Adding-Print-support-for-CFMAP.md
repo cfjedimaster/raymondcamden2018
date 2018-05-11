@@ -4,6 +4,8 @@ title: "Ask a Jedi: Adding Print support for CFMAP"
 date: "2009-12-08T14:12:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/12/08/Ask-a-Jedi-Adding-Print-support-for-CFMAP
 ---
 
 Dale asks:
@@ -30,7 +32,7 @@ $(document).ready(function() {
 			ColdFusion.Window.destroy('mapWindow')
 		} catch(e) {}
 		var address = $("#address").val()
-		ColdFusion.Window.create('mapWindow', 'Map', 'test2.cfm?address='+escape(address), {height:500,width:500,modal:false,closable:true, draggable:true,resizable:true,center:true,initshow:true })
+		ColdFusion.Window.create('mapWindow', 'Map', 'test2.cfm?address='+escape(address), {% raw %}{height:500,width:500,modal:false,closable:true, draggable:true,resizable:true,center:true,initshow:true }{% endraw %})
 	})
 
 	
@@ -109,7 +111,7 @@ $(document).ready(function() {
 			ColdFusion.Window.destroy('mapWindow')
 		} catch(e) {}
 		var address = $("#address").val()
-		ColdFusion.Window.create('mapWindow', 'Map', 'test2.cfm?address='+escape(address), {height:500,width:500,modal:false,closable:true, draggable:true,resizable:true,center:true,initshow:true })
+		ColdFusion.Window.create('mapWindow', 'Map', 'test2.cfm?address='+escape(address), {% raw %}{height:500,width:500,modal:false,closable:true, draggable:true,resizable:true,center:true,initshow:true }{% endraw %})
 	})
 
 	$("#printBtn").live("click",function() {

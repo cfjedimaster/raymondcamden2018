@@ -4,6 +4,8 @@ title: "Just found this - JSLint"
 date: "2010-11-10T15:11:00+06:00"
 categories: JavaScript 
 tags: 
+banner_image: 
+permalink: /2010/11/10/Just-found-this-JSLint
 ---
 
 Earlier this week I received a copy of <a href="http://oreilly.com/catalog/9780596806767">JavaScript Patterns</a>. I've only finished the first two chapters and already I'm finding it to be an incredible book. (I'll be doing a review when I finish.) One of the first things I learned while reading it concerned a tool called <a href="http://www.jslint.com/">JSLint</a>. To quote their FAQ, JSLint is a code quality tool. It can read in JavaScript and report on problems, best practices, anti-patterns, etc. It is very configurable so if you find it <i>too</i> strict you can knock it down a peg or two. I spent a few minutes last night (before my Black Ops session!) working on a ColdFusion Builder Extension. Why? It isn't really needed - there is an <a href="http://www.rockstarapps.com/joomla-1.5.8/products/jslint-eclipse-plugin.html">eclipse plugin</a> already for JSLint. But it gave me an excuse to write another extension and revel in how darn cool ColdFusion Builder is. Here is a quick example of it in action:
@@ -54,4 +56,4 @@ If we called the extension via the project view, I ask for the selected resource
 &lt;script src="#builderHelper.getrooturl()#jquery-1.4.3.min.js"&gt;&lt;/script&gt;
 </code>
 
-Anyway, I plan on adding to this as time goes on. Click the download link below to get the extension.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fjslint%2Ezip'>Download attached file.</a></p>
+Anyway, I plan on adding to this as time goes on. Click the download link below to get the extension.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fjslint%{% endraw %}2Ezip'>Download attached file.</a></p>

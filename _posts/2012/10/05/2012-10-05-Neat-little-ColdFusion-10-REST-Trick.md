@@ -4,6 +4,8 @@ title: "Neat little ColdFusion 10 REST Trick"
 date: "2012-10-05T18:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2012/10/05/Neat-little-ColdFusion-10-REST-Trick
 ---
 
 One of the marquee features of ColdFusion 10 is REST support. I think we did a good job in our support, but over all, I'm not terribly impressed. REST kinda feels like complexity for complexity sake. Of course, it is nowhere as complex or difficult as WSDL, but, I couldn't really see using REST over a regular simple HTTP-based service. Then - I tried something kinda cool - and when it worked - I changed my mind.

@@ -4,6 +4,8 @@ title: "CFLOGIN, How do I love thee..."
 date: "2006-11-27T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/27/CFLOGIN-How-do-I-love-thee
 ---
 
 So this weekend, <a href="http://www.brucephillips.name/blog">Bruce Phillips</a> pointed out on my last <a href="http://ray.camdenfamily.com/index.cfm/2006/11/25/Last-build-of-my-Flex-2ColdFusion-Security-Homework">Flex Homework</a> post that he only needed to run the CFLOGIN tag once in his Flex application. My code was running it for every hit in the onRequestStart method.

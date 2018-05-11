@@ -4,6 +4,8 @@ title: "Intermediate ColdFusion Contest!"
 date: "2005-10-30T14:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/30/Intermediate-ColdFusion-Contest
 ---
 
 After the success of the first <a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">ColdFusion contest</a>, I have decided to go ahead and run a second contest. As before,  it will involve games because, well, I think games are cool, and by their very nature games present many interesting challenges. 

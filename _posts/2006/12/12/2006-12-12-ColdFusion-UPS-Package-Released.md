@@ -4,6 +4,8 @@ title: "ColdFusion UPS Package Released"
 date: "2006-12-12T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/12/12/ColdFusion-UPS-Package-Released
 ---
 
 I'm proud to announce the release of the <a href="http://cfups.riaforge.org/">ColdFusion UPS Package</a>.  This package will serve as a simple to use interface to the UPS services. Today the service includes address verification and shipment tracking. 

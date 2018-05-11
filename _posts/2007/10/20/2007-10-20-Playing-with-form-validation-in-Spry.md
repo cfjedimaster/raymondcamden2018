@@ -4,6 +4,8 @@ title: "Playing with form validation in Spry"
 date: "2007-10-20T11:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/20/Playing-with-form-validation-in-Spry
 ---
 
 As much as I love working with <a href="http://labs.adobe.com/technologies/spry/">Spry</a>, I haven't spent a lot of time playing with the widgets or effects. Outside of the tabs - I just wasn't that interested. During my Spry presentation to the OC CFUG this week, I decided it was time to take a look at the form validation widgets that ship with Spry. This morning I looked specifically at the <a href="http://labs.adobe.com/technologies/spry/articles/checkbox_overview/index.html">checkbox widget</a>.
@@ -101,7 +103,7 @@ While this is nice and all - so far it isn't too terribly exciting. But the chec
 
 <code>
 &lt;script type="text/javascript"&gt;
-	var sprycb = new Spry.Widget.ValidationCheckbox("mycheckboxes",{minSelections:2});
+	var sprycb = new Spry.Widget.ValidationCheckbox("mycheckboxes",{% raw %}{minSelections:2}{% endraw %});
 &lt;/script&gt; 
 </code>
 
@@ -140,7 +142,7 @@ Here is a complete example:
 &lt;/form&gt;
 
 &lt;script type="text/javascript"&gt;
-	var sprycb = new Spry.Widget.ValidationCheckbox("mycheckboxes",{minSelections:2});
+	var sprycb = new Spry.Widget.ValidationCheckbox("mycheckboxes",{% raw %}{minSelections:2}{% endraw %});
 &lt;/script&gt; 
 
 &lt;/body&gt;

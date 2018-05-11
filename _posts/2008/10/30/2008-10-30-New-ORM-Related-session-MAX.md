@@ -4,6 +4,8 @@ title: "New ORM Related session @ MAX"
 date: "2008-10-30T16:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/30/New-ORM-Related-session-MAX
 ---
 
 Jason Delmore just <a href="http://www.cfinsider.com/index.cfm/2008/10/30/Object-Relational-Mapping-with-ColdFusion-9">blogged</a> about a new session @ MAX concerning ColdFusion 9 and ORM (Object Relational Mapping). 

@@ -4,6 +4,8 @@ title: "Warning to XBox 360 users about Windows Media Player 11"
 date: "2006-12-27T23:12:00+06:00"
 categories: Video Games 
 tags: 
+banner_image: 
+permalink: /2006/12/27/Warning-to-XBox-360-users-about-Windows-Media-Player-11
 ---
 
 Recently I updated my Windows Media Player to version 11. Why? No real reason. I rarely use WMP but I was bored so I figured it couldn't hurt. 

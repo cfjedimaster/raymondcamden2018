@@ -4,6 +4,8 @@ title: "Two followup jQuery Mobile questions"
 date: "2011-12-15T12:12:00+06:00"
 categories: jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2011/12/15/Two-followup-jQuery-Mobile-questions
 ---
 
 An attendee from my <a href="http://www.raymondcamden.com/index.cfm/2011/12/15/Recording-and-Slides-from-jQuery-Mobile-presentation">jQuery Mobile presentation</a> yesterday had some followup questions that I thought would be good to share with everyone. These kind of fall into the part tech/part opinion area so please feel free to argue with me.

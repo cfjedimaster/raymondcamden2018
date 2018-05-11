@@ -4,6 +4,8 @@ title: "Latest Mobile app - WTFRU"
 date: "2011-11-04T17:11:00+06:00"
 categories: ColdFusion HTML5 JavaScript jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2011/11/04/Latest-Mobile-app-WTFRU
 ---
 
 Today I held an open meeting over connect to discuss some interesting issues I ran into while building my latest mobile application. Thank you to all who attended. The recording link is at the very end of this blog post. For every one else, here is a quick look at what I built and why I built it.
@@ -155,4 +157,4 @@ For folks looking for buzzwords - here is a list of the technologies used:
 <li>Eclipse
 <li>Android SDK
 <li>Bootstrap
-</ul><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fwtfru%2Ezip'>Download attached file.</a></p>
+</ul><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fwtfru%{% endraw %}2Ezip'>Download attached file.</a></p>

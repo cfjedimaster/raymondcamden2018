@@ -4,6 +4,8 @@ title: "Using argumentCollection with AJAX calls to ColdFusion Components"
 date: "2010-11-01T23:11:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2010/11/01/Using-argumentCollection-with-AJAX-calls-to-ColdFusion-Components
 ---
 
 Wow, this is a cool tip. I've had this in my queue to write about for a few weeks now but I was delayed due to MAX. Credit for this goes to <a href="http://www.stephenduncanjr.com/">Stephen Duncan Jr</a> - I'm just passing it along - and to be honest - it kinda seems obvious now - but it's certainly not something I've thought of before. I've said it before - but I'll say it again. <b>I love my readers.</b> 
@@ -41,9 +43,9 @@ If you pass argumentCollection=data to a CFC method (or any UDF), then ColdFusio
 &lt;script&gt;
 
 $(document).ready(function() {
-	var mydata = {data:[1,2,3,4,5,"Camden,Raymond"]};
+	var mydata = {% raw %}{data:[1,2,3,4,5,"Camden,Raymond"]}{% endraw %};
 
-	$.post("test.cfc", {method:"handleArray",argumentCollection:$.toJSON(mydata), returnFormat:"plain"}, function(res) {
+	$.post("test.cfc", {% raw %}{method:"handleArray",argumentCollection:$.toJSON(mydata), returnFormat:"plain"}{% endraw %}, function(res) {
 		alert($.trim(res));
 	})
 

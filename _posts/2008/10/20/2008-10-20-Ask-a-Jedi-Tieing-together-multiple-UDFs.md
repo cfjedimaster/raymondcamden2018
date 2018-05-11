@@ -4,6 +4,8 @@ title: "Ask a Jedi: Tieing together multiple UDFs"
 date: "2008-10-20T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/20/Ask-a-Jedi-Tieing-together-multiple-UDFs
 ---
 
 Brandon asks:
@@ -44,7 +46,7 @@ function newButton(b) {
 	arrayAppend(request.buttons, b);
 }
 
-function getButtons() { return request.buttons; }
+function getButtons() {% raw %}{ return request.buttons; }{% endraw %}
 &lt;/cfscript&gt;
 
 &lt;cfset newButton("Nuke the Zoo!")&gt;
@@ -69,7 +71,7 @@ function newButton(b) {
 	arrayAppend(request[getStore()].buttons, b);
 }
 
-function getButtons() { return request[getStore()].buttons; }
+function getButtons() {% raw %}{ return request[getStore()].buttons; }{% endraw %}
 </code>
 
 This version is like the first one, except that I've added a getStore() UDF to create a root level key for my data. Notice I create the structure if it doesn't exist, and then I return the name. The other UDFs don't' care about this name. They just store what they need to. You could get even fancier of course but hopefully this gives you an idea on how to solve your problem.

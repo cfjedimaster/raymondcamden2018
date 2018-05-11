@@ -4,6 +4,8 @@ title: "Lighthouse Pro ColdFusion Bug Tracker Updated"
 date: "2005-11-01T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/01/Lighthouse-Pro-ColdFusion-Bug-Tracker-Updated
 ---
 
 Woohoo - the application was out for 24 hours before the first bug reports came rolling in, which is just fine. I want to see this application used by as many people as possible. So what has changed?

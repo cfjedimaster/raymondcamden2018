@@ -4,6 +4,8 @@ title: "Slides, code from ColdFusion/Solr presentation"
 date: "2010-11-12T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/11/12/Slides-code-from-ColdFusionSolr-presentation
 ---
 
 Below you will find my slides and code form my ColdFusion and Solr presentation. I'm currently planning on repeating this on the Online Meetup sometime in the future (probably January). Enjoy.

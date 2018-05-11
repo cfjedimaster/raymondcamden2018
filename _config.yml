@@ -9,7 +9,7 @@
 title: "Raymond Camden"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "DevRel for Auth0 Extend, Star Wars nerd, Web/Serverless hacker, lover of good beer and good books. Oh, and cats."
+description: "DevRel for Extend by Auth0, Star Wars nerd, Web/Serverless hacker, lover of good beer and good books. Oh, and cats."
 
 # Tagline near the site title
 tagline: "Code, cats, Star Wars, and more cats"
@@ -31,8 +31,10 @@ navigation:
   url: /
 - text: About
   url: /about/
-- text: Style Guides
-  url: /style-guide/
+- text: Speaking
+  url: /speaking/
+- text: Contact
+  url: /contact/
 - text: Archives
   url: /tags/
 
@@ -41,7 +43,7 @@ disqus:
 
 # Author information - author info at the bottom of the post
 author_name: "Raymond Camden"
-author_bio: "Raymond is a developer advocate for Auth0, focused on Extend, serverless, and enterprise cat demos."
+author_bio: "Raymond is a developer advocate for Extend by Auth0. He focuses on serverless and enterprise cat demos."
 author_url:  "https://www.raymondcamden.com"
 author_location: "Lafayette, LA"
 author_image: /images/avatar.jpg

@@ -4,6 +4,8 @@ title: "Interesting Links"
 date: "2012-12-05T14:12:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2012/12/05/Interesting-Links
 ---
 
 I know - a very generic title there. These two things made the rounds on Twitter recently and I realize that not all of my readers are addicted to the Twitter-crack as much as I am. I also thought these were some pretty damn important links so I wanted to share them here as well.

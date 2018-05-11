@@ -4,6 +4,8 @@ title: "MP3 Downloading - Where is the crime?"
 date: "2005-12-08T15:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2005/12/08/MP3-Downloading-Where-is-the-crime
 ---
 
 So I had an interesting thought yesterday, and was curious to see what other peoples opinion would be. When the RIAA sues some poor kid (not that I excuse illegal downloading), is the crime based on the fact that they <b>downloaded</b> an MP3 or that they <b>possessed</b> an MP3 that they didn't own a physical CD for? 

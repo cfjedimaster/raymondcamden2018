@@ -4,6 +4,8 @@ title: "iPhone version of ColdFusionBloggers.org"
 date: "2007-12-11T16:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/12/11/iPhone-version-of-ColdFusionBloggersorg
 ---
 
 The <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> aggregator now automatically detects the iPhone browser and sends it to a special URL:

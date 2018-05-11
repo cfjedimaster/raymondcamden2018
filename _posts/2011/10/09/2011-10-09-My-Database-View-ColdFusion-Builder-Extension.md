@@ -4,6 +4,8 @@ title: "\"My Database View\" ColdFusion Builder Extension"
 date: "2011-10-09T18:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2011/10/09/My-Database-View-ColdFusion-Builder-Extension
 ---
 
 For a while now a small bug has impacted RDS dataviews in ColdFusion Builder. I love the built in data views in CF Builder, but this little bug has annoyed me for too long now.

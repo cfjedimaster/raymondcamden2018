@@ -4,6 +4,8 @@ title: "YouTubeCFC update and the most insane API you will see today..."
 date: "2008-11-12T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/12/YouTubeCFC-update-and-the-most-insane-API-you-will-see-today
 ---
 
 I updated my <a href="http://youtubecfc.riaforge.org">YouTubeCFC</a> component at lunch today. One change involves search. YouTube's API provides spelling suggestions for some search terms and I now return that in the call. Even cooler, you can tell the API to search again if no results were found and a suggestion was made.

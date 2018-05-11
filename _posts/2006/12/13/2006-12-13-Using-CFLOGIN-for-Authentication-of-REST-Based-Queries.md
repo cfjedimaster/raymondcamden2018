@@ -4,6 +4,8 @@ title: "Using CFLOGIN for Authentication of REST Based Queries"
 date: "2006-12-13T16:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/12/13/Using-CFLOGIN-for-Authentication-of-REST-Based-Queries
 ---
 
 A reader sent me an interesting question today. He was building a REST based service and wanted to add authentication. He didn't want to use web server based security. He just wanted to know what username/password the remote person was passing in with their HTTP request.

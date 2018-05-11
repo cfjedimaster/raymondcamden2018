@@ -4,6 +4,8 @@ title: "Ask a Jedi: ColdFusion datefield/change question"
 date: "2008-10-01T15:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/01/Ask-a-Jedi-ColdFusion-datefieldchange-question
 ---
 
 Curt Danceswithformfields asked:
@@ -28,7 +30,7 @@ As much as I've played around with ColdFusion 8, I really haven't done much with
 My first thought was - let's try a bind command with cfajaxproxy:
 
 <code>
-&lt;cfajaxproxy bind="javaScript:doSubmit({duedate})"&gt;
+&lt;cfajaxproxy bind="javaScript:doSubmit({% raw %}{duedate}{% endraw %})"&gt;
 </code>
 
 Unfortunately this fired the second you clicked the calendar. Even though - visibly - nothing changed the doSubmit function was firing immediately for me. When I switched from a form submit to just a console.log('twinkies'), I noticed quite a few log messages when using the control. I figured the only way to make this work would be to store the original value, and compare that in my JavaScript. This is what I ended up with:
@@ -63,7 +65,7 @@ function doSubmit(duedate) {
 
       &lt;/cfform&gt;
 
-	&lt;cfajaxproxy bind="javaScript:doSubmit({duedate})"&gt;
+	&lt;cfajaxproxy bind="javaScript:doSubmit({% raw %}{duedate}{% endraw %})"&gt;
 	&lt;cfset ajaxOnLoad('setOrig')&gt;
 
 &lt;/cfif&gt;

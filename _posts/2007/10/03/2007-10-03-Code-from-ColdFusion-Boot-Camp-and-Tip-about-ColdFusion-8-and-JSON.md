@@ -4,6 +4,8 @@ title: "Code from ColdFusion Boot Camp, and Tip about ColdFusion 8 and JSON"
 date: "2007-10-03T11:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/03/Code-from-ColdFusion-Boot-Camp-and-Tip-about-ColdFusion-8-and-JSON
 ---
 
 I just gave a quick CF Boot Camp at MAX on using ColdFusion to send data to Spry. It covers going from static to CF6, CF7, and CF8 dynamic data. I've zipped up the code below. Note that it makes use of a database you won't have (I'll try to use the art gallery from now on) and I've removed the personal pictures of my kids. 
@@ -25,6 +27,6 @@ This takes two values, row and column. The row version matches option 1 above, a
 
 <code>
 var mydata = new Spry.Data.JSONDataSet("/presentations/cfspry/product.cfc?method=getProducts&returnFormat=json&queryFormat=column",
-{path:"DATA", pathIsObjectOfArrays:true});
+{% raw %}{path:"DATA", pathIsObjectOfArrays:true}{% endraw %});
 &lt;/script&gt;
-</code><p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FArchive11%2Ezip'>Download attached file.</a></p>
+</code><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FArchive11%{% endraw %}2Ezip'>Download attached file.</a></p>

@@ -4,6 +4,8 @@ title: "Best of CF9: Application.cfc Script Template"
 date: "2009-12-30T13:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/30/Best-of-CF9-Applicationcfc-Script-Template
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> <b>Note from the Editor, AKA Ray:</b> Well obviously the contest is taking a bit longer to review than I thought. Sorry folks! But so far the entries have been great and I'm happy we have too <b>many</b> entries versus not enough! Anyway, this is, most likely, the last review for 2009. They will continue in 2010. This review was written by <a href="http://www.cfsilence.com">Todd Sharp</a>.
@@ -46,7 +48,7 @@ THIS.applicationTimeout = createTimeSpan(0, 1, 0, 0);
 THIS.clientManagement = false;
 
 // Where Client variables are stored; can be cookie, registry, or the name of a data source.
-THIS.clientStorage = "registry"; //cookie||registry||datasource
+THIS.clientStorage = "registry"; //cookie{% raw %}||registry|{% endraw %}|datasource
 
 // Contains ColdFusion custom tag paths.
 THIS.customTagPaths = "";
@@ -113,7 +115,7 @@ THIS.ormsettings = {};
 // note: THIS.datasource applies to cfquery as well as ORM. It is defined on line 31.
 </code>
 <p>
-Pretty standard and he appears to have nailed everything.  A part of me strongly wishes that Ben Forta would have never used UPPERCASE scope names in the WACK books so that my eyes wouldn't have to bleed every time I see someone else do that, but oh well :).  One minor correction - this.debugipaddress is actually this.debuggingipaddresses (see <a href="http://www.raymondcamden.com/index.cfm/2009/7/13/ColdFusion-9s-new-Application-variables#c2EE4FB47-B864-DABB-DCFFBC5FE56A2C9C">here</a>) - no points deducted for that since it's a doc bug.  I also would have liked to have seen him mention the struct keys for smtpServerSettings ({server="",username="",password=""}).</p>
+Pretty standard and he appears to have nailed everything.  A part of me strongly wishes that Ben Forta would have never used UPPERCASE scope names in the WACK books so that my eyes wouldn't have to bleed every time I see someone else do that, but oh well :).  One minor correction - this.debugipaddress is actually this.debuggingipaddresses (see <a href="http://www.raymondcamden.com/index.cfm/2009/7/13/ColdFusion-9s-new-Application-variables#c2EE4FB47-B864-DABB-DCFFBC5FE56A2C9C">here</a>) - no points deducted for that since it's a doc bug.  I also would have liked to have seen him mention the struct keys for smtpServerSettings ({% raw %}{server="",username="",password=""}{% endraw %}).</p>
 
 <p>The rest of this entry just lays out a skeleton for the various methods within Application.cfc with some helpful comments. </p>
 
@@ -233,4 +235,4 @@ return;
 }</code>
 
 <p>
-Overall it's a handy reference for folks.  Nice job Russ!</p><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fupdatedapplication%5Fcfcincfscriptreference1%2Ezip'>Download attached file.</a></p>
+Overall it's a handy reference for folks.  Nice job Russ!</p><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fupdatedapplication%{% endraw %}5Fcfcincfscriptreference1%2Ezip'>Download attached file.</a></p>

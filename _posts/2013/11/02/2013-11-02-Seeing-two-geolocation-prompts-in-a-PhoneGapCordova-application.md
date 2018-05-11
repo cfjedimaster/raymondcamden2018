@@ -4,6 +4,8 @@ title: "Seeing two geolocation prompts in a PhoneGap/Cordova application?"
 date: "2013-11-02T13:11:00+06:00"
 categories: Mobile 
 tags: 
+banner_image: 
+permalink: /2013/11/02/Seeing-two-geolocation-prompts-in-a-PhoneGapCordova-application
 ---
 
 <p>

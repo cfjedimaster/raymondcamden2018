@@ -4,6 +4,8 @@ title: "BlogCFC Update"
 date: "2005-11-14T15:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/14/BlogCFC-Update
 ---
 
 A small update, but with one important fix. Here are the changes:

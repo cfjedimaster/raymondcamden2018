@@ -4,6 +4,8 @@ title: "ColdFusion eSeminar Series"
 date: "2007-10-11T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/11/ColdFusion-eSeminar-Series
 ---
 
 I don't think I blogged on this before, but Adobe is running a series of <a href="http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=506273">ColdFusion eSeminars</a> that might be of interest to you. One is going on right now - but there are more in the future:

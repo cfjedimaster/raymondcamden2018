@@ -4,6 +4,8 @@ title: "Intermediate Contest Entry 2"
 date: "2005-11-17T21:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/17/Intermediate-Contest-Entry-2
 ---
 
 Welcome to the second entry in the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">Intermediate ColdFusion Contest</a>. The earlier entry may be found at the end of this post. Today's entry is from Seth Petry-Johnson. Before reading on, please check his application <a href="http://ray.camdenfamily.com/demos/contest2/seth">here</a>. You can download his code from the download link at the bottom. (Remember that his code belongs to him!)
@@ -67,4 +69,4 @@ This is nice as it makes tweaking the core aspects of the game something a non-t
 Earlier Entries:
 <ul>
 <li><a href="http://ray.camdenfamily.com/index.cfm/2005/11/16/Intermediate-Contest-Entry-1">Entry 1</a>
-</ul><p><a href='enclosures/D%3A%5Cwebsites%5Ccamdenfamily%5Csource%5Cmorpheus%5Cblog%5Cenclosures%2Fseth%2Ezip'>Download attached file.</a></p>
+</ul><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Ccamdenfamily%{% endraw %}5Csource{% raw %}%5Cmorpheus%{% endraw %}5Cblog{% raw %}%5Cenclosures%{% endraw %}2Fseth%2Ezip'>Download attached file.</a></p>

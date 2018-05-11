@@ -4,6 +4,8 @@ title: "MAX: Next Generation Flex: Infrastructure and Logic, Or - How NOT Be a G
 date: "2005-10-18T20:10:00+06:00"
 categories: Flex 
 tags: 
+banner_image: 
+permalink: /2005/10/18/MAX-Next-Generation-Flex-Infrastructure-and-Logic-Or-How-NOT-Be-a-Good-Audience-Member
 ---
 
 So, I want to write about the Flex session ran by Ely Greenfield. Unfortunately, three guys behind me decided to talk throughout the entire presentation.

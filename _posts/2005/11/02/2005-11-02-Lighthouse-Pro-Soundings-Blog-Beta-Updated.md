@@ -4,6 +4,8 @@ title: "Lighthouse Pro, Soundings, Blog Beta Updated"
 date: "2005-11-02T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/02/Lighthouse-Pro-Soundings-Blog-Beta-Updated
 ---
 
 Lots of updates - so here are the details:

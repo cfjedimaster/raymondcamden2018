@@ -4,6 +4,8 @@ title: "Note from a .Net programmer getting into ColdFusion"
 date: "2011-11-23T12:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/11/23/Note-from-a-Net-programmer-getting-into-ColdFusion
 ---
 
 I had a cool post about jQuery Mobile planned, but realized (right before I saved it) that I was completely wrong and that my post was pretty worthless. Feeling down - I thought it might be nice to share this email I got yesterday:

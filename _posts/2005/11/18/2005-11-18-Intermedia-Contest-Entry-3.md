@@ -4,6 +4,8 @@ title: "Intermedia Contest Entry 3"
 date: "2005-11-18T18:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/18/Intermedia-Contest-Entry-3
 ---
 
 Welcome to the third entry in the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">Intermediate ColdFusion Contest</a>. The earlier entries may be found at the end of this post. Today's entry is from Jeff D. Chastain, which for some reason sounded like a 'rogue gamblers' type name, so it's perfect for the contest. Before reading on, please check his application <a href="http://ray.camdenfamily.com/demos/contest2/jchastain/blackjack">here</a>. You can download his code from the download link at the bottom. That's the word <b>Download</b> for the Weegs out there. (Sorry man, couldn't resist. :) Remember that his code belongs to him!
@@ -88,4 +90,4 @@ Earlier Entries:
 <ul>
 <li><a href="http://ray.camdenfamily.com/index.cfm/2005/11/17/Intermediate-Contest-Entry-2">Entry 2</a>
 <li><a href="http://ray.camdenfamily.com/index.cfm/2005/11/16/Intermediate-Contest-Entry-1">Entry 1</a>
-</ul><p><a href='enclosures/D%3A%5Cwebsites%5Ccamdenfamily%5Csource%5Cmorpheus%5Cblog%5Cenclosures%2Fjchastain%2Ezip'>Download attached file.</a></p>
+</ul><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Ccamdenfamily%{% endraw %}5Csource{% raw %}%5Cmorpheus%{% endraw %}5Cblog{% raw %}%5Cenclosures%{% endraw %}2Fjchastain%2Ezip'>Download attached file.</a></p>

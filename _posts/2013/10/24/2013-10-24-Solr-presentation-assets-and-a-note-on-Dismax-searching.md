@@ -4,6 +4,8 @@ title: "Solr presentation assets, and a note on DisMax searching"
 date: "2013-10-24T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2013/10/24/Solr-presentation-assets-and-a-note-on-Dismax-searching
 ---
 
 <p>
@@ -47,4 +49,4 @@ As a simple example, consider a search for "phonegap coldfusion" on this blog. B
 
 <p>
 I'm going to update my own blog engine when I get back next week and I'm sure there are reasons why you wouldn't <i>always</i> use DisMax, but to me, it seems pretty clear that you probably want to test it out.
-</p><p><a href='enclosures/C%3A%5Chosts%5C2013%2Eraymondcamden%2Ecom%5Cenclosures%2FSolrPreso%2Ezip'>Download attached file.</a></p>
+</p><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2013%{% endraw %}2Eraymondcamden{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FSolrPreso%{% endraw %}2Ezip'>Download attached file.</a></p>

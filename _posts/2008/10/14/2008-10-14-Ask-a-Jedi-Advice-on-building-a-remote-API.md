@@ -4,6 +4,8 @@ title: "Ask a Jedi: Advice on building a remote API?"
 date: "2008-10-14T14:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/14/Ask-a-Jedi-Advice-on-building-a-remote-API
 ---
 
 Joshua asks:

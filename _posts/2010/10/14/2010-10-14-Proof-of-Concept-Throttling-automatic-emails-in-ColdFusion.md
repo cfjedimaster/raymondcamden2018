@@ -4,6 +4,8 @@ title: "Proof of Concept - Throttling automatic emails in ColdFusion"
 date: "2010-10-14T19:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/10/14/Proof-of-Concept-Throttling-automatic-emails-in-ColdFusion
 ---
 
 Ok, so hopefully you've got a nice system for handling errors within your ColdFusion application. (And if not, don't worry, there's a <a href="http://www.raymondcamden.com/index.cfm/2007/12/5/The-Complete-Guide-to-Adding-Error-Handling-to-Your-ColdFusion-Application">guide</a> for that.) And maybe you even have your error handler sending you a nice, informative email on every error. Great. Until one day something goes haywire and you end up with 1000 emails in your inbox. (Although that's never happened to me. Honest. Well, not this week. I mean today.) Wouldn't it be nice if you could send email - but perhaps tell ColdFusion to not send the <i>same</i> email within a timeframe? Here is my stab at building such a service.
@@ -101,7 +103,7 @@ Once we have the hashed value, we can check for it within our cache variable and
 	body="This is the body of the email. Random: #randRange(1,100)#"
 }&gt;
 
-&lt;cfset res = application.throttler.throttleSend (mailOb,2,"Random: [0-9]{1,3}")&gt;
+&lt;cfset res = application.throttler.throttleSend (mailOb,2,"Random: [0-9]{% raw %}{1,3}{% endraw %}")&gt;
 
 &lt;cfoutput&gt;result was #res#&lt;/cfoutput&gt;
 </code>

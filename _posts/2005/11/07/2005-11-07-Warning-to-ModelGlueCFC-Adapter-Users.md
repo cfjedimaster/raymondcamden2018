@@ -4,6 +4,8 @@ title: "Warning to ModelGlue/CFC Adapter Users"
 date: "2005-11-07T18:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/07/Warning-to-ModelGlueCFC-Adapter-Users
 ---
 
 Note - this is conjecture. I've seen it on my machine, and I had someone confirm on IRC. Two people experiencing a problem does not make it true - but I thought I'd share in case others run into this.

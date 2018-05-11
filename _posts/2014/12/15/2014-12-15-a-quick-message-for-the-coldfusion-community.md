@@ -4,6 +4,8 @@ title: "A quick message for the ColdFusion community"
 date: "2014-12-15T15:12:57+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2014/12/15/a-quick-message-for-the-coldfusion-community
 ---
 
 You've been warned - this video has no educational value.

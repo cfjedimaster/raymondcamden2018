@@ -4,6 +4,8 @@ title: "Yes, you're in the right place"
 date: "2011-12-09T14:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2011/12/09/Yes-youre-in-the-right-place
 ---
 
 After many years of running ColdFusionJedi.com, today I've launched a new version of my blog and a new name as well. Welcome to RaymondCamden.com. I wanted this change for a few reasons.

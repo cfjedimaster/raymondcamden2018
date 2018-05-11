@@ -4,6 +4,8 @@ title: "CFC Debugging"
 date: "2005-10-04T22:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/04/CFC-Debugging
 ---
 
 ColdFusion has numerous debugging options. One of them includes a template execution report. This table includes every CFML template run as well as the total time spent on it, along with an average. Along with CFML templates, it also includes CFC method calls. One problem with this report, though, is that it considers CFC method calls with different arguments as different things to report. That's not bad at all. It may be that foo(1) is significantly slower than foo(0). However, I was looking for a report that gathered <i>all</i> the CFC calls together and gave more of a summary type report.

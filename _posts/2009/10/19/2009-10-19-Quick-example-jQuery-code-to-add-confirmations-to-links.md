@@ -4,6 +4,8 @@ title: "Quick example - jQuery code to add confirmations to links"
 date: "2009-10-19T23:10:00+06:00"
 categories: jQuery 
 tags: 
+banner_image: 
+permalink: /2009/10/19/Quick-example-jQuery-code-to-add-confirmations-to-links
 ---
 
 I'm not a big fan of confirmations. I mean, if I wasn't sure I wanted to do some action than I wouldn't have clicked the link, right? But sometimes clients ask us to add such confirmations to potentially dangerous operations, like deletes for example. Here is a super simple example of how to quickly add a confirmation to a range of actions on a page - delete or whatever.

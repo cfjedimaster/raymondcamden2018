@@ -4,6 +4,8 @@ title: "Testing Globalization Support in PhoneGap 2.2"
 date: "2012-11-15T18:11:00+06:00"
 categories: JavaScript jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2012/11/15/Testing-Globalization-Support-in-PhoneGap-22
 ---
 
 One of the more interesting new features in PhoneGap 2.2 iss the inclusion of a globalization plugin into the core of the SDK itself. This plugin has many features, but basically boils down to the ability to get the user's locale and language as well as being able to format numbers and dates. You can read the <a href="http://docs.phonegap.com/en/2.2.0/cordova_globalization_globalization.md.html#Globalization">full API docs</a> for a complete guide, but I thought it would be interesting to build a simple proof of concept application that tested out this feature.
@@ -51,4 +53,4 @@ Pretty sweet, right? Now my PhoneGap application will display data in a format t
 
 So - obviously the asynchronous nature of the code may be a bit problematic. But it's not something you can't overcome. If I were building this for a client I'd build a JavaScript function that would handle this behind the scenes so they could do one call and a callback and be done with it. That would keep my getData() function much cleaner.
 
-I've attached a zip of my code to this blog entry. Enjoy.<p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fwww2%2Ezip'>Download attached file.</a></p>
+I've attached a zip of my code to this blog entry. Enjoy.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2012%{% endraw %}2Eraymondcamden{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fwww2%{% endraw %}2Ezip'>Download attached file.</a></p>

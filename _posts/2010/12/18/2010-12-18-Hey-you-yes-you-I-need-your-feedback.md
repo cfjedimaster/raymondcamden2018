@@ -4,6 +4,8 @@ title: "Hey you - yes you - I need your feedback"
 date: "2010-12-18T13:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2010/12/18/Hey-you-yes-you-I-need-your-feedback
 ---
 
 Hey readers - it's the end of the year (well, kinda), and I'm looking for feedback on my blog. This is not feedback on me. I know I'm perfect. (Ok, maybe <i>slightly</i> less than perfect.) What I'm looking for is for folks to provide me some ideas on how ColdFusionJedi.com can be more beneficial to you. My goal with this site is to help others along with helping myself. Many times the things I explore here are my own way of coming to grip with some particularly complex concept. Writing about it, simplifying and explaining it on my blog, helps me firm up the ideas in my own head and I hope it helps others as well. 

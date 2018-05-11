@@ -4,6 +4,8 @@ title: "Random code I'm sharing for no good reason"
 date: "2014-11-09T22:11:00+06:00"
 categories: JavaScript 
 tags: 
+banner_image: 
+permalink: /2014/11/09/Random-code-Im-sharing-for-no-good-reason
 ---
 
 <p>

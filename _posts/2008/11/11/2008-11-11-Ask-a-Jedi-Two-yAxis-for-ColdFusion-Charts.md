@@ -4,6 +4,8 @@ title: "Ask a Jedi: Two Y Axis for ColdFusion Charts"
 date: "2008-11-11T22:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/11/Ask-a-Jedi-Two-yAxis-for-ColdFusion-Charts
 ---
 
 Danny asks:

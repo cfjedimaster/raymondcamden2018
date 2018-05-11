@@ -4,6 +4,8 @@ title: "SQL Server Profiler"
 date: "2006-11-14T14:11:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2006/11/14/SQL-Server-Profiler
 ---
 
 Ok - I'm probably the last one on the planet to know this - but just in case I'm not - I thought I'd share.

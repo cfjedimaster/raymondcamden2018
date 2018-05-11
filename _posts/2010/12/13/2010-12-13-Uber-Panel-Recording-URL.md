@@ -4,6 +4,8 @@ title: "Uber Panel Recording URL"
 date: "2010-12-13T15:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/12/13/Uber-Panel-Recording-URL
 ---
 
 Sorry for the delay in getting the recording link up. There were some "issues" back in the Connect headquarters (I imagine something out of the Matrix) and I just got the URL a few seconds ago. Enjoy:

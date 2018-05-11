@@ -4,6 +4,8 @@ title: "Managing Relationships with Transfer (2)"
 date: "2008-11-10T22:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/10/Managing-Relationships-with-Transfer-2
 ---
 
 In my <a href="http://www.raymondcamden.com/index.cfm/2008/11/7/Managing-relationships-with-Transfer-or-the-ORM-meets-Dr-Phil">last post</a> on relationships in Transfer, I talked about the ManyToOne relationship. I defined the Department object and associated employees with a department. 
@@ -116,4 +118,4 @@ I went back into my test page and added a nicer formatted version:
 &lt;/cfoutput&gt;
 </code>
 
-Any questions? In the next post I'll circle back to ManyToOne and talk about that relationship versus OneToMany.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Femployeedirectory%2Ezip'>Download attached file.</a></p>
+Any questions? In the next post I'll circle back to ManyToOne and talk about that relationship versus OneToMany.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Femployeedirectory%{% endraw %}2Ezip'>Download attached file.</a></p>

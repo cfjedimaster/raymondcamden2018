@@ -4,6 +4,8 @@ title: "ColdFusion Podcast Explosion"
 date: "2005-11-01T16:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/01/ColdFusion-Podcast-Explosion
 ---
 
 Ok, so maybe it isn't an "explosion", but we now have not one, but two sites offering podcasts of interest to ColdFusion developers.

@@ -4,6 +4,8 @@ title: "ColdFusion handling of Subversion events"
 date: "2006-12-09T14:12:00+06:00"
 categories: ColdFusion Development 
 tags: 
+banner_image: 
+permalink: /2006/12/09/ColdFsion-handling-of-Subversion-events
 ---
 
 I consider myself a casual user of Subversion (SVN). So every now and then I get surprised by what you can do with it. One of the cooler features of SVN is <a href="http://svnbook.red-bean.com/nightly/en/svn.reposadmin.create.html#svn.reposadmin.create.hooks">hook scripts</a>. These are scripts that run based on SVN events, such as committing a file. As you can imagine this is a pretty powerful tool as it lets you have finer control and additional monitoring of your SVN repository.
@@ -14,10 +16,10 @@ Hook scripts are text files stored in the repository. To start using them you si
 
 Now the question is - how do you run ColdFusion from a command prompt? Unfortunately there is no direct way of doing this. I took Ashwin's <a href="http://blogs.sanmathi.org/ashwin/2006/09/14/howto-call-cf-from-the-command-line/">suggestion</a> and downloaded Curl. Curl is a command line tool to download a URL. 
 
-Each hook script has different parameters passed to it. The post-commit script is passed the repository URL and revision number. In a bat file you can use these attributes as %1 and %2. Here is the bat file I used:
+Each hook script has different parameters passed to it. The post-commit script is passed the repository URL and revision number. In a bat file you can use these attributes as {% raw %}%1 and %{% endraw %}2. Here is the bat file I used:
 
 <code>
-c:\progra~1\curl\curl.exe "http://127.0.0.1/testingzone/test.cfm?repos=%1&rev=%2"
+c:\progra~1\curl\curl.exe "http://127.0.0.1/testingzone/test.cfm?repos={% raw %}%1&rev=%{% endraw %}2"
 </code>
 
 So to recap - when I check a file into this repository, SVN will automatically fire off my bat file and pass in the repo URL and revision number. 

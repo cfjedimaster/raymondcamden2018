@@ -4,6 +4,8 @@ title: "BlogCFC 5.9.7 Released"
 date: "2010-10-08T19:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2010/10/08/BlogCFC-597-Released
 ---
 
 So I normally post my BlogCFC related stuff to it's own <a href="http://news.blogcfc.com">blog</a>, but I'm just too darn excited about this release to keep it there. I'll be posting this entry there as well so folks who subscribe to both - please forgive me. This is a huge release of the blogware and has some awesome new features that I'm extremely proud of. Of course - there were all submitted by the community of BlogCFC Users so thanks go to them. So what's new?

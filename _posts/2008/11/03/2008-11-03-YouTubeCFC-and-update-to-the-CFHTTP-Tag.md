@@ -4,6 +4,8 @@ title: "YouTubeCFC and update to the CFHTTP Tag"
 date: "2008-11-03T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/03/YouTubeCFC-and-update-to-the-CFHTTP-Tag
 ---
 
 For a while now the <a href="http://youtubecfc.riaforge.org">YouTubeCFC</a> component has not been able to upload videos to YouTube. While it worked fine when initially released, some engineer at YouTube decided to tighten up some code some place and that change revealed a bug with ColdFusion and CFHTTP when doing multipart form posts.

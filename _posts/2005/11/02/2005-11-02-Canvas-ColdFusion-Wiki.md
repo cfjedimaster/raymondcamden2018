@@ -4,6 +4,8 @@ title: "Canvas ColdFusion Wiki"
 date: "2005-11-02T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/02/Canvas-ColdFusion-Wiki
 ---
 
 Today the 13th (and final -sigh-) Macromedia DRK was released. My final DRK application, Canvas, is one of two ColdFusion applications featured on the DRK. Canvas is a Wiki application built using the <a href="http://www.model-glue.com">Model-Glue</a> framework. 

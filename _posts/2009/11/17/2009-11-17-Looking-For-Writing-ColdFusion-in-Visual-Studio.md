@@ -4,6 +4,8 @@ title: "Looking For: Writing ColdFusion in Visual Studio"
 date: "2009-11-17T12:11:00+06:00"
 categories: ColdFusion Development 
 tags: 
+banner_image: 
+permalink: /2009/11/17/Looking-For-Writing-ColdFusion-in-Visual-Studio
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/vs_mainlogo.png" style="align:left;padding-right:5px" />

@@ -4,6 +4,8 @@ title: "Microsoft's Cross Browser Testing \"Solution\""
 date: "2006-12-01T14:12:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2006/12/01/Microsofts-Cross-Browser-Testing-Solution
 ---
 
 Ok, so I've complained about this so many times before I'm not even going to bother linking to the older entries, but it looks like Microsoft has finally addressed the issue of running multiple versions of IE in the same browser.

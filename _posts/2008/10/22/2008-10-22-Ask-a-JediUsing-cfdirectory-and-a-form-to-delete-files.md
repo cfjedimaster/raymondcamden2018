@@ -4,6 +4,8 @@ title: "Ask a Jedi:Using cfdirectory and a form to delete files"
 date: "2008-10-22T21:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/22/Ask-a-JediUsing-cfdirectory-and-a-form-to-delete-files
 ---
 
 This was a simple request, but I thought I'd share the code in case any other beginners would find it interesting. Joe asks:

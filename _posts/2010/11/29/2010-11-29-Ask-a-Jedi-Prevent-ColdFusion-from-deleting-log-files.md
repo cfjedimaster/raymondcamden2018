@@ -4,6 +4,8 @@ title: "Ask a Jedi: Prevent ColdFusion from deleting log files"
 date: "2010-11-29T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/11/29/Ask-a-Jedi-Prevent-ColdFusion-from-deleting-log-files
 ---
 
 Grant asks:

@@ -4,6 +4,8 @@ title: "First stab at my Flex homework"
 date: "2006-11-21T21:11:00+06:00"
 categories: Flex 
 tags: 
+banner_image: 
+permalink: /2006/11/21/First-stab-at-my-Flex-homework
 ---
 
 The first version of my <a href="http://ray.camdenfamily.com/index.cfm/2006/11/21/My-Thanksgiving-Flex-Homework">Flex homework</a> is done. You can view it here: 
@@ -34,8 +36,8 @@ If you view my <a href="http://ray.camdenfamily.com/demos/flexsec/SimpleRemoting
 	&lt;/mx:State&gt;
 		
 	&lt;mx:State name="default"&gt;
-		&lt;mx:RemoveChild target="{loginStage}" /&gt;
-		&lt;mx:SetProperty target="{mainStage}" name="visible" value="true"/&gt;
+		&lt;mx:RemoveChild target="{% raw %}{loginStage}{% endraw %}" /&gt;
+		&lt;mx:SetProperty target="{% raw %}{mainStage}{% endraw %}" name="visible" value="true"/&gt;
 	&lt;/mx:State&gt;
 		
 &lt;/mx:states&gt;

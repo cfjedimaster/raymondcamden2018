@@ -4,6 +4,8 @@ title: "Article: New Linting API"
 date: "2013-10-07T18:10:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2013/10/07/Article-New-Linting-API
 ---
 
 <p>

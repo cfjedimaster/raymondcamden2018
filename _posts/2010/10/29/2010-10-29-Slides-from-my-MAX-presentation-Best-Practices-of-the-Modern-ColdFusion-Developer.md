@@ -4,6 +4,8 @@ title: "Slides from my MAX presentation: Best Practices of the Modern ColdFusion
 date: "2010-10-29T15:10:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2010/10/29/Slides-from-my-MAX-presentation-Best-Practices-of-the-Modern-ColdFusion-Developer
 ---
 
 Sorry for the delay in getting this up, but here are the slides and code bits from my MAX 2010 presentation. For those of you who attended, you know this is a -very- light code presentation, so for those of you <i>not</i> there, this presentation is probably pretty useless on it's own. Either way, you can at least enjoy my cool pictures.

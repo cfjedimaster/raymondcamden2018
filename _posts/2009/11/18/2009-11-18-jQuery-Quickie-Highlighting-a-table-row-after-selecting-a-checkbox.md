@@ -4,6 +4,8 @@ title: "jQuery Quickie: Highlighting a table row after selecting a checkbox"
 date: "2009-11-18T13:11:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/11/18/jQuery-Quickie-Highlighting-a-table-row-after-selecting-a-checkbox
 ---
 
 One of the nice little UI features in GMail is how it will highlight an entire table row when you check the checkbox for a particular mail message. It's a relatively simple thing to do but I wanted to whip up a quick sample for myself. Here is one way to do it with ColdFusion and jQuery.

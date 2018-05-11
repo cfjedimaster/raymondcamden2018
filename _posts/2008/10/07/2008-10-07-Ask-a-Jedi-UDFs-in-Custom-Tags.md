@@ -4,6 +4,8 @@ title: "Ask a Jedi: UDFs in Custom Tags"
 date: "2008-10-07T18:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/07/Ask-a-Jedi-UDFs-in-Custom-Tags
 ---
 
 Nathan asks:

@@ -4,6 +4,8 @@ title: "Adding Parse.com User support to your PhoneGap application"
 date: "2012-10-31T12:10:00+06:00"
 categories: HTML5 JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2012/10/31/Adding-Parsecom-User-support-to-your-PhoneGap-application
 ---
 
 A few days ago I wrapped up my <a href="http://www.raymondcamden.com/index.cfm/2012/10/24/Building-a-Parsecom-Enabled-PhoneGap-App--Part-5">series</a> on integrating <a href="http://www.parse.com">Parse.com</a> support with <a href="http://www.phonegap.com">PhoneGap</a>. Now that I've got a good handle on the basics, I thought I'd begin exploring some of the other features. Today I'm going to share an example of adding User support.
@@ -85,7 +87,7 @@ Parse/av8jY0rm4qrXl3dBGLf9odznxbhuqHhiiH6s8Gxn/currentUser
 
 with a value of:
 
-{"username":"ray1","email":"raymondcamden@gmail.com","_id":"fwjEd2UStM","_sessionToken":"kkfwkr3va2hvd16t58vjl4ypq"}
+{% raw %}{"username":"ray1","email":"raymondcamden@gmail.com","_id":"fwjEd2UStM","_sessionToken":"kkfwkr3va2hvd16t58vjl4ypq"}{% endraw %}
 
 Ok - we've covered registration and authentication. What about data? You've got a few options here.
 
@@ -125,4 +127,4 @@ Full code of my ugly, but usable, demo application is below.
 
 <blockquote>
 Ok, a quick side note. You can stop reading now if you want and won't miss a thing. When I built this application, I wanted a simple way to handle having a 'single page' frame for my application. By that I mean, when you clicked the Login button for example I wanted to do an Ajax-call for the content and load it in. In other words, once you hit index.html, you never actually leave that. <a href="http://www.jquerymobile.com">jQuery Mobile</a> is perfect for that. But... I kinda wanted to try something different. I wanted JQM-like navigation with <b>zero</b> UI changes. I whipped up something I called Cylon. Dumb name, I know. But it was kinda fun to build. I doubt if I'll open source it (well, technically, you can grab the source in the zip and use it if you want) but I wouldn't mind any feedback on the code if you want to give it a shot.
-</blockquote><p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fwww%20%2D%20Copy%2Ezip'>Download attached file.</a></p>
+</blockquote><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2012%{% endraw %}2Eraymondcamden{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fwww%{% endraw %}20{% raw %}%2D%{% endraw %}20Copy%2Ezip'>Download attached file.</a></p>

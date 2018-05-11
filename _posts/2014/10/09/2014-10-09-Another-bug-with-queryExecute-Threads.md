@@ -4,6 +4,8 @@ title: "Another bug with queryExecute - Threads"
 date: "2014-10-09T12:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2014/10/09/Another-bug-with-queryExecute-Threads
 ---
 
 <p>
@@ -12,13 +14,13 @@ Wow, not a good morning for one of my favorite new features of ColdFusion 11. Th
 <!--more-->
 <pre><code class="language-markup">&lt;cfscript&gt;
 	
-	data = querynew(&quot;id&quot;, &quot;varchar&quot;, [{id:&quot;a&quot;}, {id:&quot;b&quot;}]);
+	data = querynew(&quot;id&quot;, &quot;varchar&quot;, [{% raw %}{id:&quot;a&quot;}{% endraw %}, {% raw %}{id:&quot;b&quot;}{% endraw %}]);
 	
 	cfthread(name=&quot;d1&quot;) {
-		thread.result = queryExecute(&quot;select * from data&quot;, {}, {dbtype:&quot;query&quot;});
+		thread.result = queryExecute(&quot;select * from data&quot;, {% raw %}{}, {dbtype:&quot;query&quot;}{% endraw %});
 	}
 	cfthread(name=&quot;d2&quot;) {
-		var result = queryExecute(&quot;select sleep(2), title from tblblogentries limit 0,1&quot;, {}, {datasource:&quot;myblog&quot;});
+		var result = queryExecute(&quot;select sleep(2), title from tblblogentries limit 0,1&quot;, {% raw %}{}, {datasource:&quot;myblog&quot;}{% endraw %});
 		thread.foo = 1;
 		thread.result = result;
 	}

@@ -4,6 +4,8 @@ title: "ColdFusion 8 and Ajax-Based Login"
 date: "2007-11-29T15:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/29/coldfusion-8-and-ajaxbased-login
 ---
 
 Some of the new, cool, hip sites out there have done something rather neat with their login system. If you take a look at <a href="http://www.technorati.com/">Technorati</a>, notice that when you click the Sign In link, a modal window pops up. This lets you login no matter where you in the site. No need to go to another page (thank goodness, since Technorati is slow) and be sent back (hopefully) when done. Can ColdFusion 8 do this? Of course! Let's look at an example.
@@ -36,7 +38,7 @@ The link above runs the JavaScript function, doLogin, so let's go there next.
 
 <code>
 function doLogin() {
-	ColdFusion.Window.create('loginwindow','Login','login.cfm',{center:true,modal:true});
+	ColdFusion.Window.create('loginwindow','Login','login.cfm',{% raw %}{center:true,modal:true}{% endraw %});
 }
 </code>
 

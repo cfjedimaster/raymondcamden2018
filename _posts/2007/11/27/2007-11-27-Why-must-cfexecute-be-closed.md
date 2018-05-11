@@ -4,6 +4,8 @@ title: "Why must cfexecute be closed?"
 date: "2007-11-27T14:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/27/Why-must-cfexecute-be-closed
 ---
 
 Simple question - but does anyone know why CFEXECUTE tags <i>must</i> be closed? In other words, you can't do this:

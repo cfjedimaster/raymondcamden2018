@@ -4,6 +4,8 @@ title: "Spry Photo Gallery Demo"
 date: "2006-11-15T12:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/11/15/Spry-Photo-Gallery-Demo
 ---
 
 Don Booth of the Spry team created a darn cool Spry demo. It is a simple photo gallery but it really comes off nicely.

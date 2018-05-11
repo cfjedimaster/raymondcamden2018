@@ -4,6 +4,8 @@ title: "Using JavaScript to update the browser window title when the user is awa
 date: "2010-10-19T12:10:00+06:00"
 categories: JavaScript jQuery 
 tags: 
+banner_image: 
+permalink: /2010/10/19/Using-JavaScript-to-update-the-browser-window-title-when-the-user-is-away
 ---
 
 For a few months now I've noticed a few sites making use of an interesting technique. When I have a tab open to their site, but not focused, they will change the title when some event occurs. When I switch back to the tab the title reverts back to the normal state. I thought I'd take a few moments and see if I could mock that up in JavaScript as an experiment. It turned out to be pretty darn trivial, except for a minor bug with Chrome. Here is how I solved it - and as always - if anyone has suggestions for how to improve it, let me know. I'll also point out that this blog entry makes use of jQuery (why wouldn't it?) but that jQuery is not required to create something like this.

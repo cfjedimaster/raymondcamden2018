@@ -4,6 +4,8 @@ title: "Ask a Jedi: How do I insert Spry data into a ColdFusion variable?"
 date: "2007-11-02T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/02/Ask-a-Jedi-How-do-I-insert-Spry-data-into-a-ColdFusion-variable
 ---
 
 Rual asks:
@@ -11,7 +13,7 @@ Rual asks:
 <blockquote>
 <p>
 I tried a search on your blog and on the LiveDocs of Spry for how to insert Spry data into a ColdFusion variable, currently is trowing an error this expression.
-#LsDateFormat({FECHANACIMIENTO}, "dd/mm/yyyy")#
+#LsDateFormat({% raw %}{FECHANACIMIENTO}{% endraw %}, "dd/mm/yyyy")#
 
 Gives this error<br />
 Invalid CFML construct found on line 35 at column 50.

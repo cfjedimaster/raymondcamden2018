@@ -4,6 +4,8 @@ title: "Ask a Jedi: Example of onMissingTemplate to handle dynamic city/state pa
 date: "2008-12-09T13:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/09/Ask-a-Jedi-Example-of-onMissingTemplate-to-handle-dynamic-citystate-pages
 ---
 
 Dave asks:
@@ -46,4 +48,4 @@ Given a request of some.com/louisiana/lafayette.cfm, the value passed to pageReq
 
 I've included the application as a zip to this blog entry. You should be able to extract it to your web server, and then hit any URL. The only drawback is that .cfm must be in the URL. 
 
-If you wanted to support example.com/louisiana/lafayette, then you would need to use the URL rewriters I mentioned above.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fcitydemo%2Ezip'>Download attached file.</a></p>
+If you wanted to support example.com/louisiana/lafayette, then you would need to use the URL rewriters I mentioned above.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fcitydemo%{% endraw %}2Ezip'>Download attached file.</a></p>

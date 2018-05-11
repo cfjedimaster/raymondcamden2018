@@ -4,6 +4,8 @@ title: "Learning ColdFusion as a Service"
 date: "2009-11-23T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/11/23/Learning-ColdFusion-as-a-Service
 ---
 
 Two weeks ago I was honored to give a presentation on ColdFusion as a Service (CFaaS) at <a href="http://www.riaunleashed.com">RIAUnleashed</a>. I chose that topic because I had not yet played with this new ColdFusion 9 feature and I thought it would be an excellent opportunity to ramp up quickly. I had a lot of fun, and made some cool demos (all of which I'll be posting in the next few weeks) but I ran into a few issues actually learning how stuff works. I tend to attack docs in a shotgun, scattered approach so it may be just me, but I found that - as a whole - the feature was a bit fragmented doc wise. So in order to help others learn, here is what I discovered and how I recommend approaching CFaaS.

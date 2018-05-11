@@ -4,6 +4,8 @@ title: "Best of CF9: Hyrule"
 date: "2009-12-28T23:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/28/Best-of-CF9-Hyrule
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is <a href="http://hyrule.riaforge.org">Hyrule</a> from <a href="http://www.danvega.org/blog/">Dan Vega</a>. This entry is - to me - a slight break in the rules. It is an existing project and not something created brand new for the contest. I don't think I was specific in that regards and since the code is ColdFusion 9 specific and therefore pretty much new, I'm letting it slide here. Plus it has a Zelda-based name and therefore it must be cool.
@@ -97,4 +99,4 @@ All in all, very slick. As a framework, it has the typical "installation" proces
 
 Repeat after me: <b>Stop using \.</b> / works just fine on Windows and Unix. If this isn't fixed in the latest version, simply replace the \ with a /, and next time you see Dan, tell him Ray said he has to buy you a beer. 
 
-Ignoring that - everything works smoothly. I like the samples page - although I wish he would also show more of the code. So instead of just telling me about a feature and linking to a result, actually show the code you used to set up the validation. That would save me from having to open the CFC and look at the code directly.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fhyrule%2Ezip'>Download attached file.</a></p>
+Ignoring that - everything works smoothly. I like the samples page - although I wish he would also show more of the code. So instead of just telling me about a feature and linking to a result, actually show the code you used to set up the validation. That would save me from having to open the CFC and look at the code directly.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fhyrule%{% endraw %}2Ezip'>Download attached file.</a></p>

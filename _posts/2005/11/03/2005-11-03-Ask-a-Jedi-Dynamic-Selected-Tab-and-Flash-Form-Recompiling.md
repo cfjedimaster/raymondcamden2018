@@ -4,6 +4,8 @@ title: "Ask a Jedi: Dynamic Selected Tab and Flash Form Recompiling"
 date: "2005-11-03T16:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/03/Ask-a-Jedi-Dynamic-Selected-Tab-and-Flash-Form-Recompiling
 ---
 
 Gerald asks, 
@@ -20,7 +22,7 @@ Yes, it is possible - and this solution comes right from <a href="http://www.mik
 &lt;cfform format="flash" width="400" height="200" name="foo"&gt;
 
 	&lt;cfinput type="hidden" name="thetab" value="#url.tab#"&gt;
-	&lt;cfformgroup type="tabnavigator" selectedIndex="{foo.thetab.text}"&gt;
+	&lt;cfformgroup type="tabnavigator" selectedIndex="{% raw %}{foo.thetab.text}{% endraw %}"&gt;
 	
 		&lt;cfformgroup type="page" label="Tab One" /&gt;
 		&lt;cfformgroup type="page" label="Tab Two" /&gt;

@@ -4,6 +4,8 @@ title: "When is XML not XML?"
 date: "2007-11-12T12:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/12/When-is-XML-not-XML
 ---
 
 Here is a mystery for folks. I've updated my parsing engine for <a href="http://www.coldfusionbloggers.org">coldfusionbloggers.org</a>. I'm using CFHTTP now so I can check Etag type stuff. I take the result text and save it to a file to be parsed by CFFEED.

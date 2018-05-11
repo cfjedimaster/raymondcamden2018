@@ -4,6 +4,8 @@ title: "Nettuts Article: Deeper into Brackets"
 date: "2013-11-08T16:11:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2013/11/08/Nettuts-Article-Deeper-into-Brackets
 ---
 
 <p>

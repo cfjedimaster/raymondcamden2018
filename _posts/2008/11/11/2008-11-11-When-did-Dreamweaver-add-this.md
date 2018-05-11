@@ -4,6 +4,8 @@ title: "When did Dreamweaver add this?"
 date: "2008-11-11T13:11:00+06:00"
 categories: ColdFusion Development 
 tags: 
+banner_image: 
+permalink: /2008/11/11/When-did-Dreamweaver-add-this
 ---
 
 I've been using Dreamweaver CS4 for ColdFusion editing the past few weeks. This is mainly due to some writing I'm doing for Adobe and that Eclipse has been a bit cranky for me lately due to other plugins I need for work.

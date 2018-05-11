@@ -4,6 +4,8 @@ title: "Having trouble with too many map markers and CFMAP?"
 date: "2009-12-15T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/15/Having-trouble-with-too-many-map-markers-and-CFMAP
 ---
 
 About a few months ago a user contacted me with an odd issue with CFMAP. At random times the markers on the map refused to load. Actually they returned the rather odd error that the address didn't exist. Here is an example:
@@ -71,7 +73,7 @@ Anyway, I hope this helps and I'm certainly glad I solved this mysery! (Note, in
     &lt;cfif not structKeyExists(application.longlat, m)&gt;
 	    &lt;cfset result = geo.geocode(key,trim(m))&gt;
 	    &lt;cfset sleep(500)&gt;
-		&lt;cfset application.longlat[m] = {longitude=result.longitude, latitude=result.latitude}&gt;
+		&lt;cfset application.longlat[m] = {% raw %}{longitude=result.longitude, latitude=result.latitude}{% endraw %}&gt;
     &lt;/cfif&gt;
 &lt;/cfloop&gt;
 

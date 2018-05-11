@@ -4,6 +4,8 @@ title: "Application.CFC Code Review"
 date: "2007-10-31T14:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/31/ApplicationCFC-Code-Review
 ---
 
 Patrick emailed me last night with a some problems he was having with an Application.cfc file. When I saw the file - I saw <i>numerous</i> problems. I asked if he was cool with me <strike>ripping</strike>reviewing it publicly and he said sure. I know that many people are still getting used to the idea of Application.cfc, so I hope this is useful, and as true with all code reviews - please take what I say with a grain of salt. Somethings are just personal opinion.

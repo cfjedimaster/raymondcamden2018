@@ -4,6 +4,8 @@ title: "Application.CFC Template Update"
 date: "2007-11-05T15:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/05/ApplicationCFC-Template-Update
 ---
 
 Someone asked me today when I was going to update my Application.cfc reference (linked to in the Guides pod to the left) for ColdFusion 8. I went ahead and did so. You can see the new guide here:

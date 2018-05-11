@@ -4,6 +4,8 @@ title: "Demo of a multi-step form in jQuery Mobile (Part 2)"
 date: "2011-11-22T14:11:00+06:00"
 categories: HTML5 JavaScript jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2011/11/22/Demo-of-a-multistep-form-in-jQuery-Mobile-Part-2
 ---
 
 A few days ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2011/11/18/Demo-of-a-multistep-form-in-jQuery-Mobile">blog entry</a> demonstrating how one could do a multi-step form in a jQuery Mobile application. This worked by simply breaking up the forms into multiple files and having a 'controller' file load in the right one via an include as you progressed through the process. I got some feedback that it would be interesting (and perhaps better) if the process was done completely client-side. Today I worked up a small demo of this as an alternative.
@@ -231,7 +233,7 @@ function handleMSForm(e) {
 		//store them - assumes unique names
 		for(var i=0; i&lt;data.length; i++) {
 			//If nextStep, it's our metadata, don't store it in formdata
-			if(data[i].name=="nextStep") { next=data[i].value;  continue; }
+			if(data[i].name=="nextStep") {% raw %}{ next=data[i].value;  continue; }{% endraw %}
 			//if we have it, add it to a list. This is not "comma" safe.
 			if(formData.hasOwnProperty(data[i].name)) formData[data[i].name] += ","+data[i].value;
 			else formData[data[i].name] = data[i].value;
@@ -244,7 +246,7 @@ function handleMSForm(e) {
 			var nextPage = "#" + next;
 			$.mobile.changePage(nextPage);
 		} else {
-			$.mobile.changePage(next, {type:"post",data:formData});
+			$.mobile.changePage(next, {% raw %}{type:"post",data:formData}{% endraw %});
 		}
 		e.preventDefault();
 	

@@ -4,6 +4,8 @@ title: "I've encrypted my CFML templates and lost the originals, now what?"
 date: "2007-12-28T15:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/12/28/Ive-decrypted-my-CFML-templates-and-lost-the-originals-now-what
 ---
 
 Someone just asked in the CF IRC channel what they can do with set of encrypted templates. The developer on their team encrypted a bunch of code, deleted the originals, and left the company.

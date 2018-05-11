@@ -4,6 +4,8 @@ title: "Time to check out the Playbook"
 date: "2010-11-18T17:11:00+06:00"
 categories: Mobile 
 tags: 
+banner_image: 
+permalink: /2010/11/18/Time-to-check-out-the-Playbook
 ---
 
 At MAX this year RIM showed off their hot new tablet, <a href="http://us.blackberry.com/playbook-tablet/">Playbook</a>. The more I see of this thing the more I like. Best of all - it's got support for pushing out Adobe AIR applications to the platform. That means you can now (in theory anyway) build AIR applications for the desktop, for your mobile device, for Google TV, and for the Playbook tablet. There are some good resources out there to get your started, but most of all you want to begin with Blackberry's <a href="http://us.blackberry.com/developers/tablet/devresources.jsp">Development Resources</a> page. Before you go there you want to ensure you have Flash Builder 4.0.1. Not 4.0. I'm so used to my Adobe applications updating automatically 4 times a day I assumed my Flash Builder was up to date. It wasn't. It's a good 200+ meg download so getting that out of the way will help. You also also going to need to get the Blackberry AIR SDK, the Playbook ISO, VMWare Player, and, if you are like me and have a Windows 64 machine, a 32bit JDK. (I recommend <a href="http://www.kurlu.com/blog/2010/10/installing-blackberry-playbook-sdk-on-windows-7-64bit/">this url</a> to walk you through the 64bit issue. I mentioned this to a Blackberry representative in a meeting and there are aware of the issue.)

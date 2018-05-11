@@ -4,6 +4,8 @@ title: "MAX Birds of a Feather Sessions Posted"
 date: "2008-11-08T13:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/11/08/MAX-Birds-of-a-Feather-Sessions-Posted
 ---
 
 Looking for the Birds of a Feather sessions for MAX? It may be a bit hard to find on the MAX side. Thanks to <a href="http://www.corfield.org">Sean</a> for digging this up. Go to the MAX site, Agenda and details, Highlights tab. This URL should get you there quicker: <a href="http://max.adobe.com/na/experience/#?s=1&p=2">http://max.adobe.com/na/experience/#?s=1&p=2</a>

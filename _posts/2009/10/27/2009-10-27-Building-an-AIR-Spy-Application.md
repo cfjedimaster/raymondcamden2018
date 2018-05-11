@@ -4,6 +4,8 @@ title: "Building an AIR Spy Application"
 date: "2009-10-27T22:10:00+06:00"
 categories: Flex 
 tags: 
+banner_image: 
+permalink: /2009/10/27/Building-an-AIR-Spy-Application
 ---
 
 Earlier today I twittered that I wanted to build a simple AIR application. The idea would be to use the web cam on my Macbook Pro and snap a picture every minute or so. I thought this would be relatively easily in AIR and I wasn't surprised at all. Let me be honest - I did <b>not</b> do heavy research into this. I found two really good web sites and built my application from what I saw there. There is - <b>most definitely</b> - probably much cleaner ways of doing this. I built this for fun - nothing more. That being said, let's take a look.
@@ -97,4 +99,4 @@ Clicking the Start button is where the magic happens. Scroll back up to the Acti
 
 And that's it. You can download a zip of the code and the compiled AIR application below. As I said, this can probably be done much cooler. (Earlier today some sent me a link to an AIR application that only took pictures when movement was detected. That's <i>definitely</i> more intelligent. Unfortunately Firefox's history tool is failing me.) Now the question is - where do I run this? I'm thinking of just leaving my laptop facing out the front window of my house. It would give me a view of the front yard and the street. We've got a pretty quiet neighborhood though so I doubt I'd see much. I could do it Halloween night though and see if anyone comes to TP the house. 
 
-One quick tip: When I first tested, the AIR application would ask permission to use my webcam, but it never actually worked. Thanks go to <a href="http://cfsilence.com/blog/client/index.cfm">Todd Sharp</a> for cuing me in on the fact that somehow my preferences for Flash and the web cam had gotten borked. Switching it to USB Video Class Video fixed things (at least for me on a Macbook Pro).<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fspy%2Ezip'>Download attached file.</a></p>
+One quick tip: When I first tested, the AIR application would ask permission to use my webcam, but it never actually worked. Thanks go to <a href="http://cfsilence.com/blog/client/index.cfm">Todd Sharp</a> for cuing me in on the fact that somehow my preferences for Flash and the web cam had gotten borked. Switching it to USB Video Class Video fixed things (at least for me on a Macbook Pro).<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fspy%{% endraw %}2Ezip'>Download attached file.</a></p>

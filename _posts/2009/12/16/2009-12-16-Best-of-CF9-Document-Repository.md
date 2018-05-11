@@ -4,6 +4,8 @@ title: "Best of CF9: Document Repository"
 date: "2009-12-16T13:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/16/Best-of-CF9-Document-Repository
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 is Document Repository by Nathan Strutz. As you can guess by the title, the application handles document uploads. It has a simple security system with user registration. Once logged in, you can upload a document to the repository. Nathan's code will create a thumbnail, store a record in the database, and add the document to your list. Functionality wise it's only partially there right now, but there are some pretty darn interesting things in the code and it's a great start. Let's take a look.
@@ -99,4 +101,4 @@ So maybe it simply isn't working in Chrome. I can say that the code I've used in
 &lt;cfcontent type="application/pdf" reset="true" variable="#result#"&gt;
 </code>
 
-Anyway, you get the idea. So - in summary. Very nice beginning to a document repository. It's got an excellent UI already and if it just gets feature complete, it could be a great open source application! Download, play, and comment!<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FCF9DocRepo%5FBuild%2Ezip'>Download attached file.</a></p>
+Anyway, you get the idea. So - in summary. Very nice beginning to a document repository. It's got an excellent UI already and if it just gets feature complete, it could be a great open source application! Download, play, and comment!<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FCF9DocRepo%{% endraw %}5FBuild%2Ezip'>Download attached file.</a></p>

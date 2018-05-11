@@ -4,6 +4,8 @@ title: "The movies that scared the crap out of me..."
 date: "2012-10-28T13:10:00+06:00"
 categories: Movies 
 tags: 
+banner_image: 
+permalink: /2012/10/28/The-movies-that-scared-the-crap-out-of-me
 ---
 
 It's been a while since I did a good "Sunday OT" post and with Halloween quickly approaching, I thought I'd share what I consider to be the most scary movies I've ever seen. Before jumping into the list though, I need to provide a bit of context. 

@@ -4,6 +4,8 @@ title: "Ionic has a CDN (use with caution)"
 date: "2014-10-02T17:10:00+06:00"
 categories: Development HTML5 JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2014/10/02/Ionic-has-a-CDN-use-with-caution
 ---
 
 <p>

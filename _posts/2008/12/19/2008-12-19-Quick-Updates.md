@@ -4,6 +4,8 @@ title: "Quick Updates"
 date: "2008-12-19T19:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/12/19/Quick-Updates
 ---
 
 Just a few quick notes about some updates. I'm about to go change for a night out with my wife and her friends to celebrate a birthday so I figured a quick note on low blood sugar was probably in order.

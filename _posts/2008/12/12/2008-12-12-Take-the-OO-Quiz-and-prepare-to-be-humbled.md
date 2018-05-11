@@ -4,6 +4,8 @@ title: "Take the OO Quiz - and prepare to be humbled..."
 date: "2008-12-12T15:12:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2008/12/12/Take-the-OO-Quiz-and-prepare-to-be-humbled
 ---
 
 Hal Helms has posted an interesting quiz to his site:

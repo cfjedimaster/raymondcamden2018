@@ -4,6 +4,8 @@ title: "First batch of Dreamweaver/ColdFusion articles up @ Adobe"
 date: "2008-12-22T17:12:00+06:00"
 categories: ColdFusion Development 
 tags: 
+banner_image: 
+permalink: /2008/12/22/First-batch-of-DreamweaverColdFusion-articles-up-Adobe
 ---
 
 So none of the articles will probably interest readers here, but the first batch of my article updates for Dreamweaver CS4 and ColdFusion are up at Adobe...

@@ -4,6 +4,8 @@ title: "Example of a custom cache in a ColdFusion Component"
 date: "2006-11-13T14:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/13/Example-of-a-custom-cache-in-a-ColdFusion-Component
 ---
 
 My friend who is learning ColdFusion recently ran into the issue of not being able to use query caching since he was also using cfqueryparam. Since cfqueryparam is vital to any dynamic query, he wisely chose to lose the the caching and keep the cfqueryparam. I mentioned that he could roll his own caching and wrote up this quick example for him.

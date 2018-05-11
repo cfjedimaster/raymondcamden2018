@@ -4,6 +4,8 @@ title: "Ask a Jedi: CFC Results to PDF/Flash Paper"
 date: "2005-11-05T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/05/Ask-a-Jedi-CFC-Results-to-PDFFlash-Paper
 ---
 
 Thinman asks:

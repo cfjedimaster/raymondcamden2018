@@ -4,6 +4,8 @@ title: "Displaying iCal data in PhoneGap?"
 date: "2012-10-12T13:10:00+06:00"
 categories: JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2012/10/12/Displaying-iCal-data-in-PhoneGap
 ---
 
 Yesterday a reader sent the following:

@@ -4,6 +4,8 @@ title: "Building CRUD with Transfer"
 date: "2008-11-05T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/05/Building-CRUD-with-Transfer
 ---
 
 I decided to not wait till late night for my next Transfer post and instead write during lunch. Young and the Restless is a good one today so hopefully I won't get distracted!
@@ -54,7 +56,7 @@ So cool, we got a nice little object. Let's set some data in it, just for the he
 &lt;cfset e.setPhone("555-555-5555")&gt;
 </code>
 
-Now that we have data in our TransferObject, how can we save it? We use one more method from the Transfer component: <a href="http://docs.transfer-orm.com/wiki/Persisting_and_Retrieving_Objects.cfm#Transfer.save(transferObject%2C_%5BuseTransaction%5D)">save</a>.
+Now that we have data in our TransferObject, how can we save it? We use one more method from the Transfer component: <a href="http://docs.transfer-orm.com/wiki/Persisting_and_Retrieving_Objects.cfm#Transfer.save(transferObject{% raw %}%2C_%{% endraw %}5BuseTransaction%5D)">save</a>.
 
 Taking the data from the code above, we can ask Transfer to persist it using this line of code:
 
@@ -62,7 +64,7 @@ Taking the data from the code above, we can ask Transfer to persist it using thi
 &lt;cfset application.transfer.save(e)&gt;
 </code>
 
-Wow, that's pretty difficult. There is also a <a href="http://docs.transfer-orm.com/wiki/Persisting_and_Retrieving_Objects.cfm#Transfer.create(transferObject%2C_%5BuseTransaction%5D)">create</a> method, but since save can handle both new and old objects, I don't see much point in using it. 
+Wow, that's pretty difficult. There is also a <a href="http://docs.transfer-orm.com/wiki/Persisting_and_Retrieving_Objects.cfm#Transfer.create(transferObject{% raw %}%2C_%{% endraw %}5BuseTransaction%5D)">create</a> method, but since save can handle both new and old objects, I don't see much point in using it. 
 
 Here is a complete example. I put this in index.cfm, again, thinking baby steps here, and dumped out the memento values both before and after the save.
 
@@ -93,7 +95,7 @@ The get method takes a class name and a ID value. Here is a simple example.
 
 Remember that 'e' was my test object. I basically just asked Transfer to get another Transfer object using the same ID from the one I just created. In case your curious, both e2 and e actually point to the same data. If you do e2.setFirstName() and then examine e, you will see the same value.
 
-Alright, the last piece of the puzzle then is deleting. It should come to no surprise that the Transfer component has a <a href="http://docs.transfer-orm.com/wiki/Persisting_and_Retrieving_Objects.cfm#Transfer.delete(transferObject%2C_%5BuseTransaction%5D)">delete</a> method. Probably the only thing odd (well to me anyway) about delete is that you can't do it by primary key. You have to actually get the object first and then delete it. Here is an example:
+Alright, the last piece of the puzzle then is deleting. It should come to no surprise that the Transfer component has a <a href="http://docs.transfer-orm.com/wiki/Persisting_and_Retrieving_Objects.cfm#Transfer.delete(transferObject{% raw %}%2C_%{% endraw %}5BuseTransaction%5D)">delete</a> method. Probably the only thing odd (well to me anyway) about delete is that you can't do it by primary key. You have to actually get the object first and then delete it. Here is an example:
 
 <code>
 &lt;cfset employee = application.transfer.get("employee", url.delete)&gt;
@@ -102,4 +104,4 @@ Alright, the last piece of the puzzle then is deleting. It should come to no sur
 
 So tonight I'll post a followup to this entry showing a simple admin I built using these methods above. To be honest, it's nothing too exciting, but we will get to look at a new method that will be useful for returning all our employees.
 
-(As before, those of you new to Transfer, keep the feedback coming on pacing, or point out anything I was too vague on. Those who know Transfer well, feel free to correct me!)<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory1%2Ezip'>Download attached file.</a></p>
+(As before, those of you new to Transfer, keep the feedback coming on pacing, or point out anything I was too vague on. Those who know Transfer well, feel free to correct me!)<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory1%{% endraw %}2Ezip'>Download attached file.</a></p>

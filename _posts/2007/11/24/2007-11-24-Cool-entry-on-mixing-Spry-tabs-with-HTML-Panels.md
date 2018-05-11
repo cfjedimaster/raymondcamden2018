@@ -4,6 +4,8 @@ title: "Cool entry on mixing Spry tabs with HTML Panels"
 date: "2007-11-24T23:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/11/24/Cool-entry-on-mixing-Spry-tabs-with-HTML-Panels
 ---
 
 Just a quick note to point out a cool article by Gary Gilbert:

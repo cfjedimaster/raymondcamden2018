@@ -4,6 +4,8 @@ title: "CFeMmy Winners Announced"
 date: "2007-12-21T13:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/12/21/CFeMmy-Winners-Announced
 ---
 
 Todd just released the <a href="http://cfsilence.com/blog/client/index.cfm/2007/12/21/2007-CFeMmys--And-The-Winners-Are">winners</a> for the 2007 CFeMmy winners. Yours truly won for:

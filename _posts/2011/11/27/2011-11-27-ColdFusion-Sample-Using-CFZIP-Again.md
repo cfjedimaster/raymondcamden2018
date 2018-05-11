@@ -4,6 +4,8 @@ title: "ColdFusion Sample - Using CFZIP (Again)"
 date: "2011-11-27T19:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/11/27/ColdFusion-Sample-Using-CFZIP-Again
 ---
 
 Yesterday I shared a demo of <a href="http://www.raymondcamden.com/index.cfm/2011/11/26/ColdFusion-Samples--Using-CFZIP">using CFZIP</a> with ColdFusion. In my demo application. users could upload images one at a time or a zip of images. The demo made use of cfzip to read the zip file and extract out the images. In today's blog entry, I'm going to modify the demo to allow you to download multiple images. I'll make use of cfzip to generate a zip file on the fly and then serve it to the user.
@@ -173,7 +175,7 @@ That's it. The entire template of the CFM is below, and I've attached a zip with
 	&lt;cfcontent type="application/zip" file="#dest#" reset="true" /&gt;
 &lt;/cfif&gt;
 
-&lt;cfset thumbs = directoryList(thumbDir,true,"name","*.jpg|*.png|*.gif" )&gt;
+&lt;cfset thumbs = directoryList(thumbDir,true,"name","*.jpg{% raw %}|*.png|{% endraw %}*.gif" )&gt;
 
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
@@ -257,4 +259,4 @@ That's it. The entire template of the CFM is below, and I've attached a zip with
 
 &lt;/body&gt;
 &lt;/html&gt;
-</code><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fzipdemo2%2Ezip'>Download attached file.</a></p>
+</code><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fzipdemo2%{% endraw %}2Ezip'>Download attached file.</a></p>

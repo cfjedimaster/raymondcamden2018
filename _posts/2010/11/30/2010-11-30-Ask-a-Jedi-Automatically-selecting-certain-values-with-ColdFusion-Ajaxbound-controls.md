@@ -4,6 +4,8 @@ title: "Ask a Jedi: Automatically selecting certain values with ColdFusion Ajax-
 date: "2010-11-30T22:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/11/30/Ask-a-Jedi-Automatically-selecting-certain-values-with-ColdFusion-Ajaxbound-controls
 ---
 
 Shawn asked:
@@ -27,8 +29,8 @@ in jQuery. ;)
 <p/>
 
 <code>
-&lt;cfajaxproxy bind="javascript:mediachange({mediaid})"&gt;
-&lt;cfajaxproxy bind="javascript:artchange({artid})"&gt;
+&lt;cfajaxproxy bind="javascript:mediachange({% raw %}{mediaid}{% endraw %})"&gt;
+&lt;cfajaxproxy bind="javascript:artchange({% raw %}{artid}{% endraw %})"&gt;
 &lt;head&gt;
 &lt;script&gt;
 var mediaChanged = false;
@@ -63,7 +65,7 @@ function artchange(x) {
    &lt;tr&gt;
       &lt;td&gt;Select Art:&lt;/td&gt;
       &lt;td&gt;&lt;cfselect name="artid"
-            bind="cfc:art.getArt({mediaid})" value="artid" display="artname" /&gt;&lt;/td&gt;
+            bind="cfc:art.getArt({% raw %}{mediaid}{% endraw %})" value="artid" display="artname" /&gt;&lt;/td&gt;
    &lt;/tr&gt;
 &lt;/table&gt;
 &lt;/cfform&gt;

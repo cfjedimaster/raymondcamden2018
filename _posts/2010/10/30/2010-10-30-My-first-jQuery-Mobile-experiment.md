@@ -4,6 +4,8 @@ title: "My first jQuery Mobile experiment"
 date: "2010-10-30T16:10:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2010/10/30/My-first-jQuery-Mobile-experiment
 ---
 
 I've been following the progress on <a href="http://jquerymobile.com/">jQuery Mobile</a> since it was first announced. While I've taken a look at the demos, I had not yet gotten a chance to actually look at the code. This weekend I read Pete Freitag's excellent introductory blog post (<a href="http://www.petefreitag.com/item/766.cfm">Getting Starting with jQuery Mobile</a>) where I discovered just hard darn easy it is. jQuery Mobile does almost all of it's working using simple HTML attributes. That means you can build a simple mobile ready web site <b>without one darn lick of JavaScript</b> - and that's incredible. I took a look at the docs, and basically, if you can write HTML, you can use the framework. As an example, here is what one basic page looks like.

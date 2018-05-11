@@ -4,6 +4,8 @@ title: "Reminder - Best of ColdFusion 9 Contest"
 date: "2009-11-09T15:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/11/09/Reminder-Best-of-ColdFusion-9-Contest
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="You must enter. Tron Guy says so." align="left" style="margin-right:10px">

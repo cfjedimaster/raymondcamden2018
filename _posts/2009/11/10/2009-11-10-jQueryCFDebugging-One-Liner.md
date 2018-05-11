@@ -4,6 +4,8 @@ title: "jQuery/CFDebugging One-Liner"
 date: "2009-11-10T13:11:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/11/10/jQueryCFDebugging-One-Liner
 ---
 
 Ok, so this is more proof of concept than actual usable code, but I thought it might be fun to write up during lunch. Have you ever encountered ColdFusion debugging code that 'leaked' into a pure CSS site? Most of us have. That was one of the main reasons behind the genesis of <a href="http://coldfire.riaforge.org">ColdFire</a>. I was curious, though, to see if there was a jQuery way to manipulate the debug output.
@@ -18,7 +20,7 @@ So with that in mind, I whipped up the following jQuery one-liner. Now - if you 
 
 <code>
 $(document).ready(function() {
-	$("table.cfdebug:first").hide().parent().append("&lt;a href='' id='cfdebugtoggle'&gt;[Toggle Debug]&lt;/a&gt;").click(function() {$("table.cfdebug:first").toggle();return false})
+	$("table.cfdebug:first").hide().parent().append("&lt;a href='' id='cfdebugtoggle'&gt;[Toggle Debug]&lt;/a&gt;").click(function() {% raw %}{$("table.cfdebug:first").toggle();return false}{% endraw %})
 })
 </code>
 

@@ -4,6 +4,8 @@ title: "Ask a Jedi: Using UDFs with an Application.cfc Framework"
 date: "2005-10-16T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/16/Ask-a-Jedi-Using-UDFs-with-an-Applicationcfc-Framework
 ---
 
 Talk about timing. I'm at MAX and will be presenting on Application.cfc. Today this question comes in:

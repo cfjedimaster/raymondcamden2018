@@ -4,6 +4,8 @@ title: "The Wisdom of Chuck"
 date: "2007-11-30T15:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/11/30/The-Wisdom-of-Chuck
 ---
 
 A little while ago Andrew Powell of Universal Mind released the <a href="http://www.infoaccelerator.net/chuckFacts/">Chuck Norris Fact Web Service</a>. This is a critical feature that has been missing from the Internet for some time. Frankly, I do not know how we have survived without the wisdom of Chuck Norris.
@@ -51,4 +53,4 @@ function doLoad(){
 &lt;span id="wisdom" class="wisdom"&gt;&lt;/span&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-</code><p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FChuckNorris%2Eair%2Ezip'>Download attached file.</a></p>
+</code><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FChuckNorris%{% endraw %}2Eair%2Ezip'>Download attached file.</a></p>

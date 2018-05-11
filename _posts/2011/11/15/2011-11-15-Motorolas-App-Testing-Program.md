@@ -4,6 +4,8 @@ title: "Motorola's App Testing Program"
 date: "2011-11-15T16:11:00+06:00"
 categories: Development Mobile 
 tags: 
+banner_image: 
+permalink: /2011/11/15/Motorolas-App-Testing-Program
 ---
 
 While at MAX this year I got to participate in a very cool service from Motorola - their <a href="http://developer.motorola.com/testing/motoready/">MOTOREADY App Testing Program</a>. The idea was simple - you submit your mobile application to them and they (well, their partner Intertek) perform a battery of tests on your application. If your application passes, there is an opportunity for marketing as well (via another program), and if not, you can at least use the feedback to improve your application.
@@ -16,4 +18,4 @@ The one sore spot I encountered in the process was the wait. I submitted my app 
 
 Want to check out the results? I've attached the PDF to this blog entry. It's <b>25</b> pages. Yep, 25. Again - I really think 170 is darn cheap for this level of detail. I think even a one man shop could afford to get this done at least once on their application.
 
-One quick note - the program is advertised as being for the XOOM only. At MAX, the person testing my application used a phone to show me the issues he found. The issues with my application were not XOOM specific at all. So even if you have no plans on targeting or even caring about the XOOM, I definitely think it's worthwhile.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FINeedIt%2Epdf'>Download attached file.</a></p>
+One quick note - the program is advertised as being for the XOOM only. At MAX, the person testing my application used a phone to show me the issues he found. The issues with my application were not XOOM specific at all. So even if you have no plans on targeting or even caring about the XOOM, I definitely think it's worthwhile.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FINeedIt%{% endraw %}2Epdf'>Download attached file.</a></p>

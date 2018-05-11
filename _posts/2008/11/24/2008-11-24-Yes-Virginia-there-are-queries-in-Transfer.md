@@ -4,6 +4,8 @@ title: "Yes, Virginia, there are queries in Transfer"
 date: "2008-11-24T23:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/24/Yes-Virginia-there-are-queries-in-Transfer
 ---
 
 In all my entries on Transfer so far, we have yet to actually write a line of SQL, and believe me, I don't mind that one bit. But as you can probably imagine, there are definitely cases where you do need to break down and write some actual SQL statements. The biggest example is search. My <a href="http://www.raymondcamden.com/index.cfm/2008/11/14/Getting-Some-with-Transfer">last entry</a> talked about how you can get data based on properties, but it only worked for exact matches, i.e., where name was a specific value. Transfer provides a way around this with the feature I'll cover tonight - Transfer Query Language.
@@ -43,7 +45,7 @@ In order to translate that reference into a real value, you use the setParam met
 
 <code>
 &lt;cfset q = application.transfer.createQuery("from employee where employee.lastname like :search order by employee.lastname, employee.firstname")&gt;
-&lt;cfset q.setParam("search", '%' & form.search & '%', "string")&gt;
+&lt;cfset q.setParam("search", '{% raw %}%' & form.search & '%{% endraw %}', "string")&gt;
 &lt;cfset results = application.transfer.listByQuery(q)&gt;
 </code>
 
@@ -62,7 +64,7 @@ So if all this method based query stuff confuses you - guess what? There is a cu
 <code>
 &lt;cf_query transfer="#application.transfer#" name="results2"&gt;
 from employee 
-where employee.lastname like &lt;cf_queryparam value="%#form.search#%" type="string"&gt;
+where employee.lastname like &lt;cf_queryparam value="{% raw %}%#form.search#%{% endraw %}" type="string"&gt;
 order by employee.lastname, employee.firstname
 &lt;/cf_query&gt;
 </code>
@@ -75,4 +77,4 @@ I've made two updates to the Employee directory. First is to add a simple search
 &lt;cfset this.mappings["/transfer"] = getDirectoryFromPath(getCurrentTemplatePath()) & "../transfer1.1/"&gt;
 &lt;cfset this.customtagpaths = getDirectoryFromPath(getCurrentTemplatePath()) & "customtags"&gt;
 &lt;cfset this.customtagpaths = listAppend(this.customtagpaths, this.mappings["/transfer"] & "/tags")&gt;
-</code><p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory6%2Ezip'>Download attached file.</a></p>
+</code><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory6%{% endraw %}2Ezip'>Download attached file.</a></p>

@@ -4,6 +4,8 @@ title: "Update to my ColdFusion Mail Throttler"
 date: "2010-10-20T22:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/10/20/Update-to-my-ColdFusion-Mail-Throttler
 ---
 
 Last week I wrote a quick proof of concept that demonstrated a simple mail throttler for ColdFusion. The idea was that you may have some automatic mail process that you do not want to get overwhelmed with. Read the <a href="http://www.raymondcamden.com/index.cfm/2010/10/14/Proof-of-Concept--Throttling-automatic-emails-in-ColdFusion">previous blog entry</a> for full details and the original code. <a href="http://blog.pengoworks.com/">Dan Switzer</a> commented that my method for "merging" dynamic emails (with a regex) could be done much simpler if I allowed people to simply name the emails. So with that in mind I've added the support for a cachename value. This actually takes priority over regex as the more I think about it, the more I think folks will prefer it over the regex option. Here is the new component.
@@ -94,7 +96,7 @@ And here is a new test script that shows all three options .
 	body="This is the body of the email. Random: #randRange(1,100)#"
 }&gt;
 
-&lt;cfset res = application.throttler.throttleSend (mail=mailOb,limit=2,regex="Random: [0-9]{1,3}")&gt;
+&lt;cfset res = application.throttler.throttleSend (mail=mailOb,limit=2,regex="Random: [0-9]{% raw %}{1,3}{% endraw %}")&gt;
 
 &lt;cfoutput&gt;result was #res#&lt;/cfoutput&gt;
 

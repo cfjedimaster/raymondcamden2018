@@ -4,6 +4,8 @@ title: "ColdFusion Regex example - finding URLs in CSS"
 date: "2010-12-29T14:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/12/29/ColdFusion-Regex-example-finding-URLs-in-CSS
 ---
 
 <a href="http://www.cfsilence.com">Todd Sharp</a> and I were talking today about finding URLs within CSS. Specifically - things in the format of url(...). For example (and yes, I know this is a bad CSS example since it repeats the same ID, but I built it up with cut and paste):

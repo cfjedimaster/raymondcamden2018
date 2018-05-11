@@ -4,6 +4,8 @@ title: "A perfect ColdFusion-centric host would have..."
 date: "2006-10-10T16:10:00+06:00"
 categories: ColdFusion Development 
 tags: 
+banner_image: 
+permalink: /2006/10/10/A-perfect-ColdFusioncentric-host-would-have
 ---
 
 A user contacted me today and mentioned that he is looking to start a hosting service specially designed for ColdFusion users. He wanted to know what the top things CF developers would want out of a host - and also what bugs them out their current hosts. 

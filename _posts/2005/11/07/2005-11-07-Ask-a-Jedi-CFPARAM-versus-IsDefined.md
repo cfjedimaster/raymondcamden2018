@@ -4,6 +4,8 @@ title: "Ask a Jedi: CFPARAM versus IsDefined"
 date: "2005-11-07T12:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/07/Ask-a-Jedi-CFPARAM-versus-IsDefined
 ---
 
 A reader asks:

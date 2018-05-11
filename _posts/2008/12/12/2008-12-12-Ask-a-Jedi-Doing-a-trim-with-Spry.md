@@ -4,13 +4,15 @@ title: "Ask a Jedi: Doing a trim with Spry"
 date: "2008-12-12T13:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/12/12/Ask-a-Jedi-Doing-a-trim-with-Spry
 ---
 
 OJ asks:
 
 <blockquote>
 <p>
-I have a spry question. I am displaying data like so: {dsProjects::Solution}
+I have a spry question. I am displaying data like so: {% raw %}{dsProjects::Solution}{% endraw %}
 
 I want to limit the amount of characters displayed to 100. How do I go about doing that?
 </p>
@@ -50,8 +52,8 @@ Note the description field is a bit long. On the front end, my simplest example 
 	
     &lt;div spry:repeat="dsRows"&gt;
     &lt;p&gt;
-    {name} is {age} years old&lt;br/&gt;
-    {description}
+    {% raw %}{name}{% endraw %} is {% raw %}{age}{% endraw %} years old&lt;br/&gt;
+    {% raw %}{description}{% endraw %}
     &lt;/p&gt;
     &lt;/div&gt;
 
@@ -60,11 +62,11 @@ Note the description field is a bit long. On the front end, my simplest example 
 &lt;/div&gt;
 </code>
 
-To tell Spry we want to manipulate the description, we can switch the {description} token to {function::formatDescription}. We then have to create the JavaScript funciton.
+To tell Spry we want to manipulate the description, we can switch the {% raw %}{description}{% endraw %} token to {% raw %}{function::formatDescription}{% endraw %}. We then have to create the JavaScript funciton.
 
 <code>
 function formatDescription(region,lookupFunc) {
-	var value = lookupFunc("{description}");
+	var value = lookupFunc("{% raw %}{description}{% endraw %}");
 	if(value.length &lt;= 100) return value;
 	else return value.substring(0,100) + "...";
 }
@@ -106,7 +108,7 @@ Nice and simple! Here is the complete code for the front end.
 var dsRows = new Spry.Data.XMLDataSet("test.xml", "/kids/kid");
 
 function formatDescription(region,lookupFunc) {
-	var value = lookupFunc("{description}");
+	var value = lookupFunc("{% raw %}{description}{% endraw %}");
 	if(value.length &lt;= 100) return value;
 	else return value.substring(0,100) + "...";
 }
@@ -124,8 +126,8 @@ function formatDescription(region,lookupFunc) {
 	
     &lt;div spry:repeat="dsRows"&gt;
     &lt;p&gt;
-    {name} is {age} years old&lt;br/&gt;
-    {function::formatDescription}
+    {% raw %}{name}{% endraw %} is {% raw %}{age}{% endraw %} years old&lt;br/&gt;
+    {% raw %}{function::formatDescription}{% endraw %}
     &lt;/p&gt;
     &lt;/div&gt;
 

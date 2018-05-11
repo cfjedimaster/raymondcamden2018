@@ -4,6 +4,8 @@ title: "Framework One"
 date: "2009-11-28T19:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/11/28/Framework-One
 ---
 
 Back in July <a href="http://www.corfield.org/blog">Sean Corfield</a> released a new framework: <a href="http://fw1.riaforge.org">Framework One</a>, or FW/1. Sean has a nice <a href="http://fw1.riaforge.org/blog/index.cfm/2009/7/19/Introducing-Framework-One">blog entry</a> talking about why he created it. The basic gist is that Sean was looking to create something simpler and more direct than the frameworks in use in our community today. I've been a fan of Model-Glue for a long time. I've played with other frameworks, ColdBox most recently, but I've never been as satisfied or as happy as I am when I use Model-Glue. This holiday week I thought I'd check out FW/1, and while I don't think it will replace Model-Glue as my framework of choice, I was <b>very</b> impressed by it and had a lot of fun building a sample application with it.
@@ -37,4 +39,4 @@ p.s.s. So hey, what's the deal with this code in my controller:
 &lt;/cffunction&gt;
 </code>
 
-I originally wanted to build the blog.default method in my service. I didn't like using "default" as a name since the real action was to list, but I was going to get over it. However - in a script based CFC, default is a reserved word. So, this gave me a good excuse to use a 'proper' name for the method in the service. I still wanted default as, well, my default action, so I used the controller method here to simply act as proxy. On reflection, I'd probably change the FW/1 setting for "defaultItem" to specify "list" instead.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Ffwtest%2Ezip'>Download attached file.</a></p>
+I originally wanted to build the blog.default method in my service. I didn't like using "default" as a name since the real action was to list, but I was going to get over it. However - in a script based CFC, default is a reserved word. So, this gave me a good excuse to use a 'proper' name for the method in the service. I still wanted default as, well, my default action, so I used the controller method here to simply act as proxy. On reflection, I'd probably change the FW/1 setting for "defaultItem" to specify "list" instead.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Ffwtest%{% endraw %}2Ezip'>Download attached file.</a></p>

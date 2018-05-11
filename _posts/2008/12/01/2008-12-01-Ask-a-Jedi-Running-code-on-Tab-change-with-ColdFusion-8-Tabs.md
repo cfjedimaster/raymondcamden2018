@@ -4,6 +4,8 @@ title: "Ask a Jedi: Running code on Tab change with ColdFusion 8 Tabs"
 date: "2008-12-01T17:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/01/Ask-a-Jedi-Running-code-on-Tab-change-with-ColdFusion-8-Tabs
 ---
 
 Rob Featherpants asks:
@@ -25,7 +27,7 @@ var mytabs = ColdFusion.Layout.getTabLayout('mytabs');
 If you check the Ext docs for <a href="http://extjs.com/deploy/ext/docs/output/Ext.TabPanel.html">TabPanel</a>, you will see there is an 'on' API call that lets you easily add event listeners. I used this:
 
 <code>
-mytabs.on('tabchange', function(tabpanel,activetab) { console.log('changed to a new tab '+activetab.getText()); })
+mytabs.on('tabchange', function(tabpanel,activetab) {% raw %}{ console.log('changed to a new tab '+activetab.getText()); }{% endraw %})
 </code>
 
 The tabchange event passes the tabpanel object and the active tab. I defined a function that simply uses Firebug to log the text of the selected tab. Here is a complete example. Please note I use AjaxOnLoad to run the code to register the event:
@@ -37,7 +39,7 @@ The tabchange event passes the tabpanel object and the active tab. I defined a f
 &lt;script&gt;
 function setup() {
 	var mytabs = ColdFusion.Layout.getTabLayout('mytabs');
-	mytabs.on('tabchange', function(tabpanel,activetab) { console.log('changed to a new tab '+activetab.getText()); })
+	mytabs.on('tabchange', function(tabpanel,activetab) {% raw %}{ console.log('changed to a new tab '+activetab.getText()); }{% endraw %})
 }
 &lt;/script&gt;
 &lt;/head&gt;

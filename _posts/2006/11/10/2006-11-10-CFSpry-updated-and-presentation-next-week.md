@@ -4,6 +4,8 @@ title: "CFSpry updated, and presentation next week"
 date: "2006-11-10T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/10/CFSpry-updated-and-presentation-next-week
 ---
 
 I've updated my <a href="http://cfspry.riaforge.org">CFSPry</a> POC code to now support panels. Please remember that this is using unreleased Spry code, so it is just meant for fun. This update adds support for panels. You can use panels pretty easily:

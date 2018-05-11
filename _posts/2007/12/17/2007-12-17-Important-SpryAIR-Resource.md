@@ -4,6 +4,8 @@ title: "Important Spry/AIR Resource"
 date: "2007-12-17T22:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/12/17/Important-SpryAIR-Resource
 ---
 
 I was <i>very</i> much into AIR in the past, but kind of fell behind this summer. I'm spending some time this month getting back into it, and I've run afoul of some of the big security changes that were made. One thing to note, in particular, are issues with Spry and AIR. You can find out details here:

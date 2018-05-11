@@ -4,6 +4,8 @@ title: "Rolling your own JSON in ColdFusion? Be careful with returnFormat"
 date: "2010-11-03T19:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/11/03/Rolling-your-own-JSON-in-ColdFusion-Be-careful-with-returnFormat
 ---
 
 Earlier today I <a href="http://www.raymondcamden.com/index.cfm/2010/11/3/Best-JSON-option-for-folks-not-running-ColdFusion-9">blogged</a> about rolling your own JSON solutions for ColdFusion. This mainly applied to folks running something less than ColdFusion 901 with the last hot fix. The original reader who requested the help had no problems using the <a href="http://jsonutil.riaforge.org/">jsonutil</a> open source project, but ran into a problem as soon as he tried to combine it with ColdFuion's built in Ajax utilities. For example, this is a simple bound drop down he tried to use:

@@ -4,6 +4,8 @@ title: "Intermediate Contest Entry 1"
 date: "2005-11-16T15:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/16/Intermediate-Contest-Entry-1
 ---
 
 Our first entry comes from Steve Gustafson. Before reading on, please check his application <a href="http://ray.camdenfamily.com/demos/contest2/sgustafson/blackjack">here</a>. Now that you have played with it a bit, let's take a look at selected portions of the code. Let's start with his Application.cfc file:
@@ -106,9 +108,9 @@ As you can see, he put the code to handle AJAX requests at the top of the file. 
         &lt;cfelse&gt;
             &lt;cfset session.playedCardList = listAppend(session.playedCardList,thisCard)&gt;
             &lt;cfif cardNum LT 10&gt;
-                &lt;cfset cardValue = "#thisCard#|#cardNum#|#session.playedCardList#"&gt;
+                &lt;cfset cardValue = "#thisCard#{% raw %}|#cardNum#|{% endraw %}#session.playedCardList#"&gt;
             &lt;cfelse&gt;
-                &lt;cfset cardValue = "#thisCard#|10|#session.playedCardList#"&gt;
+                &lt;cfset cardValue = "#thisCard#{% raw %}|10|{% endraw %}#session.playedCardList#"&gt;
             &lt;/cfif&gt;
 
             &lt;cfreturn cardValue&gt;
@@ -139,4 +141,4 @@ Should be:
 
 Similar changes are needed in his other methods. This is a serious problem. Not using the var scope can lead to some <i>very</i> hard to debug problems. It's times like this where I wish I could tell CF to be 'strict' and not let me create variables like that. (I know, I know, CF wasn't built for it. ;) 
 
-So, that's it. All in all, this is a nice submission. Good job, Steve!<p><a href='enclosures/D%3A%5Cwebsites%5Ccamdenfamily%5Csource%5Cmorpheus%5Cblog%5Cenclosures%2Fsgustafson%2Ezip'>Download attached file.</a></p>
+So, that's it. All in all, this is a nice submission. Good job, Steve!<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Ccamdenfamily%{% endraw %}5Csource{% raw %}%5Cmorpheus%{% endraw %}5Cblog{% raw %}%5Cenclosures%{% endraw %}2Fsgustafson%2Ezip'>Download attached file.</a></p>

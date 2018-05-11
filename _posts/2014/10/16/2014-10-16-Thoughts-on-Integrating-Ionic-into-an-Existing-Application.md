@@ -4,6 +4,8 @@ title: "Thoughts on Integrating Ionic into an Existing Application"
 date: "2014-10-16T11:10:00+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2014/10/16/Thoughts-on-Integrating-Ionic-into-an-Existing-Application
 ---
 
 <p>

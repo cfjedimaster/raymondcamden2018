@@ -4,6 +4,8 @@ title: "Presenting on jQuery Mobile - online - for free"
 date: "2011-12-12T14:12:00+06:00"
 categories: jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2011/12/12/Presenting-on-jQuery-Mobile-online-for-free
 ---
 
 This Wednesday at 3PM EST I'll be presenting on jQuery Mobile as part of <a href="http://www.codeproject.com/">CodeProject</a>'s "Tech Talk Series." This is completely free and available online. You can register for the event here: <a href="https://www3.gotomeeting.com/register/687340126">https://www3.gotomeeting.com/register/687340126</a>

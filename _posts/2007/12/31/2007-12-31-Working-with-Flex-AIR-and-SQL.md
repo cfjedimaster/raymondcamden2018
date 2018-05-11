@@ -4,6 +4,8 @@ title: "Working with Flex, AIR, and SQL"
 date: "2007-12-31T15:12:00+06:00"
 categories: Flex 
 tags: 
+banner_image: 
+permalink: /2007/12/31/Working-with-Flex-AIR-and-SQL
 ---
 
 I decided to give myself a new AIR/Flex project, one that would specifically use the built-in database. My project was a simple one - a time tracker.
@@ -144,4 +146,4 @@ private function resultHandler(event:SQLEvent):void {
 }
 </code>
 
-I don't have the line I tried originally, but it wasn't that. Anyway - that is a lot slimmer. I've updated the zip (although I kept in the old code in a comment) and I rebuilt the AIR.<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FArchive15%2Ezip'>Download attached file.</a></p>
+I don't have the line I tried originally, but it wasn't that. Anyway - that is a lot slimmer. I've updated the zip (although I kept in the old code in a comment) and I rebuilt the AIR.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FArchive15%{% endraw %}2Ezip'>Download attached file.</a></p>

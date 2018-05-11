@@ -4,6 +4,8 @@ title: "It's funny who you can meet at MAX..."
 date: "2007-10-01T20:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/01/Its-funny-who-you-can-meet-at-MAX
 ---
 
 Meet my new friend...

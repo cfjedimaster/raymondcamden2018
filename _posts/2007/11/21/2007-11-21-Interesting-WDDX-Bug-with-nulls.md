@@ -4,6 +4,8 @@ title: "Interesting WDDX Bug with nulls"
 date: "2007-11-21T12:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/21/Interesting-WDDX-Bug-with-nulls
 ---
 
 This is probably an old issue, but I thought I'd share it. I'm writing code to support exporting BlogCFC data into WDDX packets. The flip side of this is code to import the WDDX packets.

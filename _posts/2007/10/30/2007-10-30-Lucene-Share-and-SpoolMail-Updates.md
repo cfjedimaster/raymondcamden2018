@@ -4,6 +4,8 @@ title: "Lucene, Share, and SpoolMail Updates"
 date: "2007-10-30T19:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/30/Lucene-Share-and-SpoolMail-Updates
 ---
 
 Today was kind of a bad day. For some reason all of my projects all seemed to be in "pause" mode so my earnings took a dip. But having down time meant I could finally get around to packing up some code and releasing up on <a href="http://www.riaforge.org">RIAForge</a>. In no particular order, here is what is new:

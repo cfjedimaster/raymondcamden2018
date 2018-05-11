@@ -4,6 +4,8 @@ title: "What the heck is (index) in Chrome Dev Tools?"
 date: "2013-12-09T12:12:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2013/12/09/What-the-heck-is-index-in-Chrome-Dev-Tools
 ---
 
 <p>

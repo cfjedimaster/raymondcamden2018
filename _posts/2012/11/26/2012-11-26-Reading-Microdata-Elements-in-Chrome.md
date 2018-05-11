@@ -4,6 +4,8 @@ title: "Reading Microdata Elements in Chrome"
 date: "2012-11-26T15:11:00+06:00"
 categories: HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2012/11/26/Reading-Microdata-Elements-in-Chrome
 ---
 
 Before going any further, please note this blog post definitely falls into the "questionable" category. Please read the following with a large grain of salt (and a cold beer at your side). I've read a few articles recently on microdata. Today I read another good one here: <a href="http://html5hacks.com/blog/2012/11/21/make-your-page-consumable-by-robots-and-humans-alike-with-microdata/">Make Your Page Consumable by Robots and Humans Alike With Microdata</a>.

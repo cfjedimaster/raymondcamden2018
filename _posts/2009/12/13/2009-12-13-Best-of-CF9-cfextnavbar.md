@@ -4,6 +4,8 @@ title: "Best of CF9: cf_ext_navbar"
 date: "2009-12-13T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/13/Best-of-CF9-cfextnavbar
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's entry is cf_ext_navbar. It was submitted by Andrew Duval and reviewed by Todd Sharp. Todd's review is below in it's entirety with no editing from me. Thanks Andrew and Todd!
@@ -178,4 +180,4 @@ The only issue with this version is that CF treats all the values as strings and
 
 Sure, it's a bit of a hack but I'm willing to accept a simple hack in exchange for not having my eyes bleed from trying to work with a 2d array.
 
-Overall I think it was a good entry that took advantage of the Ext 3.0 features that ship with CF 9.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fcf%5Fext%5Fnavbar%2Ezip'>Download attached file.</a></p>
+Overall I think it was a good entry that took advantage of the Ext 3.0 features that ship with CF 9.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fcf%{% endraw %}5Fext{% raw %}%5Fnavbar%{% endraw %}2Ezip'>Download attached file.</a></p>

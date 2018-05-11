@@ -2,10 +2,11 @@
 layout: page
 title: About Me
 description: All about Raymond Camden
-banner_image: /images/banners/raypgday2.jpg
 ---
 
-My name is Raymond Camden. I'm a 44 year old married father of seven living in beautiful Lafayette, Louisiana. I am a senior developer advocate for [Auth0 Extend](https://auth0.com/extend). My primary focus is on Auth0 Extend and serverless. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
+<img src="{{site.url}}{{ site.baseurl}}/images/ray3_2017.jpg" style="float:left;margin-right:10px">
+
+My name is Raymond Camden. I'm a 45 year old married father of seven living in beautiful Lafayette, Louisiana. I am a senior developer advocate for [Extend](https://goextend.io). My primary focus is on Extend and serverless. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
 
 I've been lucky to have been invited to speak at many conferences over the years. If you would like me to speak at your conference or organization, please <a href="/contact">contact</a> me. I can cover pretty much any topic you see my blog about, but feel free to request just about anything. I love presenting on topics I'm not yet familiar with as it gives me a chance to learn something new.
 

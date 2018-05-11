@@ -4,6 +4,8 @@ title: "12 Days of Christmas - Yahoo Style"
 date: "2007-12-14T14:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/12/14/12-Days-of-Christmas-Yahoo-Style
 ---
 
 Earlier today I <a href="http://www.raymondcamden.com/index.cfm/2007/12/14/Friday-Challenge--Christmas-Style">blogged</a> a Friday Challenge that involved taking the 12 Days of Christmas as a query and generating the song. After I posted this, I had an odd thought - why not see what the Internet (in this case, Yahoo), would do with the gifts.
@@ -45,7 +47,7 @@ Yes, this is a complete and utter waste of time. Enjoy.
 	
 	<h3>0001_137_Partridge_In_A_Pear_Tree.gif</h3>
 	URL: <a href="http://www.bisgrove.com/0001_137_Partridge_In_A_Pear_Tree.gif">http://www.bisgrove.com/0001_137_Partridge_In_A_Pear_Tree.gif</a><br />	
-	Summary: Links: | Site Index |
+	Summary: Links: {% raw %}| Site Index |{% endraw %}
 	<br clear="left">
 	
 	<p>
@@ -74,7 +76,7 @@ Yes, this is a complete and utter waste of time. Enjoy.
 	<img src="http://re3.mm-a1.yimg.com/image/1977057164" width="101" height="130" alt="Three French Hens.jpg" align="left">
 	
 	<h3>Three French Hens.jpg</h3>
-	URL: <a href="http://www.dcist.com/attachments/dcist_melissa/Three%20French%20Hens.jpg">http://www.dcist.com/attachments/dcist_melissa/Three%20French%20Hens.jpg</a><br />	
+	URL: <a href="http://www.dcist.com/attachments/dcist_melissa/Three{% raw %}%20French%{% endraw %}20Hens.jpg">http://www.dcist.com/attachments/dcist_melissa/Three{% raw %}%20French%{% endraw %}20Hens.jpg</a><br />	
 	Summary: Washington Wish List: Holiday Hankerings of D.C. Foodies Whether it's Corduroy's scallops with mushroom and potato puree, 2 Amys' cod fritters, or Restaurant Eve's mojitos, DCist indulges in good food and drink about town over the holiday season
 	<br clear="left">
 
@@ -134,7 +136,7 @@ Yes, this is a complete and utter waste of time. Enjoy.
 	<img src="http://re3.mm-a6.yimg.com/image/3608975258" width="145" height="138" alt="seven-swans-a-swimming.jpg" align="left">
 	
 	<h3>seven-swans-a-swimming.jpg</h3>
-	URL: <a href="http://www.artshole.co.uk/arts/artists/anna%20charity/seven-swans-a-swimming.jpg">http://www.artshole.co.uk/arts/artists/anna%20charity/seven-swans-a-swimming.jpg</a><br />	
+	URL: <a href="http://www.artshole.co.uk/arts/artists/anna{% raw %}%20charity/seven-swans-a-swimming.jpg">http://www.artshole.co.uk/arts/artists/anna%{% endraw %}20charity/seven-swans-a-swimming.jpg</a><br />	
 	Summary: seven-swans-a-swimming
 	<br clear="left">
 
@@ -179,7 +181,7 @@ Yes, this is a complete and utter waste of time. Enjoy.
 	<img src="http://re3.mm-a4.yimg.com/image/2866720044" width="128" height="130" alt="1993 Ten Lords A-Leaping.JPG" align="left">
 	
 	<h3>1993 Ten Lords A-Leaping.JPG</h3>
-	URL: <a href="http://www.thepartyshop.com/Commerce/images/1993%20Ten%20Lords%20A-Leaping.JPG">http://www.thepartyshop.com/Commerce/images/1993%20Ten%20Lords%20A-Leaping.JPG</a><br />	
+	URL: <a href="http://www.thepartyshop.com/Commerce/images/1993{% raw %}%20Ten%{% endraw %}20Lords{% raw %}%20A-Leaping.JPG">http://www.thepartyshop.com/Commerce/images/1993%{% endraw %}20Ten{% raw %}%20Lords%{% endraw %}20A-Leaping.JPG</a><br />	
 	Summary: 1993 Springtime Bonn..  27-Apr-2005 21:40 57K 1993 TURTLE.jpg 14-Jul-2005 08:37 33K 1993 Ten Lords A-Lea..  26-May-2005 14:53 28K 1993 Time for Easter..  27-Apr-2005 21:54 100K
 	<br clear="left">
 
@@ -216,4 +218,4 @@ Yes, this is a complete and utter waste of time. Enjoy.
 	
 	<p>
 	<hr>
-	</p><p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fraytest%2Ecfm%2Ezip'>Download attached file.</a></p>
+	</p><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fraytest%{% endraw %}2Ecfm%2Ezip'>Download attached file.</a></p>

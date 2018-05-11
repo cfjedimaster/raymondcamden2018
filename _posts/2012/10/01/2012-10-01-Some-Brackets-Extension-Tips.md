@@ -4,6 +4,8 @@ title: "Some Brackets Extension Tips"
 date: "2012-10-01T11:10:00+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2012/10/01/Some-Brackets-Extension-Tips
 ---
 
 This weekend I began work on a <a href="http://www.caniuse.com">CanIUse</a> extension for <a href="http://github.com/adobe/brackets">Brackets</a>. Given than I've already worked with the CanIUse data before, I figured it would be pretty easy. Within about an hour or so I got to the point where I could list out all the filters, allow you to filter to quickly find one, and then select a feature and get part of the report.

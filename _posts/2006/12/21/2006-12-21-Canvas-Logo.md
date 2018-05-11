@@ -4,6 +4,8 @@ title: "Canvas Logo"
 date: "2006-12-21T22:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/12/21/Canvas-Logo
 ---
 
 Dave Hill has come up with some cool Canvas logos. I need to pick one for Canvas 2. What do folks think?

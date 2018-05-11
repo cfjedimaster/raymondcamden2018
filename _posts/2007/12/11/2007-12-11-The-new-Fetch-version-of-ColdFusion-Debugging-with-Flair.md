@@ -4,6 +4,8 @@ title: "The new, Fetch version of ColdFusion Debugging (with Flair)"
 date: "2007-12-11T12:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/12/11/The-new-Fetch-version-of-ColdFusion-Debugging-with-Flair
 ---
 
 I've done a lot of playing around with ColdFusion's debug and exception templates. As I like to remind people - these templates are all CFML and open source. You can play with them to your hearts content. You should be careful obviously, especially if you modify the exception template. This "play" is what led to the <a href="http://coldfire.riaforge.org">ColdFire</a> project.
@@ -12,4 +14,4 @@ Earlier today a reader said they asked Adobe to consider modifying the default d
 
 As a reminder - if you use ColdFire, this is baked in as well.
 
-There are two movie references in this title. A free copy of CFWACK Book two to the first person to name them. (With the understanding I have to find time to get to the UPS store, and it may take me a week or so, and with Christmas, you may not get it to January.)<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fdeluxe%2Ecfm%2Ezip'>Download attached file.</a></p>
+There are two movie references in this title. A free copy of CFWACK Book two to the first person to name them. (With the understanding I have to find time to get to the UPS store, and it may take me a week or so, and with Christmas, you may not get it to January.)<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fdeluxe%{% endraw %}2Ecfm%2Ezip'>Download attached file.</a></p>

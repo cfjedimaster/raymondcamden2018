@@ -4,6 +4,8 @@ title: "Blue Man Group Review"
 date: "2007-12-16T15:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/12/16/Blue-Man-Group-Review
 ---
 
 Last week my wife and I got to see the Blue Man Group. I saw them for the first time at MAX 06 in Vegas and all I remember thinking was that this was the most incredibly exciting performance I had seen in my life. It made me feel like I was four years old on Christmas morning. 

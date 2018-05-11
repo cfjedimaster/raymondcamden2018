@@ -4,6 +4,8 @@ title: "The future of BlogCFC"
 date: "2011-12-29T13:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2011/12/29/The-future-of-BlogCFC
 ---
 
 <img src="http://www.blogcfc.com/images/blogcfc.jpg">

@@ -4,6 +4,8 @@ title: "ColdFusion in the Cloud"
 date: "2008-11-17T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/17/ColdFusion-in-the-Cloud
 ---
 
 Kevin Hoyt is presenting at the Unconference now and has brought up an interesting subject - ColdFusion in the Cloud. (I'll be blogging while he speaks for forgive the grammar.) Says he just got permission to demo this! 

@@ -4,6 +4,8 @@ title: "Look what Todd did..."
 date: "2007-12-11T16:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/12/11/Look-what-Todd-did
 ---
 
 Todd is being a bit coy - but if this is what I think it is - it is pretty cool:

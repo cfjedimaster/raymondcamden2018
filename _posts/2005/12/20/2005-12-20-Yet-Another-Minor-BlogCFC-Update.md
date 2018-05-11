@@ -4,6 +4,8 @@ title: "(Yet Another) Minor BlogCFC Update"
 date: "2005-12-20T14:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/12/20/Yet-Another-Minor-BlogCFC-Update
 ---
 
 Hot on the heels of a <a href="http://ray.camdenfamily.com/index.cfm/2005/12/16/BlogCFC-ColdFusion-Blog-402-Released">release</a> last Friday, I have yet another minor update to BlogCFC. Changes are:

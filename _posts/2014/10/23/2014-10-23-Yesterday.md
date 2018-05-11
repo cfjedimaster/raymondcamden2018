@@ -4,6 +4,8 @@ title: "Yesterday"
 date: "2014-10-23T18:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2014/10/23/Yesterday
 ---
 
 <p>

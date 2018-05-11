@@ -4,6 +4,8 @@ title: "Galleon ColdFusion Forums Updated"
 date: "2005-11-22T17:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/11/22/Galleon-ColdFusion-Forums-Updated
 ---
 
 Galleon has been updated today, and it finally has a <a href="http://ray.camdenfamily.com/projects/galleon">project page</a>. So what was changed?

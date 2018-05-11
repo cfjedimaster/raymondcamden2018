@@ -4,6 +4,8 @@ title: "BlogCFC, Galleon Updates"
 date: "2007-11-19T21:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/19/BlogCFC-Galleon-Updates
 ---
 
 Just a quick note to point out some updates. <a href="http://blogcfc.riaforge.org">BlogCFC 5.9</a> has been updated to include some small fixes. There are some more fixes that will be included - probably this weekend. As I mentioned with the initial release - 5.9 is the end of the line for 5.X version, but I don't want to leave small, easily fixable bugs in the code base while folks wait for 6.

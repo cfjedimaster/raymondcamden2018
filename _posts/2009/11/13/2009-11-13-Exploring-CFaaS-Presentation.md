@@ -4,6 +4,8 @@ title: "Exploring CFaaS Presentation"
 date: "2009-11-13T17:11:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/11/13/Exploring-CFaaS-Presentation
 ---
 
 Hey folks - here are the slides and code from my Exploring ColdFusion as a Service presentation at RIAUnleashed. Please note that these slides and code deserve some explanation. I plan on doing a series of blog posts on CFaaS over the next few days to help others learn about this new ColdFusion 9 feature. 

@@ -4,6 +4,8 @@ title: "When it rains - and watch out for the Russians..."
 date: "2005-11-04T14:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2005/11/04/When-it-rains-and-watch-out-for-the-Russians
 ---
 
 Ugh. So my Mini Cooper has been giving me trouble lately, but I haven't had the chance to look into. Today my wife was driving back from Catahoula (yes, that's a real name) when our Town and Country decided to crap out. She had to drift into the school parking lot. So the TandC is at the shop, and of course, this means it will be gone all weekend. 

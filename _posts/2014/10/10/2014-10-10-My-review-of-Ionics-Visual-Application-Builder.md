@@ -4,6 +4,8 @@ title: "My review of Ionic's Visual Application Builder"
 date: "2014-10-10T15:10:00+06:00"
 categories: Design Development JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2014/10/10/My-review-of-Ionics-Visual-Application-Builder
 ---
 
 <p>

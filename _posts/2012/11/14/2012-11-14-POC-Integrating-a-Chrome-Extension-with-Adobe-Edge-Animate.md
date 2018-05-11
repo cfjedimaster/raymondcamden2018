@@ -4,6 +4,8 @@ title: "POC: Integrating a Chrome Extension with Adobe Edge Animate"
 date: "2012-11-14T15:11:00+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2012/11/14/POC-Integrating-a-Chrome-Extension-with-Adobe-Edge-Animate
 ---
 
 I've been fascinated lately by <a href="http://html.adobe.com/edge/animate/">Edge Animate</a>. Not that I plan on creating awesome animations any time in the future but I love how easy the tool is and I'm fascinated by how I could integrate other client-side techniques along with it. (Or in other words, I like to pretend that in an alternate universe where I also have design skills, I can bring the awesome.)
@@ -48,4 +50,4 @@ I kept a few of the non-related clauses in here.  You can see where I fire off a
 
 <script src="https://gist.github.com/4074680.js?file=gistfile1.js"></script>
 
-Fun times. Real. Fun. Times. Anyway, let me know what you think.<p><a href='enclosures/C%3A%5Chosts%5C2012%2Eraymondcamden%2Ecom%5Cenclosures%2Fedgeanimate%2Ezip'>Download attached file.</a></p>
+Fun times. Real. Fun. Times. Anyway, let me know what you think.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2012%{% endraw %}2Eraymondcamden{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fedgeanimate%{% endraw %}2Ezip'>Download attached file.</a></p>

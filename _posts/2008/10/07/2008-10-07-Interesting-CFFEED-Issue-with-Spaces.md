@@ -4,6 +4,8 @@ title: "Interesting CFFEED Issue with Spaces"
 date: "2008-10-07T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/07/Interesting-CFFEED-Issue-with-Spaces
 ---
 
 Heh, yes, I'm back to my favorite tag to pick on. A user sent in an interesting problem he was having with cffeed. When he used a value for the source that came from a query, he got an error. When he hard coded a URL in, it worked just fine. I looked over his code and as far as I could see, everything seemed fine. The error itself was pretty weird as well:

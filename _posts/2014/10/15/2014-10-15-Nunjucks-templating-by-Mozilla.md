@@ -4,6 +4,8 @@ title: "Nunjucks templating by Mozilla"
 date: "2014-10-15T11:10:00+06:00"
 categories: JavaScript 
 tags: 
+banner_image: 
+permalink: /2014/10/15/Nunjucks-templating-by-Mozilla
 ---
 
 <p>

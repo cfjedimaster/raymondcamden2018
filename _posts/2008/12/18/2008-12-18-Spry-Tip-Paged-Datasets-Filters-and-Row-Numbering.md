@@ -4,9 +4,11 @@ title: "Spry Tip - Paged Datasets, Filters, and Row Numbering"
 date: "2008-12-18T13:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/12/18/Spry-Tip-Paged-Datasets-Filters-and-Row-Numbering
 ---
 
-A reader wrote in asking an interesting question. He was using a Spry PagedView (a nice way to present a 'paged' interface to data loaded in via Ajax) and ran into an issue when trying to display the row number. When he used {ds_RowNumberPlus1}, the row was relative to the page. So on page 2, he saw 1 instead of 11. I read over the <a href="http://labs.adobe.com/technologies/spry/samples/data_region/SpryPagedViewSample.html">docs</a> a bit and nothing seemed like it would work. I then created the following demo to help me test this.
+A reader wrote in asking an interesting question. He was using a Spry PagedView (a nice way to present a 'paged' interface to data loaded in via Ajax) and ran into an issue when trying to display the row number. When he used {% raw %}{ds_RowNumberPlus1}{% endraw %}, the row was relative to the page. So on page 2, he saw 1 instead of 11. I read over the <a href="http://labs.adobe.com/technologies/spry/samples/data_region/SpryPagedViewSample.html">docs</a> a bit and nothing seemed like it would work. I then created the following demo to help me test this.
 <!--more-->
 <code>
 &lt;html&gt;
@@ -17,7 +19,7 @@ A reader wrote in asking an interesting question. He was using a Spry PagedView 
 &lt;script src="http://localhost/Spry_1_6_1/includes/SpryPagedView.js"&gt;&lt;/script&gt;
 &lt;script&gt;
 var mydata = new Spry.Data.XMLDataSet("data.cfm","/people/person"); 
-var pvdata = new Spry.Data.PagedView(mydata, { pageSize: 10 });
+var pvdata = new Spry.Data.PagedView(mydata, {% raw %}{ pageSize: 10 }{% endraw %});
 
 var myFilterFunc = function(dataSet, row, rowNumber) {
 
@@ -53,9 +55,9 @@ mydata.filter(myFilterFunc);
 	&lt;/tr&gt;
 	&lt;tr spry:repeat="pvdata"&gt;
 		&lt;td style="cursor: pointer;"&gt;
-		ds_RowID={ds_RowID} ds_RowNumber={ds_RowNumber} ds_RowNumberPlus1={ds_RowNumberPlus1}&lt;br/&gt;
-		ds_PageFirstItemNumber={ds_PageFirstItemNumber} ds_CurrentRowNumber={ds_CurrentRowNumber}&lt;br/&gt;
-		&lt;b&gt;{name}&lt;/b&gt;&lt;/td&gt;
+		ds_RowID={% raw %}{ds_RowID}{% endraw %} ds_RowNumber={% raw %}{ds_RowNumber}{% endraw %} ds_RowNumberPlus1={% raw %}{ds_RowNumberPlus1}{% endraw %}&lt;br/&gt;
+		ds_PageFirstItemNumber={% raw %}{ds_PageFirstItemNumber}{% endraw %} ds_CurrentRowNumber={% raw %}{ds_CurrentRowNumber}{% endraw %}&lt;br/&gt;
+		&lt;b&gt;{% raw %}{name}{% endraw %}&lt;/b&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;	
 &lt;/p&gt;
@@ -63,11 +65,11 @@ mydata.filter(myFilterFunc);
 
 &lt;div id="pagination"&gt;
 	&lt;div id="pagination" class="pageNumbers"&gt;
-	&lt;span spry:if="{ds_UnfilteredRowCount} == 0"&gt;No matching data found!&lt;/span&gt;	
-	&lt;span spry:if="{ds_UnfilteredRowCount} != 0" spry:content="[Page {ds_PageNumber} of {ds_PageCount}]"&gt;&lt;/span&gt;
+	&lt;span spry:if="{% raw %}{ds_UnfilteredRowCount}{% endraw %} == 0"&gt;No matching data found!&lt;/span&gt;	
+	&lt;span spry:if="{% raw %}{ds_UnfilteredRowCount}{% endraw %} != 0" spry:content="[Page {% raw %}{ds_PageNumber}{% endraw %} of {% raw %}{ds_PageCount}{% endraw %}]"&gt;&lt;/span&gt;
 	&lt;/div&gt;
 	&lt;div id = "pagination" class = "nextPrevious"&gt;
-	&lt;span spry:if="{ds_UnfilteredRowCount} != 0"&gt;
+	&lt;span spry:if="{% raw %}{ds_UnfilteredRowCount}{% endraw %} != 0"&gt;
 	&lt;a href="javaScript:pvdata.previousPage()"&gt;&lt;&lt; Previous&lt;/a&gt; | 
 	&lt;a href="javaScript:pvdata.nextPage()"&gt;Next &gt;&gt;&lt;/a&gt;
 	&lt;/span&gt;
@@ -98,19 +100,19 @@ The code behind the XML was rather simple:
 &lt;cfcontent type="text/xml" reset="true"&gt;&lt;cfoutput&gt;#str#&lt;/cfoutput&gt;
 </code>
 
-Once this was done, I quickly ran the demo and saw that there seemed to be no built in variable that would work. The closest thing I saw was that {ds_PageFirstItemNumber} represented the first row of the current page, and if I added ds_RowNumber, together I got a proper value.
+Once this was done, I quickly ran the demo and saw that there seemed to be no built in variable that would work. The closest thing I saw was that {% raw %}{ds_PageFirstItemNumber}{% endraw %} represented the first row of the current page, and if I added ds_RowNumber, together I got a proper value.
 
 Ok, so long story short, I whipped up a quick function to handle the addition:
 
 <code>
 function FormattedRowNum(region, lookupFunc) { 
-	return parseInt(lookupFunc("{ds_PageFirstItemNumber}")) + parseInt(lookupFunc("{ds_RowNumber}"));
+	return parseInt(lookupFunc("{% raw %}{ds_PageFirstItemNumber}{% endraw %}")) + parseInt(lookupFunc("{% raw %}{ds_RowNumber}{% endraw %}"));
 }
 </code>
 
-And then added this to my display: {function::FormattedRowNum}
+And then added this to my display: {% raw %}{function::FormattedRowNum}{% endraw %}
 
-This worked fine, both before and after I applied a filter. However, I figured I was missing something and I pinged the Spry team. Kin wrote me back and suggested I use {ds_PageItemNumber} instead. That worked perfectly! The reason I had not tried was due to the description:
+This worked fine, both before and after I applied a filter. However, I figured I was missing something and I pinged the Spry team. Kin wrote me back and suggested I use {% raw %}{ds_PageItemNumber}{% endraw %} instead. That worked perfectly! The reason I had not tried was due to the description:
 
 <blockquote>
 <p>

@@ -4,6 +4,8 @@ title: "cfObjective 2014 Call for Speakers (and my proposed sessions)"
 date: "2013-10-16T14:10:00+06:00"
 categories: ColdFusion Development HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/10/16/cfObjective-2014-Call-for-Speakers-and-my-proposed-sessions
 ---
 
 <p>

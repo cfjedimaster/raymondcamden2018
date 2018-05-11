@@ -4,6 +4,8 @@ title: "rssWatcher Updated"
 date: "2005-10-25T15:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/25/rssWatcher-Updated
 ---
 
 I updated <a href="http://www.rsswatcher.com">RSSWatcher.com</a> today with some suggestions from <a href="http://bluedragon.blog-city.com/">Charlie Arehart</a>. The primary change is an IE CSS fix that caused the profile display to be <i>way</i> pushed down. 

@@ -4,6 +4,8 @@ title: "Flex, Secured Web Services Tip"
 date: "2005-10-10T17:10:00+06:00"
 categories: Flex 
 tags: 
+banner_image: 
+permalink: /2005/10/10/Flex-Secured-Web-Services-Tip
 ---
 
 So, I'm still something of a Flex newbie, so forgive me if this is a FAQ, but I ran into a problem last week that took quite a bit of time to fix. 

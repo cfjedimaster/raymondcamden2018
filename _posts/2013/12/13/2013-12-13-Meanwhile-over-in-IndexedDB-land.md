@@ -4,6 +4,8 @@ title: "Meanwhile, over in IndexedDB land..."
 date: "2013-12-13T14:12:00+06:00"
 categories: HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/12/13/Meanwhile-over-in-IndexedDB-land
 ---
 
 <p>
@@ -26,7 +28,7 @@ Cool, right? Essentially it means you can use IndexedDB for storage when LocalSt
 If you follow the <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=785884">bugzilla</a> link you will see that the only change is in the open request. Instead of using "name,version" as the arguments you pass in an object instead. Here is an example.
 </p>
 
-<pre><code class="language-javascript">window.indexedDB.open({name:"nsa_secrets",version:1,storage:"temporary"});</code></pre>
+<pre><code class="language-javascript">window.indexedDB.open({% raw %}{name:"nsa_secrets",version:1,storage:"temporary"}{% endraw %});</code></pre>
 
 <p>
 In case you're wondering, no, this is <strong>not</strong> in the <a href="http://www.w3.org/TR/IndexedDB/">official spec</a>, but it will soon be supported by Chrome and I'm sure the Mozillians will submit this to the spec as an update.

@@ -4,6 +4,8 @@ title: "ColdFusion Bloggers Update"
 date: "2007-10-12T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/12/ColdFusion-Bloggers-Update
 ---
 
 I want to send a quick shout out to <a href="http://www.cfsilence.com/blog/client/index.cfm">Todd Sharp</a>. He wrote up a quick AJAX-y admin for <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>, making it much easier to add blogs to the system. I should be caught up with the requests by end of day.

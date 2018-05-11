@@ -4,6 +4,8 @@ title: "RIAForge Milestone"
 date: "2008-12-29T21:12:00+06:00"
 categories: Development 
 tags: 
+banner_image: 
+permalink: /2008/12/29/RIAForge-Milestone
 ---
 
 Woot. I just approved project number 600 at <a href="http://www.riaforge.org">RIAForge</a>. For those who are stat happy like me, some other items I track are...

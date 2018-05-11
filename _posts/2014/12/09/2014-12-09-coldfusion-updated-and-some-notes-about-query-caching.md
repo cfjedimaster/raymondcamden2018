@@ -4,6 +4,8 @@ title: "ColdFusion updated, and some notes about query caching"
 date: "2014-12-09T14:45:31+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2014/12/09/coldfusion-updated-and-some-notes-about-query-caching
 ---
 
 Earlier today the ColdFusion team released a big update for ColdFusion 11 and 10. You can read the juicy details here: <a href="http://blogs.coldfusion.com/post.cfm/coldfusion-11-update-3-and-coldfusion-10-update-15-are-available-now">ColdFusion 11 Update 3 and ColdFusion 10 Update 15 are available now</a>. While looking over the release notes for ColdFusion 11, I saw this odd little gem:
@@ -24,10 +26,10 @@ So what is this change about? I looked at the "Issues Fixed" document (<a href="
 From what I can read in the bug report by itisdesign, at some point there was a change for queries that were cached using cachedWithin/cachedAfter. If you do <strong>not</strong> specify a specific cache ID for the query, then a Java object is used for the ID instead. Here is an example.
 
 <pre><code class="language-javascript">
-q = queryNew("id", "cf_sql_varchar", [{id:"a"}, {id:"b"}]);
-q2 = queryExecute("select * from q", {}, {dbtype:"query",cachedwithin:createTimeSpan(0,0,1,0)});
+q = queryNew("id", "cf_sql_varchar", [{% raw %}{id:"a"}{% endraw %}, {% raw %}{id:"b"}{% endraw %}]);
+q2 = queryExecute("select * from q", {% raw %}{}, {dbtype:"query",cachedwithin:createTimeSpan(0,0,1,0)}{% endraw %});
 
-q3 = queryExecute("select * from q", {}, {dbtype:"query",cachedwithin:createTimeSpan(0,0,1,0),cacheId:"mystuff"});
+q3 = queryExecute("select * from q", {% raw %}{}, {dbtype:"query",cachedwithin:createTimeSpan(0,0,1,0),cacheId:"mystuff"}{% endraw %});
 
 ids = cacheGetAllIds("QUERY");
 writeDump(ids);

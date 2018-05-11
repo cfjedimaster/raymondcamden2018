@@ -4,6 +4,8 @@ title: "Broken (cf)windows?"
 date: "2009-10-27T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/10/27/Broken-cfwindows
 ---
 
 A reader wrote in to say that this code, which worked fine in ColdFusion 8, now refuses to center in ColdFusion 9:

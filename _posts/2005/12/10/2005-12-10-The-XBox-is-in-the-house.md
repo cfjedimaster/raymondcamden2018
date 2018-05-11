@@ -4,6 +4,8 @@ title: "The XBox is in the house..."
 date: "2005-12-10T21:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2005/12/10/The-XBox-is-in-the-house
 ---
 
 Since I know people are just <i>so</i> interested, I thought I'd share the good news. As I <a href="http://ray.camdenfamily.com/index.cfm/2005/12/8/XBox-Service--Wow">mentioned</a> a few days ago, MS's service department fixed and shipped the XBox within one day of getting it. It arrived in Lafayette on the 6th and then entered the twilight zone. It didn't arrive at my house on the 7th. On the 8th I called and was told it was on the truck. On the 9th I called and was told it was on the truck. Then last night I saw the truck drive by. I called UPS again and was promised I'd get a call back - which never came. I knew that UPS over here wouldn't deliver on Saturday, but I called anyway. I was told that the hurricane was to blame. (How long am I going to hear that?) Then after going to Walmart, I came back and the package was there!

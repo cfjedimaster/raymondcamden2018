@@ -4,6 +4,8 @@ title: "Dealing with remote resources in ColdFusion and HTML/JS"
 date: "2010-10-01T11:10:00+06:00"
 categories: ColdFusion JavaScript 
 tags: 
+banner_image: 
+permalink: /2010/10/01/Dealing-with-remote-resources-in-ColdFusion-and-HTMLJS
 ---
 
 Christian asks:

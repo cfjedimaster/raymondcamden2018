@@ -4,6 +4,8 @@ title: "BlogCFC 4 Beta"
 date: "2005-10-26T15:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/26/BlogCFC-4-Beta
 ---
 
 I'm happy to announce the beta of BlogCFC 4.0. I won't be going over all the changes since 4.0 began, but just the most recent changes. While this is a beta, I've been running the bits for many weeks now and in general, things have been stable. You may download the bits <a href="http://ray.camdenfamily.com/downloads/blogbeta.zip">here</a>.

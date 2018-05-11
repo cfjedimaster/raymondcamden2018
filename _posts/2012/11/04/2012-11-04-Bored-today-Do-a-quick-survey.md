@@ -4,6 +4,8 @@ title: "Bored today? Do a quick survey!"
 date: "2012-11-04T15:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2012/11/04/Bored-today-Do-a-quick-survey
 ---
 
 For those of you who follow me on Twitter, you can ignore this as I've bugged you already. But if you haven't taken my wife's adoption-related survey, please do so. She just needs 21 more respondents.

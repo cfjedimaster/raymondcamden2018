@@ -4,6 +4,8 @@ title: "Lost review for November 8"
 date: "2006-11-08T22:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/11/08/Lost-review-for-November-8
 ---
 
 I really should stop calling these reviews as I mainly just jot notes down while I watch the show. :) Anyway, here is what happened:

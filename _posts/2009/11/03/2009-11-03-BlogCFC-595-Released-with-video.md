@@ -4,6 +4,8 @@ title: "BlogCFC 5.9.5 Released (with video)"
 date: "2009-11-03T13:11:00+06:00"
 categories: ColdFusion jQuery 
 tags: 
+banner_image: 
+permalink: /2009/11/03/BlogCFC-595-Released-with-video
 ---
 
 I just released <a href="http://blogcfc.riaforge.org">BlogCFC 5.9.5</a> to RIAForge. The readme describes all the changes, but the major focus in this release on improving the editor (lots of jQuery love!). I took a quick video demonstrating some of the new features. I know I need to get a better way of embedding videos on here, but for now the image below will take you to the SWF file directly.

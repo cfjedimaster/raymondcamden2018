@@ -4,6 +4,8 @@ title: "Ask a Jedi: Round robin display of data"
 date: "2009-11-17T13:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/11/17/Ask-a-Jedi-Round-robin-display-of-data
 ---
 
 This came in via my <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=1EA81628-D633-6389-8B472523F011A2DD&page=1">forums</a> today and I thought it was too interesting to not blog about. If you read his post, you can see he needs to support rotating data such that A B C changes to B A C. However, he also has groupings within his data. So imagine now you have ABC in the first group and DE in the second. Your rotation now needs to be "in" group, so on your first iteration you have: A B C D E. On your second you rotate each group to end with: B C A E D. I whipped up the following solution and I'd love to see alternatives.

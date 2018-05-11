@@ -4,6 +4,8 @@ title: "My Modern Web Conference presentation is now available online"
 date: "2014-10-29T18:10:00+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2014/10/29/My-Modern-Web-Conference-presenation-is-now-available-online
 ---
 
 <p>

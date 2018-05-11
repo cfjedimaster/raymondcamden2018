@@ -4,6 +4,8 @@ title: "Broadchoice Workspace reviewed on Refreshing Apps"
 date: "2008-12-31T12:12:00+06:00"
 categories: ColdFusion Flex 
 tags: 
+banner_image: 
+permalink: /2008/12/31/Broadchoice-Workspace-reviewed-on-Refreshing-Apps
 ---
 
 Just a quick note to share that RefreshingApps.com (I need to bookmark this site!) has reviewed the <a href="http://www.broadchoice.com/downloads/">Broadchoice Workspace</a>: 

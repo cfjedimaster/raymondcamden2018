@@ -4,6 +4,8 @@ title: "Figuring out what version of Cordova created a project"
 date: "2014-10-03T17:10:00+06:00"
 categories: Development Mobile 
 tags: 
+banner_image: 
+permalink: /2014/10/03/Figuring-out-what-version-of-Cordova-created-a-project
 ---
 
 <p>

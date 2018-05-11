@@ -4,6 +4,8 @@ title: "Galleon ColdFusion Forums: Version 1.7"
 date: "2006-11-03T23:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/11/03/Galleon-ColdFusion-Forums-Version-17
 ---
 
 It's been a long time since I had a real release of Galleon, my ColdFusion Forums package. Today I am happy to release a major new release, version 1.7. This version incorporates some of the changes that Rick Root had added to <a href="http://www.cfmbb.org/forums.cfm">CFMBB</a>, which was based on an earlier version of Galleon. To be honest - I left Galleon get stale for a while - so hopefully this update will get people excited about the product again. Changes in this release are:

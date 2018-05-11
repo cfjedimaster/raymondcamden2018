@@ -4,6 +4,8 @@ title: "Handling remote errors in Flex 2"
 date: "2006-12-04T21:12:00+06:00"
 categories: Flex 
 tags: 
+banner_image: 
+permalink: /2006/12/04/Handling-remote-errors-in-Flex-2
 ---
 
 After my <a href="http://ray.camdenfamily.com/index.cfm/2006/12/4/Simple-Error-Templates">last post</a> on a simple error handler for ColdFusion, I was asked how I would do the same in Flex 2. Keep in mind I'm still new to all this - so I'm sure (and I'm counting on!) my readers to correct me - but here is my answer to that question.
@@ -45,4 +47,4 @@ All I did was alert various parts of the <a href="http://livedocs.macromedia.com
 		
 Question: How would you handle the "Oh Crap" version? Seems like it would make sense to either use a ViewStack and switch to a page with the error message. Or perhaps simply push the user to an HTML page with the same message. 
 
-I included a zip of the files I used to test the code above. The CFC it calls tries to use a datasource that doesn't exist so it should throw an error for you.<p><a href='enclosures/D%3A%5Cwebsites%5Cdev%2Ecamdenfamily%2Ecom%5Cenclosures%2FArchive4%2Ezip'>Download attached file.</a></p>
+I included a zip of the files I used to test the code above. The CFC it calls tries to use a datasource that doesn't exist so it should throw an error for you.<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Cdev%{% endraw %}2Ecamdenfamily{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FArchive4%{% endraw %}2Ezip'>Download attached file.</a></p>

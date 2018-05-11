@@ -4,6 +4,8 @@ title: "Sending data to the server with HTTP? Size matters"
 date: "2012-11-05T15:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2012/11/05/Sending-data-to-the-server-with-HTTP-Size-matters
 ---
 
 A few times a month I run into someone having issues with this and just a few minutes ago I helped someone out so I thought I'd write something up quickly to help make it (hopefully) a bit more Google-friendly for those having trouble.

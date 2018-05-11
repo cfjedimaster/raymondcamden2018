@@ -4,6 +4,8 @@ title: "Best of CF9: School Directory"
 date: "2009-12-09T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/09/Best-of-CF9-School-Directory
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry comes to us from Dale Severin. It was reviewed by <a href="http://www.remotesynthesis.com/">Brian Rinaldi</a>. His review was pretty nicely organized so I'm including it as is. Everything up till "Ray here" is straight from him. 
@@ -73,4 +75,4 @@ One suggestion here is the use of a hardcoded file location is both in a Windows
 
 Overall, I think Dale made a good example to show people how these new features can be used quickly to add functionality that was once a pain in the butt to write. Nonetheless, I do think the application is missing the "wow" factor one might have expected for this contest.
 
-<b>Ray Here:</b> I don't have much to add here. Brian has done an excellent job with the review here. I will definitely agree with him about the Windows pathing. Maybe I'm just more sensitive to it being on a Mac, but I see this a <b>lot</b>. As always, you can download the application below. Like Brian, I did not have to modify the path (which was a bit weird :) to get the download to work. I did ensure I had a Google Map Key already set in my CF Admin so be sure you check that first. By the way - when you sign up for a Google Map Key, they are perfectly happy taking "localhost" as a server name. This means you should have no problem testing locally. Thanks Dale!<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FSchoolDirectory%2Ezip'>Download attached file.</a></p>
+<b>Ray Here:</b> I don't have much to add here. Brian has done an excellent job with the review here. I will definitely agree with him about the Windows pathing. Maybe I'm just more sensitive to it being on a Mac, but I see this a <b>lot</b>. As always, you can download the application below. Like Brian, I did not have to modify the path (which was a bit weird :) to get the download to work. I did ensure I had a Google Map Key already set in my CF Admin so be sure you check that first. By the way - when you sign up for a Google Map Key, they are perfectly happy taking "localhost" as a server name. This means you should have no problem testing locally. Thanks Dale!<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FSchoolDirectory%{% endraw %}2Ezip'>Download attached file.</a></p>

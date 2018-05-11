@@ -4,6 +4,8 @@ title: "PhoneGap RSS Reader - Part 2"
 date: "2011-12-19T14:12:00+06:00"
 categories: HTML5 JavaScript jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2011/12/19/phonegap-rss-reader-part-2
 ---
 
 Two months ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2011/10/11/PhoneGap-RSS-Reader">blog entry</a> on how to build a simple PhoneGapp application. This application just read in an RSS feed and used jQuery Mobile to display the results. I think this was helpful, but a few readers pointed out some issues with the code that caused me to come back to it this weekend and work on some updates. The issues were...

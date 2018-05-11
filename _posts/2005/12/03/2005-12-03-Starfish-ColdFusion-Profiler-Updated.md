@@ -4,6 +4,8 @@ title: "Starfish ColdFusion Profiler Updated"
 date: "2005-12-03T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/12/03/Starfish-ColdFusion-Profiler-Updated
 ---
 
 After many (many) weeks of ignoring it, I've finally gotten around to updating my Starfish ColdFusion Profiler application. While the project is still in it's "ugly ducking" phase, I have begun to clean the code up a bit and it is well on it's way to a "1.0" release. (I'm calling this the 0.2 release, just because I can.) Updates include:

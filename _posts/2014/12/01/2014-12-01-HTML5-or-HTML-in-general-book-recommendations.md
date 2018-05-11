@@ -4,6 +4,8 @@ title: "HTML5 (or HTML in general) book recommendations?"
 date: "2014-12-01T14:12:00+06:00"
 categories: HTML5 
 tags: 
+banner_image: 
+permalink: /2014/12/01/HTML5-or-HTML-in-general-book-recommendations
 ---
 
 <p>

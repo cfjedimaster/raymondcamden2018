@@ -4,6 +4,8 @@ title: "Lost review for October 4, 2006"
 date: "2006-10-04T23:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/04/Lost-review-for-October-4-2006
 ---
 
 Lost has returned, and so has my Lost reviews (even though I'm on vacation). I was lucky enough to be able to do my presentation and get back in time to watch the premier. 

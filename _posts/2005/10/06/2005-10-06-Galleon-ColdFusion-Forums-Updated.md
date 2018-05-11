@@ -4,6 +4,8 @@ title: "Galleon ColdFusion Forums Updated"
 date: "2005-10-06T15:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/10/06/Galleon-ColdFusion-Forums-Updated
 ---
 
 I fixed a bug in Galleon today. It was a major bug in subscriptions which basically made them not work at all. Want to know what I did? When you added a subscription, the code checked to ensure that you had not subscribed already. However, the query didn't check for <b>your</b> user id, so if anyone had subscribed to that resource, no one else could subscribe. -sigh-

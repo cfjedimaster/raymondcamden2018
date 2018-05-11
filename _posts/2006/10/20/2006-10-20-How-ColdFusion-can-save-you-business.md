@@ -4,6 +4,8 @@ title: "How ColdFusion can save your business!"
 date: "2006-10-20T13:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2006/10/20/How-ColdFusion-can-save-you-business
 ---
 
 Ok, please forgive the overly dramatic title, but I want to talk about something pretty darn important and I wanted to get your attention. Does your site have an e-commerce feature? Is the main purpose of your site e-commerce? If so - let me ask you a question. I'm sure you can tell me right now (I hope!) how many orders your site gets per day, along with other things like the average size of the order, highest order, etc. But can you tell me how many people visit your site, add a few items to their cart, and just give up never to return? Can you tell me if there is a particular part of your checkout process where people tend to abandon their carts? If you can't - then you could (literally) be losing money every day. Money isn't everything - but I've heard good things about it - so why not go the extra mile to ensure you are losing money due to some stupid reason like a hard to navigate checkout process or even a simple typo that makes it difficult for consumers to complete their order. Luckily we can add some monitoring using a simple feature of ColdFusion MX7: Application.cfc.
@@ -180,4 +182,4 @@ Here are some other ideas to consider:
 <li>When a user doesn't complete their order, maybe send them a coupon code to encourage them to complete an order.
 <li>Examine the contents of abandoned carts. Do some products seems to be abandoned most often? Perhaps they have higher taxes, or shipping fees, that discourage users from actually purchasing the items. Maybe you should be more up front with the users about these fees?
 <li>Can you think of some other good uses here?
-</ul><p><a href='enclosures/D%3A%5Cwebsites%5Cdev%2Ecamdenfamily%2Ecom%5Cenclosures%2Fecomtest%2Ezip'>Download attached file.</a></p>
+</ul><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Cwebsites{% raw %}%5Cdev%{% endraw %}2Ecamdenfamily{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fecomtest%{% endraw %}2Ezip'>Download attached file.</a></p>

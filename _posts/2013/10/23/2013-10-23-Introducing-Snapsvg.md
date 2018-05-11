@@ -4,6 +4,8 @@ title: "Introducing Snap.svg"
 date: "2013-10-23T11:10:00+06:00"
 categories: HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/10/23/Introducing-Snapsvg
 ---
 
 <p>
@@ -85,8 +87,8 @@ With IDs, I then added a bit of animation to my SVG:
                  var s = Snap(&quot;100%&quot;, 600);
                     Snap.load(&quot;first.svg&quot;, function(f) {
                          something = f.select(&quot;#red&quot;);
-                         something.attr({fill:&quot;#000&quot;});
-                         something.animate({fill:&quot;#ff0000&quot;},1000);
+                         something.attr({% raw %}{fill:&quot;#000&quot;}{% endraw %});
+                         something.animate({% raw %}{fill:&quot;#ff0000&quot;}{% endraw %},1000);
                          s.append(f);
                     });
                    

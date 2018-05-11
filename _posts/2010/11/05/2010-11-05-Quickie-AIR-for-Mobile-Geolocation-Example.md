@@ -4,6 +4,8 @@ title: "Quickie AIR for Mobile Geolocation Example"
 date: "2010-11-05T17:11:00+06:00"
 categories: Flex Mobile 
 tags: 
+banner_image: 
+permalink: /2010/11/05/Quickie-AIR-for-Mobile-Geolocation-Example
 ---
 
 Last night I read over Rich Tretola's excellent <a href="http://blog.everythingflex.com/2010/07/22/air-on-android-geolocation/">Geolocation for AIR/Mobile</a> example. He demonstrates how to a) check and see if Geolocation is available (it may not be) and how to handle the response from the GPS system on the device. I thought it might be interesting to tie that to a change I made to the <a href="http://groups.adobe.com">Adobe Groups</a> remote API last night. I added a method that would return user groups based sorted by distance based on a longitude and latitude. For my testing I had done typed in values (everyone knows their longitude and latitude, right?) but I figured it would be even easier with AIR.
@@ -89,11 +91,11 @@ Let's take a look at the application I built. All in all it is pretty unrealisti
 		]]&gt;
 	&lt;/fx:Script&gt;
 	
-	&lt;s:VGroup width="100%" height="100%" paddingLeft="5" paddingRight="5" paddingTop="5"&gt;		
+	&lt;s:VGroup width="100{% raw %}%" height="100%{% endraw %}" paddingLeft="5" paddingRight="5" paddingTop="5"&gt;		
 		
 		&lt;s:Label id="geoStatus" width="100%"/&gt;
 		
-		&lt;s:List id="groupList" dataProvider="{groups}" width="100%" height="100%"&gt;
+		&lt;s:List id="groupList" dataProvider="{% raw %}{groups}{% endraw %}" width="100{% raw %}%" height="100%{% endraw %}"&gt;
 			&lt;s:itemRenderer&gt;
 				&lt;fx:Component&gt;
 					&lt;s:MobileIconItemRenderer labelFunction="displayGroup"  messageFunction="displayMessage" iconField="AVATAR"&gt;
@@ -147,4 +149,4 @@ Enjoy! Oh - two quick notes.
 
 While pushing out my code to the phone I noticed, for the first time, that it seemed to 'latch' on to the application. I had to manually delete the application one time. I didn't see that again so maybe it was just a fluke. But keep that in mind if you don't see your application refreshing when running on the hardware.
 
-Lastly - I still need to share the source code for the Death Clock application I blogged about before MAX. Will do so soon.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FGroupsGeo2%2Eapk'>Download attached file.</a></p>
+Lastly - I still need to share the source code for the Death Clock application I blogged about before MAX. Will do so soon.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FGroupsGeo2%{% endraw %}2Eapk'>Download attached file.</a></p>

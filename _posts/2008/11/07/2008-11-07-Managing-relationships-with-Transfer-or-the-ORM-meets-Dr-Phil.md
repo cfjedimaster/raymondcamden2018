@@ -4,6 +4,8 @@ title: "Managing relationships with Transfer (or the ORM meets Dr. Phil)"
 date: "2008-11-07T21:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/11/07/Managing-relationships-with-Transfer-or-the-ORM-meets-Dr-Phil
 ---
 
 As I mentioned in <a href="http://www.raymondcamden.com/index.cfm/2008/11/6/Building-CRUD-with-Transfer-2">yesterday's blog post</a>, our simple application with one table isn't terribly realistic. Easy to build - yes. Real world? Not even close. Today we are going to work with some new data in our Transfer sample application, and talk a bit about how Transfer can help manage relationships between types of data.
@@ -233,4 +235,4 @@ Ok, so that's all for tonight. The next entry will go into the other relationshi
 
 This is kinda funny looking, but gives you a path like so:  /Users/ray/Documents/webroot/empdirectory/../transfer1.1. The embedded .. simply crawls back up from the directory containing Application.cfc and then back down into transfer1.1. I probably could have hard coded it and made it simpler, but you get the idea. This is included in the zip of course.
 
-As always, fire away with the questions!<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory3%2Ezip'>Download attached file.</a></p>
+As always, fire away with the questions!<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory3%{% endraw %}2Ezip'>Download attached file.</a></p>

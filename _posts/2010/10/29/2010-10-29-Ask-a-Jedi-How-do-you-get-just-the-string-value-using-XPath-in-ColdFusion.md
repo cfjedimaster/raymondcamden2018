@@ -4,6 +4,8 @@ title: "Ask a Jedi: How do you get just the string value using XPath in ColdFusi
 date: "2010-10-29T12:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/10/29/Ask-a-Jedi-How-do-you-get-just-the-string-value-using-XPath-in-ColdFusion
 ---
 
 John asked:

@@ -4,6 +4,8 @@ title: "New Brackets Extension - Canalyzer!"
 date: "2013-12-16T16:12:00+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/12/16/New-Brackets-Extension-Canalyzer
 ---
 
 <p>

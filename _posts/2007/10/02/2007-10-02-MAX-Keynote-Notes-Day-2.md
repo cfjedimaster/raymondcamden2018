@@ -4,6 +4,8 @@ title: "MAX Keynote Notes - Day 2"
 date: "2007-10-02T13:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/02/MAX-Keynote-Notes-Day-2
 ---
 
 Notes from Tuesday's Keynote

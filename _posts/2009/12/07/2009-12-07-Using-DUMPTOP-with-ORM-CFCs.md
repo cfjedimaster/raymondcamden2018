@@ -4,6 +4,8 @@ title: "Using DUMP/TOP with ORM CFCs"
 date: "2009-12-07T12:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/07/Using-DUMPTOP-with-ORM-CFCs
 ---
 
 Lately I've been running into an issue using CFDUMP to display ORM based entities. The problem occurs in entities that are fairly complex. If a resource belongs to a group a group has users and users have groups and groups have resources... well as you can image, the dump can grow rather large. 

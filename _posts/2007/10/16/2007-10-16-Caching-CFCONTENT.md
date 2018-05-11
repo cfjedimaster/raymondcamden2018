@@ -4,6 +4,8 @@ title: "Caching CFCONTENT"
 date: "2007-10-16T11:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/16/Caching-CFCONTENT
 ---
 
 A few days ago I blogged about a <a href="http://www.raymondcamden.com/index.cfm/2007/10/11/ColdFusion-and-Verity-Tip--Getting-results-found-when-paging">code review</a> I was doing for another client. Yesterday I found another interesting bug in their code. (It is always easier to find bugs in other people's code.)

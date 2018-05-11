@@ -4,6 +4,8 @@ title: "Handling a slow process in a Model-Glue (or other MVC) application"
 date: "2008-10-27T23:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/27/Handling-a-slow-process-in-a-ModelGlue-or-other-MVC-application
 ---
 
 This weekend I exchanged a few emails with a reader about how you can handle very slow processes in a Model-Glue application. Typically folks will handle slow processes using one of these methods:
@@ -120,4 +122,4 @@ So I was going to stop there. But why stop when you can try something cool? Many
 
 I'm really impressed by this charting engine. It may not be as easy as cfchart, but it is certainly as pretty, and the auto-update for data is worth the price in itself.
 
-So outside of the pretty charts - have folks done anything like the above code? (Again, ignoring the fact I used the controller.)<p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fmgdemos%2Ezip'>Download attached file.</a></p>
+So outside of the pretty charts - have folks done anything like the above code? (Again, ignoring the fact I used the controller.)<p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fmgdemos%{% endraw %}2Ezip'>Download attached file.</a></p>

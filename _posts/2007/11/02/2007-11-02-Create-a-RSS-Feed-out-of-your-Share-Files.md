@@ -4,6 +4,8 @@ title: "Create a RSS Feed out of your Share Files"
 date: "2007-11-02T19:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/11/02/Create-a-RSS-Feed-out-of-your-Share-Files
 ---
 
 Adobe's <a href="http://share.adobe.com">Share</a> service doesn't have RSS feeds yet (as far as I know), but there is no reason you can't role your own! Here is a quick example.

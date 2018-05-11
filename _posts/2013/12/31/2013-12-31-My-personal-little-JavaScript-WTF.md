@@ -4,6 +4,8 @@ title: "My personal little JavaScript WTF"
 date: "2013-12-31T14:12:00+06:00"
 categories: JavaScript 
 tags: 
+banner_image: 
+permalink: /2013/12/31/My-personal-little-JavaScript-WTF
 ---
 
 <p>

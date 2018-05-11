@@ -4,6 +4,8 @@ title: "Demo of a multi-step form in jQuery Mobile"
 date: "2011-11-18T12:11:00+06:00"
 categories: ColdFusion jQuery Mobile 
 tags: 
+banner_image: 
+permalink: /2011/11/18/Demo-of-a-multistep-form-in-jQuery-Mobile
 ---
 
 While perusing questions over on <a href="http://www.stackoverflow.com">Stack Overflow</a> I came across a <a href="http://stackoverflow.com/questions/8036588/jquery-mobile-multipage-submit">question</a> concerning jQuery Mobile and multi-step forms. I thought I'd take a stab and building one. This is - of course - just one way to do it. At the end of the blog entry I'll discuss some alternatives to consider, and as always, I'd love to hear from my readers about how <i>they</i> would do it.
@@ -67,7 +69,7 @@ The real meat of the logic is going to take place in someform.cfm. I decided to 
 
 <code>
 &lt;cfif not structKeyExists(session, "regform")&gt;
-	&lt;cfset session.regform = {step=1}&gt;
+	&lt;cfset session.regform = {% raw %}{step=1}{% endraw %}&gt;
 &lt;/cfif&gt;
 
 &lt;cfif structKeyExists(form, "submit1")&gt;
@@ -292,4 +294,4 @@ And that's it. I've attached the code below. You can demo the code here: <a href
 <ul>
 <li>One possibility would be to make use of 'accordion' controls. I've seen that before on multi-step forms, but not on mobile. You can see an example of the control <a href="http://jquerymobile.com/demos/1.0/docs/content/content-collapsible-set.html">here</a>. 
 <li>JavaScript can be used to show and hide items - so instead of hitting the server we could simply hide a block of fields and show the next step.
-</ul><p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fdraft3%2Ezip'>Download attached file.</a></p>
+</ul><p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fdraft3%{% endraw %}2Ezip'>Download attached file.</a></p>

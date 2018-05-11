@@ -4,6 +4,8 @@ title: "New Spry Code: Paged Datasets"
 date: "2006-12-22T14:12:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/12/22/New-Spry-Code-Paged-Datasets
 ---
 
 The Spry guys have left us a little Christmas preset - new demos and a new feature, the <a href="http://labs.adobe.com/technologies/spry/samples/data_region/SpryPagedViewSample.html">PagedView</a> class. From the description:

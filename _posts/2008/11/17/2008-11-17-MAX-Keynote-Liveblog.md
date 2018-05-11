@@ -4,6 +4,8 @@ title: "MAX Keynote Liveblog"
 date: "2008-11-17T12:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/11/17/MAX-Keynote-Liveblog
 ---
 
 Folks, first off, the wireless is a bit spotty, so I may be a bit slow to update.

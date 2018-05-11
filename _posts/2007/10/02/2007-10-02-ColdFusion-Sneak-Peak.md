@@ -4,6 +4,8 @@ title: "ColdFusion Sneak Peak"
 date: "2007-10-02T21:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/02/ColdFusion-Sneak-Peak
 ---
 
 So I just sat through the ColdFusion sneak peak at MAX, and it was done <i>really</i> fast, so forgive me if I get a few details wrong. The demo involved moving from a CF-based Ajax app to an AIR application. If I saw right, he began by adding a &lt;cfairaccess& tag, and then set a property to CFGRID to mark it as available offline. He views the page in the browser and saves the result as an HTML file. He then uses the normal AIR compiling tools (from what I can tell) to generate an AIR app. It works. Ok - no big surprise there since CF generates HTML, but it is kind of nice as he is now browsing his data in the AIR app. 

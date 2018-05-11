@@ -4,6 +4,8 @@ title: "You will use cfqueryparam... or else!"
 date: "2008-12-03T14:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/03/You-will-use-cfqueryparam-or-else
 ---
 
 A friend, who prefers to remain anonymous, pinged me today to ask what my favorite cfqueryparam scanner was. I don't actually use one, but when I asked him why he wanted one, I was a bit surprised by his answer.

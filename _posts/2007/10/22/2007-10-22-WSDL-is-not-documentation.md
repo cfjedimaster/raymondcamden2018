@@ -4,6 +4,8 @@ title: "WSDL is not documentation!"
 date: "2007-10-22T12:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/22/WSDL-is-not-documentation
 ---
 
 Rant Mode On...

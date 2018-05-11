@@ -4,6 +4,8 @@ title: "ImageScaleToFit goes both ways"
 date: "2007-10-25T15:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/25/ImageScaleToFit-goes-both-ways
 ---
 
 Ok, so this is probably me having a "Duh" moment here, but I forgot that imageScaleToFit goes both ways. What do I mean by that? If you are using the code to create a thumbnail, like so:

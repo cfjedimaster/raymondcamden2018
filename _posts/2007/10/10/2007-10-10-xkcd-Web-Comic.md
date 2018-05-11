@@ -4,6 +4,8 @@ title: "xkcd - Web Comic"
 date: "2007-10-10T12:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/10/xkcd-Web-Comic
 ---
 
 I'm not a big fan of web based comics - not because I don't like them - but because I typically forget to keep up with them. A buddy just sent me a link to <a href="http://xkcd.com/">xkdc</a> - which is described as a "webcomic of romance, sarcasm, math, and language." After seeing today's post - I'm hooked:

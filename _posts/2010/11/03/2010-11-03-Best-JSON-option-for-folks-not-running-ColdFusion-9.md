@@ -4,6 +4,8 @@ title: "Best JSON option for folks not running ColdFusion 9"
 date: "2010-11-03T11:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/11/03/Best-JSON-option-for-folks-not-running-ColdFusion-9
 ---
 
 For folks who have done a lot of AJAX work in ColdFusion, the ability to natively generate JSON from a CFC request has been a godsend. However, there have been many issues with the serialization of certain values. A good example of this is values like "011" turn into "11.0", which is unacceptable. There have been changes (both good and bad) in this area since 8 was released, with the <b>very</b> latest version of ColdFusion getting it near perfect. (And I don't mean ColdFusion 901, but ColdFusion 901 <a href="http://www.raymondcamden.com/index.cfm/2010/8/31/Cumulative-Hotfix-for-901-Released">with the hot fix</a> applied.) But what about folks not using ColdFusion 9 yet?

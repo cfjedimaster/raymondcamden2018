@@ -4,6 +4,8 @@ title: "Ask a Jedi: Why isn't my form reloading the whole page?"
 date: "2007-10-31T17:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/31/Ask-a-Jedi-Why-isnt-my-form-reloading-the-whole-page
 ---
 
 This blog entry actually covers something I've covered a few times, but as I keep getting questions, I figure it can't hurt to cover it again. Rual asks:

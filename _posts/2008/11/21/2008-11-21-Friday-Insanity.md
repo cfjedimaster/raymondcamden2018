@@ -4,6 +4,8 @@ title: "Friday Insanity"
 date: "2008-11-21T17:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2008/11/21/Friday-Insanity
 ---
 
 First off, sorry for my lack of postings (and replying to emails). I went straight from MAX to meetings at <a href="http://broadchoice.com">Broadchoice</a>. I had to share this story though and I think you guys might enjoy it.

@@ -4,6 +4,8 @@ title: "Lighthouse Pro 2.5 Out the Door (Kuler, YouTube News too...)"
 date: "2008-10-17T12:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/17/Lighthouse-Pro-25-Out-the-Door-Kuler-YouTube-News-too
 ---
 
 I'm happy to announce that <a href="http://lighthousepro.riaforge.org">Lighthouse Pro 2.5</a> has finally been published to RIAForge. It was down a few weeks ago, but as <a href="http://www.broadchoice.com">work</a> ramped up and additional fixes/mods came in I kept delaying the release. I described the updates in an <a href="http://www.raymondcamden.com/index.cfm/2008/9/28/Lighthouse-Pro-25-Beta">earlier blog entry</a> so I won't go into it again, but this is a pretty big update. Note - I have not updated the Subversion repo yet. Sorry! I also forgot to note in the installation instructions that you <b>must</b> install ColdSpring. I'll get those updates sometime this weekend.

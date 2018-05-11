@@ -4,6 +4,8 @@ title: "Canvas ColdFusion Wiki Updated"
 date: "2005-12-19T18:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/12/19/Canvas-ColdFusion-Wiki-Updated
 ---
 
 I've updated <a href="http://ray.camdenfamily.com/projects/canvas">Canvas ColdFusion Wiki</a> tonight. These changes reflect the feedback from my users, specifically <a href="http://www.brooks-bilson.com/blogs/rob/">Rob Brooks-Bilson</a>, <a href="http://www.doughughes.net/">Doug Hughes</a>, and <a href="http://www.corfield.org/blog/index.cfm?">Sean Corfield</a>. So what was changed?

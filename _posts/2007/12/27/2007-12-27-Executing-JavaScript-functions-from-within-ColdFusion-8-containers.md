@@ -4,6 +4,8 @@ title: "Executing JavaScript functions from within ColdFusion 8 containers"
 date: "2007-12-27T12:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/12/27/Executing-JavaScript-functions-from-within-ColdFusion-8-containers
 ---
 
 This morning a discussion came up on cf-talk about how to run JavaScript functions from within ColdFusion 8 containers. (What do I mean by 'container'? I mean any of the new Ajax UI elements like the Pod or Window.) The person asking the question was trying to use ColdFusion.navigate. I can see how you could possibly think this would work. One way to run JavaScript functions is with links, as in:

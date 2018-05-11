@@ -4,6 +4,8 @@ title: "Vertigo - Not your average comic"
 date: "2006-11-15T22:11:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/11/15/Vertigo-Not-your-average-comic
 ---
 
 This was already <a href="http://blog.acidlabs.org/2006/11/16/i-heart-vertigo/">reported</a> by acidlabs, but it deserves repeating. Vertigo, the "edgy" part side of DC, is <a href="http://www.dccomics.com/news/?nw=6186">releasing</a> PDFs of some of its most classic comics, including Sandman (a work of art), Hellblazer, and Preacher. Unfortunately they aren't in the handy CBR format, but are still quite readable in PDF form.

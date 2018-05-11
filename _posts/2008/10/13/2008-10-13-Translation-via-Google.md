@@ -4,6 +4,8 @@ title: "Translation via Google"
 date: "2008-10-13T22:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/10/13/Translation-via-Google
 ---
 
 Sorry for the lack of postings lately. Things are <i>very</i> busy at work lately so it will most likely be a quiet week. I did run into an interesting article via <a href="http://www.dzone.com">DZone</a> today: <a href="http://www.plentyofcode.com/2008/10/google-translation-api-translate-on.html">Google Translation API: Translate on server side using PHP</a> The author shows an example of hitting the Google Translation service with PHP. This is very unofficial as the service was meant for AJAX, but it does actually work via server side code. Anything written in PHP can be done in ColdFusion of course. Here is my version:

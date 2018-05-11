@@ -4,6 +4,8 @@ title: "Broken Promises of HTML5 - by Christian Heilmann"
 date: "2012-10-23T18:10:00+06:00"
 categories: HTML5 
 tags: 
+banner_image: 
+permalink: /2012/10/23/Broken-Promises-of-HTML5
 ---
 
 I tweeted this last week and have mentioned it again a few times, but I wanted to ensure my readers watched this. Christian Heilmann is an evangelist for Mozilla and gave what I consider to be a damn good presentation on HTML5. 

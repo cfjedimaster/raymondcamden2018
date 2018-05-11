@@ -4,6 +4,8 @@ title: "Update #3: Galleon 2"
 date: "2007-10-13T00:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/10/12/Update-3-Galleon-2
 ---
 
 <p><img src="https://static.raymondcamden.com/images/glogo.png" align="left"></p>

@@ -4,6 +4,8 @@ title: "Upcoming Test the Web Forward Hackathons"
 date: "2012-10-02T11:10:00+06:00"
 categories: Development HTML5 
 tags: 
+banner_image: 
+permalink: /2012/10/02/Upcoming-Test-the-Web-Forward-Hackathons
 ---
 
 Adobe is hosting two upcoming "Test the Web Forward" hackathons. The first will be in <a href="http://testthewebforward.org/beijing-2012.html">Beijing</a> (October 20-21) and the second in <a href="http://testthewebforward.org/paris-2012.html">Paris</a> (October 26-27). What exactly is a "Test the Web Forward" event?

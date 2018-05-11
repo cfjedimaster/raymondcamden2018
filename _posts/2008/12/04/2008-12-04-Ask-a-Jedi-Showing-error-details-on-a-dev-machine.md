@@ -4,6 +4,8 @@ title: "Ask a Jedi: Showing error details on a dev machine"
 date: "2008-12-04T15:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/04/Ask-a-Jedi-Showing-error-details-on-a-dev-machine
 ---
 
 Brett asks:

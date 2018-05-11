@@ -4,6 +4,8 @@ title: "Using ReplaceList and null replacements"
 date: "2010-12-15T15:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/12/15/Using-ReplaceList-and-null-replacements
 ---
 
 I had an interesting conversation (well, set of emails) with a reader today who had an interesting problem. Given an input string, he needed to remove some special characters and change spaces to underscores. He knew he could do it with a few Replace calls but wasn't sure if he could do it in one quick function call. I recommend <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-6e17.html">replaceList</a>. Let's look at an example of this and then I'll demonstrate what I found with null replacements.
@@ -47,7 +49,7 @@ So given that, let's try to combine our three replace calls with one list. The q
 
 <p>
 
-But it produced: Thisis_stuffwiththingsIdon'tlikeit. Not exactly what I expected. It looks like it replaced all spaces and the % with nothing. The one $ character was replaced with an underscore. I'm guessing the logic was to ignore the empty list values in the second list and basically act as if I had done:  replaceList(string, "$,%, ", "_"). Apparently replaceList automatically says, "if you ask me to replace items in list 1 and it's bigger than list 2, I'll treat the rest as being replaced with nothing."
+But it produced: Thisis_stuffwiththingsIdon'tlikeit. Not exactly what I expected. It looks like it replaced all spaces and the {% raw %}% with nothing. The one $ character was replaced with an underscore. I'm guessing the logic was to ignore the empty list values in the second list and basically act as if I had done:  replaceList(string, "$,%{% endraw %}, ", "_"). Apparently replaceList automatically says, "if you ask me to replace items in list 1 and it's bigger than list 2, I'll treat the rest as being replaced with nothing."
 
 <p>
 

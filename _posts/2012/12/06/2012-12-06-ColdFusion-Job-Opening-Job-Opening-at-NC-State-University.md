@@ -4,6 +4,8 @@ title: "ColdFusion Job Opening - Job Opening at NC State University"
 date: "2012-12-06T15:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2012/12/06/ColdFusion-Job-Opening-Job-Opening-at-NC-State-University
 ---
 
 Job Title: Operations and Systems Analyst

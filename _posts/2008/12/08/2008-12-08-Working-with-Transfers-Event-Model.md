@@ -4,6 +4,8 @@ title: "Working with Transfer's Event Model"
 date: "2008-12-08T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/08/Working-with-Transfers-Event-Model
 ---
 
 In all my posts so far on Transfer, this is the one I was most looking forward to. I had known, in general, what Transfer did and how it works... kind of. But the event model was something I was completely in the dark with so I couldn't wait to start playing with it. Now that I have, I can say I'm both impressed, and a bit disappointed.
@@ -147,4 +149,4 @@ As with my earlier entries, I've included a zip of my most recent code base so y
 <li>AfterUpdate: Called after the already persisted object is updated.
 <li>BeforeDelete: Called before an object is about to be deleted.
 <li>AfterDelete: Called after the object is deleted.
-</ul><p><a href='enclosures/D%3A%5Chosts%5Cwww%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Fempdirectory7%2Ezip'>Download attached file.</a></p>
+</ul><p><a href='enclosures/D{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5Cwww%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fempdirectory7%{% endraw %}2Ezip'>Download attached file.</a></p>

@@ -4,6 +4,8 @@ title: "List auto-dividers in Ionic"
 date: "2014-11-06T17:11:00+06:00"
 categories: HTML5 JavaScript Mobile 
 tags: 
+banner_image: 
+permalink: /2014/11/06/Autolist-dividers-in-Ionic
 ---
 
 <p>
@@ -22,11 +24,11 @@ First, the controller code modifies the array to include an item for each necess
 
   //orig data
   var list = [];
-  list.push({name:"Gary"});
-  list.push({name:"Gosh"});
-  list.push({name:"Ray"});
-  list.push({name:"Sam"});
-  list.push({name:"Sandy"});
+  list.push({% raw %}{name:"Gary"}{% endraw %});
+  list.push({% raw %}{name:"Gosh"}{% endraw %});
+  list.push({% raw %}{name:"Ray"}{% endraw %});
+  list.push({% raw %}{name:"Sam"}{% endraw %});
+  list.push({% raw %}{name:"Sandy"}{% endraw %});
 
   $scope.list = [];
   var lastChar = '';
@@ -34,7 +36,7 @@ First, the controller code modifies the array to include an item for each necess
     var item = list[i];
 
     if(item.name.charAt(0) != lastChar) {
-      $scope.list.push({name:item.name.charAt(0),letter:true});
+      $scope.list.push({% raw %}{name:item.name.charAt(0),letter:true}{% endraw %});
       lastChar = item.name.charAt(0);
     }
     $scope.list.push(item);
@@ -49,7 +51,7 @@ That feels lame - I mean modifying the list - but I'm doing it in my controller 
 
 <pre><code class="language-markup">&lt;ion-list type=&quot;list-inset&quot;&gt;
       &lt;ion-item ng-repeat=&quot;person in list&quot; ng-class=&quot;person.letter? &#x27;item-divider&#x27;:&#x27;&#x27;&quot;&gt;
-        {{person.name}}
+        {% raw %}{{person.name}{% endraw %}}
       &lt;&#x2F;ion-item&gt;
     &lt;&#x2F;ion-list&gt;</code></pre>
 

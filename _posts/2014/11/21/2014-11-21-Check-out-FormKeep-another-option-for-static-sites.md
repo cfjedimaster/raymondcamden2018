@@ -4,6 +4,8 @@ title: "Check out FormKeep, another option for static sites"
 date: "2014-11-21T14:11:00+06:00"
 categories: Development HTML5 JavaScript 
 tags: 
+banner_image: 
+permalink: /2014/11/21/Check-out-FormKeep-another-option-for-static-sites
 ---
 
 <img src="https://static.raymondcamden.com/images/keep1.png" class="bthumb" align="left" style="margin-right:10px" />
@@ -43,8 +45,8 @@ But you can also easily input a return URL. Since their server simply outputs th
 <pre><code class="language-markup">&lt;html&gt;
 	&lt;head&gt;
 	&lt;style&gt;
-		input, textarea { width: 250px; }
-		label { width: 100px; display:inline-block; }
+		input, textarea {% raw %}{ width: 250px; }{% endraw %}
+		label {% raw %}{ width: 100px; display:inline-block; }{% endraw %}
 		input[type=submit] {
 			width: 100px;
 		}

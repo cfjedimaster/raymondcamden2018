@@ -4,6 +4,8 @@ title: "Quick example of the Google Docs API"
 date: "2007-12-07T15:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2007/12/07/Quick-example-of-the-Google-Docs-API
 ---
 
 Earlier this morning a user forwarded me a job request from someone looking for code to integrate with Google Docs. In the past I've <i>really</i> detested Google's APIs, but I figured I'd take a look and see how bad it is. Turns out it wasn't as bad as I thought. I wrote up a quick demo. <b>This is not some new project.</b> This was just written for fun and as a proof of concept. 

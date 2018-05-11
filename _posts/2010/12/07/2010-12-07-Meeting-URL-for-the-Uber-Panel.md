@@ -4,6 +4,8 @@ title: "Meeting URL for the Uber Panel"
 date: "2010-12-07T22:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/12/07/Meeting-URL-for-the-Uber-Panel
 ---
 
 For tomorrow's Uber Panel of ColdFusion Awesomeness (I just love that name), please use the following URL:

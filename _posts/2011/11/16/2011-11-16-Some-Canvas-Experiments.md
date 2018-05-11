@@ -4,6 +4,8 @@ title: "Some Canvas Experiments"
 date: "2011-11-16T16:11:00+06:00"
 categories: HTML5 JavaScript jQuery 
 tags: 
+banner_image: 
+permalink: /2011/11/16/Some-Canvas-Experiments
 ---
 
 I spent some time yesterday reading an excellent article on a simple Canvas-based version of the old Snake game: <a href="http://www.netmagazine.com/tutorials/create-mobile-version-snake-html5-canvas-and-javascript">Create a mobile version of Snake with HTML5 canvas and JavaScript</a>. This article, by Eoin McGrath, does a great job explaining how he used Canvas to animate the game. (If you've never played Snake before, think Tron light cycles, single player, and not as cool.) I've been meaning to work on some simple games with Canvas, and while there are some very cool frameworks out there (<a href="http://easeljs.com/">EaselJS</a> and <a href="http://impactjs.com/">Impact</a> for example), I wanted to play around a bit with the raw code before I started punting some of the grunt work to other libraries. What follows is a series of experiments based on McGrath's core code set. Be gentle - this is my first time.
@@ -196,10 +198,10 @@ In the next iteration, I added a paddle object and added event listeners so I co
 				    this.y += (this.ydir * this.speed);
 					
 					//handle hitting the edge
-					if(this.x-this.w &lt; 0) { this.x = 0+this.w; this.xdir=1 }
-					if(this.x+this.w &gt; canvas.width) { this.x = canvas.width-this.w; this.xdir= -1 }
-					if(this.y-this.w &lt; 0) { this.y = 0+this.w; this.ydir=1 }					
-					if(this.y+this.w &gt; canvas.height) { this.y = canvas.height-this.w; this.ydir=-1 }			
+					if(this.x-this.w &lt; 0) {% raw %}{ this.x = 0+this.w; this.xdir=1 }{% endraw %}
+					if(this.x+this.w &gt; canvas.width) {% raw %}{ this.x = canvas.width-this.w; this.xdir= -1 }{% endraw %}
+					if(this.y-this.w &lt; 0) {% raw %}{ this.y = 0+this.w; this.ydir=1 }{% endraw %}					
+					if(this.y+this.w &gt; canvas.height) {% raw %}{ this.y = canvas.height-this.w; this.ydir=-1 }{% endraw %}			
 				}
 
 				this.draw = function () {
@@ -360,10 +362,10 @@ So next I added support for noticing when I hit the paddle and keeping score. No
 				    this.y += (this.ydir * this.speed);
 					
 					//handle hitting the edge
-					if(this.x-this.w &lt; 0) { this.x = 0+this.w; this.xdir=1 }
-					if(this.x+this.w &gt; canvas.width) { this.x = canvas.width-this.w; this.xdir= -1 }
-					if(this.y-this.w &lt; 0) { this.y = 0+this.w; this.ydir=1 }					
-					if(this.y+this.w &gt; canvas.height) { this.y = canvas.height-this.w; this.ydir=-1; score++ }	
+					if(this.x-this.w &lt; 0) {% raw %}{ this.x = 0+this.w; this.xdir=1 }{% endraw %}
+					if(this.x+this.w &gt; canvas.width) {% raw %}{ this.x = canvas.width-this.w; this.xdir= -1 }{% endraw %}
+					if(this.y-this.w &lt; 0) {% raw %}{ this.y = 0+this.w; this.ydir=1 }{% endraw %}					
+					if(this.y+this.w &gt; canvas.height) {% raw %}{ this.y = canvas.height-this.w; this.ydir=-1; score++ }{% endraw %}	
 					
 					//handle hitting paddle
 					if(this.collides(paddle)) this.ydir = -1;		
@@ -389,11 +391,11 @@ So next I added support for noticing when I hit the paddle and keeping score. No
 					obj.bottom = obj.y + obj.h;
 					
 					// determine if not intersecting
-					if (this.bottom &lt; obj.top) { return false; }
-					if (this.top &gt; obj.bottom) { return false; }
+					if (this.bottom &lt; obj.top) {% raw %}{ return false; }{% endraw %}
+					if (this.top &gt; obj.bottom) {% raw %}{ return false; }{% endraw %}
 					
-					if (this.right &lt; obj.left) { return false; }
-					if (this.left &gt; obj.right) { return false; }
+					if (this.right &lt; obj.left) {% raw %}{ return false; }{% endraw %}
+					if (this.left &gt; obj.right) {% raw %}{ return false; }{% endraw %}
 					
 					// otherwise, it's a hit
 					return true;
@@ -558,10 +560,10 @@ Finally I went the extra step of doing a Google search and making the graphics n
 				    this.y += (this.ydir * this.speed);
 					
 					//handle hitting the edge
-					if(this.x-this.w &lt; 0) { this.x = 0+this.w; this.xdir=1 }
-					if(this.x+this.w &gt; canvas.width) { this.x = canvas.width-this.w; this.xdir= -1 }
-					if(this.y-this.w &lt; 0) { this.y = 0+this.w; this.ydir=1 }					
-					if(this.y+this.w &gt; canvas.height) { this.y = canvas.height-this.w; this.ydir=-1; score++ }	
+					if(this.x-this.w &lt; 0) {% raw %}{ this.x = 0+this.w; this.xdir=1 }{% endraw %}
+					if(this.x+this.w &gt; canvas.width) {% raw %}{ this.x = canvas.width-this.w; this.xdir= -1 }{% endraw %}
+					if(this.y-this.w &lt; 0) {% raw %}{ this.y = 0+this.w; this.ydir=1 }{% endraw %}					
+					if(this.y+this.w &gt; canvas.height) {% raw %}{ this.y = canvas.height-this.w; this.ydir=-1; score++ }{% endraw %}	
 					
 					//handle hitting paddle
 					if(this.collides(paddle)) this.ydir = -1;		
@@ -587,11 +589,11 @@ Finally I went the extra step of doing a Google search and making the graphics n
 					obj.bottom = obj.y + obj.h;
 					
 					// determine if not intersecting
-					if (this.bottom &lt; obj.top) { return false; }
-					if (this.top &gt; obj.bottom) { return false; }
+					if (this.bottom &lt; obj.top) {% raw %}{ return false; }{% endraw %}
+					if (this.top &gt; obj.bottom) {% raw %}{ return false; }{% endraw %}
 					
-					if (this.right &lt; obj.left) { return false; }
-					if (this.left &gt; obj.right) { return false; }
+					if (this.right &lt; obj.left) {% raw %}{ return false; }{% endraw %}
+					if (this.left &gt; obj.right) {% raw %}{ return false; }{% endraw %}
 					
 					// otherwise, it's a hit
 					return true;

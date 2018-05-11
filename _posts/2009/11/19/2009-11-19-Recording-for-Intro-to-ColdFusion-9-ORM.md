@@ -4,6 +4,8 @@ title: "Recording for Intro to ColdFusion 9 ORM"
 date: "2009-11-19T20:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/11/19/Recording-for-Intro-to-ColdFusion-9-ORM
 ---
 
 For those who couldn't make my ColdFusion 9 ORM presentation today, Charlie Arehart has posted the recording:<br/>

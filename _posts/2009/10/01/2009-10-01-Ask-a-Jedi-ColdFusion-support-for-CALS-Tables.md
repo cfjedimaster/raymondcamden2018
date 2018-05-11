@@ -4,6 +4,8 @@ title: "Ask a Jedi: ColdFusion support for CALS Tables"
 date: "2009-10-01T11:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/10/01/Ask-a-Jedi-ColdFusion-support-for-CALS-Tables
 ---
 
 Aaron asked:
@@ -217,4 +219,4 @@ I begin, and end, with a table tag. I added a border to my output to make it a b
 
 <img src="https://static.raymondcamden.com/images/Screen shot 2009-10-01 at 10.43.34 AM.png" />
 
-I've attached the entire template to the blog entry. As I said above - this code isn't terribly flexible, but hopefully it can give people a head start if they need to work with CALS data.<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2Ftest%2Ezip'>Download attached file.</a></p>
+I've attached the entire template to the blog entry. As I said above - this code isn't terribly flexible, but hopefully it can give people a head start if they need to work with CALS data.<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Ftest%{% endraw %}2Ezip'>Download attached file.</a></p>

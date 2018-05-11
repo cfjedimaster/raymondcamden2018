@@ -4,6 +4,8 @@ title: "Determining the original case of form fields in ColdFusion"
 date: "2010-11-12T22:11:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/11/12/Determining-the-original-case-of-form-fields-in-ColdFusion
 ---
 
 This question came over Twitter today so I thought I'd address it in a blog. User @brooksfolk asked if there was a way to get the original form field names sent to a ColdFusion file. When you look at form.fieldnames, or just cfdump the Form scope, the values are always uppercased. Consider the following simple form.

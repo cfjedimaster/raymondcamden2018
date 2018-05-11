@@ -4,6 +4,8 @@ title: "Proof of Concept - Turning HTML into an Image"
 date: "2010-10-01T14:10:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2010/10/01/Proof-of-Concept-Turning-HTML-into-an-Image
 ---
 
 A few days ago a reader (Andrew Duvall) and I exchanged a few emails about ways one could turn HTML into an image. He wanted to make use of ColdFusion's built in rich text editor as a way for someone to write HTML that would then become an image. I recommended making use of cfdocument. cfdocument can turn HTML into PDF and with the cfpdf tag you can then turn a pdf into an image. He took that advice and ran with it. Here is the simple POC Andrew created. It works - but has one slight drawback.

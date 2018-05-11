@@ -4,6 +4,8 @@ title: "Best of CF9: spreadEdit"
 date: "2009-12-07T21:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/07/Best-of-CF9-spreadEdit
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px"/> Welcome to the first (of many) "Best of ColdFusion 9" entry reviews. The first entry is spreadEdit by <a href="http://samfarmer.instantspot.com/blog/">Sam Farmer</a>. This entry was reviewed by Paul Hastings. (I've added a few notes as well.) 
@@ -81,4 +83,4 @@ It may be a minor thing, but I'm much more a fan of wrapper tags:
 &lt;/cf_layout&gt;
 </code>
 
-Ok folks - you can download the bits below. It's been a while since my last contest, but I want to remind folks of something. The point here is to play and share. <b>Please be polite.</b> I know Sam wants feedback, but be constructive. Thanks Sam!<p><a href='enclosures/C%3A%5Chosts%5C2009%2Ecoldfusionjedi%2Ecom%5Cenclosures%2FspreadEdit%2Ezip'>Download attached file.</a></p>
+Ok folks - you can download the bits below. It's been a while since my last contest, but I want to remind folks of something. The point here is to play and share. <b>Please be polite.</b> I know Sam wants feedback, but be constructive. Thanks Sam!<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2009%{% endraw %}2Ecoldfusionjedi{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2FspreadEdit%{% endraw %}2Ezip'>Download attached file.</a></p>

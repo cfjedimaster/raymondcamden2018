@@ -4,6 +4,8 @@ title: "Changes to an existing ORM entity are automatically persisted."
 date: "2009-12-28T14:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2009/12/28/Changes-to-an-existing-ORM-entity-are-automatically-persisted
 ---
 
 I'm tempted to say "See Title" and end the blog entry here, but that probably wouldn't be helpful. ;) So I ran into something unexpected today. After talking it over with <a href="http://www.briankotek.com/blog">Brian Kotek</a> it makes more sense to me, but what I'm about to explain certainly was behavior I did not expect. I was doing some testing with ORM entities today, specifically one with a One-To-Many relationship. During my testing I ran a few set operations but I never persisted my changes. In my mind I was simply testing methods and didn't really care to persist the change. 

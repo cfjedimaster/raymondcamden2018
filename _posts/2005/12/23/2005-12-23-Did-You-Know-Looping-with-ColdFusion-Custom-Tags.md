@@ -4,6 +4,8 @@ title: "Did You Know: Looping with ColdFusion Custom Tags"
 date: "2005-12-23T15:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2005/12/23/Did-You-Know-Looping-with-ColdFusion-Custom-Tags
 ---
 
 A user on the CF irc channel had an interesting problem. She was trying to use a custom tag to iterate over some data. What most folks don't realize is that custom tags can act as iterators, looping over their body as many times as you want. Consider this first code sample:

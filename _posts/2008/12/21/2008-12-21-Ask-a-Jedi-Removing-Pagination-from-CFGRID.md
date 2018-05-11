@@ -4,6 +4,8 @@ title: "Ask a Jedi: Removing Pagination from CFGRID"
 date: "2008-12-21T17:12:00+06:00"
 categories: ColdFusion 
 tags: 
+banner_image: 
+permalink: /2008/12/21/Ask-a-Jedi-Removing-Pagination-from-CFGRID
 ---
 
 Nathan asks:
@@ -52,7 +54,7 @@ myGrid.view.refresh();
 &lt;body&gt;
 
 &lt;cfform name="test"&gt;
-&lt;cfgrid autowidth="true" name="entries" format="html"  width="600" bind="url:getentries.cfm?page={cfgridpage}&pagesize={cfgridpagesize}&sort={cfgridsortcolumn}&dir={cfgridsortdirection}"&gt;
+&lt;cfgrid autowidth="true" name="entries" format="html"  width="600" bind="url:getentries.cfm?page={% raw %}{cfgridpage}{% endraw %}&pagesize={% raw %}{cfgridpagesize}{% endraw %}&sort={% raw %}{cfgridsortcolumn}{% endraw %}&dir={% raw %}{cfgridsortdirection}{% endraw %}"&gt;
    &lt;cfgridcolumn name="id" display="false"&gt;
    &lt;cfgridcolumn name="body" display="false"&gt;
 

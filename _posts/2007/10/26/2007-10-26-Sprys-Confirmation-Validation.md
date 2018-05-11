@@ -4,6 +4,8 @@ title: "Spry's Confirmation Validation"
 date: "2007-10-26T22:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2007/10/26/Sprys-Confirmation-Validation
 ---
 
 A few days ago I blogged about <a href="http://www.raymondcamden.com/index.cfm/2007/10/21/Sprys-Password-Validation">Spry's password validation</a>. It is an impressive little widget giving you nice control over how strong your password needs to be. Today I'm going to demonstrate the confirmation widget.
@@ -66,7 +68,7 @@ Confirm Password: &lt;input type="password" name="password2"&gt;&lt;br /&gt;
 
 &lt;script type="text/javascript"&gt;
 	var spryp = new Spry.Widget.ValidationPassword("mypassword",
-		{minChars:6,minNumbers:2,minUpperAlphaChars:2}
+		{% raw %}{minChars:6,minNumbers:2,minUpperAlphaChars:2}{% endraw %}
 	);
 	var spryconfirm = new Spry.Widget.ValidationConfirm("myconfirm", "password");
 &lt;/script&gt; 

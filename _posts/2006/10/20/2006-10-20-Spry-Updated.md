@@ -4,6 +4,8 @@ title: "Spry Updated"
 date: "2006-10-20T17:10:00+06:00"
 categories: Misc 
 tags: 
+banner_image: 
+permalink: /2006/10/20/Spry-Updated
 ---
 
 While the official 1.4 release is still not ready yet, the folks over on the Spry team have released a new update today. You can read more about this at <a href="http://www.adobe.com/cfusion/webforums/forum/messageview.cfm?forumid=72&catid=602&threadid=1206959&enterthread=y">this forum</a> post. This release focuses mostly on widgets and form validation - two areas that Spry doesn't have a lot of tools in - so I'm very happy to see this update. 
@@ -33,7 +35,7 @@ This is definitely a prerelease - so use with caution, but it does look pretty d
     &lt;div class="TabbedPanelContent"&gt; Tab 2 Content &lt;/div&gt;
     &lt;div class="TabbedPanelContent"&gt;
 
-      &lt;p&gt;Default Panel set to open the 3rd panel onLoad. Spry has a 0 based counting system, so the constructor option {defaultTab: 2} will open the 3rd panel. &lt;/p&gt;
+      &lt;p&gt;Default Panel set to open the 3rd panel onLoad. Spry has a 0 based counting system, so the constructor option {% raw %}{defaultTab: 2}{% endraw %} will open the 3rd panel. &lt;/p&gt;
       &lt;p&gt;.TabbedPanels class has been set to a width of 500 pixels, so all widgets that use that class on this page will be that width. &lt;/p&gt;
       &lt;p&gt;Also, tabindex=&quot;0&quot; has to be set on every tab element for keyboard navigation to work correctly. &lt;/p&gt;
     &lt;/div&gt;
