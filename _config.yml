@@ -15,7 +15,7 @@ description: "DevRel for Extend by Auth0, Star Wars nerd, Web/Serverless hacker,
 tagline: "Code, cats, Star Wars, and more cats"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: /raymondcamden2018
+#baseurl: /raymondcamden2018
 
 exclude: []
 
