@@ -14,7 +14,7 @@ Imagine your building a blog, or a cookbook, and you want to show the latest con
 
 Well first off, VuePress provides access to the entire site via a - wait for it - `$site` variable. So in theory, you could do this:
 
-```markup
+```html
 ### Recent Cool Crap
 
 <ul>

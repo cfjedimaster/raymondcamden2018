@@ -40,6 +40,18 @@
     </section><!-- .widget-recent-posts -->
 
     <!--Create a sorted array of tags-->
+    {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% assign sortedCats = site_cats | split:',' | sort %}
+    <section class="widget widget-tags">
+        <h2 class="widget-title">Categories</h2>
+        <div class="tagcloud">
+            {% for cat in sortedCats %} 
+            <a href="{{site.baseurl}}/categories/#{{ cat | cgi_escape }}">{{ cat }}</a>
+            {% endfor %}
+        </div><!-- .tagcloud -->
+    </section><!-- .widget -->
+
+    <!--Create a sorted array of tags-->
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedTags = site_tags | split:',' | sort %}
     <section class="widget widget-tags">
