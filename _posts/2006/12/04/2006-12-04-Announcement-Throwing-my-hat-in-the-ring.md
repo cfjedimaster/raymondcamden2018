@@ -2,7 +2,7 @@
 layout: post
 title: "Announcement - Throwing my hat in the ring..."
 date: "2006-12-04T12:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/04/Announcement-Throwing-my-hat-in-the-ring

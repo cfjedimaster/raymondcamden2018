@@ -2,7 +2,7 @@
 layout: post
 title: "Serverless Composition with IBM Cloud Functions"
 date: "2017-10-09T13:44:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/10/09/serverless-composition-with-ibm-cloud-functions

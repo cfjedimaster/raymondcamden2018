@@ -2,7 +2,7 @@
 layout: post
 title: "Want to try the next version of ColdFusion?"
 date: "2013-03-20T12:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/03/20/Want-to-try-the-next-version-of-ColdFusion

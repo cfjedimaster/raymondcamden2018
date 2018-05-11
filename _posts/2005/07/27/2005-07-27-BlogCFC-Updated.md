@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC Updated"
 date: "2005-07-27T19:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/07/27/BlogCFC-Updated

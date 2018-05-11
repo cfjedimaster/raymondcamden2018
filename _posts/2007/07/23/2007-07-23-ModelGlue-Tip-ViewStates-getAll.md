@@ -2,7 +2,7 @@
 layout: post
 title: "ModelGlue Tip: ViewState's getAll()"
 date: "2007-07-23T23:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/23/ModelGlue-Tip-ViewStates-getAll

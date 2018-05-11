@@ -2,7 +2,7 @@
 layout: post
 title: "Example of handling session time outs in an Ajax application"
 date: "2010-09-08T14:09:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/09/08/Example-of-handling-session-time-outs-in-an-Ajax-application

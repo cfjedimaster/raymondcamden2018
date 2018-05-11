@@ -2,7 +2,7 @@
 layout: post
 title: "I dub thee.... Idiot Bait"
 date: "2006-07-19T14:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/19/I-dub-thee-Idiot-Bait

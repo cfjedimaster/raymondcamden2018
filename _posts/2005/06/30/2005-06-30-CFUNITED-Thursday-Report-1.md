@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED - Thursday Report 1"
 date: "2005-06-30T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/06/30/CFUNITED-Thursday-Report-1

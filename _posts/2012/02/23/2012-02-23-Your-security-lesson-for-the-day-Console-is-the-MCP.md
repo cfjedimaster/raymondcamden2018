@@ -2,7 +2,7 @@
 layout: post
 title: "Your security lesson for the day - Console is the MCP"
 date: "2012-02-23T15:02:00+06:00"
-categories: ColdFusion Development HTML5 JavaScript jQuery 
+categories: coldfusion development html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/02/23/Your-security-lesson-for-the-day-Console-is-the-MCP

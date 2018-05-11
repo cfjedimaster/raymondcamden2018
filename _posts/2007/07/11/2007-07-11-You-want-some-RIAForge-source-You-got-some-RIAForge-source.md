@@ -2,7 +2,7 @@
 layout: post
 title: "You want some RIAForge source? You got some RIAForge source!"
 date: "2007-07-12T00:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/11/You-want-some-RIAForge-source-You-got-some-RIAForge-source

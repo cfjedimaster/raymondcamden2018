@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Foreign text over CFDIV"
 date: "2010-07-19T12:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/07/19/Ask-a-Jedi-Foreign-text-over-CFDIV

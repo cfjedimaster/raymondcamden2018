@@ -2,7 +2,7 @@
 layout: post
 title: "Comic Cover Muzei"
 date: "2014-02-26T07:02:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/02/26/Comic-Cover-Muzei

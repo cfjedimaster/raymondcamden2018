@@ -2,7 +2,7 @@
 layout: post
 title: "Simple proof of concept - UML Generator"
 date: "2009-12-14T10:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/14/Simple-proof-of-concept-UML-Generator

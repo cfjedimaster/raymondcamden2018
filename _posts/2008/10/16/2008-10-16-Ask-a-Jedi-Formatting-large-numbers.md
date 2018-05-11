@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Formatting large numbers"
 date: "2008-10-16T22:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/16/Ask-a-Jedi-Formatting-large-numbers

@@ -2,7 +2,7 @@
 layout: post
 title: "LighthousePro 2.2 Released"
 date: "2007-01-21T19:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/21/LighthousePro-22-Released

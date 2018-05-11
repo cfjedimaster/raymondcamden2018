@@ -2,7 +2,7 @@
 layout: post
 title: "Read Holly's guide to the iOS Status Bar"
 date: "2014-07-31T16:07:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/07/31/Read-Hollys-guide-to-the-iOS-Status-Bar

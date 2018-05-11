@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Functions and dynamic arguments"
 date: "2008-09-22T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/22/Ask-a-Jedi-Functions-and-dynamic-arguments

@@ -2,8 +2,8 @@
 layout: post
 title: "Speaking at PhoneGap Day"
 date: "2016-01-21T08:02:27-06:00"
-categories: Mobile 
-tags: Cordova
+categories: mobile 
+tags: cordova
 banner_image: /images/2016/01/PhoneGap_Day_2016.png
 permalink: /2016/01/21/speaking-at-phonegap-day
 ---

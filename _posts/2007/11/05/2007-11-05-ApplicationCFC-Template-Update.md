@@ -2,7 +2,7 @@
 layout: post
 title: "Application.CFC Template Update"
 date: "2007-11-05T15:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/05/ApplicationCFC-Template-Update

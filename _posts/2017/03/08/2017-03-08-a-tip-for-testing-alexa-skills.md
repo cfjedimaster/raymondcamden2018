@@ -2,7 +2,7 @@
 layout: post
 title: "A tip for testing Alexa Skills"
 date: "2017-03-08T09:35:00-07:00"
-categories: Development 
+categories: development 
 tags: alexa
 banner_image: 
 permalink: /2017/03/08/a-tip-for-testing-alexa-skills

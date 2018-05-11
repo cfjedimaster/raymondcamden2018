@@ -2,7 +2,7 @@
 layout: post
 title: "Cool CFCHART Tip - Background Ranges"
 date: "2008-10-23T09:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/23/Cool-CFCHART-Tip-Background-Ranges

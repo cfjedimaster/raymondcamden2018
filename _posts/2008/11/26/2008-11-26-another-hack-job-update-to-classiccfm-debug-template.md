@@ -2,7 +2,7 @@
 layout: post
 title: "Another Hack Job - Update to classic.cfm debug template"
 date: "2008-11-26T15:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/26/another-hack-job-update-to-classiccfm-debug-template

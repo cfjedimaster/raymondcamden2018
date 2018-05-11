@@ -2,7 +2,7 @@
 layout: post
 title: "PSA: CF Live"
 date: "2013-08-26T13:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/08/26/PSA-CF-Live

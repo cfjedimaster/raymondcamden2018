@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion.navigate works with non-CF generated UI items"
 date: "2008-12-16T16:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/16/ColdFusionnavigate-works-with-nonCF-generated-UI-items

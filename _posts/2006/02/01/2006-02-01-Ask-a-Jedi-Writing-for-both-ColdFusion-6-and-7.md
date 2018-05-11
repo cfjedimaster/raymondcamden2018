@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Writing for both ColdFusion 6 and 7"
 date: "2006-02-01T18:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/01/Ask-a-Jedi-Writing-for-both-ColdFusion-6-and-7

@@ -2,7 +2,7 @@
 layout: post
 title: "Quick ColdFusion Builder Tip - Make it recognize HBMXML Files"
 date: "2009-10-31T15:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/31/Quick-ColdFusion-Builder-Tip-Make-it-recognize-HBMXML-Files

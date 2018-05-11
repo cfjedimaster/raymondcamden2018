@@ -2,7 +2,7 @@
 layout: post
 title: "SciFi BOF Members - Post Here"
 date: "2008-06-19T00:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/06/18/SciFi-BOF-Members-Post-Here

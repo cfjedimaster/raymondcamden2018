@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe's Active Content Fix"
 date: "2006-04-25T10:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/04/25/Adobes-Active-Content-Fix

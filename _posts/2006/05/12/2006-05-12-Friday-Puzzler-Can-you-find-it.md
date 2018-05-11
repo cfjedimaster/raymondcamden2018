@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Can you find it?"
 date: "2006-05-12T12:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/05/12/Friday-Puzzler-Can-you-find-it

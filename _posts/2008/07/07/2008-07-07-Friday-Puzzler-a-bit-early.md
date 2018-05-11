@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler (a bit early...)"
 date: "2008-07-07T14:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/07/Friday-Puzzler-a-bit-early

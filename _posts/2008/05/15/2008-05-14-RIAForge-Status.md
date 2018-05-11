@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge Status"
 date: "2008-05-15T10:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/05/15/RIAForge-Status

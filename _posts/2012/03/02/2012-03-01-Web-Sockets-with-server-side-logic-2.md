@@ -2,7 +2,7 @@
 layout: post
 title: "Web Sockets with server side logic (2)"
 date: "2012-03-02T10:03:00+06:00"
-categories: ColdFusion HTML5 
+categories: coldfusion html5 
 tags: 
 banner_image: 
 permalink: /2012/03/02/Web-Sockets-with-server-side-logic-2

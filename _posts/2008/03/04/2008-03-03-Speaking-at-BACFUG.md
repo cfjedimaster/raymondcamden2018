@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at BACFUG"
 date: "2008-03-04T07:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/04/Speaking-at-BACFUG

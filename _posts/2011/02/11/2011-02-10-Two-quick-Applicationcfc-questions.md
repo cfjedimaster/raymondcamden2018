@@ -2,7 +2,7 @@
 layout: post
 title: "Two quick Application.cfc questions"
 date: "2011-02-11T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/02/11/Two-quick-Applicationcfc-questions

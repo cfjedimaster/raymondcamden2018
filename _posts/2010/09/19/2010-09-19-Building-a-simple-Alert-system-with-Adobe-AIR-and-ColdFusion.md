@@ -2,7 +2,7 @@
 layout: post
 title: "Building a simple Alert system with Adobe AIR and ColdFusion"
 date: "2010-09-19T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/09/19/Building-a-simple-Alert-system-with-Adobe-AIR-and-ColdFusion

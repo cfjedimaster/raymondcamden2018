@@ -2,7 +2,7 @@
 layout: post
 title: "2006 ColdFusion Blog of the Year"
 date: "2006-12-22T09:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/22/2006-ColdFusion-Blog-of-the-Year

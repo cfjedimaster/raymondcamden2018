@@ -2,7 +2,7 @@
 layout: post
 title: "Serverless IoT for Enterprise Light Bulb Demos"
 date: "2018-04-11"
-categories: Serverless 
+categories: serverless 
 tags: webtask
 banner_image: /images/banners/lightbulb.jpg
 permalink: /2018/04/11/serverless-iot-for-enterprise-light-bulb-demos

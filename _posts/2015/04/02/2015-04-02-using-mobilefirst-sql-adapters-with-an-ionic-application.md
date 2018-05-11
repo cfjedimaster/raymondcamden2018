@@ -2,7 +2,7 @@
 layout: post
 title: "Using MobileFirst SQL Adapters with an Ionic Application"
 date: "2015-04-02T16:00:44+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: ionic mobilefirst
 banner_image: 
 permalink: /2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application

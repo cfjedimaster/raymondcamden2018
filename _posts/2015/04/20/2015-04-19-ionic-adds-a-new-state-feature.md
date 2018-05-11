@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic adds a new State feature"
 date: "2015-04-20T09:31:56+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/04/20/ionic-adds-a-new-state-feature

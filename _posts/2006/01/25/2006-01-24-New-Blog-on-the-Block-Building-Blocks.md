@@ -2,7 +2,7 @@
 layout: post
 title: "New Blog on the Block: Building Blocks"
 date: "2006-01-25T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/25/New-Blog-on-the-Block-Building-Blocks

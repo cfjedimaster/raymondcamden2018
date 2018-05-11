@@ -2,7 +2,7 @@
 layout: post
 title: "Want to learn ColdFusion (again)?"
 date: "2009-03-23T15:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/03/23/Want-to-learn-ColdFusion-again

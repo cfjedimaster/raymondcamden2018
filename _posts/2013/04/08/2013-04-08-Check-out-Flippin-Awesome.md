@@ -2,7 +2,7 @@
 layout: post
 title: "Check out Flippin' Awesome!"
 date: "2013-04-08T16:04:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/04/08/Check-out-Flippin-Awesome

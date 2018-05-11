@@ -2,7 +2,7 @@
 layout: post
 title: "The Online ColdFusion Meetup is back"
 date: "2013-11-11T08:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/11/11/The-Online-ColdFusion-Meetup-is-back

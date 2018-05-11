@@ -2,7 +2,7 @@
 layout: post
 title: "XML forms and CFIMAGE"
 date: "2008-04-07T17:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/07/XML-forms-and-CFIMAGE

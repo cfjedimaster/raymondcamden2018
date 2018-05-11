@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: CFIMPORT, Application.cfc, and custom tags"
 date: "2008-01-26T12:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/26/Ask-a-Jedi-CFIMPORT-Applicationcfc-and-custom-tags

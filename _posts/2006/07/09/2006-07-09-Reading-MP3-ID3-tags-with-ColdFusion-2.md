@@ -2,7 +2,7 @@
 layout: post
 title: "Reading MP3 ID3 tags with ColdFusion (2)"
 date: "2006-07-09T23:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/09/Reading-MP3-ID3-tags-with-ColdFusion-2

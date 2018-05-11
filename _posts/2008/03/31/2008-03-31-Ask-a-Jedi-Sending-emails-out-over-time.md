@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Sending emails out over time."
 date: "2008-03-31T11:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/31/Ask-a-Jedi-Sending-emails-out-over-time

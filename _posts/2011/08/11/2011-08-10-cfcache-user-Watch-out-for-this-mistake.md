@@ -2,7 +2,7 @@
 layout: post
 title: "cfcache user? Watch out for this mistake!"
 date: "2011-08-11T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/11/cfcache-user-Watch-out-for-this-mistake

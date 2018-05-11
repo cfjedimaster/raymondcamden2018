@@ -2,7 +2,7 @@
 layout: post
 title: "Using a Remote JSONP ColdFusion Service to Send Mail"
 date: "2009-05-07T22:05:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/05/07/Using-a-Remote-JSONP-ColdFusion-Service-to-Send-Mail

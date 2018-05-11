@@ -2,7 +2,7 @@
 layout: post
 title: "VS Code Extensions: Output Colorizer"
 date: "2017-02-06T14:23:00-07:00"
-categories: Development 
+categories: development 
 tags: visual studio code
 banner_image: /images/banners/vsc_ext.jpg
 permalink: /2017/02/06/vs-code-extensions-output-colorizer

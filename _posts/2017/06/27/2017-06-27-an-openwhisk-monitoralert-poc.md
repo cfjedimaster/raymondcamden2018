@@ -2,7 +2,7 @@
 layout: post
 title: "An OpenWhisk Monitor/Alert POC"
 date: "2017-06-27T14:54:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/ow_alert.jpg
 permalink: /2017/06/27/an-openwhisk-monitoralert-poc

@@ -2,7 +2,7 @@
 layout: post
 title: "Adding reCaptcha with a Serverless Form Processor"
 date: "2018-04-06"
-categories: Serverless 
+categories: serverless 
 tags: webtask vuejs
 banner_image: /images/banners/tallbuildings.jpg
 permalink: /2018/04/06/adding-recaptcha-with-a-serverless-form-processor

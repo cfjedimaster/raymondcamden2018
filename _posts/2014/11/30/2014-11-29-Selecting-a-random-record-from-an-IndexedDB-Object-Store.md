@@ -2,7 +2,7 @@
 layout: post
 title: "Selecting a random record from an IndexedDB Object Store"
 date: "2014-11-30T10:11:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2014/11/30/Selecting-a-random-record-from-an-IndexedDB-Object-Store

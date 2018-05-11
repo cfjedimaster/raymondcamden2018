@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting WDDX Bug with nulls"
 date: "2007-11-21T12:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/21/Interesting-WDDX-Bug-with-nulls

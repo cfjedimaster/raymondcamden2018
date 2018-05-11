@@ -2,7 +2,7 @@
 layout: post
 title: "Job Posting: Council for Logistics Research, Inc."
 date: "2012-04-18T17:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/04/18/Job-Posting-Council-for-Logistics-Research-Inc

@@ -2,7 +2,7 @@
 layout: post
 title: "My videos (and others) from NCDevCon"
 date: "2013-09-22T19:09:00+06:00"
-categories: Design Development HTML5 JavaScript Mobile 
+categories: design development html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/09/22/My-videos-and-others-from-NCDevCon

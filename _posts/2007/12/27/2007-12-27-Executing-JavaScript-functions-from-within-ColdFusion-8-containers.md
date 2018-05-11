@@ -2,7 +2,7 @@
 layout: post
 title: "Executing JavaScript functions from within ColdFusion 8 containers"
 date: "2007-12-27T12:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/27/Executing-JavaScript-functions-from-within-ColdFusion-8-containers

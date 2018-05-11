@@ -2,7 +2,7 @@
 layout: post
 title: "Cock fighting in Louisiana on the way out..."
 date: "2007-05-04T13:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/05/04/Cock-fighting-in-Louisiana-on-the-way-out

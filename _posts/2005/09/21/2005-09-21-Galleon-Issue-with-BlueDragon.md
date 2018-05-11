@@ -2,7 +2,7 @@
 layout: post
 title: "Galleon Issue with BlueDragon"
 date: "2005-09-21T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/21/Galleon-Issue-with-BlueDragon

@@ -2,7 +2,7 @@
 layout: post
 title: "Video: My top features of ColdFusion 11"
 date: "2014-09-14T19:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/09/14/Video-My-top-features-of-ColdFusion-11

@@ -2,7 +2,7 @@
 layout: post
 title: "Third Update to ColdFusion 10 Released"
 date: "2012-10-16T13:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/10/16/Third-Update-to-ColdFusion-10-Released

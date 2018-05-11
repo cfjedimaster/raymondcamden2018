@@ -2,7 +2,7 @@
 layout: post
 title: "Building an Image Placeholder Component for Vue.js"
 date: "2017-12-18"
-categories: Development 
+categories: development 
 tags: javascript vuejs
 banner_image: 
 permalink: /2017/12/18/building-an-image-placeholder-component-for-vuejs

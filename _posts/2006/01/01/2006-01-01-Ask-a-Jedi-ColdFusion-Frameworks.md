@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Frameworks"
 date: "2006-01-01T17:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/01/Ask-a-Jedi-ColdFusion-Frameworks

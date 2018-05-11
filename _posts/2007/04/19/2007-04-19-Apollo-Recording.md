@@ -2,7 +2,7 @@
 layout: post
 title: "Apollo Recording"
 date: "2007-04-19T15:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/04/19/Apollo-Recording

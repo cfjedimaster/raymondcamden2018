@@ -2,7 +2,7 @@
 layout: post
 title: "Fixing a Windows Audio Issue"
 date: "2007-02-16T10:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/02/16/Fixing-a-Windows-Audio-Issue

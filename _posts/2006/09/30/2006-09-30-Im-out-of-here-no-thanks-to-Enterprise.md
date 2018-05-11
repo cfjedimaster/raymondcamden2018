@@ -2,7 +2,7 @@
 layout: post
 title: "I'm out of here (no thanks to Enterprise)"
 date: "2006-09-30T22:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/30/Im-out-of-here-no-thanks-to-Enterprise

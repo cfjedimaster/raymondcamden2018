@@ -2,7 +2,7 @@
 layout: post
 title: "RSS data for projects in RIAForge via Yahoo Pipes"
 date: "2007-05-23T09:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/05/23/RSS-data-for-projects-in-RIAForge-via-Yahoo-Pipes

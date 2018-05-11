@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Configuring Multiple BlogCFC Installs"
 date: "2005-12-12T08:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/12/Ask-a-Jedi-Configuring-Multiple-BlogCFC-Installs

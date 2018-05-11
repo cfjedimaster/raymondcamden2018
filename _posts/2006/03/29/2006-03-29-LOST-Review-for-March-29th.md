@@ -2,7 +2,7 @@
 layout: post
 title: "LOST Review for March 29th"
 date: "2006-03-29T22:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/03/29/LOST-Review-for-March-29th

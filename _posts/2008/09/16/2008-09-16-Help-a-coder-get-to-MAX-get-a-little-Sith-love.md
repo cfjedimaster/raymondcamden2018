@@ -2,7 +2,7 @@
 layout: post
 title: "Help a coder get to MAX, get a little Sith love..."
 date: "2008-09-16T14:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/09/16/Help-a-coder-get-to-MAX-get-a-little-Sith-love

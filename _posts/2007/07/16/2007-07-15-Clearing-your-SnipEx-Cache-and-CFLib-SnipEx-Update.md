@@ -2,7 +2,7 @@
 layout: post
 title: "Clearing your SnipEx Cache - and CFLib SnipEx Update"
 date: "2007-07-16T10:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/07/16/Clearing-your-SnipEx-Cache-and-CFLib-SnipEx-Update

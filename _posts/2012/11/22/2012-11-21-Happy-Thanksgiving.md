@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Thanksgiving!"
 date: "2012-11-22T08:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/11/22/Happy-Thanksgiving

@@ -2,7 +2,7 @@
 layout: post
 title: "Visual comparisons of PhoneGap Notification UIs"
 date: "2013-05-05T10:05:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/05/05/Visual-comparisons-of-PhoneGap-Notification-UIs

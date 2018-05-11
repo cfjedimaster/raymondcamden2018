@@ -2,7 +2,7 @@
 layout: post
 title: "Using PhoneGap Build? Check out the new support forum"
 date: "2014-11-03T10:11:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/11/03/Using-PhoneGap-Build-Check-out-the-new-support-forum

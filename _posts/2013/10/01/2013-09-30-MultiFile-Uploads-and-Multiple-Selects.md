@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-File Uploads and Multiple Selects"
 date: "2013-10-01T10:10:00+06:00"
-categories: Development HTML5 
+categories: development html5 
 tags: 
 banner_image: 
 permalink: /2013/10/01/MultiFile-Uploads-and-Multiple-Selects

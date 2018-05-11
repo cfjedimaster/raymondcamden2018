@@ -2,7 +2,7 @@
 layout: post
 title: "Lighthouse Pro Update"
 date: "2006-04-19T15:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/19/Lighthouse-Pro-Update

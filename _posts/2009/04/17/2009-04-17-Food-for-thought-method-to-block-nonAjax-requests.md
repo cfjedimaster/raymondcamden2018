@@ -2,7 +2,7 @@
 layout: post
 title: "Food for thought - method to block non-Ajax requests"
 date: "2009-04-17T14:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/04/17/Food-for-thought-method-to-block-nonAjax-requests

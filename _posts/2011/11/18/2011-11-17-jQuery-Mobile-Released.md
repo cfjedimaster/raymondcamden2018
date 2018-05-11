@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile Released!"
 date: "2011-11-18T09:11:00+06:00"
-categories: jQuery Mobile 
+categories: jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/11/18/jQuery-Mobile-Released

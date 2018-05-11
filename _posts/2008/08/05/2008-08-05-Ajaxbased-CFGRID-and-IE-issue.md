@@ -2,7 +2,7 @@
 layout: post
 title: "Ajax-based CFGRID and IE issue"
 date: "2008-08-05T15:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/05/Ajaxbased-CFGRID-and-IE-issue

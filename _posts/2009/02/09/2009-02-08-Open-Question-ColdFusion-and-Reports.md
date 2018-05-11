@@ -2,7 +2,7 @@
 layout: post
 title: "Open Question: ColdFusion and Reports?"
 date: "2009-02-09T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/09/Open-Question-ColdFusion-and-Reports

@@ -2,7 +2,7 @@
 layout: post
 title: "StrongLoop, Ionic, and IBM Bluemix"
 date: "2015-10-29T13:26:02+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: bluemix cordova ionic strongloop
 banner_image: 
 permalink: /2015/10/29/strongloop-ionic-and-ibm-bluemix

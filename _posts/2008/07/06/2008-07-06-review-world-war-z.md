@@ -2,7 +2,7 @@
 layout: post
 title: "Review: World War Z"
 date: "2008-07-06T11:07:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2008/07/06/review-world-war-z

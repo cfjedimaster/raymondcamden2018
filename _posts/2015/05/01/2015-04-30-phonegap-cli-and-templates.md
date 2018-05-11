@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap CLI and Templates"
 date: "2015-05-01T09:33:09+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: phonegap
 banner_image: 
 permalink: /2015/05/01/phonegap-cli-and-templates

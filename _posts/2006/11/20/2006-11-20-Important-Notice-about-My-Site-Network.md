@@ -2,7 +2,7 @@
 layout: post
 title: "Important Notice about My Site Network"
 date: "2006-11-20T16:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/20/Important-Notice-about-My-Site-Network

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Zeus POTW: CFINCLUDE Improvement"
 date: "2011-10-17T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/10/17/ColdFusion-Zeus-POTW-CFINCLUDE-Improvement

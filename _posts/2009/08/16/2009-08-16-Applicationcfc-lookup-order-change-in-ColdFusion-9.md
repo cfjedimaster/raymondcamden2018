@@ -2,7 +2,7 @@
 layout: post
 title: "Application.cfc lookup order change in ColdFusion 9"
 date: "2009-08-16T23:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/16/Applicationcfc-lookup-order-change-in-ColdFusion-9

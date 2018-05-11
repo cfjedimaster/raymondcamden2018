@@ -2,7 +2,7 @@
 layout: post
 title: "Quick note on contacting me"
 date: "2006-09-20T10:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/20/Quick-note-on-contacting-me

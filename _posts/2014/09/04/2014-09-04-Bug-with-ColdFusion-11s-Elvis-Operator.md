@@ -2,7 +2,7 @@
 layout: post
 title: "Bug with ColdFusion 11's Elvis Operator"
 date: "2014-09-04T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/09/04/Bug-with-ColdFusion-11s-Elvis-Operator

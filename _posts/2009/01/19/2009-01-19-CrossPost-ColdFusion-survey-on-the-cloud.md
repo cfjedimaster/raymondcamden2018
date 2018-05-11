@@ -2,7 +2,7 @@
 layout: post
 title: "Cross-Post: ColdFusion survey on the cloud"
 date: "2009-01-19T12:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/19/CrossPost-ColdFusion-survey-on-the-cloud

@@ -2,7 +2,7 @@
 layout: post
 title: "Guest Blog Post: Shipping a populated SQLite DB with PhoneGap"
 date: "2012-07-27T18:07:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2012/07/27/Guest-Blog-Post-Shipping-a-populated-SQLite-DB-with-PhoneGap

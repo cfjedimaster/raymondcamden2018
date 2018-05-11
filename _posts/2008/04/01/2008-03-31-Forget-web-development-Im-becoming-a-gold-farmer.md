@@ -2,7 +2,7 @@
 layout: post
 title: "Forget web development, I'm becoming a gold farmer"
 date: "2008-04-01T08:04:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2008/04/01/Forget-web-development-Im-becoming-a-gold-farmer

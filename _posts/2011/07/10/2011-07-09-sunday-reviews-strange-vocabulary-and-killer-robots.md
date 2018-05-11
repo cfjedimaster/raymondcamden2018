@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Reviews: Strange vocabulary and killer robots"
 date: "2011-07-10T10:07:00+06:00"
-categories: Books Video Games 
+categories: books video games 
 tags: 
 banner_image: 
 permalink: /2011/07/10/sunday-reviews-strange-vocabulary-and-killer-robots

@@ -2,7 +2,7 @@
 layout: post
 title: "OpenWhisk Sequences as Input/Output Providers"
 date: "2017-05-01T10:39:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/05/01/sequences-as-inputoutput-providers

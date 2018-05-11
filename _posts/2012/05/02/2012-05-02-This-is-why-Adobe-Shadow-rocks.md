@@ -2,7 +2,7 @@
 layout: post
 title: "This is why Adobe Shadow rocks"
 date: "2012-05-02T16:05:00+06:00"
-categories: Development HTML5 Mobile 
+categories: development html5 mobile 
 tags: 
 banner_image: 
 permalink: /2012/05/02/This-is-why-Adobe-Shadow-rocks

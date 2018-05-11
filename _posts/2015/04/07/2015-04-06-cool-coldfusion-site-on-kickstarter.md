@@ -2,7 +2,7 @@
 layout: post
 title: "Cool ColdFusion site on Kickstarter"
 date: "2015-04-07T08:31:11+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/04/07/cool-coldfusion-site-on-kickstarter

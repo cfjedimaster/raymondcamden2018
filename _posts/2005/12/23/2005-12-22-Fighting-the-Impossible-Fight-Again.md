@@ -2,7 +2,7 @@
 layout: post
 title: "Fighting the Impossible Fight (Again)"
 date: "2005-12-23T11:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/12/23/Fighting-the-Impossible-Fight-Again

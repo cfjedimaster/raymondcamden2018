@@ -2,7 +2,7 @@
 layout: post
 title: "My First Lynda Course - Learning Ionic"
 date: "2017-05-19T09:02:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic
 banner_image: 
 permalink: /2017/05/19/my-first-lynda-course-learning-ionic

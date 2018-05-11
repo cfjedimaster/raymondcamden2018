@@ -2,7 +2,7 @@
 layout: post
 title: "OpenWhisk, Serverless, and Security - a POC"
 date: "2017-04-17T08:38:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/sowpost.jpg
 permalink: /2017/04/17/openwhisk-serverless-and-security-a-poc

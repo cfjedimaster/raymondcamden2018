@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Transformers"
 date: "2007-07-04T00:07:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2007/07/03/Review-Transformers

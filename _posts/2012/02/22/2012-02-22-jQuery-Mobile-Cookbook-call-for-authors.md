@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile Cookbook call for authors"
 date: "2012-02-22T13:02:00+06:00"
-categories: Development jQuery Mobile 
+categories: development jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/02/22/jQuery-Mobile-Cookbook-call-for-authors

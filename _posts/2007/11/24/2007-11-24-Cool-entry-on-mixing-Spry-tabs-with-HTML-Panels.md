@@ -2,7 +2,7 @@
 layout: post
 title: "Cool entry on mixing Spry tabs with HTML Panels"
 date: "2007-11-24T23:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/11/24/Cool-entry-on-mixing-Spry-tabs-with-HTML-Panels

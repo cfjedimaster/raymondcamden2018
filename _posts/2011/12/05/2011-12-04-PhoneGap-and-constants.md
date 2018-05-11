@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap and constants"
 date: "2011-12-05T11:12:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2011/12/05/PhoneGap-and-constants

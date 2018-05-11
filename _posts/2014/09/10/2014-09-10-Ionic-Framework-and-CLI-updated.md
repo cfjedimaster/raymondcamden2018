@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic Framework and CLI updated"
 date: "2014-09-10T18:09:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/09/10/Ionic-Framework-and-CLI-updated

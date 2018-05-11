@@ -2,7 +2,7 @@
 layout: post
 title: "How do you play video on an Android device?"
 date: "2011-03-31T18:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/03/31/How-do-you-play-video-on-an-Android-device

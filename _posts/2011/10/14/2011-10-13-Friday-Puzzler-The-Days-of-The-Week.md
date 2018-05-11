@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: The Days of The Week"
 date: "2011-10-14T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/10/14/Friday-Puzzler-The-Days-of-The-Week

@@ -2,7 +2,7 @@
 layout: post
 title: "Battlestar Galactica to continue..."
 date: "2007-05-12T19:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/05/12/Battlestar-Galactica-to-continue

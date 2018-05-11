@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Bloggers migrated to Node.js"
 date: "2015-01-26T11:02:53+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2015/01/26/coldfusion-bloggers-migrated-to-node-js

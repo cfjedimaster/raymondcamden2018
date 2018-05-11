@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Application.cfc, Application variables, and CFLOCK"
 date: "2008-07-13T09:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/13/Ask-a-Jedi-Applicationcfc-Application-variables-and-CFLOCK

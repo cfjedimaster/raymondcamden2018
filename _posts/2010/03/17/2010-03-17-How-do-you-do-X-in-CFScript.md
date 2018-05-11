@@ -2,7 +2,7 @@
 layout: post
 title: "How do you do X in CFScript?"
 date: "2010-03-17T13:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/17/How-do-you-do-X-in-CFScript

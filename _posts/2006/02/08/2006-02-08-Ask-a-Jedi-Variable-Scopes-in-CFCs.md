@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Variable Scopes in CFCs"
 date: "2006-02-08T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/08/Ask-a-Jedi-Variable-Scopes-in-CFCs

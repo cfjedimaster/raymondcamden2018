@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting the SQL from a Query"
 date: "2008-05-30T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/30/Ask-a-Jedi-Getting-the-SQL-from-a-Query

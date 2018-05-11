@@ -2,7 +2,7 @@
 layout: post
 title: "What in the heck am I doing?"
 date: "2006-02-09T11:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/02/09/What-in-the-heck-am-I-doing

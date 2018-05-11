@@ -2,7 +2,7 @@
 layout: post
 title: "CF901: Logging enhancements"
 date: "2010-07-20T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/07/20/CF901-Logging-enhancements

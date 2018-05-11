@@ -2,7 +2,7 @@
 layout: post
 title: "Broadchoice Beta - Soon!"
 date: "2008-10-10T21:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/10/Broadchoice-Beta-Soon

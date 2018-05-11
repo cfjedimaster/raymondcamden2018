@@ -2,7 +2,7 @@
 layout: post
 title: "Having issues with your BlazeDS/Flex app? Try changing the display-name"
 date: "2009-01-05T17:01:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2009/01/05/Having-issues-with-your-BlazeDSFlex-app-Try-changing-the-displayname

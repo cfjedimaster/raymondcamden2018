@@ -2,7 +2,7 @@
 layout: post
 title: "Cross Operating System ColdFusion Development Guide (First Draft)"
 date: "2009-05-05T22:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/05/Cross-Operating-System-ColdFusion-Development-Guide-First-Draft

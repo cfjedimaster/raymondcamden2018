@@ -2,7 +2,7 @@
 layout: post
 title: "What is the best jQuery Dump option?"
 date: "2010-10-22T13:10:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/10/22/What-is-the-best-jQuery-Dump-option

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion IDE Survey"
 date: "2008-01-07T11:01:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2008/01/07/ColdFusion-IDE-Survey

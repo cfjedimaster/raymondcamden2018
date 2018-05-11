@@ -2,7 +2,7 @@
 layout: post
 title: "Using jQuery to add form fields"
 date: "2009-02-19T13:02:00+06:00"
-categories: Development jQuery 
+categories: development jquery 
 tags: 
 banner_image: 
 permalink: /2009/02/19/Using-jQuery-to-add-form-fields

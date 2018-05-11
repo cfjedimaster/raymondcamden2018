@@ -2,7 +2,7 @@
 layout: post
 title: "Determining the location of ColdFusion's log files"
 date: "2009-02-11T22:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/11/Determining-the-location-of-ColdFusions-log-files

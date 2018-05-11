@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Adding Print support for CFMAP"
 date: "2009-12-08T14:12:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/12/08/Ask-a-Jedi-Adding-Print-support-for-CFMAP

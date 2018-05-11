@@ -2,7 +2,7 @@
 layout: post
 title: "Article: Working with IndexedDB - Part 3"
 date: "2013-12-26T17:12:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/12/26/Article-Working-with-IndexedDB-Part-3

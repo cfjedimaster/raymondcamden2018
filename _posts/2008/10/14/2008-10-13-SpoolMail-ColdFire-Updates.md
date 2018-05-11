@@ -2,7 +2,7 @@
 layout: post
 title: "SpoolMail, ColdFire Updates"
 date: "2008-10-14T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/14/SpoolMail-ColdFire-Updates

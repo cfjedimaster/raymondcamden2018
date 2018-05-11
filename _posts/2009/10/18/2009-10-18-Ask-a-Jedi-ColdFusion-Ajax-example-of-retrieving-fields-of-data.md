@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Ajax example of retrieving fields of data"
 date: "2009-10-18T12:10:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data

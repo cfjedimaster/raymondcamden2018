@@ -2,7 +2,7 @@
 layout: post
 title: "Browser slowdown? SVN failing? Read this."
 date: "2014-05-25T12:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2014/05/25/Browser-slowdown-SVN-failing-Read-this

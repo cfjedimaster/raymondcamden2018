@@ -2,7 +2,7 @@
 layout: post
 title: "QuickSort in ColdFusion, with a ColdFusion 9 example as well"
 date: "2009-07-19T12:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/19/QuickSort-in-ColdFusion-with-a-ColdFusion-9-example-as-well

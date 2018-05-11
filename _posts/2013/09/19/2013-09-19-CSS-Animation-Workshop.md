@@ -2,7 +2,7 @@
 layout: post
 title: "CSS Animation Workshop"
 date: "2013-09-19T11:09:00+06:00"
-categories: Design Development HTML5 JavaScript 
+categories: design development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/09/19/CSS-Animation-Workshop

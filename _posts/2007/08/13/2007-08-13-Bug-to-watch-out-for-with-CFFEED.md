@@ -2,7 +2,7 @@
 layout: post
 title: "Bug to watch out for with CFFEED"
 date: "2007-08-13T15:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/13/Bug-to-watch-out-for-with-CFFEED

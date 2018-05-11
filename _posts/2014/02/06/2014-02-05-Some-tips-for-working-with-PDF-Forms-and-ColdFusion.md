@@ -2,7 +2,7 @@
 layout: post
 title: "Some tips for working with PDF Forms and ColdFusion"
 date: "2014-02-06T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/02/06/Some-tips-for-working-with-PDF-Forms-and-ColdFusion

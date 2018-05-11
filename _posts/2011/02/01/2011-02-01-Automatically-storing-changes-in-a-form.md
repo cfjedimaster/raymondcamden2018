@@ -2,7 +2,7 @@
 layout: post
 title: "Automatically storing changes in a form"
 date: "2011-02-01T13:02:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/02/01/Automatically-storing-changes-in-a-form

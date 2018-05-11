@@ -2,7 +2,7 @@
 layout: post
 title: "Files from last weeks Images presentation"
 date: "2008-03-17T17:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/17/Files-from-last-weeks-Images-presentation

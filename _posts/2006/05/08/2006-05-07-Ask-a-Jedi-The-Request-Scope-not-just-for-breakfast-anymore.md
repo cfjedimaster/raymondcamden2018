@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: The Request Scope - not just for breakfast anymore!"
 date: "2006-05-08T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/05/08/Ask-a-Jedi-The-Request-Scope-not-just-for-breakfast-anymore

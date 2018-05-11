@@ -2,7 +2,7 @@
 layout: post
 title: "Public beta of ColdFusion 8 and New Features mentioned at WebDU"
 date: "2007-03-22T09:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/22/Public-beta-of-ColdFusion-8-and-New-Features-mentioned-at-WebDU

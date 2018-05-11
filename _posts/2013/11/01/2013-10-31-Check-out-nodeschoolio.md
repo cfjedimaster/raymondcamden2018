@@ -2,7 +2,7 @@
 layout: post
 title: "Check out nodeschool.io"
 date: "2013-11-01T08:11:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/11/01/Check-out-nodeschoolio

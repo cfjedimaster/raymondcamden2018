@@ -2,7 +2,7 @@
 layout: post
 title: "E-Seminar on Tuesday - Flex and ColdFusion"
 date: "2011-10-07T12:10:00+06:00"
-categories: ColdFusion Flex Mobile 
+categories: coldfusion flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/10/07/ESeminar-on-Tuesday-Flex-and-ColdFusion

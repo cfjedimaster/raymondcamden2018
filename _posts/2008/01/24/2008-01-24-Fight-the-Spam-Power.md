@@ -2,7 +2,7 @@
 layout: post
 title: "Fight the (Spam) Power"
 date: "2008-01-24T16:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/01/24/Fight-the-Spam-Power

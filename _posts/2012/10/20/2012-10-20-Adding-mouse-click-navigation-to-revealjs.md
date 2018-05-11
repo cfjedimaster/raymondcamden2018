@@ -2,7 +2,7 @@
 layout: post
 title: "Adding mouse click navigation to Reveal.js"
 date: "2012-10-20T17:10:00+06:00"
-categories: JavaScript Misc 
+categories: javascript misc 
 tags: 
 banner_image: 
 permalink: /2012/10/20/Adding-mouse-click-navigation-to-revealjs

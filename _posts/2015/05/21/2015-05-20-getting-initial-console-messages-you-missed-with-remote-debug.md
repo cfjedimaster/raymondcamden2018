@@ -2,7 +2,7 @@
 layout: post
 title: "Getting initial console messages you missed with remote debug"
 date: "2015-05-21T10:09:18+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/05/21/getting-initial-console-messages-you-missed-with-remote-debug

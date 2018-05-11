@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Ordering CFPOP Data"
 date: "2006-02-15T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/15/Ask-a-Jedi-Ordering-CFPOP-Data

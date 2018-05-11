@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using JSON in older versions of ColdFusion"
 date: "2008-04-24T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/24/Ask-a-Jedi-Using-JSON-in-older-versions-of-ColdFusion

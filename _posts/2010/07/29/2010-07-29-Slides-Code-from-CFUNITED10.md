@@ -2,7 +2,7 @@
 layout: post
 title: "Slides + Code from CFUNITED10"
 date: "2010-07-29T18:07:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2010/07/29/Slides-Code-from-CFUNITED10

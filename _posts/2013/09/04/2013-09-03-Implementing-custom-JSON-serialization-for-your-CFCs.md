@@ -2,7 +2,7 @@
 layout: post
 title: "Implementing custom JSON serialization for your CFCs"
 date: "2013-09-04T07:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/09/04/Implementing-custom-JSON-serialization-for-your-CFCs

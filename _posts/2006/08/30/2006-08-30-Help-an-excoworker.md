@@ -2,7 +2,7 @@
 layout: post
 title: "Help an ex-coworker"
 date: "2006-08-30T16:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/30/Help-an-excoworker

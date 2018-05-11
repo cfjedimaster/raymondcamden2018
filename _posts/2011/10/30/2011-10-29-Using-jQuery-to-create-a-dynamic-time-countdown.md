@@ -2,7 +2,7 @@
 layout: post
 title: "Using jQuery to create a dynamic time countdown"
 date: "2011-10-30T08:10:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/10/30/Using-jQuery-to-create-a-dynamic-time-countdown

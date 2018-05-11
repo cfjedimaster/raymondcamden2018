@@ -2,7 +2,7 @@
 layout: post
 title: "Adding timezone detection for Adobe Groups"
 date: "2010-08-14T17:08:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/08/14/Adding-timezone-detection-for-Adobe-Groups

@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Fusebox"
 date: "2007-02-05T16:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/02/05/Installing-Fusebox

@@ -2,7 +2,7 @@
 layout: post
 title: "Quick FYI - JSHint for CFBuilder"
 date: "2014-05-17T15:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/05/17/Quick-FYI-JSHint-for-CFBuilder

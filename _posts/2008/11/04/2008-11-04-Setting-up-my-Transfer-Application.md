@@ -2,7 +2,7 @@
 layout: post
 title: "Setting up my Transfer Application"
 date: "2008-11-04T20:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/04/Setting-up-my-Transfer-Application

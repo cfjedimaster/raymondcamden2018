@@ -2,7 +2,7 @@
 layout: post
 title: "Handling a slow process in a Model-Glue (or other MVC) application"
 date: "2008-10-27T23:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/27/Handling-a-slow-process-in-a-ModelGlue-or-other-MVC-application

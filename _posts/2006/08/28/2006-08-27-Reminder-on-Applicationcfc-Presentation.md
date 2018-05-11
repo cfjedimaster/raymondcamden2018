@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder on Application.cfc Presentation"
 date: "2006-08-28T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/28/Reminder-on-Applicationcfc-Presentation

@@ -2,7 +2,7 @@
 layout: post
 title: "Example of authentication and ColdFusion 10 WebSockets (2)"
 date: "2012-06-08T12:06:00+06:00"
-categories: ColdFusion HTML5 JavaScript 
+categories: coldfusion html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/06/08/Example-of-authentication-and-ColdFusion-10-WebSockets-2

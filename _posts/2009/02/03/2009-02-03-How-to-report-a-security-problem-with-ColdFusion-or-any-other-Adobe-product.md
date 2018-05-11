@@ -2,7 +2,7 @@
 layout: post
 title: "How to report a security problem with ColdFusion (or any other Adobe product)?"
 date: "2009-02-03T23:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/03/How-to-report-a-security-problem-with-ColdFusion-or-any-other-Adobe-product

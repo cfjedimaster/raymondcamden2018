@@ -2,7 +2,7 @@
 layout: post
 title: "Simple ColdFusion 9 ORM Paging Demo"
 date: "2009-08-14T16:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/14/Simple-ColdFusion-9-ORM-Paging-Demo

@@ -2,7 +2,7 @@
 layout: post
 title: "Status of RIAForge"
 date: "2015-10-25T18:27:54+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/10/25/status-of-riaforge

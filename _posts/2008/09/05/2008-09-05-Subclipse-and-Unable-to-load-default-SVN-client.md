@@ -2,7 +2,7 @@
 layout: post
 title: "Subclipse and Unable to load default SVN client"
 date: "2008-09-05T11:09:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/09/05/Subclipse-and-Unable-to-load-default-SVN-client

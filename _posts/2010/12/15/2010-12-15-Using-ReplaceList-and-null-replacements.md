@@ -2,7 +2,7 @@
 layout: post
 title: "Using ReplaceList and null replacements"
 date: "2010-12-15T15:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/12/15/Using-ReplaceList-and-null-replacements

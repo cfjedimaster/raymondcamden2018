@@ -2,7 +2,7 @@
 layout: post
 title: "Simple date math to get the Sunday for a given date"
 date: "2012-03-27T23:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/27/Simple-date-math-to-get-the-Sunday-for-a-given-date

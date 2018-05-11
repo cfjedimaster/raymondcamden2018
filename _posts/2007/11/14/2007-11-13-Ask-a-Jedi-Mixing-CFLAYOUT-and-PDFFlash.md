@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Mixing CFLAYOUT and PDF/Flash"
 date: "2007-11-14T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/14/Ask-a-Jedi-Mixing-CFLAYOUT-and-PDFFlash

@@ -2,7 +2,7 @@
 layout: post
 title: "Joining Apple as Developer Insight/Creative/Knowledge Evangelist"
 date: "2011-04-01T08:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/04/01/Joining-Apple-as-Developer-InsightCreativeKnowledge-Evangelist

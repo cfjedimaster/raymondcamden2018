@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic Services enter Beta"
 date: "2016-03-04T06:44:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic
 banner_image: /images/banners/ionic_logo.jpg
 permalink: /2016/03/04/ionic-services-enter-beta

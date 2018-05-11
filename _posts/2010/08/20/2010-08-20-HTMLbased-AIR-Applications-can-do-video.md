@@ -2,7 +2,7 @@
 layout: post
 title: "HTML-based AIR Applications can do video"
 date: "2010-08-20T14:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/08/20/HTMLbased-AIR-Applications-can-do-video

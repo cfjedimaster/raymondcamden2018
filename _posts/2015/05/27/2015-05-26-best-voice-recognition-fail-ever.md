@@ -2,7 +2,7 @@
 layout: post
 title: "Best Voice Recognition Fail(?) Ever..."
 date: "2015-05-27T06:15:05+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2015/05/27/best-voice-recognition-fail-ever

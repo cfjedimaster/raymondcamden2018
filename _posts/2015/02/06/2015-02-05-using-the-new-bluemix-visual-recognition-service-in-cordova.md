@@ -2,7 +2,7 @@
 layout: post
 title: "Using the new Bluemix Visual Recognition service in Cordova"
 date: "2015-02-06T11:11:41+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: bluemix
 banner_image: 
 permalink: /2015/02/06/using-the-new-bluemix-visual-recognition-service-in-cordova

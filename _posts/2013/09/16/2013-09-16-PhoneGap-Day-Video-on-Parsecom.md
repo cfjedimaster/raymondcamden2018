@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap Day Video on Parse.com"
 date: "2013-09-16T22:09:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/09/16/PhoneGap-Day-Video-on-Parsecom

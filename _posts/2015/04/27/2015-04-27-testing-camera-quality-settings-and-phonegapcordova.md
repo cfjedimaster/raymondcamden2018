@@ -2,7 +2,7 @@
 layout: post
 title: "Testing Camera Quality Settings and PhoneGap/Cordova"
 date: "2015-04-27T13:03:31+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/04/27/testing-camera-quality-settings-and-phonegapcordova

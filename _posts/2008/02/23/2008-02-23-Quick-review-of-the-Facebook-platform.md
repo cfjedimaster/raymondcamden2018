@@ -2,7 +2,7 @@
 layout: post
 title: "Quick review of the Facebook platform"
 date: "2008-02-23T16:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/23/Quick-review-of-the-Facebook-platform

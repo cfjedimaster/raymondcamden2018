@@ -2,7 +2,7 @@
 layout: post
 title: "Open Discussion - Additional methods in Application.cfc"
 date: "2012-03-26T15:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/26/Open-Discussion-Additional-methods-in-Applicationcfc

@@ -2,7 +2,7 @@
 layout: post
 title: "Sponsored Post: ReviewMe Review"
 date: "2006-11-10T22:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/10/Sponsored-Post-ReviewMe-Review

@@ -2,7 +2,7 @@
 layout: post
 title: "Logo for ColdFusion - CFImage Demo"
 date: "2007-09-14T16:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/14/Logo-for-ColdFusion-CFImage-Demo

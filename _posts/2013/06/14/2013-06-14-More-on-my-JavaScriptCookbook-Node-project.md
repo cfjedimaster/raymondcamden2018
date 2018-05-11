@@ -2,7 +2,7 @@
 layout: post
 title: "More on my JavaScriptCookbook Node project"
 date: "2013-06-14T13:06:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2013/06/14/More-on-my-JavaScriptCookbook-Node-project

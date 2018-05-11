@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Developer Connection - Finding old articles and sending feedback"
 date: "2010-09-14T10:09:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2010/09/14/Adobe-Developer-Connection-Finding-old-articles-and-sending-feedback

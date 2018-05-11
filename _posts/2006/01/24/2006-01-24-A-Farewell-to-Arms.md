@@ -2,7 +2,7 @@
 layout: post
 title: "A Farewell to Arm(s)"
 date: "2006-01-24T21:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/01/24/A-Farewell-to-Arms

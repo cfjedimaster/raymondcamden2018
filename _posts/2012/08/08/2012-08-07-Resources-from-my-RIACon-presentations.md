@@ -2,7 +2,7 @@
 layout: post
 title: "Resources from my RIACon presentations"
 date: "2012-08-08T07:08:00+06:00"
-categories: Development HTML5 JavaScript jQuery Mobile 
+categories: development html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/08/08/Resources-from-my-RIACon-presentations

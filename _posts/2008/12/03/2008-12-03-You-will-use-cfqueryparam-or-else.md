@@ -2,7 +2,7 @@
 layout: post
 title: "You will use cfqueryparam... or else!"
 date: "2008-12-03T14:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/03/You-will-use-cfqueryparam-or-else

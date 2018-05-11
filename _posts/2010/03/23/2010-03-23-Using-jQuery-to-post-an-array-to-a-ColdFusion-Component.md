@@ -2,7 +2,7 @@
 layout: post
 title: "Using jQuery to post an array to a ColdFusion Component"
 date: "2010-03-23T16:03:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/03/23/Using-jQuery-to-post-an-array-to-a-ColdFusion-Component

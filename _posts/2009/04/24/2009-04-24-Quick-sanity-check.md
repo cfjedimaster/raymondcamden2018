@@ -2,7 +2,7 @@
 layout: post
 title: "Quick sanity check..."
 date: "2009-04-24T18:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/04/24/Quick-sanity-check

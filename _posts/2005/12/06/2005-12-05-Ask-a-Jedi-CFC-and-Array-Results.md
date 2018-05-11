@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: CFC and Array Results"
 date: "2005-12-06T11:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/06/Ask-a-Jedi-CFC-and-Array-Results

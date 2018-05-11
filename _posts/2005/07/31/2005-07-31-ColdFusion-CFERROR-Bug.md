@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion CFERROR Bug"
 date: "2005-07-31T19:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/07/31/ColdFusion-CFERROR-Bug

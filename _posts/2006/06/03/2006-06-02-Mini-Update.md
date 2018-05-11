@@ -2,7 +2,7 @@
 layout: post
 title: "Mini Update"
 date: "2006-06-03T10:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/06/03/Mini-Update

@@ -2,7 +2,7 @@
 layout: post
 title: "In defense of the Reset button..."
 date: "2015-11-03T16:28:08+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2015/11/03/in-defense-of-the-reset-button

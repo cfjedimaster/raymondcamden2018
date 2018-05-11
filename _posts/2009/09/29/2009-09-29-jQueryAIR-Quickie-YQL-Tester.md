@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery/AIR Quickie - YQL Tester"
 date: "2009-09-29T19:09:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/09/29/jQueryAIR-Quickie-YQL-Tester

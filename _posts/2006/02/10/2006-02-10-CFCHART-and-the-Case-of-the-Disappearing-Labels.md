@@ -2,7 +2,7 @@
 layout: post
 title: "CFCHART and the Case of the Disappearing Labels"
 date: "2006-02-10T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/10/CFCHART-and-the-Case-of-the-Disappearing-Labels

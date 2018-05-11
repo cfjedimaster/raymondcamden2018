@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion WebSockets and Subchannels"
 date: "2012-06-22T10:06:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2012/06/22/Ask-a-Jedi-ColdFusion-WebSockets-and-Subchannels

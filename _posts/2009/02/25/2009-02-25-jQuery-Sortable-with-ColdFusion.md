@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Sortable with ColdFusion"
 date: "2009-02-25T20:02:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/02/25/jQuery-Sortable-with-ColdFusion

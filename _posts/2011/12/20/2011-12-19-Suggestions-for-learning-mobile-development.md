@@ -2,7 +2,7 @@
 layout: post
 title: "Suggestions for learning mobile development?"
 date: "2011-12-20T09:12:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2011/12/20/Suggestions-for-learning-mobile-development

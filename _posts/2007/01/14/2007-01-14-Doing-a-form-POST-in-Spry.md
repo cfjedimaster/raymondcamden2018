@@ -2,7 +2,7 @@
 layout: post
 title: "Doing a form POST in Spry"
 date: "2007-01-14T20:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/01/14/Doing-a-form-POST-in-Spry

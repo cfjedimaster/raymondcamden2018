@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion and PGP"
 date: "2005-08-18T17:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/18/Ask-a-Jedi-ColdFusion-and-PGP

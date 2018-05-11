@@ -2,7 +2,7 @@
 layout: post
 title: "I heart apple."
 date: "2006-05-16T10:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/05/16/I-heart-apple

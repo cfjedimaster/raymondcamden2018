@@ -2,7 +2,7 @@
 layout: post
 title: "New Revision of ColdFusion Web Application Construction Kit - Now with 3 times the goodness!"
 date: "2007-04-19T15:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/19/New-Revision-of-ColdFusion-Web-Application-Construction-Kit-Now-with-3-times-the-goodness

@@ -2,7 +2,7 @@
 layout: post
 title: "CFC Birds of a Feather on again"
 date: "2006-09-25T23:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/25/CFC-Birds-of-a-Feather-on-again

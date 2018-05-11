@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting issue with reserved function names inside CFCs"
 date: "2011-05-09T19:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/05/09/Interesting-issue-with-reserved-function-names-inside-CFCs

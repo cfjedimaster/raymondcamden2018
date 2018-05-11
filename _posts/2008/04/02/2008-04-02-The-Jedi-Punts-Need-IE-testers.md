@@ -2,7 +2,7 @@
 layout: post
 title: "The Jedi Punts - Need IE testers"
 date: "2008-04-02T23:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/04/02/The-Jedi-Punts-Need-IE-testers

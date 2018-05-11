@@ -2,7 +2,7 @@
 layout: post
 title: "Quickie AIR for Mobile Geolocation Example"
 date: "2010-11-05T17:11:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2010/11/05/Quickie-AIR-for-Mobile-Geolocation-Example

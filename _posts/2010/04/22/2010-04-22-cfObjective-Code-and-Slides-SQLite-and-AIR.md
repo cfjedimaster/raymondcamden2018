@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective Code and Slides - SQLite and AIR"
 date: "2010-04-22T20:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/04/22/cfObjective-Code-and-Slides-SQLite-and-AIR

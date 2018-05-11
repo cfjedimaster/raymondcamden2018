@@ -2,7 +2,7 @@
 layout: post
 title: "Article: Advanced Image Editing in the Browser"
 date: "2015-11-11T08:41:46+06:00"
-categories: Design Development JavaScript 
+categories: design development javascript 
 tags: 
 banner_image: 
 permalink: /2015/11/11/article-advanced-image-editing-in-the-browser

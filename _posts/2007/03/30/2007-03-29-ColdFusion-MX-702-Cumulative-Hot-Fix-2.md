@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion MX 7.0.2 Cumulative Hot Fix 2"
 date: "2007-03-30T08:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/30/ColdFusion-MX-702-Cumulative-Hot-Fix-2

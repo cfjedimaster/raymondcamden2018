@@ -2,7 +2,7 @@
 layout: post
 title: "Some tips for using Brackets and Theseus"
 date: "2013-08-28T12:08:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/28/Some-tipes-for-using-Brackets-and-Theseus

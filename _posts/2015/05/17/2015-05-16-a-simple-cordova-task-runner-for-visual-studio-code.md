@@ -2,7 +2,7 @@
 layout: post
 title: "A simple Cordova task runner for Visual Studio Code"
 date: "2015-05-17T10:32:35+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/05/17/a-simple-cordova-task-runner-for-visual-studio-code

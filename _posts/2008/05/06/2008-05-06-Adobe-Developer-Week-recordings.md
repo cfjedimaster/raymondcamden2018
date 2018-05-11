@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Developer Week recordings"
 date: "2008-05-06T12:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/05/06/Adobe-Developer-Week-recordings

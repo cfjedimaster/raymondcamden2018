@@ -2,7 +2,7 @@
 layout: post
 title: "I'm not going to tell you to stop using ColdFusion UI tags anymore..."
 date: "2014-01-23T10:01:00+06:00"
-categories: ColdFusion HTML5 JavaScript 
+categories: coldfusion html5 javascript 
 tags: 
 banner_image: 
 permalink: /2014/01/23/Im-not-going-to-tell-you-to-stop-using-ColdFusion-UI-tags-anymore

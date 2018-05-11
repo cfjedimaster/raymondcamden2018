@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap Sample - Diary (Database and Camera support)"
 date: "2013-03-04T14:03:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/03/04/phonegap-sample-diary-database-and-camera-support

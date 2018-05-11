@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-file search and replace in Eclipse"
 date: "2009-03-16T17:03:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2009/03/16/Multifile-search-and-replace-in-Eclipse

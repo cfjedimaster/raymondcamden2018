@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8's Server Monitor and Performance"
 date: "2007-06-21T19:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/21/ColdFusion-8s-Server-Monitor-and-Performance

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Bootcamp at MAX"
 date: "2007-07-13T14:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/13/ColdFusion-Bootcamp-at-MAX

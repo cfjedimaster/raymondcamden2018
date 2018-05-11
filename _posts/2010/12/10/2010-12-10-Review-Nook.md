@@ -2,7 +2,7 @@
 layout: post
 title: "Review: NOOKcolor"
 date: "2010-12-10T14:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/12/10/Review-Nook

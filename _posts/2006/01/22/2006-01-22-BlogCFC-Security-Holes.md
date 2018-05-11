@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC Security Holes"
 date: "2006-01-22T14:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/22/BlogCFC-Security-Holes

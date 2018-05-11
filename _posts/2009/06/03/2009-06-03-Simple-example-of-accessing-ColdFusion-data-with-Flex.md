@@ -2,7 +2,7 @@
 layout: post
 title: "Simple example of accessing ColdFusion data with Flex"
 date: "2009-06-03T20:06:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2009/06/03/Simple-example-of-accessing-ColdFusion-data-with-Flex

@@ -2,7 +2,7 @@
 layout: post
 title: "Simple example of processing a form in FW/1"
 date: "2009-11-30T23:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/30/Simple-example-of-processing-a-form-in-FW1

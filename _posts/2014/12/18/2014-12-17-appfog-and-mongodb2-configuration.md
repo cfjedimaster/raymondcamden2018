@@ -2,7 +2,7 @@
 layout: post
 title: "AppFog and MongoDB 2 Configuration"
 date: "2014-12-18T05:46:46+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2014/12/18/appfog-and-mongodb2-configuration

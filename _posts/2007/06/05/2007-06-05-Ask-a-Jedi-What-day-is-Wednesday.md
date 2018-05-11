@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: What day is Wednesday?"
 date: "2007-06-05T11:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/05/Ask-a-Jedi-What-day-is-Wednesday

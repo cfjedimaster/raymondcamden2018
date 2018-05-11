@@ -2,7 +2,7 @@
 layout: post
 title: "Project Updates (and a small little security fix)"
 date: "2009-01-11T23:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/01/11/Project-Updates-and-a-small-little-security-fix

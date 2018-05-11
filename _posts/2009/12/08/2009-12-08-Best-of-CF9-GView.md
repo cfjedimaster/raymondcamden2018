@@ -2,7 +2,7 @@
 layout: post
 title: "Best of CF9: GView"
 date: "2009-12-08T21:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/08/Best-of-CF9-GView

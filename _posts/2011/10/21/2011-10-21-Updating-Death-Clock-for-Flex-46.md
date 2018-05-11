@@ -2,7 +2,7 @@
 layout: post
 title: "Updating Death Clock for Flex 4.6"
 date: "2011-10-21T15:10:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/10/21/Updating-Death-Clock-for-Flex-46

@@ -2,7 +2,7 @@
 layout: post
 title: "New Lafayette Meetup - Louisiana Hackathons & Jams"
 date: "2013-01-06T21:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/01/06/New-Lafayette-Meetup-Louisiana-Hackathons-Jams

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion as a Service Examples - Images"
 date: "2009-12-05T10:12:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2009/12/05/ColdFusion-as-a-Service-Examples-Images

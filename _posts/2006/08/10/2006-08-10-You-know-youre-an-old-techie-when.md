@@ -2,7 +2,7 @@
 layout: post
 title: "You know you're an old techie when..."
 date: "2006-08-10T16:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/10/You-know-youre-an-old-techie-when

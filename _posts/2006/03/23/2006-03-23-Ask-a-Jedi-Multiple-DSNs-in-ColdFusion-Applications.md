@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Multiple DSNs in ColdFusion Applications"
 date: "2006-03-23T13:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/03/23/Ask-a-Jedi-Multiple-DSNs-in-ColdFusion-Applications

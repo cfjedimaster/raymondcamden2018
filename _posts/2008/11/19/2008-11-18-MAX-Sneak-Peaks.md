@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Sneak Peaks"
 date: "2008-11-19T10:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/11/19/MAX-Sneak-Peaks

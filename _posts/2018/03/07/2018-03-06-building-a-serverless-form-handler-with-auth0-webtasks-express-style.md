@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Serverless Form Handler with Auth0 Webtasks - Express Style"
 date: "2018-03-07"
-categories: Serverless 
+categories: serverless 
 tags: webtask
 banner_image: /images/banners/wtexpress1.jpg
 permalink: /2018/03/07/building-a-serverless-form-handler-with-auth0-webtasks-express-style

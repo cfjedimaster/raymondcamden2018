@@ -2,7 +2,7 @@
 layout: post
 title: "Initial 360 Review"
 date: "2006-01-11T09:01:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2006/01/11/Initial-360-Review

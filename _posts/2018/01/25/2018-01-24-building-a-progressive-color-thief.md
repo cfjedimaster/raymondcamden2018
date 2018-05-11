@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Progressive Color Thief"
 date: "2018-01-25"
-categories: Development JavaScript 
+categories: development javascript 
 tags: pwa javascript
 banner_image: 
 permalink: /2018/01/25/building-a-progressive-color-thief

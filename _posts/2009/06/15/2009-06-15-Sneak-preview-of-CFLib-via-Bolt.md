@@ -2,7 +2,7 @@
 layout: post
 title: "Sneak preview of CFLib via Bolt"
 date: "2009-06-15T22:06:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2009/06/15/Sneak-preview-of-CFLib-via-Bolt

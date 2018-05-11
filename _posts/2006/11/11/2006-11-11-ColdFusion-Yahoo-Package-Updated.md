@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Yahoo Package Updated"
 date: "2006-11-11T23:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/11/ColdFusion-Yahoo-Package-Updated

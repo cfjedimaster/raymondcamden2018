@@ -2,7 +2,7 @@
 layout: post
 title: "this.datasource versus this.ormsettings.datasource"
 date: "2011-04-21T17:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/04/21/thisdatasource-versus-thisormsettingsdatasource

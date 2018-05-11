@@ -2,7 +2,7 @@
 layout: post
 title: "Miss a day? Catch up with ColdFusionBloggers.org"
 date: "2007-08-08T01:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/08/Miss-a-day-Catch-up-with-ColdFusionBloggersorg

@@ -2,7 +2,7 @@
 layout: post
 title: "Two Presentations Next Week"
 date: "2007-01-09T07:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/09/Two-Presentations-Next-Week

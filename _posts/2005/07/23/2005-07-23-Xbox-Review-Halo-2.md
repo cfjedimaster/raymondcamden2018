@@ -2,7 +2,7 @@
 layout: post
 title: "Xbox Review: Halo 2"
 date: "2005-07-23T16:07:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2005/07/23/Xbox-Review-Halo-2

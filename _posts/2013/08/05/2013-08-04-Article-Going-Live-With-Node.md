@@ -2,7 +2,7 @@
 layout: post
 title: "Article: Going Live With Node"
 date: "2013-08-05T09:08:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/05/Article-Going-Live-With-Node

@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: ADT - Can you stand the excitement?"
 date: "2006-07-28T12:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/28/Friday-Puzzler-ADT-Can-you-stand-the-excitement

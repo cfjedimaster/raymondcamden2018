@@ -2,7 +2,7 @@
 layout: post
 title: "Dailyrazor hosted sites down"
 date: "2007-10-03T09:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/03/Dailyrazor-hosted-sites-down

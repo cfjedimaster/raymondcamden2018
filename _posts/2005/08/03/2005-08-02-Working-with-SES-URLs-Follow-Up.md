@@ -2,7 +2,7 @@
 layout: post
 title: "Working with SES URLs Follow Up"
 date: "2005-08-03T08:08:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2005/08/03/Working-with-SES-URLs-Follow-Up

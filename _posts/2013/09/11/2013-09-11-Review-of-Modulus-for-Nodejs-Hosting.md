@@ -2,7 +2,7 @@
 layout: post
 title: "Review of Modulus for Node.js Hosting"
 date: "2013-09-11T15:09:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/09/11/Review-of-Modulus-for-Nodejs-Hosting

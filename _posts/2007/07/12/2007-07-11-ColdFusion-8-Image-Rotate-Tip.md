@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: Image Rotate Tip"
 date: "2007-07-12T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/12/ColdFusion-8-Image-Rotate-Tip

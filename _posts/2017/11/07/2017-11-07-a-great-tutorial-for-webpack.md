@@ -2,7 +2,7 @@
 layout: post
 title: "A Great Tutorial for Webpack"
 date: "2017-11-07T04:11:00-07:00"
-categories: Javascript 
+categories: javascript 
 tags: webpack
 banner_image: 
 permalink: /2017/11/07/a-great-tutorial-for-webpack

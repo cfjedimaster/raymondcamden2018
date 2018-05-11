@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge Update"
 date: "2011-01-19T20:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/01/19/RIAForge-Update

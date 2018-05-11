@@ -2,7 +2,7 @@
 layout: post
 title: "My 30 seconds on ColdFusion"
 date: "2008-02-29T07:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/29/My-30-seconds-on-ColdFusion

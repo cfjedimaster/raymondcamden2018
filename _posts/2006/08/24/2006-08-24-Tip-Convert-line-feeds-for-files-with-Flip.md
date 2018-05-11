@@ -2,7 +2,7 @@
 layout: post
 title: "Tip: Convert line feeds for files with Flip"
 date: "2006-08-24T18:08:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/08/24/Tip-Convert-line-feeds-for-files-with-Flip

@@ -2,7 +2,7 @@
 layout: post
 title: "Couple of Adobe AIR announcements, and a reminder..."
 date: "2011-09-21T10:09:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/09/21/Couple-of-Adobe-AIR-announcements-and-a-reminder

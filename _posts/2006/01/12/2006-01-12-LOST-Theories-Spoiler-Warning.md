@@ -2,7 +2,7 @@
 layout: post
 title: "LOST Theories (Spoiler Warning)"
 date: "2006-01-12T12:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/01/12/LOST-Theories-Spoiler-Warning

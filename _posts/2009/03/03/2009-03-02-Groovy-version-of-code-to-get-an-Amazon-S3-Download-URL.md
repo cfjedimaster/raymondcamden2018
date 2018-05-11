@@ -2,7 +2,7 @@
 layout: post
 title: "Groovy version of code to get an Amazon S3 Download URL"
 date: "2009-03-03T10:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/03/03/Groovy-version-of-code-to-get-an-Amazon-S3-Download-URL

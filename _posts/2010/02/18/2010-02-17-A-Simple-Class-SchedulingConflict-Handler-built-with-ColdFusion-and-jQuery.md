@@ -2,7 +2,7 @@
 layout: post
 title: "A Simple Class Scheduling/Conflict Handler built with ColdFusion and jQuery"
 date: "2010-02-18T07:02:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/02/18/A-Simple-Class-SchedulingConflict-Handler-built-with-ColdFusion-and-jQuery

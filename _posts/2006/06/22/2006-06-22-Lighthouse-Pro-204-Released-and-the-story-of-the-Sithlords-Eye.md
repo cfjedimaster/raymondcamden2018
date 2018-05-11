@@ -2,7 +2,7 @@
 layout: post
 title: "Lighthouse Pro 2.0.4 Released (and the story of the Sithlord's Eye)"
 date: "2006-06-22T23:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/22/Lighthouse-Pro-204-Released-and-the-story-of-the-Sithlords-Eye

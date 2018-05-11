@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Chart Quickie - Title w/o Border"
 date: "2009-12-06T19:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/06/ColdFusion-Chart-Quickie-Title-wo-Border

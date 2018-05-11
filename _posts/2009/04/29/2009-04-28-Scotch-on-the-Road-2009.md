@@ -2,7 +2,7 @@
 layout: post
 title: "Scotch on the Road 2009"
 date: "2009-04-29T07:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/29/Scotch-on-the-Road-2009

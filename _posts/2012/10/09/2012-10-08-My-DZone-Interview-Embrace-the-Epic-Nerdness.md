@@ -2,7 +2,7 @@
 layout: post
 title: "My DZone Interview - Embrace the Epic Nerdness"
 date: "2012-10-09T10:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/10/09/My-DZone-Interview-Embrace-the-Epic-Nerdness

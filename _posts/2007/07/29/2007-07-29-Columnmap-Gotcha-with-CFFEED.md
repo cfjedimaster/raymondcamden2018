@@ -2,7 +2,7 @@
 layout: post
 title: "Columnmap \"Gotcha\" with CFFEED"
 date: "2007-07-29T14:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/29/Columnmap-Gotcha-with-CFFEED

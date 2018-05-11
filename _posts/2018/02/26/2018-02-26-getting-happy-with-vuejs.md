@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Happy with Vue.js"
 date: "2018-02-26T12:58:09+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: vuejs
 banner_image: /images/banners/maisie_bike.jpg
 permalink: /2018/02/26/getting-happy-with-vuejs

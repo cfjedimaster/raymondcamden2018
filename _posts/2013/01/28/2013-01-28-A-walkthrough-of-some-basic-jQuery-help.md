@@ -2,7 +2,7 @@
 layout: post
 title: "A walkthrough of some basic jQuery help"
 date: "2013-01-28T22:01:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2013/01/28/A-walkthrough-of-some-basic-jQuery-help

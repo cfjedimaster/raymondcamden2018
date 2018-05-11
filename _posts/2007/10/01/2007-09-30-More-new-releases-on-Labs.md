@@ -2,7 +2,7 @@
 layout: post
 title: "More new releases on Labs"
 date: "2007-10-01T09:10:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/10/01/More-new-releases-on-Labs

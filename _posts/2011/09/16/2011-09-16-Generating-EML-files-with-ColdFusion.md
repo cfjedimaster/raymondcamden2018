@@ -2,7 +2,7 @@
 layout: post
 title: "Generating EML files with ColdFusion"
 date: "2011-09-16T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/09/16/Generating-EML-files-with-ColdFusion

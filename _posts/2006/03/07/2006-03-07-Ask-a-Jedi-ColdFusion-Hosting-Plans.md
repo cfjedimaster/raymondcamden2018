@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Hosting Plans"
 date: "2006-03-07T18:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/03/07/Ask-a-Jedi-ColdFusion-Hosting-Plans

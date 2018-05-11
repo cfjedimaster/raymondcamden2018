@@ -2,7 +2,7 @@
 layout: post
 title: "Lost for May 16 - \"...blow them all up to Hell\""
 date: "2007-05-17T00:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/05/16/Lost-for-May-16-blow-them-all-up-to-Hell

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Builder - References"
 date: "2010-03-12T11:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/12/ColdFusion-Builder-References

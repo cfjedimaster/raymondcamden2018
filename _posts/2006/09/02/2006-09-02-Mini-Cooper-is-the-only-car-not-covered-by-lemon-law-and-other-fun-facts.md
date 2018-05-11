@@ -2,7 +2,7 @@
 layout: post
 title: "Mini Cooper is the only car not covered by lemon law (and other fun facts)"
 date: "2006-09-02T11:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/02/Mini-Cooper-is-the-only-car-not-covered-by-lemon-law-and-other-fun-facts

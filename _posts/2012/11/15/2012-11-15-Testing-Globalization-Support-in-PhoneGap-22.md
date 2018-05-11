@@ -2,7 +2,7 @@
 layout: post
 title: "Testing Globalization Support in PhoneGap 2.2"
 date: "2012-11-15T18:11:00+06:00"
-categories: JavaScript jQuery Mobile 
+categories: javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/11/15/Testing-Globalization-Support-in-PhoneGap-22

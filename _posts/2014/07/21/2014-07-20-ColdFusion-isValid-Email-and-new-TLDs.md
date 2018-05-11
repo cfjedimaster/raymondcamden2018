@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion, isValid, Email and new TLDs"
 date: "2014-07-21T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/07/21/ColdFusion-isValid-Email-and-new-TLDs

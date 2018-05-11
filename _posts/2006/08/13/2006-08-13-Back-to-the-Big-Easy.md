@@ -2,7 +2,7 @@
 layout: post
 title: "Back to the Big Easy"
 date: "2006-08-13T15:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/13/Back-to-the-Big-Easy

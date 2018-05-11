@@ -2,7 +2,7 @@
 layout: post
 title: "Notes on the ColdFusion 10 EULA"
 date: "2012-05-22T15:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/05/22/Notes-on-the-ColdFusion-10-EULA

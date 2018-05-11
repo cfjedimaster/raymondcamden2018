@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Challenge: Cut and Randomize a Picture"
 date: "2009-08-07T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/07/Friday-Challenge-Cut-and-Randomize-a-Picture

@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: The Quest for Foo"
 date: "2011-11-11T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/11/11/Friday-Puzzler-The-Quest-for-Foo

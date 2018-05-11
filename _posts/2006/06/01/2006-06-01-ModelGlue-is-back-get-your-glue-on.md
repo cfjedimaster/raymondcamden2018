@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue is back - get your glue on!"
 date: "2006-06-01T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/01/ModelGlue-is-back-get-your-glue-on

@@ -2,7 +2,7 @@
 layout: post
 title: "Pandora, a music lovers treat"
 date: "2006-05-26T15:05:00+06:00"
-categories: Music 
+categories: music 
 tags: 
 banner_image: 
 permalink: /2006/05/26/Pandora-a-music-lovers-treat

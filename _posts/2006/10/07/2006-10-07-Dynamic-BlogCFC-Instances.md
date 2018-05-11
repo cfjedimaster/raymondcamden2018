@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamic BlogCFC Instances"
 date: "2006-10-07T14:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/07/Dynamic-BlogCFC-Instances

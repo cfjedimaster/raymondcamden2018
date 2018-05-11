@@ -2,7 +2,7 @@
 layout: post
 title: "Should I Be Honored or Offended?"
 date: "2005-10-19T02:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/10/19/Should-I-Be-Honored-or-Offended

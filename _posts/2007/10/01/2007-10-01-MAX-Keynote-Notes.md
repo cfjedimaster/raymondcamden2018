@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Keynote Notes"
 date: "2007-10-01T13:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/01/MAX-Keynote-Notes

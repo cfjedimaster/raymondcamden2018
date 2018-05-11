@@ -2,7 +2,7 @@
 layout: post
 title: "Remember DevelopRIA?"
 date: "2014-03-10T15:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2014/03/10/Remember-DevelopRIA

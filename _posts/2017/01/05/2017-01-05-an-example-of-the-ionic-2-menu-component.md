@@ -2,7 +2,7 @@
 layout: post
 title: "An example of the Ionic 2 Menu Component"
 date: "2017-01-05T10:52:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic
 banner_image: /images/banners/i2menu.jpg
 permalink: /2017/01/05/an-example-of-the-ionic-2-menu-component

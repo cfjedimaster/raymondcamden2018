@@ -2,7 +2,7 @@
 layout: post
 title: "More ways to be a hero with Edge Animate"
 date: "2013-08-19T18:08:00+06:00"
-categories: Design HTML5 JavaScript 
+categories: design html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/19/More-ways-to-be-a-hero-with-Edge-Animate

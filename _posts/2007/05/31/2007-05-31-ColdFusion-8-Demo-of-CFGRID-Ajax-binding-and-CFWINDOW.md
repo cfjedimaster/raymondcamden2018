@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: Demo of CFGRID, Ajax binding, and CFWINDOW"
 date: "2007-05-31T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/31/ColdFusion-8-Demo-of-CFGRID-Ajax-binding-and-CFWINDOW

@@ -2,7 +2,7 @@
 layout: post
 title: "Delaying an Edge Animate asset until visible - Part 6"
 date: "2014-10-14T17:10:00+06:00"
-categories: HTML5 JavaScript jQuery 
+categories: html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2014/10/14/Delaying-an-Edge-Animate-asset-until-visible-Part-6

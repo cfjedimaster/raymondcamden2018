@@ -2,7 +2,7 @@
 layout: post
 title: "Small little Adobe Brackets tweak - remove Smart Indent"
 date: "2012-08-22T11:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/08/22/Small-little-Adobe-Brackets-tweak-remove-Smart-Indent

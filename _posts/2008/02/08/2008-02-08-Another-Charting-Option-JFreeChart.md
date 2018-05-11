@@ -2,7 +2,7 @@
 layout: post
 title: "Another Charting Option - JFreeChart"
 date: "2008-02-08T12:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/08/Another-Charting-Option-JFreeChart

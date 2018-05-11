@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe AIR 3.0 Release Candidate - Huge News"
 date: "2011-09-06T17:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/09/06/Adobe-AIR-30-Release-Candidate-Huge-News

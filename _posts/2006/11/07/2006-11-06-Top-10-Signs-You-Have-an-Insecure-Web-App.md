@@ -2,7 +2,7 @@
 layout: post
 title: "Top 10 Signs You Have an Insecure Web App"
 date: "2006-11-07T07:11:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/11/07/Top-10-Signs-You-Have-an-Insecure-Web-App

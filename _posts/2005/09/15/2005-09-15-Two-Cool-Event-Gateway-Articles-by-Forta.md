@@ -2,7 +2,7 @@
 layout: post
 title: "Two Cool Event Gateway Articles by Forta"
 date: "2005-09-15T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/15/Two-Cool-Event-Gateway-Articles-by-Forta

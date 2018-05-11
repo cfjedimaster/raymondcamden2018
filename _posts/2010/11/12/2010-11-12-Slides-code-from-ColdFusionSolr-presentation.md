@@ -2,7 +2,7 @@
 layout: post
 title: "Slides, code from ColdFusion/Solr presentation"
 date: "2010-11-12T13:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/11/12/Slides-code-from-ColdFusionSolr-presentation

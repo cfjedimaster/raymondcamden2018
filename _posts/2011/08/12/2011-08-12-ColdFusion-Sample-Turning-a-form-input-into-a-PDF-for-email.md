@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Sample - Turning a form input into a PDF for email"
 date: "2011-08-12T16:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/12/ColdFusion-Sample-Turning-a-form-input-into-a-PDF-for-email

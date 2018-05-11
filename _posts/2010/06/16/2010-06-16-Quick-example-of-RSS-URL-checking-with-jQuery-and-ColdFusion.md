@@ -2,7 +2,7 @@
 layout: post
 title: "Quick example of RSS URL checking with jQuery and ColdFusion"
 date: "2010-06-16T14:06:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/06/16/Quick-example-of-RSS-URL-checking-with-jQuery-and-ColdFusion

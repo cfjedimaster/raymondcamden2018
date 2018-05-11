@@ -2,7 +2,7 @@
 layout: post
 title: "Fusion-Reactor and FusionDebug"
 date: "2006-07-11T16:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/11/FusionReactor-and-FusionDebug

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: CFIMAGE performance concerns"
 date: "2008-03-28T15:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/28/Ask-a-Jedi-CFIMAGE-performance-concerns

@@ -2,7 +2,7 @@
 layout: post
 title: "It's ok - we want you to lie to us..."
 date: "2008-03-05T11:03:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/03/05/Its-ok-we-want-you-to-lie-to-us

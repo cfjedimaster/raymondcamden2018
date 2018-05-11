@@ -2,7 +2,7 @@
 layout: post
 title: "2 Quick ColdFusion 8 RichText Editor Tips"
 date: "2009-05-27T13:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/27/2-Quick-ColdFusion-8-RichText-Editor-Tips

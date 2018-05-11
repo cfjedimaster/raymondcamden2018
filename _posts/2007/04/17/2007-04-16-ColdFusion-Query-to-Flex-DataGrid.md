@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Query to Flex DataGrid"
 date: "2007-04-17T10:04:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2007/04/17/ColdFusion-Query-to-Flex-DataGrid

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Development versus Staging servers"
 date: "2008-01-08T15:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/01/08/Ask-a-Jedi-Development-versus-Staging-servers

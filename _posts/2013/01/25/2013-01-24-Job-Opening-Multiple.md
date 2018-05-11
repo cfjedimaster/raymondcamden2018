@@ -2,7 +2,7 @@
 layout: post
 title: "Job Opening - Multiple"
 date: "2013-01-25T10:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/01/25/Job-Opening-Multiple

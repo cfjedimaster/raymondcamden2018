@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Developer Week 2011"
 date: "2011-05-25T13:05:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2011/05/25/Adobe-Developer-Week-2011

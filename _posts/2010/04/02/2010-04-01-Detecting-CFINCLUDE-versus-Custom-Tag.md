@@ -2,7 +2,7 @@
 layout: post
 title: "Detecting CFINCLUDE versus Custom Tag"
 date: "2010-04-02T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/04/02/Detecting-CFINCLUDE-versus-Custom-Tag

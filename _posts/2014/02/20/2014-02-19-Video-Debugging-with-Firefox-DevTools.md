@@ -2,7 +2,7 @@
 layout: post
 title: "Video: Debugging with Firefox DevTools"
 date: "2014-02-20T11:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2014/02/20/Video-Debugging-with-Firefox-DevTools

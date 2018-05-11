@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Cookbook Email Fixed"
 date: "2006-01-11T11:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/11/ColdFusion-Cookbook-Email-Fixed

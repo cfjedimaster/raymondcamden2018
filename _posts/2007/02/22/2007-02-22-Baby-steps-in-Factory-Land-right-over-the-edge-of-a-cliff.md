@@ -2,7 +2,7 @@
 layout: post
 title: "Baby steps in Factory Land (right over the edge of a cliff...)"
 date: "2007-02-22T18:02:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2007/02/22/Baby-steps-in-Factory-Land-right-over-the-edge-of-a-cliff

@@ -2,7 +2,7 @@
 layout: post
 title: "Eclipse Tip - Whitespace characters visible when they are turned off"
 date: "2010-04-30T16:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/04/30/Eclipse-Tip-Whitespace-characters-visible-when-they-are-turned-off

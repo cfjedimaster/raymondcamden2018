@@ -2,7 +2,7 @@
 layout: post
 title: "E-Seminar on Slatwall next week"
 date: "2012-05-18T15:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/05/18/ESeminar-on-Slatwall-next-week

@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Office Metadata"
 date: "2009-02-06T11:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/06/Working-with-Office-Metadata

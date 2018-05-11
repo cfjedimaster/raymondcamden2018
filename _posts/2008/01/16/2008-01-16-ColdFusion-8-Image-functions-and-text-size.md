@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 Image functions and text size"
 date: "2008-01-16T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/16/ColdFusion-8-Image-functions-and-text-size

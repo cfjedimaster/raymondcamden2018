@@ -2,7 +2,7 @@
 layout: post
 title: "Best of CF9: easyImages"
 date: "2009-12-21T18:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/21/Best-of-CF9-easyImages

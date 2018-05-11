@@ -2,7 +2,7 @@
 layout: post
 title: "Cool Errors: Dating Trouble"
 date: "2005-12-01T14:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/01/Cool-Errors-Dating-Trouble

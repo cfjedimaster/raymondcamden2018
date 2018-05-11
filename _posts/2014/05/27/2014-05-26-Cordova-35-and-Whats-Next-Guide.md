@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova 3.5 and the \"What's Next\" Guide"
 date: "2014-05-27T10:05:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/05/27/Cordova-35-and-Whats-Next-Guide

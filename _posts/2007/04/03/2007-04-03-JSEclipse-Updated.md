@@ -2,7 +2,7 @@
 layout: post
 title: "JSEclipse Updated"
 date: "2007-04-03T13:04:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2007/04/03/JSEclipse-Updated

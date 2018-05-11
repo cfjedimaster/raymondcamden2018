@@ -2,7 +2,7 @@
 layout: post
 title: "I'd tell you, but then I'd have to kill you..."
 date: "2006-02-10T09:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/02/10/Id-tell-you-but-then-Id-have-to-kill-you

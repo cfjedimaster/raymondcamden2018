@@ -2,7 +2,7 @@
 layout: post
 title: "Attending my second SOTR presentation next week? Read this."
 date: "2010-05-18T08:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/05/18/Attending-my-second-SOTR-presentation-next-week-Read-this

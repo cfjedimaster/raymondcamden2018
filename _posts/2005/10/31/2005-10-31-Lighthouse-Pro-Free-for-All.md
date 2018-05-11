@@ -2,7 +2,7 @@
 layout: post
 title: "Lighthouse Pro - Free for All"
 date: "2005-10-31T14:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/31/Lighthouse-Pro-Free-for-All

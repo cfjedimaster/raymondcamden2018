@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - Uhlig"
 date: "2013-03-07T22:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/03/07/ColdFusion-Job-Opening-Uhlig

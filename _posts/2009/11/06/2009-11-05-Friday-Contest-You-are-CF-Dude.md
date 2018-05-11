@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Contest: You are CF Dude"
 date: "2009-11-06T11:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/11/06/Friday-Contest-You-are-CF-Dude

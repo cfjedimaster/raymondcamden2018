@@ -2,7 +2,7 @@
 layout: post
 title: "How NOT To Do Directory Security"
 date: "2005-07-22T12:07:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2005/07/22/How-NOT-To-Do-Directory-Security

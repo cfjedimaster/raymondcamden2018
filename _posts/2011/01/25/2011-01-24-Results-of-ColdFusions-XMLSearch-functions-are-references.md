@@ -2,7 +2,7 @@
 layout: post
 title: "Results of ColdFusion's XMLSearch functions are references"
 date: "2011-01-25T11:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/01/25/Results-of-ColdFusions-XMLSearch-functions-are-references

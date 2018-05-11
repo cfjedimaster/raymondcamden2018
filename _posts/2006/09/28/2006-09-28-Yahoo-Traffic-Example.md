@@ -2,7 +2,7 @@
 layout: post
 title: "Yahoo Traffic API ColdFusion Example"
 date: "2006-09-28T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/28/Yahoo-Traffic-Example

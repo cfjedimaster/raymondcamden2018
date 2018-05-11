@@ -2,7 +2,7 @@
 layout: post
 title: "What? Folks aren't using cfqueryparam?"
 date: "2008-07-29T13:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/29/What-Folks-arent-using-cfqueryparam

@@ -2,7 +2,7 @@
 layout: post
 title: "Install (or update) the Adobe AIR Launchpad"
 date: "2010-11-09T14:11:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2010/11/09/Install-or-update-the-Adobe-AIR-Launchpad

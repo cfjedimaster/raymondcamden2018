@@ -2,7 +2,7 @@
 layout: post
 title: "Getting ORM Stats via the Session and Factory"
 date: "2009-12-01T21:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/01/Getting-ORM-Stats-via-the-Session-and-Factory

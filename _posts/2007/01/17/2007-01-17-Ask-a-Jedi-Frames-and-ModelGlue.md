@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Frames and Model-Glue"
 date: "2007-01-17T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/17/Ask-a-Jedi-Frames-and-ModelGlue

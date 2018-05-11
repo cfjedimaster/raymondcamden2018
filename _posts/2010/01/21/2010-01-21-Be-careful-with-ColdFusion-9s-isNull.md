@@ -2,7 +2,7 @@
 layout: post
 title: "Be careful with ColdFusion 9's isNull"
 date: "2010-01-21T22:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/21/Be-careful-with-ColdFusion-9s-isNull

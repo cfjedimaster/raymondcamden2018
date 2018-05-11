@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Cordova's config.xml? Check out this online tool"
 date: "2015-03-23T13:14:54+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2015/03/23/learning-cordovas-config-xml-check-out-this-online-tool

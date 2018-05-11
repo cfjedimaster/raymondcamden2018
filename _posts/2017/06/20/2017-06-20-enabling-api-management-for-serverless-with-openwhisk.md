@@ -2,7 +2,7 @@
 layout: post
 title: "Enabling API Management for Serverless with OpenWhisk"
 date: "2017-06-20T11:54:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/06/20/enabling-api-management-for-serverless-with-openwhisk

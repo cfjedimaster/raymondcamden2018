@@ -2,7 +2,7 @@
 layout: post
 title: "Handling session timeouts in Ajax applications - Follow up"
 date: "2010-09-16T00:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/09/15/Handling-session-timeouts-in-Ajax-applications-Follow-up

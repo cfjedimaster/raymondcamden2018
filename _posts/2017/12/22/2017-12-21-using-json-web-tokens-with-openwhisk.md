@@ -2,7 +2,7 @@
 layout: post
 title: "Using JSON Web Tokens with Serverless OpenWhisk"
 date: "2017-12-22"
-categories: Development Serverless 
+categories: development serverless 
 tags: javascript vuejs openwhisk
 banner_image: 
 permalink: /2017/12/22/using-json-web-tokens-with-openwhisk

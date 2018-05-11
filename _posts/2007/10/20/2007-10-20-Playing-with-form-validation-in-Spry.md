@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with form validation in Spry"
 date: "2007-10-20T11:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/20/Playing-with-form-validation-in-Spry

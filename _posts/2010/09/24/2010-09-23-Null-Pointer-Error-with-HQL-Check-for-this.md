@@ -2,7 +2,7 @@
 layout: post
 title: "Null Pointer Error with HQL? Check for this..."
 date: "2010-09-24T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/09/24/Null-Pointer-Error-with-HQL-Check-for-this

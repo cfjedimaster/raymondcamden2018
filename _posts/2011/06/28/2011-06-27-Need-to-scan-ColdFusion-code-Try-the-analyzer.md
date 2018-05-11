@@ -2,7 +2,7 @@
 layout: post
 title: "Need to scan ColdFusion code? Try the analyzer"
 date: "2011-06-28T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/28/Need-to-scan-ColdFusion-code-Try-the-analyzer

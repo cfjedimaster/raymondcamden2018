@@ -2,7 +2,7 @@
 layout: post
 title: "This weeks presentations posted"
 date: "2007-01-19T08:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/19/This-weeks-presentations-posted

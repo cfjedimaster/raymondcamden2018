@@ -2,7 +2,7 @@
 layout: post
 title: "Canvas 1.5 Released"
 date: "2006-08-23T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/23/Canvas-15-Released

@@ -2,7 +2,7 @@
 layout: post
 title: "Update to my Server-Based Login PhoneGap Demo"
 date: "2012-06-21T17:06:00+06:00"
-categories: HTML5 JavaScript jQuery Mobile 
+categories: html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/06/21/update-to-my-serverbased-login-phonegap-demo

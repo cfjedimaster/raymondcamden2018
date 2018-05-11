@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 10 Beta Hosting"
 date: "2012-02-24T06:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/02/24/ColdFusion-10-Beta-Hosting

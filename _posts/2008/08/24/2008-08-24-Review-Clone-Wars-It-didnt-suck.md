@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Clone Wars - It didn't suck!"
 date: "2008-08-24T15:08:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2008/08/24/Review-Clone-Wars-It-didnt-suck

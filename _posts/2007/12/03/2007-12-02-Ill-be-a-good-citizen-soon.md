@@ -2,7 +2,7 @@
 layout: post
 title: "I'll be a good citizen (soon)"
 date: "2007-12-03T07:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/12/03/Ill-be-a-good-citizen-soon

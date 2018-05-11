@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Presentation Tonight"
 date: "2009-07-14T10:07:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/07/14/jQuery-Presentation-Tonight

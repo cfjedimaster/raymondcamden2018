@@ -2,7 +2,7 @@
 layout: post
 title: "Building a hybrid mobile app? Avoid using CDNs for your libraries"
 date: "2015-10-30T10:50:21+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/10/30/building-a-hybrid-mobile-app-avoid-using-cdns-for-your-libraries

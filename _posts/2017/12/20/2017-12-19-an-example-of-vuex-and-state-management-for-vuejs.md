@@ -2,7 +2,7 @@
 layout: post
 title: "An Example of Vuex and State Management for Vue.js"
 date: "2017-12-20"
-categories: Development 
+categories: development 
 tags: javascript vuejs
 banner_image: 
 permalink: /2017/12/20/an-example-of-vuex-and-state-management-for-vuejs

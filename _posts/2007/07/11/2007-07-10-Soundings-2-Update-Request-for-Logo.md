@@ -2,7 +2,7 @@
 layout: post
 title: "Soundings 2 Update / Request for Logo"
 date: "2007-07-11T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/11/Soundings-2-Update-Request-for-Logo

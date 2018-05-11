@@ -2,7 +2,7 @@
 layout: post
 title: "SpoolLockTimeoutException"
 date: "2006-12-06T07:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/12/06/SpoolLockTimeoutException

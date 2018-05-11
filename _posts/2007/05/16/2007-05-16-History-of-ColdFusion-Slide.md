@@ -2,7 +2,7 @@
 layout: post
 title: "History of ColdFusion Slide"
 date: "2007-05-16T18:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/16/History-of-ColdFusion-Slide

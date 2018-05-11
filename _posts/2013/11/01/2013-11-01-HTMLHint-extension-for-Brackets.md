@@ -2,7 +2,7 @@
 layout: post
 title: "HTMLHint extension for Brackets"
 date: "2013-11-01T13:11:00+06:00"
-categories: Development HTML5 
+categories: development html5 
 tags: 
 banner_image: 
 permalink: /2013/11/01/HTMLHint-extension-for-Brackets

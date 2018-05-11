@@ -2,7 +2,7 @@
 layout: post
 title: "Survey Results for Rebecca Murphey's Learning JavaScript Survey"
 date: "2016-01-26T15:40:46-06:00"
-categories: JavaScript Development 
+categories: javascript development 
 tags: 
 banner_image: 
 permalink: /2016/01/25/survey-results-learning-javascript

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: cfdiv, cfform, cflayout and selecting tabs - also a new bug?"
 date: "2009-01-09T13:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/09/Ask-a-Jedi-cfdiv-cfform-cflayout-and-selecting-tabs-also-a-new-bug

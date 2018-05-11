@@ -2,7 +2,7 @@
 layout: post
 title: "CF Security Advisory: Patch available for ColdFusion MX 7 local privilege escalation"
 date: "2006-10-10T18:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/10/CF-Security-Advisory-Patch-available-for-ColdFusion-MX-7-local-privilege-escalation

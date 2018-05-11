@@ -2,7 +2,7 @@
 layout: post
 title: "So why do I have insurance again?"
 date: "2008-09-12T13:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/09/12/So-why-do-I-have-insurance-again

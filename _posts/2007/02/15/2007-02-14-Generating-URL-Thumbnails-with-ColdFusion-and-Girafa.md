@@ -2,7 +2,7 @@
 layout: post
 title: "Generating URL Thumbnails with ColdFusion and Girafa"
 date: "2007-02-15T10:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/15/Generating-URL-Thumbnails-with-ColdFusion-and-Girafa

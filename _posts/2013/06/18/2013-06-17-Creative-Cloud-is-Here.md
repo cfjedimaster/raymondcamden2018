@@ -2,7 +2,7 @@
 layout: post
 title: "Creative Cloud is Here"
 date: "2013-06-18T09:06:00+06:00"
-categories: Design Development 
+categories: design development 
 tags: 
 banner_image: 
 permalink: /2013/06/18/Creative-Cloud-is-Here

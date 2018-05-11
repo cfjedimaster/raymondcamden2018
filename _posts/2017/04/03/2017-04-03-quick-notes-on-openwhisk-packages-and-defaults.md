@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Notes on OpenWhisk Packages and Defaults"
 date: "2017-04-03T08:18:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/04/03/quick-notes-on-openwhisk-packages-and-defaults

@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Developer Connection - Email signup"
 date: "2013-01-14T18:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/01/14/Adobe-Developer-Connection-Email-signup

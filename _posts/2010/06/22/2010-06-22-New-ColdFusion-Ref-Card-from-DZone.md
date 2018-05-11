@@ -2,7 +2,7 @@
 layout: post
 title: "New ColdFusion Ref Card from DZone"
 date: "2010-06-22T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/22/New-ColdFusion-Ref-Card-from-DZone

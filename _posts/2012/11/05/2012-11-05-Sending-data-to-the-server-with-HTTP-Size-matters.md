@@ -2,7 +2,7 @@
 layout: post
 title: "Sending data to the server with HTTP? Size matters"
 date: "2012-11-05T15:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/11/05/Sending-data-to-the-server-with-HTTP-Size-matters

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Hack for percentage based CFCHART"
 date: "2011-06-27T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/27/Ask-a-Jedi-Hack-for-percentage-based-CFCHART

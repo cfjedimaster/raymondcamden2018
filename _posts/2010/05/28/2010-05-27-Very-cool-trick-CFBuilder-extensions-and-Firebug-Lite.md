@@ -2,7 +2,7 @@
 layout: post
 title: "Very cool trick - CFBuilder extensions and Firebug Lite"
 date: "2010-05-28T03:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/05/28/Very-cool-trick-CFBuilder-extensions-and-Firebug-Lite

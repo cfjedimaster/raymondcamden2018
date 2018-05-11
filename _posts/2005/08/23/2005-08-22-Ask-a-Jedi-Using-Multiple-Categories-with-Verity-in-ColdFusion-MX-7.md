@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using Multiple Categories with Verity in ColdFusion MX 7"
 date: "2005-08-23T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/23/Ask-a-Jedi-Using-Multiple-Categories-with-Verity-in-ColdFusion-MX-7

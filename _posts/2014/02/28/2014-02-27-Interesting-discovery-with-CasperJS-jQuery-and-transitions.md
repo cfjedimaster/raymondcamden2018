@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting discovery with CasperJS, jQuery, and transitions"
 date: "2014-02-28T10:02:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2014/02/28/Interesting-discovery-with-CasperJS-jQuery-and-transitions

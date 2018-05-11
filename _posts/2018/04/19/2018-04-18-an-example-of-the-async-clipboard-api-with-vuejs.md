@@ -2,7 +2,7 @@
 layout: post
 title: "An Example of the Async Clipboard API with Vue.js"
 date: "2018-04-19"
-categories: JavaScript 
+categories: javascript 
 tags: vuejs
 banner_image: /images/banners/clipboard.jpg
 permalink: /2018/04/19/an-example-of-the-async-clipboard-api-with-vuejs

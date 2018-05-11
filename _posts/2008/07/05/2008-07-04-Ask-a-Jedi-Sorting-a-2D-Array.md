@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Sorting a 2D Array"
 date: "2008-07-05T09:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/05/Ask-a-Jedi-Sorting-a-2D-Array

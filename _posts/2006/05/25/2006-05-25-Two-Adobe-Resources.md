@@ -2,7 +2,7 @@
 layout: post
 title: "Two Adobe Resources"
 date: "2006-05-25T15:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/05/25/Two-Adobe-Resources

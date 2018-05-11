@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion and SugarCRM Intergration"
 date: "2009-02-07T08:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/07/ColdFusion-and-SugarCRM-Intergration

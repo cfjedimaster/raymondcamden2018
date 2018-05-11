@@ -2,7 +2,7 @@
 layout: post
 title: "Warning a user before they leave a form"
 date: "2015-03-06T10:01:23+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/03/06/warning-a-user-before-they-leave-a-form

@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder on using Ionic for the Web"
 date: "2016-09-13T15:16:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic
 banner_image: 
 permalink: /2016/09/13/reminder-on-using-ionic-for-the-web

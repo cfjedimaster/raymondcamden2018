@@ -2,7 +2,7 @@
 layout: post
 title: "I'm joining Adobe"
 date: "2011-06-20T18:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/06/20/Im-joining-Adobe

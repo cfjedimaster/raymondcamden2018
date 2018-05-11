@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Chat in Spry"
 date: "2006-12-14T07:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/12/14/Simple-Chat-in-Spry

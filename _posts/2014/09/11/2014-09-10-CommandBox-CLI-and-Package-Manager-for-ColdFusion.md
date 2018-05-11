@@ -2,7 +2,7 @@
 layout: post
 title: "CommandBox CLI and Package Manager for ColdFusion"
 date: "2014-09-11T07:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/09/11/CommandBox-CLI-and-Package-Manager-for-ColdFusion

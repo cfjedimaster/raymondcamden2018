@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder on File Inputs, JavaScript, and Read Access"
 date: "2018-03-29"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: /images/banners/book.jpg
 permalink: /2018/03/29/reminder-on-file-inputs-javascript-and-read-access

@@ -2,7 +2,7 @@
 layout: post
 title: "(Yet Another) Variable Scoping Warning"
 date: "2006-03-26T20:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/03/26/Yet-Another-Variable-Scoping-Warning

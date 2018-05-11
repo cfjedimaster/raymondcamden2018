@@ -2,7 +2,7 @@
 layout: post
 title: "Another Node Experiment: AndKittens"
 date: "2013-08-27T11:08:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/27/Another-Node-Experiment-AndKittens

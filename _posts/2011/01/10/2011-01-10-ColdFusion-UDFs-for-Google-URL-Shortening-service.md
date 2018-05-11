@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion UDFs for Google URL Shortening service"
 date: "2011-01-10T17:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/01/10/ColdFusion-UDFs-for-Google-URL-Shortening-service

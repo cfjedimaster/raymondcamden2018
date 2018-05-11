@@ -2,7 +2,7 @@
 layout: post
 title: "Using Application.cfc for headers and footers and still want to use Ajax?"
 date: "2009-05-04T22:05:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/05/04/Using-Applicationcfc-for-headers-and-footers-and-still-want-to-use-Ajax

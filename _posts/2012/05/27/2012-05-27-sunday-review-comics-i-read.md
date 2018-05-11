@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Review: Comics I Read"
 date: "2012-05-27T11:05:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2012/05/27/sunday-review-comics-i-read

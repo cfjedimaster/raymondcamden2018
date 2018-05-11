@@ -2,7 +2,7 @@
 layout: post
 title: "Apache Cordova in Action MEAP Updated"
 date: "2015-02-18T14:40:01+06:00"
-categories: Development HTML5 JavaScript Mobile 
+categories: development html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2015/02/18/apache-cordova-meap

@@ -2,7 +2,7 @@
 layout: post
 title: "Known ColdFusion 8/Scorpio Facts"
 date: "2006-10-24T16:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/24/Known-ColdFusion-8Scorpio-Facts

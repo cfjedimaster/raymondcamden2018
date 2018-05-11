@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking in Nashville on PhoneGap and Web Debugging"
 date: "2012-07-08T12:07:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/07/08/Speaking-in-Nashville-on-PhoneGap-and-Web-Debugging

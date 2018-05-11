@@ -2,7 +2,7 @@
 layout: post
 title: "Changing ColdFusion settings per application - New Scorpio Feature Announced"
 date: "2007-04-24T22:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/24/Changing-ColdFusion-settings-per-application-New-Scorpio-Feature-Announced

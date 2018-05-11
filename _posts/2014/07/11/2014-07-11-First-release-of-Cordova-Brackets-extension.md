@@ -2,7 +2,7 @@
 layout: post
 title: "First release of Cordova Brackets extension"
 date: "2014-07-11T18:07:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/07/11/First-release-of-Cordova-Brackets-extension

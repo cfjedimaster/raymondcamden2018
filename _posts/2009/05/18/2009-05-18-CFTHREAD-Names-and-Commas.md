@@ -2,7 +2,7 @@
 layout: post
 title: "CFTHREAD, Names, and Commas"
 date: "2009-05-18T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/18/CFTHREAD-Names-and-Commas

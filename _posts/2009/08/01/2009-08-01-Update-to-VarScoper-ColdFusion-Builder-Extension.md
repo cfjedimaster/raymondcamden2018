@@ -2,7 +2,7 @@
 layout: post
 title: "Update to VarScoper ColdFusion Builder Extension"
 date: "2009-08-01T19:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/01/Update-to-VarScoper-ColdFusion-Builder-Extension

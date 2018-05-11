@@ -2,7 +2,7 @@
 layout: post
 title: "AIR 2.0 Released to Labs"
 date: "2009-11-17T07:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/11/17/AIR-20-Released-to-Labs

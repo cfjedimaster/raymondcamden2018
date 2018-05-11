@@ -2,7 +2,7 @@
 layout: post
 title: "CFLOGIN, How do I love thee..."
 date: "2006-11-27T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/27/CFLOGIN-How-do-I-love-thee

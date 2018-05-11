@@ -2,7 +2,7 @@
 layout: post
 title: "ORM Entity not available? Check your logs"
 date: "2010-02-08T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/08/ORM-Entity-not-available-Check-your-logs

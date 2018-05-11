@@ -2,7 +2,7 @@
 layout: post
 title: "Simple ColdFusion 8 Drop Shadow Example"
 date: "2007-10-10T17:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/10/Simple-ColdFusion-8-Drop-Shadow-Example

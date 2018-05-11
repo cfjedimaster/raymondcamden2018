@@ -2,7 +2,7 @@
 layout: post
 title: "Using the Progress event in PhoneGap file transfers"
 date: "2013-05-01T18:05:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2013/05/01/Using-the-Progress-event-in-PhoneGap-file-transfers

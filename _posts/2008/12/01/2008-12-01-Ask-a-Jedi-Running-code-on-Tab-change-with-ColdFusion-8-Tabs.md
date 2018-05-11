@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Running code on Tab change with ColdFusion 8 Tabs"
 date: "2008-12-01T17:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/01/Ask-a-Jedi-Running-code-on-Tab-change-with-ColdFusion-8-Tabs

@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Blog Aggregator - jQueryBloggers.com"
 date: "2011-03-20T15:03:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2011/03/20/jQuery-Blog-Aggregator-jQueryBloggerscom

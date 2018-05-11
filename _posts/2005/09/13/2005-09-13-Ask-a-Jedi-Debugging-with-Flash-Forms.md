@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Debugging with Flash Forms"
 date: "2005-09-13T16:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/13/Ask-a-Jedi-Debugging-with-Flash-Forms

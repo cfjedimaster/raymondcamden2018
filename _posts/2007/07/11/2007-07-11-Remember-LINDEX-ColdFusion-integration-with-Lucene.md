@@ -2,7 +2,7 @@
 layout: post
 title: "Remember LINDEX? ColdFusion integration with Lucene"
 date: "2007-07-11T17:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/11/Remember-LINDEX-ColdFusion-integration-with-Lucene

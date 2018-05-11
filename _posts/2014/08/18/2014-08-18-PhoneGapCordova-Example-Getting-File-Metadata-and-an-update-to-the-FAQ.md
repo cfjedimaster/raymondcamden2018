@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap/Cordova Example - Getting File Metadata (and an update to the FAQ)"
 date: "2014-08-18T18:08:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/08/18/PhoneGapCordova-Example-Getting-File-Metadata-and-an-update-to-the-FAQ

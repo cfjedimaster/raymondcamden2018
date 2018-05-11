@@ -2,7 +2,7 @@
 layout: post
 title: "Tweak ColdFusion Builder's Outline Mode"
 date: "2010-02-23T10:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/23/Tweak-ColdFusion-Builders-Outline-Mode

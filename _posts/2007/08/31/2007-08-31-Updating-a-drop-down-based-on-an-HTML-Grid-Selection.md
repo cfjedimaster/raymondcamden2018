@@ -2,7 +2,7 @@
 layout: post
 title: "Updating a drop down based on an HTML Grid Selection"
 date: "2007-08-31T18:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/31/Updating-a-drop-down-based-on-an-HTML-Grid-Selection

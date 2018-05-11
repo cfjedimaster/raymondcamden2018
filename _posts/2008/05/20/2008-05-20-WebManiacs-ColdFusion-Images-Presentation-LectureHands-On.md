@@ -2,7 +2,7 @@
 layout: post
 title: "WebManiacs ColdFusion Images Presentation (Lecture/Hands On)"
 date: "2008-05-20T14:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/20/WebManiacs-ColdFusion-Images-Presentation-LectureHands-On

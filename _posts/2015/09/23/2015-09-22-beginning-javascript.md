@@ -2,7 +2,7 @@
 layout: post
 title: "\"Beginning JavaScript\""
 date: "2015-09-23T08:23:57+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/09/23/beginning-javascript

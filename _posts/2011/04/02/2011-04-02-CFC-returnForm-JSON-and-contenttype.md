@@ -2,7 +2,7 @@
 layout: post
 title: "CFC, returnForm, JSON, and content-type"
 date: "2011-04-02T13:04:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2011/04/02/CFC-returnForm-JSON-and-contenttype

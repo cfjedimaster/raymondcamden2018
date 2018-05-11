@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring CFaaS Presentation"
 date: "2009-11-13T17:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/11/13/Exploring-CFaaS-Presentation

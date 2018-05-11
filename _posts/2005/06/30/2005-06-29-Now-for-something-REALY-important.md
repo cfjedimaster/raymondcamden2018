@@ -2,7 +2,7 @@
 layout: post
 title: "Now for something REALY important..."
 date: "2005-06-30T08:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/06/30/Now-for-something-REALY-important

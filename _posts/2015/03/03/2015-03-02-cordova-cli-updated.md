@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova CLI Updated"
 date: "2015-03-03T08:49:44+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2015/03/03/cordova-cli-updated

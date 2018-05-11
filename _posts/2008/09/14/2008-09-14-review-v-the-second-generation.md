@@ -2,7 +2,7 @@
 layout: post
 title: "Review: V: The Second Generation"
 date: "2008-09-14T11:09:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2008/09/14/review-v-the-second-generation

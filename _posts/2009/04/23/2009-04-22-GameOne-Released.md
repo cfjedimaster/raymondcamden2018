@@ -2,7 +2,7 @@
 layout: post
 title: "GameOne Released"
 date: "2009-04-23T01:04:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2009/04/23/GameOne-Released

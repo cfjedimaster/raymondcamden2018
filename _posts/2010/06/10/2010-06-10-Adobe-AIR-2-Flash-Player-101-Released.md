@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe AIR 2 + Flash Player 10.1 Released"
 date: "2010-06-10T16:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/06/10/Adobe-AIR-2-Flash-Player-101-Released

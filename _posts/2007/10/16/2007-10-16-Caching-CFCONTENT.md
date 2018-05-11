@@ -2,7 +2,7 @@
 layout: post
 title: "Caching CFCONTENT"
 date: "2007-10-16T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/16/Caching-CFCONTENT

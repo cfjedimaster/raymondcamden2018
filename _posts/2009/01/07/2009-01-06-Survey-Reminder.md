@@ -2,7 +2,7 @@
 layout: post
 title: "Survey Reminder"
 date: "2009-01-07T09:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/01/07/Survey-Reminder

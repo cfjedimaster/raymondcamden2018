@@ -2,7 +2,7 @@
 layout: post
 title: "Interview"
 date: "2008-08-14T08:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/08/14/Interview

@@ -2,7 +2,7 @@
 layout: post
 title: "Another Seeker Update"
 date: "2008-06-03T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/03/Another-Seeker-Update

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion on AWS"
 date: "2013-03-14T17:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/03/14/ColdFusion-on-AWS

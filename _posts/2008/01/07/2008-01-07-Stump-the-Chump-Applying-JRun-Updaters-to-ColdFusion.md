@@ -2,7 +2,7 @@
 layout: post
 title: "Stump the Chump - Applying JRun Updaters to ColdFusion"
 date: "2008-01-07T14:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/07/Stump-the-Chump-Applying-JRun-Updaters-to-ColdFusion

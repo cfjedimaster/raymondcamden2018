@@ -2,7 +2,7 @@
 layout: post
 title: "Another hint on ColdFusion 9?"
 date: "2008-05-02T15:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/02/Another-hint-on-ColdFusion-9

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Quickie - Run something no more than once every N minutes"
 date: "2010-03-18T14:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/18/ColdFusion-Quickie-Run-something-no-more-than-once-every-N-minutes

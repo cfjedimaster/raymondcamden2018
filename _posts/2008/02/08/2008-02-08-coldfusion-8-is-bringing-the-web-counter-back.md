@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 is bringing the web counter back!"
 date: "2008-02-08T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/08/coldfusion-8-is-bringing-the-web-counter-back

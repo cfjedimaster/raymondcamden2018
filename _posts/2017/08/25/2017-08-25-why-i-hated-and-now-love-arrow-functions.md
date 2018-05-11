@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Hated (and Now Love) Arrow Functions"
 date: "2017-08-25T07:18:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: javascript
 banner_image: /images/banners/arrow_functions.jpg
 permalink: /2017/08/25/why-i-hated-and-now-love-arrow-functions

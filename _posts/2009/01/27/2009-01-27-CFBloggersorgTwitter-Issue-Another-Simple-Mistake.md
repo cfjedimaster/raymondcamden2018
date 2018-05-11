@@ -2,7 +2,7 @@
 layout: post
 title: "CFBloggers.org/Twitter Issue (Another Simple Mistake!)"
 date: "2009-01-27T21:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/01/27/CFBloggersorgTwitter-Issue-Another-Simple-Mistake

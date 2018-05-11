@@ -2,7 +2,7 @@
 layout: post
 title: "Tip: Remove some, but not all, HTML"
 date: "2006-06-15T11:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/15/Tip-Remove-some-but-not-all-HTML

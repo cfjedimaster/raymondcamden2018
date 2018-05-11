@@ -2,7 +2,7 @@
 layout: post
 title: "Quickie Flex2/ColdFusion Application"
 date: "2006-07-24T23:07:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2006/07/24/Quickie-Flex2ColdFusion-Application

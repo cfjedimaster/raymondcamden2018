@@ -2,7 +2,7 @@
 layout: post
 title: "New version of Lighthouse Pro - Need Testers"
 date: "2009-06-14T10:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/14/New-version-of-Lighthouse-Pro-Need-Testers

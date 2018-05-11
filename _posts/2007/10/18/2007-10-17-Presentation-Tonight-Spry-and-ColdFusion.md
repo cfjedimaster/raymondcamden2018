@@ -2,7 +2,7 @@
 layout: post
 title: "Presentation Tonight: Spry and ColdFusion"
 date: "2007-10-18T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/18/Presentation-Tonight-Spry-and-ColdFusion

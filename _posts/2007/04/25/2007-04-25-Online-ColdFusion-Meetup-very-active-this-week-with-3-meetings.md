@@ -2,7 +2,7 @@
 layout: post
 title: "Online ColdFusion Meetup very active this week with 3 meetings"
 date: "2007-04-25T22:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/25/Online-ColdFusion-Meetup-very-active-this-week-with-3-meetings

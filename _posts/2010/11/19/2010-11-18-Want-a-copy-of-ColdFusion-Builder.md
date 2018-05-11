@@ -2,7 +2,7 @@
 layout: post
 title: "Want a copy of ColdFusion Builder?"
 date: "2010-11-19T09:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/11/19/Want-a-copy-of-ColdFusion-Builder

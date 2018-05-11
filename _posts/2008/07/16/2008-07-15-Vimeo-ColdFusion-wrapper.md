@@ -2,7 +2,7 @@
 layout: post
 title: "Vimeo ColdFusion wrapper"
 date: "2008-07-16T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/16/Vimeo-ColdFusion-wrapper

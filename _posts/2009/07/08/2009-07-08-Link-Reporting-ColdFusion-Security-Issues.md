@@ -2,7 +2,7 @@
 layout: post
 title: "Link - Reporting ColdFusion Security Issues"
 date: "2009-07-08T12:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/08/Link-Reporting-ColdFusion-Security-Issues

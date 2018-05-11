@@ -2,7 +2,7 @@
 layout: post
 title: "Contact Form Issue"
 date: "2010-04-27T15:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/04/27/Contact-Form-Issue

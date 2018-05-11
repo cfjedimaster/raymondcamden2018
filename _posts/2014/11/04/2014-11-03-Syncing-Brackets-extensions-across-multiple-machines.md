@@ -2,7 +2,7 @@
 layout: post
 title: "Syncing Brackets extensions across multiple machines"
 date: "2014-11-04T11:11:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2014/11/04/Syncing-Brackets-extensions-across-multiple-machines

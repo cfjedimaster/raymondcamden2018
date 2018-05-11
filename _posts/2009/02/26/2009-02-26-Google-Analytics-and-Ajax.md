@@ -2,7 +2,7 @@
 layout: post
 title: "Google Analytics and Ajax"
 date: "2009-02-26T22:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/02/26/Google-Analytics-and-Ajax

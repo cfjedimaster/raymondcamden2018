@@ -2,7 +2,7 @@
 layout: post
 title: "When it rains - and watch out for the Russians..."
 date: "2005-11-04T14:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/11/04/When-it-rains-and-watch-out-for-the-Russians

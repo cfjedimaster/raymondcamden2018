@@ -2,7 +2,7 @@
 layout: post
 title: "Getting file information in ColdFusion Builder (or Eclipse in general)"
 date: "2011-05-04T10:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/05/04/Getting-file-information-in-ColdFusion-Builder-or-Eclipse-in-general

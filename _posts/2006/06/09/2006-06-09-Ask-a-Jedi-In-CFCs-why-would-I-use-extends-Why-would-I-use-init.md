@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: In CFCs, why would I use extends? Why would I use init()?"
 date: "2006-06-09T12:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/09/Ask-a-Jedi-In-CFCs-why-would-I-use-extends-Why-would-I-use-init

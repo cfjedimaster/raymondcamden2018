@@ -2,7 +2,7 @@
 layout: post
 title: "Chrome, console, and URLs - watch out"
 date: "2015-08-20T15:02:36+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/08/20/chrome-console-and-urls-watch-out

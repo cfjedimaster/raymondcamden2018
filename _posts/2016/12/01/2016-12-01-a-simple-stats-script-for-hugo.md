@@ -2,7 +2,7 @@
 layout: post
 title: "A Simple Stats Script for Hugo"
 date: "2016-12-01T06:30:00-07:00"
-categories: Development 
+categories: development 
 tags: nodejs
 banner_image: 
 permalink: /2016/12/01/a-simple-stats-script-for-hugo

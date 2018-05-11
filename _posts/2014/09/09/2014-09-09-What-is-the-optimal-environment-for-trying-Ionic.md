@@ -2,7 +2,7 @@
 layout: post
 title: "What is the optimal environment for trying Ionic?"
 date: "2014-09-09T16:09:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/09/09/What-is-the-optimal-environment-for-trying-Ionic

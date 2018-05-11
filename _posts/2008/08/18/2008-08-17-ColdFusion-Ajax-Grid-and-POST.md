@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Ajax Grid - and POST"
 date: "2008-08-18T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/18/ColdFusion-Ajax-Grid-and-POST

@@ -2,7 +2,7 @@
 layout: post
 title: "CFaaS Demo - Dead Bike"
 date: "2009-07-13T16:07:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2009/07/13/CFaaS-Demo-Dead-Bike

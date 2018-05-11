@@ -2,7 +2,7 @@
 layout: post
 title: "is your framework up to date?"
 date: "2008-03-20T15:03:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/03/20/is-your-framework-up-to-date

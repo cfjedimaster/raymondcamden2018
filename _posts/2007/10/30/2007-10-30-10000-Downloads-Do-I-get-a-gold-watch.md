@@ -2,7 +2,7 @@
 layout: post
 title: "10,000 Downloads - Do I get a gold watch?"
 date: "2007-10-30T12:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/30/10000-Downloads-Do-I-get-a-gold-watch

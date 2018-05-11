@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Developer Week (and graphics)"
 date: "2012-05-23T08:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/05/23/ColdFusion-Developer-Week-and-graphics

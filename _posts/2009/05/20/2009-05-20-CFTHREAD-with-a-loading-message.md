@@ -2,7 +2,7 @@
 layout: post
 title: "CFTHREAD with a loading message"
 date: "2009-05-20T14:05:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2009/05/20/CFTHREAD-with-a-loading-message

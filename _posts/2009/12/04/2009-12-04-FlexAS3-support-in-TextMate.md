@@ -2,7 +2,7 @@
 layout: post
 title: "Flex/AS3 support in TextMate"
 date: "2009-12-04T14:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2009/12/04/FlexAS3-support-in-TextMate

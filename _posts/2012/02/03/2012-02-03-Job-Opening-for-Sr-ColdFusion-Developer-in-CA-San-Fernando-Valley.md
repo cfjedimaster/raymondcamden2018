@@ -2,7 +2,7 @@
 layout: post
 title: "Job Opening for Sr. ColdFusion Developer in CA/ San Fernando Valley"
 date: "2012-02-03T14:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/02/03/Job-Opening-for-Sr-ColdFusion-Developer-in-CA-San-Fernando-Valley

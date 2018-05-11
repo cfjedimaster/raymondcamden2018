@@ -2,7 +2,7 @@
 layout: post
 title: "Top 100 Sci-Fi Books"
 date: "2008-03-09T17:03:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2008/03/09/Top-100-SciFi-Books

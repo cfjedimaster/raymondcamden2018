@@ -2,7 +2,7 @@
 layout: post
 title: "Example of Flex/AIR - Greg's Toolkit"
 date: "2011-10-28T10:10:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/10/28/Example-of-FlexAIR-Gregs-Toolkit

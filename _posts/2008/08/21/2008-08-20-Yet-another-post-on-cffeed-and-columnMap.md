@@ -2,7 +2,7 @@
 layout: post
 title: "Yet another post on cffeed and columnMap"
 date: "2008-08-21T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/21/Yet-another-post-on-cffeed-and-columnMap

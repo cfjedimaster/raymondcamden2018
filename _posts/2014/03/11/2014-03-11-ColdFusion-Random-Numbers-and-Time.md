@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion, Random Numbers, and Time"
 date: "2014-03-11T11:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/03/11/ColdFusion-Random-Numbers-and-Time

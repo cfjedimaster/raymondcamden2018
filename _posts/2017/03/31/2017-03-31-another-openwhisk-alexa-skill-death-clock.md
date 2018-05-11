@@ -2,7 +2,7 @@
 layout: post
 title: "Another OpenWhisk Alexa Skill - Death Clock"
 date: "2017-03-31T13:02:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk alexa
 banner_image: /images/banners/deathclock.jpg
 permalink: /2017/03/31/another-openwhisk-alexa-skill-death-clock

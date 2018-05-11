@@ -2,7 +2,7 @@
 layout: post
 title: "Stealing a Post - How to Ask Me a Question"
 date: "2012-09-12T11:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/09/12/Stealing-a-Post-How-to-Ask-Me-a-Question

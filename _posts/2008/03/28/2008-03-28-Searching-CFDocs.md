@@ -2,7 +2,7 @@
 layout: post
 title: "Searching CFDocs"
 date: "2008-03-28T12:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/28/Searching-CFDocs

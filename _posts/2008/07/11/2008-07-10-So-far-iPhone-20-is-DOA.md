@@ -2,7 +2,7 @@
 layout: post
 title: "So far iPhone 2.0 is.... DOA"
 date: "2008-07-11T10:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/11/So-far-iPhone-20-is-DOA

@@ -2,7 +2,7 @@
 layout: post
 title: "New month, new job. I've joined Broadchoice"
 date: "2008-05-02T00:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/05/01/New-month-new-job-Ive-joined-Broadchoice

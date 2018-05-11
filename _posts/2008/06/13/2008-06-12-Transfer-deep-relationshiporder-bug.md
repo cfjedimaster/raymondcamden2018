@@ -2,7 +2,7 @@
 layout: post
 title: "Transfer deep relationship/order bug"
 date: "2008-06-13T07:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/13/Transfer-deep-relationshiporder-bug

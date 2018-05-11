@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Example of onMissingTemplate to handle dynamic city/state pages"
 date: "2008-12-09T13:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/09/Ask-a-Jedi-Example-of-onMissingTemplate-to-handle-dynamic-citystate-pages

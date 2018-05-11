@@ -2,7 +2,7 @@
 layout: post
 title: "Detect window close/reload versus exit"
 date: "2011-09-14T11:09:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/09/14/Detect-window-closereload-versus-exit

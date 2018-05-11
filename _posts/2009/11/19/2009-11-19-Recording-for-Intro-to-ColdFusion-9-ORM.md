@@ -2,7 +2,7 @@
 layout: post
 title: "Recording for Intro to ColdFusion 9 ORM"
 date: "2009-11-19T20:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/19/Recording-for-Intro-to-ColdFusion-9-ORM

@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting display bug with CF8 HTML Grid"
 date: "2007-12-03T15:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/03/Interesting-display-bug-with-CF8-HTML-Grid

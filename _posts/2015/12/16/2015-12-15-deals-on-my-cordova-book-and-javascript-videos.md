@@ -2,7 +2,7 @@
 layout: post
 title: "Deals on my Cordova book and JavaScript videos"
 date: "2015-12-16T08:08:22+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2015/12/16/deals-on-my-cordova-book-and-javascript-videos

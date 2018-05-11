@@ -2,7 +2,7 @@
 layout: post
 title: "Custom Google Search Engines"
 date: "2006-10-24T15:10:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/10/24/Custom-Google-Search-Engines

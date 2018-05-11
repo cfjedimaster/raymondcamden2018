@@ -2,7 +2,7 @@
 layout: post
 title: "Verity Session Update"
 date: "2005-06-29T13:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/06/29/Verity-Session-Update

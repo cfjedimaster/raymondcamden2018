@@ -2,7 +2,7 @@
 layout: post
 title: "Google Contacts Wrapper"
 date: "2008-09-06T16:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/06/Google-Contacts-Wrapper

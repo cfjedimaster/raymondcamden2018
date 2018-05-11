@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: CFDOCUMENT and formatting"
 date: "2009-08-05T23:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/05/Ask-a-Jedi-CFDOCUMENT-and-formatting

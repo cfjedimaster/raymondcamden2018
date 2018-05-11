@@ -2,7 +2,7 @@
 layout: post
 title: "Null, Entities, and CFDUMP"
 date: "2011-04-25T19:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/04/25/Null-Entities-and-CFDUMP

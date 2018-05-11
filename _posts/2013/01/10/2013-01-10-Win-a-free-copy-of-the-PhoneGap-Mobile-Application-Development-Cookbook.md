@@ -2,7 +2,7 @@
 layout: post
 title: "Win a free copy of the PhoneGap Mobile Application Development Cookbook"
 date: "2013-01-10T16:01:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/01/10/Win-a-free-copy-of-the-PhoneGap-Mobile-Application-Development-Cookbook

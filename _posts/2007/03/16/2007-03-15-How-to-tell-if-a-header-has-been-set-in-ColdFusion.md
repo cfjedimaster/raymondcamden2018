@@ -2,7 +2,7 @@
 layout: post
 title: "How to tell if a header has been set in ColdFusion"
 date: "2007-03-16T08:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/16/How-to-tell-if-a-header-has-been-set-in-ColdFusion

@@ -2,7 +2,7 @@
 layout: post
 title: "CFUnited Europe Announced"
 date: "2007-06-13T10:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/13/CFUnited-Europe-Announced

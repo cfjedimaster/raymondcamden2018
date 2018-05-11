@@ -2,7 +2,7 @@
 layout: post
 title: "Tales from the Trenches - Swapping Libraries"
 date: "2012-09-22T13:09:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/09/22/Tales-from-the-Trenches-Swapping-Libraries

@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue Listserv Notice"
 date: "2007-05-14T16:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/14/ModelGlue-Listserv-Notice

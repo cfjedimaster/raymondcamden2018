@@ -2,7 +2,7 @@
 layout: post
 title: "Using Ripple for PhoneGap Development"
 date: "2013-02-06T15:02:00+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/02/06/Using-Ripple-for-PhoneGap-Development

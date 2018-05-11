@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Autosuggest on 2 Columns"
 date: "2009-11-22T11:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/22/Ask-a-Jedi-ColdFusion-Autosuggest-on-2-Columns

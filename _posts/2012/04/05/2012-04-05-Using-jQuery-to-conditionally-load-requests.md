@@ -2,7 +2,7 @@
 layout: post
 title: "Using jQuery to conditionally load requests"
 date: "2012-04-05T16:04:00+06:00"
-categories: Development JavaScript jQuery 
+categories: development javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/04/05/Using-jQuery-to-conditionally-load-requests

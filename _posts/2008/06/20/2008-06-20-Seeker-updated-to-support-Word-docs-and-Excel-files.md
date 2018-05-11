@@ -2,7 +2,7 @@
 layout: post
 title: "Seeker updated to support Word docs and Excel files"
 date: "2008-06-20T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/20/Seeker-updated-to-support-Word-docs-and-Excel-files

@@ -2,7 +2,7 @@
 layout: post
 title: "Two SQLite tool recommendations"
 date: "2008-01-10T10:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/01/10/Two-SQLite-tool-recommendations

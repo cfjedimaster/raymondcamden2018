@@ -2,7 +2,7 @@
 layout: post
 title: "Flex/ColdFusion Mystery with a very simple answer"
 date: "2007-01-19T10:01:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2007/01/19/FlexColdFusion-Mystery-with-a-very-simple-answer

@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript Errors and the Firefox Console"
 date: "2013-08-16T08:08:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/16/JavaScript-Errors-and-the-Firefox-Console

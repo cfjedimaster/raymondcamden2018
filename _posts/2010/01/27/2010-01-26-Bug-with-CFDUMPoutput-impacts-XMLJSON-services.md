@@ -2,7 +2,7 @@
 layout: post
 title: "Bug with CFDUMP/output, impacts XML/JSON services"
 date: "2010-01-27T11:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/27/Bug-with-CFDUMPoutput-impacts-XMLJSON-services

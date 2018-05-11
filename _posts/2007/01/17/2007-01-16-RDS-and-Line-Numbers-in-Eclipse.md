@@ -2,7 +2,7 @@
 layout: post
 title: "RDS and Line Numbers in Eclipse"
 date: "2007-01-17T10:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/01/17/RDS-and-Line-Numbers-in-Eclipse

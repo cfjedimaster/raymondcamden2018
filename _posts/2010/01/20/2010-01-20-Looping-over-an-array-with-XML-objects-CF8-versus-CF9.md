@@ -2,7 +2,7 @@
 layout: post
 title: "Looping over an array with XML objects - CF8 versus CF9"
 date: "2010-01-20T14:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/20/Looping-over-an-array-with-XML-objects-CF8-versus-CF9

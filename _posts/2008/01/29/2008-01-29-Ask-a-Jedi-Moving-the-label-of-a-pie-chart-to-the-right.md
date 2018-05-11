@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Moving the label of a pie chart to the right"
 date: "2008-01-29T13:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/29/Ask-a-Jedi-Moving-the-label-of-a-pie-chart-to-the-right

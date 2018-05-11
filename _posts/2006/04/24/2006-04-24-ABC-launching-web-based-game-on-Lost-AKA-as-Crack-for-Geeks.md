@@ -2,7 +2,7 @@
 layout: post
 title: "ABC launching web based game on Lost, AKA Crack for Geeks"
 date: "2006-04-24T17:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/04/24/ABC-launching-web-based-game-on-Lost-AKA-as-Crack-for-Geeks

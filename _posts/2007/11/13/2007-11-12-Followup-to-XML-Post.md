@@ -2,7 +2,7 @@
 layout: post
 title: "Followup to XML Post"
 date: "2007-11-13T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/13/Followup-to-XML-Post

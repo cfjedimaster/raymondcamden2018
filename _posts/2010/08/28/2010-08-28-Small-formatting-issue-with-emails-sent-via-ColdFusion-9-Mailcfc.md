@@ -2,7 +2,7 @@
 layout: post
 title: "Small formatting issue with emails sent via ColdFusion 9 Mail.cfc"
 date: "2010-08-28T12:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/08/28/Small-formatting-issue-with-emails-sent-via-ColdFusion-9-Mailcfc

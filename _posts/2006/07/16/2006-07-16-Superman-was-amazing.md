@@ -2,7 +2,7 @@
 layout: post
 title: "Superman was amazing"
 date: "2006-07-16T18:07:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2006/07/16/Superman-was-amazing

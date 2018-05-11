@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Why is one UDF faster than another? Variables?"
 date: "2008-09-24T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/24/Ask-a-Jedi-Why-is-one-UDF-faster-than-another-Variables

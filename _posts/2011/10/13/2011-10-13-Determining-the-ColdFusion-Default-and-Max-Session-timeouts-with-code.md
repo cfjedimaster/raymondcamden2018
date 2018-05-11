@@ -2,7 +2,7 @@
 layout: post
 title: "Determining the ColdFusion Default, and Max, Session timeouts with code"
 date: "2011-10-13T12:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/10/13/Determining-the-ColdFusion-Default-and-Max-Session-timeouts-with-code

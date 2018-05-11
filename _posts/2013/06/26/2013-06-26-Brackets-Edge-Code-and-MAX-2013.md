@@ -2,7 +2,7 @@
 layout: post
 title: "Brackets, Edge Code, and MAX 2013"
 date: "2013-06-26T20:06:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2013/06/26/Brackets-Edge-Code-and-MAX-2013

@@ -2,7 +2,7 @@
 layout: post
 title: "More CFMX Error Modifications"
 date: "2005-07-14T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/07/14/More-CFMX-Error-Modifications

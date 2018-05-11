@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Color Rotator"
 date: "2013-03-01T07:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/03/01/Friday-Puzzler-Color-Rotator

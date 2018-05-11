@@ -2,7 +2,7 @@
 layout: post
 title: "Quick (and simple) Tip 2: Zipping old files"
 date: "2007-11-20T13:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/20/Quick-and-simple-Tip-2-Zipping-old-files

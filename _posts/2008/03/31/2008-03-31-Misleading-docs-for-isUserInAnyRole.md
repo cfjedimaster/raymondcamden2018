@@ -2,7 +2,7 @@
 layout: post
 title: "Misleading docs for isUserInAnyRole"
 date: "2008-03-31T16:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/31/Misleading-docs-for-isUserInAnyRole

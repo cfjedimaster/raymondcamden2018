@@ -2,7 +2,7 @@
 layout: post
 title: "CFLib converted to Harp and on Surge"
 date: "2015-11-19T08:00:50+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/11/19/cflib-converted-to-harp-and-on-surge

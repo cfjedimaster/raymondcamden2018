@@ -2,7 +2,7 @@
 layout: post
 title: "Today's Weird JavaScript Issue"
 date: "2008-10-22T10:10:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2008/10/22/Todays-Weird-JavaScript-Issue

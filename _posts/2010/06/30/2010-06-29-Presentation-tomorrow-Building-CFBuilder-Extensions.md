@@ -2,7 +2,7 @@
 layout: post
 title: "Presentation tomorrow: Building CFBuilder Extensions"
 date: "2010-06-30T08:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/06/30/Presentation-tomorrow-Building-CFBuilder-Extensions

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - Greater Media Charlotte"
 date: "2012-03-24T11:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/24/ColdFusion-Job-Opening-Greater-Media-Charlotte

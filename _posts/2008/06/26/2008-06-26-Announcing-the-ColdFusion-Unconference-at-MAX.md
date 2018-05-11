@@ -2,7 +2,7 @@
 layout: post
 title: "Announcing the ColdFusion Unconference at MAX"
 date: "2008-06-26T12:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/26/Announcing-the-ColdFusion-Unconference-at-MAX

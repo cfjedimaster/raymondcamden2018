@@ -2,7 +2,7 @@
 layout: post
 title: "Problem with Video DVDs under XP"
 date: "2006-12-13T07:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/13/Problem-with-Video-DVDs-under-XP

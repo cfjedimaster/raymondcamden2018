@@ -2,7 +2,7 @@
 layout: post
 title: "On the air again"
 date: "2006-11-21T09:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/21/On-the-air-again

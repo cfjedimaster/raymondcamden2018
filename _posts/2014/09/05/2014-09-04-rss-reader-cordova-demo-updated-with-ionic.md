@@ -2,7 +2,7 @@
 layout: post
 title: "RSS Reader Cordova demo updated with Ionic"
 date: "2014-09-05T10:09:00+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/09/05/rss-reader-cordova-demo-updated-with-ionic

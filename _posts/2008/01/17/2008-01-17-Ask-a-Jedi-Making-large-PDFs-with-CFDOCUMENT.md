@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Making large PDFs with CFDOCUMENT"
 date: "2008-01-17T21:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/17/Ask-a-Jedi-Making-large-PDFs-with-CFDOCUMENT

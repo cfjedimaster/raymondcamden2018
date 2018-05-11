@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler - Fractions"
 date: "2009-04-10T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/10/Friday-Puzzler-Fractions

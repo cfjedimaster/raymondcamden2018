@@ -2,7 +2,7 @@
 layout: post
 title: "Help spread the word at the People's Toolbox"
 date: "2007-02-22T11:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/22/Help-spread-the-word-at-the-Peoples-Toolbox

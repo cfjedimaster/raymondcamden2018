@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Multiple Questions"
 date: "2005-09-07T13:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/07/Ask-a-Jedi-Multiple-Questions

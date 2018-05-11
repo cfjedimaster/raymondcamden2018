@@ -2,7 +2,7 @@
 layout: post
 title: "Yet another charting option - Highcharts"
 date: "2011-01-27T13:01:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/01/27/Yet-another-charting-option-Highcharts

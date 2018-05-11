@@ -2,7 +2,7 @@
 layout: post
 title: "Form analytics with Formatic"
 date: "2015-04-07T13:06:54+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/04/07/form-analytics-with-formatic

@@ -2,7 +2,7 @@
 layout: post
 title: "Another OpenWhisk Cron Example - the Blog Nag"
 date: "2017-02-21T09:31:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/blognag.jpg
 permalink: /2017/02/21/another-openwhisk-cron-example-the-blog-nag

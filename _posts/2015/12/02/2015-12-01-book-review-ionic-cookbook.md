@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Ionic Cookbook"
 date: "2015-12-02T09:20:00+06:00"
-categories: Books Development Mobile 
+categories: books development mobile 
 tags: 
 banner_image: 
 permalink: /2015/12/02/book-review-ionic-cookbook

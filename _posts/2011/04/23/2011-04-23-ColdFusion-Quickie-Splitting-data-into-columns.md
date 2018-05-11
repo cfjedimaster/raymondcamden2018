@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Quickie: Splitting data into columns"
 date: "2011-04-23T11:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/04/23/ColdFusion-Quickie-Splitting-data-into-columns

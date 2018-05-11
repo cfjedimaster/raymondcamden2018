@@ -2,7 +2,7 @@
 layout: post
 title: "My 2013 Reading List"
 date: "2013-12-30T10:12:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2013/12/30/My-2013-Reading-List

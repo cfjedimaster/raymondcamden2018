@@ -2,7 +2,7 @@
 layout: post
 title: "Loading widgets galore"
 date: "2006-07-26T11:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/26/Loading-widgets-galore

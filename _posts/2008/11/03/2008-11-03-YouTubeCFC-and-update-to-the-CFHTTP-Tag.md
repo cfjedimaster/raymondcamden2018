@@ -2,7 +2,7 @@
 layout: post
 title: "YouTubeCFC and update to the CFHTTP Tag"
 date: "2008-11-03T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/03/YouTubeCFC-and-update-to-the-CFHTTP-Tag

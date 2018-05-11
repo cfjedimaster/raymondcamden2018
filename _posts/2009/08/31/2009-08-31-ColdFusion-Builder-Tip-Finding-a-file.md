@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Builder Tip - Finding a file"
 date: "2009-08-31T11:08:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2009/08/31/ColdFusion-Builder-Tip-Finding-a-file

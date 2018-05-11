@@ -2,7 +2,7 @@
 layout: post
 title: "Example of jQuery Mobile site using authentication - first round"
 date: "2011-04-03T17:04:00+06:00"
-categories: ColdFusion JavaScript jQuery Mobile 
+categories: coldfusion javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/04/03/Example-of-jQuery-Mobile-site-using-authentication-first-round

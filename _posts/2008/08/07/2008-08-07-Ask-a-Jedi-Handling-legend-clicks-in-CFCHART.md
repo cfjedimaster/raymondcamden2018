@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Handling legend clicks in CFCHART"
 date: "2008-08-07T12:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/07/Ask-a-Jedi-Handling-legend-clicks-in-CFCHART

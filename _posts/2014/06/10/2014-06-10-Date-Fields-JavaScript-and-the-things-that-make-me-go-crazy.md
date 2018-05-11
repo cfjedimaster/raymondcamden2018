@@ -2,7 +2,7 @@
 layout: post
 title: "Date Fields, JavaScript, and the things that make me go crazy..."
 date: "2014-06-10T16:06:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2014/06/10/Date-Fields-JavaScript-and-the-things-that-make-me-go-crazy

@@ -2,7 +2,7 @@
 layout: post
 title: "The news lied to me!"
 date: "2006-09-17T13:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/17/The-news-lied-to-me

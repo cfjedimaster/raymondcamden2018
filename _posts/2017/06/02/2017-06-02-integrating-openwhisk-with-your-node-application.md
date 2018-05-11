@@ -2,8 +2,8 @@
 layout: post
 title: "Integrating OpenWhisk with Your Node Application"
 date: "2017-06-02T08:31:00-07:00"
-categories: Serverless 
-tags: OpenWhisk
+categories: serverless 
+tags: openwhisk
 banner_image: 
 permalink: /2017/06/02/integrating-openwhisk-with-your-node-application
 ---

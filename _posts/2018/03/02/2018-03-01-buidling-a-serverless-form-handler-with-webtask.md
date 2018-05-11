@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Serverless Form Handler with Auth0 Webtasks"
 date: "2018-03-02"
-categories: Serverless 
+categories: serverless 
 tags: webtask
 banner_image: /images/banners/wt_forms.jpg
 permalink: /2018/03/02/buidling-a-serverless-form-handler-with-webtask

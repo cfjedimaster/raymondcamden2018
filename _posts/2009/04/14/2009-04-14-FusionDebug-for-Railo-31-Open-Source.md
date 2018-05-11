@@ -2,7 +2,7 @@
 layout: post
 title: "FusionDebug for Railo 3.1 Open Source"
 date: "2009-04-14T18:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/14/FusionDebug-for-Railo-31-Open-Source

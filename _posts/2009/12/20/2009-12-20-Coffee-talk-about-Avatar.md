@@ -2,7 +2,7 @@
 layout: post
 title: "Coffee talk about Avatar"
 date: "2009-12-20T21:12:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2009/12/20/Coffee-talk-about-Avatar

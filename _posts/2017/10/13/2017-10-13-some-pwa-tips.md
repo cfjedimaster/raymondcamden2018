@@ -2,7 +2,7 @@
 layout: post
 title: "Some Progressive Web App Tips"
 date: "2017-10-13T07:55:00-07:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: javascript
 banner_image: 
 permalink: /2017/10/13/some-pwa-tips

@@ -2,7 +2,7 @@
 layout: post
 title: "Question for Readers: Flex alignment with textarea controls"
 date: "2009-02-23T12:02:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2009/02/23/Question-for-Readers-Flex-alignment-with-textarea-controls

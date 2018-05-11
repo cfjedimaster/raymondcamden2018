@@ -2,7 +2,7 @@
 layout: post
 title: "Building a No Man's Sky Utility with Node and Vue.js"
 date: "2017-08-31T08:28:00-07:00"
-categories: Development 
+categories: development 
 tags: javascript vuejs
 banner_image: /images/banners/nomansskyv.jpg
 permalink: /2017/08/31/building-a-no-mans-sky-utility-with-node-and-vuejs

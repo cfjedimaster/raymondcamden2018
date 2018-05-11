@@ -2,7 +2,7 @@
 layout: post
 title: "No CFADMIN access means no logging, right?"
 date: "2009-07-24T11:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/24/No-CFADMIN-access-means-no-logging-right

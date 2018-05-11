@@ -2,7 +2,7 @@
 layout: post
 title: "Offtopic (and NSFW)  blog post - Dead Island Trailer"
 date: "2011-02-16T23:02:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2011/02/16/Offtopic-and-NSFW-blog-post-Dead-Island-Trailer

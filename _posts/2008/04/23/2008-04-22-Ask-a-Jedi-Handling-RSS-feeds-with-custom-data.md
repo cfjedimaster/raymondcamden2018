@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Handling RSS feeds with custom data"
 date: "2008-04-23T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/23/Ask-a-Jedi-Handling-RSS-feeds-with-custom-data

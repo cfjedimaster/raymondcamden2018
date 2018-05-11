@@ -2,7 +2,7 @@
 layout: post
 title: "Matt Woodward's Mac Guide"
 date: "2007-02-15T09:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/02/15/Matt-Woodwards-Mac-Guide

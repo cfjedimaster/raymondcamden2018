@@ -2,7 +2,7 @@
 layout: post
 title: "Suggestions for learning JSON?"
 date: "2015-01-29T16:34:54+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/01/29/suggestions-for-learning-json

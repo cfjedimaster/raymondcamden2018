@@ -2,7 +2,7 @@
 layout: post
 title: "Two Harp.js Recipes: Limiting a list of blog entries by count and by date"
 date: "2014-02-13T15:02:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2014/02/13/Two-Harpjs-Recipes-Limiting-a-list-of-blog-entries-by-count-and-by-date

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting a job and code samples"
 date: "2006-09-01T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/01/Ask-a-Jedi-Getting-a-job-and-code-samples

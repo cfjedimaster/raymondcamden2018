@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Startup Issue with Hostname"
 date: "2014-11-21T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/11/21/ColdFusion-Startup-Issue-with-Hostname

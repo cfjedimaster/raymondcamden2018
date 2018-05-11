@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8.0.1 is out the door!"
 date: "2008-04-04T01:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/04/ColdFusion-801-is-out-the-door

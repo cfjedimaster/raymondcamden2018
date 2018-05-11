@@ -2,7 +2,7 @@
 layout: post
 title: "Quick followup to my CFSpreadSheet Samples"
 date: "2011-07-11T23:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/11/Quick-followup-to-my-CFSpreadSheet-Samples

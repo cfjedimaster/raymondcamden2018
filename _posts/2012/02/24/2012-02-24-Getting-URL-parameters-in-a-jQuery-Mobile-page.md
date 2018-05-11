@@ -2,7 +2,7 @@
 layout: post
 title: "Getting URL parameters in a jQuery Mobile page"
 date: "2012-02-24T16:02:00+06:00"
-categories: Development jQuery Mobile 
+categories: development jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/02/24/Getting-URL-parameters-in-a-jQuery-Mobile-page

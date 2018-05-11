@@ -2,7 +2,7 @@
 layout: post
 title: "Oops - Soundings Update"
 date: "2005-11-02T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/02/Oops-Soundings-Update

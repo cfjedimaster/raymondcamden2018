@@ -2,7 +2,7 @@
 layout: post
 title: "Database Explorer Updated"
 date: "2007-08-29T12:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/29/Database-Explorer-Updated

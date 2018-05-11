@@ -2,7 +2,7 @@
 layout: post
 title: "Proud to be an Adobe Community Professional for 2011"
 date: "2011-01-28T12:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/01/28/Proud-to-be-an-Adobe-Community-Professional-for-2011

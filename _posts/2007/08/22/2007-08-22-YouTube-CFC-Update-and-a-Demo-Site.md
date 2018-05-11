@@ -2,7 +2,7 @@
 layout: post
 title: "YouTube CFC Update and a Demo Site"
 date: "2007-08-22T19:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/22/YouTube-CFC-Update-and-a-Demo-Site

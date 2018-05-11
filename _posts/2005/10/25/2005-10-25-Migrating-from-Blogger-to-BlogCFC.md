@@ -2,7 +2,7 @@
 layout: post
 title: "Migrating from Blogger to BlogCFC"
 date: "2005-10-25T14:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/25/Migrating-from-Blogger-to-BlogCFC

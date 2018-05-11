@@ -2,7 +2,7 @@
 layout: post
 title: "From Actions to Sequences to Services"
 date: "2017-04-07T12:56:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/from_actions_to_seq.jpg
 permalink: /2017/04/07/from-actions-to-sequences-to-services

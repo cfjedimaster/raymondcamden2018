@@ -2,7 +2,7 @@
 layout: post
 title: "About time - Cockfighting ending in LA"
 date: "2008-08-11T10:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/08/11/About-time-Cockfighting-ending-in-LA

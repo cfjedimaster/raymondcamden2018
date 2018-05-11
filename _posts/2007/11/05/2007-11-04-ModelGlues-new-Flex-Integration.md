@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue's new Flex Integration"
 date: "2007-11-05T09:11:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/11/05/ModelGlues-new-Flex-Integration

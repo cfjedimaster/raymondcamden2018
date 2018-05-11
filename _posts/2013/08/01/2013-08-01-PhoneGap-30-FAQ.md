@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap 3.0 FAQ"
 date: "2013-08-01T16:08:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/08/01/PhoneGap-30-FAQ

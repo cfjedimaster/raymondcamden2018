@@ -2,7 +2,7 @@
 layout: post
 title: "Is it time to stop using ColdFusion for remote APIs?"
 date: "2015-09-04T16:55:13+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/09/04/is-it-time-to-stop-using-coldfusion-for-remote-apis

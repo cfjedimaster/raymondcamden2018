@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge hits 200!"
 date: "2007-04-26T18:04:00+06:00"
-categories: ColdFusion Development Flex 
+categories: coldfusion development flex 
 tags: 
 banner_image: 
 permalink: /2007/04/26/RIAForge-hits-200

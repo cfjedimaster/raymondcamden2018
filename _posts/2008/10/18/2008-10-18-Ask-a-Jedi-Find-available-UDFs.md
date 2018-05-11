@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Find available UDFs"
 date: "2008-10-18T12:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/18/Ask-a-Jedi-Find-available-UDFs

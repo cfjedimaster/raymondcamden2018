@@ -2,7 +2,7 @@
 layout: post
 title: "Settings cookies (with expiration, etc) in CFScript"
 date: "2010-06-17T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/17/Settings-cookies-with-expiration-etc-in-CFScript

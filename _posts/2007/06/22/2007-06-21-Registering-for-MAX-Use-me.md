@@ -2,7 +2,7 @@
 layout: post
 title: "Registering for MAX? Use me!"
 date: "2007-06-22T10:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/06/22/Registering-for-MAX-Use-me

@@ -2,7 +2,7 @@
 layout: post
 title: "Using AJAX with Model-Glue"
 date: "2006-08-22T07:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/22/Using-AJAX-with-ModelGlue

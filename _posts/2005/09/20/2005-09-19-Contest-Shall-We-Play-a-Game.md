@@ -2,7 +2,7 @@
 layout: post
 title: "Contest: Shall We Play a Game?"
 date: "2005-09-20T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/20/Contest-Shall-We-Play-a-Game

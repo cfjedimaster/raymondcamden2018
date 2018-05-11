@@ -2,7 +2,7 @@
 layout: post
 title: "Gotta Love that Typeless ColdFusion Goodness!"
 date: "2005-08-16T13:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/16/Gotta-Love-that-Typeless-ColdFusion-Goodness

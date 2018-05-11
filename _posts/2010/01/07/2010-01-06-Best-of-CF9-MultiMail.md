@@ -2,7 +2,7 @@
 layout: post
 title: "Best of CF9: MultiMail"
 date: "2010-01-07T08:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/07/Best-of-CF9-MultiMail

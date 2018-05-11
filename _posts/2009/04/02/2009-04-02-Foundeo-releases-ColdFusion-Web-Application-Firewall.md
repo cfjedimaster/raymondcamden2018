@@ -2,7 +2,7 @@
 layout: post
 title: "Foundeo releases ColdFusion Web Application Firewall"
 date: "2009-04-02T14:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/02/Foundeo-releases-ColdFusion-Web-Application-Firewall

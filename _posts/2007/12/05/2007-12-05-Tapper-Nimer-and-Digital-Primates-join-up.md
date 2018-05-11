@@ -2,7 +2,7 @@
 layout: post
 title: "Tapper, Nimer and Digital Primates join up"
 date: "2007-12-05T17:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/12/05/Tapper-Nimer-and-Digital-Primates-join-up

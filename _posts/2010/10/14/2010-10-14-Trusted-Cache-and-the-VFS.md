@@ -2,7 +2,7 @@
 layout: post
 title: "Trusted Cache and the VFS"
 date: "2010-10-14T13:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/14/Trusted-Cache-and-the-VFS

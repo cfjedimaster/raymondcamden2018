@@ -2,7 +2,7 @@
 layout: post
 title: "Uploading Files to an OpenWhisk Action"
 date: "2017-06-09T13:49:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/06/09/uploading-files-to-an-openwhisk-action

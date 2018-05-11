@@ -2,7 +2,7 @@
 layout: post
 title: "Louisiana - leading the country in cock fights"
 date: "2007-02-05T09:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/02/05/Louisiana-leading-the-country-in-cock-fights

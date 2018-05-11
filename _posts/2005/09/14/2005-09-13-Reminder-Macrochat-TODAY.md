@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - Macrochat TODAY!"
 date: "2005-09-14T09:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/14/Reminder-Macrochat-TODAY

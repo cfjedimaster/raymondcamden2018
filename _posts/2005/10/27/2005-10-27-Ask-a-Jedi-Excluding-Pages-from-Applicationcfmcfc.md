@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Excluding Pages from Application.cfm/cfc"
 date: "2005-10-27T18:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/27/Ask-a-Jedi-Excluding-Pages-from-Applicationcfmcfc

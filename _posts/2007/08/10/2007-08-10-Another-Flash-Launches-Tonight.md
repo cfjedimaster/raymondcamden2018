@@ -2,7 +2,7 @@
 layout: post
 title: "Another Flash Launches Tonight"
 date: "2007-08-10T17:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/08/10/Another-Flash-Launches-Tonight

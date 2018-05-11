@@ -2,7 +2,7 @@
 layout: post
 title: "Some quick tips for Passport"
 date: "2016-06-23T08:18:00-07:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: nodejs
 banner_image: 
 permalink: /2016/06/23/some-quick-tips-for-passport

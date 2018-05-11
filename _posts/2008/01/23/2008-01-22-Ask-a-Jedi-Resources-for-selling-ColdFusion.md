@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Resources for selling ColdFusion?"
 date: "2008-01-23T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/23/Ask-a-Jedi-Resources-for-selling-ColdFusion

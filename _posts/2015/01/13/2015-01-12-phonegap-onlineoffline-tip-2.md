@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap Online/Offline Tip (2)"
 date: "2015-01-13T09:32:16+06:00"
-categories: HTML5 JavaScript jQuery Mobile 
+categories: html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2015/01/13/phonegap-onlineoffline-tip-2

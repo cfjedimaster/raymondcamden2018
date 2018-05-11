@@ -2,7 +2,7 @@
 layout: post
 title: "A few simple (and harmless) ColdFusion mistakes"
 date: "2011-06-13T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/13/A-few-simple-and-harmless-ColdFusion-mistakes

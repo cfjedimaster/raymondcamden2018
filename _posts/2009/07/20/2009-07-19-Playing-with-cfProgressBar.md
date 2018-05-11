@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with cfProgressBar"
 date: "2009-07-20T10:07:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/07/20/Playing-with-cfProgressBar

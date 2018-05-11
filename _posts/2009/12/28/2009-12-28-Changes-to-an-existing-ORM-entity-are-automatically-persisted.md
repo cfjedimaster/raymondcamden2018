@@ -2,7 +2,7 @@
 layout: post
 title: "Changes to an existing ORM entity are automatically persisted."
 date: "2009-12-28T14:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/28/Changes-to-an-existing-ORM-entity-are-automatically-persisted

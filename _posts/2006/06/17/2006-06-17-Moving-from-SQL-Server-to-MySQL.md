@@ -2,7 +2,7 @@
 layout: post
 title: "Moving from SQL Server to MySQL"
 date: "2006-06-17T11:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/06/17/Moving-from-SQL-Server-to-MySQL

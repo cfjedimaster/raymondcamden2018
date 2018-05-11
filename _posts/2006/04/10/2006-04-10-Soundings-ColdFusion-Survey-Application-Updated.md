@@ -2,7 +2,7 @@
 layout: post
 title: "Soundings ColdFusion Survey Application Updated"
 date: "2006-04-10T19:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/10/Soundings-ColdFusion-Survey-Application-Updated

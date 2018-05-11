@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Dialog with jQuery UI (2)"
 date: "2009-02-02T10:02:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/02/02/Creating-a-Dialog-with-jQuery-UI-2

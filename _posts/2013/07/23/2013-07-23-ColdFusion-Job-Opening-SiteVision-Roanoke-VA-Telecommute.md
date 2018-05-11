@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - SiteVision - Roanoke, VA - Telecommute"
 date: "2013-07-23T22:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/07/23/ColdFusion-Job-Opening-SiteVision-Roanoke-VA-Telecommute

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdSpring Presentation (Warning - Rough Draft)"
 date: "2009-11-04T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/04/ColdSpring-Presentation-Warning-Rough-Draft

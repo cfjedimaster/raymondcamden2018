@@ -2,7 +2,7 @@
 layout: post
 title: "Mimicking fixNewLine in ColdFusion Script"
 date: "2014-02-10T11:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/02/10/Mimicking-fixNewLine-in-ColdFusion-Script

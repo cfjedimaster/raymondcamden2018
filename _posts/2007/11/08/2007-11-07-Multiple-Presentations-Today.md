@@ -2,7 +2,7 @@
 layout: post
 title: "Multiple Presentations Today"
 date: "2007-11-08T07:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/08/Multiple-Presentations-Today

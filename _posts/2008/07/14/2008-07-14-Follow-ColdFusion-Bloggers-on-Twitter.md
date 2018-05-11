@@ -2,7 +2,7 @@
 layout: post
 title: "Follow ColdFusion Bloggers on Twitter"
 date: "2008-07-14T16:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/14/Follow-ColdFusion-Bloggers-on-Twitter

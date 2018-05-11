@@ -2,7 +2,7 @@
 layout: post
 title: "Simple CFCHART/jQuery Demo"
 date: "2009-05-15T12:05:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2009/05/15/Simple-CFCHARTjQuery-Demo

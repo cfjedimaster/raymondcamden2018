@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Elder Scrolls IV: Oblivion"
 date: "2006-03-30T14:03:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2006/03/30/review-elder-scrolls-iv-oblivion

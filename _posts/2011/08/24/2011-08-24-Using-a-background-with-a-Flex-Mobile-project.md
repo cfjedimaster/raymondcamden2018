@@ -2,7 +2,7 @@
 layout: post
 title: "Using a background with a Flex Mobile project"
 date: "2011-08-24T13:08:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/08/24/Using-a-background-with-a-Flex-Mobile-project

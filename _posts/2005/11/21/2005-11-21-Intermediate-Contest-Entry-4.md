@@ -2,7 +2,7 @@
 layout: post
 title: "Intermediate Contest Entry 4"
 date: "2005-11-21T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/21/Intermediate-Contest-Entry-4

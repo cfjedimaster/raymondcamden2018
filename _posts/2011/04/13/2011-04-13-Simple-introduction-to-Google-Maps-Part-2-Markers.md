@@ -2,7 +2,7 @@
 layout: post
 title: "Simple introduction to Google Maps Part 2 - Markers"
 date: "2011-04-13T19:04:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/04/13/Simple-introduction-to-Google-Maps-Part-2-Markers

@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - BFusion and BFlex"
 date: "2008-08-21T18:08:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2008/08/21/Reminder-BFusion-and-BFlex

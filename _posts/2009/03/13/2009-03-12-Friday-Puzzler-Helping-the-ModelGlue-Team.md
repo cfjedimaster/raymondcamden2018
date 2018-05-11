@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler - Helping the Model-Glue Team"
 date: "2009-03-13T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/03/13/Friday-Puzzler-Helping-the-ModelGlue-Team

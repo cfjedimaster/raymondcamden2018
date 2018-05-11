@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: No cookie for you!"
 date: "2008-02-29T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/29/Ask-a-Jedi-No-cookie-for-you

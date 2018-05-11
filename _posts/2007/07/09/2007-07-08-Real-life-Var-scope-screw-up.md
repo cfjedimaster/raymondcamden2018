@@ -2,7 +2,7 @@
 layout: post
 title: "Real life Var scope screw up"
 date: "2007-07-09T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/09/Real-life-Var-scope-screw-up

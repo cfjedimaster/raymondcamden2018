@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC Beta Released"
 date: "2005-06-24T12:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/06/24/BlogCFC-Beta-Released

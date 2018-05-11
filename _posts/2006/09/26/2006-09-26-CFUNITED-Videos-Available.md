@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED Videos Available"
 date: "2006-09-26T14:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/26/CFUNITED-Videos-Available

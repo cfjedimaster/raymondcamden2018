@@ -2,7 +2,7 @@
 layout: post
 title: "Eclipse 3.2, RDS, and OSX"
 date: "2007-01-14T14:01:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2007/01/14/Eclipse-32-RDS-and-OSX

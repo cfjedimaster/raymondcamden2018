@@ -2,7 +2,7 @@
 layout: post
 title: "Video on ColdFusion Builder 2 Extension Enhancements"
 date: "2011-03-04T04:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/03/04/Video-on-ColdFusion-Builder-2-Extension-Enhancements

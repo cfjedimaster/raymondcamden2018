@@ -2,7 +2,7 @@
 layout: post
 title: "Updating my CanIUse Mashup with LocalStorage"
 date: "2012-09-12T22:09:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/09/12/Updating-my-CanIUse-Mashup-with-LocalStorage

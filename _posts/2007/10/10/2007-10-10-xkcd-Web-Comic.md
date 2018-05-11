@@ -2,7 +2,7 @@
 layout: post
 title: "xkcd - Web Comic"
 date: "2007-10-10T12:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/10/xkcd-Web-Comic

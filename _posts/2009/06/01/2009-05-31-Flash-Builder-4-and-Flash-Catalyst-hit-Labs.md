@@ -2,7 +2,7 @@
 layout: post
 title: "Flash Builder 4 and Flash Catalyst hit Labs"
 date: "2009-06-01T02:06:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2009/06/01/Flash-Builder-4-and-Flash-Catalyst-hit-Labs

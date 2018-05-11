@@ -2,7 +2,7 @@
 layout: post
 title: "Issue with callback URLs and ColdFusion Builder 2 Extensions"
 date: "2011-04-24T22:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/04/24/Issue-with-callback-URLs-and-ColdFusion-Builder-2-Extensions

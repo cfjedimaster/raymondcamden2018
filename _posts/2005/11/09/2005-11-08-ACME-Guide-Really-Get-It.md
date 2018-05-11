@@ -2,7 +2,7 @@
 layout: post
 title: "ACME Guide - Really - Get It"
 date: "2005-11-09T08:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/09/ACME-Guide-Really-Get-It

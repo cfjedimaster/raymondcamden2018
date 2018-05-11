@@ -2,7 +2,7 @@
 layout: post
 title: "Topic Undefined - Episode 6"
 date: "2013-10-25T15:10:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/10/25/Topic-Undefined-Episode-6

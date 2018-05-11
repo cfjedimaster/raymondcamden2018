@@ -2,7 +2,7 @@
 layout: post
 title: "Open Question: Women speakers at conferences?"
 date: "2009-03-05T17:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/03/05/Open-Question-Women-speakers-at-conferences

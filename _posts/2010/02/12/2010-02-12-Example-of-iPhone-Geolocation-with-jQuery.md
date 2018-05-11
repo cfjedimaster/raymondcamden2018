@@ -2,7 +2,7 @@
 layout: post
 title: "Example of iPhone Geolocation with jQuery"
 date: "2010-02-12T17:02:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2010/02/12/Example-of-iPhone-Geolocation-with-jQuery

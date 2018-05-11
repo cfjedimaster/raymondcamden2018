@@ -2,7 +2,7 @@
 layout: post
 title: "Video demo of GoogleGeocode"
 date: "2010-03-20T14:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/20/Video-demo-of-GoogleGeocode

@@ -2,7 +2,7 @@
 layout: post
 title: "Some tips for working with Data Import Handlers in ColdFusion 10"
 date: "2012-11-01T18:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/11/01/Some-tips-for-working-with-Data-Import-Handlers-in-ColdFusion-10

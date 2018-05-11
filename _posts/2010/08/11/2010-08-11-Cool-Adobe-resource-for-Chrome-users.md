@@ -2,7 +2,7 @@
 layout: post
 title: "Cool Adobe resource for Chrome users"
 date: "2010-08-11T22:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/08/11/Cool-Adobe-resource-for-Chrome-users

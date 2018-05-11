@@ -2,7 +2,7 @@
 layout: post
 title: "Changes to defaults in ColdFusion 10"
 date: "2012-02-26T15:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/02/26/Changes-to-defaults-in-ColdFusion-10

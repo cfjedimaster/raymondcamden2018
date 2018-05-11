@@ -2,7 +2,7 @@
 layout: post
 title: "On the way to New York (almost)"
 date: "2007-03-07T09:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/07/On-the-way-to-New-York-almost

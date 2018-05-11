@@ -2,7 +2,7 @@
 layout: post
 title: "Cool feature in CFPRESENTATION"
 date: "2007-08-29T07:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/29/Cool-feature-in-CFPRESENTATION

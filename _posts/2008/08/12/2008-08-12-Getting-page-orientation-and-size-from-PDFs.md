@@ -2,7 +2,7 @@
 layout: post
 title: "Getting page orientation and size from PDFs"
 date: "2008-08-12T23:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/12/Getting-page-orientation-and-size-from-PDFs

@@ -2,7 +2,7 @@
 layout: post
 title: "New Chrome Extension: Diablo 3 Server Checker"
 date: "2012-06-07T12:06:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2012/06/07/New-Chrome-Extension-Diablo-3-Server-Checker

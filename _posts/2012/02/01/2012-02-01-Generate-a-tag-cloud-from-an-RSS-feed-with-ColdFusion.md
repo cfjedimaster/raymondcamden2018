@@ -2,7 +2,7 @@
 layout: post
 title: "Generate a tag cloud from an RSS feed with ColdFusion"
 date: "2012-02-01T16:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/02/01/Generate-a-tag-cloud-from-an-RSS-feed-with-ColdFusion

@@ -2,7 +2,7 @@
 layout: post
 title: "Recording and Slides from SQLite presentation"
 date: "2010-06-11T08:06:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2010/06/11/Recording-and-Slides-from-SQLite-presentation

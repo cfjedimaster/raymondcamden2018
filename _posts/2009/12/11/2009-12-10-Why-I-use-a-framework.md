@@ -2,7 +2,7 @@
 layout: post
 title: "Why I use a framework..."
 date: "2009-12-11T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/11/Why-I-use-a-framework

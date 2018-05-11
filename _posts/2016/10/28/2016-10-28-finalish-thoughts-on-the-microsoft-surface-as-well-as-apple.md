@@ -2,7 +2,7 @@
 layout: post
 title: "Final(ish) Thoughts on the Microsoft Surface (as well as Apple)"
 date: "2016-10-28T09:27:00-07:00"
-categories: Development 
+categories: development 
 tags: windows
 banner_image: /images/banners/windowsfield.jpg
 permalink: /2016/10/28/finalish-thoughts-on-the-microsoft-surface-as-well-as-apple

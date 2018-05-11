@@ -2,7 +2,7 @@
 layout: post
 title: "E-Seminar on Tuesday - RIAForge"
 date: "2012-01-09T09:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/01/09/ESeminar-on-Tuesday-RIAForge

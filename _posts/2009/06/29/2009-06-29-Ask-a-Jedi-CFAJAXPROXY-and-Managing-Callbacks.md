@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: CFAJAXPROXY and Managing Callbacks"
 date: "2009-06-29T22:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/29/Ask-a-Jedi-CFAJAXPROXY-and-Managing-Callbacks

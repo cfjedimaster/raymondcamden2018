@@ -2,7 +2,7 @@
 layout: post
 title: "Note to self about Server-Sent Events"
 date: "2011-08-29T11:08:00+06:00"
-categories: ColdFusion HTML5 
+categories: coldfusion html5 
 tags: 
 banner_image: 
 permalink: /2011/08/29/Note-to-self-about-ServerSent-Events

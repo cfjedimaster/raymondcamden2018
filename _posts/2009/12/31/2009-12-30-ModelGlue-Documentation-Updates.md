@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue Documentation Updates"
 date: "2009-12-31T11:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/31/ModelGlue-Documentation-Updates

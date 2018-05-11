@@ -2,7 +2,7 @@
 layout: post
 title: "Linking dynamic content to Wikipedia"
 date: "2010-06-01T09:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/01/Linking-dynamic-content-to-Wikipedia

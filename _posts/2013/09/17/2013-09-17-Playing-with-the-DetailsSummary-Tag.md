@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with the Details/Summary Tag"
 date: "2013-09-17T22:09:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/09/17/Playing-with-the-DetailsSummary-Tag

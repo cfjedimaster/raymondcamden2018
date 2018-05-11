@@ -2,7 +2,7 @@
 layout: post
 title: "Quick test post"
 date: "2007-10-25T23:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/25/Quick-test-post

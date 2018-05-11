@@ -2,7 +2,7 @@
 layout: post
 title: "Transfer Presentation, Files, Recording URL"
 date: "2009-05-07T16:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/07/Transfer-Presentation-Files-Recording-URL

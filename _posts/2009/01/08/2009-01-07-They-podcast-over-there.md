@@ -2,7 +2,7 @@
 layout: post
 title: "They podcast over there"
 date: "2009-01-08T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/08/They-podcast-over-there

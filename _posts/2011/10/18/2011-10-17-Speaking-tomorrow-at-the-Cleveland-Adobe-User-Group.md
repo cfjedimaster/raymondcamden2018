@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking tomorrow at the Cleveland Adobe User Group"
 date: "2011-10-18T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/10/18/Speaking-tomorrow-at-the-Cleveland-Adobe-User-Group

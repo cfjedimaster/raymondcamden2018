@@ -2,7 +2,7 @@
 layout: post
 title: "Self Defense in High School"
 date: "2006-07-10T10:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/10/Self-Defense-in-High-School

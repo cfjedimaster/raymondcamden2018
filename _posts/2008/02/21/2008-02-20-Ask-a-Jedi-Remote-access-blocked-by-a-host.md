@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Remote access blocked by a host?"
 date: "2008-02-21T07:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/21/Ask-a-Jedi-Remote-access-blocked-by-a-host

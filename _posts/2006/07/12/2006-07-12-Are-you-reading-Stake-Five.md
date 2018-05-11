@@ -2,7 +2,7 @@
 layout: post
 title: "Are you reading Stake Five?"
 date: "2006-07-12T11:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/12/Are-you-reading-Stake-Five

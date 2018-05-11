@@ -2,7 +2,7 @@
 layout: post
 title: "CFLib moves to Node.js"
 date: "2015-01-05T16:04:22+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2015/01/05/cflib-moves-to-node-js

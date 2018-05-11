@@ -2,7 +2,7 @@
 layout: post
 title: "An Example of an OpenWhisk Sequence"
 date: "2017-01-06T12:50:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/01/06/an-example-of-an-openwhisk-sequence

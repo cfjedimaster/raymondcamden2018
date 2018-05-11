@@ -2,7 +2,7 @@
 layout: post
 title: "Ajax Image Uploads (with Previews)"
 date: "2010-03-08T17:03:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/03/08/Ajax-Image-Uploads-with-Previews

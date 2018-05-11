@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Internationalization/Localization Support to Web Applications"
 date: "2012-02-15T12:02:00+06:00"
-categories: Development HTML5 JavaScript jQuery 
+categories: development html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/02/15/Adding-InternationalizationLocalization-Support-to-Web-Applications

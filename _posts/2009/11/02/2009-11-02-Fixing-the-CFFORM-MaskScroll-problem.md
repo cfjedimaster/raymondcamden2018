@@ -2,7 +2,7 @@
 layout: post
 title: "Fixing the CFFORM Mask/Scroll problem"
 date: "2009-11-02T18:11:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2009/11/02/Fixing-the-CFFORM-MaskScroll-problem

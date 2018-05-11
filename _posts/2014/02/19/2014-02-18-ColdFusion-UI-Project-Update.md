@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion UI Project Update"
 date: "2014-02-19T08:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/02/19/ColdFusion-UI-Project-Update

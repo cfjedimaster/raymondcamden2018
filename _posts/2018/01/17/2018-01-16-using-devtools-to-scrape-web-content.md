@@ -2,7 +2,7 @@
 layout: post
 title: "Using DevTools to Scrape Web Content"
 date: "2018-01-17"
-categories: Development 
+categories: development 
 tags: javascript
 banner_image: 
 permalink: /2018/01/17/using-devtools-to-scrape-web-content

@@ -2,7 +2,7 @@
 layout: post
 title: "Using Topcoat and Brackets? Check out these Snippets"
 date: "2013-08-16T16:08:00+06:00"
-categories: Design Development HTML5 
+categories: design development html5 
 tags: 
 banner_image: 
 permalink: /2013/08/16/Using-Topcoat-and-Brackets-Check-out-these-Snippets

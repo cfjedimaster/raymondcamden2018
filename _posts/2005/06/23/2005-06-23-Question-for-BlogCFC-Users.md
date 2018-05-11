@@ -2,7 +2,7 @@
 layout: post
 title: "Question for BlogCFC Users"
 date: "2005-06-23T17:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/06/23/Question-for-BlogCFC-Users

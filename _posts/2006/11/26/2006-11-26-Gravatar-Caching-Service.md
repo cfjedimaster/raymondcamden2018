@@ -2,7 +2,7 @@
 layout: post
 title: "Gravatar Caching Service"
 date: "2006-11-26T13:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/26/Gravatar-Caching-Service

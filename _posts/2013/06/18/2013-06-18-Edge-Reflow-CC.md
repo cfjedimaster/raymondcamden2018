@@ -2,7 +2,7 @@
 layout: post
 title: "Edge Reflow CC"
 date: "2013-06-18T17:06:00+06:00"
-categories: Design HTML5 Mobile 
+categories: design html5 mobile 
 tags: 
 banner_image: 
 permalink: /2013/06/18/Edge-Reflow-CC

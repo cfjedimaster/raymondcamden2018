@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 Autosuggest bug to watch out for"
 date: "2008-11-03T10:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/03/ColdFusion-8-Autosuggest-bug-to-watch-out-for

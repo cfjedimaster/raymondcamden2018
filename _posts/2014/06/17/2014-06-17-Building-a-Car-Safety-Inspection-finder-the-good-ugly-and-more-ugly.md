@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Car Safety Inspection Finder (the good, ugly, and more ugly)"
 date: "2014-06-17T20:06:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2014/06/17/Building-a-Car-Safety-Inspection-finder-the-good-ugly-and-more-ugly

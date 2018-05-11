@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Edge Reflow - Preview 7"
 date: "2014-01-15T07:01:00+06:00"
-categories: Design Development Mobile 
+categories: design development mobile 
 tags: 
 banner_image: 
 permalink: /2014/01/15/Adobe-Edge-Reflow-Preview-7

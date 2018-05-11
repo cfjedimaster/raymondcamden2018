@@ -2,7 +2,7 @@
 layout: post
 title: "Sorry for not responding..."
 date: "2015-05-14T06:51:46+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2015/05/14/sorry-for-not-responding

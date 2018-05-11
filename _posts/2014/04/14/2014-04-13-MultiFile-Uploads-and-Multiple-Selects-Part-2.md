@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-File Uploads and Multiple Selects (Part 2)"
 date: "2014-04-14T10:04:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2014/04/14/MultiFile-Uploads-and-Multiple-Selects-Part-2

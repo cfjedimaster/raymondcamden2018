@@ -2,7 +2,7 @@
 layout: post
 title: "Lost for May 9 - \"His name is Jacob\""
 date: "2007-05-10T00:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/05/09/Lost-for-May-9-His-name-is-Jacob

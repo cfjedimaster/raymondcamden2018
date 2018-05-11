@@ -2,7 +2,7 @@
 layout: post
 title: "iPhone Simulator? Try the SDK"
 date: "2008-10-01T10:10:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/10/01/iPhone-Simulator-Try-the-SDK

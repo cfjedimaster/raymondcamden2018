@@ -2,7 +2,7 @@
 layout: post
 title: "Using a CFC to drive content to cftooltip"
 date: "2008-08-26T11:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/26/Using-a-CFC-to-drive-content-to-cftooltip

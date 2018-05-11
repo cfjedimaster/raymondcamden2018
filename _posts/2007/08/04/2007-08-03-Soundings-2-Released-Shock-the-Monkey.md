@@ -2,7 +2,7 @@
 layout: post
 title: "Soundings 2 Released - Shock the Monkey"
 date: "2007-08-04T02:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/04/Soundings-2-Released-Shock-the-Monkey

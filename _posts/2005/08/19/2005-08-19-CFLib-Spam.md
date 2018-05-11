@@ -2,7 +2,7 @@
 layout: post
 title: "CFLib Spam"
 date: "2005-08-19T15:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/19/CFLib-Spam

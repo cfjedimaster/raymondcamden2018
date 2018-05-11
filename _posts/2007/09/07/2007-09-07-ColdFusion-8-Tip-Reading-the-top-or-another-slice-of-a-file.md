@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 Tip - Reading the top (or another slice) of a file"
 date: "2007-09-07T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/07/ColdFusion-8-Tip-Reading-the-top-or-another-slice-of-a-file

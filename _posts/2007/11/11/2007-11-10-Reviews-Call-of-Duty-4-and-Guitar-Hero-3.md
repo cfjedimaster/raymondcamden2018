@@ -2,7 +2,7 @@
 layout: post
 title: "Reviews: Call of Duty 4 and Guitar Hero 3"
 date: "2007-11-11T10:11:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2007/11/11/Reviews-Call-of-Duty-4-and-Guitar-Hero-3

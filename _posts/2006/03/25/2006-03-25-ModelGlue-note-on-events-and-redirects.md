@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue note on events and redirects"
 date: "2006-03-25T21:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/03/25/ModelGlue-note-on-events-and-redirects

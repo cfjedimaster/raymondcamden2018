@@ -2,7 +2,7 @@
 layout: post
 title: "Yet another Cordova/PhoneGap Debugging Tip"
 date: "2014-07-15T11:07:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/07/15/Yet-another-CordovaPhoneGap-Debugging-Tip

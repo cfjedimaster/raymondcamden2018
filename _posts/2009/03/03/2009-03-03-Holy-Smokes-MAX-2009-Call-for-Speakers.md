@@ -2,7 +2,7 @@
 layout: post
 title: "Holy Smokes - MAX 2009 Call for Speakers"
 date: "2009-03-03T19:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/03/03/Holy-Smokes-MAX-2009-Call-for-Speakers

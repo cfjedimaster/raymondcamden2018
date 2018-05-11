@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome Blog Herald Readers, and Ask a Jedi Status"
 date: "2005-09-02T09:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/02/Welcome-Blog-Herald-Readers-and-Ask-a-Jedi-Status

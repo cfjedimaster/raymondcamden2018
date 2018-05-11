@@ -2,7 +2,7 @@
 layout: post
 title: "Another OS X Question"
 date: "2007-11-07T15:11:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/11/07/Another-OS-X-Question

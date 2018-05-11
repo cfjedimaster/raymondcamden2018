@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Developer Week Recordings"
 date: "2012-06-11T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/06/11/ColdFusion-Developer-Week-Recordings

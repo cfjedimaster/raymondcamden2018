@@ -2,7 +2,7 @@
 layout: post
 title: "Centering a map when you don't know where to center it"
 date: "2010-10-03T00:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/02/Centering-a-map-when-you-dont-know-where-to-center-it

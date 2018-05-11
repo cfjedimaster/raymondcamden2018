@@ -2,7 +2,7 @@
 layout: post
 title: "CSS Regions and Edge Tooling"
 date: "2013-09-24T16:09:00+06:00"
-categories: Design Development HTML5 Mobile 
+categories: design development html5 mobile 
 tags: 
 banner_image: 
 permalink: /2013/09/24/CSS-Regions-and-Edge-Tooling

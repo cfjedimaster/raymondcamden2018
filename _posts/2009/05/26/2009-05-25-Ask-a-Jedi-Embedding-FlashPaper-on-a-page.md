@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Embedding FlashPaper on a page"
 date: "2009-05-26T08:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/26/Ask-a-Jedi-Embedding-FlashPaper-on-a-page

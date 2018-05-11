@@ -2,7 +2,7 @@
 layout: post
 title: "Building an HTML based Apollo Application"
 date: "2007-03-29T10:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/29/Building-an-HTML-based-Apollo-Application

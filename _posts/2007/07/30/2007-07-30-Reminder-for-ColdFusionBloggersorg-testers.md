@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder for ColdFusionBloggers.org testers"
 date: "2007-07-30T13:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/07/30/Reminder-for-ColdFusionBloggersorg-testers

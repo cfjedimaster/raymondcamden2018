@@ -2,7 +2,7 @@
 layout: post
 title: "Using Device Motion on the Web"
 date: "2017-04-25T16:30:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2017/04/25/using-device-motion-on-the-web

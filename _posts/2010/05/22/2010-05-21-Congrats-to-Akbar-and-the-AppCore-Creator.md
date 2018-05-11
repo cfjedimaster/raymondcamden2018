@@ -2,7 +2,7 @@
 layout: post
 title: "Congrats to Akbar and the AppCore Creator"
 date: "2010-05-22T10:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/05/22/Congrats-to-Akbar-and-the-AppCore-Creator

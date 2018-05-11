@@ -2,7 +2,7 @@
 layout: post
 title: "The new 3.5 JDBC Drivers and ColdFusion"
 date: "2006-08-08T11:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/08/The-new-35-JDBC-Drivers-and-ColdFusion

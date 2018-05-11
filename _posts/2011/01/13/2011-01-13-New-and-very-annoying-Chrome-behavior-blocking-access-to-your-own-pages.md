@@ -2,7 +2,7 @@
 layout: post
 title: "New (and very annoying) Chrome behavior - blocking access to your own pages"
 date: "2011-01-13T17:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/01/13/New-and-very-annoying-Chrome-behavior-blocking-access-to-your-own-pages

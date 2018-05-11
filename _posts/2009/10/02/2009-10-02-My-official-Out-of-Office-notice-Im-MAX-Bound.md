@@ -2,7 +2,7 @@
 layout: post
 title: "My official Out of Office notice - I'm MAX Bound"
 date: "2009-10-02T18:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/10/02/My-official-Out-of-Office-notice-Im-MAX-Bound

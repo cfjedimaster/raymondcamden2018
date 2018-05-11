@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Encrypting ColdFusion Templates"
 date: "2005-12-16T16:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/16/Ask-a-Jedi-Encrypting-ColdFusion-Templates

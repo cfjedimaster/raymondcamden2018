@@ -2,7 +2,7 @@
 layout: post
 title: "My New Years Resolutions"
 date: "2009-01-01T12:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/01/01/My-New-Years-Resolutions

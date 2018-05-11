@@ -2,7 +2,7 @@
 layout: post
 title: "And so it begins - first MAX Announcements"
 date: "2008-11-17T09:11:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2008/11/17/And-so-it-begins-first-MAX-Announcements

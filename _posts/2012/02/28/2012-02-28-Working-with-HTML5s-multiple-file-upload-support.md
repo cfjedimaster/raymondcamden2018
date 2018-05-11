@@ -2,7 +2,7 @@
 layout: post
 title: "Working with HTML5's multiple file upload support"
 date: "2012-02-28T16:02:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2012/02/28/Working-with-HTML5s-multiple-file-upload-support

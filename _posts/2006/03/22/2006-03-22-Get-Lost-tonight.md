@@ -2,7 +2,7 @@
 layout: post
 title: "Get \"Lost\" Tonight"
 date: "2006-03-22T17:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/03/22/Get-Lost-tonight

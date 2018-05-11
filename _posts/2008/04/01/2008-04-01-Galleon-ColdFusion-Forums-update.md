@@ -2,7 +2,7 @@
 layout: post
 title: "Galleon ColdFusion Forums update"
 date: "2008-04-01T18:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/01/Galleon-ColdFusion-Forums-update

@@ -2,7 +2,7 @@
 layout: post
 title: "Don't forget that CFCONTENT tag when working with Spry"
 date: "2007-08-06T13:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/06/Dont-forget-that-CFCONTENT-tag-when-working-with-Spry

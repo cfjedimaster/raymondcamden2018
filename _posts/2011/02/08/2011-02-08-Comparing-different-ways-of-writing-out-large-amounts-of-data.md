@@ -2,7 +2,7 @@
 layout: post
 title: "Comparing different ways of writing out large amounts of data"
 date: "2011-02-08T22:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/02/08/Comparing-different-ways-of-writing-out-large-amounts-of-data

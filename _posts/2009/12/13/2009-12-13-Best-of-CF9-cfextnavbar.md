@@ -2,7 +2,7 @@
 layout: post
 title: "Best of CF9: cf_ext_navbar"
 date: "2009-12-13T21:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/13/Best-of-CF9-cfextnavbar

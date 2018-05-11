@@ -2,7 +2,7 @@
 layout: post
 title: "Handling broken images in Flex 2"
 date: "2006-11-21T16:11:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/11/21/Handling-broken-images-in-Flex-2

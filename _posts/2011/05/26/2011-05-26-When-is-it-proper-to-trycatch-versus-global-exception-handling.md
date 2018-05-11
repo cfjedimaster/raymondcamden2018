@@ -2,7 +2,7 @@
 layout: post
 title: "When is it proper to try/catch versus global exception handling?"
 date: "2011-05-26T19:05:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2011/05/26/When-is-it-proper-to-trycatch-versus-global-exception-handling

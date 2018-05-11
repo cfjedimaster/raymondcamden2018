@@ -2,7 +2,7 @@
 layout: post
 title: "More new ColdFusion 8 Goodness"
 date: "2007-03-22T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/22/More-new-ColdFusion-8-Goodness

@@ -2,7 +2,7 @@
 layout: post
 title: "RSSWatcher Down..."
 date: "2006-11-29T17:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/29/RSSWatcher-Down

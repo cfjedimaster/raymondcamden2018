@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion UI The Right Way - HTML version"
 date: "2014-06-19T10:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/06/19/ColdFusion-UI-The-Right-Way-HTML-version

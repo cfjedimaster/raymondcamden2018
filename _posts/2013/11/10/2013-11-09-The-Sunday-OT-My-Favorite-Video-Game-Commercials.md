@@ -2,7 +2,7 @@
 layout: post
 title: "The Sunday OT: My Favorite Video Game Commercials"
 date: "2013-11-10T08:11:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2013/11/10/The-Sunday-OT-My-Favorite-Video-Game-Commercials

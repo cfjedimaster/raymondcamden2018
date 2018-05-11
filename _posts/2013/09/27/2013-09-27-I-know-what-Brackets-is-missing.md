@@ -2,7 +2,7 @@
 layout: post
 title: "I know what Brackets is missing..."
 date: "2013-09-27T17:09:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/09/27/I-know-what-Brackets-is-missing

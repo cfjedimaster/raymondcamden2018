@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: AJAX UI Vertical and Horizontal Boxes"
 date: "2007-06-08T22:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/08/ColdFusion-8-AJAX-UI-Vertical-and-Horizontal-Boxes

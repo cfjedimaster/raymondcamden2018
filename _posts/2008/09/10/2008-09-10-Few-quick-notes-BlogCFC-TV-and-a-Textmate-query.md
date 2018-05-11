@@ -2,7 +2,7 @@
 layout: post
 title: "Few quick notes (BlogCFC, TV, and a Textmate query)"
 date: "2008-09-10T22:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/09/10/Few-quick-notes-BlogCFC-TV-and-a-Textmate-query

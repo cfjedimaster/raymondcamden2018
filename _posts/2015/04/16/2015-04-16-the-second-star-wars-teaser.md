@@ -2,7 +2,7 @@
 layout: post
 title: "The Second Star Wars Teaser"
 date: "2015-04-16T16:04:32+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2015/04/16/the-second-star-wars-teaser

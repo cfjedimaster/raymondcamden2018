@@ -2,7 +2,7 @@
 layout: post
 title: "Web Development Tip - Always provide directions..."
 date: "2007-09-10T11:09:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/09/10/Web-Development-Tip-Always-provide-directions

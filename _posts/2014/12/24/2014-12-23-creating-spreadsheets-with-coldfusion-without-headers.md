@@ -2,7 +2,7 @@
 layout: post
 title: "Creating Spreadsheets with ColdFusion without headers"
 date: "2014-12-24T06:27:22+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/12/24/creating-spreadsheets-with-coldfusion-without-headers

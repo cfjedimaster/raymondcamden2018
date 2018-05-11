@@ -2,7 +2,7 @@
 layout: post
 title: "Can't run ColdFusion Builder 3 on OS X? Read This."
 date: "2015-02-03T15:08:50+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/02/03/cant-run-coldfusion-builder-3-on-osx-read-this

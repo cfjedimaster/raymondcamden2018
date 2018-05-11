@@ -2,7 +2,7 @@
 layout: post
 title: "An Introduction to Webtask"
 date: "2018-02-27"
-categories: Serverless 
+categories: serverless 
 tags: webtask
 banner_image: /images/banners/webtask1.jpg
 permalink: /2018/02/27/an-introduction-to-webtask

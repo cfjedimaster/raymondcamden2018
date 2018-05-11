@@ -2,7 +2,7 @@
 layout: post
 title: "\"Table View\" Extension for ColdFusion Builder"
 date: "2014-04-25T19:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/04/25/Table-View-Extension-for-ColdFusion-Builder

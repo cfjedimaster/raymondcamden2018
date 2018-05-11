@@ -2,7 +2,7 @@
 layout: post
 title: "Good use of PDF"
 date: "2006-06-12T23:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/06/12/Good-use-of-PDF

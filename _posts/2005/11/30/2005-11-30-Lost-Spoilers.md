@@ -2,7 +2,7 @@
 layout: post
 title: "Lost Spoilers"
 date: "2005-11-30T15:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/11/30/Lost-Spoilers

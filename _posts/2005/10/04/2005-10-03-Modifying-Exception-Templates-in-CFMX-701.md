@@ -2,7 +2,7 @@
 layout: post
 title: "Modifying Exception Templates in CFMX 7.0.1"
 date: "2005-10-04T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/04/Modifying-Exception-Templates-in-CFMX-701

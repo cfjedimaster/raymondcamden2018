@@ -2,7 +2,7 @@
 layout: post
 title: "Frameworks Conference: Leveraging ColdSpring To Make Better Applications - Kurt Wiersma"
 date: "2007-02-02T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/02/Frameworks-Conference-Leveraging-ColdSpring-To-Make-Better-Applications-Kurt-Wiersma

@@ -2,7 +2,7 @@
 layout: post
 title: "(Yet Another) Minor BlogCFC Update"
 date: "2005-12-20T14:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/20/Yet-Another-Minor-BlogCFC-Update

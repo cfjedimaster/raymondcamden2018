@@ -2,7 +2,7 @@
 layout: post
 title: "CFC Flex Explorer"
 date: "2006-11-06T11:11:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2006/11/06/CFC-Flex-Explorer

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Emailing CFCHART"
 date: "2009-01-14T23:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/14/Ask-a-Jedi-Emailing-CFCHART

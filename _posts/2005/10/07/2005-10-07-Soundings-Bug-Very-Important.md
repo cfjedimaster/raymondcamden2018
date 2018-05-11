@@ -2,7 +2,7 @@
 layout: post
 title: "Soundings Bug - Very Important!"
 date: "2005-10-07T17:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/07/Soundings-Bug-Very-Important

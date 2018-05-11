@@ -2,7 +2,7 @@
 layout: post
 title: "How does RIAForge support the project URLs?"
 date: "2007-02-20T22:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/20/How-does-RIAForge-support-the-project-URLs

@@ -2,7 +2,7 @@
 layout: post
 title: "Need ColdFire testers"
 date: "2007-03-20T09:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/20/Need-ColdFire-testers

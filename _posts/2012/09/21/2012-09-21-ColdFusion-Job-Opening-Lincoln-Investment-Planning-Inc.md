@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - Lincoln Investment Planning, Inc"
 date: "2012-09-21T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/09/21/ColdFusion-Job-Opening-Lincoln-Investment-Planning-Inc

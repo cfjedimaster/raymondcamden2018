@@ -2,7 +2,7 @@
 layout: post
 title: "Sample of IndexedDB with Autogenerating Keys"
 date: "2012-04-26T11:04:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/04/26/Sample-of-IndexedDB-with-Autogenerating-Keys

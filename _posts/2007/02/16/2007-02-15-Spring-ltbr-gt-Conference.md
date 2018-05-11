@@ -2,7 +2,7 @@
 layout: post
 title: "Spring <br /> Conference"
 date: "2007-02-16T06:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/02/16/Spring-ltbr-gt-Conference

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Apache Virtual Hosts and Remoting"
 date: "2005-10-23T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/23/Ask-a-Jedi-Apache-Virtual-Hosts-and-Remoting

@@ -2,7 +2,7 @@
 layout: post
 title: "Custom grid renderers with CFGRID"
 date: "2007-08-20T14:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/20/Custom-grid-renderers-with-CFGRID

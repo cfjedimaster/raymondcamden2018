@@ -2,7 +2,7 @@
 layout: post
 title: "A few presentation tips"
 date: "2006-06-29T09:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/06/29/A-few-presentation-tips

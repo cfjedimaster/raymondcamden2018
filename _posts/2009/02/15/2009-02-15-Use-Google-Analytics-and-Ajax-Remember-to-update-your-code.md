@@ -2,7 +2,7 @@
 layout: post
 title: "Use Google Analytics and Ajax? Remember to update your code"
 date: "2009-02-15T14:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/02/15/Use-Google-Analytics-and-Ajax-Remember-to-update-your-code

@@ -2,7 +2,7 @@
 layout: post
 title: "A Thank You To My Supporters"
 date: "2005-09-29T16:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/29/A-Thank-You-To-My-Supporters

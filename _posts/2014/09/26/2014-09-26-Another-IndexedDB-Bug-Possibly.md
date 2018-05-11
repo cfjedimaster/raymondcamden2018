@@ -2,7 +2,7 @@
 layout: post
 title: "Another IndexedDB Bug - Possibly"
 date: "2014-09-26T11:09:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2014/09/26/Another-IndexedDB-Bug-Possibly

@@ -2,7 +2,7 @@
 layout: post
 title: "My Cordova/PhoneGap Developer Setup (Fall 2014)"
 date: "2014-12-08T10:56:19+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/12/08/my-cordovaphonegap-developer-setup-fall-2014

@@ -2,7 +2,7 @@
 layout: post
 title: "CodeCanyon and ColdFusion"
 date: "2014-03-14T12:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/03/14/CodeCanyon-and-ColdFusion

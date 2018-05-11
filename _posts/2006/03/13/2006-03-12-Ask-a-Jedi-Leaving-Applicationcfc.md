@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Leaving Application.cfc"
 date: "2006-03-13T06:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/03/13/Ask-a-Jedi-Leaving-Applicationcfc

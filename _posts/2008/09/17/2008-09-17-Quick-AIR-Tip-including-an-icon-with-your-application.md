@@ -2,7 +2,7 @@
 layout: post
 title: "Quick AIR Tip - including an icon with your application"
 date: "2008-09-17T16:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/09/17/Quick-AIR-Tip-including-an-icon-with-your-application

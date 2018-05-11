@@ -2,7 +2,7 @@
 layout: post
 title: "toXML Component Updated"
 date: "2007-04-30T14:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/30/toXML-Component-Updated

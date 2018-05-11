@@ -2,7 +2,7 @@
 layout: post
 title: "LoopBack 3.0 Released"
 date: "2016-12-21T09:55:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: nodejs loopback
 banner_image: /images/banners/loopbak.jpg
 permalink: /2016/12/21/loopback-30-released

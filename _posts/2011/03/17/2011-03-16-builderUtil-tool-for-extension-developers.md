@@ -2,7 +2,7 @@
 layout: post
 title: "builderUtil - tool for extension developers"
 date: "2011-03-17T10:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/03/17/builderUtil-tool-for-extension-developers

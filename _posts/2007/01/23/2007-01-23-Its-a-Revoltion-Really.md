@@ -2,7 +2,7 @@
 layout: post
 title: "It's a Revolution, Really!"
 date: "2007-01-23T23:01:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2007/01/23/Its-a-Revoltion-Really

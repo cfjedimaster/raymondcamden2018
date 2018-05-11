@@ -2,7 +2,7 @@
 layout: post
 title: "Galleon 2 ready for testing (Release Candidate)"
 date: "2007-09-26T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/26/Galleon-2-ready-for-testing-Release-Candidate

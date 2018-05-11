@@ -2,7 +2,7 @@
 layout: post
 title: "My obligatory \"Off to MAX\" Post"
 date: "2007-09-29T12:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/09/29/My-obligatory-Off-to-MAX-Post

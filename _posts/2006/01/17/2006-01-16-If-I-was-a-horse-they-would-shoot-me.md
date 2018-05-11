@@ -2,7 +2,7 @@
 layout: post
 title: "If I was a horse, they would shoot me..."
 date: "2006-01-17T07:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/01/17/If-I-was-a-horse-they-would-shoot-me

@@ -2,7 +2,7 @@
 layout: post
 title: "A use for structFind!"
 date: "2007-09-20T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/20/A-use-for-structFind

@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday OT - Video Game Reviews"
 date: "2014-07-06T12:07:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2014/07/06/Sunday-OT-Video-Game-Reviews

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Understanding Dereferencing Bug"
 date: "2005-10-21T08:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/21/Ask-a-Jedi-Understanding-Dereferencing-Bug

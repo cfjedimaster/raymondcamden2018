@@ -2,7 +2,7 @@
 layout: post
 title: "Got ColdFire?"
 date: "2009-05-11T14:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/11/Got-ColdFire

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi followup - updating multiple records at once"
 date: "2009-09-28T14:09:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/09/28/Ask-a-Jedi-followup-updating-multiple-records-at-once

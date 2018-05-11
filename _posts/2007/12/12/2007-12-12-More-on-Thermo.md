@@ -2,7 +2,7 @@
 layout: post
 title: "More on Thermo"
 date: "2007-12-12T15:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/12/12/More-on-Thermo

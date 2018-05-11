@@ -2,7 +2,7 @@
 layout: post
 title: "Custom columns in Spry"
 date: "2006-12-27T10:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/27/Custom-columns-in-Spry

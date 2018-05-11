@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile Quick Start and new jQuery class"
 date: "2011-06-29T14:06:00+06:00"
-categories: jQuery Mobile 
+categories: jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/06/29/jQuery-Mobile-Quick-Start-and-new-jQuery-class

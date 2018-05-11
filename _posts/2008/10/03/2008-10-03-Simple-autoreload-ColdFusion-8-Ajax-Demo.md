@@ -2,7 +2,7 @@
 layout: post
 title: "Simple auto-reload ColdFusion 8 Ajax Demo"
 date: "2008-10-03T15:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/03/Simple-autoreload-ColdFusion-8-Ajax-Demo

@@ -2,8 +2,8 @@
 layout: post
 title: "Advent of Code - Day 9 to 12"
 date: "2016-12-13T06:26:00-07:00"
-categories: Development 
-tags: Advent of Code JavaScript
+categories: development 
+tags: advent of code javascript
 banner_image: 
 permalink: /2016/12/13/advent-of-code-day-9-to-12
 ---

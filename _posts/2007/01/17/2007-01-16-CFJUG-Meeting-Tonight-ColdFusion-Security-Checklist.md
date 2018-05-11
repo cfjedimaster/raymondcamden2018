@@ -2,7 +2,7 @@
 layout: post
 title: "CFJUG Meeting Tonight - ColdFusion Security Checklist"
 date: "2007-01-17T08:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/17/CFJUG-Meeting-Tonight-ColdFusion-Security-Checklist

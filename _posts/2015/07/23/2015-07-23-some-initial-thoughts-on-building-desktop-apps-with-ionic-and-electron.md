@@ -2,7 +2,7 @@
 layout: post
 title: "Some initial thoughts on building desktop apps with Ionic and Electron"
 date: "2015-07-23T11:34:56+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: ionic
 banner_image: 
 permalink: /2015/07/23/some-initial-thoughts-on-building-desktop-apps-with-ionic-and-electron

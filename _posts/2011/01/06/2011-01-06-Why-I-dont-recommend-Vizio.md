@@ -2,7 +2,7 @@
 layout: post
 title: "My Vizio support experience (Updated with a positive outcome!)"
 date: "2011-01-06T20:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/01/06/Why-I-dont-recommend-Vizio

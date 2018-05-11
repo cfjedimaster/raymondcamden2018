@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Regex example - matching multiple things at once"
 date: "2011-01-20T18:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/01/20/Quick-Regex-example-matching-multiple-things-at-once

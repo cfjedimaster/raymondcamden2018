@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Need for Speed: Shift"
 date: "2010-01-09T10:01:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2010/01/09/review-need-for-speed-shift

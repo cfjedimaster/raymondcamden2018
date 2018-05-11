@@ -2,7 +2,7 @@
 layout: post
 title: "Two quickies - Cache Clearer Admin Extension and CFCHART Doc Typo"
 date: "2009-04-03T00:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/02/Two-quickies-Cache-Clearer-Admin-Extension-and-CFCHART-Doc-Typo

@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: You can take this data and chart it!"
 date: "2006-04-28T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/28/Friday-Puzzler-You-can-take-this-data-and-chart-it

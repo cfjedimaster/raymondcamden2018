@@ -2,7 +2,7 @@
 layout: post
 title: "My cf.Objective() Fusion Authority Interview Is Up"
 date: "2007-03-22T07:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/22/My-cfObjective-Fusion-Authority-Interview-Is-Up

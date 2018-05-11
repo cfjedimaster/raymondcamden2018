@@ -2,7 +2,7 @@
 layout: post
 title: "Round three against the jock"
 date: "2006-09-27T16:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/27/Round-three-against-the-jock

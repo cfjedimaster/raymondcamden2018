@@ -2,7 +2,7 @@
 layout: post
 title: "Managing Relationships with Transfer (2)"
 date: "2008-11-10T22:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/10/Managing-Relationships-with-Transfer-2

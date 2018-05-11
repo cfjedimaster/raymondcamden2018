@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: First steps to the NSA..."
 date: "2006-04-07T07:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/07/Friday-Puzzler-First-steps-to-the-NSA

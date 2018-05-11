@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Regex example - finding URLs in CSS"
 date: "2010-12-29T14:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/12/29/ColdFusion-Regex-example-finding-URLs-in-CSS

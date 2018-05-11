@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Quickie - Noticing ctrl/shift keyboard events"
 date: "2011-08-23T15:08:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/08/23/jQuery-Quickie-Noticing-ctrlshift-keyboard-events

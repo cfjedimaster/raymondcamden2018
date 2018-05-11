@@ -2,7 +2,7 @@
 layout: post
 title: "Great quote"
 date: "2006-09-18T00:09:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2006/09/17/Great-quote

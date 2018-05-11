@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective - Filtering and Sorting Data in Flex 2 by Scott Stroz"
 date: "2007-05-05T18:05:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/05/05/cfObjective-Filtering-and-Sorting-Data-in-Flex-2-by-Scott-Stroz

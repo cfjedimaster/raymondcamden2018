@@ -2,7 +2,7 @@
 layout: post
 title: "Flex Mobile/ColdFusion Example - Art Search"
 date: "2011-06-25T11:06:00+06:00"
-categories: ColdFusion Flex Mobile 
+categories: coldfusion flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/06/25/Flex-MobileColdFusion-Example-Art-Search

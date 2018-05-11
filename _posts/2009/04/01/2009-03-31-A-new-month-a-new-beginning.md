@@ -2,7 +2,7 @@
 layout: post
 title: "A new month, a new beginning..."
 date: "2009-04-01T10:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/04/01/A-new-month-a-new-beginning

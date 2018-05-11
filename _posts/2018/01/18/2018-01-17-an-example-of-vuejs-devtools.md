@@ -2,7 +2,7 @@
 layout: post
 title: "An Example of Vue.js DevTools"
 date: "2018-01-18"
-categories: JavaScript 
+categories: javascript 
 tags: vuejs
 banner_image: 
 permalink: /2018/01/18/an-example-of-vuejs-devtools

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Paging within cfsearch?"
 date: "2008-06-11T10:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/11/Ask-a-Jedi-Paging-within-cfsearch

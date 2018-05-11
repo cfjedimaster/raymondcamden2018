@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Star Wars - The Force Unleashed"
 date: "2008-10-05T17:10:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2008/10/05/review-star-wars-the-force-unleashed

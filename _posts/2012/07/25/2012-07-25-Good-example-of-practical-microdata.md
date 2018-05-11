@@ -2,7 +2,7 @@
 layout: post
 title: "Good example of practical microdata"
 date: "2012-07-25T12:07:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2012/07/25/Good-example-of-practical-microdata

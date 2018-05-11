@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Summit 2013"
 date: "2013-10-26T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/10/26/ColdFusion-Summit-2013

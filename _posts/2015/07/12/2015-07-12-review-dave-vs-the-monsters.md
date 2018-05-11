@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Dave vs the Monsters"
 date: "2015-07-12T11:58:58+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2015/07/12/review-dave-vs-the-monsters

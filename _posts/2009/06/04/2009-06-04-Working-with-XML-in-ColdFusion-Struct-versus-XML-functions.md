@@ -2,7 +2,7 @@
 layout: post
 title: "Working with XML in ColdFusion - Struct versus XML functions"
 date: "2009-06-04T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/04/Working-with-XML-in-ColdFusion-Struct-versus-XML-functions

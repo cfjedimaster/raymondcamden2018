@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Run a callback on every ColdFusion.navigate/AjaxLink"
 date: "2009-01-20T10:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/20/Ask-a-Jedi-Run-a-callback-on-every-ColdFusionnavigateAjaxLink

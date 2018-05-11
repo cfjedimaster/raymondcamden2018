@@ -2,7 +2,7 @@
 layout: post
 title: "CanvasWiki Updated (Version 1.3)"
 date: "2006-06-21T00:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/20/CanvasWiki-Updated-Version-13

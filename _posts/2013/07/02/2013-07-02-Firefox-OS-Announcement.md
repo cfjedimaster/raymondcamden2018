@@ -2,7 +2,7 @@
 layout: post
 title: "Firefox OS Announcement"
 date: "2013-07-02T16:07:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/07/02/Firefox-OS-Announcement

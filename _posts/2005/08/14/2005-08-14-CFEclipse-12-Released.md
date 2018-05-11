@@ -2,7 +2,7 @@
 layout: post
 title: "CFEclipse 1.2 Released"
 date: "2005-08-14T23:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/14/CFEclipse-12-Released

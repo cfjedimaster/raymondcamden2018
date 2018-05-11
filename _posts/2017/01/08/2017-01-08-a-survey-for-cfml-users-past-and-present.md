@@ -2,7 +2,7 @@
 layout: post
 title: "A Survey for CFML Users (Past and Present)"
 date: "2017-01-08T11:30:00-07:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2017/01/08/a-survey-for-cfml-users-past-and-present

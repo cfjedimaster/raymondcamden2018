@@ -2,7 +2,7 @@
 layout: post
 title: "I survived! (Mostly)"
 date: "2008-07-28T17:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/28/I-survived-Mostly

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion UPS Package Updated"
 date: "2006-12-23T17:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/12/23/ColdFusion-UPS-Package-Updated

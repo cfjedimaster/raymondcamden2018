@@ -2,7 +2,7 @@
 layout: post
 title: "Web Job Opening in God's Country (AKA Lafayette)"
 date: "2012-11-28T16:11:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/11/28/Web-Job-Opening-in-Gods-Country-AKA-Lafayette

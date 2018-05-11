@@ -2,7 +2,7 @@
 layout: post
 title: "Quick tip for debugging Chrome Extensions"
 date: "2012-06-06T16:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/06/06/Quick-tip-for-debugging-Chrome-Extensions

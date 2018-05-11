@@ -2,7 +2,7 @@
 layout: post
 title: "This is where your hot sauce comes from..."
 date: "2009-01-02T15:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/01/02/This-is-where-your-hot-sauce-comes-from

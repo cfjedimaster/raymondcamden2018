@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery UI 1.7 Released"
 date: "2009-03-06T06:03:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/03/06/jQuery-UI-17-Released

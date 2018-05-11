@@ -2,7 +2,7 @@
 layout: post
 title: "Announcement: Verity for Fast Text Searching Macrochat"
 date: "2005-08-09T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/09/Announcement-Verity-for-Fast-Text-Searching-Macrochat

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Builder and Outline Mode"
 date: "2009-07-17T14:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/17/ColdFusion-Builder-and-Outline-Mode

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Creating lowercased cookies in ColdFusion"
 date: "2008-04-16T15:04:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2008/04/16/Ask-a-Jedi-Creating-lowercased-cookies-in-ColdFusion

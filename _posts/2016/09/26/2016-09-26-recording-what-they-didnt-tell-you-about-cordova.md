@@ -2,7 +2,7 @@
 layout: post
 title: "Recording - What they didn't tell you about Cordova"
 date: "2016-09-26T08:24:00-07:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: /images/banners/didntcordova.png
 permalink: /2016/09/26/recording-what-they-didnt-tell-you-about-cordova

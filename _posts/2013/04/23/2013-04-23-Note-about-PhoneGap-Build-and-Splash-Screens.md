@@ -2,7 +2,7 @@
 layout: post
 title: "Note about PhoneGap Build and Splash Screens"
 date: "2013-04-23T13:04:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/04/23/Note-about-PhoneGap-Build-and-Splash-Screens

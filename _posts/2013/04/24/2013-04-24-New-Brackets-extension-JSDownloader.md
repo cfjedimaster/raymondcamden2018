@@ -2,7 +2,7 @@
 layout: post
 title: "New Brackets extension - JSDownloader"
 date: "2013-04-24T13:04:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2013/04/24/New-Brackets-extension-JSDownloader

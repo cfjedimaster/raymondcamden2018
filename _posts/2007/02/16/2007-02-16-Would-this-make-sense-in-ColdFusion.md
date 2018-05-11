@@ -2,7 +2,7 @@
 layout: post
 title: "Would this make sense in ColdFusion?"
 date: "2007-02-16T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/16/Would-this-make-sense-in-ColdFusion

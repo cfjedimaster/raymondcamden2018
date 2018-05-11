@@ -2,7 +2,7 @@
 layout: post
 title: "Another regex - simple formatting for comments"
 date: "2011-07-06T11:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/06/Another-regex-simple-formatting-for-comments

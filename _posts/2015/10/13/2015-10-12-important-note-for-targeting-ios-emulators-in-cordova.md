@@ -2,7 +2,7 @@
 layout: post
 title: "Important note for targeting iOS Emulators in Cordova"
 date: "2015-10-13T09:39:16+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/10/13/important-note-for-targeting-ios-emulators-in-cordova

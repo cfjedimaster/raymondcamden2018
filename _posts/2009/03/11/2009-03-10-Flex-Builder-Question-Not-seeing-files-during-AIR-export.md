@@ -2,7 +2,7 @@
 layout: post
 title: "Flex Builder Question - Not seeing files during AIR export"
 date: "2009-03-11T10:03:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2009/03/11/Flex-Builder-Question-Not-seeing-files-during-AIR-export

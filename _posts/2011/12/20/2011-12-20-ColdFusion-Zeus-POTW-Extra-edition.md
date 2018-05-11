@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Zeus POTW - Extra edition..."
 date: "2011-12-20T22:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/12/20/ColdFusion-Zeus-POTW-Extra-edition

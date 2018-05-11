@@ -2,7 +2,7 @@
 layout: post
 title: "Geek versus Jock Update"
 date: "2006-11-24T10:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/24/Geek-versus-Jock-Update

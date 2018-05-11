@@ -2,7 +2,7 @@
 layout: post
 title: "cfwddx doesn't work in script - FYI"
 date: "2014-12-15T11:16:43+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/12/15/cfwddx-doesnt-work-in-script-fyi

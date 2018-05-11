@@ -2,7 +2,7 @@
 layout: post
 title: "Adding an ADD button for cfgrid - Part Deux"
 date: "2008-03-03T17:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/03/Adding-an-ADD-button-for-cfgrid-Part-Deux

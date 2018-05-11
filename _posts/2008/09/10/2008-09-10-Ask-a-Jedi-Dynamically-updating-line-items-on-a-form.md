@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Dynamically updating line items on a form"
 date: "2008-09-10T12:09:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2008/09/10/Ask-a-Jedi-Dynamically-updating-line-items-on-a-form

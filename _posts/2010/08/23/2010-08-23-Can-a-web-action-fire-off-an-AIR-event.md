@@ -2,7 +2,7 @@
 layout: post
 title: "Can a web action fire off an AIR event?"
 date: "2010-08-23T18:08:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/08/23/Can-a-web-action-fire-off-an-AIR-event

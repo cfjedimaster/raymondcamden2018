@@ -2,7 +2,7 @@
 layout: post
 title: "Recording from ColdFusion Meetup"
 date: "2007-04-13T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/13/Recording-from-ColdFusion-Meetup

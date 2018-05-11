@@ -2,7 +2,7 @@
 layout: post
 title: "Slides and code from presentation at jQuery Conference"
 date: "2012-06-29T01:06:00+06:00"
-categories: Development JavaScript jQuery 
+categories: development javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/06/29/Slides-and-code-from-presentation-at-jQuery-Conference

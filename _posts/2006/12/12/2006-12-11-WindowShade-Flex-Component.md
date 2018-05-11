@@ -2,7 +2,7 @@
 layout: post
 title: "WindowShade Flex Component"
 date: "2006-12-12T11:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/12/12/WindowShade-Flex-Component

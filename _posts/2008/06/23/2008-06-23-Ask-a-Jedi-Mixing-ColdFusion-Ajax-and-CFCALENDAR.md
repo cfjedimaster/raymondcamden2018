@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Mixing ColdFusion Ajax and CFCALENDAR"
 date: "2008-06-23T11:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/23/Ask-a-Jedi-Mixing-ColdFusion-Ajax-and-CFCALENDAR

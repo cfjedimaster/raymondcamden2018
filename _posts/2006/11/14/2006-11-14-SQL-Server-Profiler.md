@@ -2,7 +2,7 @@
 layout: post
 title: "SQL Server Profiler"
 date: "2006-11-14T14:11:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/11/14/SQL-Server-Profiler

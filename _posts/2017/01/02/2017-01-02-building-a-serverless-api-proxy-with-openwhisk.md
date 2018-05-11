@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Serverless API Proxy with OpenWhisk"
 date: "2017-01-02T08:11:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/apiproxy.jpg
 permalink: /2017/01/02/building-a-serverless-api-proxy-with-openwhisk

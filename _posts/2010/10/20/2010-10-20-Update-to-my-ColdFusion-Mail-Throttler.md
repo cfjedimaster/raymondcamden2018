@@ -2,7 +2,7 @@
 layout: post
 title: "Update to my ColdFusion Mail Throttler"
 date: "2010-10-20T22:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/20/Update-to-my-ColdFusion-Mail-Throttler

@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic/Cordova Demo: Where did I take that picture?"
 date: "2015-12-03T10:38:31+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova ionic
 banner_image: 
 permalink: /2015/12/03/ioniccordova-demo-where-did-i-take-that-picture

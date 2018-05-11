@@ -2,7 +2,7 @@
 layout: post
 title: "LOST Whispers"
 date: "2006-01-27T10:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/01/27/LOST-Whispers

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion and Pass by Reference versus Value"
 date: "2009-05-01T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/01/ColdFusion-and-Pass-by-Reference-versus-Value

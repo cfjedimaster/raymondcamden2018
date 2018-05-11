@@ -2,7 +2,7 @@
 layout: post
 title: "Review: \"Build an HTML5 Game\""
 date: "2015-07-19T16:22:10+06:00"
-categories: Development Games 
+categories: development games 
 tags: 
 banner_image: 
 permalink: /2015/07/19/review-build-an-html5-game

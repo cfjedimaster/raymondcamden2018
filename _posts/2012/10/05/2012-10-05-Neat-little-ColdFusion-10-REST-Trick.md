@@ -2,7 +2,7 @@
 layout: post
 title: "Neat little ColdFusion 10 REST Trick"
 date: "2012-10-05T18:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/10/05/Neat-little-ColdFusion-10-REST-Trick

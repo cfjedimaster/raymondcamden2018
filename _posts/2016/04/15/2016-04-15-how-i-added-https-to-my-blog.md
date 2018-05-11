@@ -2,7 +2,7 @@
 layout: post
 title: "How I added https to my blog"
 date: "2016-04-15T08:15:00-07:00"
-categories: Uncategorized 
+categories: uncategorized 
 tags: 
 banner_image: /images/banners/addinghttps.jpg
 permalink: /2016/04/15/how-i-added-https-to-my-blog

@@ -2,7 +2,7 @@
 layout: post
 title: "A quick message for the ColdFusion community"
 date: "2014-12-15T15:12:57+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/12/15/a-quick-message-for-the-coldfusion-community

@@ -2,7 +2,7 @@
 layout: post
 title: "Figuring out how many mails are in a POP account"
 date: "2009-05-20T09:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/20/Figuring-out-how-many-mails-are-in-a-POP-account

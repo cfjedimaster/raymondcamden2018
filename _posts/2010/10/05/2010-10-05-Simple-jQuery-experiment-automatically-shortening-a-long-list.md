@@ -2,7 +2,7 @@
 layout: post
 title: "Simple jQuery experiment - automatically shortening a long list"
 date: "2010-10-05T14:10:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/10/05/Simple-jQuery-experiment-automatically-shortening-a-long-list

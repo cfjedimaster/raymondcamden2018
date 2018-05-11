@@ -2,7 +2,7 @@
 layout: post
 title: "Grabbing the Bull by the Horn(s)"
 date: "2006-01-17T14:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/17/Grabbing-the-Bull-by-the-Horns

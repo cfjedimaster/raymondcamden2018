@@ -2,8 +2,8 @@
 layout: post
 title: "Playing with StrongLoop - Building a Blog - Part Three"
 date: "2016-02-03T13:11:00-07:00"
-categories: Development JavaScript 
-tags: StrongLoop Ionic
+categories: development javascript 
+tags: strongloop ionic
 banner_image: /images/banners/strongloop_ibm.png
 permalink: /2016/02/03/playing-with-strongloop-building-a-blog-part-three
 ---

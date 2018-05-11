@@ -2,7 +2,7 @@
 layout: post
 title: "Update to my highlight/fadeout example - now with CSS hotness"
 date: "2012-02-03T10:02:00+06:00"
-categories: Development HTML5 
+categories: development html5 
 tags: 
 banner_image: 
 permalink: /2012/02/03/Update-to-my-highlightfadeout-example-now-with-CSS-hotness

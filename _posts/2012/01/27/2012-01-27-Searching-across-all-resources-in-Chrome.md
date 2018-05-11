@@ -2,7 +2,7 @@
 layout: post
 title: "Searching across all resources in Chrome"
 date: "2012-01-27T17:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/01/27/Searching-across-all-resources-in-Chrome

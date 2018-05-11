@@ -2,7 +2,7 @@
 layout: post
 title: "Initial MAX info (and yes, I'm back from Detroit)"
 date: "2006-06-09T10:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/06/09/Initial-MAX-info-and-yes-Im-back-from-Detroit

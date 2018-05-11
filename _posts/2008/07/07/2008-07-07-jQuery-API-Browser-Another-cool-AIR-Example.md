@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery API Browser - Another cool AIR Example"
 date: "2008-07-07T11:07:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2008/07/07/jQuery-API-Browser-Another-cool-AIR-Example

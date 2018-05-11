@@ -2,7 +2,7 @@
 layout: post
 title: "Broken (cf)windows?"
 date: "2009-10-27T17:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/27/Broken-cfwindows

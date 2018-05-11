@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Returning Two Resultsets"
 date: "2005-12-23T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/23/Ask-a-Jedi-Returning-Two-Resultsets

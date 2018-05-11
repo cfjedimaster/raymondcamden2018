@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting Links"
 date: "2012-12-05T14:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/12/05/Interesting-Links

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Moving to UNIX, but didn't plan for it. Now what?"
 date: "2008-07-28T21:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/28/Ask-a-Jedi-Moving-to-UNIX-but-didnt-plan-for-it-Now-what

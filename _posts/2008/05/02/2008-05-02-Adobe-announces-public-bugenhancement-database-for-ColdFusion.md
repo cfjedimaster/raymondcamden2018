@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe announces public bug/enhancement database for ColdFusion"
 date: "2008-05-02T12:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/02/Adobe-announces-public-bugenhancement-database-for-ColdFusion

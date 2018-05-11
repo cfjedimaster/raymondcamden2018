@@ -2,7 +2,7 @@
 layout: post
 title: "Calling want-to-be artists - Galleon Logo"
 date: "2007-08-24T08:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/08/24/Calling-wanttobe-artists-Galleon-Logo

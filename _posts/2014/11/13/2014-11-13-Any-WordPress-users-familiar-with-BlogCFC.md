@@ -2,7 +2,7 @@
 layout: post
 title: "Any WordPress users familiar with BlogCFC?"
 date: "2014-11-13T15:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2014/11/13/Any-WordPress-users-familiar-with-BlogCFC

@@ -2,7 +2,7 @@
 layout: post
 title: "CFBuilder Contest: Base64 Image Converter"
 date: "2010-05-07T15:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/05/07/CFBuilder-Contest-Base64-Image-Converter

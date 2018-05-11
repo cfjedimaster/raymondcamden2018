@@ -2,7 +2,7 @@
 layout: post
 title: "CFConversations - First podcast available now"
 date: "2008-06-16T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/16/CFConversations-First-podcast-available-now

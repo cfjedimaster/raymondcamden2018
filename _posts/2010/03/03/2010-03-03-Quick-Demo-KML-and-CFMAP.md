@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Demo - KML and CFMAP"
 date: "2010-03-03T22:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/03/Quick-Demo-KML-and-CFMAP

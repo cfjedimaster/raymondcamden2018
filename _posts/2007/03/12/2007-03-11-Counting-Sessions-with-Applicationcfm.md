@@ -2,7 +2,7 @@
 layout: post
 title: "Counting Sessions with Application.cfm"
 date: "2007-03-12T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/12/Counting-Sessions-with-Applicationcfm

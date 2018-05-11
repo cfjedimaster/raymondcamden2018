@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective - Mark Mandel and Transfer ORM (Object Relational Mapping)"
 date: "2007-05-04T13:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/04/cfObjective-Mark-Mandel-and-Transfer-ORM-Object-Relational-Mapping

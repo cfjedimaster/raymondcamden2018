@@ -2,7 +2,7 @@
 layout: post
 title: "Using ColdFusion's Asynchronous Gateway - 3"
 date: "2006-09-14T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/14/Using-ColdFusions-Asynchronous-Gateway-3

@@ -2,7 +2,7 @@
 layout: post
 title: "Using CFC data with Handlebars"
 date: "2012-05-11T11:05:00+06:00"
-categories: ColdFusion HTML5 JavaScript jQuery 
+categories: coldfusion html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/05/11/Using-CFC-data-with-Handlebars

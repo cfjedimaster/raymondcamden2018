@@ -2,7 +2,7 @@
 layout: post
 title: "Another OS X Question - All my apps go to the netherworld..."
 date: "2007-10-16T13:10:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/10/16/Another-OS-X-Question-All-my-apps-go-to-the-netherworld

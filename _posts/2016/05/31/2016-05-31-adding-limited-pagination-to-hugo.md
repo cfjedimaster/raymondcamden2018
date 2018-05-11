@@ -2,7 +2,7 @@
 layout: post
 title: "Adding (Limited) Pagination to Hugo"
 date: "2016-05-31T15:01:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: /images/banners/limitedpages.jpg
 permalink: /2016/05/31/adding-limited-pagination-to-hugo

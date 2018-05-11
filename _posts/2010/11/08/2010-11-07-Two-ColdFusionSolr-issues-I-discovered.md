@@ -2,7 +2,7 @@
 layout: post
 title: "Two ColdFusion/Solr issues I discovered"
 date: "2010-11-08T07:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/11/08/Two-ColdFusionSolr-issues-I-discovered

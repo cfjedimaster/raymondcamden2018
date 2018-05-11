@@ -2,7 +2,7 @@
 layout: post
 title: "What tags does your browser support?"
 date: "2011-02-17T09:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2011/02/17/What-tags-does-your-browser-support

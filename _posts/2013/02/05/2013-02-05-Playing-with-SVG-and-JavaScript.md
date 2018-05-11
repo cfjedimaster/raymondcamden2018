@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with SVG and JavaScript"
 date: "2013-02-05T15:02:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/02/05/Playing-with-SVG-and-JavaScript

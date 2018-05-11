@@ -2,7 +2,7 @@
 layout: post
 title: "Undocumented change to GetHTTPRequestData in ColdFusion 8"
 date: "2007-07-01T11:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/01/Undocumented-change-to-GetHTTPRequestData-in-ColdFusion-8

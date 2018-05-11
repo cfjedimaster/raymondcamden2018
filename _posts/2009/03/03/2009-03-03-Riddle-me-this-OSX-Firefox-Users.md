@@ -2,7 +2,7 @@
 layout: post
 title: "Riddle me this, OSX Firefox Users"
 date: "2009-03-03T18:03:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2009/03/03/Riddle-me-this-OSX-Firefox-Users

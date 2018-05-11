@@ -2,7 +2,7 @@
 layout: post
 title: "Meet the \"Zeus\" at RIACon"
 date: "2011-06-02T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/02/Meet-the-Zeus-at-RIACon

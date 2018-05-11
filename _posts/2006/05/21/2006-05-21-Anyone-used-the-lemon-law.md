@@ -2,7 +2,7 @@
 layout: post
 title: "Anyone used the lemon law?"
 date: "2006-05-21T12:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/05/21/Anyone-used-the-lemon-law

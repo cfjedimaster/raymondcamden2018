@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 fixes onRequest, adds onCFCRequest"
 date: "2009-07-13T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/13/ColdFusion-9-fixes-onRequest-adds-onCFCRequest

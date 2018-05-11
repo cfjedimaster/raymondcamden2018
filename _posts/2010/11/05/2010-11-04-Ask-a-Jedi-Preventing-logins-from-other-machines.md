@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Preventing logins from other machines"
 date: "2010-11-05T10:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/11/05/Ask-a-Jedi-Preventing-logins-from-other-machines

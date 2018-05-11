@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Pie chart with lots of data"
 date: "2011-01-24T18:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/01/24/Ask-a-Jedi-ColdFusion-Pie-chart-with-lots-of-data

@@ -2,7 +2,7 @@
 layout: post
 title: "More sessions announced for CFUNITED..."
 date: "2009-03-18T15:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/03/18/More-sessions-announced-for-CFUNITED

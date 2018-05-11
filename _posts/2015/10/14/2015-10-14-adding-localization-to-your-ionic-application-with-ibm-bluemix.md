@@ -2,7 +2,7 @@
 layout: post
 title: "Adding localization to your Ionic application with IBM Bluemix"
 date: "2015-10-14T13:16:26+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: bluemix cordova ionic
 banner_image: 
 permalink: /2015/10/14/adding-localization-to-your-ionic-application-with-ibm-bluemix

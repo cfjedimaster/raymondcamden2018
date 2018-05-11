@@ -2,7 +2,7 @@
 layout: post
 title: "Enabling features in ColdFusion's Rich Text Editor"
 date: "2007-12-14T12:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/14/Enabling-features-in-ColdFusions-Rich-Text-Editor

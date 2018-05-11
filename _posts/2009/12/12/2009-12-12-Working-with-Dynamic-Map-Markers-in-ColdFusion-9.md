@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Dynamic Map Markers in ColdFusion 9"
 date: "2009-12-12T16:12:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/12/12/Working-with-Dynamic-Map-Markers-in-ColdFusion-9

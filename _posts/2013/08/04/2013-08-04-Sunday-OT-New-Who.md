@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday OT: New Who"
 date: "2013-08-04T17:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/08/04/Sunday-OT-New-Who

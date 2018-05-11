@@ -2,7 +2,7 @@
 layout: post
 title: "Is this surveillance overkill?"
 date: "2009-05-22T14:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/05/22/Is-this-surveillance-overkill

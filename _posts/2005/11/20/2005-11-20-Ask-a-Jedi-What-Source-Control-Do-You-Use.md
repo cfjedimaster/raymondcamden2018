@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: What Source Control Do You Use?"
 date: "2005-11-20T21:11:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2005/11/20/Ask-a-Jedi-What-Source-Control-Do-You-Use

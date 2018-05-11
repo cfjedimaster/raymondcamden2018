@@ -2,7 +2,7 @@
 layout: post
 title: "Non-Leopard OSX ColdFusion install issue to watch for"
 date: "2007-10-29T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/29/NonLeopard-OSX-ColdFusion-install-issue-to-watch-for

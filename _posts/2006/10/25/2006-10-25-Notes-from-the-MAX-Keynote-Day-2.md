@@ -2,7 +2,7 @@
 layout: post
 title: "Notes from the MAX Keynote (Day 2)"
 date: "2006-10-25T13:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/10/25/Notes-from-the-MAX-Keynote-Day-2

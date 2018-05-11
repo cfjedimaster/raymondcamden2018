@@ -2,7 +2,7 @@
 layout: post
 title: "InsideRIA Links for March 2-7, 2009"
 date: "2009-03-07T18:03:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/03/07/InsideRIA-Links-for-March-27-2009

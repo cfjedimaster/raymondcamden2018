@@ -2,7 +2,7 @@
 layout: post
 title: "Code from ColdFusion Boot Camp, and Tip about ColdFusion 8 and JSON"
 date: "2007-10-03T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/03/Code-from-ColdFusion-Boot-Camp-and-Tip-about-ColdFusion-8-and-JSON

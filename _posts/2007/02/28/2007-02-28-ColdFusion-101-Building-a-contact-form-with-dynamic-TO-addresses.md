@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 101: Building a contact form with dynamic TO addresses"
 date: "2007-02-28T15:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/28/ColdFusion-101-Building-a-contact-form-with-dynamic-TO-addresses

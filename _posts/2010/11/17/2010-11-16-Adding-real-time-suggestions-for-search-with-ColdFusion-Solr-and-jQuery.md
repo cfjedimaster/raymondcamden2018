@@ -2,7 +2,7 @@
 layout: post
 title: "Adding real time suggestions for search with ColdFusion, Solr, and jQuery"
 date: "2010-11-17T07:11:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/11/17/Adding-real-time-suggestions-for-search-with-ColdFusion-Solr-and-jQuery

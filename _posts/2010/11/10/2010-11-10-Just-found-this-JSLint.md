@@ -2,7 +2,7 @@
 layout: post
 title: "Just found this - JSLint"
 date: "2010-11-10T15:11:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2010/11/10/Just-found-this-JSLint

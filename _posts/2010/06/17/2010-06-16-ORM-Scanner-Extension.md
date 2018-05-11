@@ -2,7 +2,7 @@
 layout: post
 title: "ORM Scanner Extension"
 date: "2010-06-17T08:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/06/17/ORM-Scanner-Extension

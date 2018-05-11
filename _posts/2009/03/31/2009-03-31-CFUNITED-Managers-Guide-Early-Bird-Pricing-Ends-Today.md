@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED Manager's Guide, Early Bird Pricing Ends Today!"
 date: "2009-03-31T15:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/03/31/CFUNITED-Managers-Guide-Early-Bird-Pricing-Ends-Today

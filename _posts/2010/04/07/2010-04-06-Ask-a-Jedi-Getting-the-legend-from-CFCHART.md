@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting the legend from CFCHART"
 date: "2010-04-07T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/04/07/Ask-a-Jedi-Getting-the-legend-from-CFCHART

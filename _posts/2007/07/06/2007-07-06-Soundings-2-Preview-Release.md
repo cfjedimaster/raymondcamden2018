@@ -2,7 +2,7 @@
 layout: post
 title: "Soundings 2 Preview Release"
 date: "2007-07-06T19:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/06/Soundings-2-Preview-Release

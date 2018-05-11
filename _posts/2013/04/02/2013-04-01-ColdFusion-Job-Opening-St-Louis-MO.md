@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - St. Louis, MO"
 date: "2013-04-02T07:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/04/02/ColdFusion-Job-Opening-St-Louis-MO

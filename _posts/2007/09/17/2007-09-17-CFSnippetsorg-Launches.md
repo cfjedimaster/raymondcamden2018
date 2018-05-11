@@ -2,7 +2,7 @@
 layout: post
 title: "CFSnippets.org Launches"
 date: "2007-09-17T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/17/CFSnippetsorg-Launches

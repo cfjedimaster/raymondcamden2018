@@ -2,7 +2,7 @@
 layout: post
 title: "My waste of time this weekend - playing with Yahoo Maps and jQuery"
 date: "2009-06-07T13:06:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/06/07/My-waste-of-time-this-weekend-playing-with-Yahoo-Maps-and-jQuery

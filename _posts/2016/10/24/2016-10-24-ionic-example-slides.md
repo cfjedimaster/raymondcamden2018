@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic Example: Slides"
 date: "2016-10-24T09:33:00-07:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: ionic
 banner_image: 
 permalink: /2016/10/24/ionic-example-slides

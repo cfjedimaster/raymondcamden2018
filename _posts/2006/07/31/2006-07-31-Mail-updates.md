@@ -2,7 +2,7 @@
 layout: post
 title: "Mail updates"
 date: "2006-07-31T12:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/31/Mail-updates

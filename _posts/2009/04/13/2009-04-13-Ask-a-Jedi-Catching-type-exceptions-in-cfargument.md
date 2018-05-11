@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Catching type exceptions in cfargument"
 date: "2009-04-13T14:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/13/Ask-a-Jedi-Catching-type-exceptions-in-cfargument

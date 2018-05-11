@@ -2,7 +2,7 @@
 layout: post
 title: "Preachin' the VAR Scope Gospell"
 date: "2007-06-11T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/11/Preachin-the-VAR-Scope-Gospell

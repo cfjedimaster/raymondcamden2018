@@ -2,7 +2,7 @@
 layout: post
 title: "CFBuilder Contest: Final Thoughts..."
 date: "2010-05-20T19:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/05/20/CFBuilder-Contest-Final-Thoughts

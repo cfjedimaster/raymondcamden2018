@@ -2,7 +2,7 @@
 layout: post
 title: "Spry Photo Gallery Demo"
 date: "2006-11-15T12:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/15/Spry-Photo-Gallery-Demo

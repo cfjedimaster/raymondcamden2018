@@ -2,7 +2,7 @@
 layout: post
 title: "Quick video demo of using Flash Builder to inspect remote data results"
 date: "2011-09-27T10:09:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2011/09/27/Quick-video-demo-of-using-Flash-Builder-to-inspect-remote-data-results

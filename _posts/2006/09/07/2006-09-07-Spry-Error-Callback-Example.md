@@ -2,7 +2,7 @@
 layout: post
 title: "Spry Error Callback Example"
 date: "2006-09-07T15:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/07/Spry-Error-Callback-Example

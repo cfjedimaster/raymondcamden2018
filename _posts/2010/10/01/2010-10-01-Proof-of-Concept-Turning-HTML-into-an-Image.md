@@ -2,7 +2,7 @@
 layout: post
 title: "Proof of Concept - Turning HTML into an Image"
 date: "2010-10-01T14:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/01/Proof-of-Concept-Turning-HTML-into-an-Image

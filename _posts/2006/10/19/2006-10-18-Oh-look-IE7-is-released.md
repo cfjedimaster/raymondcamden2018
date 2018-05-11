@@ -2,7 +2,7 @@
 layout: post
 title: "Oh look - IE7 is released"
 date: "2006-10-19T01:10:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/10/19/Oh-look-IE7-is-released

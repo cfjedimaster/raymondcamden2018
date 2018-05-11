@@ -2,7 +2,7 @@
 layout: post
 title: "Quick example - jQuery code to add confirmations to links"
 date: "2009-10-19T23:10:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/10/19/Quick-example-jQuery-code-to-add-confirmations-to-links

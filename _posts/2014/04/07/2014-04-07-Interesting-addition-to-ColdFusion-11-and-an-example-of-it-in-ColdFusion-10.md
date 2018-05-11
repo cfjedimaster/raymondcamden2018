@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting addition to ColdFusion 11 (and an example of it in ColdFusion 10)"
 date: "2014-04-07T17:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/04/07/Interesting-addition-to-ColdFusion-11-and-an-example-of-it-in-ColdFusion-10

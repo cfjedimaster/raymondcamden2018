@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Layout in Application.cfc"
 date: "2006-07-12T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/12/Ask-a-Jedi-Layout-in-Applicationcfc

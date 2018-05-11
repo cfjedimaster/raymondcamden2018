@@ -2,7 +2,7 @@
 layout: post
 title: "Using the Marvel API with IBM Watson"
 date: "2015-05-26T09:33:51+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: bluemix
 banner_image: 
 permalink: /2015/05/26/using-the-marvel-api-with-ibm-watson

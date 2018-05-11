@@ -2,7 +2,7 @@
 layout: post
 title: "Potential Jericho Closure"
 date: "2007-05-21T10:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/05/21/Potential-Jericho-Closure

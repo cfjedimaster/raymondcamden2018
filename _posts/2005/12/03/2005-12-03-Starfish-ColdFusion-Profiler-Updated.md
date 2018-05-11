@@ -2,7 +2,7 @@
 layout: post
 title: "Starfish ColdFusion Profiler Updated"
 date: "2005-12-03T21:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/03/Starfish-ColdFusion-Profiler-Updated

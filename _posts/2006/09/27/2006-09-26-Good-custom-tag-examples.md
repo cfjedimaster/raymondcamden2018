@@ -2,7 +2,7 @@
 layout: post
 title: "Good custom tag examples"
 date: "2006-09-27T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/27/Good-custom-tag-examples

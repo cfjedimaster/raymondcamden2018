@@ -2,7 +2,7 @@
 layout: post
 title: "UDF to crop and highlight a block of text"
 date: "2009-12-23T16:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/23/UDF-to-crop-and-highlight-a-block-of-text

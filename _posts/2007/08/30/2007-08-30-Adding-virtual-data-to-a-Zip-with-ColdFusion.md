@@ -2,7 +2,7 @@
 layout: post
 title: "Adding \"virtual\" data to a Zip with ColdFusion"
 date: "2007-08-30T14:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/30/Adding-virtual-data-to-a-Zip-with-ColdFusion

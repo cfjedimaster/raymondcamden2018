@@ -2,7 +2,7 @@
 layout: post
 title: "Recording URLs and Downloads"
 date: "2007-11-09T15:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/09/Recording-URLs-and-Downloads

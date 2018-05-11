@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler - Listing all posibilities of a set"
 date: "2007-04-27T08:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/27/Friday-Puzzler-Listing-all-posibilities-of-a-set

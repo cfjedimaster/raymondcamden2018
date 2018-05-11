@@ -2,7 +2,7 @@
 layout: post
 title: "Uber Friday OS Report"
 date: "2008-06-06T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/06/Uber-Friday-OS-Report

@@ -2,7 +2,7 @@
 layout: post
 title: "Win a ColdFusion Dude Camera"
 date: "2009-09-08T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/08/Win-a-ColdFusion-Dude-Camera

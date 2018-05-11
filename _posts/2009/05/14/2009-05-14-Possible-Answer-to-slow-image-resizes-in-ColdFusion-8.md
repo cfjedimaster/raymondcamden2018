@@ -2,7 +2,7 @@
 layout: post
 title: "(Possible?) Answer to slow image resizes in ColdFusion 8"
 date: "2009-05-14T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/14/Possible-Answer-to-slow-image-resizes-in-ColdFusion-8

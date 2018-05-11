@@ -2,7 +2,7 @@
 layout: post
 title: "Opportunity to learn about Git"
 date: "2010-08-16T19:08:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2010/08/16/Opportunity-to-learn-about-Git

@@ -2,7 +2,7 @@
 layout: post
 title: "Article on Fenix Web Server"
 date: "2014-06-30T11:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2014/06/30/Article-on-Fenix-Web-Server

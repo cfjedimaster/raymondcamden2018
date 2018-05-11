@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 Hacks Released"
 date: "2012-11-19T14:11:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2012/11/19/html5-hacks-released

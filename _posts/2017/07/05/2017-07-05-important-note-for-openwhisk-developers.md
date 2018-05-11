@@ -2,7 +2,7 @@
 layout: post
 title: "Important Note for OpenWhisk Developers"
 date: "2017-07-05T08:52:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/07/05/important-note-for-openwhisk-developers

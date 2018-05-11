@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Joe's Car Wash and the Cheap Employee Problem"
 date: "2011-03-25T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/03/25/Friday-Puzzler-Joes-Car-Wash-and-the-Cheap-Employee-Problem

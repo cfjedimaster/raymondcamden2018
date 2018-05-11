@@ -2,7 +2,7 @@
 layout: post
 title: "Go ahead and offend me, I can take it!"
 date: "2005-07-15T15:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/07/15/Go-ahead-and-offend-me-I-can-take-it

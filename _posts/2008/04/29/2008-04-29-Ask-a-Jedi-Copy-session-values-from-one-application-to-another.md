@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Copy session values from one application to another"
 date: "2008-04-29T13:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/29/Ask-a-Jedi-Copy-session-values-from-one-application-to-another

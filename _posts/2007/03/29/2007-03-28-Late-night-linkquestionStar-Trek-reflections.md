@@ -2,7 +2,7 @@
 layout: post
 title: "Late night link/question/Star Trek reflections"
 date: "2007-03-29T01:03:00+06:00"
-categories: ColdFusion Misc 
+categories: coldfusion misc 
 tags: 
 banner_image: 
 permalink: /2007/03/29/Late-night-linkquestionStar-Trek-reflections

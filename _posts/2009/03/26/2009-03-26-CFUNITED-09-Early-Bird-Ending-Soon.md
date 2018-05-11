@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED 09 - Early Bird Ending Soon..."
 date: "2009-03-26T18:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/03/26/CFUNITED-09-Early-Bird-Ending-Soon

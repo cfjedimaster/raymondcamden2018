@@ -2,7 +2,7 @@
 layout: post
 title: "Lost review for October 11, 2006"
 date: "2006-10-11T23:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/10/11/Lost-review-for-October-11-2006

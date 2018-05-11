@@ -2,7 +2,7 @@
 layout: post
 title: "Linking to PDFs in Cordova apps"
 date: "2016-06-26T14:08:00-07:00"
-categories: Mobile JavaScript 
+categories: mobile javascript 
 tags: cordova
 banner_image: 
 permalink: /2016/06/26/linking-to-pdfs-in-cordova-apps

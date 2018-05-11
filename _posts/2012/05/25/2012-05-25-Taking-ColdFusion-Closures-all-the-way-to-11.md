@@ -2,7 +2,7 @@
 layout: post
 title: "Taking ColdFusion Closures all the way to 11"
 date: "2012-05-25T17:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/05/25/Taking-ColdFusion-Closures-all-the-way-to-11

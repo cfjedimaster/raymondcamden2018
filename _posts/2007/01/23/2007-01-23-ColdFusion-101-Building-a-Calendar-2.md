@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 101: Building a Calendar (2)"
 date: "2007-01-23T14:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/23/ColdFusion-101-Building-a-Calendar-2

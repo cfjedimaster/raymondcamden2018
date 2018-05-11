@@ -2,7 +2,7 @@
 layout: post
 title: "Contest Reminder"
 date: "2006-03-20T09:03:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2006/03/20/Contest-Reminder

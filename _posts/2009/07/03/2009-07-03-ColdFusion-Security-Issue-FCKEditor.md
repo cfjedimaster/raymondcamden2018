@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Security Issue - FCKEditor"
 date: "2009-07-03T13:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/03/ColdFusion-Security-Issue-FCKEditor

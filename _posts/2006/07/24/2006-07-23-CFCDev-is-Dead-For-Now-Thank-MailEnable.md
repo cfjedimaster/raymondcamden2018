@@ -2,7 +2,7 @@
 layout: post
 title: "CFCDev is Dead (For Now) - Thank MailEnable"
 date: "2006-07-24T01:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/24/CFCDev-is-Dead-For-Now-Thank-MailEnable

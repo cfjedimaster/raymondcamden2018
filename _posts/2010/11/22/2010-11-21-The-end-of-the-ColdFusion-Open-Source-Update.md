@@ -2,7 +2,7 @@
 layout: post
 title: "The end of the ColdFusion Open Source Update"
 date: "2010-11-22T10:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/11/22/The-end-of-the-ColdFusion-Open-Source-Update

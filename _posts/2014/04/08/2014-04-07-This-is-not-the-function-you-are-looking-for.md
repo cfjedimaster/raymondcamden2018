@@ -2,7 +2,7 @@
 layout: post
 title: "This is not the function you are looking for"
 date: "2014-04-08T09:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/04/08/This-is-not-the-function-you-are-looking-for

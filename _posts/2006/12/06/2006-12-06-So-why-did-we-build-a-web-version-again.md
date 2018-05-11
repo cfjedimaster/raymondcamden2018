@@ -2,7 +2,7 @@
 layout: post
 title: "So - why did we build a web version again?"
 date: "2006-12-06T21:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/06/So-why-did-we-build-a-web-version-again

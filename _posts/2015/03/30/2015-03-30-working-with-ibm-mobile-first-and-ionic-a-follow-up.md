@@ -2,7 +2,7 @@
 layout: post
 title: "Working with IBM MobileFirst and Ionic - a follow up"
 date: "2015-03-30T11:48:05+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: ionic mobilefirst
 banner_image: 
 permalink: /2015/03/30/working-with-ibm-mobile-first-and-ionic-a-follow-up

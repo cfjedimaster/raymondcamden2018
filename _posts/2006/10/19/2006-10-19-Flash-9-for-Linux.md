@@ -2,7 +2,7 @@
 layout: post
 title: "Flash 9 for Linux"
 date: "2006-10-19T12:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/10/19/Flash-9-for-Linux

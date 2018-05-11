@@ -2,7 +2,7 @@
 layout: post
 title: "Verified plugins site for Cordova applications"
 date: "2014-07-14T15:07:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/07/14/Verified-plugins-site-for-Cordova-applications

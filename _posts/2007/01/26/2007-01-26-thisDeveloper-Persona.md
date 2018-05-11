@@ -2,7 +2,7 @@
 layout: post
 title: "this.Developer Persona"
 date: "2007-01-26T15:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/01/26/thisDeveloper-Persona

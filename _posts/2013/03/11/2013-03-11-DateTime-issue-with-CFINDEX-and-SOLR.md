@@ -2,7 +2,7 @@
 layout: post
 title: "Date/Time issue with CFINDEX and SOLR"
 date: "2013-03-11T18:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/03/11/DateTime-issue-with-CFINDEX-and-SOLR

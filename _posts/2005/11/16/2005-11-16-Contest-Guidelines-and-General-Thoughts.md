@@ -2,7 +2,7 @@
 layout: post
 title: "Contest Guidelines, and General Thoughts"
 date: "2005-11-16T15:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/16/Contest-Guidelines-and-General-Thoughts

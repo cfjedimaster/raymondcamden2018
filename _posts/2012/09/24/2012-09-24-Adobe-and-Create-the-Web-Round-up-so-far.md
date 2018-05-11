@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe and Create the Web - Round up so far"
 date: "2012-09-24T15:09:00+06:00"
-categories: Development HTML5 Mobile 
+categories: development html5 mobile 
 tags: 
 banner_image: 
 permalink: /2012/09/24/Adobe-and-Create-the-Web-Round-up-so-far

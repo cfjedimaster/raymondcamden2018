@@ -2,7 +2,7 @@
 layout: post
 title: "CentraSoft Helping Katrina Victims"
 date: "2005-09-02T12:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/02/CentraSoft-Helping-Katrina-Victims

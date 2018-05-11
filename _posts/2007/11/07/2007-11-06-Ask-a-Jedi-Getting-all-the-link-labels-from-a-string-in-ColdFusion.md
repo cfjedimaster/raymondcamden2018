@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting all the link labels from a string in ColdFusion"
 date: "2007-11-07T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/07/Ask-a-Jedi-Getting-all-the-link-labels-from-a-string-in-ColdFusion

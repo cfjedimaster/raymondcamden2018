@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Scoreoid's Game API"
 date: "2011-11-17T13:11:00+06:00"
-categories: ColdFusion HTML5 JavaScript jQuery 
+categories: coldfusion html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/11/17/Working-with-Scoreoids-Game-API

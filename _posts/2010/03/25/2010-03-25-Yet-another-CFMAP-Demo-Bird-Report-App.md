@@ -2,7 +2,7 @@
 layout: post
 title: "Yet another CFMAP Demo - Bird Report App"
 date: "2010-03-25T21:03:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/03/25/Yet-another-CFMAP-Demo-Bird-Report-App

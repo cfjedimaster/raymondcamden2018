@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Query naming inside a CFC - best practice?"
 date: "2008-04-22T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/22/Ask-a-Jedi-Query-naming-inside-a-CFC-best-practice

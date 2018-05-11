@@ -2,7 +2,7 @@
 layout: post
 title: "Snap.svg demo - Census Data"
 date: "2013-10-28T09:10:00+06:00"
-categories: Development HTML5 JavaScript jQuery 
+categories: development html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2013/10/28/Snapsvg-demo-Census-Data

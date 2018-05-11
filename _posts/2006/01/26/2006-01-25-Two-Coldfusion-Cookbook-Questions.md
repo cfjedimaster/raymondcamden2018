@@ -2,7 +2,7 @@
 layout: post
 title: "Two Coldfusion Cookbook Questions"
 date: "2006-01-26T07:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/26/Two-Coldfusion-Cookbook-Questions

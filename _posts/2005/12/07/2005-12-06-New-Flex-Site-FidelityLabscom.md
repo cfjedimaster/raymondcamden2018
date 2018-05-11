@@ -2,7 +2,7 @@
 layout: post
 title: "New Flex Site: FidelityLabs.com"
 date: "2005-12-07T09:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2005/12/07/New-Flex-Site-FidelityLabscom

@@ -2,7 +2,7 @@
 layout: post
 title: "CFBL Update - Week 7 - The \"Numbers Lie\" Edition"
 date: "2008-02-27T11:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/27/CFBL-Update-Week-7-The-Numbers-Lie-Edition

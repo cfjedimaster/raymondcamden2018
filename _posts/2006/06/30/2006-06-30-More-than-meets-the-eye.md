@@ -2,7 +2,7 @@
 layout: post
 title: "More than meets the eye"
 date: "2006-06-30T19:07:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2006/06/30/More-than-meets-the-eye

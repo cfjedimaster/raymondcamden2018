@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Zeus POTW - XPath/XLST Updates"
 date: "2012-01-05T16:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/01/05/ColdFusion-Zeus-POTW-XPathXLST-Updates

@@ -2,7 +2,7 @@
 layout: post
 title: "Migrating from a Node App to Serverless"
 date: "2017-08-14T09:24:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: nodejs openwhisk
 banner_image: 
 permalink: /2017/08/14/migrating-from-a-node-app-to-serverless

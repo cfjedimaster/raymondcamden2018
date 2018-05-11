@@ -2,7 +2,7 @@
 layout: post
 title: "Real men write their own forms (or do they?)"
 date: "2008-04-24T13:04:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/04/24/Real-men-write-their-own-forms-or-do-they

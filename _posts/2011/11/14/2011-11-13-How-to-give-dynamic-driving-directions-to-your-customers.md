@@ -2,7 +2,7 @@
 layout: post
 title: "How to give dynamic driving directions to your customers"
 date: "2011-11-14T11:11:00+06:00"
-categories: HTML5 JavaScript jQuery Mobile 
+categories: html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/11/14/How-to-give-dynamic-driving-directions-to-your-customers

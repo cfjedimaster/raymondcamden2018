@@ -2,7 +2,7 @@
 layout: post
 title: "Odd jQuery/Keypress/AIR Issue"
 date: "2009-09-23T10:09:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/09/23/Odd-jQueryKeypressAIR-Issue

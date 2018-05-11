@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - JB Anacostia-Bolling, D.C. (JBAB)"
 date: "2013-04-01T08:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/04/01/ColdFusion-Job-Opening-JB-AnacostiaBolling-DC-JBAB

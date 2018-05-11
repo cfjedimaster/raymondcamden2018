@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - Adobe Cookbooks"
 date: "2012-02-01T11:02:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2012/02/01/Reminder-Adobe-Cookbooks

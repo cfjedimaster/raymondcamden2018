@@ -2,7 +2,7 @@
 layout: post
 title: "Open Source ColdFusion List"
 date: "2006-02-20T14:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/20/Open-Source-ColdFusion-List

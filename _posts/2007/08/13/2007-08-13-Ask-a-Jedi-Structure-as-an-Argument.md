@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Structure as an Argument"
 date: "2007-08-13T11:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/13/Ask-a-Jedi-Structure-as-an-Argument

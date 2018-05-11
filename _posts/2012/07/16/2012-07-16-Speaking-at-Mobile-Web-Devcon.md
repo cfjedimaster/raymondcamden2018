@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at Mobile + Web Devcon"
 date: "2012-07-16T11:07:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/07/16/Speaking-at-Mobile-Web-Devcon

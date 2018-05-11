@@ -2,7 +2,7 @@
 layout: post
 title: "You can be a star! (Until the copyright notices fly...)"
 date: "2006-07-15T18:07:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/07/15/You-can-be-a-star-Until-the-copyright-notices-fly

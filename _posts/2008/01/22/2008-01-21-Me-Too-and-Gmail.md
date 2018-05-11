@@ -2,7 +2,7 @@
 layout: post
 title: "Me (Too) and Gmail"
 date: "2008-01-22T07:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/01/22/Me-Too-and-Gmail

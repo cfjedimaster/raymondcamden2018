@@ -2,7 +2,7 @@
 layout: post
 title: "Soundings 4.0 - Ready for testing"
 date: "2011-05-06T14:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/05/06/Soundings-40-Ready-for-testing

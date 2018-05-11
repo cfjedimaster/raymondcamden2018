@@ -2,7 +2,7 @@
 layout: post
 title: "Some games to pick up"
 date: "2015-04-19T20:08:12+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2015/04/19/some-games-to-pick-up

@@ -2,7 +2,7 @@
 layout: post
 title: "Listing your Twitter followers by popularity (using 50 lines of ColdFusion)"
 date: "2010-09-24T14:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/09/24/Listing-your-Twitter-followers-by-popularity-using-50-lines-of-ColdFusion

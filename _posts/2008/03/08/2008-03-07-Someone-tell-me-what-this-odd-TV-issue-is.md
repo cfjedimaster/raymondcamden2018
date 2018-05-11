@@ -2,7 +2,7 @@
 layout: post
 title: "Someone tell me what this odd TV issue is"
 date: "2008-03-08T08:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/03/08/Someone-tell-me-what-this-odd-TV-issue-is

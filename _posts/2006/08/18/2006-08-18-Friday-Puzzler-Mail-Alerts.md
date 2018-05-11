@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Mail Alerts"
 date: "2006-08-18T12:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/18/Friday-Puzzler-Mail-Alerts

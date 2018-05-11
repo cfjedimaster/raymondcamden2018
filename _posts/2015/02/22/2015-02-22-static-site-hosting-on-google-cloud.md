@@ -2,7 +2,7 @@
 layout: post
 title: "Static site hosting on Google Cloud"
 date: "2015-02-22T21:16:48+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/02/22/static-site-hosting-on-google-cloud

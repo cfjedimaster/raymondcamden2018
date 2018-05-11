@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion's ArrayEach and Struct JSON Serialization"
 date: "2014-09-17T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/09/17/ColdFusions-ArrayEach-and-Struct-JSON-Serialization

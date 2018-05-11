@@ -2,7 +2,7 @@
 layout: post
 title: "Numeric HTML fields, keyboards, and zip codes"
 date: "2012-09-20T23:09:00+06:00"
-categories: HTML5 Mobile 
+categories: html5 mobile 
 tags: 
 banner_image: 
 permalink: /2012/09/20/Numeric-HTML-fields-keyboards-and-zip-codes

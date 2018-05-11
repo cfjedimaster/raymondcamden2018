@@ -2,7 +2,7 @@
 layout: post
 title: "Chasing down a whitespace issue"
 date: "2008-01-28T21:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/28/Chasing-down-a-whitespace-issue

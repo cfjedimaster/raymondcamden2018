@@ -2,7 +2,7 @@
 layout: post
 title: "Coolest Unboxing Ever"
 date: "2013-05-07T01:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/05/07/Coolest-Unboxing-Ever

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting your scope on"
 date: "2006-07-03T16:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/03/Ask-a-Jedi-Getting-your-scope-on

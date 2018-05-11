@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for a roommate at MAX?"
 date: "2005-09-14T16:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/14/Looking-for-a-roommate-at-MAX

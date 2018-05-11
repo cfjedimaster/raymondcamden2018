@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - Presentation to Toronto UG Tonight"
 date: "2007-04-11T09:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/11/Reminder-Presentation-to-Toronto-UG-Tonight

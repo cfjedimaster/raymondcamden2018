@@ -2,7 +2,7 @@
 layout: post
 title: "FYI - Cordova events must be run after deviceReady"
 date: "2015-07-15T08:53:36+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/07/15/fyi-cordova-events-must-be-run-after-deviceready

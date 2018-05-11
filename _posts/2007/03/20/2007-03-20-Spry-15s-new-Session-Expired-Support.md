@@ -2,7 +2,7 @@
 layout: post
 title: "Spry 1.5's new \"Session Expired\" Support"
 date: "2007-03-20T17:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/20/Spry-15s-new-Session-Expired-Support

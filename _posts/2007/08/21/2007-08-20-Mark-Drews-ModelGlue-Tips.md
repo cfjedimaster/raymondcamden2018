@@ -2,7 +2,7 @@
 layout: post
 title: "Mark Drew's Model-Glue Tips"
 date: "2007-08-21T07:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/21/Mark-Drews-ModelGlue-Tips

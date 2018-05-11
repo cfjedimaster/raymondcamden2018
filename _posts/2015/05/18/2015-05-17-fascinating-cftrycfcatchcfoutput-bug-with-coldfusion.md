@@ -2,7 +2,7 @@
 layout: post
 title: "Fascinating cftry/cfcatch/cfoutput bug with ColdFusion"
 date: "2015-05-18T06:08:50+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/05/18/fascinating-cftrycfcatchcfoutput-bug-with-coldfusion

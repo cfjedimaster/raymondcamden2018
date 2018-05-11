@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge Downtime"
 date: "2010-06-20T11:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/06/20/RIAForge-Downtime

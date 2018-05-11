@@ -2,7 +2,7 @@
 layout: post
 title: "Advanced Contest Announced!"
 date: "2006-02-22T17:02:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2006/02/22/Advanced-Contest-Announced

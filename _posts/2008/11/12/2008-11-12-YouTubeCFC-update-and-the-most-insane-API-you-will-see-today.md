@@ -2,7 +2,7 @@
 layout: post
 title: "YouTubeCFC update and the most insane API you will see today..."
 date: "2008-11-12T13:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/12/YouTubeCFC-update-and-the-most-insane-API-you-will-see-today

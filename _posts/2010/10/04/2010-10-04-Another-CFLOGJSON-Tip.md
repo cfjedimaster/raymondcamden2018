@@ -2,7 +2,7 @@
 layout: post
 title: "Another CFLOG/JSON Tip"
 date: "2010-10-04T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/04/Another-CFLOGJSON-Tip

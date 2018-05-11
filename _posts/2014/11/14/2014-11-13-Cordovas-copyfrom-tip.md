@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova's copy-from tip"
 date: "2014-11-14T10:11:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/11/14/Cordovas-copyfrom-tip

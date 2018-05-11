@@ -2,7 +2,7 @@
 layout: post
 title: "New IBM Composer Feature - Additional Action Logging"
 date: "2017-12-12"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk javascript
 banner_image: 
 permalink: /2017/12/12/new-ibm-composer-feature-additional-action-logging

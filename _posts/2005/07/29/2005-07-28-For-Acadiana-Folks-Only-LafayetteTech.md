@@ -2,7 +2,7 @@
 layout: post
 title: "For Acadiana Folks Only: LafayetteTech"
 date: "2005-07-29T10:07:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2005/07/29/For-Acadiana-Folks-Only-LafayetteTech

@@ -2,7 +2,7 @@
 layout: post
 title: "Using Generators with Harp"
 date: "2015-08-25T00:58:32+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/08/25/using-generators-with-harp

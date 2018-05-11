@@ -2,7 +2,7 @@
 layout: post
 title: "Run Visual Studio Code Insiders from WSL"
 date: "2017-09-19T20:19:00-07:00"
-categories: Development 
+categories: development 
 tags: visual studio code
 banner_image: 
 permalink: /2017/09/19/run-visual-studio-code-insiders-from-wsl

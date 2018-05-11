@@ -2,7 +2,7 @@
 layout: post
 title: "Official word on ColdFusion and Leopard"
 date: "2007-11-07T21:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/07/Official-word-on-ColdFusion-and-Leopard

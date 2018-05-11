@@ -2,7 +2,7 @@
 layout: post
 title: "Recording and assets from my ColdFusion 10 REST Presentation"
 date: "2012-12-05T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/12/05/Recording-and-assets-from-my-ColdFusion-10-REST-Presentation

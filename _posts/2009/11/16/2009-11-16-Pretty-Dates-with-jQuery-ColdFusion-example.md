@@ -2,7 +2,7 @@
 layout: post
 title: "\"Pretty Dates\" with jQuery (ColdFusion example)"
 date: "2009-11-16T17:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/11/16/Pretty-Dates-with-jQuery-ColdFusion-example

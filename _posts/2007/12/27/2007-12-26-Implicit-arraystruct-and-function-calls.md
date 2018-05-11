@@ -2,7 +2,7 @@
 layout: post
 title: "Implicit array/struct and function calls"
 date: "2007-12-27T07:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/27/Implicit-arraystruct-and-function-calls

@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a highlight/fadeout text effect on a tag cloud"
 date: "2012-02-02T17:02:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/02/02/Creating-a-highlightfadeout-text-effect-on-a-tag-cloud

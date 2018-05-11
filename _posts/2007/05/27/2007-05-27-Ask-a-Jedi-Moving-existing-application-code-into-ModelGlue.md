@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Moving existing application code into Model-Glue"
 date: "2007-05-27T16:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/27/Ask-a-Jedi-Moving-existing-application-code-into-ModelGlue

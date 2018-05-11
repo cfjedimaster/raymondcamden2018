@@ -2,7 +2,7 @@
 layout: post
 title: "Upcoming ColdFusion E-Seminars"
 date: "2014-04-09T16:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/04/09/Upcoming-ColdFusion-ESeminars

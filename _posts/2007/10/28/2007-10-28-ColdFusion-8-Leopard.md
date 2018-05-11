@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 + Leopard"
 date: "2007-10-28T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/28/ColdFusion-8-Leopard

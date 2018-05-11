@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery quickie: Reading the contents of form fields in an iframe"
 date: "2011-01-13T07:01:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/01/13/jQuery-quickie-Reading-the-contents-of-form-fields-in-an-iframe

@@ -2,7 +2,7 @@
 layout: post
 title: "(Short) Review: Iron Man"
 date: "2008-05-03T04:05:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2008/05/03/Short-Review-Iron-Man

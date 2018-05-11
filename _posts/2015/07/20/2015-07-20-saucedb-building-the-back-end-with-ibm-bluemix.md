@@ -2,7 +2,7 @@
 layout: post
 title: "SauceDB - Building the back end with IBM Bluemix"
 date: "2015-07-20T14:40:36+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: bluemix cordova ionic
 banner_image: 
 permalink: /2015/07/20/saucedb-building-the-back-end-with-ibm-bluemix

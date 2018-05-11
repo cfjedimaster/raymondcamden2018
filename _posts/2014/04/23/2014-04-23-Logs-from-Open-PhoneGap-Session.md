@@ -2,7 +2,7 @@
 layout: post
 title: "Logs from Open PhoneGap Session"
 date: "2014-04-23T17:04:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/04/23/Logs-from-Open-PhoneGap-Session

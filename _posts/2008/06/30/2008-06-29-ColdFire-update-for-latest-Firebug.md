@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFire update for latest Firebug"
 date: "2008-06-30T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/30/ColdFire-update-for-latest-Firebug

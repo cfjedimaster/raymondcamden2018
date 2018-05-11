@@ -2,7 +2,7 @@
 layout: post
 title: "Example of adding menu support to a PhoneGap Application"
 date: "2012-05-30T15:05:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/05/30/Example-of-adding-menu-support-to-a-PhoneGap-Application

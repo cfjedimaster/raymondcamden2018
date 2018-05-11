@@ -2,7 +2,7 @@
 layout: post
 title: "Recording of my ORA Static Site Presentation"
 date: "2015-09-03T05:53:41+06:00"
-categories: Development HTML5 
+categories: development html5 
 tags: 
 banner_image: 
 permalink: /2015/09/03/recording-of-my-ora-static-site-presentation

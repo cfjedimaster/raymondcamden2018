@@ -2,7 +2,7 @@
 layout: post
 title: "Galleon 1.3.4 Released"
 date: "2005-07-15T17:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/07/15/Galleon-134-Released

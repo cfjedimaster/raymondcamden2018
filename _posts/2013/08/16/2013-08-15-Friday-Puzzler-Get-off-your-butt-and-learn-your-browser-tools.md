@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Get off your butt and learn your browser tools!"
 date: "2013-08-16T10:08:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/16/Friday-Puzzler-Get-off-your-butt-and-learn-your-browser-tools

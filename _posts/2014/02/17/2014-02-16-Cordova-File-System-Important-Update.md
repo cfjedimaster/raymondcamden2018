@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova File System - Important Update"
 date: "2014-02-17T09:02:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/02/17/Cordova-File-System-Important-Update

@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts on Node.js and Express"
 date: "2012-08-29T12:08:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2012/08/29/Thoughts-on-Nodejs-and-Express

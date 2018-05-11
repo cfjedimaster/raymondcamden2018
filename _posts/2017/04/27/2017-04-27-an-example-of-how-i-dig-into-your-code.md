@@ -2,7 +2,7 @@
 layout: post
 title: "An Example of How I Dig Into Your Code"
 date: "2017-04-27T07:49:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2017/04/27/an-example-of-how-i-dig-into-your-code

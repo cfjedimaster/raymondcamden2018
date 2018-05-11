@@ -2,7 +2,7 @@
 layout: post
 title: "Help spread the word about Ulitzer/Con-Sys"
 date: "2009-03-30T17:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/03/30/Help-spread-the-word-about-UlitzerConSys

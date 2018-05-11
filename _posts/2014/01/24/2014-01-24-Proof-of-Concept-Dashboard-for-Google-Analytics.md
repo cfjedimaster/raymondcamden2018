@@ -2,7 +2,7 @@
 layout: post
 title: "Proof of Concept - Dashboard for Google Analytics"
 date: "2014-01-24T12:01:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2014/01/24/Proof-of-Concept-Dashboard-for-Google-Analytics

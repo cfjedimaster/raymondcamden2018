@@ -2,7 +2,7 @@
 layout: post
 title: "How I'd sell unit testing..."
 date: "2013-05-08T16:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/05/08/How-Id-sell-unit-testing

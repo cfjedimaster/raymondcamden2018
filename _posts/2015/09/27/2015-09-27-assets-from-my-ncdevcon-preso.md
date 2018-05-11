@@ -2,7 +2,7 @@
 layout: post
 title: "Assets from my NCDevCon Preso"
 date: "2015-09-27T14:34:56+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/09/27/assets-from-my-ncdevcon-preso

@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at WebManiacs"
 date: "2007-12-12T13:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/12/Speaking-at-Web-Maniacs

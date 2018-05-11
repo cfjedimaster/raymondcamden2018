@@ -2,7 +2,7 @@
 layout: post
 title: "Files/Slides from CFUNITED Presentations"
 date: "2008-06-19T11:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/19/FilesSlides-from-CFUNITED-Presentations

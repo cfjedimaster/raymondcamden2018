@@ -2,7 +2,7 @@
 layout: post
 title: "Two Oh Oh Nine"
 date: "2009-12-31T09:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/12/31/Two-Oh-Oh-Nine

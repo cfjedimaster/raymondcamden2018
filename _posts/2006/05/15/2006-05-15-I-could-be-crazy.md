@@ -2,7 +2,7 @@
 layout: post
 title: "I could be crazy..."
 date: "2006-05-15T14:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/05/15/I-could-be-crazy

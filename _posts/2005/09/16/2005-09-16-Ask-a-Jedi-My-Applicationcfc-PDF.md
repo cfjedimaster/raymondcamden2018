@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: My Application.cfc PDF"
 date: "2005-09-16T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/16/Ask-a-Jedi-My-Applicationcfc-PDF

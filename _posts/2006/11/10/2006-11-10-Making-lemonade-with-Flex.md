@@ -2,7 +2,7 @@
 layout: post
 title: "Making lemonade with Flex"
 date: "2006-11-10T21:11:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/11/10/Making-lemonade-with-Flex

@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for (mainly) non-American testers for RIAForge"
 date: "2009-11-27T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/27/Looking-for-mainly-nonAmerican-testers-for-RIAForge

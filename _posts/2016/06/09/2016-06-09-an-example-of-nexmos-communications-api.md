@@ -2,7 +2,7 @@
 layout: post
 title: "An example of Nexmo's Communications API"
 date: "2016-06-09T13:16:00-07:00"
-categories: Development 
+categories: development 
 tags: nodejs
 banner_image: /images/banners/nexmo.jpg
 permalink: /2016/06/09/an-example-of-nexmos-communications-api

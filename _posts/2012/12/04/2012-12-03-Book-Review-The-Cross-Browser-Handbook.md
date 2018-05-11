@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: The Cross Browser Handbook"
 date: "2012-12-04T10:12:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/12/04/Book-Review-The-Cross-Browser-Handbook

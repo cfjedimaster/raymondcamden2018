@@ -2,7 +2,7 @@
 layout: post
 title: "Bug with queryExecute - use with caution"
 date: "2014-10-09T08:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/10/09/Bug-with-queryExecute-use-with-caution

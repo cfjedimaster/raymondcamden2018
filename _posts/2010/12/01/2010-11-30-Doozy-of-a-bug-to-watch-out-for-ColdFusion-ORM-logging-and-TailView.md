@@ -2,7 +2,7 @@
 layout: post
 title: "Doozy of a bug to watch out for - ColdFusion ORM, logging, and TailView"
 date: "2010-12-01T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/12/01/Doozy-of-a-bug-to-watch-out-for-ColdFusion-ORM-logging-and-TailView

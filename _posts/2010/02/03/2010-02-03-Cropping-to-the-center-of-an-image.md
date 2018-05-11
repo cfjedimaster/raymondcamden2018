@@ -2,7 +2,7 @@
 layout: post
 title: "Cropping to the center of an image"
 date: "2010-02-03T18:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/03/Cropping-to-the-center-of-an-image

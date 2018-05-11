@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Ionic, Box, and IBM MobileFirst"
 date: "2015-06-24T09:02:30+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova ionic mobilefirst
 banner_image: 
 permalink: /2015/06/24/working-with-ionic-box-and-ibm-mobilefirst

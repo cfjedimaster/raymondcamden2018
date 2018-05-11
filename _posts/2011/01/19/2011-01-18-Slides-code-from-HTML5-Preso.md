@@ -2,7 +2,7 @@
 layout: post
 title: "Slides, code from HTML5 Preso"
 date: "2011-01-19T09:01:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2011/01/19/Slides-code-from-HTML5-Preso

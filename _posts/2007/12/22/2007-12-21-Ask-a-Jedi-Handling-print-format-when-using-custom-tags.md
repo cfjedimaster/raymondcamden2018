@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Handling print format when using custom tags"
 date: "2007-12-22T08:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/22/Ask-a-Jedi-Handling-print-format-when-using-custom-tags

@@ -2,7 +2,7 @@
 layout: post
 title: "Lucene Update"
 date: "2007-10-24T22:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/24/Lucene-Update

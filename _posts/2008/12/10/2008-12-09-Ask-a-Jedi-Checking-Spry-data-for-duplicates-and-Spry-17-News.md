@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Checking Spry data for duplicates (and Spry 1.7 News)"
 date: "2008-12-10T08:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/12/10/Ask-a-Jedi-Checking-Spry-data-for-duplicates-and-Spry-17-News

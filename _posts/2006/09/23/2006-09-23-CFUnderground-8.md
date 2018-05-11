@@ -2,7 +2,7 @@
 layout: post
 title: "CFUnderground 8"
 date: "2006-09-23T19:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/23/CFUnderground-8

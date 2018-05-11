@@ -2,7 +2,7 @@
 layout: post
 title: "Time for Angular 2?"
 date: "2016-01-18T12:32:12+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2016/01/18/time-for-angular-2

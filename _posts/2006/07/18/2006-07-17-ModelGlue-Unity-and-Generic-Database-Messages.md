@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue Unity and Generic Database Messages"
 date: "2006-07-18T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/18/ModelGlue-Unity-and-Generic-Database-Messages

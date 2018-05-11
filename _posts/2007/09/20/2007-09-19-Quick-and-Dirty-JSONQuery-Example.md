@@ -2,7 +2,7 @@
 layout: post
 title: "Quick and Dirty JSON/Query Example"
 date: "2007-09-20T10:09:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2007/09/20/Quick-and-Dirty-JSONQuery-Example

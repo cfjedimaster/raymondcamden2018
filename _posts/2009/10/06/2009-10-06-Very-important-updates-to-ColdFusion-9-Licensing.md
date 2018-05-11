@@ -2,7 +2,7 @@
 layout: post
 title: "Very important updates to ColdFusion 9 Licensing"
 date: "2009-10-06T12:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/06/Very-important-updates-to-ColdFusion-9-Licensing

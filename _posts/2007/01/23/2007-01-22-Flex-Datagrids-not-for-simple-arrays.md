@@ -2,7 +2,7 @@
 layout: post
 title: "Flex Datagrids - not for simple arrays"
 date: "2007-01-23T11:01:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2007/01/23/Flex-Datagrids-not-for-simple-arrays

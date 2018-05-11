@@ -2,7 +2,7 @@
 layout: post
 title: "Quick FAQs on my applications"
 date: "2006-04-11T10:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/04/11/Quick-FAQs-on-my-applications

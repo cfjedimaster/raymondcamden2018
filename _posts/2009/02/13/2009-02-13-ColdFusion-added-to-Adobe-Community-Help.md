@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion added to Adobe Community Help"
 date: "2009-02-13T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/13/ColdFusion-added-to-Adobe-Community-Help

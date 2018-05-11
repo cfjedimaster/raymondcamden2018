@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: CFLOGIN and duplicate logins?"
 date: "2008-11-07T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/07/Ask-a-Jedi-CFLOGIN-and-duplicate-logins

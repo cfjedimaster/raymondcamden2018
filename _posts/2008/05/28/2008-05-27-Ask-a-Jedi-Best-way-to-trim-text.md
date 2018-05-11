@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Best way to trim text"
 date: "2008-05-28T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/28/Ask-a-Jedi-Best-way-to-trim-text

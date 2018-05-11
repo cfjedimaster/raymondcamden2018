@@ -2,7 +2,7 @@
 layout: post
 title: "You know your plane is safe when it's running Linux..."
 date: "2008-03-21T14:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/03/21/You-know-your-plane-is-safe-when-its-running-Linux

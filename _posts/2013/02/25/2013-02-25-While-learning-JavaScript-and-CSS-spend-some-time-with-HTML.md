@@ -2,7 +2,7 @@
 layout: post
 title: "While learning JavaScript and CSS, spend some time with HTML"
 date: "2013-02-25T20:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/02/25/While-learning-JavaScript-and-CSS-spend-some-time-with-HTML

@@ -2,7 +2,7 @@
 layout: post
 title: "Sessions posted for MAX 2007 - Speaking at MAX"
 date: "2007-06-20T16:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/20/Sessions-posted-for-MAX-2007-Speaking-at-MAX

@@ -2,7 +2,7 @@
 layout: post
 title: "Ted Patrick publishes a list of top Flex Firms"
 date: "2007-04-05T11:04:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/04/05/Ted-Patrick-publishes-a-list-of-top-Flex-Firms

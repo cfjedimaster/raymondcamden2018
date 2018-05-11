@@ -2,7 +2,7 @@
 layout: post
 title: "Initial list of speakers and sessions for the ColdFusion Unconference"
 date: "2011-07-03T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/03/Initial-list-of-speakers-and-sessions-for-the-ColdFusion-Unconference

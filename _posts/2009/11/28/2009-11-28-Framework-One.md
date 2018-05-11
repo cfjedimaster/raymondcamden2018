@@ -2,7 +2,7 @@
 layout: post
 title: "Framework One"
 date: "2009-11-28T19:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/28/Framework-One

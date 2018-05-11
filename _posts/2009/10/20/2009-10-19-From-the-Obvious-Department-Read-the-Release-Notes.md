@@ -2,7 +2,7 @@
 layout: post
 title: "From the Obvious Department: Read the Release Notes"
 date: "2009-10-20T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/20/From-the-Obvious-Department-Read-the-Release-Notes

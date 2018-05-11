@@ -2,7 +2,7 @@
 layout: post
 title: "Tracking and notifying geolocation status with Ionic"
 date: "2015-05-18T08:42:04+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova ionic
 banner_image: 
 permalink: /2015/05/18/tracking-and-notifying-geolocation-status-with-ionic

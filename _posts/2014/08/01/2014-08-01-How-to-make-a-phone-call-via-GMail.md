@@ -2,7 +2,7 @@
 layout: post
 title: "How to make a phone call via GMail"
 date: "2014-08-01T15:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2014/08/01/How-to-make-a-phone-call-via-GMail

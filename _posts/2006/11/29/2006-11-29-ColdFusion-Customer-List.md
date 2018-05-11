@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Customer List"
 date: "2006-11-29T14:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/29/ColdFusion-Customer-List

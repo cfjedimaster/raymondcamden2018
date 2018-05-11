@@ -2,7 +2,7 @@
 layout: post
 title: "Spry demo updated"
 date: "2006-06-12T15:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/06/12/Spry-demo-updated

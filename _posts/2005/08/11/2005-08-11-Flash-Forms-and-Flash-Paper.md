@@ -2,7 +2,7 @@
 layout: post
 title: "Flash Forms and Flash Paper"
 date: "2005-08-11T13:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/11/Flash-Forms-and-Flash-Paper

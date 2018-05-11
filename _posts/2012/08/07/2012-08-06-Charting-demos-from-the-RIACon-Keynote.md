@@ -2,7 +2,7 @@
 layout: post
 title: "Charting demos from the RIACon Keynote"
 date: "2012-08-07T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/08/07/Charting-demos-from-the-RIACon-Keynote

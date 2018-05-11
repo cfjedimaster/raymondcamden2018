@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge Milestone (Again!), and time for 'What will happen to Ray on this trip'"
 date: "2007-06-12T12:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/06/12/RIAForge-Milestone-Again-and-time-for-What-will-happen-to-Ray-on-this-trip

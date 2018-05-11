@@ -2,7 +2,7 @@
 layout: post
 title: "Remove EXIF data with ColdFusion"
 date: "2014-01-06T06:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/01/06/Remove-EXIF-data-with-ColdFusion

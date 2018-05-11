@@ -2,7 +2,7 @@
 layout: post
 title: "Using jQuery to search against different types of content"
 date: "2011-02-01T07:02:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/02/01/Using-jQuery-to-search-against-different-types-of-content

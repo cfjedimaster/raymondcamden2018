@@ -2,8 +2,8 @@
 layout: post
 title: "DevTools Tips for Progressive Web Apps"
 date: "2017-10-17T07:45:00-07:00"
-categories: Development JavaScript 
-tags: JavaScript
+categories: development javascript 
+tags: javascript
 banner_image: 
 permalink: /2017/10/17/devtools-tips-for-pwas
 ---

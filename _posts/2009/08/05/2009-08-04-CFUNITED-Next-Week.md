@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED Next Week!"
 date: "2009-08-05T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/05/CFUNITED-Next-Week

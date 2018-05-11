@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 10 Missing Feature - Form Fields and Arrays"
 date: "2012-06-19T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/06/19/ColdFusion-10-Missing-Feature-Form-Fields-and-Arrays

@@ -2,7 +2,7 @@
 layout: post
 title: "Canvas ColdFusion Wiki Updated"
 date: "2006-04-03T16:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/03/Canvas-ColdFusion-Wiki-Updated

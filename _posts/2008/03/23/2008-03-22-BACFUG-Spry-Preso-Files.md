@@ -2,7 +2,7 @@
 layout: post
 title: "BACFUG Spry Preso Files"
 date: "2008-03-23T09:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/03/23/BACFUG-Spry-Preso-Files

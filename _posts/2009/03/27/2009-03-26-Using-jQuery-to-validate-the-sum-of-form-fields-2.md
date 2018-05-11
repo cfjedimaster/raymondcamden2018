@@ -2,7 +2,7 @@
 layout: post
 title: "Using jQuery to validate the sum of form fields (2)"
 date: "2009-03-27T08:03:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/03/27/Using-jQuery-to-validate-the-sum-of-form-fields-2

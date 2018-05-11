@@ -2,7 +2,7 @@
 layout: post
 title: "Quick note for Parse and JavaScript Users"
 date: "2013-07-10T19:07:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/07/10/Quick-note-for-Parse-and-JavaScript-Users

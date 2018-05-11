@@ -2,7 +2,7 @@
 layout: post
 title: "Did you know you could verify DSNs with ColdFusion code?"
 date: "2009-04-15T13:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/15/Did-you-know-you-could-verify-DSNs-with-ColdFusion-code

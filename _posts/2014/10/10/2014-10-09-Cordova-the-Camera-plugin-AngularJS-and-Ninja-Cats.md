@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova, the Camera plugin, AngularJS, and Ninja Cats."
 date: "2014-10-10T10:10:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/10/10/Cordova-the-Camera-plugin-AngularJS-and-Ninja-Cats

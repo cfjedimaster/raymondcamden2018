@@ -2,7 +2,7 @@
 layout: post
 title: "Out of Office notice - getting fat on Tuesday"
 date: "2009-02-24T09:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/02/24/Out-of-Office-notice-getting-fat-on-Tuesday

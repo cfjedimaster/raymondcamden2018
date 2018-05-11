@@ -2,7 +2,7 @@
 layout: post
 title: "New aggregator on the scene"
 date: "2006-02-13T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/13/New-aggregator-on-the-scene

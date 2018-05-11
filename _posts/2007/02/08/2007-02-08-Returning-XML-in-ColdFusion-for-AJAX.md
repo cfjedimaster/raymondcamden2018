@@ -2,7 +2,7 @@
 layout: post
 title: "Returning XML in ColdFusion for AJAX"
 date: "2007-02-08T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/08/Returning-XML-in-ColdFusion-for-AJAX

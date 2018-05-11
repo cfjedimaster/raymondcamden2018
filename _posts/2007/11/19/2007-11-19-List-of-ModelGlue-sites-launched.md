@@ -2,7 +2,7 @@
 layout: post
 title: "List of Model-Glue sites launched"
 date: "2007-11-19T12:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/19/List-of-ModelGlue-sites-launched

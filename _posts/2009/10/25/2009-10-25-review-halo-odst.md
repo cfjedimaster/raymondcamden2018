@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Halo 3: ODST"
 date: "2009-10-25T17:10:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2009/10/25/review-halo-odst

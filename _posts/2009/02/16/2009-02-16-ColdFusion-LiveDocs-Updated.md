@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion LiveDocs Updated"
 date: "2009-02-16T12:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/16/ColdFusion-LiveDocs-Updated

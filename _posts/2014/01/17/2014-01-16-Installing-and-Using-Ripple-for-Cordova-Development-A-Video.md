@@ -2,7 +2,7 @@
 layout: post
 title: "Installing and Using Ripple for Cordova Development (A Video)"
 date: "2014-01-17T10:01:00+06:00"
-categories: Development HTML5 Mobile 
+categories: development html5 mobile 
 tags: 
 banner_image: 
 permalink: /2014/01/17/Installing-and-Using-Ripple-for-Cordova-Development-A-Video

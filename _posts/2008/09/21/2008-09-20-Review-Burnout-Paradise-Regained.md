@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Burnout Paradise (Regained)"
 date: "2008-09-21T10:09:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2008/09/21/Review-Burnout-Paradise-Regained

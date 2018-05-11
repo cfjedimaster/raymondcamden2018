@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Problem with CFGRID and Edit Action"
 date: "2008-08-29T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/29/Ask-a-Jedi-Problem-with-CFGRID-and-Edit-Action

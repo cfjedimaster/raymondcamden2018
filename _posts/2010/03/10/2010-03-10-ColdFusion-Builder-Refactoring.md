@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Builder - Refactoring"
 date: "2010-03-10T15:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/03/10/ColdFusion-Builder-Refactoring

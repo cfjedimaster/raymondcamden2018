@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - Infinite Web Design"
 date: "2012-11-20T10:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/11/20/ColdFusion-Job-Opening-Infinite-Web-Design

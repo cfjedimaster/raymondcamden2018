@@ -2,7 +2,7 @@
 layout: post
 title: "Enough presentations to last you till next year..."
 date: "2012-12-28T09:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/12/28/Enough-presentations-to-last-you-till-next-year

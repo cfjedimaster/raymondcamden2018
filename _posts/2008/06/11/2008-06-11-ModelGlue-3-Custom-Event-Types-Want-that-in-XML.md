@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue 3 - Custom Event Types - Want that in XML?"
 date: "2008-06-11T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/11/ModelGlue-3-Custom-Event-Types-Want-that-in-XML

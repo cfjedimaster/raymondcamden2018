@@ -2,7 +2,7 @@
 layout: post
 title: "Hi, my name is..."
 date: "2009-08-01T16:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/01/Hi-my-name-is

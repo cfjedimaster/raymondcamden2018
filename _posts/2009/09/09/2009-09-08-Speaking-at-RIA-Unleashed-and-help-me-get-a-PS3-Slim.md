@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at RIA Unleashed, and help me get a PS3 Slim."
 date: "2009-09-09T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/09/Speaking-at-RIA-Unleashed-and-help-me-get-a-PS3-Slim

@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC (ColdFusion Blog) 4.0.2 Released"
 date: "2005-12-16T17:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/16/BlogCFC-ColdFusion-Blog-402-Released

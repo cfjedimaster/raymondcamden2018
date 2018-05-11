@@ -2,7 +2,7 @@
 layout: post
 title: "How I got started in ColdFusion"
 date: "2011-08-01T07:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/01/How-I-got-started-in-ColdFusion

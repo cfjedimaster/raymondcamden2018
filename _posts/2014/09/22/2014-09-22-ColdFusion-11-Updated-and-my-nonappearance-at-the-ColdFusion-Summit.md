@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 11 Updated, and my (non)appearance at the ColdFusion Summit"
 date: "2014-09-22T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/09/22/ColdFusion-11-Updated-and-my-nonappearance-at-the-ColdFusion-Summit

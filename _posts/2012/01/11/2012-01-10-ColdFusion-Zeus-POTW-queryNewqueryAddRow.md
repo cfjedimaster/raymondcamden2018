@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Zeus POTW: queryNew/queryAddRow"
 date: "2012-01-11T11:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/01/11/ColdFusion-Zeus-POTW-queryNewqueryAddRow

@@ -2,7 +2,7 @@
 layout: post
 title: "Simple math tricks with ColdFusion 8 Ajax tags"
 date: "2008-02-21T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/21/Simple-math-tricks-with-ColdFusion-8-Ajax-tags

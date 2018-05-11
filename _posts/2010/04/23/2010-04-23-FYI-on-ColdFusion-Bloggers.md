@@ -2,7 +2,7 @@
 layout: post
 title: "FYI on ColdFusion Bloggers"
 date: "2010-04-23T18:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/04/23/FYI-on-ColdFusion-Bloggers

@@ -2,8 +2,8 @@
 layout: post
 title: "Using the Onymos Media Component"
 date: "2016-03-01T08:06:00-07:00"
-categories: Development Mobile 
-tags: Cordova
+categories: development mobile 
+tags: cordova
 banner_image: 
 permalink: /2016/03/01/using-the-onymos-media-component
 ---

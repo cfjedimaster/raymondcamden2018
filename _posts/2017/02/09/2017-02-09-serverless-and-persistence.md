@@ -2,7 +2,7 @@
 layout: post
 title: "Serverless and Persistence"
 date: "2017-02-09T10:20:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/02/09/serverless-and-persistence

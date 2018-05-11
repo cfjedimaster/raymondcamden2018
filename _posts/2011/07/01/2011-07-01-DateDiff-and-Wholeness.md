@@ -2,7 +2,7 @@
 layout: post
 title: "DateDiff and Wholeness"
 date: "2011-07-01T13:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/01/DateDiff-and-Wholeness

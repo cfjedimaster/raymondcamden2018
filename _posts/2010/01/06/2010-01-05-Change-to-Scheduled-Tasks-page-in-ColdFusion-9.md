@@ -2,7 +2,7 @@
 layout: post
 title: "Change to Scheduled Tasks page in ColdFusion 9"
 date: "2010-01-06T07:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/06/Change-to-Scheduled-Tasks-page-in-ColdFusion-9

@@ -2,7 +2,7 @@
 layout: post
 title: "My first Apollo app"
 date: "2007-03-19T15:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/19/My-first-Apollo-app

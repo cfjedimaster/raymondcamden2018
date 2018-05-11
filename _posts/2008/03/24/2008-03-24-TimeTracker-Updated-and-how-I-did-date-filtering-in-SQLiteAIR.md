@@ -2,7 +2,7 @@
 layout: post
 title: "TimeTracker Updated, and how I did date filtering in SQLite/AIR"
 date: "2008-03-24T11:03:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2008/03/24/TimeTracker-Updated-and-how-I-did-date-filtering-in-SQLiteAIR

@@ -2,7 +2,7 @@
 layout: post
 title: "My First Android Application"
 date: "2010-10-21T19:10:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2010/10/21/My-First-Android-Application

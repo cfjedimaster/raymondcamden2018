@@ -2,7 +2,7 @@
 layout: post
 title: "Suggest a topic for CFUNTED 08, and win a pass!"
 date: "2008-03-07T12:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/07/Suggest-a-topic-for-CFUNTED-08-and-win-a-pass

@@ -2,7 +2,7 @@
 layout: post
 title: "Using Errorception with PhoneGap"
 date: "2013-06-13T08:06:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2013/06/13/Using-Errorception-with-PhoneGap

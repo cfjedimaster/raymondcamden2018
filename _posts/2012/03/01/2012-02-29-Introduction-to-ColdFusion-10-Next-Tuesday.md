@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to ColdFusion 10 - Next Tuesday"
 date: "2012-03-01T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/01/Introduction-to-ColdFusion-10-Next-Tuesday

@@ -2,7 +2,7 @@
 layout: post
 title: "Session metrics with Application.cfc (2)"
 date: "2006-12-20T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/12/20/Session-metrics-with-Applicationcfc-2

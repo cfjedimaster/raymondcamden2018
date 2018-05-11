@@ -2,7 +2,7 @@
 layout: post
 title: "(Still) Looking for a ColdFusion job?"
 date: "2012-01-17T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/01/17/Still-Looking-for-a-ColdFusion-job

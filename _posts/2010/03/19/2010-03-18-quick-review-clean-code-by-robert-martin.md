@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Review: Clean Code by Robert Martin"
 date: "2010-03-19T10:03:00+06:00"
-categories: Books ColdFusion 
+categories: books coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/19/quick-review-clean-code-by-robert-martin

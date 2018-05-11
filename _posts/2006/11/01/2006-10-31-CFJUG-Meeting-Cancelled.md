@@ -2,7 +2,7 @@
 layout: post
 title: "CFJUG Meeting Cancelled"
 date: "2006-11-01T09:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/01/CFJUG-Meeting-Cancelled

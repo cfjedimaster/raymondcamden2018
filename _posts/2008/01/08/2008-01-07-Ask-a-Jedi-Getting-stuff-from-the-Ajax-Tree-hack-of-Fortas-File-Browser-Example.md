@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting stuff from the Ajax Tree, hack of Forta's File Browser Example"
 date: "2008-01-08T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/08/Ask-a-Jedi-Getting-stuff-from-the-Ajax-Tree-hack-of-Fortas-File-Browser-Example

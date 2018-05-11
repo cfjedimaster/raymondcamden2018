@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Google and OAuth2"
 date: "2011-12-06T14:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/12/06/Working-with-Google-and-OAuth2

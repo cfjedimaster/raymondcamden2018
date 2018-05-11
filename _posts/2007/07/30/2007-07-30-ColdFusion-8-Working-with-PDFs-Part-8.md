@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: Working with PDFs (Part 8)"
 date: "2007-07-31T00:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/30/ColdFusion-8-Working-with-PDFs-Part-8

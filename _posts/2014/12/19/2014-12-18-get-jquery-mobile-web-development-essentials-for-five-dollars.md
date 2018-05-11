@@ -2,7 +2,7 @@
 layout: post
 title: "Get jQuery Mobile Web Development Essentials for Five Dollars!"
 date: "2014-12-19T05:52:52+06:00"
-categories: Development JavaScript jQuery Mobile 
+categories: development javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2014/12/19/get-jquery-mobile-web-development-essentials-for-five-dollars

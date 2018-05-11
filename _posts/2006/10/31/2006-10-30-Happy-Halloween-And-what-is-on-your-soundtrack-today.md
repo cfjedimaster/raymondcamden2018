@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Halloween! And what is on your soundtrack today?"
 date: "2006-10-31T07:10:00+06:00"
-categories: Music 
+categories: music 
 tags: 
 banner_image: 
 permalink: /2006/10/31/Happy-Halloween-And-what-is-on-your-soundtrack-today

@@ -2,7 +2,7 @@
 layout: post
 title: "Firefox bug(?) with DOM Manipulation"
 date: "2012-07-17T17:07:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/07/17/Firefox-bug-with-DOM-Manipulation

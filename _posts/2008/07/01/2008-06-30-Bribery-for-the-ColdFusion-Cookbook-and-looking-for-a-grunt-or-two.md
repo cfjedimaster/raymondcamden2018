@@ -2,7 +2,7 @@
 layout: post
 title: "Bribery for the ColdFusion Cookbook (and looking for a grunt or two)"
 date: "2008-07-01T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/01/Bribery-for-the-ColdFusion-Cookbook-and-looking-for-a-grunt-or-two

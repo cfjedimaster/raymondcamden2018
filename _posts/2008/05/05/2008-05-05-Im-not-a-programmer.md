@@ -2,7 +2,7 @@
 layout: post
 title: "I'm not a programmer"
 date: "2008-05-05T12:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/05/05/Im-not-a-programmer

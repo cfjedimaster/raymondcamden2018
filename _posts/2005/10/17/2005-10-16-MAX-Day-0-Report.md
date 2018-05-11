@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Day 0 Report"
 date: "2005-10-17T02:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/10/17/MAX-Day-0-Report

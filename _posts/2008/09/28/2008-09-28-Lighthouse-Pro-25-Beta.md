@@ -2,7 +2,7 @@
 layout: post
 title: "Lighthouse Pro 2.5 (Beta)"
 date: "2008-09-29T00:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/28/Lighthouse-Pro-25-Beta

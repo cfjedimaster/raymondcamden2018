@@ -2,7 +2,7 @@
 layout: post
 title: "Quick OpenWhisk Debugging Example"
 date: "2017-06-05T10:54:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/06/05/quick-openwhisk-debugging-example

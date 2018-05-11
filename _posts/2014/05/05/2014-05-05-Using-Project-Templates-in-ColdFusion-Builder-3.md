@@ -2,7 +2,7 @@
 layout: post
 title: "Using Project Templates in ColdFusion Builder 3"
 date: "2014-05-05T16:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/05/05/Using-Project-Templates-in-ColdFusion-Builder-3

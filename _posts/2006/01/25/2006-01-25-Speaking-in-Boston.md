@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking in Boston!"
 date: "2006-01-25T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/25/Speaking-in-Boston

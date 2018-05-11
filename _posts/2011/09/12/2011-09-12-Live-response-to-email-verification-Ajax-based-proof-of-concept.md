@@ -2,7 +2,7 @@
 layout: post
 title: "Live response to email verification - Ajax based proof of concept"
 date: "2011-09-12T22:09:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2011/09/12/Live-response-to-email-verification-Ajax-based-proof-of-concept

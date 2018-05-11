@@ -2,7 +2,7 @@
 layout: post
 title: "A Few Tips on Debugging OpenWhisk Functions with VS Code"
 date: "2018-01-23"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk visual studio code
 banner_image: 
 permalink: /2018/01/23/a-few-tips-on-debugging-openwhisk-functions-with-vs-code

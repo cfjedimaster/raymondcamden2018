@@ -2,7 +2,7 @@
 layout: post
 title: "Another simple update to ColdFusionBloggers.org - Logging Search Change"
 date: "2007-08-03T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/03/Another-simple-update-to-ColdFusionBloggersorg-Logging-Search-Change

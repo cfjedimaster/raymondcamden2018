@@ -2,7 +2,7 @@
 layout: post
 title: "Photoshop launches new Generator feature"
 date: "2013-09-09T12:09:00+06:00"
-categories: Design Development 
+categories: design development 
 tags: 
 banner_image: 
 permalink: /2013/09/09/Photoshop-launches-new-Generator-feature

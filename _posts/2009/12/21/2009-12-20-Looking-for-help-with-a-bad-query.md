@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for help with a bad query"
 date: "2009-12-21T08:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2009/12/21/Looking-for-help-with-a-bad-query

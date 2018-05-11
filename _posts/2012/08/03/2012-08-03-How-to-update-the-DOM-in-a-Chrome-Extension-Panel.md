@@ -2,7 +2,7 @@
 layout: post
 title: "How to update the Panel DOM in a Chrome Extension Panel"
 date: "2012-08-03T17:08:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2012/08/03/How-to-update-the-DOM-in-a-Chrome-Extension-Panel

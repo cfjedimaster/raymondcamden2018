@@ -2,7 +2,7 @@
 layout: post
 title: "Stormy weather.... ColdFusion Builder 2 on Labs"
 date: "2011-03-03T01:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/03/03/Storm-weather-ColdFusion-Builder-2-on-Labs

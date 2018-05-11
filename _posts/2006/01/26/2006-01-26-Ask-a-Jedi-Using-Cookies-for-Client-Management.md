@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using Cookies for Client Management"
 date: "2006-01-26T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/26/Ask-a-Jedi-Using-Cookies-for-Client-Management

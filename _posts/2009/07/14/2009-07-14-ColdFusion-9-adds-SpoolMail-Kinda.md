@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 adds SpoolMail (Kinda...)"
 date: "2009-07-14T11:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/14/ColdFusion-9-adds-SpoolMail-Kinda

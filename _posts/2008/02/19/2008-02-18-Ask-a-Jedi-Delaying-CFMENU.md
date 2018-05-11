@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Delaying CFMENU"
 date: "2008-02-19T11:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/19/Ask-a-Jedi-Delaying-CFMENU

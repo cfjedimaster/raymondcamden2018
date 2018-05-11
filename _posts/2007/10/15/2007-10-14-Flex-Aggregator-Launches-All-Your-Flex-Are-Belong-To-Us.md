@@ -2,7 +2,7 @@
 layout: post
 title: "Flex Aggregator Launches: All Your Flex Are Belong To Us"
 date: "2007-10-15T08:10:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/10/15/Flex-Aggregator-Launches-All-Your-Flex-Are-Belong-To-Us

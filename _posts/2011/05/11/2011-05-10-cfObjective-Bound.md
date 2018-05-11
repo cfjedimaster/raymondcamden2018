@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective Bound"
 date: "2011-05-11T08:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/05/11/cfObjective-Bound

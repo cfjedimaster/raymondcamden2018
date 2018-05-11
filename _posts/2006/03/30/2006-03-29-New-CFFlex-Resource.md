@@ -2,7 +2,7 @@
 layout: post
 title: "New CF/Flex Resource"
 date: "2006-03-30T10:03:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2006/03/30/New-CFFlex-Resource

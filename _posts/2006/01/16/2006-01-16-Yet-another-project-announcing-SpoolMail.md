@@ -2,7 +2,7 @@
 layout: post
 title: "Yet another project - announcing SpoolMail"
 date: "2006-01-16T18:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/16/Yet-another-project-announcing-SpoolMail

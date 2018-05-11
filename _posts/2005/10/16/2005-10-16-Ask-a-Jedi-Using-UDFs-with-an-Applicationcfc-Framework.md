@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using UDFs with an Application.cfc Framework"
 date: "2005-10-16T17:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/16/Ask-a-Jedi-Using-UDFs-with-an-Applicationcfc-Framework

@@ -2,8 +2,8 @@
 layout: post
 title: "Time for Ionic 2"
 date: "2016-02-11T15:53:00-07:00"
-categories: Development Mobile 
-tags: Ionic
+categories: development mobile 
+tags: ionic
 banner_image: /images/banners/ionic2beta.png
 permalink: /2016/02/11/time-for-ionic-2
 ---

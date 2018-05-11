@@ -2,7 +2,7 @@
 layout: post
 title: "Lafayette Mobile Jump Start"
 date: "2011-10-01T13:10:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2011/10/01/Lafayette-Mobile-Jump-Start

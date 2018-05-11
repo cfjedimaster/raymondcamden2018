@@ -2,7 +2,7 @@
 layout: post
 title: "Dreamweaver Help Needed"
 date: "2007-08-04T14:08:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/08/04/Dreamweaver-Help-Needed

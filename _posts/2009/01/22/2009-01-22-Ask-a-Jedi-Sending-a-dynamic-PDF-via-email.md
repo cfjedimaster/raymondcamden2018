@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Sending a dynamic PDF via email"
 date: "2009-01-22T13:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/22/Ask-a-Jedi-Sending-a-dynamic-PDF-via-email

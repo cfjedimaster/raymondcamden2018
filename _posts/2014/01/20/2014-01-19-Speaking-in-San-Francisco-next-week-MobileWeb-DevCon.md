@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking in San Francisco next week - Mobile+Web DevCon"
 date: "2014-01-20T10:01:00+06:00"
-categories: Development HTML5 
+categories: development html5 
 tags: 
 banner_image: 
 permalink: /2014/01/20/Speaking-in-San-Francisco-next-week-MobileWeb-DevCon

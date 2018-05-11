@@ -2,7 +2,7 @@
 layout: post
 title: "Converting ColdFusion data for jQuery Plugins - An example"
 date: "2009-07-03T00:07:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/07/02/Converting-ColdFusion-data-for-jQuery-Plugins-An-example

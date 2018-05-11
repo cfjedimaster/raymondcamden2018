@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 101: Picking a random image (2)"
 date: "2006-08-16T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/16/ColdFusion-101-Picking-a-random-image-2

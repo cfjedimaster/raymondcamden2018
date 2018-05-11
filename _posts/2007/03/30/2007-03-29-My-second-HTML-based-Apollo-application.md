@@ -2,7 +2,7 @@
 layout: post
 title: "My second HTML based Apollo application"
 date: "2007-03-30T10:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/30/My-second-HTML-based-Apollo-application

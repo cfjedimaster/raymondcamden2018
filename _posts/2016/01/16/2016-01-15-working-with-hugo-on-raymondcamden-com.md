@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Hugo on RaymondCamden.com"
 date: "2016-01-16T11:02:31+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2016/01/16/working-with-hugo-on-raymondcamden-com

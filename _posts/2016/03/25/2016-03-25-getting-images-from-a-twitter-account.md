@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Images from a Twitter Account"
 date: "2016-03-25T09:06:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: nodejs bluemix
 banner_image: /images/banners/twitteraccount.png
 permalink: /2016/03/25/getting-images-from-a-twitter-account

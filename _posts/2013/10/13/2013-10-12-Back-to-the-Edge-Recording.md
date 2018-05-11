@@ -2,7 +2,7 @@
 layout: post
 title: "Back to the Edge Recording"
 date: "2013-10-13T10:10:00+06:00"
-categories: Design Development 
+categories: design development 
 tags: 
 banner_image: 
 permalink: /2013/10/13/Back-to-the-Edge-Recording

@@ -2,7 +2,7 @@
 layout: post
 title: "Yahoo Search API"
 date: "2006-09-24T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/24/Yahoo-Search-API

@@ -2,7 +2,7 @@
 layout: post
 title: "Slow page report"
 date: "2006-04-28T15:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/28/Slow-page-report

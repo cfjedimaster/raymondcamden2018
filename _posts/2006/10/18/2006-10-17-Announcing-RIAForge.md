@@ -2,7 +2,7 @@
 layout: post
 title: "Announcing RIAForge"
 date: "2006-10-18T10:10:00+06:00"
-categories: ColdFusion Development Flex 
+categories: coldfusion development flex 
 tags: 
 banner_image: 
 permalink: /2006/10/18/Announcing-RIAForge

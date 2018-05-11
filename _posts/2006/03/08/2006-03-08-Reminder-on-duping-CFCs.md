@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder on duping CFCs..."
 date: "2006-03-08T12:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/03/08/Reminder-on-duping-CFCs

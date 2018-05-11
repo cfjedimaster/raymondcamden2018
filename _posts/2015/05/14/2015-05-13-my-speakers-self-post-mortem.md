@@ -2,7 +2,7 @@
 layout: post
 title: "My speaker's self post-mortem"
 date: "2015-05-14T08:56:45+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2015/05/14/my-speakers-self-post-mortem

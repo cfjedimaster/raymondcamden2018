@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 7 - Lost the notification area"
 date: "2010-11-03T09:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/11/03/Windows-7-Lost-the-notification-area

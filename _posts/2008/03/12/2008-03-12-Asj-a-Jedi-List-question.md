@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: List question"
 date: "2008-03-12T15:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/12/Asj-a-Jedi-List-question

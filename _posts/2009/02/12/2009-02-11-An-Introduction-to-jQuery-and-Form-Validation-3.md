@@ -2,7 +2,7 @@
 layout: post
 title: "An Introduction to jQuery and Form Validation (3)"
 date: "2009-02-12T09:02:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/02/12/An-Introduction-to-jQuery-and-Form-Validation-3

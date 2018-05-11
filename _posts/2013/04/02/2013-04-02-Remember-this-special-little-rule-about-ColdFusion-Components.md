@@ -2,7 +2,7 @@
 layout: post
 title: "Remember this special little rule about ColdFusion Components"
 date: "2013-04-02T12:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/04/02/Remember-this-special-little-rule-about-ColdFusion-Components

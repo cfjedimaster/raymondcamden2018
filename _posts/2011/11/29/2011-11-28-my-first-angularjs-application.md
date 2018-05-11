@@ -2,7 +2,7 @@
 layout: post
 title: "My first AngularJS application"
 date: "2011-11-29T11:11:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2011/11/29/my-first-angularjs-application

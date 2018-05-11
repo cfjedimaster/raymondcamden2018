@@ -2,7 +2,7 @@
 layout: post
 title: "CFBL Update - Week 9"
 date: "2008-03-14T11:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/03/14/CFBL-Update-Week-9

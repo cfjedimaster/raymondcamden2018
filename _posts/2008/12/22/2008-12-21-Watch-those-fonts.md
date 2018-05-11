@@ -2,7 +2,7 @@
 layout: post
 title: "Watch those fonts"
 date: "2008-12-22T07:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/22/Watch-those-fonts

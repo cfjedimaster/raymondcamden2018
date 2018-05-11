@@ -2,7 +2,7 @@
 layout: post
 title: "A \"Gotcha\" with Auto Suggestions in ColdFusion 8"
 date: "2007-07-23T17:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/23/A-Gotcha-with-Auto-Suggestions-in-ColdFusion-8

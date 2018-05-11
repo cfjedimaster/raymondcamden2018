@@ -2,7 +2,7 @@
 layout: post
 title: "Quick OpenWhisk Utility - Activation Reporting"
 date: "2017-08-29T10:23:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/08/29/quick-openwhisk-utility-activation-reporting

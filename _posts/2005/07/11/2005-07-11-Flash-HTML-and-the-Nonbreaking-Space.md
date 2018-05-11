@@ -2,7 +2,7 @@
 layout: post
 title: "Flash, HTML, and the Non-breaking Space."
 date: "2005-07-11T16:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/07/11/Flash-HTML-and-the-Nonbreaking-Space

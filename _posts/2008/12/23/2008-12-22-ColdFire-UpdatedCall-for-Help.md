@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFire Updated/Call for Help"
 date: "2008-12-23T09:12:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2008/12/23/ColdFire-UpdatedCall-for-Help

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Search Engine Safe URLs versus URL Rewriting"
 date: "2008-06-12T10:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/12/Ask-a-Jedi-ColdFusion-Search-Engine-Safe-URLs-versus-URL-Rewriting

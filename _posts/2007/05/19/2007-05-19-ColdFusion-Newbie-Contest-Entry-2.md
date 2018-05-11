@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Newbie Contest - Entry 2"
 date: "2007-05-19T23:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/19/ColdFusion-Newbie-Contest-Entry-2

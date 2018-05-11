@@ -2,7 +2,7 @@
 layout: post
 title: "Lighthouse Pro adds stored filters"
 date: "2010-08-11T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/08/11/Lighthouse-Pro-adds-stored-filters

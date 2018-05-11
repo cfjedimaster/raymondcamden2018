@@ -2,7 +2,7 @@
 layout: post
 title: "Tip: cfsavecontent and cfinclude within script based CFCs"
 date: "2009-12-22T22:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/22/Tip-cfsavecontent-and-cfinclude-within-script-based-CFCs

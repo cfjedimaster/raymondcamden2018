@@ -2,7 +2,7 @@
 layout: post
 title: "Small (very small) ColdFusion 9 leak"
 date: "2009-04-01T18:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/01/Small-very-small-ColdFusion-9-leak

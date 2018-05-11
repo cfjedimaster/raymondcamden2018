@@ -2,7 +2,7 @@
 layout: post
 title: "New ADC Article: Using Dreamweaver, InContext Editing, and Spry to build a dynamic site"
 date: "2009-05-19T13:05:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2009/05/19/New-ADC-Article-Using-Dreamweaver-InContext-Editing-and-Spry-to-build-a-dynamic-site

@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday OT Post: Yes, I know it isn't Sunday..."
 date: "2013-01-14T12:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/01/14/sunday-ot-post-yes-i-know-it-isnt-sunday

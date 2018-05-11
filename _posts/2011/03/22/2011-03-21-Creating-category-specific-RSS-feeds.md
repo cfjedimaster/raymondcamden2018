@@ -2,7 +2,7 @@
 layout: post
 title: "Creating category specific RSS feeds"
 date: "2011-03-22T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/03/22/Creating-category-specific-RSS-feeds

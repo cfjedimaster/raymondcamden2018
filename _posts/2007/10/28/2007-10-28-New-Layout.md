@@ -2,7 +2,7 @@
 layout: post
 title: "New Layout"
 date: "2007-10-28T16:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/28/New-Layout

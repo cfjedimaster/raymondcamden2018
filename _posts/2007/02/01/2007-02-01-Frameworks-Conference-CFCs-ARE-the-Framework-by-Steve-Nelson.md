@@ -2,7 +2,7 @@
 layout: post
 title: "Frameworks Conference: CFCs ARE the Framework, by Steve Nelson"
 date: "2007-02-01T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/01/Frameworks-Conference-CFCs-ARE-the-Framework-by-Steve-Nelson

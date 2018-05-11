@@ -2,7 +2,7 @@
 layout: post
 title: "DevNexus Presentation Assets"
 date: "2012-03-21T17:03:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/03/21/DevNexus-Presentation-Assets

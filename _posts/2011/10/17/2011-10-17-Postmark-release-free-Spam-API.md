@@ -2,7 +2,7 @@
 layout: post
 title: "Postmark release free Spam API"
 date: "2011-10-17T17:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/10/17/Postmark-release-free-Spam-API

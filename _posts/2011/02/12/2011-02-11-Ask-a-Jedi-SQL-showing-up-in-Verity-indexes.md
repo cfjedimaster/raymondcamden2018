@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: SQL showing up in Verity indexes"
 date: "2011-02-12T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/02/12/Ask-a-Jedi-SQL-showing-up-in-Verity-indexes

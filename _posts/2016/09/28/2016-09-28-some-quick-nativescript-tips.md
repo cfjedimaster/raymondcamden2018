@@ -2,7 +2,7 @@
 layout: post
 title: "Some quick NativeScript tips"
 date: "2016-09-28T13:10:00-07:00"
-categories: Development 
+categories: development 
 tags: nativescript
 banner_image: /images/banners/nativescript.png
 permalink: /2016/09/28/some-quick-nativescript-tips

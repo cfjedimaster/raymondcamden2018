@@ -2,7 +2,7 @@
 layout: post
 title: "My evil jQuery Plugin"
 date: "2009-08-15T16:08:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/08/15/My-evil-jQuery-Plugin

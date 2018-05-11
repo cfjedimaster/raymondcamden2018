@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Transformers - War for Cybertron"
 date: "2010-11-07T10:11:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2010/11/07/review-transformers-war-for-cybertron

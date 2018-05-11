@@ -2,7 +2,7 @@
 layout: post
 title: "A Quick Thank You"
 date: "2008-09-22T18:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/09/22/A-Quick-Thank-You

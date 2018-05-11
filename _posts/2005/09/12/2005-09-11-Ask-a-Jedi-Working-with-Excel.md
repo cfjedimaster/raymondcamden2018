@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Working with Excel"
 date: "2005-09-12T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/12/Ask-a-Jedi-Working-with-Excel

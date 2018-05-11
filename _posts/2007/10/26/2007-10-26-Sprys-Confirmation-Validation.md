@@ -2,7 +2,7 @@
 layout: post
 title: "Spry's Confirmation Validation"
 date: "2007-10-26T22:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/26/Sprys-Confirmation-Validation

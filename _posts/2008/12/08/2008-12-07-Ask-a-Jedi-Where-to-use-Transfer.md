@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Where to use Transfer?"
 date: "2008-12-08T11:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/08/Ask-a-Jedi-Where-to-use-Transfer

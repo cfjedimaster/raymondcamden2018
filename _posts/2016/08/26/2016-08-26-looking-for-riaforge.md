@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for RIAForge?"
 date: "2016-08-26T15:17:00-07:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: /images/banners/riaforge.jpg
 permalink: /2016/08/26/looking-for-riaforge

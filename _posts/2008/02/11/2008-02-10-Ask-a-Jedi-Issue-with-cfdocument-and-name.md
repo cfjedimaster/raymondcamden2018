@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Issue with cfdocument and name"
 date: "2008-02-11T11:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/11/Ask-a-Jedi-Issue-with-cfdocument-and-name

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: AJAX UI Windows"
 date: "2007-06-20T09:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/20/ColdFusion-8-AJAX-UI-Windows

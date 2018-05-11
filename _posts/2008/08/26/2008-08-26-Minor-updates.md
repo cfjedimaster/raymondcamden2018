@@ -2,7 +2,7 @@
 layout: post
 title: "Minor updates"
 date: "2008-08-26T22:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/26/Minor-updates

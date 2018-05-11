@@ -2,7 +2,7 @@
 layout: post
 title: "Fixing \"Browser Has Stopped\" Errors in the Android Simulator"
 date: "2016-09-12T17:06:00-07:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2016/09/12/fixing-browser-has-stopped-errors-in-the-android-simulator

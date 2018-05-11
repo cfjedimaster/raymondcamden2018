@@ -2,7 +2,7 @@
 layout: post
 title: "CFPanel next week: Why Server Side Developers Should Consider jQuery"
 date: "2011-02-03T15:02:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2011/02/03/CFPanel-next-week-Why-Server-Side-Developers-Should-Consider-jQuery

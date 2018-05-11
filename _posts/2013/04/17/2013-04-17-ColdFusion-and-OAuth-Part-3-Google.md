@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion and OAuth Part 3 - Google"
 date: "2013-04-17T15:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/04/17/ColdFusion-and-OAuth-Part-3-Google

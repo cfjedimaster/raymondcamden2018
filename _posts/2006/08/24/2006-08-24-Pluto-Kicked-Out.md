@@ -2,7 +2,7 @@
 layout: post
 title: "Pluto Kicked Out"
 date: "2006-08-24T11:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/24/Pluto-Kicked-Out

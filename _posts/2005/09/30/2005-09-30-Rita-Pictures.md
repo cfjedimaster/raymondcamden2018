@@ -2,7 +2,7 @@
 layout: post
 title: "Rita Pictures"
 date: "2005-09-30T13:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/30/Rita-Pictures

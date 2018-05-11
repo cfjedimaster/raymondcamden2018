@@ -2,7 +2,7 @@
 layout: post
 title: "SFU: Everyone's Waiting"
 date: "2005-08-22T12:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/22/SFU-Everyones-Waiting

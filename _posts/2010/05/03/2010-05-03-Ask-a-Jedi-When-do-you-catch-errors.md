@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: When do you catch errors?"
 date: "2010-05-03T17:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2010/05/03/Ask-a-Jedi-When-do-you-catch-errors

@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Awards"
 date: "2006-08-09T09:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/09/MAX-Awards

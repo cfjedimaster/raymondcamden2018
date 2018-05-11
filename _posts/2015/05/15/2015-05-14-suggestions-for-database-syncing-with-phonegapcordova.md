@@ -2,7 +2,7 @@
 layout: post
 title: "Suggestions for Database Syncing with PhoneGap/Cordova"
 date: "2015-05-15T07:55:54+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/05/15/suggestions-for-database-syncing-with-phonegapcordova

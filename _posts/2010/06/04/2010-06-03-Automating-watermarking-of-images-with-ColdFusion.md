@@ -2,7 +2,7 @@
 layout: post
 title: "Automating watermarking of images with ColdFusion"
 date: "2010-06-04T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/04/Automating-watermarking-of-images-with-ColdFusion

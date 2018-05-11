@@ -2,7 +2,7 @@
 layout: post
 title: "GoogleCal beta"
 date: "2006-09-28T22:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/28/GoogleCal-beta

@@ -2,7 +2,7 @@
 layout: post
 title: "Per request debugging in Model-Glue"
 date: "2006-09-18T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/18/Per-request-debugging-in-ModelGlue

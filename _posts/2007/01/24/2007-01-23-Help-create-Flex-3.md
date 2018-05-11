@@ -2,7 +2,7 @@
 layout: post
 title: "Help create Flex 3"
 date: "2007-01-24T09:01:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/01/24/Help-create-Flex-3

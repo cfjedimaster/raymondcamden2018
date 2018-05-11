@@ -2,7 +2,7 @@
 layout: post
 title: "Transfer Survey"
 date: "2008-10-13T08:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/13/Transfer-Survey

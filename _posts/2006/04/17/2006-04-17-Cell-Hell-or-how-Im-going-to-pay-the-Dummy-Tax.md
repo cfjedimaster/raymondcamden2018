@@ -2,7 +2,7 @@
 layout: post
 title: "Cell Hell, or how I'm going to pay the Dummy Tax"
 date: "2006-04-17T16:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/04/17/Cell-Hell-or-how-Im-going-to-pay-the-Dummy-Tax

@@ -2,7 +2,7 @@
 layout: post
 title: "Where to find a ColdFusion Job"
 date: "2007-04-26T12:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/26/Where-to-find-a-ColdFusion-Job

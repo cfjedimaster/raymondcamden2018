@@ -2,7 +2,7 @@
 layout: post
 title: "W3C and the HTML5 Spec"
 date: "2012-12-18T09:12:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2012/12/18/W3C-and-the-HTML5-Spec

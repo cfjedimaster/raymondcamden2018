@@ -2,7 +2,7 @@
 layout: post
 title: "Want a peek?"
 date: "2008-09-07T23:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/09/07/Want-a-peek

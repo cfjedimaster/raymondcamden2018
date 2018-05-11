@@ -2,7 +2,7 @@
 layout: post
 title: "Brackets Tip: Using Live Preview as a Web Server"
 date: "2014-01-15T15:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2014/01/15/Brackets-Tip-Using-Live-Preview-as-a-Web-Server

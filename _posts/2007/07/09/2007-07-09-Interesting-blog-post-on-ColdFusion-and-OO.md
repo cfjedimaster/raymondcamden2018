@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting blog post on ColdFusion and OO"
 date: "2007-07-09T23:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/09/Interesting-blog-post-on-ColdFusion-and-OO

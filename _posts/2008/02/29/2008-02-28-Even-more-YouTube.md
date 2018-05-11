@@ -2,7 +2,7 @@
 layout: post
 title: "Even more YouTube..."
 date: "2008-02-29T10:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/29/Even-more-YouTube

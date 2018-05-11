@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Account Managers"
 date: "2007-10-09T17:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/09/ColdFusion-Account-Managers

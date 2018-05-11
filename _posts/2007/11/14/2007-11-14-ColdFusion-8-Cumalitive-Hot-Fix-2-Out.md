@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 Cumalitive Hot Fix 2 Out"
 date: "2007-11-14T23:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/14/ColdFusion-8-Cumalitive-Hot-Fix-2-Out

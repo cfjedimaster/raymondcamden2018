@@ -2,7 +2,7 @@
 layout: post
 title: "And Ten Minutes Later... First Bug Fix!"
 date: "2005-11-10T18:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/10/And-Ten-Minutes-Later-First-Bug-Fix

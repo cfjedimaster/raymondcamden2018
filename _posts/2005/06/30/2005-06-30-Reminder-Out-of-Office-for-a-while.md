@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - Out of Office for a while..."
 date: "2005-07-01T00:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/06/30/Reminder-Out-of-Office-for-a-while

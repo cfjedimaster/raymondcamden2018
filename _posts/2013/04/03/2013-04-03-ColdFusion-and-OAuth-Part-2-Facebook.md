@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion and OAuth Part 2 - LinkedIn"
 date: "2013-04-03T18:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/04/03/ColdFusion-and-OAuth-Part-2-Facebook

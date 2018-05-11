@@ -2,7 +2,7 @@
 layout: post
 title: "CS5.5 and jQuery Mobile presentations tomorrow"
 date: "2011-04-27T14:04:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2011/04/27/CS55-and-jQuery-Mobile-presentations-tomorrow

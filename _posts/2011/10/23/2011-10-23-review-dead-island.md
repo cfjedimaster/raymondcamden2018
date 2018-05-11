@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Dead Island"
 date: "2011-10-23T11:10:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2011/10/23/review-dead-island

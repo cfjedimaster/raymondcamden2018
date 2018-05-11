@@ -2,7 +2,7 @@
 layout: post
 title: "Hey, MTV Plays Music! (Who Knew?)"
 date: "2005-08-29T00:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/28/Hey-MTV-Plays-Music-Who-Knew

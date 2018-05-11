@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Remembering a search"
 date: "2008-01-24T10:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/24/Ask-a-Jedi-Remembering-a-search

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Working with IFrames, JavaScript, and how ColdFusion 8 makes life easier"
 date: "2007-07-18T18:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/18/Ask-a-Jedi-Working-with-IFrames-JavaScript-and-how-ColdFusion-8-makes-life-easier

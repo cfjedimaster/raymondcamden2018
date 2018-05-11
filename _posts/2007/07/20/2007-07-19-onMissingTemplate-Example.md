@@ -2,7 +2,7 @@
 layout: post
 title: "onMissingTemplate Example"
 date: "2007-07-20T09:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/20/onMissingTemplate-Example

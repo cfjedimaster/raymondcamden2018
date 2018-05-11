@@ -2,7 +2,7 @@
 layout: post
 title: "CFBuilder Contest: Pastebin"
 date: "2010-05-05T18:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/05/05/CFBuilder-Contest-Pastebin

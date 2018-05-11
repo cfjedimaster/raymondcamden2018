@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Best way to handle feed stats"
 date: "2008-05-27T15:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/05/27/Ask-a-Jedi-Best-way-to-handle-feed-stats

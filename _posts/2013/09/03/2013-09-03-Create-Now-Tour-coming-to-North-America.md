@@ -2,7 +2,7 @@
 layout: post
 title: "Create Now Tour coming to North America"
 date: "2013-09-03T11:09:00+06:00"
-categories: Design Development 
+categories: design development 
 tags: 
 banner_image: 
 permalink: /2013/09/03/Create-Now-Tour-coming-to-North-America

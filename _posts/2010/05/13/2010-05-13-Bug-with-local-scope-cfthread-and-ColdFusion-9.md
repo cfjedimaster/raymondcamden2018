@@ -2,7 +2,7 @@
 layout: post
 title: "Bug with local scope, cfthread, and ColdFusion 9"
 date: "2010-05-13T12:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/05/13/Bug-with-local-scope-cfthread-and-ColdFusion-9

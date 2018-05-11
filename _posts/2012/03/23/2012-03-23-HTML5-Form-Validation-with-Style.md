@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 Form Validation with Style"
 date: "2012-03-23T12:03:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2012/03/23/HTML5-Form-Validation-with-Style

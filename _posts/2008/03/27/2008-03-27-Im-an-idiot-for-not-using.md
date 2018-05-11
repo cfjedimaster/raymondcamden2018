@@ -2,7 +2,7 @@
 layout: post
 title: "I'm an idiot for not using..."
 date: "2008-03-27T16:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/27/Im-an-idiot-for-not-using

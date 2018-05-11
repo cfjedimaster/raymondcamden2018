@@ -2,7 +2,7 @@
 layout: post
 title: "Apple enters movie business (yawn)"
 date: "2006-09-12T16:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/12/Apple-enters-movie-business-yawn

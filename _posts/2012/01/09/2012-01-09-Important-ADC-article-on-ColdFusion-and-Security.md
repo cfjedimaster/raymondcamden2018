@@ -2,7 +2,7 @@
 layout: post
 title: "Important ADC article on ColdFusion and Security"
 date: "2012-01-09T16:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/01/09/Important-ADC-article-on-ColdFusion-and-Security

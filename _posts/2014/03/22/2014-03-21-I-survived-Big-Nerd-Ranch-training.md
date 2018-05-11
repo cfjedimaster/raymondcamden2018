@@ -2,7 +2,7 @@
 layout: post
 title: "I survived Big Nerd Ranch training"
 date: "2014-03-22T10:03:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/03/22/I-survived-Big-Nerd-Ranch-training

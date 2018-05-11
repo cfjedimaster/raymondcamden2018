@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC and PostgreSQL 8"
 date: "2006-02-05T21:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/05/BlogCFC-and-PostgreSQL-8

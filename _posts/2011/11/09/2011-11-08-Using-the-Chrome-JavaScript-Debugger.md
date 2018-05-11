@@ -2,7 +2,7 @@
 layout: post
 title: "Using the Chrome JavaScript Debugger"
 date: "2011-11-09T09:11:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/11/09/Using-the-Chrome-JavaScript-Debugger

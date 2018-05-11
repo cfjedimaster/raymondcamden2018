@@ -2,7 +2,7 @@
 layout: post
 title: "Integrating Intl with Ionic"
 date: "2016-12-22T08:45:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic cordova
 banner_image: 
 permalink: /2016/12/22/integrating-intl-with-ionic

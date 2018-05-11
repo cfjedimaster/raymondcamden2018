@@ -2,7 +2,7 @@
 layout: post
 title: "First test of PhoneGap Plugins"
 date: "2011-10-12T12:10:00+06:00"
-categories: Development JavaScript jQuery Mobile 
+categories: development javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/10/12/First-test-of-PhoneGap-Plugins

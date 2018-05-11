@@ -2,7 +2,7 @@
 layout: post
 title: "LocalStorage Monitor Updated"
 date: "2013-03-11T15:03:00+06:00"
-categories: Development HTML5 
+categories: development html5 
 tags: 
 banner_image: 
 permalink: /2013/03/11/LocalStorage-Monitor-Updated

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using query data in cflayoutarea"
 date: "2008-08-01T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/01/Ask-a-Jedi-Using-query-data-in-cflayoutarea

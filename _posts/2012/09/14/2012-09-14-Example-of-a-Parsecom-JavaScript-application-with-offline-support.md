@@ -2,7 +2,7 @@
 layout: post
 title: "Example of a Parse.com JavaScript application with offline support"
 date: "2012-09-14T12:09:00+06:00"
-categories: Development HTML5 JavaScript jQuery Mobile 
+categories: development html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/09/14/Example-of-a-Parsecom-JavaScript-application-with-offline-support

@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started with Mobile Development and IBM MobileFirst 7.1"
 date: "2015-08-17T11:05:29+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: mobilefirst
 banner_image: 
 permalink: /2015/08/17/getting-started-with-mobile-development-and-ibm-mobilefirst-7-1

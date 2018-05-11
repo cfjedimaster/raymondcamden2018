@@ -2,7 +2,7 @@
 layout: post
 title: "Creating map previews with jQuery and Google's Static Map API"
 date: "2011-01-05T23:01:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/01/05/Creating-map-previews-with-jQuery-and-Googles-Static-Map-API

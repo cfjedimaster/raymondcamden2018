@@ -2,7 +2,7 @@
 layout: post
 title: "Dell Hell: The Finale..."
 date: "2005-08-24T12:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/24/Dell-Hell-The-Finale

@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting ColdFusion Ajax Issue(Bug?)"
 date: "2010-01-08T09:01:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/01/08/Interesting-ColdFusion-Ajax-IssueBug

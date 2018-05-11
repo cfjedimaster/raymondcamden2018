@@ -2,7 +2,7 @@
 layout: post
 title: "Alt-History on TV - The Man in the High Castle"
 date: "2015-01-18T10:14:13+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2015/01/18/alt-history-on-tv-the-man-in-the-high-castle

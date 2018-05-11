@@ -2,7 +2,7 @@
 layout: post
 title: "CFCDev Mailing List"
 date: "2007-09-13T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/13/CFCDev-Mailing-List

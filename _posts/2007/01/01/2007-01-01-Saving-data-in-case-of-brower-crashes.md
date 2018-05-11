@@ -2,7 +2,7 @@
 layout: post
 title: "Saving data in case of brower crashes"
 date: "2007-01-01T22:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/01/Saving-data-in-case-of-brower-crashes

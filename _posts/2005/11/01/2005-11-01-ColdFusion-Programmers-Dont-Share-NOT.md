@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Programmers Don't Share... (NOT)"
 date: "2005-11-01T16:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/01/ColdFusion-Programmers-Dont-Share-NOT

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Why isn't my cferror working?"
 date: "2008-02-18T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/18/Ask-a-Jedi-Why-isnt-my-cferror-working

@@ -2,7 +2,7 @@
 layout: post
 title: "Update to my Node Blog Engine"
 date: "2012-09-09T16:09:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2012/09/09/Update-to-my-Node-Blog-Engine

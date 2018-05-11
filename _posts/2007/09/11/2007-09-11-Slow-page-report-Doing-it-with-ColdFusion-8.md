@@ -2,7 +2,7 @@
 layout: post
 title: "Slow page report - Doing it with ColdFusion 8"
 date: "2007-09-11T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/11/Slow-page-report-Doing-it-with-ColdFusion-8

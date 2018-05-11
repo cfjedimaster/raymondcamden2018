@@ -2,7 +2,7 @@
 layout: post
 title: "Edge Reflow and Edge Inspect get engaged for Valentine's Day"
 date: "2013-02-14T17:02:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2013/02/14/Edge-Reflow-and-Edge-Inspect-get-engaged-for-Valentines-Day

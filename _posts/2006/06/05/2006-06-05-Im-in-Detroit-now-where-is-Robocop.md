@@ -2,7 +2,7 @@
 layout: post
 title: "I'm in Detroit, now where is Robocop?"
 date: "2006-06-05T23:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/06/05/Im-in-Detroit-now-where-is-Robocop

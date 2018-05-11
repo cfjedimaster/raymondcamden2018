@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic 1.2.0 Released"
 date: "2014-09-04T11:09:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/09/04/Ionic-120-Released

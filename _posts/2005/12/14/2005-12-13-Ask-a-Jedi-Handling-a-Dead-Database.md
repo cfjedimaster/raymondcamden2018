@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Handling a Dead Database"
 date: "2005-12-14T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/14/Ask-a-Jedi-Handling-a-Dead-Database

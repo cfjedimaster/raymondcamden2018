@@ -2,7 +2,7 @@
 layout: post
 title: "Dell Update Number 2,432,940"
 date: "2005-08-06T08:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/06/Dell-Update-Number-2432940

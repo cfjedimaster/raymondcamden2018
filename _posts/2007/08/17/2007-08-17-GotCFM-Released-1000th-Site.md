@@ -2,7 +2,7 @@
 layout: post
 title: "Got?CFM Released 1000th Site"
 date: "2007-08-17T14:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/17/GotCFM-Released-1000th-Site

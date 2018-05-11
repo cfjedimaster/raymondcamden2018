@@ -2,7 +2,7 @@
 layout: post
 title: "Fusebox 5.1 Released"
 date: "2007-02-03T20:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/02/03/Fusebox-51-Released

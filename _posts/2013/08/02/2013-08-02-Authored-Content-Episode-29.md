@@ -2,7 +2,7 @@
 layout: post
 title: "Authored Content, Episode 29"
 date: "2013-08-02T17:08:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/08/02/Authored-Content-Episode-29

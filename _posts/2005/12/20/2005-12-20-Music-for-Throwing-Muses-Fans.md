@@ -2,7 +2,7 @@
 layout: post
 title: "Music for Throwing Muses Fans..."
 date: "2005-12-20T12:12:00+06:00"
-categories: Music 
+categories: music 
 tags: 
 banner_image: 
 permalink: /2005/12/20/Music-for-Throwing-Muses-Fans

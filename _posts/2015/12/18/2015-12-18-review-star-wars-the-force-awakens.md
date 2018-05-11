@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Star Wars - The Force Awakens"
 date: "2015-12-18T13:47:25+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2015/12/18/review-star-wars-the-force-awakens

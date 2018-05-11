@@ -2,7 +2,7 @@
 layout: post
 title: "ScopeCache on RIAForge"
 date: "2008-02-28T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/28/ScopeCache-on-RIAForge

@@ -2,7 +2,7 @@
 layout: post
 title: "NPEs, onRequest, and other mysteries of the universe..."
 date: "2007-09-12T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/12/NPEs-onRequest-and-other-mysteries-of-the-universe

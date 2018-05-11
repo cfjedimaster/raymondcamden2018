@@ -2,7 +2,7 @@
 layout: post
 title: "Adding driving directions to a jQuery Mobile web site"
 date: "2011-03-09T07:03:00+06:00"
-categories: ColdFusion jQuery Mobile 
+categories: coldfusion jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/03/09/Adding-driving-directions-to-a-jQuery-Mobile-web-site

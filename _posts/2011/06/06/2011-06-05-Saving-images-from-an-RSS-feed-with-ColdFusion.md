@@ -2,7 +2,7 @@
 layout: post
 title: "Saving images from an RSS feed with ColdFusion"
 date: "2011-06-06T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/06/Saving-images-from-an-RSS-feed-with-ColdFusion

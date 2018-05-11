@@ -2,7 +2,7 @@
 layout: post
 title: "Browser as a platform for your PhoneGap/Cordova apps"
 date: "2014-09-24T18:09:00+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/09/24/browser-as-a-platform-for-your-phonegapcordova-apps

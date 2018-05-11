@@ -2,7 +2,7 @@
 layout: post
 title: "Configuring the date mask for ColdFusion Logs"
 date: "2008-09-07T13:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/07/Configuring-the-date-mask-for-ColdFusion-Logs

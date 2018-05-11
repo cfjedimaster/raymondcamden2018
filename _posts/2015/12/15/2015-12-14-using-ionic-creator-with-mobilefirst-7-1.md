@@ -2,7 +2,7 @@
 layout: post
 title: "Using Ionic Creator with MobileFirst 7.1"
 date: "2015-12-15T08:35:14+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: ionic mobilefirst
 banner_image: 
 permalink: /2015/12/15/using-ionic-creator-with-mobilefirst-7-1

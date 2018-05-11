@@ -2,7 +2,7 @@
 layout: post
 title: "Update to my Vue.js INeedIt Demo"
 date: "2017-11-21T02:11:00-07:00"
-categories: Development 
+categories: development 
 tags: javascript vuejs
 banner_image: 
 permalink: /2017/11/21/update-to-my-vuejs-ineedit-demo

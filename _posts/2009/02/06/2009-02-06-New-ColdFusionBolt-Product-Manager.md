@@ -2,7 +2,7 @@
 layout: post
 title: "New ColdFusion/Bolt Product Manager"
 date: "2009-02-06T20:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/02/06/New-ColdFusionBolt-Product-Manager

@@ -2,7 +2,7 @@
 layout: post
 title: "Calling wrapped ColdFusion custom tags within CFIF blocks"
 date: "2010-12-30T10:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/12/30/Calling-wrapped-ColdFusion-custom-tags-within-CFIF-blocks

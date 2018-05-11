@@ -2,7 +2,7 @@
 layout: post
 title: "Nice new Flex based viewer on SlideSix"
 date: "2008-11-06T11:11:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2008/11/06/Nice-new-Flex-based-viewer-on-SlideSix

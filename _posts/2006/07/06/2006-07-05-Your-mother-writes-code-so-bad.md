@@ -2,7 +2,7 @@
 layout: post
 title: "Your mother writes code so bad...."
 date: "2006-07-06T10:07:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2006/07/06/Your-mother-writes-code-so-bad

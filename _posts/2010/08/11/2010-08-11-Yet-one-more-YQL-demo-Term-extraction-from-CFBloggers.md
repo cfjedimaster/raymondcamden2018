@@ -2,7 +2,7 @@
 layout: post
 title: "Yet one more YQL demo - Term extraction from CFBloggers"
 date: "2010-08-11T16:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/08/11/Yet-one-more-YQL-demo-Term-extraction-from-CFBloggers

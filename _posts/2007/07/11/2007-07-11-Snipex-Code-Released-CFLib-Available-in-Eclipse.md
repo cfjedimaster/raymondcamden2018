@@ -2,7 +2,7 @@
 layout: post
 title: "Snipex Code Released - CFLib Available in Eclipse"
 date: "2007-07-11T12:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/07/11/Snipex-Code-Released-CFLib-Available-in-Eclipse

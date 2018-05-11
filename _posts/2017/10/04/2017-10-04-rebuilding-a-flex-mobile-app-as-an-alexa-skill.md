@@ -2,7 +2,7 @@
 layout: post
 title: "Rebuilding a Flex Mobile App as an Alexa Skill"
 date: "2017-10-04T10:20:00-07:00"
-categories: Development Serverless 
+categories: development serverless 
 tags: alexa openwhisk
 banner_image: 
 permalink: /2017/10/04/rebuilding-a-flex-mobile-app-as-an-alexa-skill

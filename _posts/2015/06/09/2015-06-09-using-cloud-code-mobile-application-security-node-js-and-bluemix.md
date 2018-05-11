@@ -2,7 +2,7 @@
 layout: post
 title: "Using Cloud Code, Mobile Application Security, Node.js and Bluemix"
 date: "2015-06-09T13:35:13+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: bluemix cordova mobilefirst
 banner_image: 
 permalink: /2015/06/09/using-cloud-code-mobile-application-security-node-js-and-bluemix

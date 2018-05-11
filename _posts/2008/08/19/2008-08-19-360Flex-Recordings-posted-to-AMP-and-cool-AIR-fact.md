@@ -2,7 +2,7 @@
 layout: post
 title: "360|Flex Recordings posted to AMP (and cool AIR fact)"
 date: "2008-08-19T11:08:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2008/08/19/360Flex-Recordings-posted-to-AMP-and-cool-AIR-fact

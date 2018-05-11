@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Split the Bill"
 date: "2012-11-30T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/11/30/Friday-Puzzler-Split-the-Bill

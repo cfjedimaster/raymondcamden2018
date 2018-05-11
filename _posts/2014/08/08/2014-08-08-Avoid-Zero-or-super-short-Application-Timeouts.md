@@ -2,7 +2,7 @@
 layout: post
 title: "Avoid Zero (or super short) Application Timeouts"
 date: "2014-08-08T17:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/08/08/Avoid-Zero-or-super-short-Application-Timeouts

@@ -2,7 +2,7 @@
 layout: post
 title: "Transfer Caching and Performance Features"
 date: "2008-12-27T10:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/27/Transfer-Caching-and-Performance-Features

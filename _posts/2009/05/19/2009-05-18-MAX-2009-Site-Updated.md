@@ -2,7 +2,7 @@
 layout: post
 title: "MAX 2009 Site Updated"
 date: "2009-05-19T08:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/05/19/MAX-2009-Site-Updated

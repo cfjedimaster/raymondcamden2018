@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Flash, ColdFusion and FIle Uploads"
 date: "2008-04-10T16:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/10/Ask-a-Jedi-Flash-ColdFusion-and-FIle-Uploads

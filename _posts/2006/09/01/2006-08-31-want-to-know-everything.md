@@ -2,7 +2,7 @@
 layout: post
 title: "Want to know everything?"
 date: "2006-09-01T09:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/01/want-to-know-everything

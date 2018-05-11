@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamic Dummy Generator"
 date: "2010-02-12T14:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/12/Dynamic-Dummy-Generator

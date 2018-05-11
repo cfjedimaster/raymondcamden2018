@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Logs to RSS (with a quick sidetrack into zombies)"
 date: "2009-03-28T19:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/03/28/ColdFusion-Logs-to-RSS-with-a-quick-sidetrack-into-zombies

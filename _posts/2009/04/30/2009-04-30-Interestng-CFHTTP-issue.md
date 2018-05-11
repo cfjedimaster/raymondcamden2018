@@ -2,7 +2,7 @@
 layout: post
 title: "Interestng CFHTTP issue"
 date: "2009-04-30T14:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/30/Interestng-CFHTTP-issue

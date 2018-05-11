@@ -2,7 +2,7 @@
 layout: post
 title: "Death is a giant, brightly-covered slug heading your way...."
 date: "2008-08-27T17:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/08/27/Death-is-a-giant-brightlycovered-slug-heading-your-way

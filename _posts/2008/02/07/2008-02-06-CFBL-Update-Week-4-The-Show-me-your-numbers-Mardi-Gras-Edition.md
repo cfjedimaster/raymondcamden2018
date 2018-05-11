@@ -2,7 +2,7 @@
 layout: post
 title: "CFBL Update - Week 4 - The \"Show me your numbers\" Mardi Gras Edition"
 date: "2008-02-07T09:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/07/CFBL-Update-Week-4-The-Show-me-your-numbers-Mardi-Gras-Edition

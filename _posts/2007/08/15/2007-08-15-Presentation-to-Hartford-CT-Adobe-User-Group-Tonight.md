@@ -2,7 +2,7 @@
 layout: post
 title: "Presentation to Hartford, CT Adobe User Group Tonight"
 date: "2007-08-15T14:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/15/Presentation-to-Hartford-CT-Adobe-User-Group-Tonight

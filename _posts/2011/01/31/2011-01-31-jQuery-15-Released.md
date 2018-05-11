@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery 1.5 Released"
 date: "2011-01-31T15:01:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/01/31/jQuery-15-Released

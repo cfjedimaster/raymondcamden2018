@@ -2,7 +2,7 @@
 layout: post
 title: "One of Those Days - and Another Dell Horror Story"
 date: "2005-08-05T13:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/05/One-of-Those-Days-and-Another-Dell-Horror-Story

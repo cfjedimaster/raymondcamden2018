@@ -2,7 +2,7 @@
 layout: post
 title: "Update to my JavaScript Behance API"
 date: "2014-04-11T09:04:00+06:00"
-categories: Design JavaScript 
+categories: design javascript 
 tags: 
 banner_image: 
 permalink: /2014/04/11/Update-to-my-JavaScript-Behance-API

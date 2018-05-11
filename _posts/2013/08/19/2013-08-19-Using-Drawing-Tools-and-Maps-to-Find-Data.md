@@ -2,7 +2,7 @@
 layout: post
 title: "Using Drawing Tools and Maps to Find Data"
 date: "2013-08-19T11:08:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/19/Using-Drawing-Tools-and-Maps-to-Find-Data

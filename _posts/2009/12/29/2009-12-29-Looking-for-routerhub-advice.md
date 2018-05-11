@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for router/hub advice"
 date: "2009-12-29T15:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/12/29/Looking-for-routerhub-advice

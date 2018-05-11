@@ -2,7 +2,7 @@
 layout: post
 title: "\"Apache Cordova in Action\" final edition released!"
 date: "2015-10-27T16:37:32+06:00"
-categories: Books Mobile 
+categories: books mobile 
 tags: 
 banner_image: 
 permalink: /2015/10/27/apache-cordova-in-action-final-edition-released

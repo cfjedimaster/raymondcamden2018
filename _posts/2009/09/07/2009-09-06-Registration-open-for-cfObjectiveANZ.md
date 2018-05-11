@@ -2,7 +2,7 @@
 layout: post
 title: "Registration open for cfObjective(ANZ)"
 date: "2009-09-07T08:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/07/Registration-open-for-cfObjectiveANZ

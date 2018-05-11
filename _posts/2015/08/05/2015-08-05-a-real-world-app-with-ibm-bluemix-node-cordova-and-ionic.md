@@ -2,7 +2,7 @@
 layout: post
 title: "A real world app with IBM Bluemix, Node, Cordova, and Ionic"
 date: "2015-08-05T17:01:10+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: bluemix cordova ionic
 banner_image: 
 permalink: /2015/08/05/a-real-world-app-with-ibm-bluemix-node-cordova-and-ionic

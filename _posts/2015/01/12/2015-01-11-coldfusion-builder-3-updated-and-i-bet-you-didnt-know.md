@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Builder 3 Updated (and I bet you didn't know...)"
 date: "2015-01-12T10:00:12+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/01/12/coldfusion-builder-3-updated-and-i-bet-you-didnt-know

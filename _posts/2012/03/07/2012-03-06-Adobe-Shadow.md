@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Shadow"
 date: "2012-03-07T08:03:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2012/03/07/Adobe-Shadow

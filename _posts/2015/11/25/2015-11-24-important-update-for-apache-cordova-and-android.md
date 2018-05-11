@@ -2,7 +2,7 @@
 layout: post
 title: "Important update for Apache Cordova and Android"
 date: "2015-11-25T08:58:59+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/11/25/important-update-for-apache-cordova-and-android

@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge Schedular Mystery Solved (Mostly)"
 date: "2007-11-30T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/30/RIAForge-Schedular-Mystery-Solved-Mostly

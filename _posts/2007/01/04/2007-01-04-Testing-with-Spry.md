@@ -2,7 +2,7 @@
 layout: post
 title: "Testing with Spry"
 date: "2007-01-04T16:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/01/04/Testing-with-Spry

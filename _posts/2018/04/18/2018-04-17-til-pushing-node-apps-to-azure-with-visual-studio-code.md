@@ -2,7 +2,7 @@
 layout: post
 title: "TIL - Pushing Node Apps to Azure with Visual Studio Code"
 date: "2018-04-18"
-categories: Development 
+categories: development 
 tags: azure
 banner_image: /images/banners/azure.jpg
 permalink: /2018/04/18/til-pushing-node-apps-to-azure-with-visual-studio-code

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion opportunity at the Catholic University of America"
 date: "2012-01-19T16:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/01/19/ColdFusion-opportunity-at-the-Catholic-University-of-America

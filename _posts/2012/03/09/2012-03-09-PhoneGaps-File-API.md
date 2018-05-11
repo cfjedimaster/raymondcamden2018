@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap's File API"
 date: "2012-03-09T13:03:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/03/09/PhoneGaps-File-API

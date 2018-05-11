@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: cflogout, session variables, and the back button"
 date: "2009-01-01T21:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/01/Ask-a-Jedi-cflogout-session-variables-and-the-back-button

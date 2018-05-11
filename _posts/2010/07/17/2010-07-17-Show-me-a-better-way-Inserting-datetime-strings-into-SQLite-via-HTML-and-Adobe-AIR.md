@@ -2,7 +2,7 @@
 layout: post
 title: "Show me a better way: Inserting date/time strings into SQLite via HTML and Adobe AIR"
 date: "2010-07-17T15:07:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2010/07/17/Show-me-a-better-way-Inserting-datetime-strings-into-SQLite-via-HTML-and-Adobe-AIR

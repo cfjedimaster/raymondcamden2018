@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Career advice for a ColdFusion Developer?"
 date: "2009-02-14T11:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2009/02/14/Ask-a-Jedi-Career-advice-for-a-ColdFusion-Developer

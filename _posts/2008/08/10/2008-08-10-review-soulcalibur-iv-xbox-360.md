@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Soulcalibur IV (XBOX 360)"
 date: "2008-08-10T12:08:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2008/08/10/review-soulcalibur-iv-xbox-360

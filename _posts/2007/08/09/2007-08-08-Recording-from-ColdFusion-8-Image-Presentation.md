@@ -2,7 +2,7 @@
 layout: post
 title: "Recording from ColdFusion 8 Image Presentation"
 date: "2007-08-09T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/09/Recording-from-ColdFusion-8-Image-Presentation

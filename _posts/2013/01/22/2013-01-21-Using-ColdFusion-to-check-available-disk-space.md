@@ -2,7 +2,7 @@
 layout: post
 title: "Using ColdFusion to check available disk space"
 date: "2013-01-22T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/01/22/Using-ColdFusion-to-check-available-disk-space

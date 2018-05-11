@@ -2,7 +2,7 @@
 layout: post
 title: "Some thoughts on working with CFCs remotely"
 date: "2011-07-08T11:07:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2011/07/08/Some-thoughts-on-working-with-CFCs-remotely

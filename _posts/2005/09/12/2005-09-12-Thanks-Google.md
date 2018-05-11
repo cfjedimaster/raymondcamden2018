@@ -2,7 +2,7 @@
 layout: post
 title: "Thanks Google"
 date: "2005-09-12T14:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/12/Thanks-Google

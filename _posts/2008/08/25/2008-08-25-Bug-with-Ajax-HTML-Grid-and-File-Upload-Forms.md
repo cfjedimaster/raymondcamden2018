@@ -2,7 +2,7 @@
 layout: post
 title: "Bug with Ajax HTML Grid and File Upload Forms"
 date: "2008-08-25T14:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/25/Bug-with-Ajax-HTML-Grid-and-File-Upload-Forms

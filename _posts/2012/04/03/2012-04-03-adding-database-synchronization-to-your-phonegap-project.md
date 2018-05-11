@@ -2,7 +2,7 @@
 layout: post
 title: "Adding database synchronization to your PhoneGap project"
 date: "2012-04-03T16:04:00+06:00"
-categories: ColdFusion Development HTML5 JavaScript jQuery Mobile 
+categories: coldfusion development html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/04/03/adding-database-synchronization-to-your-phonegap-project

@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic's ISAPI Rewrite Filter"
 date: "2006-05-19T19:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/05/19/Ionics-ISAPI-Rewrite-Filter

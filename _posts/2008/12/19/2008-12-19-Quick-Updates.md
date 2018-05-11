@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Updates"
 date: "2008-12-19T19:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/12/19/Quick-Updates

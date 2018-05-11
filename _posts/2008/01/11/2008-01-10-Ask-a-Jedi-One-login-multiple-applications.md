@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: One login, multiple applications"
 date: "2008-01-11T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/11/Ask-a-Jedi-One-login-multiple-applications

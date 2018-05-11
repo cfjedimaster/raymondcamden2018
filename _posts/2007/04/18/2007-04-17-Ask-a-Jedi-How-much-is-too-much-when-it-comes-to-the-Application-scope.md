@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: How much is too much when it comes to the Application scope?"
 date: "2007-04-18T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/18/Ask-a-Jedi-How-much-is-too-much-when-it-comes-to-the-Application-scope

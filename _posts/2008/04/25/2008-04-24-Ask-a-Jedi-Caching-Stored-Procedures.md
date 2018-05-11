@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Caching Stored Procedures"
 date: "2008-04-25T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/25/Ask-a-Jedi-Caching-Stored-Procedures

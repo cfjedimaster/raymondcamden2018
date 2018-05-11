@@ -2,7 +2,7 @@
 layout: post
 title: "In Cali this weekend? Check out the Flash Camp"
 date: "2011-04-26T14:04:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/04/26/In-Cali-this-weekend-Check-out-the-Flash-Camp

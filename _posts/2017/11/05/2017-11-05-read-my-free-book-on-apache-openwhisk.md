@@ -2,7 +2,7 @@
 layout: post
 title: "Read My (Free) Book on Apache OpenWhisk"
 date: "2017-11-05T05:51:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/11/05/read-my-free-book-on-apache-openwhisk

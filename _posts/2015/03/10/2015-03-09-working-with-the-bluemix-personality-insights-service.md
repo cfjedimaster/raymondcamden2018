@@ -2,7 +2,7 @@
 layout: post
 title: "Working with the Bluemix Personality Insights Service"
 date: "2015-03-10T08:50:48+06:00"
-categories: Development 
+categories: development 
 tags: bluemix
 banner_image: 
 permalink: /2015/03/10/working-with-the-bluemix-personality-insights-service

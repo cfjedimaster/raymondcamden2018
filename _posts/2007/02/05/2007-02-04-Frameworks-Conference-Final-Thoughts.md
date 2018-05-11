@@ -2,7 +2,7 @@
 layout: post
 title: "Frameworks Conference - Final Thoughts"
 date: "2007-02-05T11:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/05/Frameworks-Conference-Final-Thoughts

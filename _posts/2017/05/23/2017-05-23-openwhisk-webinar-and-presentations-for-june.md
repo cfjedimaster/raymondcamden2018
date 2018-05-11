@@ -2,7 +2,7 @@
 layout: post
 title: "OpenWhisk Webinar and Presentations for June"
 date: "2017-05-23T14:10:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/apache_ow.jpg
 permalink: /2017/05/23/openwhisk-webinar-and-presentations-for-june

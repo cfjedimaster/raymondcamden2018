@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9, Caching, IP_ADD_MEMBERSHIP Error"
 date: "2010-05-06T13:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/05/06/ColdFusion-9-Caching-IPADDMEMBERSHIP-Error

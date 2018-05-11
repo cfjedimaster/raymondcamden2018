@@ -2,7 +2,7 @@
 layout: post
 title: "Building \"Robust\" PhoneGap Applications"
 date: "2013-03-18T17:03:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/03/18/building-robust-phonegap-applications

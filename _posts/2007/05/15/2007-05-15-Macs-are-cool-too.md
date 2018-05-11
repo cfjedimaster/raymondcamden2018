@@ -2,7 +2,7 @@
 layout: post
 title: "Macs are cool too..."
 date: "2007-05-15T14:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/05/15/Macs-are-cool-too

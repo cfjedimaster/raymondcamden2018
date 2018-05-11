@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Current User Error with Admin API"
 date: "2005-12-09T18:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/09/Ask-a-Jedi-Current-User-Error-with-Admin-API

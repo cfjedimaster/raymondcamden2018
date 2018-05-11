@@ -2,7 +2,7 @@
 layout: post
 title: "Translating from Roman to Decimal Numbers with ColdFusion"
 date: "2010-02-02T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/02/Translating-from-Roman-to-Decimal-Numbers-with-ColdFusion

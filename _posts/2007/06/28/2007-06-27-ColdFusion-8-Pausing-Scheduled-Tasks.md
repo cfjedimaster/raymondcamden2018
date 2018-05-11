@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: Pausing Scheduled Tasks"
 date: "2007-06-28T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/28/ColdFusion-8-Pausing-Scheduled-Tasks

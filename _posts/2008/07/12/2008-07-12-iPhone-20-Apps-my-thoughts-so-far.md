@@ -2,7 +2,7 @@
 layout: post
 title: "iPhone 2.0 Apps - my thoughts so far"
 date: "2008-07-12T16:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/12/iPhone-20-Apps-my-thoughts-so-far

@@ -2,7 +2,7 @@
 layout: post
 title: "New comments policy"
 date: "2009-11-19T07:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/11/19/New-comments-policy

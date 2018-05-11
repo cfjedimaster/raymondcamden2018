@@ -2,7 +2,7 @@
 layout: post
 title: "Quickie Code Review"
 date: "2007-09-25T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/25/Quickie-Code-Review

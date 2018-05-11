@@ -2,7 +2,7 @@
 layout: post
 title: "New ColdFusion site - FaqMe"
 date: "2011-07-27T22:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/27/New-ColdFusion-site-FaqMe

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Components and Validation"
 date: "2005-08-30T22:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/30/Ask-a-Jedi-ColdFusion-Components-and-Validation

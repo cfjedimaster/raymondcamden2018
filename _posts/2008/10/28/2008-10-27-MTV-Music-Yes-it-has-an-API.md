@@ -2,7 +2,7 @@
 layout: post
 title: "MTV Music (Yes, it has an API)"
 date: "2008-10-28T10:10:00+06:00"
-categories: Music 
+categories: music 
 tags: 
 banner_image: 
 permalink: /2008/10/28/MTV-Music-Yes-it-has-an-API

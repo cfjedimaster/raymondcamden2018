@@ -2,7 +2,7 @@
 layout: post
 title: "Adding a background image to a reveal.js presentation"
 date: "2012-07-23T19:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/07/23/Adding-a-background-image-to-a-revealjs-presentation

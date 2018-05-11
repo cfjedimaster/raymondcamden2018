@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting change with listToArray from ColdFusion 8 to 9"
 date: "2010-06-04T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/04/Interesting-change-with-listToArray-from-ColdFusion-8-to-9

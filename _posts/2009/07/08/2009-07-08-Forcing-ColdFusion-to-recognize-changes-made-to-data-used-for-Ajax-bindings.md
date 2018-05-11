@@ -2,7 +2,7 @@
 layout: post
 title: "Forcing ColdFusion to recognize changes made to data used for Ajax bindings"
 date: "2009-07-08T14:07:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/07/08/Forcing-ColdFusion-to-recognize-changes-made-to-data-used-for-Ajax-bindings

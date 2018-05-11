@@ -2,7 +2,7 @@
 layout: post
 title: "Integrating HTML Templating with OpenWhisk Web Actions"
 date: "2017-04-21T10:37:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/04/21/integrating-html-templating-with-openwhisk-web-actions

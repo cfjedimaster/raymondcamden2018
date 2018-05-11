@@ -2,7 +2,7 @@
 layout: post
 title: "Script based query issue to watch out for (and a fix!)"
 date: "2011-08-12T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/12/Script-based-query-issue-to-watch-out-for-and-a-fix

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Controlling where ColdFusion looks to run a custom tag"
 date: "2007-04-23T08:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/23/Ask-a-Jedi-Controlling-where-ColdFusion-looks-to-run-a-custom-tag

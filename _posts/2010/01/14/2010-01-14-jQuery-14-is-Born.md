@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery 1.4 is Born..."
 date: "2010-01-14T18:01:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2010/01/14/jQuery-14-is-Born

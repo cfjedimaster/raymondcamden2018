@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Round robin display of data"
 date: "2009-11-17T13:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/17/Ask-a-Jedi-Round-robin-display-of-data

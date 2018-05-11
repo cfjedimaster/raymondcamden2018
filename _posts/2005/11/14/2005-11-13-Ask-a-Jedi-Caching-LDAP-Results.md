@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Caching LDAP Results"
 date: "2005-11-14T10:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/14/Ask-a-Jedi-Caching-LDAP-Results

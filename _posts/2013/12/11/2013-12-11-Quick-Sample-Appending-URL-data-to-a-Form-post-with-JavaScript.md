@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Sample: Appending URL data to a Form post with JavaScript"
 date: "2013-12-11T12:12:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2013/12/11/Quick-Sample-Appending-URL-data-to-a-Form-post-with-JavaScript

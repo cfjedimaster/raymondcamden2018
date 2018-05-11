@@ -2,7 +2,7 @@
 layout: post
 title: "CajunIpsum - Because - Um - Yeah!"
 date: "2013-07-16T15:07:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/07/16/CajunIpsum-Because-Um-Yeah

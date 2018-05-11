@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Charting - Y Axis Titles and Dashed Lines"
 date: "2009-09-06T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/06/ColdFusion-Charting-Y-Axis-Titles-and-Dashed-Lines

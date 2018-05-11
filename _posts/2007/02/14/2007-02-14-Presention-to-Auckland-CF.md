@@ -2,7 +2,7 @@
 layout: post
 title: "Presention to Auckland CF"
 date: "2007-02-14T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/14/Presention-to-Auckland-CF

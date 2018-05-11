@@ -2,7 +2,7 @@
 layout: post
 title: "Macbook Pro in da house..."
 date: "2006-05-22T15:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/05/22/Macbook-Pro-in-da-house

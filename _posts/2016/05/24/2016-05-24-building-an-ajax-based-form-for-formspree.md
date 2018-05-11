@@ -2,7 +2,7 @@
 layout: post
 title: "Building an AJAX-based form for Formspree"
 date: "2016-05-24T18:50:00-07:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2016/05/24/building-an-ajax-based-form-for-formspree

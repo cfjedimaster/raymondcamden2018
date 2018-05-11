@@ -2,7 +2,7 @@
 layout: post
 title: "Blowing up LocalStorage (or what happens when you exceed quota)"
 date: "2015-04-14T12:00:16+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2015/04/14/blowing-up-localstorage-or-what-happens-when-you-exceed-quota

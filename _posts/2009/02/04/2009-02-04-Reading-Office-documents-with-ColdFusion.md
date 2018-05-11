@@ -2,7 +2,7 @@
 layout: post
 title: "Reading Office documents with ColdFusion"
 date: "2009-02-04T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/04/Reading-Office-documents-with-ColdFusion

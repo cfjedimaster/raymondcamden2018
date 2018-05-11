@@ -2,7 +2,7 @@
 layout: post
 title: "Three ways to sign URLs for Amazon Web Services"
 date: "2010-07-27T10:07:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2010/07/27/Three-ways-to-sign-URLs-for-the-Amazon

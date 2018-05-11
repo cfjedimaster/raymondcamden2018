@@ -2,7 +2,7 @@
 layout: post
 title: "Nunjucks templating by Mozilla"
 date: "2014-10-15T11:10:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2014/10/15/Nunjucks-templating-by-Mozilla

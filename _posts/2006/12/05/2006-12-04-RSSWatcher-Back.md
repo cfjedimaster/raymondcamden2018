@@ -2,7 +2,7 @@
 layout: post
 title: "RSSWatcher Back"
 date: "2006-12-05T09:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/05/RSSWatcher-Back

@@ -2,7 +2,7 @@
 layout: post
 title: "Need a Test SMTP Server?"
 date: "2016-08-09T16:44:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2016/08/09/need-a-test-smtp-server

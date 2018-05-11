@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Stephen King's \"Cell\""
 date: "2006-02-19T09:02:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2006/02/19/book-review-stephen-kings-cell

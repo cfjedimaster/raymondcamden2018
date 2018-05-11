@@ -2,7 +2,7 @@
 layout: post
 title: "Avoid use of scope names for argument names"
 date: "2007-11-15T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/15/Avoid-use-of-scope-names-for-argument-names

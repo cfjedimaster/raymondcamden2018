@@ -2,7 +2,7 @@
 layout: post
 title: "Flex/ColdFusion case sensitivity gotcha"
 date: "2007-05-16T10:05:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2007/05/16/FlexColdFusion-case-sensitivity-gotcha

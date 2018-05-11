@@ -2,7 +2,7 @@
 layout: post
 title: "New Chrome Extension - Kittenify"
 date: "2012-12-11T18:12:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2012/12/11/New-Chrome-Extension-Kittenify

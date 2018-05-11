@@ -2,7 +2,7 @@
 layout: post
 title: "Yet Another Mini Cooper Update"
 date: "2006-08-09T16:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/09/Yet-Another-Mini-Cooper-Update

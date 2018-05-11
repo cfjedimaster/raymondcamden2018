@@ -2,7 +2,7 @@
 layout: post
 title: "Potential Downtime"
 date: "2005-08-28T16:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/28/Potential-Downtime

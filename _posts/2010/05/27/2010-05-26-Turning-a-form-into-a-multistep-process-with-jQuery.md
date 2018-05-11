@@ -2,7 +2,7 @@
 layout: post
 title: "Turning a form into a multistep process with jQuery"
 date: "2010-05-27T03:05:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2010/05/27/Turning-a-form-into-a-multistep-process-with-jQuery

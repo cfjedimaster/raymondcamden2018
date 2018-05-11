@@ -2,7 +2,7 @@
 layout: post
 title: "Rough guide to building Android PhoneGap apps from the command line"
 date: "2012-03-12T13:03:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2012/03/12/Rough-guide-to-building-Android-PhoneGap-apps-from-the-command-line

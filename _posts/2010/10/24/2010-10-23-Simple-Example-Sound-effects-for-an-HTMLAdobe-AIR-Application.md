@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Example: Sound effects for an HTML/Adobe AIR Application"
 date: "2010-10-24T10:10:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2010/10/24/Simple-Example-Sound-effects-for-an-HTMLAdobe-AIR-Application

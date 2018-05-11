@@ -2,7 +2,7 @@
 layout: post
 title: "Serverless for Vampires"
 date: "2017-07-27T13:24:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/serverless_vampire.jpg
 permalink: /2017/07/27/serverless-for-vampires

@@ -2,7 +2,7 @@
 layout: post
 title: "Transfer Meeting - Online - 3 Hours. Be there or be a PHP developer!"
 date: "2009-05-07T09:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/07/Transfer-Meeting-Online-3-Hours-Be-there-or-be-a-PHP-developer

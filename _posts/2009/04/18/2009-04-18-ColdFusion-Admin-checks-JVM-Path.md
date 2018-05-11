@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Admin checks JVM Path"
 date: "2009-04-18T15:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/18/ColdFusion-Admin-checks-JVM-Path

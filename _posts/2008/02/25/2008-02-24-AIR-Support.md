@@ -2,7 +2,7 @@
 layout: post
 title: "AIR Support?"
 date: "2008-02-25T07:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/25/AIR-Support

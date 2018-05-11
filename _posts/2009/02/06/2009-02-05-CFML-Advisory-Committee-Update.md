@@ -2,7 +2,7 @@
 layout: post
 title: "CFML Advisory Committee Update"
 date: "2009-02-06T07:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/02/06/CFML-Advisory-Committee-Update

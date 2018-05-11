@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Halo: Reach"
 date: "2010-10-10T11:10:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2010/10/10/review-halo-reach

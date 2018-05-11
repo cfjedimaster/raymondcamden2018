@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Cordova tip - Preventing multiple sounds at once"
 date: "2015-02-27T08:51:48+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2015/02/27/quick-cordova-tip-preventing-multiple-sounds-at-once

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Sorting files numerically that begin with strings"
 date: "2009-09-12T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/12/Ask-a-Jedi-Sorting-files-numerically-that-begin-with-strings

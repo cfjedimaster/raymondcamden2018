@@ -2,7 +2,7 @@
 layout: post
 title: "Ten Years Ago Today..."
 date: "2013-02-12T07:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/02/12/Ten-Years-Ago-Today

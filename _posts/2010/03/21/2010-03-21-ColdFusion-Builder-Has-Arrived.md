@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Builder Has Arrived!"
 date: "2010-03-22T00:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/03/21/ColdFusion-Builder-Has-Arrived

@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts on developing for the Nook"
 date: "2011-08-20T00:08:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2011/08/19/Thoughts-on-developing-for-the-Nook

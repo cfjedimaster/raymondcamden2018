@@ -2,7 +2,7 @@
 layout: post
 title: "The Complete Guide to Adding Error Handling to Your ColdFusion Application"
 date: "2007-12-05T15:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/05/the-complete-guide-to-adding-error-handling-to-your-coldfusion-application

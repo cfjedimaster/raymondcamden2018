@@ -2,7 +2,7 @@
 layout: post
 title: "Watch out for this CFLOGIN Bug"
 date: "2009-08-07T18:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/07/Watch-out-for-this-CFLOGIN-Bug

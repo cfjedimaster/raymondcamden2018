@@ -2,7 +2,7 @@
 layout: post
 title: "Infinite Scroll Example with ColdFusion"
 date: "2013-05-21T16:05:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2013/05/21/Infinite-Scroll-Example-with-ColdFusion

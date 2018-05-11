@@ -2,7 +2,7 @@
 layout: post
 title: "Targeting a device type with Cordova Emulate"
 date: "2014-07-21T17:07:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/07/21/Targetting-a-device-type-with-Cordova-Emulate

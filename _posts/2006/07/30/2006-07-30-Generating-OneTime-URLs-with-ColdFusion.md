@@ -2,7 +2,7 @@
 layout: post
 title: "Generating One-Time URLs with ColdFusion"
 date: "2006-07-30T14:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/30/Generating-OneTime-URLs-with-ColdFusion

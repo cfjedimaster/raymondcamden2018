@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for work? FirstComp hiring.."
 date: "2010-12-16T15:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/12/16/Looking-for-work-FirstComp-hiring

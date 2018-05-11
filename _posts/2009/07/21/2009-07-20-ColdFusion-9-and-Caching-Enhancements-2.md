@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 and Caching Enhancements (2)"
 date: "2009-07-21T09:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/21/ColdFusion-9-and-Caching-Enhancements-2

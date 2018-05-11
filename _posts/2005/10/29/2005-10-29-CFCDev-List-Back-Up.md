@@ -2,7 +2,7 @@
 layout: post
 title: "CFCDev List Back Up"
 date: "2005-10-29T22:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/29/CFCDev-List-Back-Up

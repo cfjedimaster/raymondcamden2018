@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED Survey"
 date: "2008-06-04T13:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/06/04/CFUNITED-Survey

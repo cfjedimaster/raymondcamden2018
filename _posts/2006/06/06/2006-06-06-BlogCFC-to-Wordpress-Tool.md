@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC to Wordpress Tool"
 date: "2006-06-06T13:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/06/BlogCFC-to-Wordpress-Tool

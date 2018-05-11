@@ -2,7 +2,7 @@
 layout: post
 title: "Seeker code update"
 date: "2008-06-02T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/02/Seekr-code-update

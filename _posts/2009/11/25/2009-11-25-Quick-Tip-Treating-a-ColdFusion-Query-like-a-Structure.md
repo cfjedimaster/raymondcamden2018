@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Tip - Treating a ColdFusion Query like a Structure"
 date: "2009-11-25T13:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/25/Quick-Tip-Treating-a-ColdFusion-Query-like-a-Structure

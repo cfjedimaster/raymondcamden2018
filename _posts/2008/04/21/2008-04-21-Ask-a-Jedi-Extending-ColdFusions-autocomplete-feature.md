@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Extending ColdFusion's auto-complete feature"
 date: "2008-04-21T18:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/21/Ask-a-Jedi-Extending-ColdFusions-autocomplete-feature

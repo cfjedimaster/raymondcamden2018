@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Challenge - Build the End of the World"
 date: "2008-01-18T10:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/18/Friday-Challenge-Build-the-End-of-the-World

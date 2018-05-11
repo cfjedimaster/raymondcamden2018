@@ -2,7 +2,7 @@
 layout: post
 title: "The power we wield..."
 date: "2007-08-06T22:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/08/06/The-power-we-wield

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Working with ColdFusion's Debug Query Display and CFQUERYPARAM"
 date: "2008-10-15T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/15/Ask-a-Jedi-Working-with-ColdFusions-Debug-Query-Display-and-CFQUERYPARAM

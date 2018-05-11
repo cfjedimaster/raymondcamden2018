@@ -2,7 +2,7 @@
 layout: post
 title: "I heart Spry"
 date: "2006-06-02T17:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/06/02/I-heart-Spry

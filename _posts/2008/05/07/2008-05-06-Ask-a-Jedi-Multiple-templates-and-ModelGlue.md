@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Multiple templates and Model-Glue"
 date: "2008-05-07T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/07/Ask-a-Jedi-Multiple-templates-and-ModelGlue

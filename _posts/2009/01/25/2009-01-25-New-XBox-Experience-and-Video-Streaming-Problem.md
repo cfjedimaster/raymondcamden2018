@@ -2,7 +2,7 @@
 layout: post
 title: "New XBox Experience and Video Streaming Problem"
 date: "2009-01-25T16:01:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2009/01/25/New-XBox-Experience-and-Video-Streaming-Problem

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Dealing with messy RSS"
 date: "2010-09-21T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/09/21/Ask-a-Jedi-Dealing-with-messy-RSS

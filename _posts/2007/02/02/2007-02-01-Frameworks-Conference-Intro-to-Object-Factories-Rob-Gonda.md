@@ -2,7 +2,7 @@
 layout: post
 title: "Frameworks Conference: Intro to Object Factories - Rob Gonda"
 date: "2007-02-02T08:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/02/Frameworks-Conference-Intro-to-Object-Factories-Rob-Gonda

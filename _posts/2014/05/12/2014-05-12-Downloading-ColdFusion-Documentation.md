@@ -2,7 +2,7 @@
 layout: post
 title: "Downloading ColdFusion Documentation"
 date: "2014-05-12T19:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/05/12/Downloading-ColdFusion-Documentation

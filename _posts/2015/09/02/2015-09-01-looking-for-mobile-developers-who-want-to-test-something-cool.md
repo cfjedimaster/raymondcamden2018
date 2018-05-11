@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for mobile developers who want to test something cool..."
 date: "2015-09-02T10:55:28+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2015/09/02/looking-for-mobile-developers-who-want-to-test-something-cool

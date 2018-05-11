@@ -2,7 +2,7 @@
 layout: post
 title: "Using MobileFirst HTTP Adapters with an Ionic Application"
 date: "2015-04-08T14:03:43+06:00"
-categories: Development HTML5 JavaScript Mobile 
+categories: development html5 javascript mobile 
 tags: ionic mobilefirst
 banner_image: 
 permalink: /2015/04/08/using-mobilefirst-http-adapters-with-an-ionic-application

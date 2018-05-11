@@ -2,7 +2,7 @@
 layout: post
 title: "Five years old today (warning, fluff post)"
 date: "2008-02-12T06:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/12/Five-years-old-today-warning-fluff-post

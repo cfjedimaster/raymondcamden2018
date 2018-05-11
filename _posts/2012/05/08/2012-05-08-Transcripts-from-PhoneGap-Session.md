@@ -2,7 +2,7 @@
 layout: post
 title: "Transcripts from PhoneGap Session"
 date: "2012-05-08T18:05:00+06:00"
-categories: Development HTML5 JavaScript Mobile 
+categories: development html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/05/08/Transcripts-from-PhoneGap-Session

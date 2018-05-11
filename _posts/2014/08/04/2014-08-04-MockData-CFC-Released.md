@@ -2,7 +2,7 @@
 layout: post
 title: "MockData CFC Released"
 date: "2014-08-04T18:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/08/04/MockData-CFC-Released

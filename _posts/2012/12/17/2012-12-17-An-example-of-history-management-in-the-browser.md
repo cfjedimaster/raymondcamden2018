@@ -2,7 +2,7 @@
 layout: post
 title: "An example of history management in the browser"
 date: "2012-12-17T16:12:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/12/17/An-example-of-history-management-in-the-browser

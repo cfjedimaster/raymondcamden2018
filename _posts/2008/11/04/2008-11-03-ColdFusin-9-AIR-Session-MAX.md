@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusin 9 + AIR Session @ MAX"
 date: "2008-11-04T11:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/04/ColdFusin-9-AIR-Session-MAX

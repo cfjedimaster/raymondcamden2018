@@ -2,7 +2,7 @@
 layout: post
 title: "CF101: Splitting a string into parts using ColdFusion"
 date: "2010-06-29T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/29/CF101-Splitting-a-string-into-parts-using-ColdFusion

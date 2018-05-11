@@ -2,7 +2,7 @@
 layout: post
 title: "Building your first HTML/Adobe AIR Application"
 date: "2010-07-31T14:07:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/07/31/Building-your-first-HTMLAdobe-AIR-Application

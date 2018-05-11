@@ -2,7 +2,7 @@
 layout: post
 title: "NativeScript 2.3 Launch Webinar"
 date: "2016-10-06T15:13:00-07:00"
-categories: Development 
+categories: development 
 tags: nativescript
 banner_image: /images/banners/nativescript.png
 permalink: /2016/10/06/nativescript-23-launch-webinar

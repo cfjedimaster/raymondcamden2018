@@ -2,7 +2,7 @@
 layout: post
 title: "Two new PhoneGap videos for your enjoyment"
 date: "2012-04-02T13:04:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2012/04/02/Two-new-PhoneGap-videos-for-your-enjoyment

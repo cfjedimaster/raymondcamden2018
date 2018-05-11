@@ -2,7 +2,7 @@
 layout: post
 title: "Another Example of Vue.js and Vuex - an API Wrapper"
 date: "2018-01-05"
-categories: Development Serverless 
+categories: development serverless 
 tags: javascript vuejs openwhisk
 banner_image: 
 permalink: /2018/01/05/another-example-of-vuejs-and-vuex-an-api-wrapper

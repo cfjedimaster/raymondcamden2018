@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting issue with ORM, Model-Glue, and Exceptions"
 date: "2010-03-02T13:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/02/Interesting-issue-with-ORM-ModelGlue-and-Exceptions

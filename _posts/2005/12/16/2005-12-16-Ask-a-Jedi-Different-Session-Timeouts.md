@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Different Session Timeouts"
 date: "2005-12-16T13:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/16/Ask-a-Jedi-Different-Session-Timeouts

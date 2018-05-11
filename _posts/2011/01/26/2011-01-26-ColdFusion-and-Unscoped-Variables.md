@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion and Unscoped Variables"
 date: "2011-01-26T22:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/01/26/ColdFusion-and-Unscoped-Variables

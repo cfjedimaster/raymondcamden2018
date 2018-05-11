@@ -2,7 +2,7 @@
 layout: post
 title: "Looking at the JavaScript API in Hybrid MobileFirst Apps"
 date: "2015-04-28T13:22:39+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: mobilefirst
 banner_image: 
 permalink: /2015/04/28/looking-at-the-javascript-api-in-hybrid-mobilefirst-apps

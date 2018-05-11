@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe offering Flex training for ColdFusion developers"
 date: "2009-11-03T06:11:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2009/11/03/Adobe-offering-Flex-training-for-ColdFusion-developers

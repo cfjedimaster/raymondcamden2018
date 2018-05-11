@@ -2,7 +2,7 @@
 layout: post
 title: "CFFEED Tip - Structure versus Query"
 date: "2007-09-18T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/18/CFFEED-Tip-Structure-versus-Query

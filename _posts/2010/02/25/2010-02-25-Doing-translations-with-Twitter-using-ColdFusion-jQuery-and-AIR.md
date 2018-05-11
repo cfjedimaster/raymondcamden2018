@@ -2,7 +2,7 @@
 layout: post
 title: "Doing translations with Twitter (using ColdFusion, jQuery, and AIR)"
 date: "2010-02-25T21:02:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/02/25/Doing-translations-with-Twitter-using-ColdFusion-jQuery-and-AIR

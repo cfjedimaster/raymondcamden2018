@@ -2,7 +2,7 @@
 layout: post
 title: "Turning My No Man's Sky App Into a PWA"
 date: "2017-10-12T08:38:00-07:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: javascript pwa
 banner_image: 
 permalink: /2017/10/12/turning-my-no-mans-sky-app-into-a-pwa

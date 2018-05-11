@@ -2,7 +2,7 @@
 layout: post
 title: "Transfer 1.0 RC is Out"
 date: "2008-04-28T08:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/28/Transfer-10-RC-is-Out

@@ -2,7 +2,7 @@
 layout: post
 title: "Modified version of Zoids custom combo box to allow preselected value"
 date: "2006-11-22T17:11:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/11/22/Modified-version-of-Zoids-custom-combo-box-to-allow-preselected-value

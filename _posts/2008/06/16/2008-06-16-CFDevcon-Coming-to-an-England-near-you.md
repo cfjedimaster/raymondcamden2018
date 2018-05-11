@@ -2,7 +2,7 @@
 layout: post
 title: "CFDevcon - Coming to an England near you..."
 date: "2008-06-16T16:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/16/CFDevcon-Coming-to-an-England-near-you

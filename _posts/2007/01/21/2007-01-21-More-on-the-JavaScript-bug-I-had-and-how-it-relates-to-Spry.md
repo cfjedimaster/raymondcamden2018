@@ -2,7 +2,7 @@
 layout: post
 title: "More on the JavaScript bug I had - and how it relates to Spry"
 date: "2007-01-21T18:01:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2007/01/21/More-on-the-JavaScript-bug-I-had-and-how-it-relates-to-Spry

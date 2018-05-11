@@ -2,7 +2,7 @@
 layout: post
 title: "Finally! A good (darn good) Star Wars book"
 date: "2015-09-20T14:19:37+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2015/09/20/finally-a-good-darn-good-star-wars-book

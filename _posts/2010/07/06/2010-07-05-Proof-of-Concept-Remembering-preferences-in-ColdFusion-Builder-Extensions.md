@@ -2,7 +2,7 @@
 layout: post
 title: "Proof of Concept - Remembering preferences in ColdFusion Builder Extensions"
 date: "2010-07-06T10:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/07/06/Proof-of-Concept-Remembering-preferences-in-ColdFusion-Builder-Extensions

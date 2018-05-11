@@ -2,7 +2,7 @@
 layout: post
 title: "Luke Skywalker: \"Because there is good in him....\""
 date: "2005-08-08T15:08:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2005/08/08/Luke-Skywalker-Because-there-is-good-in-him

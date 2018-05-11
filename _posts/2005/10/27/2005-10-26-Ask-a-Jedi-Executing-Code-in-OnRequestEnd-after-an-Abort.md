@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Executing Code in OnRequestEnd after an Abort"
 date: "2005-10-27T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/27/Ask-a-Jedi-Executing-Code-in-OnRequestEnd-after-an-Abort

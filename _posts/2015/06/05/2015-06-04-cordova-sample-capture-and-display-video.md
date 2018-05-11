@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova Sample: Capture and Display Video"
 date: "2015-06-05T10:16:09+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/06/05/cordova-sample-capture-and-display-video

@@ -2,7 +2,7 @@
 layout: post
 title: "Update to pdfUtils Component"
 date: "2008-04-04T20:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/04/Udate-to-pdfUtils-Component

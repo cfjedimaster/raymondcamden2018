@@ -2,7 +2,7 @@
 layout: post
 title: "Article: An Overview of Mobile Debugging Techniques – Part One"
 date: "2013-12-10T07:12:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2013/12/10/Article-An-Overview-of-Mobile-Debugging-Techniques-Part-One

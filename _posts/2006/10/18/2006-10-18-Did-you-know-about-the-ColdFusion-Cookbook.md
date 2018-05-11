@@ -2,7 +2,7 @@
 layout: post
 title: "Did you know about the ColdFusion Cookbook?"
 date: "2006-10-18T15:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/18/Did-you-know-about-the-ColdFusion-Cookbook

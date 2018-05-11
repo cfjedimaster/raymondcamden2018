@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - Get your entries in for the ColdFusion Builder Contest"
 date: "2010-04-16T12:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/04/16/Reminder-Get-your-entries-in-for-the-ColdFusion-Builder-Contest

@@ -2,7 +2,7 @@
 layout: post
 title: "Spoiler Talk on Prometheus"
 date: "2012-06-09T15:06:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2012/06/09/Spoiler-Talk-on-Prometheus

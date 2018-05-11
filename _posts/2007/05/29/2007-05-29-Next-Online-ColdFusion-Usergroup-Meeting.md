@@ -2,7 +2,7 @@
 layout: post
 title: "Next Online ColdFusion Usergroup Meeting"
 date: "2007-05-29T15:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/29/Next-Online-ColdFusion-Usergroup-Meeting

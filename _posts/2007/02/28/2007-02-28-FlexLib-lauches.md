@@ -2,7 +2,7 @@
 layout: post
 title: "FlexLib lauches"
 date: "2007-02-28T12:02:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/02/28/FlexLib-lauches

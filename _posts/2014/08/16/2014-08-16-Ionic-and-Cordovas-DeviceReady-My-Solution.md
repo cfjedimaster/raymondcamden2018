@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic and Cordova's DeviceReady - My Solution"
 date: "2014-08-16T13:08:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/08/16/Ionic-and-Cordovas-DeviceReady-My-Solution

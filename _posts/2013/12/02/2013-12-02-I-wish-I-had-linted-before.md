@@ -2,7 +2,7 @@
 layout: post
 title: "I wish I had linted before..."
 date: "2013-12-02T14:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/12/02/I-wish-I-had-linted-before

@@ -2,7 +2,7 @@
 layout: post
 title: "Quick example of JSON versus XML"
 date: "2007-03-14T13:03:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2007/03/14/Quick-example-of-JSON-versus-XML

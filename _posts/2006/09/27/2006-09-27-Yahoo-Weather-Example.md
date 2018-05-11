@@ -2,7 +2,7 @@
 layout: post
 title: "Yahoo Weather API ColdFusion Example"
 date: "2006-09-27T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/27/Yahoo-Weather-Example

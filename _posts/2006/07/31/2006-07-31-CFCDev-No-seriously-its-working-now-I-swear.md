@@ -2,7 +2,7 @@
 layout: post
 title: "CFCDev (No, seriously, it's working now. I swear!)"
 date: "2006-07-31T16:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/31/CFCDev-No-seriously-its-working-now-I-swear

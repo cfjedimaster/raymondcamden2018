@@ -2,7 +2,7 @@
 layout: post
 title: "Collecting 911 Data with OpenWhisk Cron Triggers"
 date: "2017-02-14T12:56:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/911ow.jpg
 permalink: /2017/02/14/collecting-911-data-openwhisk-cron-triggers

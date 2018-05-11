@@ -2,7 +2,7 @@
 layout: post
 title: "Centering a Google Map on America"
 date: "2014-08-09T13:08:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2014/08/09/Centering-a-Google-Map-on-America

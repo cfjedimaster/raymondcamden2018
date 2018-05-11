@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Builder Extensions and Long Processes"
 date: "2011-03-30T19:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/03/30/ColdFusion-Builder-Extensions-and-Long-Processes

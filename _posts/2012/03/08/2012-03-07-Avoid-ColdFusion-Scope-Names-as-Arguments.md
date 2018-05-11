@@ -2,7 +2,7 @@
 layout: post
 title: "Avoid ColdFusion Scope Names as Arguments"
 date: "2012-03-08T09:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/08/Avoid-ColdFusion-Scope-Names-as-Arguments

@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Tip - Restarting ColdFusion at an interval"
 date: "2010-10-08T13:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/08/Quick-Tip-Restarting-ColdFusion-at-an-interval

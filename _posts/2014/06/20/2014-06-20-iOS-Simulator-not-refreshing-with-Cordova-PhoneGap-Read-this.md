@@ -2,7 +2,7 @@
 layout: post
 title: "iOS Simulator not refreshing with Cordova (PhoneGap)? Read this."
 date: "2014-06-20T12:06:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/06/20/iOS-Simulator-not-refreshing-with-Cordova-PhoneGap-Read-this

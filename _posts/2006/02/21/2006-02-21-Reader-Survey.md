@@ -2,7 +2,7 @@
 layout: post
 title: "Reader Survey"
 date: "2006-02-21T14:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/02/21/Reader-Survey

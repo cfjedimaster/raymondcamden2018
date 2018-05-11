@@ -2,7 +2,7 @@
 layout: post
 title: "Using ColdFusion 9's new FileSeek"
 date: "2009-08-21T16:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/21/Using-ColdFusion-9s-new-FileSeek

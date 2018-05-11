@@ -2,7 +2,7 @@
 layout: post
 title: "The Apache OpenWhisk Slack"
 date: "2017-02-01T14:13:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/02/01/the-apache-openwhisk-slack

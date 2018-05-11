@@ -2,7 +2,7 @@
 layout: post
 title: "Labs updates Flex, AIR, and release BlazeDS"
 date: "2007-12-13T07:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/12/13/Labs-updates-Flex-AIR-and-release-BlazeDS

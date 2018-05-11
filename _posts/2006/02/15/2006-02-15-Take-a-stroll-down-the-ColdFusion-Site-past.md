@@ -2,7 +2,7 @@
 layout: post
 title: "Take a stroll down the ColdFusion Site past..."
 date: "2006-02-15T14:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/15/Take-a-stroll-down-the-ColdFusion-Site-past

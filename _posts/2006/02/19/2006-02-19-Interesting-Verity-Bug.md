@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting Verity Bug"
 date: "2006-02-19T15:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/19/Interesting-Verity-Bug

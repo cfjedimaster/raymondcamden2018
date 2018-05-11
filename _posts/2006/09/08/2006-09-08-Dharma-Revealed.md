@@ -2,7 +2,7 @@
 layout: post
 title: "Dharma Revealed?"
 date: "2006-09-08T22:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/08/Dharma-Revealed

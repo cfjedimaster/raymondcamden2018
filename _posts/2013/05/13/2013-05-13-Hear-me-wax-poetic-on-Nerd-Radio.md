@@ -2,7 +2,7 @@
 layout: post
 title: "Hear me wax poetic on Nerd Radio"
 date: "2013-05-13T18:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/05/13/Hear-me-wax-poetic-on-Nerd-Radio

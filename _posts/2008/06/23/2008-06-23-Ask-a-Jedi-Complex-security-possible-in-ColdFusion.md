@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Complex security possible in ColdFusion?"
 date: "2008-06-23T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/23/Ask-a-Jedi-Complex-security-possible-in-ColdFusion

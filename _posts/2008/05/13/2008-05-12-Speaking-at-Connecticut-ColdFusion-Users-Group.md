@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at Connecticut ColdFusion Users Group"
 date: "2008-05-13T08:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/13/Speaking-at-Connecticut-ColdFusion-Users-Group

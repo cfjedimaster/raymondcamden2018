@@ -2,7 +2,7 @@
 layout: post
 title: "Simple \"FIlter as you type\" ColdFusion 8 Demo"
 date: "2007-08-03T13:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/03/Simple-FIlter-as-you-type-ColdFusion-8-Demo

@@ -2,7 +2,7 @@
 layout: post
 title: "These are REALLY big pictures of my eyes"
 date: "2011-07-13T12:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/07/13/These-are-REALLY-big-pictures-of-my-eyes

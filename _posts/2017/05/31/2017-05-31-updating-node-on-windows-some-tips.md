@@ -2,7 +2,7 @@
 layout: post
 title: "Updating NodeJS on Windows - Some Tips"
 date: "2017-05-31T08:15:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: nodejs
 banner_image: 
 permalink: /2017/05/31/updating-nodejs-on-windows-some-tips

@@ -2,7 +2,7 @@
 layout: post
 title: "Personalizing a login form with jQuery and ColdFusion"
 date: "2011-01-19T12:01:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/01/19/Personalizing-a-login-form-with-jQuery-and-ColdFusion

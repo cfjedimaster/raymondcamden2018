@@ -2,7 +2,7 @@
 layout: post
 title: "Serverless BASIC"
 date: "2017-08-01T09:40:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: /images/banners/serverless_basic.jpg
 permalink: /2017/08/01/serverless-basic

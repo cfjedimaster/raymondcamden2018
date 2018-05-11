@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 ORM error: String index out of range: 0"
 date: "2011-02-21T22:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/02/21/ColdFusion-9-ORM-error-String-index-out-of-range-0

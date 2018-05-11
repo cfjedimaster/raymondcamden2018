@@ -2,7 +2,7 @@
 layout: post
 title: "Update to my Edge Inspect Viewer"
 date: "2013-05-07T16:05:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2013/05/07/Update-to-my-Edge-Inspect-Viewer

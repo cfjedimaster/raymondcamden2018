@@ -2,7 +2,7 @@
 layout: post
 title: "Presention on Spry tonight to Auckland ColdFusion User Group"
 date: "2007-02-28T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/28/Presention-on-Spry-tonight-to-Auckland-ColdFusion-User-Group

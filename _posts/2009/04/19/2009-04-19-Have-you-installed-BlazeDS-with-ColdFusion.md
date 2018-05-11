@@ -2,7 +2,7 @@
 layout: post
 title: "Have you installed BlazeDS with ColdFusion?"
 date: "2009-04-19T12:04:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2009/04/19/Have-you-installed-BlazeDS-with-ColdFusion

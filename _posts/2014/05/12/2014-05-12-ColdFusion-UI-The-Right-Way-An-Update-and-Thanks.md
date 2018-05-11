@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion UI The Right Way - An Update (and Thanks)"
 date: "2014-05-12T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/05/12/ColdFusion-UI-The-Right-Way-An-Update-and-Thanks

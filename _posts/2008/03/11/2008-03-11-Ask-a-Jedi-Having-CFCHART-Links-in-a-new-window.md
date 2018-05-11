@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Having CFCHART Links in a new window"
 date: "2008-03-11T13:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/11/Ask-a-Jedi-Having-CFCHART-Links-in-a-new-window

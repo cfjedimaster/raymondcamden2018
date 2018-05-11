@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: The tag popularity contest"
 date: "2006-05-19T09:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/05/19/Friday-Puzzler-The-tag-popularity-contest

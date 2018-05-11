@@ -2,7 +2,7 @@
 layout: post
 title: "Looping over a ColdFusion Array (In ColdFusion 8)"
 date: "2007-05-11T15:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/11/Looping-over-a-ColdFusion-Array-In-ColdFusion-8

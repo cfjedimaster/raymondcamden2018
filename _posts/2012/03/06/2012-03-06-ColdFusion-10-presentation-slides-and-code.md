@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 10 presentation slides and code"
 date: "2012-03-06T12:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/06/ColdFusion-10-presentation-slides-and-code

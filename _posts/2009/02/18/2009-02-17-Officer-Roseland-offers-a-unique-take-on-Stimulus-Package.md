@@ -2,7 +2,7 @@
 layout: post
 title: "Officer Roseland offers a unique take on 'Stimulus Package'"
 date: "2009-02-18T10:02:00+06:00"
-categories: Music 
+categories: music 
 tags: 
 banner_image: 
 permalink: /2009/02/18/Officer-Roseland-offers-a-unique-take-on-Stimulus-Package

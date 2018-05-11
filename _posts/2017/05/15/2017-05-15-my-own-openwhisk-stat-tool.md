@@ -2,7 +2,7 @@
 layout: post
 title: "My Own OpenWhisk Stat Tool"
 date: "2017-05-15T09:22:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/05/15/my-own-openwhisk-stat-tool

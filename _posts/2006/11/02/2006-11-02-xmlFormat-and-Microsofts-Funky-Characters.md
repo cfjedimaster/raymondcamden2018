@@ -2,7 +2,7 @@
 layout: post
 title: "xmlFormat and Microsoft's Funky Characters"
 date: "2006-11-02T18:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/02/xmlFormat-and-Microsofts-Funky-Characters

@@ -2,7 +2,7 @@
 layout: post
 title: "My thoughts on Apple"
 date: "2010-04-09T18:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/04/09/My-thoughts-on-Apple

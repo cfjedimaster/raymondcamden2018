@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Early Bird ends tonight (Not!)"
 date: "2007-08-08T14:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/08/08/MAX-Early-Bird-ends-tonight

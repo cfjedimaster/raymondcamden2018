@@ -2,7 +2,7 @@
 layout: post
 title: "Using JavaScript to integrate with the EventBrite API"
 date: "2015-07-22T13:44:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/07/22/using-javascript-to-integrate-with-the-eventbrite-api

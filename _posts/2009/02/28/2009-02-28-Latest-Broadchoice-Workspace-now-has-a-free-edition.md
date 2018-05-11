@@ -2,7 +2,7 @@
 layout: post
 title: "Latest Broadchoice Workspace now has a free edition"
 date: "2009-02-28T12:02:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2009/02/28/Latest-Broadchoice-Workspace-now-has-a-free-edition

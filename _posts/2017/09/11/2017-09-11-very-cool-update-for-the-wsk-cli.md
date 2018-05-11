@@ -2,7 +2,7 @@
 layout: post
 title: "Very Cool Update for the OpenWhisk CLI"
 date: "2017-09-11T08:56:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/09/11/very-cool-update-for-the-wsk-cli

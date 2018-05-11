@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using ehcache with stored procs in ColdFusion"
 date: "2010-12-06T07:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/12/06/Ask-a-Jedi-Using-ehcache-with-stored-procs-in-ColdFusion

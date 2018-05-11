@@ -2,7 +2,7 @@
 layout: post
 title: "My (Kinda) Farewell"
 date: "2006-12-22T18:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/22/My-Kinda-Farewell

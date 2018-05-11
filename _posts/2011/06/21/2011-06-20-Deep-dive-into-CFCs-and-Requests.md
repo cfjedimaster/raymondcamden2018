@@ -2,7 +2,7 @@
 layout: post
 title: "Deep dive into CFCs and Requests"
 date: "2011-06-21T07:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/21/Deep-dive-into-CFCs-and-Requests

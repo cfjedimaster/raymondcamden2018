@@ -2,7 +2,7 @@
 layout: post
 title: "Lost Planet Review"
 date: "2007-02-25T01:02:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2007/02/25/lost-planet-review

@@ -2,7 +2,7 @@
 layout: post
 title: "Attend NCDevCon!"
 date: "2013-09-10T18:09:00+06:00"
-categories: ColdFusion HTML5 JavaScript Mobile 
+categories: coldfusion html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/09/10/Attend-NCDevCon

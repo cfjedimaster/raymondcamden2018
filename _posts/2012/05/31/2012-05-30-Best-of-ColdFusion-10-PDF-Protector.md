@@ -2,7 +2,7 @@
 layout: post
 title: "Best of ColdFusion 10: PDF Protector"
 date: "2012-05-31T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/05/31/Best-of-ColdFusion-10-PDF-Protector

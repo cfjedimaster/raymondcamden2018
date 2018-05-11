@@ -2,7 +2,7 @@
 layout: post
 title: "A Twitter Package for OpenWhisk"
 date: "2017-03-15T14:41:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/03/15/a-twitter-package-for-openwhisk

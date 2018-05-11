@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: QueryAddColumn/QuerySetCell Question"
 date: "2006-02-22T06:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/22/Ask-a-Jedi-QueryAddColumnQuerySetCell-Question

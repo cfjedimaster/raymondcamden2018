@@ -2,7 +2,7 @@
 layout: post
 title: "Happy July 4th!"
 date: "2008-07-04T11:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/04/Happy-July-4th

@@ -2,7 +2,7 @@
 layout: post
 title: "Gotches with Queries in Script"
 date: "2009-09-29T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/29/Gotches-with-Queries-in-Script

@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday OT - STTNG Rewatch Complete!"
 date: "2014-05-11T17:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2014/05/11/Sunday-OT-STTNG-Rewatch-Complete

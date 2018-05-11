@@ -2,7 +2,7 @@
 layout: post
 title: "cfpresentation and HTML slides"
 date: "2011-08-08T12:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/08/cfpresentation-and-HTML-slides

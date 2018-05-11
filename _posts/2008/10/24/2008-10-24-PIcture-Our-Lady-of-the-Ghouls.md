@@ -2,7 +2,7 @@
 layout: post
 title: "PIcture: Our Lady of the Ghouls"
 date: "2008-10-24T12:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/10/24/PIcture-Our-Lady-of-the-Ghouls

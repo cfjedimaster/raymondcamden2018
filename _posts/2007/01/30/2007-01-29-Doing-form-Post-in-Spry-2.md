@@ -2,7 +2,7 @@
 layout: post
 title: "Doing  form Post in Spry (2)"
 date: "2007-01-30T00:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/30/Doing-form-Post-in-Spry-2

@@ -2,7 +2,7 @@
 layout: post
 title: "Yahoo is now officially the cool kid on the blog"
 date: "2007-02-22T12:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/02/22/Yahoo-is-now-officially-the-cool-kid-on-the-blog

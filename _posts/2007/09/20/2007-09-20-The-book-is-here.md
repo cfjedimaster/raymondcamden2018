@@ -2,7 +2,7 @@
 layout: post
 title: "The book is here!!"
 date: "2007-09-20T16:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/20/The-book-is-here

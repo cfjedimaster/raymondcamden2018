@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion offer from Intergral"
 date: "2012-02-07T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/02/07/ColdFusion-offer-from-Intergral

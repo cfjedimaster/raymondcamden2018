@@ -2,7 +2,7 @@
 layout: post
 title: "Launching CFWINDOW with a Dynamic Location"
 date: "2009-01-16T18:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/16/Launching-CFWINDOW-with-a-Dynamic-Location

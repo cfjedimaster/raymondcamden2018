@@ -2,7 +2,7 @@
 layout: post
 title: "Article: Introduction to Express"
 date: "2013-07-22T11:07:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/07/22/Article-Introduction-to-Express

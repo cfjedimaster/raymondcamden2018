@@ -2,7 +2,7 @@
 layout: post
 title: "Facebook Chatbots with OpenWhisk"
 date: "2017-10-09T05:52:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/10/09/facebook-chatbots-with-openwhisk

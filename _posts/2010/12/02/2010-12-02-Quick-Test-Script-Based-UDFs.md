@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Test - Script Based UDFs"
 date: "2010-12-02T17:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/12/02/Quick-Test-Script-Based-UDFs

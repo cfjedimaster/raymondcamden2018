@@ -2,7 +2,7 @@
 layout: post
 title: "Another Lafayette Job - Game Programming Teacher"
 date: "2013-02-20T15:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/02/20/Another-Lafayette-Job-Game-Programming-Teacher

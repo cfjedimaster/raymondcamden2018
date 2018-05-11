@@ -2,7 +2,7 @@
 layout: post
 title: "Using URL Paths in OpenWhisk Web Actions"
 date: "2017-05-17T08:42:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/05/17/using-url-paths-in-openwhisk-web-actions

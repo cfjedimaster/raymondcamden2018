@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Windows on a Dell machine with SATA? Check this tip..."
 date: "2007-06-04T10:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/06/04/Installing-Windows-on-a-Dell-machine-with-SATA-Check-this-tip

@@ -2,7 +2,7 @@
 layout: post
 title: "MAXROWS Attribute - Not as good as I thought"
 date: "2009-08-12T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/12/MAXROWS-Attribute-Not-as-good-as-I-thought

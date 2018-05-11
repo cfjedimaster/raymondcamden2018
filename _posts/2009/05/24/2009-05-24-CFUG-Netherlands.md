@@ -2,7 +2,7 @@
 layout: post
 title: "CFUG Netherlands"
 date: "2009-05-24T14:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/24/CFUG-Netherlands

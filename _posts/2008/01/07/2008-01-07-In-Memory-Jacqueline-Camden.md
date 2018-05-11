@@ -2,7 +2,7 @@
 layout: post
 title: "In Memory: Jacqueline Camden"
 date: "2008-01-07T17:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/01/07/In-Memory-Jacqueline-Camden

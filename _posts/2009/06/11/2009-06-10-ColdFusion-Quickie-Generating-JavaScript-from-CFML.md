@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Quickie - Generating JavaScript from CFML"
 date: "2009-06-11T10:06:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2009/06/11/ColdFusion-Quickie-Generating-JavaScript-from-CFML

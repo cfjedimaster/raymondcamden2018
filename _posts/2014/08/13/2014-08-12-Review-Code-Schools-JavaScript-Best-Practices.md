@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Code School's JavaScript Best Practices"
 date: "2014-08-13T08:08:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2014/08/13/Review-Code-Schools-JavaScript-Best-Practices

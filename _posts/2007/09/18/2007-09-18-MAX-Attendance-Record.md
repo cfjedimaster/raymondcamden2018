@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Attendance Record!"
 date: "2007-09-18T15:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/09/18/MAX-Attendance-Record

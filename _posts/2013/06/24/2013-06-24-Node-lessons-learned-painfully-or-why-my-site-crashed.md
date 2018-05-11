@@ -2,7 +2,7 @@
 layout: post
 title: "Node lessons learned painfully (or why my site crashed)"
 date: "2013-06-24T11:06:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/06/24/Node-lessons-learned-painfully-or-why-my-site-crashed

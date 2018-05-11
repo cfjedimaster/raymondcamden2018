@@ -2,7 +2,7 @@
 layout: post
 title: "Pre-conference classes for CFUNITED Posted"
 date: "2007-03-15T09:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/15/Preconference-classes-for-CFUNITED-Posted

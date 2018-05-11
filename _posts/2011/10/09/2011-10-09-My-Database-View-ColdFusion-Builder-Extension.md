@@ -2,7 +2,7 @@
 layout: post
 title: "\"My Database View\" ColdFusion Builder Extension"
 date: "2011-10-09T18:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/10/09/My-Database-View-ColdFusion-Builder-Extension

@@ -2,7 +2,7 @@
 layout: post
 title: "Jericho needs an exit interview"
 date: "2007-05-16T13:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/05/16/Jericho-needs-an-exit-interview

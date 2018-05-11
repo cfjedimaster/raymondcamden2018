@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Example of Apache Cordova and Vue.js"
 date: "2017-12-06"
-categories: Development Mobile 
+categories: development mobile 
 tags: javascript vuejs cordova
 banner_image: 
 permalink: /2017/12/06/quick-example-of-apache-cordova-and-vuejs

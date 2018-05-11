@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion/SlideShare integration tip"
 date: "2008-04-25T12:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/25/ColdFusionSlideShare-integration-tip

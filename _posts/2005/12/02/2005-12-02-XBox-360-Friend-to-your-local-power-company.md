@@ -2,7 +2,7 @@
 layout: post
 title: "XBox 360 - Friend to your local power company..."
 date: "2005-12-02T17:12:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2005/12/02/XBox-360-Friend-to-your-local-power-company

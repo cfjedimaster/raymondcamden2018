@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC Subscribers and Stats"
 date: "2005-09-27T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/27/BlogCFC-Subscribers-and-Stats

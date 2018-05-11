@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Anniversary to me (and my wife)"
 date: "2006-04-13T09:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/04/13/Happy-Anniversary-to-me-and-my-wife

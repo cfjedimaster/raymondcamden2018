@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Login/Registration to a Flex Mobile project"
 date: "2011-05-29T11:05:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/05/29/Adding-LoginRegistration-to-a-Flex-Mobile-project

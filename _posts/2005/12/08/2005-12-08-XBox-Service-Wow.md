@@ -2,7 +2,7 @@
 layout: post
 title: "XBox Service - Wow"
 date: "2005-12-08T17:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/12/08/XBox-Service-Wow

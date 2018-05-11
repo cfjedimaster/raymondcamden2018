@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday OT - Wolfenstein: The New Order"
 date: "2014-07-27T09:07:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2014/07/27/Sunday-OT-Wolfenstein-The-New-Order

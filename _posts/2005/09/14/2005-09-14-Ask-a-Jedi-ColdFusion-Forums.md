@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion Forums"
 date: "2005-09-14T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/14/Ask-a-Jedi-ColdFusion-Forums

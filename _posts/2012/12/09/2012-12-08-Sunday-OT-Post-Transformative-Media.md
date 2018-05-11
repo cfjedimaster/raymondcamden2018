@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday OT Post: Transformative Media"
 date: "2012-12-09T09:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/12/09/Sunday-OT-Post-Transformative-Media

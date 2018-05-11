@@ -2,7 +2,7 @@
 layout: post
 title: "Talking about ColdFusion 9 and ORM Tomorrow"
 date: "2009-11-18T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/18/Talking-about-ColdFusion-9-and-ORM-Tomorrow

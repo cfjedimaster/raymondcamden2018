@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge update, and a reminder about ColdFusion debugging"
 date: "2011-07-29T15:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/29/RIAForge-update-and-a-reminder-about-ColdFusion-debugging

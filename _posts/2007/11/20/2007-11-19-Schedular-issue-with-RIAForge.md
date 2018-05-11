@@ -2,7 +2,7 @@
 layout: post
 title: "Scheduler issue with RIAForge"
 date: "2007-11-20T07:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/20/Schedular-issue-with-RIAForge

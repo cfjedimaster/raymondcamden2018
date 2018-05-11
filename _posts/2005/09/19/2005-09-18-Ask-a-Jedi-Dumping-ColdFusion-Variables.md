@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Dumping ColdFusion Variables"
 date: "2005-09-19T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/19/Ask-a-Jedi-Dumping-ColdFusion-Variables

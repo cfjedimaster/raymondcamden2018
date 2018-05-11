@@ -2,7 +2,7 @@
 layout: post
 title: "Simple AIR Demo - Yahoo Traffic"
 date: "2007-06-22T19:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/06/22/Simple-AIR-Demo-Yahoo-Traffic

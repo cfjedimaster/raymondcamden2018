@@ -2,7 +2,7 @@
 layout: post
 title: "getSafeHTML and ColdFusion 11"
 date: "2014-04-09T23:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/04/09/getSafeHTML-and-ColdFusion-11

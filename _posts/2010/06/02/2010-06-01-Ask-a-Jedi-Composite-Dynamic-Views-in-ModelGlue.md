@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Composite, Dynamic Views in Model-Glue?"
 date: "2010-06-02T09:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/02/Ask-a-Jedi-Composite-Dynamic-Views-in-ModelGlue

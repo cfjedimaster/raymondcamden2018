@@ -2,7 +2,7 @@
 layout: post
 title: "Simple guide to switching to CFQUERYPARAM"
 date: "2007-02-18T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/18/Simple-guide-to-switching-to-CFQUERYPARAM

@@ -2,7 +2,7 @@
 layout: post
 title: "Learn JavaScript Fundamentals at KnowJS"
 date: "2018-03-06"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: /images/banners/Banner_KnowJS.jpg
 permalink: /2018/03/06/learn-javascript-fundamentals-at-knowjs

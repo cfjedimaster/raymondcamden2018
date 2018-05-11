@@ -2,7 +2,7 @@
 layout: post
 title: "FusionAnalytics Released (Finally!)"
 date: "2011-10-24T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/10/24/FusionAnalytics-Released-Finally

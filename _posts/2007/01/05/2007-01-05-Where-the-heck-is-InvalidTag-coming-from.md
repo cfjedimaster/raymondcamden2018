@@ -2,7 +2,7 @@
 layout: post
 title: "Where the heck is InvalidTag coming from?"
 date: "2007-01-05T19:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/05/Where-the-heck-is-InvalidTag-coming-from

@@ -2,7 +2,7 @@
 layout: post
 title: "Few Sunday Notes"
 date: "2007-03-18T12:03:00+06:00"
-categories: ColdFusion Movies 
+categories: coldfusion movies 
 tags: 
 banner_image: 
 permalink: /2007/03/18/Few-Sunday-Notes

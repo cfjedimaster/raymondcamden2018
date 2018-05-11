@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - Top of Mind Networks"
 date: "2012-02-27T18:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/02/27/ColdFusion-Job-Opening-Top-of-Mind-Networks

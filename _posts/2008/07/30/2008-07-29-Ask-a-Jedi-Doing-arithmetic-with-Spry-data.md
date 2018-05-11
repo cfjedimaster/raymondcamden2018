@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Doing arithmetic with Spry data"
 date: "2008-07-30T10:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/30/Ask-a-Jedi-Doing-arithmetic-with-Spry-data

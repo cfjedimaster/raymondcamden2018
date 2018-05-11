@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting CFC method names"
 date: "2006-04-17T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/17/Ask-a-Jedi-Getting-CFC-method-names

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 Aggregator CFC - First Release"
 date: "2007-06-08T13:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/08/ColdFusion-8-Aggregator-CFC-First-Release

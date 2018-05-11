@@ -2,7 +2,7 @@
 layout: post
 title: "What can Brown do for me? How about a provide an easy to use service?"
 date: "2006-12-11T17:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/12/11/What-can-Brown-do-for-me-How-about-a-provide-an-easy-to-use-service

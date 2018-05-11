@@ -2,7 +2,7 @@
 layout: post
 title: "Fixing the Facebook Problem, and why one ColdFusion feature needs to die..."
 date: "2007-09-21T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/21/Fixing-the-Facebook-Problem-and-why-one-ColdFusion-feature-needs-to-die

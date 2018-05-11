@@ -2,7 +2,7 @@
 layout: post
 title: "Dell Heaven?"
 date: "2005-09-07T21:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/07/Dell-Heaven

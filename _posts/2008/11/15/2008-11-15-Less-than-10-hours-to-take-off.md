@@ -2,7 +2,7 @@
 layout: post
 title: "Less than 10 hours to take off..."
 date: "2008-11-15T21:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/11/15/Less-than-10-hours-to-take-off

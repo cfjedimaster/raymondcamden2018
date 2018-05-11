@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap Open Session Transcript"
 date: "2012-08-28T16:08:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2012/08/28/Open-PhoneGap-Session-Transcript

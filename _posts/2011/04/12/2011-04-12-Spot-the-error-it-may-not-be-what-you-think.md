@@ -2,7 +2,7 @@
 layout: post
 title: "Spot the error - it may not be what you think"
 date: "2011-04-12T13:04:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/04/12/Spot-the-error-it-may-not-be-what-you-think

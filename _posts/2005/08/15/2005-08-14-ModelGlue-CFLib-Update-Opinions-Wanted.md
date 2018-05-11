@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue CFLib Update - Opinions Wanted"
 date: "2005-08-15T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/15/ModelGlue-CFLib-Update-Opinions-Wanted

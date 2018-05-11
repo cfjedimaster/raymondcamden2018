@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Automatic CFC Method Tester"
 date: "2006-09-15T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/15/Friday-Puzzler-Automatic-CFC-Method-Tester

@@ -2,7 +2,7 @@
 layout: post
 title: "Seeing the light at the end of the Node"
 date: "2012-05-30T10:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/05/30/Seeing-the-light-at-the-end-of-the-Node

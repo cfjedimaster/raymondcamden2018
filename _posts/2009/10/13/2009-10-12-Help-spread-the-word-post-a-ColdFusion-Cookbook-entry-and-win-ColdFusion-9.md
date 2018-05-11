@@ -2,7 +2,7 @@
 layout: post
 title: "Help spread the word - post a ColdFusion Cookbook entry and win ColdFusion 9"
 date: "2009-10-13T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/13/Help-spread-the-word-post-a-ColdFusion-Cookbook-entry-and-win-ColdFusion-9

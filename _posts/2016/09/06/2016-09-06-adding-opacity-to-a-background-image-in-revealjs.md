@@ -2,7 +2,7 @@
 layout: post
 title: "Adding opacity to a background image in reveal.js"
 date: "2016-09-06T14:09:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2016/09/06/adding-opacity-to-a-background-image-in-revealjs

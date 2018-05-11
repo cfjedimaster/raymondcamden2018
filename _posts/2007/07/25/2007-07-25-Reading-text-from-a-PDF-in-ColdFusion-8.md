@@ -2,7 +2,7 @@
 layout: post
 title: "Reading text from a PDF in ColdFusion 8"
 date: "2007-07-25T15:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/25/Reading-text-from-a-PDF-in-ColdFusion-8

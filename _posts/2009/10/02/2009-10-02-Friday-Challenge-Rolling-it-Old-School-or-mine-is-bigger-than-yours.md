@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Challenge - Rolling it Old School, or mine is bigger than yours..."
 date: "2009-10-02T12:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/02/Friday-Challenge-Rolling-it-Old-School-or-mine-is-bigger-than-yours

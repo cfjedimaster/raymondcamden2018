@@ -2,7 +2,7 @@
 layout: post
 title: "Bound Packages, OpenWhisk, and Web Actions"
 date: "2017-04-28T09:08:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/04/28/bound-packages-openwhisk-and-web-actions

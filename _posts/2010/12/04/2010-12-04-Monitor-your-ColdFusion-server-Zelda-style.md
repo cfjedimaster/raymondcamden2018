@@ -2,7 +2,7 @@
 layout: post
 title: "Monitor your ColdFusion server... Zelda style"
 date: "2010-12-04T17:12:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2010/12/04/Monitor-your-ColdFusion-server-Zelda-style

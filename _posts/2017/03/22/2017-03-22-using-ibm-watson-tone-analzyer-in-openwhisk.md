@@ -2,7 +2,7 @@
 layout: post
 title: "Using IBM Watson Tone Analyzer in OpenWhisk"
 date: "2017-03-22T16:34:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/03/22/using-ibm-watson-tone-analzyer-in-openwhisk

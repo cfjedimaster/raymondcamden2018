@@ -2,7 +2,7 @@
 layout: post
 title: "Modifying the ColdFusion 8 Administrator Menu"
 date: "2007-06-28T16:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/28/Modifying-the-ColdFusion-8-Administrator-Menu

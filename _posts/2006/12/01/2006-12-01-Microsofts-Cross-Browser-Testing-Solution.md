@@ -2,7 +2,7 @@
 layout: post
 title: "Microsoft's Cross Browser Testing \"Solution\""
 date: "2006-12-01T14:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/12/01/Microsofts-Cross-Browser-Testing-Solution

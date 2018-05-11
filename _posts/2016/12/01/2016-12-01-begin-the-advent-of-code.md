@@ -2,8 +2,8 @@
 layout: post
 title: "Begin the Advent of Code!"
 date: "2016-12-01T10:14:00-07:00"
-categories: Development 
-tags: Advent of Code JavaScript
+categories: development 
+tags: advent of code javascript
 banner_image: /images/banners/adventofcode.jpg
 permalink: /2016/12/01/begin-the-advent-of-code
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using ColdFusion Ajax to set Client Variables"
 date: "2009-02-12T21:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/12/Ask-a-Jedi-Using-ColdFusion-Ajax-to-set-Session-Variables

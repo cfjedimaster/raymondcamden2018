@@ -2,7 +2,7 @@
 layout: post
 title: "One example of dealing with JSON deserialization issues"
 date: "2010-01-28T18:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/28/One-example-of-dealing-with-JSON-deserialization-issues

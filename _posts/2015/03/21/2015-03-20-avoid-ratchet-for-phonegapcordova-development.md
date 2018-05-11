@@ -2,7 +2,7 @@
 layout: post
 title: "Avoid Ratchet for PhoneGap/Cordova development"
 date: "2015-03-21T07:22:45+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2015/03/21/avoid-ratchet-for-phonegapcordova-development

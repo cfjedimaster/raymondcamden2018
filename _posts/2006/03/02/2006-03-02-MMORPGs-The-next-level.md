@@ -2,7 +2,7 @@
 layout: post
 title: "MMORPGs - The next level?"
 date: "2006-03-02T12:03:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2006/03/02/MMORPGs-The-next-level

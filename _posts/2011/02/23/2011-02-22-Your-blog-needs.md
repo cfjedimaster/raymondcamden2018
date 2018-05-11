@@ -2,7 +2,7 @@
 layout: post
 title: "Your blog needs..."
 date: "2011-02-23T11:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/02/23/Your-blog-needs

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion, CFHTTP, and java.io.ByteArrayOutputStream"
 date: "2014-12-12T13:23:21+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/12/12/coldfusion-cfhttp-and-java-io-bytearrayoutputstream

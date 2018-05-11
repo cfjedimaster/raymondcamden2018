@@ -2,7 +2,7 @@
 layout: post
 title: "First version of Share CFC Released"
 date: "2007-10-06T21:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/06/First-version-of-Share-CFC-Released

@@ -2,7 +2,7 @@
 layout: post
 title: "Did you know - Safari Remote Debugging and PhoneGap"
 date: "2013-01-21T13:01:00+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/01/21/Did-you-know-Safari-Remote-Debugging-and-PhoneGap

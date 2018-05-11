@@ -2,7 +2,7 @@
 layout: post
 title: "Important notes about ColdFusion 9's new multi file uploader"
 date: "2009-11-11T12:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/11/Important-notes-about-ColdFusion-9s-new-multi-file-uploader

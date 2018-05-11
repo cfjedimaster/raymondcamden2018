@@ -2,7 +2,7 @@
 layout: post
 title: "Working with the new PhoneGap/Cordova ContentSync Plugin"
 date: "2015-05-19T11:38:11+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/05/19/working-with-the-new-phonegapcordova-contentsync-plugin

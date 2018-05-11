@@ -2,7 +2,7 @@
 layout: post
 title: "Looking at the JavaScript API in Hybrid MobileFirst Apps (2)"
 date: "2015-05-19T15:19:16+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova mobilefirst
 banner_image: 
 permalink: /2015/05/19/looking-at-the-javascript-api-in-hybrid-mobilefirst-apps-2

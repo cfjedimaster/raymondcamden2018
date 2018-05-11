@@ -2,7 +2,7 @@
 layout: post
 title: "Deployment options?"
 date: "2006-05-17T11:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/05/17/Deployment-options

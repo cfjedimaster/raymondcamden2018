@@ -2,7 +2,7 @@
 layout: post
 title: "Help a reader decide on SQL Server versus MySQL"
 date: "2008-09-15T08:09:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2008/09/15/Help-a-reader-decide-on-SQL-Server-versus-MySQL

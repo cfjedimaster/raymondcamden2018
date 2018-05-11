@@ -2,7 +2,7 @@
 layout: post
 title: "The movies that scared the crap out of me..."
 date: "2012-10-28T13:10:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2012/10/28/The-movies-that-scared-the-crap-out-of-me

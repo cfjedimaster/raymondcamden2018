@@ -2,7 +2,7 @@
 layout: post
 title: "A look at New Relic Browser"
 date: "2015-05-30T15:14:05+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2015/05/30/a-look-at-new-relic-browser

@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue 3 Released"
 date: "2009-08-10T22:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/10/ModelGlue-3-Released

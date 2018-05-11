@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Stop hiding a ColdFusion error"
 date: "2010-11-16T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/11/16/Ask-a-Jedi-Stop-hiding-a-ColdFusion-error

@@ -2,7 +2,7 @@
 layout: post
 title: "When does it make sense to \"mess\" with your search engine?"
 date: "2007-12-13T09:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/12/13/When-does-it-make-sense-to-mess-with-your-search-engine

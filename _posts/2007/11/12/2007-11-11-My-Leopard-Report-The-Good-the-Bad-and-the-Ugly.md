@@ -2,7 +2,7 @@
 layout: post
 title: "My Leopard Report - The Good, the Bad, and the Ugly"
 date: "2007-11-12T11:11:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/11/12/My-Leopard-Report-The-Good-the-Bad-and-the-Ugly

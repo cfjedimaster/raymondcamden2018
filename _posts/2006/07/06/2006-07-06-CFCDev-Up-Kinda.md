@@ -2,7 +2,7 @@
 layout: post
 title: "CFCDev Up (Kinda)"
 date: "2006-07-06T19:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/06/CFCDev-Up-Kinda

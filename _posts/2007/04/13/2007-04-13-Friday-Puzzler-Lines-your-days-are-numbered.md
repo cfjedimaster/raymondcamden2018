@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler : Lines, your days are numbered..."
 date: "2007-04-13T11:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/13/Friday-Puzzler-Lines-your-days-are-numbered

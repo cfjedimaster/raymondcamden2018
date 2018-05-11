@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic releases an easier path to Cordova / Android development"
 date: "2014-08-19T18:08:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/08/19/Ionic-releases-an-easier-path-to-Cordova-Android-development

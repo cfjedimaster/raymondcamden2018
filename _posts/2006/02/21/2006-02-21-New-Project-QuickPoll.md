@@ -2,7 +2,7 @@
 layout: post
 title: "New Project: QuickPoll"
 date: "2006-02-21T14:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/21/New-Project-QuickPoll

@@ -2,7 +2,7 @@
 layout: post
 title: "Quick correction about my new CFUNITED Preso"
 date: "2008-06-10T16:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/10/Quick-correction-about-my-new-CFUNITED-Preso

@@ -2,7 +2,7 @@
 layout: post
 title: "Thanks for \"Ship of Gold\""
 date: "2006-09-07T08:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/07/Thanks-for-Ship-of-Gold

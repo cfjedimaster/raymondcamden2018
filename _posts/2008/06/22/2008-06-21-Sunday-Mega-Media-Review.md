@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Mega Media Review"
 date: "2008-06-22T08:06:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2008/06/22/Sunday-Mega-Media-Review

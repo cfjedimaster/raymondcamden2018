@@ -2,7 +2,7 @@
 layout: post
 title: "Quick and Dirty ColdFusion 8 CAPTCHA Guide"
 date: "2008-03-29T22:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/29/Quick-and-Dirty-ColdFusion-8-CAPTCHA-Guide

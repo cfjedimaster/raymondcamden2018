@@ -2,7 +2,7 @@
 layout: post
 title: "Mimicking the GMail Delayed Message Load UX"
 date: "2014-05-07T14:05:00+06:00"
-categories: HTML5 JavaScript jQuery 
+categories: html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2014/05/07/Mimicing-the-GMail-Delayed-Message-Load-UX

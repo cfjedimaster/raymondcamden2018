@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Saving a Dump for Later"
 date: "2006-05-23T18:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/05/23/Ask-a-Jedi-Saving-a-Dump-for-Later

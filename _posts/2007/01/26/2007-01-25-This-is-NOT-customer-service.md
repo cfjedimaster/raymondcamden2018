@@ -2,7 +2,7 @@
 layout: post
 title: "This is NOT customer service"
 date: "2007-01-26T09:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/01/26/This-is-NOT-customer-service

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Tieing together multiple UDFs"
 date: "2008-10-20T13:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/20/Ask-a-Jedi-Tieing-together-multiple-UDFs

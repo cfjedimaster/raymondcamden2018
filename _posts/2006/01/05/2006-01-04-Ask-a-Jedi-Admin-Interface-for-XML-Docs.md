@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Admin Interface for XML Docs"
 date: "2006-01-05T10:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/05/Ask-a-Jedi-Admin-Interface-for-XML-Docs

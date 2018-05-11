@@ -2,7 +2,7 @@
 layout: post
 title: "MP3 Downloading - Where is the crime?"
 date: "2005-12-08T15:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/12/08/MP3-Downloading-Where-is-the-crime

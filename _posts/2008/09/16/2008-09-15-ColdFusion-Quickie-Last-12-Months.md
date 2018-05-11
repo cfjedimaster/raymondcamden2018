@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Quickie - Last 12 Months"
 date: "2008-09-16T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/16/ColdFusion-Quickie-Last-12-Months

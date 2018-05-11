@@ -2,7 +2,7 @@
 layout: post
 title: "Working with IonicDB"
 date: "2017-01-19T09:03:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic
 banner_image: /images/banners/ionicdb.jpg
 permalink: /2017/01/19/working-with-ionicdb

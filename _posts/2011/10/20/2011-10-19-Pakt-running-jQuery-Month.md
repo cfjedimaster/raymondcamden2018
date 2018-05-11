@@ -2,7 +2,7 @@
 layout: post
 title: "Pakt running \"jQuery Month\""
 date: "2011-10-20T07:10:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2011/10/20/Pakt-running-jQuery-Month

@@ -2,7 +2,7 @@
 layout: post
 title: "This works... but don't do it."
 date: "2009-10-01T18:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/01/This-works-but-dont-do-it

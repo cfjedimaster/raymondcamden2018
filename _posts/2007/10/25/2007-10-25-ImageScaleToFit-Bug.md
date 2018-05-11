@@ -2,7 +2,7 @@
 layout: post
 title: "ImageScaleToFit Bug"
 date: "2007-10-25T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/25/ImageScaleToFit-Bug

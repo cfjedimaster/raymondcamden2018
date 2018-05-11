@@ -2,7 +2,7 @@
 layout: post
 title: "How bad can it get? Bad."
 date: "2005-09-01T18:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/01/How-bad-can-it-get-Bad

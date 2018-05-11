@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for ideas on ORM Optimization (Post Launch)"
 date: "2010-02-05T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/05/Looking-for-ideas-on-ORM-Optimization-Post-Launch

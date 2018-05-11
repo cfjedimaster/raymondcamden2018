@@ -2,7 +2,7 @@
 layout: post
 title: "SpoolMail update"
 date: "2008-08-09T21:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/09/SpoolMail-update

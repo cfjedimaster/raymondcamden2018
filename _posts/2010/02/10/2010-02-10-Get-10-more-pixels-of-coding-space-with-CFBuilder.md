@@ -2,7 +2,7 @@
 layout: post
 title: "Get 10 more pixels of coding space with CFBuilder"
 date: "2010-02-10T12:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2010/02/10/Get-10-more-pixels-of-coding-space-with-CFBuilder

@@ -2,7 +2,7 @@
 layout: post
 title: "Working with dates and SQLite in PhoneGap"
 date: "2012-01-06T10:01:00+06:00"
-categories: HTML5 JavaScript jQuery Mobile 
+categories: html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/01/06/Working-with-dates-and-SQLite-in-PhoneGap

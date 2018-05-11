@@ -2,7 +2,7 @@
 layout: post
 title: "Using CFDBINFO and CFZIP for quick database backups"
 date: "2007-11-28T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/28/Using-CFDBINFO-and-CFZIP-for-quick-database-backups

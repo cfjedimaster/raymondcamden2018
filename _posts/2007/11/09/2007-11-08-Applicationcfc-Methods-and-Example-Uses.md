@@ -2,7 +2,7 @@
 layout: post
 title: "Application.cfc Methods and Example Uses"
 date: "2007-11-09T11:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/09/Applicationcfc-Methods-and-Example-Uses

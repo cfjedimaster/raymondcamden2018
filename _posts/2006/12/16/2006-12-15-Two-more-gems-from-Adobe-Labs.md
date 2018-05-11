@@ -2,7 +2,7 @@
 layout: post
 title: "Two more gems from Adobe Labs"
 date: "2006-12-16T10:12:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2006/12/16/Two-more-gems-from-Adobe-Labs

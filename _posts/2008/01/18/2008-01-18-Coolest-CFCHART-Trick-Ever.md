@@ -2,7 +2,7 @@
 layout: post
 title: "Coolest CFCHART Trick Ever"
 date: "2008-01-18T16:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/18/Coolest-CFCHART-Trick-Ever

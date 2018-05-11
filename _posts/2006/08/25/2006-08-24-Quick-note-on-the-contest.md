@@ -2,7 +2,7 @@
 layout: post
 title: "Quick note on the contest"
 date: "2006-08-25T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/25/Quick-note-on-the-contest

@@ -2,7 +2,7 @@
 layout: post
 title: "What tags does your browser support? (2012)"
 date: "2012-08-06T14:08:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/08/06/What-tags-does-your-browser-support-2012

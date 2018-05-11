@@ -2,7 +2,7 @@
 layout: post
 title: "Verity Presentation, Spry Notes, and Final Farewall"
 date: "2006-07-01T03:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/01/Verity-Presentation-Spry-Notes-and-Final-Farewall

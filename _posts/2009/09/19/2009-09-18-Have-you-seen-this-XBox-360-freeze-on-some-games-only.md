@@ -2,7 +2,7 @@
 layout: post
 title: "Have you seen this? XBox 360 freeze on some games only"
 date: "2009-09-19T10:09:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2009/09/19/Have-you-seen-this-XBox-360-freeze-on-some-games-only

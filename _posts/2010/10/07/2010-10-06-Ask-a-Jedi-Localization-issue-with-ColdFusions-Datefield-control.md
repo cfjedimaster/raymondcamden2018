@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Localization issue with ColdFusion's Datefield control"
 date: "2010-10-07T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/07/Ask-a-Jedi-Localization-issue-with-ColdFusions-Datefield-control

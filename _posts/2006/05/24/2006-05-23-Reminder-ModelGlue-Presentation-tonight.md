@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - Model-Glue Presentation tonight"
 date: "2006-05-24T08:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/05/24/Reminder-ModelGlue-Presentation-tonight

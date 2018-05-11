@@ -2,7 +2,7 @@
 layout: post
 title: "Diagnosing an error - Form entries are incomplete or invalid."
 date: "2010-10-15T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/10/15/Diagnosing-an-error-Form-entries-are-incomplete-or-invalid

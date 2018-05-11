@@ -2,7 +2,7 @@
 layout: post
 title: "Share Your (Code) Pride"
 date: "2010-08-13T09:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/08/13/Share-Your-Code-Pride

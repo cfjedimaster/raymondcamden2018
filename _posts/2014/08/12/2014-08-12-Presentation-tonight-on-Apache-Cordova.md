@@ -2,7 +2,7 @@
 layout: post
 title: "Presentation tonight on Apache Cordova"
 date: "2014-08-12T11:08:00+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/08/12/Presentation-tonight-on-Apache-Cordova

@@ -2,7 +2,7 @@
 layout: post
 title: "First stab at my Flex homework"
 date: "2006-11-21T21:11:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/11/21/First-stab-at-my-Flex-homework

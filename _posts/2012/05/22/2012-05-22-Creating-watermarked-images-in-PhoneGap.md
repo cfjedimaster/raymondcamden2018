@@ -2,7 +2,7 @@
 layout: post
 title: "Creating watermarked images in PhoneGap"
 date: "2012-05-22T11:05:00+06:00"
-categories: HTML5 JavaScript jQuery Mobile 
+categories: html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/05/22/Creating-watermarked-images-in-PhoneGap

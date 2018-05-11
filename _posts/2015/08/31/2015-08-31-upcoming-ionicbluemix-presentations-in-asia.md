@@ -2,7 +2,7 @@
 layout: post
 title: "Upcoming Ionic/Bluemix Presentations in Asia"
 date: "2015-08-31T13:05:59+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: bluemix cordova ionic
 banner_image: 
 permalink: /2015/08/31/upcoming-ionicbluemix-presentations-in-asia

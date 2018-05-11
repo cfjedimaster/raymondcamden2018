@@ -2,7 +2,7 @@
 layout: post
 title: "Google Hangout - Debugging Mobile Web/Cordova Apps - A Quick Review"
 date: "2014-04-15T11:04:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/04/15/Google-Hangout-Debugging-Mobile-WebCordova-Apps-A-Quick-Review

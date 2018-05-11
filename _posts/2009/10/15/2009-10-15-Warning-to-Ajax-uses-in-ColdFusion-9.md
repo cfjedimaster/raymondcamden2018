@@ -2,7 +2,7 @@
 layout: post
 title: "Warning to Ajax users in ColdFusion 9"
 date: "2009-10-15T13:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/15/Warning-to-Ajax-uses-in-ColdFusion-9

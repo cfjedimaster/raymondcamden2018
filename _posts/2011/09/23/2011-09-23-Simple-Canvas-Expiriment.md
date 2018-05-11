@@ -2,7 +2,7 @@
 layout: post
 title: "Simple Canvas Experiment"
 date: "2011-09-23T18:09:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2011/09/23/Simple-Canvas-Expiriment

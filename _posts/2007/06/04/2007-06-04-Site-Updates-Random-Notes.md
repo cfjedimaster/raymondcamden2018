@@ -2,7 +2,7 @@
 layout: post
 title: "Site Updates + Random Notes"
 date: "2007-06-04T21:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/06/04/Site-Updates-Random-Notes

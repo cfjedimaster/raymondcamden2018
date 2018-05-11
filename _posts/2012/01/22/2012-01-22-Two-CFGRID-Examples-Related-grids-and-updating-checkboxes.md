@@ -2,7 +2,7 @@
 layout: post
 title: "Two CFGRID Examples: Related grids and updating checkboxes"
 date: "2012-01-22T14:01:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2012/01/22/Two-CFGRID-Examples-Related-grids-and-updating-checkboxes

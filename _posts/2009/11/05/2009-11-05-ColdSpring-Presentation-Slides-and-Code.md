@@ -2,7 +2,7 @@
 layout: post
 title: "ColdSpring Presentation - Slides and Code"
 date: "2009-11-05T16:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/05/ColdSpring-Presentation-Slides-and-Code

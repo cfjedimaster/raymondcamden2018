@@ -2,7 +2,7 @@
 layout: post
 title: "Using ColdFusion UI tags and many bound controls"
 date: "2013-10-29T13:10:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2013/10/29/Using-ColdFusion-UI-tags-and-many-bound-controls

@@ -2,7 +2,7 @@
 layout: post
 title: "Online ColdFusion Meetup - Today! (And CFJUG news...)"
 date: "2007-05-17T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/17/Online-ColdFusion-Meetup-Today-And-CFJUG-news

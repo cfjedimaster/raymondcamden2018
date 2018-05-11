@@ -2,7 +2,7 @@
 layout: post
 title: "Online ColdFusion Meetup Back in Action"
 date: "2015-05-11T06:01:11+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/05/11/online-coldfusion-meetup-back-in-action

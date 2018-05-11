@@ -2,7 +2,7 @@
 layout: post
 title: "Building your first Model-Glue application - The Final Battle"
 date: "2006-04-10T00:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/04/09/Building-your-first-ModelGlue-application-The-Final-Battle

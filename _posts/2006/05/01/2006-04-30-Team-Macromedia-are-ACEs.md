@@ -2,7 +2,7 @@
 layout: post
 title: "Team Macromedia are ACEs...."
 date: "2006-05-01T08:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/05/01/Team-Macromedia-are-ACEs

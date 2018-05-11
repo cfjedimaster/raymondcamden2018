@@ -2,7 +2,7 @@
 layout: post
 title: "Running Model-Glue 3 on a box with Model-Glue 2"
 date: "2008-05-07T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/07/Running-ModelGlue-3-on-a-box-with-ModelGlue-2

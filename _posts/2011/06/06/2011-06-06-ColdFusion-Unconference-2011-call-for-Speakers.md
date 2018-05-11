@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Unconference 2011 call for Speakers"
 date: "2011-06-06T19:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/06/ColdFusion-Unconference-2011-call-for-Speakers

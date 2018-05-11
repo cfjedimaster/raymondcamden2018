@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a custom display for Google's Analytics Embed Library"
 date: "2015-09-17T09:44:11+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/09/17/creating-a-custom-display-for-googles-analytics-embed-library

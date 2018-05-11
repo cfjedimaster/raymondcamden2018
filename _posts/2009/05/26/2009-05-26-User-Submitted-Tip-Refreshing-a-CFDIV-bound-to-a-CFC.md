@@ -2,7 +2,7 @@
 layout: post
 title: "User Submitted Tip: Refreshing a CFDIV bound to a CFC"
 date: "2009-05-26T17:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/05/26/User-Submitted-Tip-Refreshing-a-CFDIV-bound-to-a-CFC

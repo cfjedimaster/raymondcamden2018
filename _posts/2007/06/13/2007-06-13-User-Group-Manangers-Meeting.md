@@ -2,7 +2,7 @@
 layout: post
 title: "User Group Manangers Meeting"
 date: "2007-06-13T21:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/06/13/User-Group-Manangers-Meeting

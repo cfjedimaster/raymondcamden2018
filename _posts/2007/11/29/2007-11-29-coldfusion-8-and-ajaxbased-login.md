@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 and Ajax-Based Login"
 date: "2007-11-29T15:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/29/coldfusion-8-and-ajaxbased-login

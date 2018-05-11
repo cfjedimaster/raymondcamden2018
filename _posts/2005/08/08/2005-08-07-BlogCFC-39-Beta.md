@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC 3.9 Beta"
 date: "2005-08-08T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/08/BlogCFC-39-Beta

@@ -2,7 +2,7 @@
 layout: post
 title: "Source code plus initial impressions of Android marketplace"
 date: "2010-11-15T09:11:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2010/11/15/Source-code-plus-initial-impressions-of-Android-marketplace

@@ -2,7 +2,7 @@
 layout: post
 title: "The People's Toolbox adding ColdFusion - Victory!"
 date: "2007-02-28T07:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/28/The-Peoples-Toolbox-adding-ColdFusion-Victory

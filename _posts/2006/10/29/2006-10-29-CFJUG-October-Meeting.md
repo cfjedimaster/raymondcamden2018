@@ -2,7 +2,7 @@
 layout: post
 title: "CFJUG October Meeting"
 date: "2006-10-29T20:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/29/CFJUG-October-Meeting

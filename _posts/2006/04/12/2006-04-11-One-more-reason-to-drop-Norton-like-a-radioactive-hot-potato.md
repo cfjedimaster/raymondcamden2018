@@ -2,7 +2,7 @@
 layout: post
 title: "One more reason to drop Norton like a radioactive hot potato"
 date: "2006-04-12T08:04:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/04/12/One-more-reason-to-drop-Norton-like-a-radioactive-hot-potato

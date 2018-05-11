@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Abstract date ranges and search"
 date: "2008-09-18T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/18/Ask-a-Jedi-Abstract-date-ranges-and-search

@@ -2,7 +2,7 @@
 layout: post
 title: "Recording, slides and bits from todays presentation on CFBuilder"
 date: "2010-07-01T17:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/07/01/Recording-slides-and-bits-from-todays-presentation-on-CFBuilder

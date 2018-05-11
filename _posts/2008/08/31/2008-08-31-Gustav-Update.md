@@ -2,7 +2,7 @@
 layout: post
 title: "Gustav Update"
 date: "2008-08-31T20:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/08/31/Gustav-Update

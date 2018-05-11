@@ -2,7 +2,7 @@
 layout: post
 title: "Having issues sending a Cordova app to an iOS device? Seeing lldb?"
 date: "2014-09-11T19:09:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/09/11/Having-issues-sending-a-Cordova-app-to-an-iOS-device-Seeing-lldb

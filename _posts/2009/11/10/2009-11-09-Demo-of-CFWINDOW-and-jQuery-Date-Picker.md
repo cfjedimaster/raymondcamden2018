@@ -2,7 +2,7 @@
 layout: post
 title: "Demo of CFWINDOW and jQuery Date Picker"
 date: "2009-11-10T07:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/11/10/Demo-of-CFWINDOW-and-jQuery-Date-Picker

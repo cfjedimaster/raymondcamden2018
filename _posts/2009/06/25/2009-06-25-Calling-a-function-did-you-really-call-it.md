@@ -2,7 +2,7 @@
 layout: post
 title: "Calling a function... did you really call it?"
 date: "2009-06-25T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/25/Calling-a-function-did-you-really-call-it

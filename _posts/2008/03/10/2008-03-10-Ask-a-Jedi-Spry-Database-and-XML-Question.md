@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Spry, Database, and XML Question"
 date: "2008-03-10T23:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/03/10/Ask-a-Jedi-Spry-Database-and-XML-Question

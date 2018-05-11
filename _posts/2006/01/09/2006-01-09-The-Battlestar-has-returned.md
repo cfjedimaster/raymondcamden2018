@@ -2,7 +2,7 @@
 layout: post
 title: "The Battlestar has returned"
 date: "2006-01-09T17:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/01/09/The-Battlestar-has-returned

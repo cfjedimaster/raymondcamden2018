@@ -2,7 +2,7 @@
 layout: post
 title: "Quick follow up to Modal Dialog Editing post with jQuery and ColdFusion"
 date: "2011-01-04T18:01:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/01/04/Quick-follow-up-to-Modal-Dialog-Editing-post-with-jQuery-and-ColdFusion

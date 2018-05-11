@@ -2,7 +2,7 @@
 layout: post
 title: "Spry Presentation Tonight"
 date: "2006-07-26T13:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/26/Spry-Presentation-Tonight

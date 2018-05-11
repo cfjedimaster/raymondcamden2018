@@ -2,7 +2,7 @@
 layout: post
 title: "List auto-dividers in Ionic"
 date: "2014-11-06T17:11:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/11/06/Autolist-dividers-in-Ionic

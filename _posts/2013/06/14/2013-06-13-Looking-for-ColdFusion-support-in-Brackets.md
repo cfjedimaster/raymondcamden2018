@@ -2,7 +2,7 @@
 layout: post
 title: "Looking for ColdFusion support in Brackets?"
 date: "2013-06-14T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/06/14/Looking-for-ColdFusion-support-in-Brackets

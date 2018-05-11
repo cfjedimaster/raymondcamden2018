@@ -2,7 +2,7 @@
 layout: post
 title: "Searching Spry Data Sets"
 date: "2007-01-03T16:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/01/03/Searching-Spry-Data-Sets

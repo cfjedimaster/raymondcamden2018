@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Keynote Liveblog - Day 2"
 date: "2008-11-18T13:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/11/18/MAX-Keynote-Liveblog-Day-2

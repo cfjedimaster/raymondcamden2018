@@ -2,7 +2,7 @@
 layout: post
 title: "Creative Cloud Update Today"
 date: "2014-01-16T10:01:00+06:00"
-categories: Design 
+categories: design 
 tags: 
 banner_image: 
 permalink: /2014/01/16/Creative-Cloud-Update-Today

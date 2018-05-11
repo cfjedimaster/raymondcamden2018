@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion datefield/change question"
 date: "2008-10-01T15:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/10/01/Ask-a-Jedi-ColdFusion-datefieldchange-question

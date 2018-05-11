@@ -2,7 +2,7 @@
 layout: post
 title: "MAX 2009 ColdFusion Unconference - Call for Speakers/Comments"
 date: "2009-06-29T17:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/29/MAX-2009-ColdFusion-Unconference-Call-for-SpeakersComments

@@ -2,7 +2,7 @@
 layout: post
 title: "ngCordova Released"
 date: "2014-06-04T11:06:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/06/04/ngCordova-Released

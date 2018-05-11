@@ -2,7 +2,7 @@
 layout: post
 title: "Frustrating issues with Firefox and offline manifests"
 date: "2011-03-11T00:03:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2011/03/11/Frustrating-issues-with-Firefox-and-offline-manifests

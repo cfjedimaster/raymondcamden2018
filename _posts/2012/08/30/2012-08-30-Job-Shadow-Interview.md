@@ -2,7 +2,7 @@
 layout: post
 title: "Job Shadow Interview"
 date: "2012-08-30T12:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/08/30/Job-Shadow-Interview

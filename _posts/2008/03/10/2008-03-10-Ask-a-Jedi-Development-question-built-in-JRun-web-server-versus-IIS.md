@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Development question - built in JRun web server versus IIS"
 date: "2008-03-10T16:03:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2008/03/10/Ask-a-Jedi-Development-question-built-in-JRun-web-server-versus-IIS

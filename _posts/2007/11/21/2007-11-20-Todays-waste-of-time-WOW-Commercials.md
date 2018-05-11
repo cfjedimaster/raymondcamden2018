@@ -2,7 +2,7 @@
 layout: post
 title: "Today's waste of time: WOW Commercials"
 date: "2007-11-21T09:11:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2007/11/21/Todays-waste-of-time-WOW-Commercials

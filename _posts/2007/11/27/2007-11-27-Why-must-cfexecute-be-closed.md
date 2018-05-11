@@ -2,7 +2,7 @@
 layout: post
 title: "Why must cfexecute be closed?"
 date: "2007-11-27T14:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/27/Why-must-cfexecute-be-closed

@@ -2,7 +2,7 @@
 layout: post
 title: "Flex 3 / AIR Pre-release tour"
 date: "2008-01-07T10:01:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2008/01/07/Flex-3-AIR-Prerelease-tour

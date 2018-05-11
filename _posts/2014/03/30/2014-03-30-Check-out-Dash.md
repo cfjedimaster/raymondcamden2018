@@ -2,7 +2,7 @@
 layout: post
 title: "Check out Dash"
 date: "2014-03-30T11:03:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2014/03/30/Check-out-Dash

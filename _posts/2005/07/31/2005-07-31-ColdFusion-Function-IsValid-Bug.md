@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Function IsValid Bug"
 date: "2005-07-31T17:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/07/31/ColdFusion-Function-IsValid-Bug

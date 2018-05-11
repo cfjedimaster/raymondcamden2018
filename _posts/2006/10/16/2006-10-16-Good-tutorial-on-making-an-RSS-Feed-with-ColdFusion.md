@@ -2,7 +2,7 @@
 layout: post
 title: "Good tutorial on making an RSS Feed with ColdFusion"
 date: "2006-10-16T15:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/16/Good-tutorial-on-making-an-RSS-Feed-with-ColdFusion

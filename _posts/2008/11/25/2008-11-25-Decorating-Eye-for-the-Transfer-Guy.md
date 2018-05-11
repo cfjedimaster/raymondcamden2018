@@ -2,7 +2,7 @@
 layout: post
 title: "Decorating Eye for the Transfer Guy"
 date: "2008-11-25T22:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/11/25/Decorating-Eye-for-the-Transfer-Guy

@@ -2,7 +2,7 @@
 layout: post
 title: "Presenting on Spry tomorrow (the world is invited)"
 date: "2006-11-14T22:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/14/Presenting-on-Spry-tomorrow-the-world-is-invited

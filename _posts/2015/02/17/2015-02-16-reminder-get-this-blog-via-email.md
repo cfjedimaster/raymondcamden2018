@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder - Get this blog via email"
 date: "2015-02-17T11:09:24+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2015/02/17/reminder-get-this-blog-via-email

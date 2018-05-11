@@ -2,7 +2,7 @@
 layout: post
 title: "Using DUMP/TOP with ORM CFCs"
 date: "2009-12-07T12:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/07/Using-DUMPTOP-with-ORM-CFCs

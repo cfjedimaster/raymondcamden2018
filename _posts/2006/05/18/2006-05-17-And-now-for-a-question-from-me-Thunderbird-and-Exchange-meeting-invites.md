@@ -2,7 +2,7 @@
 layout: post
 title: "And now for a question from me: Thunderbird and Exchange meeting invites"
 date: "2006-05-18T09:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/05/18/And-now-for-a-question-from-me-Thunderbird-and-Exchange-meeting-invites

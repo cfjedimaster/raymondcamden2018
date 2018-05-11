@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 and CFFEED"
 date: "2009-07-15T22:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/15/ColdFusion-9-and-CFFEED

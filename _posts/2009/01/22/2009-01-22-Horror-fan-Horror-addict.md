@@ -2,7 +2,7 @@
 layout: post
 title: "Horror fan? Horror addict?"
 date: "2009-01-22T20:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/01/22/Horror-fan-Horror-addict

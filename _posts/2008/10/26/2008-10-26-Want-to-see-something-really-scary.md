@@ -2,7 +2,7 @@
 layout: post
 title: "Want to see something really scary?"
 date: "2008-10-26T14:10:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2008/10/26/Want-to-see-something-really-scary

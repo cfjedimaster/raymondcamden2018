@@ -2,7 +2,7 @@
 layout: post
 title: "Job titles and salary are a security issue?"
 date: "2006-09-03T20:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/09/03/Job-titles-and-salary-are-a-security-issue

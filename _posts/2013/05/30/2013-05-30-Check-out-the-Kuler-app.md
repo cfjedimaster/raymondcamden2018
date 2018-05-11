@@ -2,7 +2,7 @@
 layout: post
 title: "Check out the Kuler app"
 date: "2013-05-30T11:05:00+06:00"
-categories: Design 
+categories: design 
 tags: 
 banner_image: 
 permalink: /2013/05/30/Check-out-the-Kuler-app

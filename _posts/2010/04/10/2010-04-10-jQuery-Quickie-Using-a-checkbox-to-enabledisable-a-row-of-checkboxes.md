@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Quickie: Using a checkbox to enable/disable a row of checkboxes"
 date: "2010-04-10T16:04:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/04/10/jQuery-Quickie-Using-a-checkbox-to-enabledisable-a-row-of-checkboxes

@@ -2,7 +2,7 @@
 layout: post
 title: "FullCalendar jQuery Plugin"
 date: "2011-06-17T09:06:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2011/06/17/FullCalendar-jQuery-Plugin

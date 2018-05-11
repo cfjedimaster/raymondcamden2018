@@ -2,7 +2,7 @@
 layout: post
 title: "Tracking application usage with Flex Mobile"
 date: "2011-09-24T17:09:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/09/24/Tracking-application-usage-with-Flex-Mobile

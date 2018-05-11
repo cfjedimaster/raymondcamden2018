@@ -2,7 +2,7 @@
 layout: post
 title: "Yes, I made it"
 date: "2006-10-27T15:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/10/27/Yes-I-made-it

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 Multifile Uploader - Complete Example"
 date: "2010-03-05T13:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/05/ColdFusion-9-Multifile-Uploader-Complete-Example

@@ -2,7 +2,7 @@
 layout: post
 title: "How NOT to do a game demo"
 date: "2006-05-09T19:05:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2006/05/09/How-NOT-to-do-a-game-demo

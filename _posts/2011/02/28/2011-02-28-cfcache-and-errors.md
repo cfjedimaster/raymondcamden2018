@@ -2,7 +2,7 @@
 layout: post
 title: "cfcache and errors"
 date: "2011-02-28T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/02/28/cfcache-and-errors

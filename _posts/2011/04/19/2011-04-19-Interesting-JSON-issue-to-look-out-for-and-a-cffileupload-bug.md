@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting JSON issue to look out for - and a cffileupload bug"
 date: "2011-04-19T18:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/04/19/Interesting-JSON-issue-to-look-out-for-and-a-cffileupload-bug

@@ -2,7 +2,7 @@
 layout: post
 title: "Tip: Using Ionic - without Ionic"
 date: "2014-09-23T18:09:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/09/23/Tip-Using-Ionic-without-Ionic

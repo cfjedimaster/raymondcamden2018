@@ -2,7 +2,7 @@
 layout: post
 title: "Using Angular and a Content Security Policy? Watch out for this..."
 date: "2015-07-03T08:57:16+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: cordova
 banner_image: 
 permalink: /2015/07/03/using-angular-and-a-content-security-policy-watch-out-for-this

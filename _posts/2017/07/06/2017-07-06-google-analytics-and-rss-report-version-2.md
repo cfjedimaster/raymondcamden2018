@@ -2,8 +2,8 @@
 layout: post
 title: "Google Analytics and RSS Report - Version 2"
 date: "2017-07-06T08:20:00-07:00"
-categories: JavaScript 
-tags: JavaScript
+categories: javascript 
+tags: javascript
 banner_image: 
 permalink: /2017/07/06/google-analytics-and-rss-report-version-2
 ---

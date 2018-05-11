@@ -2,7 +2,7 @@
 layout: post
 title: "Coolest. Video. Ever."
 date: "2006-07-10T17:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/10/Coolest-Video-Ever

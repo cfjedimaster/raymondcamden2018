@@ -2,7 +2,7 @@
 layout: post
 title: "Edge article by Brian Rinaldi"
 date: "2007-03-19T23:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/19/Edge-article-by-Brian-Rinaldi

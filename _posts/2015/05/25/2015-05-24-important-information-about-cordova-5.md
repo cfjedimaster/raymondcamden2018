@@ -2,7 +2,7 @@
 layout: post
 title: "Important information about Cordova 5"
 date: "2015-05-25T08:51:57+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/05/25/important-information-about-cordova-5

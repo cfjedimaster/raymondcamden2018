@@ -2,7 +2,7 @@
 layout: post
 title: "Like the ColdFusion Cookbook? Bored?"
 date: "2006-01-21T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/21/Like-the-ColdFusion-Cookbook-Bored

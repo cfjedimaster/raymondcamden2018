@@ -2,7 +2,7 @@
 layout: post
 title: "Want another option to learn PhoneGap?"
 date: "2012-11-08T16:11:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2012/11/08/Want-another-option-to-learn-PhoneGap

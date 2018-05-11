@@ -2,7 +2,7 @@
 layout: post
 title: "Quick example - updating stuff with CFSLIDER"
 date: "2010-03-30T13:03:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/03/30/Quick-example-updating-stuff-with-CFSLIDER

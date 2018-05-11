@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Refreshing Application Variables"
 date: "2005-11-28T10:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/28/Ask-a-Jedi-Refreshing-Application-Variables

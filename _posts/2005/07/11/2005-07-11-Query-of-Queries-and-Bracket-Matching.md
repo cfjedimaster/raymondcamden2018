@@ -2,7 +2,7 @@
 layout: post
 title: "Query of Queries and Bracket Matching"
 date: "2005-07-11T16:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/07/11/Query-of-Queries-and-Bracket-Matching

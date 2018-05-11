@@ -2,7 +2,7 @@
 layout: post
 title: "Cool UDF: cfcToPrinter"
 date: "2005-08-30T17:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/30/Cool-UDF-cfcToPrinter

@@ -2,7 +2,7 @@
 layout: post
 title: "Did you know - previousCriteria and cfsearch"
 date: "2011-04-10T21:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/04/10/Did-you-know-previousCriteria-and-cfsearch

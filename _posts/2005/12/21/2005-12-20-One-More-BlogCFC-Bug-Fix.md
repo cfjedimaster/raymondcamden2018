@@ -2,7 +2,7 @@
 layout: post
 title: "One More BlogCFC Bug Fix"
 date: "2005-12-21T10:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/21/One-More-BlogCFC-Bug-Fix

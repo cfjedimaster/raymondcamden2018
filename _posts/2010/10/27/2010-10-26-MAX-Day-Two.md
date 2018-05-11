@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Day Two"
 date: "2010-10-27T03:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/10/27/MAX-Day-Two

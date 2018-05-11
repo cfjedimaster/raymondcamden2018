@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Note on Glenda Vigoreaux"
 date: "2008-07-19T20:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/19/Quick-Note-on-Glenda-Vigoreaux

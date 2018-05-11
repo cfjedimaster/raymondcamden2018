@@ -2,7 +2,7 @@
 layout: post
 title: "Five minutes to your first mobile AIR Application"
 date: "2010-11-01T08:11:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2010/11/01/Five-minutes-to-your-first-mobile-AIR-Application

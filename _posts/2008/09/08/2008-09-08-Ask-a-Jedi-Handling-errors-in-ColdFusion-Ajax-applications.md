@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Handling errors in ColdFusion Ajax applications"
 date: "2008-09-09T00:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/08/Ask-a-Jedi-Handling-errors-in-ColdFusion-Ajax-applications

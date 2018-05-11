@@ -2,7 +2,7 @@
 layout: post
 title: "Working with StrongLoop (Part Two)"
 date: "2015-10-13T11:55:16+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: bluemix strongloop
 banner_image: 
 permalink: /2015/10/13/working-with-strongloop-part-two

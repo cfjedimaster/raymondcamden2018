@@ -2,7 +2,7 @@
 layout: post
 title: "Google+ API Released"
 date: "2011-09-15T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/09/15/Google-API-Released

@@ -2,7 +2,7 @@
 layout: post
 title: "Network Help"
 date: "2006-03-16T08:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/03/16/Network-Help

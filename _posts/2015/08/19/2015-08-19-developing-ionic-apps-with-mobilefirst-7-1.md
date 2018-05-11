@@ -2,7 +2,7 @@
 layout: post
 title: "Developing Ionic Apps with MobileFirst 7.1"
 date: "2015-08-19T15:27:30+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova ionic mobilefirst
 banner_image: 
 permalink: /2015/08/19/developing-ionic-apps-with-mobilefirst-7-1

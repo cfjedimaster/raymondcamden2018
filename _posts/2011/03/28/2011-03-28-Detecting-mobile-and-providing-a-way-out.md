@@ -2,7 +2,7 @@
 layout: post
 title: "Detecting mobile, and providing a way out"
 date: "2011-03-28T13:03:00+06:00"
-categories: ColdFusion Mobile 
+categories: coldfusion mobile 
 tags: 
 banner_image: 
 permalink: /2011/03/28/Detecting-mobile-and-providing-a-way-out

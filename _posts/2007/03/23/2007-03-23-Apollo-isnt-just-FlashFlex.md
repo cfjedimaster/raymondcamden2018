@@ -2,7 +2,7 @@
 layout: post
 title: "Apollo isn't just Flash/Flex"
 date: "2007-03-23T16:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/23/Apollo-isnt-just-FlashFlex

@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile Beta 2 released (and a small demo)"
 date: "2011-08-04T16:08:00+06:00"
-categories: ColdFusion JavaScript jQuery Mobile 
+categories: coldfusion javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/08/04/jQuery-Mobile-Beta-2-released-and-a-small-demo

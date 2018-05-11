@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: If I do my own checking, do I still need cfqueryparam?"
 date: "2006-06-01T15:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/01/Ask-a-Jedi-If-I-do-my-own-checking-do-I-still-need-cfqueryparam

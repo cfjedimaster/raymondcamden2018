@@ -2,7 +2,7 @@
 layout: post
 title: "Yes - you can develop Flash apps for iOS on Windows!"
 date: "2011-07-06T19:07:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/07/06/Yes-you-can-develop-Flash-apps-for-iOS-on-Windows

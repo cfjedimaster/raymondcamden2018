@@ -2,7 +2,7 @@
 layout: post
 title: "Site back up (again)"
 date: "2007-07-22T11:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/07/22/Site-back-up-again

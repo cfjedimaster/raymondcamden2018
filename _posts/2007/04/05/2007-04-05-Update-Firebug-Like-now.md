@@ -2,7 +2,7 @@
 layout: post
 title: "Update Firebug. Like now."
 date: "2007-04-05T13:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/04/05/Update-Firebug-Like-now

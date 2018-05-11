@@ -2,7 +2,7 @@
 layout: post
 title: "cf.Objective() - March 11 and 12th"
 date: "2006-02-10T15:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/10/cfObjective-March-11-and-12th

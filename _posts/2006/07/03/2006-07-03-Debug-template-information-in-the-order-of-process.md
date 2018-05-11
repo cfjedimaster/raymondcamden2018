@@ -2,7 +2,7 @@
 layout: post
 title: "Debug template information in the order of process"
 date: "2006-07-03T18:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/03/Debug-template-information-in-the-order-of-process

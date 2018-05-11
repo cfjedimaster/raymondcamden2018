@@ -2,7 +2,7 @@
 layout: post
 title: "Article: The Epic, Awesome & Supremely Useful Data Attribute"
 date: "2015-05-05T08:38:13+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2015/05/05/article-the-epic-awesome-supremely-useful-data-attribute

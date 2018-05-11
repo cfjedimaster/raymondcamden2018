@@ -2,7 +2,7 @@
 layout: post
 title: "Great Reminder of Persistence in Serverless"
 date: "2017-07-18T09:11:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/07/18/great-reminder-of-persistence-in-serverless

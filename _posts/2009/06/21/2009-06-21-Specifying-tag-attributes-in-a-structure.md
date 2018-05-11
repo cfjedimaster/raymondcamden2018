@@ -2,7 +2,7 @@
 layout: post
 title: "Specifying tag attributes in a structure"
 date: "2009-06-21T23:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/21/Specifying-tag-attributes-in-a-structure

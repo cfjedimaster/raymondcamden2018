@@ -2,7 +2,7 @@
 layout: post
 title: "Update your bookmarks for the ColdFusion Docs"
 date: "2014-05-28T13:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/05/28/Update-your-bookmarks-for-the-ColdFusion-Docs

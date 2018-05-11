@@ -2,7 +2,7 @@
 layout: post
 title: "Hal's next OO Class - February 23"
 date: "2009-01-12T13:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/12/Hals-next-OO-Class-February-23

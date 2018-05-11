@@ -2,7 +2,7 @@
 layout: post
 title: "Flex Builder 2.0.1 (and yes, support for the Mac) is here!"
 date: "2007-01-05T07:01:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/01/05/Flex-Builder-201-and-yes-support-for-the-Mac-is-here

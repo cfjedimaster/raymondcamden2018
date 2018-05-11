@@ -2,7 +2,7 @@
 layout: post
 title: "Quick FYI: XHR, Cross Domain Requests, and Sessions"
 date: "2014-06-05T11:06:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/06/05/Quick-FYI-XHR-Cross-Domain-Requests-and-Sessions

@@ -2,7 +2,7 @@
 layout: post
 title: "Adding print support to ColdFusion Builder Extensions"
 date: "2010-07-02T10:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/07/02/Adding-print-support-to-ColdFusion-Builder-Extensions

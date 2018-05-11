@@ -2,7 +2,7 @@
 layout: post
 title: "How To: ColdFusion Chart with No Numbers"
 date: "2009-03-09T17:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/03/09/How-To-ColdFusion-Chart-with-No-Numbers

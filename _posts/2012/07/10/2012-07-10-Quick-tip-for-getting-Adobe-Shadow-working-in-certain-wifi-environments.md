@@ -2,7 +2,7 @@
 layout: post
 title: "Quick tip for getting Adobe Shadow working in certain Wi-Fi environments"
 date: "2012-07-10T17:07:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2012/07/10/Quick-tip-for-getting-Adobe-Shadow-working-in-certain-wifi-environments

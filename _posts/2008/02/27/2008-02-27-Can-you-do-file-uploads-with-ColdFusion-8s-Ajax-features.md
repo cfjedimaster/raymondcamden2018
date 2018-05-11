@@ -2,7 +2,7 @@
 layout: post
 title: "Can you do file uploads with ColdFusion 8's Ajax features?"
 date: "2008-02-27T12:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/27/Can-you-do-file-uploads-with-ColdFusion-8s-Ajax-features

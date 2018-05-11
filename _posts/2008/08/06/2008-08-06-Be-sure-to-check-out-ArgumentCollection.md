@@ -2,7 +2,7 @@
 layout: post
 title: "Be sure to check out ArgumentCollection"
 date: "2008-08-06T12:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/08/06/Be-sure-to-check-out-ArgumentCollection

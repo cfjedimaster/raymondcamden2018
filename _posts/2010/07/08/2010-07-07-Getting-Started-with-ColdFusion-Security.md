@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started with ColdFusion Security"
 date: "2010-07-08T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/07/08/Getting-Started-with-ColdFusion-Security

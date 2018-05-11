@@ -2,7 +2,7 @@
 layout: post
 title: "Where I am (and why I'm still behind)"
 date: "2007-04-25T22:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/04/25/Where-I-am-and-why-Im-still-behind

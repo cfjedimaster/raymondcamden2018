@@ -2,7 +2,7 @@
 layout: post
 title: "State of the Forge Report"
 date: "2007-02-28T09:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/02/28/State-of-the-Forge-Report

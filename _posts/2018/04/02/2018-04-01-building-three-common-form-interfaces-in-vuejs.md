@@ -2,7 +2,7 @@
 layout: post
 title: "Building Three Common Form Interfaces in Vue.js"
 date: "2018-04-02"
-categories: JavaScript 
+categories: javascript 
 tags: vuejs
 banner_image: /images/banners/forms.jpg
 permalink: /2018/04/02/building-three-common-form-interfaces-in-vuejs

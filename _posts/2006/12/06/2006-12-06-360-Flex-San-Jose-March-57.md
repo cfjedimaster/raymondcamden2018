@@ -2,7 +2,7 @@
 layout: post
 title: "360 Flex  (San Jose March 5-7)"
 date: "2006-12-06T15:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/12/06/360-Flex-San-Jose-March-57

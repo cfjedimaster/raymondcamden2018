@@ -2,7 +2,7 @@
 layout: post
 title: "Quick tip for Android users - change your user agent"
 date: "2011-09-25T19:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/09/25/Quick-tip-for-Android-users-change-your-user-agent

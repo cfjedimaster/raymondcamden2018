@@ -2,7 +2,7 @@
 layout: post
 title: "Slides, Recording, Code for my HTML 5 Presentation"
 date: "2011-04-07T16:04:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2011/04/07/Slides-Recording-Code-for-my-HTML-5-Presentation

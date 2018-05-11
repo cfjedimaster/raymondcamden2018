@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 10 Lockdown Guide"
 date: "2012-11-28T08:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/11/28/ColdFusion-10-Lockdown-Guide

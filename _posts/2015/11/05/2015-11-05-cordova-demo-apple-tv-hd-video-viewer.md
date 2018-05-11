@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova Demo - Apple TV HD Video Viewer"
 date: "2015-11-05T17:27:39+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova ionic
 banner_image: 
 permalink: /2015/11/05/cordova-demo-apple-tv-hd-video-viewer

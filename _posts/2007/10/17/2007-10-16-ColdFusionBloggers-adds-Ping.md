@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusionBloggers adds Ping"
 date: "2007-10-17T08:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/17/ColdFusionBloggers-adds-Ping

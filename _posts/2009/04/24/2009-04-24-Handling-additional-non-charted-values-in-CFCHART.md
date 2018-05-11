@@ -2,7 +2,7 @@
 layout: post
 title: "Handling additional (non charted) values in CFCHART?"
 date: "2009-04-24T14:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/24/Handling-additional-non-charted-values-in-CFCHART

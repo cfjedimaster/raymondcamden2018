@@ -2,7 +2,7 @@
 layout: post
 title: "BSG spin off in the works (and a quick note)"
 date: "2006-04-27T07:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/04/27/BSG-spin-off-in-the-works-and-a-quick-note

@@ -2,7 +2,7 @@
 layout: post
 title: "Serving up CFIMages via Image Tags (and a Non-CF Friday contest!)"
 date: "2007-09-14T09:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/14/Serving-up-CFIMages-via-Image-Tags-and-a-NonCF-Friday-contest

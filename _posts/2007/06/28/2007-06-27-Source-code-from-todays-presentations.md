@@ -2,7 +2,7 @@
 layout: post
 title: "Source code from today's presentations (make that yesterday)"
 date: "2007-06-28T01:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/28/Source-code-from-todays-presentations

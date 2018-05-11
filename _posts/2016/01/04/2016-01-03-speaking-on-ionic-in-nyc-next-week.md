@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking on Ionic in NYC Next Week"
 date: "2016-01-04T08:13:47+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: ionic
 banner_image: 
 permalink: /2016/01/04/speaking-on-ionic-in-nyc-next-week

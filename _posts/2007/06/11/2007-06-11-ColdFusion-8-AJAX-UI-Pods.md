@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: AJAX UI Pods"
 date: "2007-06-11T23:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/06/11/ColdFusion-8-AJAX-UI-Pods

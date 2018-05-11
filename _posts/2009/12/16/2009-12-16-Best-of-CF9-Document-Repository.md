@@ -2,7 +2,7 @@
 layout: post
 title: "Best of CF9: Document Repository"
 date: "2009-12-16T13:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/16/Best-of-CF9-Document-Repository

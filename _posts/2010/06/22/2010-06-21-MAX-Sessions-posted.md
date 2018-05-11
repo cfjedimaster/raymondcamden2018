@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Sessions posted"
 date: "2010-06-22T08:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/06/22/MAX-Sessions-posted

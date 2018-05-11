@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Burnout Paradise (Lost)"
 date: "2008-02-16T08:02:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2008/02/16/review-burnout-paradise-lost

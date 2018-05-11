@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge back up..."
 date: "2007-02-14T15:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/14/RIAForge-back-up

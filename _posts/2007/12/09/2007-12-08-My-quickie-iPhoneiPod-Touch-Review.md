@@ -2,7 +2,7 @@
 layout: post
 title: "My quickie iPhone/iPod Touch Review"
 date: "2007-12-09T09:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/12/09/My-quickie-iPhoneiPod-Touch-Review

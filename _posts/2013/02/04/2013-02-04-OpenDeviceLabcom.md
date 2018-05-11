@@ -2,7 +2,7 @@
 layout: post
 title: "OpenDeviceLab.com"
 date: "2013-02-04T17:02:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/02/04/OpenDeviceLabcom

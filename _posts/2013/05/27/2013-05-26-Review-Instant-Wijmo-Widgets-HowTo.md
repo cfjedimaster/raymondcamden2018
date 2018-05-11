@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Instant Wijmo Widgets How-To"
 date: "2013-05-27T07:05:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/05/27/Review-Instant-Wijmo-Widgets-HowTo

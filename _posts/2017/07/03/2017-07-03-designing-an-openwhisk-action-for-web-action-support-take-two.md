@@ -2,7 +2,7 @@
 layout: post
 title: "Designing an OpenWhisk Action for Web Action Support - Take Two"
 date: "2017-07-03T13:25:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/07/03/designing-an-openwhisk-action-for-web-action-support-take-two

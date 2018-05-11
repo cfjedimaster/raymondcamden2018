@@ -2,7 +2,7 @@
 layout: post
 title: "Flash Forms are the New Layer Tag"
 date: "2007-02-07T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/07/Flash-Forms-are-the-New-Layer-Tag

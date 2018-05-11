@@ -2,7 +2,7 @@
 layout: post
 title: "Simple example of loading a ColdFusion query with jQuery"
 date: "2009-03-17T14:03:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/03/17/Simple-example-of-loading-a-ColdFusion-query-with-jQuery

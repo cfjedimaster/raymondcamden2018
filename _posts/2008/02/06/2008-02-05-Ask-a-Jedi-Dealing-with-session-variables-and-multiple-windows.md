@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Dealing with session variables and multiple windows"
 date: "2008-02-06T10:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/06/Ask-a-Jedi-Dealing-with-session-variables-and-multiple-windows

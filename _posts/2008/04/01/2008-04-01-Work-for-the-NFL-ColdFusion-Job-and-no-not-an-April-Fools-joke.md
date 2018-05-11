@@ -2,7 +2,7 @@
 layout: post
 title: "Work for the NFL! (ColdFusion Job, and no, not an April Fool's joke)"
 date: "2008-04-01T15:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/01/Work-for-the-NFL-ColdFusion-Job-and-no-not-an-April-Fools-joke

@@ -2,7 +2,7 @@
 layout: post
 title: "imageUtils gets some Tiff love"
 date: "2008-04-15T12:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/15/imageUtils-gets-some-Tiff-love

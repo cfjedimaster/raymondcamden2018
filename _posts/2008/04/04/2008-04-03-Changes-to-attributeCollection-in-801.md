@@ -2,7 +2,7 @@
 layout: post
 title: "Changes to attributeCollection in 8.0.1"
 date: "2008-04-04T01:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/04/Changes-to-attributeCollection-in-801

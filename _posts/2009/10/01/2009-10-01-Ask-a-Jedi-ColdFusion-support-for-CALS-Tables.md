@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion support for CALS Tables"
 date: "2009-10-01T11:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/01/Ask-a-Jedi-ColdFusion-support-for-CALS-Tables

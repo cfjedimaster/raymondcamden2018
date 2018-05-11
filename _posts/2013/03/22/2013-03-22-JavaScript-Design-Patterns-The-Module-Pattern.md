@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript Design Patterns - The Module Pattern"
 date: "2013-03-22T13:03:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/03/22/JavaScript-Design-Patterns-The-Module-Pattern

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9.0.1 Sneak"
 date: "2010-06-08T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/06/08/ColdFusion-901-Sneak

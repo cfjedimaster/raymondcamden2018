@@ -2,7 +2,7 @@
 layout: post
 title: "Quick note on BlogCFC"
 date: "2006-10-08T22:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/08/Quick-note-on-BlogCFC

@@ -2,7 +2,7 @@
 layout: post
 title: "Most-viewed blog entries of 2012 (thanks Charlie!)"
 date: "2012-12-29T19:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/12/29/Mostviewed-blog-entries-of-2012-thanks-Charlie

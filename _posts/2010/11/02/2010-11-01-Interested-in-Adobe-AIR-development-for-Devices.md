@@ -2,7 +2,7 @@
 layout: post
 title: "Interested in Adobe AIR development for Devices?"
 date: "2010-11-02T10:11:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2010/11/02/Interested-in-Adobe-AIR-development-for-Devices

@@ -2,7 +2,7 @@
 layout: post
 title: "Determining the HTTP request method in ColdFusion"
 date: "2012-02-22T07:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/02/22/Determining-the-HTTP-request-method-in-ColdFusion

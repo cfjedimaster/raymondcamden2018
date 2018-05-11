@@ -2,7 +2,7 @@
 layout: post
 title: "Seeding data for a StrongLoop app"
 date: "2016-01-06T15:21:03+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: nodejs strongloop
 banner_image: 
 permalink: /2016/01/06/seeding-data-for-a-strongloop-app

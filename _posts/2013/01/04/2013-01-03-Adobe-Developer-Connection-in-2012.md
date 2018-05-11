@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Developer Connection in 2012"
 date: "2013-01-04T10:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/01/04/Adobe-Developer-Connection-in-2012

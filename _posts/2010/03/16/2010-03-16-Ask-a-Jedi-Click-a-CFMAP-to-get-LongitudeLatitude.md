@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Click a CFMAP to get Longitude/Latitude"
 date: "2010-03-16T19:03:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/03/16/Ask-a-Jedi-Click-a-CFMAP-to-get-LongitudeLatitude

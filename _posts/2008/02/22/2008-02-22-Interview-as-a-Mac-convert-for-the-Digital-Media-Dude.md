@@ -2,7 +2,7 @@
 layout: post
 title: "Interview as a Mac convert for the Digital Media Dude"
 date: "2008-02-22T21:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/02/22/Interview-as-a-Mac-convert-for-the-Digital-Media-Dude

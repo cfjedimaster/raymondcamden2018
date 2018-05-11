@@ -2,7 +2,7 @@
 layout: post
 title: "Using a server, or session storage, to persist form values"
 date: "2012-01-10T17:01:00+06:00"
-categories: ColdFusion HTML5 JavaScript jQuery 
+categories: coldfusion html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/01/10/Using-a-server-or-session-storage-to-persist-form-values

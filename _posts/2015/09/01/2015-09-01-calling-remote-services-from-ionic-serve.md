@@ -2,7 +2,7 @@
 layout: post
 title: "Calling remote services from Ionic Serve"
 date: "2015-09-01T14:27:47+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/09/01/calling-remote-services-from-ionic-serve

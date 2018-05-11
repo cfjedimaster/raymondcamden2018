@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 Security Bulletin"
 date: "2010-01-29T11:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/29/ColdFusion-9-Security-Bulletin

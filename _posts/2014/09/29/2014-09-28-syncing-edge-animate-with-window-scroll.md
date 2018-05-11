@@ -2,7 +2,7 @@
 layout: post
 title: "Syncing Edge Animate with Window Scroll"
 date: "2014-09-29T08:09:00+06:00"
-categories: Design Development JavaScript 
+categories: design development javascript 
 tags: 
 banner_image: 
 permalink: /2014/09/29/syncing-edge-animate-with-window-scroll

@@ -2,7 +2,7 @@
 layout: post
 title: "No hurricane will stop my blog - Details on Free ColdFusion for Education"
 date: "2008-09-02T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/02/No-hurricane-will-stop-my-blog-Details-on-Free-ColdFusion-for-Education

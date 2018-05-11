@@ -2,7 +2,7 @@
 layout: post
 title: "GET vs POST for Ajax Requests"
 date: "2016-04-21T08:36:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: /images/banners/gpbanner.jpg
 permalink: /2016/04/21/get-vs-post-for-ajax-requests

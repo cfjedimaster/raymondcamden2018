@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFire's SizeSplit function (and the dumb mistake I made)"
 date: "2007-03-23T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/23/ColdFires-SizeSplit-function-and-the-dumb-mistake-I-made

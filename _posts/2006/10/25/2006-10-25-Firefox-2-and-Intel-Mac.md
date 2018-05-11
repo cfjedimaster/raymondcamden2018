@@ -2,7 +2,7 @@
 layout: post
 title: "Firefox 2 and Intel Mac"
 date: "2006-10-25T15:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/10/25/Firefox-2-and-Intel-Mac

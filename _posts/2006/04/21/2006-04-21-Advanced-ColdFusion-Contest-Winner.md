@@ -2,7 +2,7 @@
 layout: post
 title: "Advanced ColdFusion Contest Winner"
 date: "2006-04-21T15:04:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2006/04/21/Advanced-ColdFusion-Contest-Winner

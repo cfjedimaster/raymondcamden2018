@@ -2,7 +2,7 @@
 layout: post
 title: "Some Brackets Extension Tips"
 date: "2012-10-01T11:10:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/10/01/Some-Brackets-Extension-Tips

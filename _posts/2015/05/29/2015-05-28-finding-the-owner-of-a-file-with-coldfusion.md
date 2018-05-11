@@ -2,7 +2,7 @@
 layout: post
 title: "Finding the owner of a file with ColdFusion"
 date: "2015-05-29T08:30:53+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/05/29/finding-the-owner-of-a-file-with-coldfusion

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: Getting the autonumber insert ID"
 date: "2007-06-15T23:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/15/ColdFusion-8-Getting-the-autonumber-insert-ID

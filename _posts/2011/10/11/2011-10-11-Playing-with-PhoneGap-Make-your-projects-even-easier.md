@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with PhoneGap? Make your projects even easier"
 date: "2011-10-11T12:10:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2011/10/11/Playing-with-PhoneGap-Make-your-projects-even-easier

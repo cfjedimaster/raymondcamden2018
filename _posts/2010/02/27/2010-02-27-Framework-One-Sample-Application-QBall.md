@@ -2,7 +2,7 @@
 layout: post
 title: "Framework One Sample Application - QBall"
 date: "2010-02-27T17:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/27/Framework-One-Sample-Application-QBall

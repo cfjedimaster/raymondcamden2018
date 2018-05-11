@@ -2,7 +2,7 @@
 layout: post
 title: "Webinar - Back to the Edge"
 date: "2013-09-30T20:10:00+06:00"
-categories: Design Development HTML5 JavaScript 
+categories: design development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/09/30/Webinar-Back-to-the-Edge

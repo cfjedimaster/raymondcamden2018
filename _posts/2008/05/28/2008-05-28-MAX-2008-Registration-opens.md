@@ -2,7 +2,7 @@
 layout: post
 title: "MAX 2008 Registration opens"
 date: "2008-05-28T11:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/05/28/MAX-2008-Registration-opens

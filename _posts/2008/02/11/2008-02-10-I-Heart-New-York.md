@@ -2,7 +2,7 @@
 layout: post
 title: "I Heart New York"
 date: "2008-02-11T09:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/11/I-Heart-New-York

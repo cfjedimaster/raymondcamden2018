@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Destiny and Star Wars Battlefront"
 date: "2015-12-05T10:12:18+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2015/12/05/review-destiny-and-star-wars-battlefront

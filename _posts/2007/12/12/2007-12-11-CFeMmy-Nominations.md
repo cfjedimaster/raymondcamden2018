@@ -2,7 +2,7 @@
 layout: post
 title: "CFeMmy Nominations"
 date: "2007-12-12T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/12/CFeMmy-Nominations

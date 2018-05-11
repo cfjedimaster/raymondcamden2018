@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: MySQL Dumping"
 date: "2005-10-06T13:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/06/Ask-a-Jedi-MySQL-Dumping

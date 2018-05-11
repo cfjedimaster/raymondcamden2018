@@ -2,7 +2,7 @@
 layout: post
 title: "Datalists with Vue.js"
 date: "2018-04-12"
-categories: JavaScript 
+categories: javascript 
 tags: vuejs
 banner_image: /images/banners/code.jpg
 permalink: /2018/04/12/datalists-with-vuejs

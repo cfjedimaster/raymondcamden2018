@@ -2,7 +2,7 @@
 layout: post
 title: "More on CFLib update (Transfer specifics)"
 date: "2008-06-10T10:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/10/More-on-CFLib-update-Transfer-specifics

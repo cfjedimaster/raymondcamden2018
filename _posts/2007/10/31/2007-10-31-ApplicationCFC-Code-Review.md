@@ -2,7 +2,7 @@
 layout: post
 title: "Application.CFC Code Review"
 date: "2007-10-31T14:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/31/ApplicationCFC-Code-Review

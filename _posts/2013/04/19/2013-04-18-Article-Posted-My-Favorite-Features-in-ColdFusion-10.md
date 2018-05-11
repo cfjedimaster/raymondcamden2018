@@ -2,7 +2,7 @@
 layout: post
 title: "Article Posted: My Favorite Features in ColdFusion 10"
 date: "2013-04-19T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/04/19/Article-Posted-My-Favorite-Features-in-ColdFusion-10

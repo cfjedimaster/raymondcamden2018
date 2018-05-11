@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Dynamic evaluation"
 date: "2007-11-16T14:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/16/Ask-a-Jedi-Dynamic-evaluation

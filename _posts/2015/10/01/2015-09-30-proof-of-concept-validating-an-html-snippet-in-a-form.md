@@ -2,7 +2,7 @@
 layout: post
 title: "Proof of Concept: Validating an HTML Snippet in a Form"
 date: "2015-10-01T09:18:07+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/10/01/proof-of-concept-validating-an-html-snippet-in-a-form

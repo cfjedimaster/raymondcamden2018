@@ -2,7 +2,7 @@
 layout: post
 title: "Cool little CFPOD Trick"
 date: "2007-08-17T07:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/17/Cool-little-CFPOD-Trick

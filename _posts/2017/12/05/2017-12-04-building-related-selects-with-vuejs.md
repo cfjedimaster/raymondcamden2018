@@ -2,7 +2,7 @@
 layout: post
 title: "Building Related Selects with Vue.js"
 date: "2017-12-05"
-categories: Development 
+categories: development 
 tags: javascript vuejs
 banner_image: 
 permalink: /2017/12/05/building-related-selects-with-vuejs

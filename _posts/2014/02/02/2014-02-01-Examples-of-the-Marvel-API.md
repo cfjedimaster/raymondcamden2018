@@ -2,7 +2,7 @@
 layout: post
 title: "Examples of the Marvel API"
 date: "2014-02-02T11:02:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2014/02/02/Examples-of-the-Marvel-API

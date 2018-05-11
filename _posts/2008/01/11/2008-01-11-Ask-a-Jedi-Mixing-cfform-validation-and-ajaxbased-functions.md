@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Mixing cfform validation and ajax-based functions"
 date: "2008-01-11T17:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/11/Ask-a-Jedi-Mixing-cfform-validation-and-ajaxbased-functions

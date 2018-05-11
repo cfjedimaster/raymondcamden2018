@@ -2,7 +2,7 @@
 layout: post
 title: "Quck Review: Spider-Man Shattered Dimensions"
 date: "2010-12-05T14:12:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2010/12/05/quck-review-spiderman-shattered-dimensions

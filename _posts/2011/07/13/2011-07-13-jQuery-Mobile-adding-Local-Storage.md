@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile - adding Local Storage"
 date: "2011-07-13T23:07:00+06:00"
-categories: ColdFusion JavaScript jQuery Mobile 
+categories: coldfusion javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/07/13/jQuery-Mobile-adding-Local-Storage

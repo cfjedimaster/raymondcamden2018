@@ -2,7 +2,7 @@
 layout: post
 title: "Recording and Assets from my PhoneGap Presentation"
 date: "2013-05-02T18:05:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/05/02/Recording-and-Assets-from-my-PhoneGap-Presentation

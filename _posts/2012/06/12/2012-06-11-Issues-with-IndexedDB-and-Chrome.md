@@ -2,7 +2,7 @@
 layout: post
 title: "Issues with IndexedDB and Chrome"
 date: "2012-06-12T10:06:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/06/12/Issues-with-IndexedDB-and-Chrome

@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting little bug with query columns"
 date: "2007-08-20T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/20/Interesting-little-bug-with-query-columns

@@ -2,7 +2,7 @@
 layout: post
 title: "jsoup adds jQuery-like parsing in Java"
 date: "2012-04-06T10:04:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2012/04/06/jsoup-adds-jQuerylike-parsing-in-Java

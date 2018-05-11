@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: QueryConvertForGrid"
 date: "2007-06-01T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/01/ColdFusion-8-QueryConvertForGrid

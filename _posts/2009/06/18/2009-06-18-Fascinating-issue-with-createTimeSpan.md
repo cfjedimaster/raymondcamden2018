@@ -2,7 +2,7 @@
 layout: post
 title: "Fascinating issue with createTimeSpan"
 date: "2009-06-18T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/18/Fascinating-issue-with-createTimeSpan

@@ -2,7 +2,7 @@
 layout: post
 title: "A look at HTML5 Form Validation"
 date: "2012-03-16T11:03:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2012/03/16/A-look-at-HTML5-Form-Validition

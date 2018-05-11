@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: AjaxProxy and Application Scoped CFCs"
 date: "2008-01-22T17:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/22/Ask-a-Jedi-AjaxProxy-and-Application-Scoped-CFCs

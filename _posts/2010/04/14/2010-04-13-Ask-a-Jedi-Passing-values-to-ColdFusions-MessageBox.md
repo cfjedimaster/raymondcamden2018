@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Passing values to ColdFusion's MessageBox"
 date: "2010-04-14T09:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/04/14/Ask-a-Jedi-Passing-values-to-ColdFusions-MessageBox

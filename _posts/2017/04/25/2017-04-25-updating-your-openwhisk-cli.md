@@ -2,7 +2,7 @@
 layout: post
 title: "Updating Your OpenWhisk CLI"
 date: "2017-04-25T11:29:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/04/25/updating-your-openwhisk-cli

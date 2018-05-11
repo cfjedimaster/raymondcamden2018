@@ -2,7 +2,7 @@
 layout: post
 title: "How can I move my Flex app into multiple layers?"
 date: "2008-04-15T18:04:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2008/04/15/How-can-I-move-my-Flex-app-into-multiple-layers

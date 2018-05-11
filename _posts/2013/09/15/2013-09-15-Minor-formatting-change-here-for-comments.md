@@ -2,7 +2,7 @@
 layout: post
 title: "Minor formatting change here for comments"
 date: "2013-09-15T12:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/09/15/Minor-formatting-change-here-for-comments

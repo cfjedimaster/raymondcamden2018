@@ -2,7 +2,7 @@
 layout: post
 title: "Recording from my PhoneGap Build Ask a Pro Session"
 date: "2013-04-02T18:04:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/04/02/Recording-from-my-PhoneGap-Build-Ask-a-Pro-Session

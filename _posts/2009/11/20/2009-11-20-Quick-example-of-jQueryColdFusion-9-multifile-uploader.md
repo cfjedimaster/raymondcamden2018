@@ -2,7 +2,7 @@
 layout: post
 title: "Quick example of jQuery/ColdFusion 9 multifile uploader"
 date: "2009-11-20T18:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/11/20/Quick-example-of-jQueryColdFusion-9-multifile-uploader

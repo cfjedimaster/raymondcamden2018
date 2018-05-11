@@ -2,7 +2,7 @@
 layout: post
 title: "Mashups of CanIUse.com data"
 date: "2012-09-04T18:09:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/09/04/Mashups-of-CanIUsecom-data

@@ -2,7 +2,7 @@
 layout: post
 title: "Galleon Forums 2.5.0"
 date: "2011-09-07T10:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/09/07/Galleon-Forums-250

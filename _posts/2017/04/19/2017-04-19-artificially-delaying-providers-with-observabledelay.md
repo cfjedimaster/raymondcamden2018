@@ -2,7 +2,7 @@
 layout: post
 title: "Artificially Delaying Providers with Observable.Delay"
 date: "2017-04-19T16:44:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: ionic
 banner_image: 
 permalink: /2017/04/19/artificially-delaying-providers-with-observabledelay

@@ -2,7 +2,7 @@
 layout: post
 title: "New public bug base launched"
 date: "2011-03-03T04:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/03/03/New-public-bug-base-launched

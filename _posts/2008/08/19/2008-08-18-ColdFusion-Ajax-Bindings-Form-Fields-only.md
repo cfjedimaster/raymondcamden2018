@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Ajax Bindings - Form Fields only?"
 date: "2008-08-19T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/19/ColdFusion-Ajax-Bindings-Form-Fields-only

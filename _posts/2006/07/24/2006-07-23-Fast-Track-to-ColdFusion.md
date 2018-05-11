@@ -2,7 +2,7 @@
 layout: post
 title: "Fast Track to ColdFusion"
 date: "2006-07-24T01:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/24/Fast-Track-to-ColdFusion

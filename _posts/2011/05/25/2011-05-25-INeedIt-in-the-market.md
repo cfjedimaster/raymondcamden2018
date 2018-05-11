@@ -2,7 +2,7 @@
 layout: post
 title: "INeedIt - in the market"
 date: "2011-05-25T21:05:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/05/25/INeedIt-in-the-market

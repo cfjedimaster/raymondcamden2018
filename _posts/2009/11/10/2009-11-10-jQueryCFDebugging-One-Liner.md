@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery/CFDebugging One-Liner"
 date: "2009-11-10T13:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/11/10/jQueryCFDebugging-One-Liner

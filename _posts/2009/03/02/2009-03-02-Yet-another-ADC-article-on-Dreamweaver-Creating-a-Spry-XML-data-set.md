@@ -2,7 +2,7 @@
 layout: post
 title: "Yet another ADC article on Dreamweaver:  Creating a Spry XML data set"
 date: "2009-03-02T17:03:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2009/03/02/Yet-another-ADC-article-on-Dreamweaver-Creating-a-Spry-XML-data-set

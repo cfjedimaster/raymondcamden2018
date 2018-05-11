@@ -2,7 +2,7 @@
 layout: post
 title: "Coffee Talk: New Atlanta Announcement"
 date: "2008-03-11T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/11/Coffee-Talk-New-Atlanta-Announcement

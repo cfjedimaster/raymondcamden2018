@@ -2,7 +2,7 @@
 layout: post
 title: "Check out varScoper"
 date: "2008-04-21T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/21/Check-out-varScoper

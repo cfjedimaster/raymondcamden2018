@@ -2,7 +2,7 @@
 layout: post
 title: "Variable Type Gotchas - ColdFusion Arrays and Missing Indexes"
 date: "2007-05-09T18:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/09/Variable-Type-Gotchas-ColdFusion-Arrays-and-Missing-Indexes

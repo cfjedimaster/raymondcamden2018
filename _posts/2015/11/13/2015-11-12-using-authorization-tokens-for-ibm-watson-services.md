@@ -2,7 +2,7 @@
 layout: post
 title: "Using Authorization Tokens for IBM Watson services"
 date: "2015-11-13T10:53:48+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: bluemix cordova
 banner_image: 
 permalink: /2015/11/13/using-authorization-tokens-for-ibm-watson-services

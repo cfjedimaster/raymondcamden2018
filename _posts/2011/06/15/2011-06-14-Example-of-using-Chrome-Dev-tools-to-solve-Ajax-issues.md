@@ -2,7 +2,7 @@
 layout: post
 title: "Example of using Chrome Dev tools to solve Ajax issues"
 date: "2011-06-15T09:06:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2011/06/15/Example-of-using-Chrome-Dev-tools-to-solve-Ajax-issues

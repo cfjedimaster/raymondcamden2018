@@ -2,7 +2,7 @@
 layout: post
 title: "MySQL administration via ColdFusion"
 date: "2006-12-07T09:12:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2006/12/07/MySQL-administration-via-ColdFusion

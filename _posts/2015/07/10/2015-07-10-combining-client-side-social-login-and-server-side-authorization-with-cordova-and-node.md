@@ -2,7 +2,7 @@
 layout: post
 title: "Combining client-side social login and server-side authorization with Cordova and Node"
 date: "2015-07-10T13:57:20+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/07/10/combining-client-side-social-login-and-server-side-authorization-with-cordova-and-node

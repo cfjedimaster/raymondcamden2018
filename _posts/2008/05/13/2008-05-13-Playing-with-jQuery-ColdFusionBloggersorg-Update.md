@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with jQuery - ColdFusionBloggers.org Update"
 date: "2008-05-13T15:05:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2008/05/13/Playing-with-jQuery-ColdFusionBloggersorg-Update

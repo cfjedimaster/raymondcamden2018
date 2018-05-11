@@ -2,7 +2,7 @@
 layout: post
 title: "Solr presentation assets, and a note on DisMax searching"
 date: "2013-10-24T17:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/10/24/Solr-presentation-assets-and-a-note-on-Dismax-searching

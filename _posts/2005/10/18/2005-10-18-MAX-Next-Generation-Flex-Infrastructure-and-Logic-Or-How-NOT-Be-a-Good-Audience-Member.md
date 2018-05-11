@@ -2,7 +2,7 @@
 layout: post
 title: "MAX: Next Generation Flex: Infrastructure and Logic, Or - How NOT Be a Good Audience Member"
 date: "2005-10-18T20:10:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2005/10/18/MAX-Next-Generation-Flex-Infrastructure-and-Logic-Or-How-NOT-Be-a-Good-Audience-Member

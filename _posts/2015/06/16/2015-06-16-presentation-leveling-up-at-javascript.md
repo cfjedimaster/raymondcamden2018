@@ -2,7 +2,7 @@
 layout: post
 title: "Presentation: Leveling Up at JavaScript"
 date: "2015-06-16T23:22:45+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/06/16/presentation-leveling-up-at-javascript

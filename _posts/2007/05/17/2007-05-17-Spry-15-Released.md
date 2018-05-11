@@ -2,7 +2,7 @@
 layout: post
 title: "Spry 1.5 Released"
 date: "2007-05-17T22:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/05/17/Spry-15-Released

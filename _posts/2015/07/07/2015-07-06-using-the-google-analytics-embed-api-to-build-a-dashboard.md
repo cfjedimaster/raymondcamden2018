@@ -2,7 +2,7 @@
 layout: post
 title: "Using the Google Analytics Embed API to Build a Dashboard"
 date: "2015-07-07T09:29:18+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2015/07/07/using-the-google-analytics-embed-api-to-build-a-dashboard

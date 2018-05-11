@@ -2,7 +2,7 @@
 layout: post
 title: "Working with the battery in a PhoneGap application"
 date: "2012-01-13T09:01:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/01/13/Working-with-the-battery-in-a-PhoneGap-application

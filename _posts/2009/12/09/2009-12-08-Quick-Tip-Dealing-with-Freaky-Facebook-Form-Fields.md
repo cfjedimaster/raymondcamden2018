@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Tip: Dealing with Freaky Facebook Form Fields"
 date: "2009-12-09T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/12/09/Quick-Tip-Dealing-with-Freaky-Facebook-Form-Fields

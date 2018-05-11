@@ -2,7 +2,7 @@
 layout: post
 title: "Working with IBM MobileFirst and the Ionic Framework"
 date: "2015-03-23T09:42:58+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: ionic mobilefirst
 banner_image: 
 permalink: /2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework

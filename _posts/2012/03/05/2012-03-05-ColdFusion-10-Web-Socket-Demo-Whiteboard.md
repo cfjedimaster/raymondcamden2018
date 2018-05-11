@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 10 Web Socket Demo - Whiteboard"
 date: "2012-03-05T23:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/05/ColdFusion-10-Web-Socket-Demo-Whiteboard

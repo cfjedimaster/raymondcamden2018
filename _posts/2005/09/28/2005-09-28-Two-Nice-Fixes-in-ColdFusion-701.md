@@ -2,7 +2,7 @@
 layout: post
 title: "Two Nice Fixes in ColdFusion 7.0.1"
 date: "2005-09-28T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/28/Two-Nice-Fixes-in-ColdFusion-701

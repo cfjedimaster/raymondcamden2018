@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Modify cfchart to remove commas from y-axis"
 date: "2010-08-10T14:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/08/10/Ask-a-Jedi-Modify-cfchart-to-remove-commas-from-yaxis

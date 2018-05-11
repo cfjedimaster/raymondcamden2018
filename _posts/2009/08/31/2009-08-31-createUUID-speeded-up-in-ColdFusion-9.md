@@ -2,7 +2,7 @@
 layout: post
 title: "createUUID speeded up in ColdFusion 9"
 date: "2009-08-31T18:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/31/createUUID-speeded-up-in-ColdFusion-9

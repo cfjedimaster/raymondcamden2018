@@ -2,7 +2,7 @@
 layout: post
 title: "Creating an unread count for a static site"
 date: "2016-02-18T14:23:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2016/02/18/creating-an-unread-count-for-a-static-site

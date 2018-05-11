@@ -2,7 +2,7 @@
 layout: post
 title: "Interview with High School ColdFusion Teacher"
 date: "2007-11-15T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/11/15/Interview-with-High-School-ColdFusion-Teacher

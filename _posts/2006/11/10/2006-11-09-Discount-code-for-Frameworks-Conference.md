@@ -2,7 +2,7 @@
 layout: post
 title: "Discount code for Frameworks Conference"
 date: "2006-11-10T07:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/10/Discount-code-for-Frameworks-Conference

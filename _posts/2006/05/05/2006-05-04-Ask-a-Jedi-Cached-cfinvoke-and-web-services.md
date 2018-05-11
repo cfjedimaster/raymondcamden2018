@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Cached cfinvoke and web services"
 date: "2006-05-05T08:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/05/05/Ask-a-Jedi-Cached-cfinvoke-and-web-services

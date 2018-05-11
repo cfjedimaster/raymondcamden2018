@@ -2,7 +2,7 @@
 layout: post
 title: "Some thoughts on Windows Phone (and Windows 8 in general)"
 date: "2012-03-05T10:03:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2012/03/05/Some-thoughts-on-Windows-Phone-and-Windows-8-in-general

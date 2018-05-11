@@ -2,7 +2,7 @@
 layout: post
 title: "Finally reading some book about a kid wizard - maybe you've heard of it?"
 date: "2007-08-06T08:08:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2007/08/06/finally-reading-some-book-about-a-kid-wizard-maybe-youve-heard-of-it

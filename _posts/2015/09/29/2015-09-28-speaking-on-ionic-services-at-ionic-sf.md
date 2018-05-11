@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking on Ionic Services at Ionic-SF"
 date: "2015-09-29T10:03:50+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/09/29/speaking-on-ionic-services-at-ionic-sf

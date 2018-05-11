@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap, Parse.com, and Push Notifications"
 date: "2012-10-10T17:10:00+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/10/10/PhoneGap-Parsecom-and-Push-Notifications

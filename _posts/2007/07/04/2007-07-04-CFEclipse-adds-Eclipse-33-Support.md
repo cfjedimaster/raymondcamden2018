@@ -2,7 +2,7 @@
 layout: post
 title: "CFEclipse adds Eclipse 3.3 Support"
 date: "2007-07-04T22:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/07/04/CFEclipse-adds-Eclipse-33-Support

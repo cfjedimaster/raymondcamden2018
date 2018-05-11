@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe loses its (web) edge..."
 date: "2015-12-01T06:50:12+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/12/01/adobe-loses-its-web-edge

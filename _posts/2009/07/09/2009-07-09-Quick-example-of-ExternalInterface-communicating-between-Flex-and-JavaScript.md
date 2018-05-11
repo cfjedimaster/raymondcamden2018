@@ -2,7 +2,7 @@
 layout: post
 title: "Quick example of ExternalInterface, communicating between Flex and JavaScript"
 date: "2009-07-09T14:07:00+06:00"
-categories: Flex JavaScript 
+categories: flex javascript 
 tags: 
 banner_image: 
 permalink: /2009/07/09/Quick-example-of-ExternalInterface-communicating-between-Flex-and-JavaScript

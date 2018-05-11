@@ -2,7 +2,7 @@
 layout: post
 title: "Google's Static Map API"
 date: "2010-02-04T22:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/04/Googles-Static-Map-API

@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Tip for Testing OpenWhisk Actions Locally"
 date: "2017-01-09T14:59:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/01/09/quick-tip-for-testing-openwhisk-actions-locally

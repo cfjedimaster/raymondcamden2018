@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Keeping it Together..."
 date: "2005-12-26T22:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2005/12/26/Ask-a-Jedi-Keeping-it-Together

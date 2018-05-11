@@ -2,7 +2,7 @@
 layout: post
 title: "Security Profile Admin Extension for ColdFusion 10"
 date: "2012-04-11T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/04/11/Security-Profile-Admin-Extension-for-ColdFusion-10

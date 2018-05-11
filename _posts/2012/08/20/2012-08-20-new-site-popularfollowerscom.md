@@ -2,7 +2,7 @@
 layout: post
 title: "New site - PopularFollowers.com"
 date: "2012-08-20T16:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/08/20/new-site-popularfollowerscom

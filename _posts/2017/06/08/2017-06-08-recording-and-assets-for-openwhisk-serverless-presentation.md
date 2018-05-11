@@ -2,7 +2,7 @@
 layout: post
 title: "Recording and Assets for OpenWhisk Serverless Presentation"
 date: "2017-06-08T08:21:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/06/08/recording-and-assets-for-openwhisk-serverless-presentation

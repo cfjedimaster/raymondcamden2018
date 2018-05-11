@@ -2,7 +2,7 @@
 layout: post
 title: "RIA Wireframing"
 date: "2005-11-30T10:11:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2005/11/30/RIA-Wireframing

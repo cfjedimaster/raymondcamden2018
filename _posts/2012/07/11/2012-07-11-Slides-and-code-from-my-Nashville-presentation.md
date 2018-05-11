@@ -2,7 +2,7 @@
 layout: post
 title: "Slides and code from my Nashville presentation"
 date: "2012-07-11T11:07:00+06:00"
-categories: Development HTML5 JavaScript jQuery Mobile 
+categories: development html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/07/11/Slides-and-code-from-my-Nashville-presentation

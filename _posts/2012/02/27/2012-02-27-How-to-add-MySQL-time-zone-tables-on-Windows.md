@@ -2,7 +2,7 @@
 layout: post
 title: "How to add MySQL time zone tables on Windows"
 date: "2012-02-27T21:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/02/27/How-to-add-MySQL-time-zone-tables-on-Windows

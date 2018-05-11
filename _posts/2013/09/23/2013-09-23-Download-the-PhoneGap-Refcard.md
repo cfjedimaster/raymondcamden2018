@@ -2,7 +2,7 @@
 layout: post
 title: "Download the PhoneGap Refcard"
 date: "2013-09-23T17:09:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2013/09/23/Download-the-PhoneGap-Refcard

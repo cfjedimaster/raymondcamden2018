@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Developer Security Guide"
 date: "2014-06-06T12:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/06/06/ColdFusion-Developer-Security-Guide

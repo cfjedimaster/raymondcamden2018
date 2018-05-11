@@ -2,7 +2,7 @@
 layout: post
 title: "Reminder: Presentation next week"
 date: "2006-09-20T23:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/20/Reminder-Presentation-next-week

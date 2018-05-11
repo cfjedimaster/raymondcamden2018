@@ -2,7 +2,7 @@
 layout: post
 title: "CFMenu CSS Hacking with Daniel Budde II"
 date: "2007-06-21T12:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/21/CFMenu-CSS-Hacking-with-Daniel-Budde-II

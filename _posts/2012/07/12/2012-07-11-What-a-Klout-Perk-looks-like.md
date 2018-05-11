@@ -2,7 +2,7 @@
 layout: post
 title: "What a Klout Perk looks like"
 date: "2012-07-12T08:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/07/12/What-a-Klout-Perk-looks-like

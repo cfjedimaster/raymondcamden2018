@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion and Short Circuit Boolean Evaluation"
 date: "2006-07-10T17:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/10/ColdFusion-and-Short-Circuit-Boolean-Evaluation

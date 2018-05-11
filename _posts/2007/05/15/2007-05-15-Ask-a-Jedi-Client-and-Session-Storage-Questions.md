@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Client and Session Storage Questions"
 date: "2007-05-15T16:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/15/Ask-a-Jedi-Client-and-Session-Storage-Questions

@@ -2,7 +2,7 @@
 layout: post
 title: "New Yorkers don't speak like us..."
 date: "2007-03-12T12:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/12/New-Yorkers-dont-speak-like-us

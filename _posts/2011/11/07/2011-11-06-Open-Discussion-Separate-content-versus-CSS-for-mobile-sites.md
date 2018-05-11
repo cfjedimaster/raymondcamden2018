@@ -2,7 +2,7 @@
 layout: post
 title: "Open Discussion - Separate content versus CSS for mobile sites"
 date: "2011-11-07T10:11:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2011/11/07/Open-Discussion-Separate-content-versus-CSS-for-mobile-sites

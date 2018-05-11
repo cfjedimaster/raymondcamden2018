@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC 3.8.1 Released"
 date: "2005-07-29T17:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/07/29/BlogCFC-381-Released

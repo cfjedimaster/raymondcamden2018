@@ -2,7 +2,7 @@
 layout: post
 title: "Two new ColdFusion Resources"
 date: "2011-10-19T09:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/10/19/Two-new-ColdFusion-Resources

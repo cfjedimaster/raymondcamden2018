@@ -2,7 +2,7 @@
 layout: post
 title: "Cool Spry Tip"
 date: "2007-10-18T13:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/18/Cool-Spry-Tip

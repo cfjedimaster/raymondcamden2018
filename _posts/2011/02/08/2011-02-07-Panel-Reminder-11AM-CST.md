@@ -2,7 +2,7 @@
 layout: post
 title: "Panel Reminder - 11AM CST"
 date: "2011-02-08T07:02:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2011/02/08/Panel-Reminder-11AM-CST

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Example: Upload a zip of images for processing"
 date: "2014-03-28T11:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/03/28/ColdFusion-Example-Upload-a-zip-of-images-for-processing

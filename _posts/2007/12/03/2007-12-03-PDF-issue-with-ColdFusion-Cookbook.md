@@ -2,7 +2,7 @@
 layout: post
 title: "PDF issue with ColdFusion Cookbook"
 date: "2007-12-03T22:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/03/PDF-issue-with-ColdFusion-Cookbook

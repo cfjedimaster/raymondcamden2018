@@ -2,7 +2,7 @@
 layout: post
 title: "OS X CD ripper recommendation?"
 date: "2007-12-12T14:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/12/12/OS-X-CD-ripper-recommendation

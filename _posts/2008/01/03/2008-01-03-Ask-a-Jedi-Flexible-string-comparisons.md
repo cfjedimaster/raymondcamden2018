@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Flexible string comparisons"
 date: "2008-01-03T14:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/03/Ask-a-Jedi-Flexible-string-comparisons

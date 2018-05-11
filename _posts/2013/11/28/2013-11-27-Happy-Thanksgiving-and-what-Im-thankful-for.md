@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Thanksgiving - and what I'm thankful for..."
 date: "2013-11-28T06:11:00+06:00"
-categories: Adoption 
+categories: adoption 
 tags: 
 banner_image: 
 permalink: /2013/11/28/Happy-Thanksgiving-and-what-Im-thankful-for

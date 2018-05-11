@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Example: Related, hidden selects"
 date: "2013-02-08T14:02:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2013/02/08/jQuery-Example-Related-hidden-selects

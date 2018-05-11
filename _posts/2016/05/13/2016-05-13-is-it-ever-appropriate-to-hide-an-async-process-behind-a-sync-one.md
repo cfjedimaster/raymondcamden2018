@@ -2,7 +2,7 @@
 layout: post
 title: "Is it ever appropriate to hide an async process behind a sync one?"
 date: "2016-05-13T05:46:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: /images/banners/question.jpg
 permalink: /2016/05/13/is-it-ever-appropriate-to-hide-an-async-process-behind-a-sync-one

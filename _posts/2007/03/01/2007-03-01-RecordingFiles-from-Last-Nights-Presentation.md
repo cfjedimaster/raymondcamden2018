@@ -2,7 +2,7 @@
 layout: post
 title: "Recording/Files from Last Night's Presentation"
 date: "2007-03-01T16:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/01/RecordingFiles-from-Last-Nights-Presentation

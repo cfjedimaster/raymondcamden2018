@@ -2,7 +2,7 @@
 layout: post
 title: "Quick survey on PhoneGap/Cordova versions"
 date: "2014-04-07T08:04:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/04/07/Quick-survey-on-PhoneGapCordova-versions

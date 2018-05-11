@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Job Opening - Clear Capital"
 date: "2012-12-08T10:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/12/08/ColdFusion-Job-Opening-Clear-Capital

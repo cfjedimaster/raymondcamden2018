@@ -2,7 +2,7 @@
 layout: post
 title: "Go ahead and DRM the monitor..."
 date: "2005-07-15T14:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/07/15/Go-ahead-and-DRM-the-monitor

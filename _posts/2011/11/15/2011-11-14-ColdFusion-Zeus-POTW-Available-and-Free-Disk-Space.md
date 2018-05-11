@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Zeus POTW: Total and Free Disk Space"
 date: "2011-11-15T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/11/15/ColdFusion-Zeus-POTW-Available-and-Free-Disk-Space

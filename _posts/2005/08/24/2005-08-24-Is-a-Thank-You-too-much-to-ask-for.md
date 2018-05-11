@@ -2,7 +2,7 @@
 layout: post
 title: "Is a \"Thank You\" too much to ask for?"
 date: "2005-08-24T12:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/24/Is-a-Thank-You-too-much-to-ask-for

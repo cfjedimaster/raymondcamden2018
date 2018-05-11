@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Administrator Extension - Searcher"
 date: "2009-11-01T23:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/01/ColdFusion-Administrator-Extension-Searcher

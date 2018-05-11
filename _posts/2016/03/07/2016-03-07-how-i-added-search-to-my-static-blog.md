@@ -2,7 +2,7 @@
 layout: post
 title: "How I added search to my static blog"
 date: "2016-03-07T14:01:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2016/03/07/how-i-added-search-to-my-static-blog

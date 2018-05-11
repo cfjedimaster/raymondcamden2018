@@ -2,7 +2,7 @@
 layout: post
 title: "Blue Man Group Review"
 date: "2007-12-16T15:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/12/16/Blue-Man-Group-Review

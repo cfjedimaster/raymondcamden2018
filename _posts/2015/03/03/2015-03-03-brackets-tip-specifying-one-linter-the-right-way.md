@@ -2,7 +2,7 @@
 layout: post
 title: "Brackets Tip: Specifying one linter (the right way)"
 date: "2015-03-03T16:00:46+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/03/03/brackets-tip-specifying-one-linter-the-right-way

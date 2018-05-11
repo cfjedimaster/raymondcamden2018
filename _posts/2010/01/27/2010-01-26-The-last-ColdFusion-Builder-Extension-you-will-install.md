@@ -2,7 +2,7 @@
 layout: post
 title: "The last ColdFusion Builder Extension you will install"
 date: "2010-01-27T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/27/The-last-ColdFusion-Builder-Extension-you-will-install

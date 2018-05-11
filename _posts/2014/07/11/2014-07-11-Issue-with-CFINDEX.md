@@ -2,7 +2,7 @@
 layout: post
 title: "Issue with CFINDEX"
 date: "2014-07-11T12:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/07/11/Issue-with-CFINDEX

@@ -2,7 +2,7 @@
 layout: post
 title: "Checking for updates to tags/functions in ColdFusion 9"
 date: "2009-11-04T18:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/04/Checking-for-updates-to-tagsfunctions-in-ColdFusion-9

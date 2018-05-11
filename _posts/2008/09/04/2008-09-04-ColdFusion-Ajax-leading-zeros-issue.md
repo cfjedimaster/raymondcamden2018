@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Ajax leading zeros issue"
 date: "2008-09-04T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/09/04/ColdFusion-Ajax-leading-zeros-issue

@@ -2,7 +2,7 @@
 layout: post
 title: "Tracking the storm (with ColdFusion!)"
 date: "2008-08-28T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/28/Tracking-the-storm-with-ColdFusion

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a  Jedi: URL Rewriting example"
 date: "2008-06-21T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/21/Aska-Jedi-URL-Rewriting-example

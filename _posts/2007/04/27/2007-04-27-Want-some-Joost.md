@@ -2,7 +2,7 @@
 layout: post
 title: "Want some Joost?"
 date: "2007-04-27T15:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/04/27/Want-some-Joost

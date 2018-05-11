@@ -2,7 +2,7 @@
 layout: post
 title: "Links taking forever to load"
 date: "2007-03-14T09:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/14/Links-taking-forever-to-load

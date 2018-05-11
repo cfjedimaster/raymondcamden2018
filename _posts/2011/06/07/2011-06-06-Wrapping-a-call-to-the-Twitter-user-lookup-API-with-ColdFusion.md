@@ -2,7 +2,7 @@
 layout: post
 title: "Wrapping a call to the Twitter user lookup API with ColdFusion"
 date: "2011-06-07T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/07/Wrapping-a-call-to-the-Twitter-user-lookup-API-with-ColdFusion

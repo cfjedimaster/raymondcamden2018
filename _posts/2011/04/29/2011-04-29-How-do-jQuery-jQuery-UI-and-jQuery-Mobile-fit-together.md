@@ -2,7 +2,7 @@
 layout: post
 title: "How do jQuery, jQuery UI, and jQuery Mobile fit together?"
 date: "2011-04-29T11:04:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2011/04/29/How-do-jQuery-jQuery-UI-and-jQuery-Mobile-fit-together

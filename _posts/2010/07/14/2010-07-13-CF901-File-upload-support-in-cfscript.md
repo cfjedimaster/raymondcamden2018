@@ -2,7 +2,7 @@
 layout: post
 title: "CF901: File upload support in cfscript"
 date: "2010-07-14T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/07/14/CF901-File-upload-support-in-cfscript

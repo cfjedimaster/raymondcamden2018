@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Quick Stats"
 date: "2008-12-05T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/05/Friday-Puzzler-Quick-Stats

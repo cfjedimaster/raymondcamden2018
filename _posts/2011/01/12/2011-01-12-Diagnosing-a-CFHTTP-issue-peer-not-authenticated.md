@@ -2,7 +2,7 @@
 layout: post
 title: "Diagnosing a CFHTTP issue - peer not authenticated"
 date: "2011-01-12T13:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/01/12/Diagnosing-a-CFHTTP-issue-peer-not-authenticated

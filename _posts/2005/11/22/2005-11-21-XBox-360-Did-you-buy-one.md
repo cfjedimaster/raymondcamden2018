@@ -2,7 +2,7 @@
 layout: post
 title: "XBox 360 - Did you buy one?"
 date: "2005-11-22T09:11:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2005/11/22/XBox-360-Did-you-buy-one

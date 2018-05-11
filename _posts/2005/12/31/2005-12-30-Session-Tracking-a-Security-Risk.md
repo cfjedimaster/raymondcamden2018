@@ -2,7 +2,7 @@
 layout: post
 title: "Session Tracking a Security Risk?"
 date: "2005-12-31T11:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/31/Session-Tracking-a-Security-Risk

@@ -2,7 +2,7 @@
 layout: post
 title: "Example of Autocomplete in jQuery Mobile"
 date: "2012-03-27T13:03:00+06:00"
-categories: ColdFusion jQuery Mobile 
+categories: coldfusion jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/03/27/Example-of-Autocomplete-in-jQuery-Mobile

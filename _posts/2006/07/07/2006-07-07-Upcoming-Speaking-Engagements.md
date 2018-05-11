@@ -2,7 +2,7 @@
 layout: post
 title: "Upcoming Speaking Engagements"
 date: "2006-07-07T18:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/07/Upcoming-Speaking-Engagements

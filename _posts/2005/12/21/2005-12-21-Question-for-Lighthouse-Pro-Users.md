@@ -2,7 +2,7 @@
 layout: post
 title: "Question for Lighthouse Pro Users"
 date: "2005-12-21T14:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/12/21/Question-for-Lighthouse-Pro-Users

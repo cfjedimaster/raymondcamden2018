@@ -2,7 +2,7 @@
 layout: post
 title: "Update from the CFML Advisory Group"
 date: "2008-07-16T17:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/16/Update-from-the-CFML-Advisory-Group

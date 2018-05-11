@@ -2,7 +2,7 @@
 layout: post
 title: "Security hotfix available for ColdFusion"
 date: "2012-03-13T15:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/13/Security-hotfix-available-for-ColdFusion

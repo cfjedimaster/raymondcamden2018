@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Ripple Tip - Detecting Ripple"
 date: "2014-01-22T12:01:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/01/22/Quick-Ripple-Tip-Detecting-Ripple

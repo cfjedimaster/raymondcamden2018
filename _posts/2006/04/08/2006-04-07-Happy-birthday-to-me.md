@@ -2,7 +2,7 @@
 layout: post
 title: "Happy birthday to me..."
 date: "2006-04-08T09:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/04/08/Happy-birthday-to-me

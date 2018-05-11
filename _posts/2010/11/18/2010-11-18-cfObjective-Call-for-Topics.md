@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective - Call for Topics"
 date: "2010-11-18T14:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/11/18/cfObjective-Call-for-Topics

@@ -2,7 +2,7 @@
 layout: post
 title: "Off to Las Vegas"
 date: "2007-03-25T16:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/25/Off-to-Las-Vegas

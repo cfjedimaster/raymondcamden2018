@@ -2,7 +2,7 @@
 layout: post
 title: "Link - SES URLs in Model-Glue 3"
 date: "2008-05-12T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/12/Link-SES-URLs-in-ModelGlue-3

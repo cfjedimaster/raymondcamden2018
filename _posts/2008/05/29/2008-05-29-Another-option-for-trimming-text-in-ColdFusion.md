@@ -2,7 +2,7 @@
 layout: post
 title: "Another option for trimming text in ColdFusion"
 date: "2008-05-29T17:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/29/Another-option-for-trimming-text-in-ColdFusion

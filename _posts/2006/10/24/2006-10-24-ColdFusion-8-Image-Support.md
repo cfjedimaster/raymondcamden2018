@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 Image Support"
 date: "2006-10-24T20:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/24/ColdFusion-8-Image-Support

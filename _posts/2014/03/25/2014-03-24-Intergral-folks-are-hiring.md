@@ -2,7 +2,7 @@
 layout: post
 title: "Intergral folks are hiring!"
 date: "2014-03-25T07:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/03/25/Intergral-folks-are-hiring

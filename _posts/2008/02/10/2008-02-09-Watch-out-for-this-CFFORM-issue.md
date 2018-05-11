@@ -2,7 +2,7 @@
 layout: post
 title: "Watch out for this CFFORM issue"
 date: "2008-02-10T08:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/10/Watch-out-for-this-CFFORM-issue

@@ -2,7 +2,7 @@
 layout: post
 title: "Adding click support in ColdFusion 10 Charting"
 date: "2012-03-14T10:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/03/14/Adding-click-support-in-ColdFusion-10-Charting

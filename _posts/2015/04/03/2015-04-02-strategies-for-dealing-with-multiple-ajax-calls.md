@@ -2,7 +2,7 @@
 layout: post
 title: "Strategies for dealing with multiple Ajax calls"
 date: "2015-04-03T09:21:32+06:00"
-categories: Development JavaScript jQuery 
+categories: development javascript jquery 
 tags: 
 banner_image: 
 permalink: /2015/04/03/strategies-for-dealing-with-multiple-ajax-calls

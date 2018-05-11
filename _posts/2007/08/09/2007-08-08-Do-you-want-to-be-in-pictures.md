@@ -2,7 +2,7 @@
 layout: post
 title: "Do you want to be in pictures??"
 date: "2007-08-09T10:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/08/09/Do-you-want-to-be-in-pictures

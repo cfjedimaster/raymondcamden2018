@@ -2,7 +2,7 @@
 layout: post
 title: "Two Apollo Notes (And no, this isn't a BSG post)"
 date: "2007-04-17T15:04:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/04/17/Two-Apollo-Notes-And-no-this-isnt-a-BSG-post

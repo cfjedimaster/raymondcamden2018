@@ -2,7 +2,7 @@
 layout: post
 title: "Best of ColdFusion 10 Contest - The Winners!"
 date: "2012-08-01T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/08/01/Best-of-ColdFusion-10-Contest-The-Winners

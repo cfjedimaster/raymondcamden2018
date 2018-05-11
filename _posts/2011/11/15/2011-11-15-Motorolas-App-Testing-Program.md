@@ -2,7 +2,7 @@
 layout: post
 title: "Motorola's App Testing Program"
 date: "2011-11-15T16:11:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2011/11/15/Motorolas-App-Testing-Program

@@ -2,7 +2,7 @@
 layout: post
 title: "Regex boundries go both ways"
 date: "2006-01-24T06:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/24/Regex-boundries-go-both-ways

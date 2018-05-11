@@ -2,7 +2,7 @@
 layout: post
 title: "Get WACKed"
 date: "2010-04-30T13:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/04/30/get-wacked

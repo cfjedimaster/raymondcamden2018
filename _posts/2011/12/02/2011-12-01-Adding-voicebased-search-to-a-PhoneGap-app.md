@@ -2,7 +2,7 @@
 layout: post
 title: "Adding voice-based search to a PhoneGap app"
 date: "2011-12-02T10:12:00+06:00"
-categories: JavaScript jQuery Mobile 
+categories: javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/12/02/Adding-voicebased-search-to-a-PhoneGap-app

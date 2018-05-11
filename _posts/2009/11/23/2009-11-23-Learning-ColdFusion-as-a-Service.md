@@ -2,7 +2,7 @@
 layout: post
 title: "Learning ColdFusion as a Service"
 date: "2009-11-23T17:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/23/Learning-ColdFusion-as-a-Service

@@ -2,7 +2,7 @@
 layout: post
 title: "Have some Ramen with your ColdFusion"
 date: "2013-06-12T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2013/06/12/Have-some-Ramen-with-your-ColdFusion

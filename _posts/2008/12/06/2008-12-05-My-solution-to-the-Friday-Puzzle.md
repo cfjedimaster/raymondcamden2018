@@ -2,7 +2,7 @@
 layout: post
 title: "My solution to the Friday Puzzle"
 date: "2008-12-06T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/06/My-solution-to-the-Friday-Puzzle

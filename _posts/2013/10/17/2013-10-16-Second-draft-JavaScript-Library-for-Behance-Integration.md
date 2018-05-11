@@ -2,7 +2,7 @@
 layout: post
 title: "Second draft - JavaScript Library for Behance Integration"
 date: "2013-10-17T10:10:00+06:00"
-categories: Design Development JavaScript 
+categories: design development javascript 
 tags: 
 banner_image: 
 permalink: /2013/10/17/Second-draft-JavaScript-Library-for-Behance-Integration

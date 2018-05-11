@@ -2,7 +2,7 @@
 layout: post
 title: "My Flex Mobile/DPI issue - solved!"
 date: "2011-05-20T10:05:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/05/20/My-Flex-MobileDPI-issue-solved

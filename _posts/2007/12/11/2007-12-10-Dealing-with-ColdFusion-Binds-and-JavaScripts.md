@@ -2,7 +2,7 @@
 layout: post
 title: "Dealing with ColdFusion Binds and JavaScripts"
 date: "2007-12-11T07:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/11/Dealing-with-ColdFusion-Binds-and-JavaScripts

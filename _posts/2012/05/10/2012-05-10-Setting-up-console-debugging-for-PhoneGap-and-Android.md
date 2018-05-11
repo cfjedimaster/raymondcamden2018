@@ -2,7 +2,7 @@
 layout: post
 title: "Setting up console debugging for PhoneGap and Android"
 date: "2012-05-10T12:05:00+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/05/10/Setting-up-console-debugging-for-PhoneGap-and-Android

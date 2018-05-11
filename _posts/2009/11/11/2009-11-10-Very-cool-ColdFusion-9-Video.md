@@ -2,7 +2,7 @@
 layout: post
 title: "Very cool ColdFusion 9 Video"
 date: "2009-11-11T11:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/11/Very-cool-ColdFusion-9-Video

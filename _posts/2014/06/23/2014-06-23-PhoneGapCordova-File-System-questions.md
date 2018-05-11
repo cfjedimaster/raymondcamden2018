@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap/Cordova File System questions"
 date: "2014-06-23T18:06:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/06/23/PhoneGapCordova-File-System-questions

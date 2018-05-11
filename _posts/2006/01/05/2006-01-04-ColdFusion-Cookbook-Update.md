@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Cookbook Update"
 date: "2006-01-05T10:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/05/ColdFusion-Cookbook-Update

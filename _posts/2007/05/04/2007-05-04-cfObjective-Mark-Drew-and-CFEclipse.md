@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective - Mark Drew and CFEclipse"
 date: "2007-05-04T19:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/04/cfObjective-Mark-Drew-and-CFEclipse

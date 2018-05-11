@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler - Getting even with Bob"
 date: "2007-03-30T08:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/30/Friday-Puzzler-Getting-even-with-Bob

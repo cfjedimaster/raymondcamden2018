@@ -2,7 +2,7 @@
 layout: post
 title: "Vertigo - Not your average comic"
 date: "2006-11-15T22:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/15/Vertigo-Not-your-average-comic

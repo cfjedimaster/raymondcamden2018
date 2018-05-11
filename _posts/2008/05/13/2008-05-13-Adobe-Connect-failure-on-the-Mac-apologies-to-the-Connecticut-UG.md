@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe Connect failure on the Mac - apologies to the Connecticut UG"
 date: "2008-05-13T19:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/05/13/Adobe-Connect-failure-on-the-Mac-apologies-to-the-Connecticut-UG

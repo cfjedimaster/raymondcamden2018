@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Unconference Update - The Uber Panel"
 date: "2008-08-18T18:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/08/18/ColdFusion-Unconference-Update-The-Uber-Panel

@@ -2,7 +2,7 @@
 layout: post
 title: "Codec packages for Mac"
 date: "2006-12-29T09:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/29/Codec-packages-for-Mac

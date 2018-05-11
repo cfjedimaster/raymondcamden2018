@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Mardi Gras Recovery Day"
 date: "2008-02-06T14:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/06/Happy-Mardi-Gras-Recovery-Day

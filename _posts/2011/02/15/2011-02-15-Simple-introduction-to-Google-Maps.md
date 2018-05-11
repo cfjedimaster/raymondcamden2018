@@ -2,7 +2,7 @@
 layout: post
 title: "Simple introduction to Google Maps"
 date: "2011-02-15T23:02:00+06:00"
-categories: ColdFusion JavaScript 
+categories: coldfusion javascript 
 tags: 
 banner_image: 
 permalink: /2011/02/15/Simple-introduction-to-Google-Maps

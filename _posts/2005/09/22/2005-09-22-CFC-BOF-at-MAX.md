@@ -2,7 +2,7 @@
 layout: post
 title: "CFC BOF at MAX"
 date: "2005-09-22T15:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/22/CFC-BOF-at-MAX

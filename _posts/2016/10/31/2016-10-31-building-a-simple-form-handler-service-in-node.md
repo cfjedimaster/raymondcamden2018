@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Simple Form Handler Service in Node"
 date: "2016-10-31T10:03:00-07:00"
-categories: Development 
+categories: development 
 tags: nodejs
 banner_image: /images/banners/form_handler.jpg
 permalink: /2016/10/31/building-a-simple-form-handler-service-in-node

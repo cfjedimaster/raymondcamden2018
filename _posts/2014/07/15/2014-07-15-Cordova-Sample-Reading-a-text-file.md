@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova Sample: Reading a text file"
 date: "2014-07-15T15:07:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2014/07/15/Cordova-Sample-Reading-a-text-file

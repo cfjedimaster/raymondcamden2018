@@ -2,7 +2,7 @@
 layout: post
 title: "Simple RSS Reader built in AIR for Mobile"
 date: "2010-12-08T19:12:00+06:00"
-categories: Flex Mobile 
+categories: flex mobile 
 tags: 
 banner_image: 
 permalink: /2010/12/08/Simple-RSS-Reader-built-in-AIR-for-Mobile

@@ -2,7 +2,7 @@
 layout: post
 title: "FlashVars in Flex"
 date: "2006-12-11T16:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/12/11/FlashVars-in-Flex

@@ -2,7 +2,7 @@
 layout: post
 title: "Critical Android/PhoneGap issue"
 date: "2012-08-09T12:08:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2012/08/09/Critical-AndroidPhoneGap-issue

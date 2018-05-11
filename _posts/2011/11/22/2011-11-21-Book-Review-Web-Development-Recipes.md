@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Web Development Recipes"
 date: "2011-11-22T10:11:00+06:00"
-categories: Development HTML5 JavaScript jQuery Mobile 
+categories: development html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/11/22/Book-Review-Web-Development-Recipes

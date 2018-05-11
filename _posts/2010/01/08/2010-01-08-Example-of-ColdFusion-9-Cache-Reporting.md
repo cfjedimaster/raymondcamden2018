@@ -2,7 +2,7 @@
 layout: post
 title: "Example of ColdFusion 9 Cache Reporting"
 date: "2010-01-08T12:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/08/Example-of-ColdFusion-9-Cache-Reporting

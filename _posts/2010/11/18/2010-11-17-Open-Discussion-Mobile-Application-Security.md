@@ -2,7 +2,7 @@
 layout: post
 title: "Open Discussion - Mobile Application Security"
 date: "2010-11-18T09:11:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2010/11/18/Open-Discussion-Mobile-Application-Security

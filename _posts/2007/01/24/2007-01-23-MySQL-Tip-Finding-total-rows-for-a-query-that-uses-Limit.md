@@ -2,7 +2,7 @@
 layout: post
 title: "MySQL Tip - Finding total rows for a query that uses Limit"
 date: "2007-01-24T11:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2007/01/24/MySQL-Tip-Finding-total-rows-for-a-query-that-uses-Limit

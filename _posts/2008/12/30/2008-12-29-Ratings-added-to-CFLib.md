@@ -2,7 +2,7 @@
 layout: post
 title: "Ratings added to CFLib"
 date: "2008-12-30T11:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/30/Ratings-added-to-CFLib

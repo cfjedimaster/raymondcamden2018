@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Referrer Protection to OpenWhisk Actions"
 date: "2017-12-11"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk javascript
 banner_image: 
 permalink: /2017/12/11/adding-referrer-protection-to-openwhisk-actions

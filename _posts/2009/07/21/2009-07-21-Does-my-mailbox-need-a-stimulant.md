@@ -2,7 +2,7 @@
 layout: post
 title: "Does my mailbox need a stimulant?"
 date: "2009-07-21T12:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/07/21/Does-my-mailbox-need-a-stimulant

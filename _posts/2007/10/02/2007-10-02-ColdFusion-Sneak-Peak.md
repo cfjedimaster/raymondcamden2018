@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Sneak Peak"
 date: "2007-10-02T21:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/02/ColdFusion-Sneak-Peak

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Issue with layoutarea and cflocation"
 date: "2008-12-09T07:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/12/09/Ask-a-Jedi-Issue-with-layoutarea-and-cflocation

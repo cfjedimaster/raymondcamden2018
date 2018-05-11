@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Excluding Folders from Verity"
 date: "2005-11-01T10:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/11/01/Ask-a-Jedi-Excluding-Folders-from-Verity

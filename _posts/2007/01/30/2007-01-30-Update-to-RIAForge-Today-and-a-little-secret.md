@@ -2,7 +2,7 @@
 layout: post
 title: "Update to RIAForge Today (and a little secret)"
 date: "2007-01-30T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/30/Update-to-RIAForge-Today-and-a-little-secret

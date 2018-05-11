@@ -2,7 +2,7 @@
 layout: post
 title: "Calling Multiple Serverless Actions and Retaining Values with IBM Composer"
 date: "2017-10-25T10:01:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/10/25/calling-multiple-serverless-actions-and-retaining-values-with-ibm-composer

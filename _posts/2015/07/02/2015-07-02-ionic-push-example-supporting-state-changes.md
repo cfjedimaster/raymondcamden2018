@@ -2,7 +2,7 @@
 layout: post
 title: "Ionic Push example supporting State Changes"
 date: "2015-07-02T14:51:19+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: cordova ionic
 banner_image: 
 permalink: /2015/07/02/ionic-push-example-supporting-state-changes

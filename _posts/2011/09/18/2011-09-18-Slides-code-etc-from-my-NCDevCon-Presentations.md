@@ -2,7 +2,7 @@
 layout: post
 title: "Slides, code, etc from my NCDevCon Presentations"
 date: "2011-09-18T14:09:00+06:00"
-categories: ColdFusion jQuery Mobile 
+categories: coldfusion jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/09/18/Slides-code-etc-from-my-NCDevCon-Presentations

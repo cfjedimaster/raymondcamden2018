@@ -2,7 +2,7 @@
 layout: post
 title: "Node.js Quickie - checking the current domain name"
 date: "2013-08-21T13:08:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2013/08/21/Nodejs-Quickie-checking-the-current-domain-name

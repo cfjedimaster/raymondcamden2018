@@ -2,7 +2,7 @@
 layout: post
 title: "Demo: Using jQuery and perserving UI state"
 date: "2009-11-05T10:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/11/05/Demo-Using-jQuery-and-perserving-UI-state

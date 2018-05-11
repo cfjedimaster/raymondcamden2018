@@ -2,7 +2,7 @@
 layout: post
 title: "Few quick reviews"
 date: "2011-05-22T11:05:00+06:00"
-categories: Books Video Games 
+categories: books video games 
 tags: 
 banner_image: 
 permalink: /2011/05/22/few-quick-reviews

@@ -2,7 +2,7 @@
 layout: post
 title: "2013 Survey Results"
 date: "2014-01-05T17:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2014/01/05/2013-Survey-Results

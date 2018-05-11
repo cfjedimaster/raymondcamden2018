@@ -2,7 +2,7 @@
 layout: post
 title: "My first native iOS app - Death Clock"
 date: "2014-03-25T12:03:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/03/25/My-first-native-iOS-app-Death-Clock

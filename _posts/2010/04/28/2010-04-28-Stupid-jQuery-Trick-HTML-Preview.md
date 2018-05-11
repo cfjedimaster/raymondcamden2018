@@ -2,7 +2,7 @@
 layout: post
 title: "Stupid jQuery Trick - HTML Preview"
 date: "2010-04-28T14:04:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/04/28/Stupid-jQuery-Trick-HTML-Preview

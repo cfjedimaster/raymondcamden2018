@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Moving items up and down..."
 date: "2005-09-09T14:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/09/Ask-a-Jedi-Moving-items-up-and-down

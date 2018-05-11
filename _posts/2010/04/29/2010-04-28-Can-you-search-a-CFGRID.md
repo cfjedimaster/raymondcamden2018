@@ -2,7 +2,7 @@
 layout: post
 title: "Can you search a CFGRID?"
 date: "2010-04-29T08:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/04/29/Can-you-search-a-CFGRID

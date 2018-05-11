@@ -2,7 +2,7 @@
 layout: post
 title: "Important Spry/AIR Resource"
 date: "2007-12-17T22:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/12/17/Important-SpryAIR-Resource

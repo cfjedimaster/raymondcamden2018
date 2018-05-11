@@ -2,7 +2,7 @@
 layout: post
 title: "Working with the Disqus API - Comment Count"
 date: "2016-08-18T09:59:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: /images/banners/disqus_api.jpg
 permalink: /2016/08/18/working-with-the-disqus-api-comment-count

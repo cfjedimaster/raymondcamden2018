@@ -2,7 +2,7 @@
 layout: post
 title: "Limiting individual file sizes in the Ajax based uploader in ColdFusion 9"
 date: "2010-08-13T18:08:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/08/13/Limiting-individual-file-sizes-in-the-Ajax-based-uploader-in-ColdFusion-9

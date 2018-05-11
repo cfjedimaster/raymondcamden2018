@@ -2,7 +2,7 @@
 layout: post
 title: "Google Analytics and RSS Report"
 date: "2015-06-08T09:07:09+06:00"
-categories: Development JavaScript jQuery 
+categories: development javascript jquery 
 tags: 
 banner_image: 
 permalink: /2015/06/08/google-analytics-and-rss-report

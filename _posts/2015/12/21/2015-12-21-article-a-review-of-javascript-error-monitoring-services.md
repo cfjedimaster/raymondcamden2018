@@ -2,7 +2,7 @@
 layout: post
 title: "Article: A Review of JavaScript Error Monitoring Services"
 date: "2015-12-21T15:06:12+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2015/12/21/article-a-review-of-javascript-error-monitoring-services

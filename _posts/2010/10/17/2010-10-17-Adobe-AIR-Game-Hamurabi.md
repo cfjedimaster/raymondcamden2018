@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe AIR Game - Hamurabi"
 date: "2010-10-17T14:10:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2010/10/17/Adobe-AIR-Game-Hamurabi

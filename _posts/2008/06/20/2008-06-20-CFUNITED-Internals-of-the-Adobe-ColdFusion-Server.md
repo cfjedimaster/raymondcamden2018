@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED - Internals of the Adobe ColdFusion Server"
 date: "2008-06-20T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/20/CFUNITED-Internals-of-the-Adobe-ColdFusion-Server

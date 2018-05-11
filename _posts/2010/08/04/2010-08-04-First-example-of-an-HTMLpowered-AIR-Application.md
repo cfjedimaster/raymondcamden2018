@@ -2,7 +2,7 @@
 layout: post
 title: "First example of an HTML-powered AIR Application"
 date: "2010-08-04T14:08:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2010/08/04/First-example-of-an-HTMLpowered-AIR-Application

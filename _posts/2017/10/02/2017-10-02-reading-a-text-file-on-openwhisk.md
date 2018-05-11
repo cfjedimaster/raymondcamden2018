@@ -2,7 +2,7 @@
 layout: post
 title: "Reading a Text File on OpenWhisk"
 date: "2017-10-02T08:32:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/10/02/reading-a-text-file-on-openwhisk

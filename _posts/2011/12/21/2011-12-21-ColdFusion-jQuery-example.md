@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion + jQuery example"
 date: "2011-12-21T17:12:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/12/21/ColdFusion-jQuery-example

@@ -2,7 +2,7 @@
 layout: post
 title: "RIAForge hits 400"
 date: "2008-01-23T21:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2008/01/23/RIAForge-hits-400

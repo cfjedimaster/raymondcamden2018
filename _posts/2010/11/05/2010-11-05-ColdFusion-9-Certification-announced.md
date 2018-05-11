@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 Certification announced"
 date: "2010-11-05T12:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/11/05/ColdFusion-9-Certification-announced

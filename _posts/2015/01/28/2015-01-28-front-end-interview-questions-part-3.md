@@ -2,7 +2,7 @@
 layout: post
 title: "Front-End Interview Questions – Part 3"
 date: "2015-01-28T17:01:02+06:00"
-categories: Development 
+categories: development 
 tags: front-end-interview-questions
 banner_image: 
 permalink: /2015/01/28/front-end-interview-questions-part-3

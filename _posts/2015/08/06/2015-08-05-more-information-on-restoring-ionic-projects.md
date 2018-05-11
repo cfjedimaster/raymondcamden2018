@@ -2,7 +2,7 @@
 layout: post
 title: "More information on restoring Ionic projects"
 date: "2015-08-06T08:35:22+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/08/06/more-information-on-restoring-ionic-projects

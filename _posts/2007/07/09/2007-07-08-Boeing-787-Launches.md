@@ -2,7 +2,7 @@
 layout: post
 title: "Boeing 787 Launches"
 date: "2007-07-09T09:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/07/09/Boeing-787-Launches

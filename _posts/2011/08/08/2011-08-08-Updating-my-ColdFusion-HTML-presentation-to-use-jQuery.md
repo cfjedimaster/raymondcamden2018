@@ -2,7 +2,7 @@
 layout: post
 title: "Updating my ColdFusion HTML presentation to use jQuery"
 date: "2011-08-08T17:08:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/08/08/Updating-my-ColdFusion-HTML-presentation-to-use-jQuery

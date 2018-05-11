@@ -2,7 +2,7 @@
 layout: post
 title: "Did you know about the Log Viewer Filter?"
 date: "2007-04-03T15:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/04/03/Did-you-know-about-the-Log-Viewer-Filter

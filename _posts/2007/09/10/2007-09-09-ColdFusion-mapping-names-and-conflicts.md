@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion mapping names and conflicts"
 date: "2007-09-10T08:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/10/ColdFusion-mapping-names-and-conflicts

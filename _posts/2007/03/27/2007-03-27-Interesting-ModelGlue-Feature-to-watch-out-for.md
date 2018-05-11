@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting Model-Glue \"Feature\" to watch out for"
 date: "2007-03-28T00:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/27/Interesting-ModelGlue-Feature-to-watch-out-for

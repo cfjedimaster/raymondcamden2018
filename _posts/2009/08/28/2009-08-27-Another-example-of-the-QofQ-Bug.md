@@ -2,7 +2,7 @@
 layout: post
 title: "Another example of the QofQ Bug"
 date: "2009-08-28T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/28/Another-example-of-the-QofQ-Bug

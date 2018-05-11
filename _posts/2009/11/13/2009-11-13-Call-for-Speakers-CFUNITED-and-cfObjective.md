@@ -2,7 +2,7 @@
 layout: post
 title: "Call for Speakers: CFUNITED and cfObjective"
 date: "2009-11-13T13:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/11/13/Call-for-Speakers-CFUNITED-and-cfObjective

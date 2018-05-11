@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Up to Speed with Vue.js"
 date: "2018-04-20"
-categories: JavaScript 
+categories: javascript 
 tags: vuejs
 banner_image: /images/banners/class.jpg
 permalink: /2018/04/20/getting-up-to-speed-with-vuejs

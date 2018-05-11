@@ -2,7 +2,7 @@
 layout: post
 title: "My NodeSummit LoopBack Presentation"
 date: "2016-08-31T09:22:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: nodejs strongloop
 banner_image: /images/banners/presentation.jpg
 permalink: /2016/08/31/my-nodesummit-loopback-presentation

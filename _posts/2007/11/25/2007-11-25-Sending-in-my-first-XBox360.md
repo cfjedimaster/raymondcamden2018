@@ -2,7 +2,7 @@
 layout: post
 title: "Sending in my first XBox360"
 date: "2007-11-25T20:11:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2007/11/25/Sending-in-my-first-XBox360

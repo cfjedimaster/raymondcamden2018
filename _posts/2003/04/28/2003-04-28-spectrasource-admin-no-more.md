@@ -2,7 +2,7 @@
 layout: post
 title: "Spectrasource Admin - No More!"
 date: "2003-04-28T13:04:07+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2003/04/28/spectrasource-admin-no-more

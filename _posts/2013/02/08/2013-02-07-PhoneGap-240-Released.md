@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap 2.4.0 Released"
 date: "2013-02-08T09:02:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/02/08/PhoneGap-240-Released

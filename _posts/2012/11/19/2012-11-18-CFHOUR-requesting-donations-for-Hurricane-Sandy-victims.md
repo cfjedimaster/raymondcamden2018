@@ -2,7 +2,7 @@
 layout: post
 title: "CFHOUR requesting donations for Hurricane Sandy victims"
 date: "2012-11-19T09:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/11/19/CFHOUR-requesting-donations-for-Hurricane-Sandy-victims

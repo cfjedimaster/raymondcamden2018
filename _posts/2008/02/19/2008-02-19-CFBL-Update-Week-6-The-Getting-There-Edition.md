@@ -2,7 +2,7 @@
 layout: post
 title: "CFBL Update - Week 6 - The \"Getting There\" Edition"
 date: "2008-02-19T21:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/02/19/CFBL-Update-Week-6-The-Getting-There-Edition

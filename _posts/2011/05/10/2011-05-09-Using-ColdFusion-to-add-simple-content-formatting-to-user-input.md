@@ -2,7 +2,7 @@
 layout: post
 title: "Using ColdFusion to add simple content formatting to user input"
 date: "2011-05-10T08:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/05/10/Using-ColdFusion-to-add-simple-content-formatting-to-user-input

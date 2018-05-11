@@ -2,7 +2,7 @@
 layout: post
 title: "Stepping up as Community Manager for Model-Glue"
 date: "2007-05-04T17:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/04/Stepping-up-as-Community-Manager-for-ModelGlue

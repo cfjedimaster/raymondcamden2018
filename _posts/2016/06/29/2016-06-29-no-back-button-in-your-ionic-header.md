@@ -2,7 +2,7 @@
 layout: post
 title: "No back button in your Ionic header?"
 date: "2016-06-29T09:51:00-07:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: ionic
 banner_image: 
 permalink: /2016/06/29/no-back-button-in-your-ionic-header

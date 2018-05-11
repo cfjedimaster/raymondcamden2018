@@ -2,7 +2,7 @@
 layout: post
 title: "Styling with Flex Update"
 date: "2006-05-10T13:05:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/05/10/Syling-with-Flex-Update

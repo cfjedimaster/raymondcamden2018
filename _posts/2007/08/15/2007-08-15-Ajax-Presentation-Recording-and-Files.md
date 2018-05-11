@@ -2,7 +2,7 @@
 layout: post
 title: "Ajax Presentation Recording and Files"
 date: "2007-08-15T22:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/15/Ajax-Presentation-Recording-and-Files

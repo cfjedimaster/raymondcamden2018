@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Scheduled tasks and username/passwords"
 date: "2006-05-31T12:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/05/31/Ask-a-Jedi-Scheduled-tasks-and-usernamepasswords

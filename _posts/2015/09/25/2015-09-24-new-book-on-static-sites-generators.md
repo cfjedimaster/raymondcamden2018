@@ -2,7 +2,7 @@
 layout: post
 title: "New book on Static Sites Generators"
 date: "2015-09-25T09:40:58+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/09/25/new-book-on-static-sites-generators

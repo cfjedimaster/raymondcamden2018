@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC Alpha 2 Launched"
 date: "2005-09-22T19:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/22/BlogCFC-Alpha-2-Launched

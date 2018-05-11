@@ -2,7 +2,7 @@
 layout: post
 title: "MySQL Crash Course Review"
 date: "2006-01-23T09:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/01/23/MySQL-Crash-Course-Review

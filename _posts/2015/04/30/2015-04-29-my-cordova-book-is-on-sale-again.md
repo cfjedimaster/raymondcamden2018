@@ -2,7 +2,7 @@
 layout: post
 title: "My Cordova book is on sale again"
 date: "2015-04-30T08:37:32+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova ionic
 banner_image: 
 permalink: /2015/04/30/my-cordova-book-is-on-sale-again

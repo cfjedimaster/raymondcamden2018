@@ -2,7 +2,7 @@
 layout: post
 title: "Two Quick OpenWhisk/IBM Cloud Functions Updates"
 date: "2017-11-20T01:16:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/11/20/two-quick-openwhiskibm-cloud-functions-updates

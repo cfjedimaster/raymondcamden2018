@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Live Writer and BlogCFC"
 date: "2007-06-29T15:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/06/29/Windows-Live-Writer-and-BlogCFC

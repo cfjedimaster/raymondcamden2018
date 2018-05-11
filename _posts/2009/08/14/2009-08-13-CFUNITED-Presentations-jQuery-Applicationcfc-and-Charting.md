@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED Presentations - jQuery, Application.cfc, and Charting"
 date: "2009-08-14T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/14/CFUNITED-Presentations-jQuery-Applicationcfc-and-Charting

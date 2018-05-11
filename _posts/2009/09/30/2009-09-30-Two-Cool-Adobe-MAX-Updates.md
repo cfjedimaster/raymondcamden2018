@@ -2,7 +2,7 @@
 layout: post
 title: "Two Cool Adobe MAX Updates"
 date: "2009-09-30T15:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/09/30/Two-Cool-Adobe-MAX-Updates

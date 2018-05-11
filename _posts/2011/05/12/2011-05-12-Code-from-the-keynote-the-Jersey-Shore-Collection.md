@@ -2,7 +2,7 @@
 layout: post
 title: "Code from the keynote - the Jersey Shore Collection"
 date: "2011-05-12T18:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/05/12/Code-from-the-keynote-the-Jersey-Shore-Collection

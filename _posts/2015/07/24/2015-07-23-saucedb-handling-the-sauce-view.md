@@ -2,7 +2,7 @@
 layout: post
 title: "SauceDB - Handling the Sauce view"
 date: "2015-07-24T09:03:27+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: bluemix ionic
 banner_image: 
 permalink: /2015/07/24/saucedb-handling-the-sauce-view

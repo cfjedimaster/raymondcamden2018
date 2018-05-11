@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe needs testers for new JRun"
 date: "2006-05-02T22:05:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/05/02/Adobe-needs-testers-for-new-JRun

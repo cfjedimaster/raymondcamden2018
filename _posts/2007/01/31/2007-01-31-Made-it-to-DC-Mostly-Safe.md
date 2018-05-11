@@ -2,7 +2,7 @@
 layout: post
 title: "Made it to DC (Mostly Safe)"
 date: "2007-01-31T22:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/01/31/Made-it-to-DC-Mostly-Safe

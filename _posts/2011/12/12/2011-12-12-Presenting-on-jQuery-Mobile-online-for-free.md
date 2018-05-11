@@ -2,7 +2,7 @@
 layout: post
 title: "Presenting on jQuery Mobile - online - for free"
 date: "2011-12-12T14:12:00+06:00"
-categories: jQuery Mobile 
+categories: jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/12/12/Presenting-on-jQuery-Mobile-online-for-free

@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective in Review"
 date: "2007-05-07T15:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/07/cfObjective-in-Review

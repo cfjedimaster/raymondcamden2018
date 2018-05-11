@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Flex, AIR, and SQL"
 date: "2007-12-31T15:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/12/31/Working-with-Flex-AIR-and-SQL

@@ -2,7 +2,7 @@
 layout: post
 title: "New PWA Series"
 date: "2018-02-21"
-categories: Development JavaScript 
+categories: development javascript 
 tags: pwa
 banner_image: /images/banners/pwa_articles.jpg
 permalink: /2018/02/21/new-pwa-series

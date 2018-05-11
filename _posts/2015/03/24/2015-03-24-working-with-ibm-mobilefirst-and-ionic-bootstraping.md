@@ -2,7 +2,7 @@
 layout: post
 title: "Working with IBM MobileFirst and Ionic - Bootstrapping"
 date: "2015-03-24T16:01:04+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: ionic mobilefirst
 banner_image: 
 permalink: /2015/03/24/working-with-ibm-mobilefirst-and-ionic-bootstraping

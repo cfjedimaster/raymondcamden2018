@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript Tip - Auto Capitalizing"
 date: "2010-03-16T09:03:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/03/16/JavaScript-Tip-Auto-Capitalizing

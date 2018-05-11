@@ -2,7 +2,7 @@
 layout: post
 title: "Regex Help"
 date: "2005-12-17T23:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/17/Regex-Help

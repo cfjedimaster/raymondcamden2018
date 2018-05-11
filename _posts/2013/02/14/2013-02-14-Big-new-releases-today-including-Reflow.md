@@ -2,7 +2,7 @@
 layout: post
 title: "Big new releases today - including Reflow"
 date: "2013-02-14T13:02:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2013/02/14/Big-new-releases-today-including-Reflow

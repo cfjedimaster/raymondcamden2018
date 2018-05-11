@@ -2,7 +2,7 @@
 layout: post
 title: "Newest member of the family"
 date: "2007-02-07T21:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/02/07/Newest-member-of-the-family

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Bloggers code update"
 date: "2008-06-30T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/30/ColdFusion-Bloggers-code-update

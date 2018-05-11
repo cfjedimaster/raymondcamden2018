@@ -2,7 +2,7 @@
 layout: post
 title: "Server Downtime / ColdFusion 10 demos"
 date: "2012-02-25T14:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/02/25/Server-Downtime-ColdFusion-10-demos

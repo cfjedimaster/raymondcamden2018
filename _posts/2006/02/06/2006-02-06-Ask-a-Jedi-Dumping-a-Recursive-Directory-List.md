@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Dumping a Recursive Directory List"
 date: "2006-02-06T18:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/06/Ask-a-Jedi-Dumping-a-Recursive-Directory-List

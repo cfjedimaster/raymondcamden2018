@@ -2,7 +2,7 @@
 layout: post
 title: "Note from a .Net programmer getting into ColdFusion"
 date: "2011-11-23T12:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/11/23/Note-from-a-Net-programmer-getting-into-ColdFusion

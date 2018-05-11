@@ -2,7 +2,7 @@
 layout: post
 title: "Flex Cookbook"
 date: "2006-12-18T23:12:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2006/12/18/Flex-Cookbook

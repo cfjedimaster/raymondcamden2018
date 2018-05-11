@@ -2,7 +2,7 @@
 layout: post
 title: "Another \"ColdFusion 8 is so super fast\" Post"
 date: "2007-07-18T00:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/17/Another-ColdFusion-8-is-so-super-fast-Post

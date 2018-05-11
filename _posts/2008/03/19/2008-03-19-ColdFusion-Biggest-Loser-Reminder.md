@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Biggest Loser Reminder"
 date: "2008-03-19T11:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/03/19/ColdFusion-Biggest-Loser-Reminder

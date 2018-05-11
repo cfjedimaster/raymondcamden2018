@@ -2,7 +2,7 @@
 layout: post
 title: "Lost premiers tonight"
 date: "2008-01-31T07:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/01/31/Lost-premiers-tonight

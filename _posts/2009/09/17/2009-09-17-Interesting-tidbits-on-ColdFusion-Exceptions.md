@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting tidbits on ColdFusion Exceptions"
 date: "2009-09-17T11:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/17/Interesting-tidbits-on-ColdFusion-Exceptions

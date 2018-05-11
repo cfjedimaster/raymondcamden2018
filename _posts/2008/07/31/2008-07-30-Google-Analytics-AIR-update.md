@@ -2,7 +2,7 @@
 layout: post
 title: "Google Analytics AIR update"
 date: "2008-07-31T10:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/07/31/Google-Analytics-AIR-update

@@ -2,7 +2,7 @@
 layout: post
 title: "CFFEED and Date Values"
 date: "2008-05-24T16:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/24/CFFEED-and-Date-Values

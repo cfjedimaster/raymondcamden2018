@@ -2,7 +2,7 @@
 layout: post
 title: "RIACon Announced"
 date: "2011-02-25T09:02:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2011/02/25/RIACon-Announced

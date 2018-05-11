@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler - Gold baby, pure gold..."
 date: "2009-03-20T12:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/03/20/Friday-Puzzler-Gold-baby-pure-gold

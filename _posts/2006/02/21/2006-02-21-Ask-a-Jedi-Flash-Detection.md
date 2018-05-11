@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Flash Detection"
 date: "2006-02-21T15:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/02/21/Ask-a-Jedi-Flash-Detection

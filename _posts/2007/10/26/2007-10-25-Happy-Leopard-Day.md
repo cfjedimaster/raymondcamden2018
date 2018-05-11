@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Leopard Day"
 date: "2007-10-26T10:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/26/Happy-Leopard-Day

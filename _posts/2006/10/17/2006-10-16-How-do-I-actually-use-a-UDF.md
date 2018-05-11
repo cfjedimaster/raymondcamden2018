@@ -2,7 +2,7 @@
 layout: post
 title: "How do I actually use a UDF?"
 date: "2006-10-17T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/17/How-do-I-actually-use-a-UDF

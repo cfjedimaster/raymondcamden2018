@@ -2,7 +2,7 @@
 layout: post
 title: "Geolocation Emulation in Chrome (and others)"
 date: "2017-07-31T15:47:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2017/07/31/geolocation-emulation-in-chrome-and-others

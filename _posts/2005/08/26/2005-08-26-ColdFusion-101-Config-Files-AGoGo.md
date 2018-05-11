@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 101: Config Files A-Go-Go"
 date: "2005-08-26T18:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/26/ColdFusion-101-Config-Files-AGoGo

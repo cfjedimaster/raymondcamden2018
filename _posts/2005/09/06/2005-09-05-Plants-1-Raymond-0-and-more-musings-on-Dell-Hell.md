@@ -2,7 +2,7 @@
 layout: post
 title: "Plants: 1, Raymond: 0, and more musings on Dell Hell..."
 date: "2005-09-06T10:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/06/Plants-1-Raymond-0-and-more-musings-on-Dell-Hell

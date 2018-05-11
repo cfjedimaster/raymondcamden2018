@@ -2,7 +2,7 @@
 layout: post
 title: "Small ColdFusion Admin Bug (DSN Form and Timeouts)"
 date: "2010-02-25T11:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/25/Small-ColdFusion-Admin-Bug-DSN-Form-and-Timeouts

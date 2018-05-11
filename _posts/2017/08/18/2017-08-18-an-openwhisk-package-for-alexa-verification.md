@@ -2,7 +2,7 @@
 layout: post
 title: "An OpenWhisk Package for Alexa Verification"
 date: "2017-08-18T06:39:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk alexa
 banner_image: 
 permalink: /2017/08/18/an-openwhisk-package-for-alexa-verification

@@ -2,7 +2,7 @@
 layout: post
 title: "Deciding what client-side storage system to use"
 date: "2016-07-08T08:30:00-07:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2016/07/08/deciding-what-client-side-storage-system-to-use

@@ -2,7 +2,7 @@
 layout: post
 title: "Quick and dirty debugging tip for Flex/ColdFusion"
 date: "2007-01-29T14:01:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2007/01/29/Quick-and-dirty-debugging-tip-for-FlexColdFusion

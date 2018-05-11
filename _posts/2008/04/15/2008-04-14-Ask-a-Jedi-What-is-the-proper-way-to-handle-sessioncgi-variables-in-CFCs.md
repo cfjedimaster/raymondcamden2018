@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: What is the proper way to handle session/cgi variables in CFCs?"
 date: "2008-04-15T10:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/15/Ask-a-Jedi-What-is-the-proper-way-to-handle-sessioncgi-variables-in-CFCs

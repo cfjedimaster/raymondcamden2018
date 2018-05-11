@@ -2,7 +2,7 @@
 layout: post
 title: "Model-Glue Tip: Watch those event values!"
 date: "2006-07-20T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/20/ModelGlue-Tip-Watch-those-event-values

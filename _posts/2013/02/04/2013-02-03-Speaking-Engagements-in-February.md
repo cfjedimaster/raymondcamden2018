@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking Engagements in February"
 date: "2013-02-04T11:02:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/02/04/Speaking-Engagements-in-February

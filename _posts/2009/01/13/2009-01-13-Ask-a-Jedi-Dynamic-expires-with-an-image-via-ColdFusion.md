@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Dynamic expires with an image via ColdFusion"
 date: "2009-01-13T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/13/Ask-a-Jedi-Dynamic-expires-with-an-image-via-ColdFusion

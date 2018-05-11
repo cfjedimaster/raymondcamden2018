@@ -2,7 +2,7 @@
 layout: post
 title: "Anyone playing with iText and ColdFusion?"
 date: "2011-05-06T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/05/06/Anyone-playing-with-iText-and-ColdFusion

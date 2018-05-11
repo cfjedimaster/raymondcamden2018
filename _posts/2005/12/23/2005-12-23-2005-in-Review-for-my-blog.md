@@ -2,7 +2,7 @@
 layout: post
 title: "2005 in Review (for my blog!)"
 date: "2005-12-23T12:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/12/23/2005-in-Review-for-my-blog

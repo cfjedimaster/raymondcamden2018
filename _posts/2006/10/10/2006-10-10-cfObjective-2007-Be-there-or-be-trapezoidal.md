@@ -2,7 +2,7 @@
 layout: post
 title: "cf.Objective() 2007 - Be there or be trapezoidal"
 date: "2006-10-10T15:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/10/cfObjective-2007-Be-there-or-be-trapezoidal

@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at CFUnited Express - NYC"
 date: "2007-02-23T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/23/Speaking-at-CFUnited-Express-NYC

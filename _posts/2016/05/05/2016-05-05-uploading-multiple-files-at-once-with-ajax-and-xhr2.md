@@ -2,8 +2,8 @@
 layout: post
 title: "Uploading multiple files at once with Ajax and XHR2"
 date: "2016-05-05T13:21:00-07:00"
-categories: Development JavaScript 
-tags: Cordova
+categories: development javascript 
+tags: cordova
 banner_image: /images/banners/xhr2banner.jpg
 permalink: /2016/05/05/uploading-multiple-files-at-once-with-ajax-and-xhr2
 ---

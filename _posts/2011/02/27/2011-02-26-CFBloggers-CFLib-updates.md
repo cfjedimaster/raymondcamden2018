@@ -2,7 +2,7 @@
 layout: post
 title: "CFBloggers, CFLib updates"
 date: "2011-02-27T11:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2011/02/27/CFBloggers-CFLib-updates

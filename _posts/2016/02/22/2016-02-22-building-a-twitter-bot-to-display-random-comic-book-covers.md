@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Twitter bot to display random comic book covers"
 date: "2016-02-22T10:42:00-07:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: /images/banners/comicbooks.jpg
 permalink: /2016/02/22/building-a-twitter-bot-to-display-random-comic-book-covers

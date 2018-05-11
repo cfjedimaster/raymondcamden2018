@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC 5.9.5 Released (with video)"
 date: "2009-11-03T13:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/11/03/BlogCFC-595-Released-with-video

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Security Resources"
 date: "2011-03-07T09:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/03/07/ColdFusion-Security-Resources

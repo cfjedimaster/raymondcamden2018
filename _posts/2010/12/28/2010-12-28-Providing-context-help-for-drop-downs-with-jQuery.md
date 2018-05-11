@@ -2,7 +2,7 @@
 layout: post
 title: "Providing context help for drop downs with jQuery"
 date: "2010-12-28T12:12:00+06:00"
-categories: JavaScript jQuery 
+categories: javascript jquery 
 tags: 
 banner_image: 
 permalink: /2010/12/28/Providing-context-help-for-drop-downs-with-jQuery

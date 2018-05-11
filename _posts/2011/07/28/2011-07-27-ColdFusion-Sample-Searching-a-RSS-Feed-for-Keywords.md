@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Sample - Searching a RSS Feed for Keywords"
 date: "2011-07-28T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/28/ColdFusion-Sample-Searching-a-RSS-Feed-for-Keywords

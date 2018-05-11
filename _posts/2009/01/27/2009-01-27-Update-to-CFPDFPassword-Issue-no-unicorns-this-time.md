@@ -2,7 +2,7 @@
 layout: post
 title: "Update to CFPDF/Password Issue (no unicorns this time)"
 date: "2009-01-27T12:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/27/Update-to-CFPDFPassword-Issue-no-unicorns-this-time

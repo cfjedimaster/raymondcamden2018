@@ -2,7 +2,7 @@
 layout: post
 title: "Speaker recommendations?"
 date: "2007-08-27T12:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/08/27/Speaker-recommendations

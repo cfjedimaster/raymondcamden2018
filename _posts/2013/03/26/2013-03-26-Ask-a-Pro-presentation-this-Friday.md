@@ -2,7 +2,7 @@
 layout: post
 title: "\"Ask a Pro\" presentation this Friday"
 date: "2013-03-26T13:03:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2013/03/26/Ask-a-Pro-presentation-this-Friday

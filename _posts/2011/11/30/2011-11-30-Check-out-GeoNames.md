@@ -2,7 +2,7 @@
 layout: post
 title: "Check out GeoNames"
 date: "2011-11-30T12:11:00+06:00"
-categories: HTML5 JavaScript jQuery 
+categories: html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/11/30/Check-out-GeoNames

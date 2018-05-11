@@ -2,7 +2,7 @@
 layout: post
 title: "Building Your First Serverless Composition with IBM Cloud Functions"
 date: "2017-10-18"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/10/18/building-your-first-serverless-composition-with-ibm-cloud-functions

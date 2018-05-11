@@ -2,7 +2,7 @@
 layout: post
 title: "An Example of Form Validation with Vue.js"
 date: "2017-12-07"
-categories: Development 
+categories: development 
 tags: javascript vuejs
 banner_image: 
 permalink: /2017/12/07/an-example-of-form-validation-with-vuejs

@@ -2,7 +2,7 @@
 layout: post
 title: "Coming soon..."
 date: "2012-03-10T16:03:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2012/03/10/Coming-soon

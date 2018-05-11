@@ -2,7 +2,7 @@
 layout: post
 title: "ACME 3rd Edition Released!"
 date: "2006-03-03T06:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/03/03/ACME-3rd-Edition-Released

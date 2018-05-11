@@ -2,7 +2,7 @@
 layout: post
 title: "Hybrids Rock"
 date: "2005-11-21T14:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/11/21/Hybrids-Rock

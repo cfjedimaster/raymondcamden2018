@@ -2,7 +2,7 @@
 layout: post
 title: "Lucene, Share, and SpoolMail Updates"
 date: "2007-10-30T19:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/30/Lucene-Share-and-SpoolMail-Updates

@@ -2,7 +2,7 @@
 layout: post
 title: "Slides and Assets from JazzCon PWA Talk"
 date: "2018-03-22"
-categories: Development 
+categories: development 
 tags: pwa
 banner_image: /images/banners/jazzcon3.jpg
 permalink: /2018/03/22/slides-and-assets-from-jazzcon-pwa-talk

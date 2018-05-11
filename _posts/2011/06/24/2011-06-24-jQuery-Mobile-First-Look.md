@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile First Look"
 date: "2011-06-24T12:06:00+06:00"
-categories: JavaScript jQuery Mobile 
+categories: javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/06/24/jQuery-Mobile-First-Look

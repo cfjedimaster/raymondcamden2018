@@ -2,7 +2,7 @@
 layout: post
 title: "PhoneGap/Cordova Tip: Working with files under www and Android"
 date: "2015-01-21T10:05:24+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: 
 banner_image: 
 permalink: /2015/01/21/phonegapcordova-tip-working-with-files-under-www-and-android

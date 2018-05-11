@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Getting a bit fancier with a layout custom tag"
 date: "2008-01-06T08:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/06/Ask-a-Jedi-Getting-a-bit-fancier-with-a-layout-custom-tag

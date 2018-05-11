@@ -2,7 +2,7 @@
 layout: post
 title: "Presenting to New Zealand CFUG"
 date: "2008-06-02T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/02/Presenting-to-New-Zealand-CFUG

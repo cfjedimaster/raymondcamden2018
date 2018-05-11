@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile, Phonegap, and remote Ajax calls"
 date: "2011-05-06T18:05:00+06:00"
-categories: ColdFusion JavaScript jQuery Mobile 
+categories: coldfusion javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/05/06/jQuery-Mobile-Phonegap-and-remote-Ajax-calls

@@ -2,7 +2,7 @@
 layout: post
 title: "Recording/Code from Last Nights CF8/Ajax Meeting"
 date: "2008-06-05T10:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/06/05/RecordingCode-from-Last-Nights-CF8Ajax-Meeting

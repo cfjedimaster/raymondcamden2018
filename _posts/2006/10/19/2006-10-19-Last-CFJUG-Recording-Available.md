@@ -2,7 +2,7 @@
 layout: post
 title: "Last CFJUG Recording Available"
 date: "2006-10-19T23:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/19/Last-CFJUG-Recording-Available

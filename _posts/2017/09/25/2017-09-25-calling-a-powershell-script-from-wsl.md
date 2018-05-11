@@ -2,7 +2,7 @@
 layout: post
 title: "Calling a PowerShell Script from WSL"
 date: "2017-09-25T13:04:00-07:00"
-categories: Development 
+categories: development 
 tags: windows
 banner_image: 
 permalink: /2017/09/25/calling-a-powershell-script-from-wsl

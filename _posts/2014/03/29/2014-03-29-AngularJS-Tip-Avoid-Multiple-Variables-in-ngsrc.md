@@ -2,7 +2,7 @@
 layout: post
 title: "AngularJS Tip - Avoid Multiple Variables in ng-src"
 date: "2014-03-29T12:03:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2014/03/29/AngularJS-Tip-Avoid-Multiple-Variables-in-ngsrc

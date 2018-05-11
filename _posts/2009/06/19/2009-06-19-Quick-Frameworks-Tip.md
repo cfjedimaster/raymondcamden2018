@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Frameworks Tip"
 date: "2009-06-19T21:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/19/Quick-Frameworks-Tip

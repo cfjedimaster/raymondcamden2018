@@ -2,7 +2,7 @@
 layout: post
 title: "LoopBack, StrongLoop, and API Connect - how in the heck do they relate?"
 date: "2016-04-27T13:43:00-07:00"
-categories: Development 
+categories: development 
 tags: strongloop
 banner_image: /images/banners/loopbak.jpg
 permalink: /2016/04/27/loopback-strongloop-and-api-connect-how-in-the-heck-do-they-relate

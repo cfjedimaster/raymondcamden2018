@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Turning a site off"
 date: "2006-08-07T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/07/Ask-a-Jedi-Turning-a-site-off

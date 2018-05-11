@@ -2,7 +2,7 @@
 layout: post
 title: "Lighthouse Pro ColdFusion Bug Tracker - Version 2"
 date: "2005-12-28T21:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/28/Lighthouse-Pro-ColdFusion-Bug-Tracker-Version-2

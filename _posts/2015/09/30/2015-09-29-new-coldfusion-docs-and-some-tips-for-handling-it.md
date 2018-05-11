@@ -2,7 +2,7 @@
 layout: post
 title: "New ColdFusion docs (and some tips for handling it)"
 date: "2015-09-30T05:55:33+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2015/09/30/new-coldfusion-docs-and-some-tips-for-handling-it

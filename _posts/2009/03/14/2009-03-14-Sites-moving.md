@@ -2,7 +2,7 @@
 layout: post
 title: "Sites moving.."
 date: "2009-03-15T00:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/03/14/Sites-moving

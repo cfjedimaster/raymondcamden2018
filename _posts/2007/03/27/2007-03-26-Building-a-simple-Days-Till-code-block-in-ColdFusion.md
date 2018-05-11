@@ -2,7 +2,7 @@
 layout: post
 title: "Building a simple \"Days Till\" code block in ColdFusion"
 date: "2007-03-27T09:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/27/Building-a-simple-Days-Till-code-block-in-ColdFusion

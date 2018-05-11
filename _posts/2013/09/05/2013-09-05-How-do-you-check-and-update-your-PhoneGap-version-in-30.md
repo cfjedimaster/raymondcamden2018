@@ -2,7 +2,7 @@
 layout: post
 title: "How do you check (and update) your PhoneGap version in 3.0?"
 date: "2013-09-05T16:09:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/09/05/How-do-you-check-and-update-your-PhoneGap-version-in-30

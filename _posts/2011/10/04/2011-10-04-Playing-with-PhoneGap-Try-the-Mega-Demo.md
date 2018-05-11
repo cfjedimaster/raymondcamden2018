@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with PhoneGap? Try the Mega Demo"
 date: "2011-10-04T11:10:00+06:00"
-categories: HTML5 JavaScript jQuery Mobile 
+categories: html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/10/04/Playing-with-PhoneGap-Try-the-Mega-Demo

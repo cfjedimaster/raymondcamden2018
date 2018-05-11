@@ -2,7 +2,7 @@
 layout: post
 title: "Code+Slides from jQuery Mobile Presentation"
 date: "2012-01-07T18:01:00+06:00"
-categories: JavaScript jQuery Mobile 
+categories: javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/01/07/CodeSlides-from-jQuery-Mobile-Presentation

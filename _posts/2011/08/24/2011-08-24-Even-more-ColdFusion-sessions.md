@@ -2,7 +2,7 @@
 layout: post
 title: "Even more ColdFusion sessions..."
 date: "2011-08-24T22:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/24/Even-more-ColdFusion-sessions

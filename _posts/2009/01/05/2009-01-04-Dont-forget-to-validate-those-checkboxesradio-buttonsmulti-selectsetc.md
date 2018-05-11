@@ -2,7 +2,7 @@
 layout: post
 title: "Don't forget to validate those checkboxes/radio buttons/multi selects/etc"
 date: "2009-01-05T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/05/Dont-forget-to-validate-those-checkboxesradio-buttonsmulti-selectsetc

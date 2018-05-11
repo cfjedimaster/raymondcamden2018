@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to RaymondCamden.com 2016"
 date: "2016-01-20T14:46:54-06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2016/01/20/welcome-to-raymondcamden-2016

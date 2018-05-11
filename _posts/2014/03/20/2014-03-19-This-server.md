@@ -2,7 +2,7 @@
 layout: post
 title: "This server..."
 date: "2014-03-20T09:03:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2014/03/20/This-server

@@ -2,7 +2,7 @@
 layout: post
 title: "Question from Reader: ColdFusion and Licensing Schemes"
 date: "2009-07-17T12:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/17/Question-from-Reader-ColdFusion-and-Licensing-Schemes

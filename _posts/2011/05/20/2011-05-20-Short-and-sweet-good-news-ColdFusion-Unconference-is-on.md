@@ -2,7 +2,7 @@
 layout: post
 title: "Short and sweet good news - ColdFusion Unconference is on"
 date: "2011-05-20T19:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/05/20/Short-and-sweet-good-news-ColdFusion-Unconference-is-on

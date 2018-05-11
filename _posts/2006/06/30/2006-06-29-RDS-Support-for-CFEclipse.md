@@ -2,7 +2,7 @@
 layout: post
 title: "RDS Support for CFEclipse"
 date: "2006-06-30T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/30/RDS-Support-for-CFEclipse

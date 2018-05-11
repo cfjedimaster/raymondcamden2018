@@ -2,7 +2,7 @@
 layout: post
 title: "Knowing when to call it a day..."
 date: "2007-07-13T13:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/07/13/Knowing-when-to-call-it-a-day

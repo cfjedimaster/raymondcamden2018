@@ -2,7 +2,7 @@
 layout: post
 title: "Home from RIAUnleashed"
 date: "2009-11-15T10:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/11/15/Home-from-RIAUnleashed

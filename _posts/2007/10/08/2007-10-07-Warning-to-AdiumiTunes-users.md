@@ -2,7 +2,7 @@
 layout: post
 title: "Warning to Adium/iTunes users"
 date: "2007-10-08T10:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/10/08/Warning-to-AdiumiTunes-users

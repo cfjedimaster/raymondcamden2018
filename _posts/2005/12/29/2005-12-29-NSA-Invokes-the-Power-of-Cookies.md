@@ -2,7 +2,7 @@
 layout: post
 title: "NSA Invokes the Power of Cookies"
 date: "2005-12-29T19:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/12/29/NSA-Invokes-the-Power-of-Cookies

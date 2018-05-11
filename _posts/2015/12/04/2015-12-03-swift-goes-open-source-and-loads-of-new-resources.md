@@ -2,7 +2,7 @@
 layout: post
 title: "Swift goes open source, and loads of new resources"
 date: "2015-12-04T08:44:30+06:00"
-categories: Development 
+categories: development 
 tags: swift
 banner_image: 
 permalink: /2015/12/04/swift-goes-open-source-and-loads-of-new-resources

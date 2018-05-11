@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Children custom tags reading data from their parents"
 date: "2010-09-15T13:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/09/15/Ask-a-Jedi-Children-custom-tags-reading-data-from-their-parents

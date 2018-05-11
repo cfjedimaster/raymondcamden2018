@@ -2,7 +2,7 @@
 layout: post
 title: "Guest Post: Apple Push Notifications From ColdFusion in Ten Minutes or Less"
 date: "2010-09-14T00:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/09/13/Guest-Post-Apple-Push-Notifications-From-ColdFusion-in-Ten-Minutes-or-Less

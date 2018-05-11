@@ -2,7 +2,7 @@
 layout: post
 title: "cfObjective - Dynamic Spry Widgets with Coldfusion by Andrew Powell."
 date: "2007-05-05T13:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/05/cfObjective-Dynamic-Spry-Widgets-with-Coldfusion-by-Andrew-Powell

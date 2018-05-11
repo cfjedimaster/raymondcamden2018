@@ -2,7 +2,7 @@
 layout: post
 title: "Script based version of CFWDDX"
 date: "2011-04-21T14:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/04/21/Script-based-version-of-CFWDDX

@@ -2,7 +2,7 @@
 layout: post
 title: "Installing ColdFusion on Intel Macs Guide"
 date: "2006-07-27T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/27/Installing-ColdFusion-on-Intel-Macs-Guide

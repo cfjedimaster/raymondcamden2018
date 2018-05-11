@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 Ajax and History Management"
 date: "2009-01-08T13:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/08/ColdFusion-8-Ajax-and-History-Management

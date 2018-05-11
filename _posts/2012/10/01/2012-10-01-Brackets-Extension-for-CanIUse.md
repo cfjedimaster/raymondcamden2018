@@ -2,7 +2,7 @@
 layout: post
 title: "Brackets Extension for CanIUse"
 date: "2012-10-01T16:10:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2012/10/01/Brackets-Extension-for-CanIUse

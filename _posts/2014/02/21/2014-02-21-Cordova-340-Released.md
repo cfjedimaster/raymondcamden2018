@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova 3.4.0 Released"
 date: "2014-02-21T17:02:00+06:00"
-categories: Mobile 
+categories: mobile 
 tags: 
 banner_image: 
 permalink: /2014/02/21/Cordova-340-Released

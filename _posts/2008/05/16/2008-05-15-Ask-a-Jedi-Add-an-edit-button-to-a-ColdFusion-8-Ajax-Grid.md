@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Add an edit button to a ColdFusion 8 Ajax Grid"
 date: "2008-05-16T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/16/Ask-a-Jedi-Add-an-edit-button-to-a-ColdFusion-8-Ajax-Grid

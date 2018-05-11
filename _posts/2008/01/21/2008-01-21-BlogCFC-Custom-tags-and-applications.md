@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC, Custom tags and applications"
 date: "2008-01-21T17:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/21/BlogCFC-Custom-tags-and-applications

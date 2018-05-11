@@ -2,7 +2,7 @@
 layout: post
 title: "Time Tracker AIR Update, and what I learned about label functions and optional args in Flex"
 date: "2008-01-11T13:01:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2008/01/11/Time-Tracker-AIR-Update-and-what-I-learned-about-label-functions-and-optional-args-in-Flex

@@ -2,7 +2,7 @@
 layout: post
 title: "Tell MS Word to stop pasting in styles"
 date: "2012-02-14T14:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/02/14/Tell-MS-Word-to-stop-pasting-in-styles

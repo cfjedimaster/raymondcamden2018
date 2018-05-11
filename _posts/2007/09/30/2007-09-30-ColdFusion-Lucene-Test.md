@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Lucene Test"
 date: "2007-09-30T13:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/30/ColdFusion-Lucene-Test

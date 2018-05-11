@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile Reference Guide"
 date: "2011-11-01T11:11:00+06:00"
-categories: jQuery Mobile 
+categories: jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/11/01/jQuery-Mobile-Reference-Guide

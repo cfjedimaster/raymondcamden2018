@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion and XML Attributes"
 date: "2005-09-26T18:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/26/Ask-a-Jedi-XML-Attributes

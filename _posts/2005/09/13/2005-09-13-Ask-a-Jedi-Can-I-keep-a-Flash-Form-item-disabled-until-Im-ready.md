@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Can I keep a Flash Form item disabled until I'm ready?"
 date: "2005-09-13T15:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/09/13/Ask-a-Jedi-Can-I-keep-a-Flash-Form-item-disabled-until-Im-ready

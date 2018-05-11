@@ -2,7 +2,7 @@
 layout: post
 title: "Push reveal.js notes into the console"
 date: "2012-08-15T17:08:00+06:00"
-categories: JavaScript Misc 
+categories: javascript misc 
 tags: 
 banner_image: 
 permalink: /2012/08/15/Push-revealjs-notes-into-the-console

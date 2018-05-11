@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Summit 2014 - Call for Speakers"
 date: "2014-06-03T13:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/06/03/ColdFusion-Summit-2014-Call-for-Speakers

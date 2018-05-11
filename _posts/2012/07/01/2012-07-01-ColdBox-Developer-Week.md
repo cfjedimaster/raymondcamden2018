@@ -2,7 +2,7 @@
 layout: post
 title: "ColdBox Developer Week"
 date: "2012-07-01T23:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/07/01/ColdBox-Developer-Week

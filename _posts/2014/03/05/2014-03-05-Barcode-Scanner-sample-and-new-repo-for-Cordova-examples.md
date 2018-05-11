@@ -2,7 +2,7 @@
 layout: post
 title: "Barcode Scanner sample, and new repo for Cordova examples"
 date: "2014-03-05T13:03:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2014/03/05/Barcode-Scanner-sample-and-new-repo-for-Cordova-examples

@@ -2,7 +2,7 @@
 layout: post
 title: "CFWACK 8 Volume 1 Site and Forums (and sample chapters!)"
 date: "2007-09-11T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/11/CFWACK-8-Volume-1-Site-and-Forums-and-sample-chapters

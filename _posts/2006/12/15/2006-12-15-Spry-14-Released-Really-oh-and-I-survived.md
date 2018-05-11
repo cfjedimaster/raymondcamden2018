@@ -2,7 +2,7 @@
 layout: post
 title: "Spry 1.4 Released (Really), oh and I survived."
 date: "2006-12-15T21:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/12/15/Spry-14-Released-Really-oh-and-I-survived

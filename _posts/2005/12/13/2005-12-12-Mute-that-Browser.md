@@ -2,7 +2,7 @@
 layout: post
 title: "Mute that Browser!"
 date: "2005-12-13T09:12:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2005/12/13/Mute-that-Browser

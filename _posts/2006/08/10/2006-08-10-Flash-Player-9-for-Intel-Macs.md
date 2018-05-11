@@ -2,7 +2,7 @@
 layout: post
 title: "Flash Player 9 for Intel Macs"
 date: "2006-08-10T22:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/10/Flash-Player-9-for-Intel-Macs

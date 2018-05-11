@@ -2,7 +2,7 @@
 layout: post
 title: "VarScoper Tool"
 date: "2008-05-22T12:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/22/VarScoper-Tool

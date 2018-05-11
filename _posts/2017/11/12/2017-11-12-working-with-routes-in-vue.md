@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Routes in Vue.js"
 date: "2017-11-12T11:57:00-07:00"
-categories: Development 
+categories: development 
 tags: javascript vuejs
 banner_image: 
 permalink: /2017/11/12/working-with-routes-in-vue

@@ -2,7 +2,7 @@
 layout: post
 title: "Do you test under cfsetting?"
 date: "2009-02-26T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/02/26/Do-you-test-under-cfsetting

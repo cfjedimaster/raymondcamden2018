@@ -2,7 +2,7 @@
 layout: post
 title: "Recording from Web+Mobile DevCon Presentation"
 date: "2012-07-30T17:07:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/07/30/Recording-from-WebMobile-DevCon-Presentation

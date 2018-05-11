@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Quickie: Highlighting a table row after selecting a checkbox (2)"
 date: "2010-01-05T09:01:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/01/05/jQuery-Quickie-Highlighting-a-table-row-after-selecting-a-checkbox-2

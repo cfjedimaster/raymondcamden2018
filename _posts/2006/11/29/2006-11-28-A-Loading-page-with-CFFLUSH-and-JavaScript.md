@@ -2,7 +2,7 @@
 layout: post
 title: "A Loading page with CFFLUSH and JavaScript"
 date: "2006-11-29T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/29/A-Loading-page-with-CFFLUSH-and-JavaScript

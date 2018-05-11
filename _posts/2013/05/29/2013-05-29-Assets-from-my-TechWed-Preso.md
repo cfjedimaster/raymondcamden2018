@@ -2,7 +2,7 @@
 layout: post
 title: "Assets from my TechWed Preso"
 date: "2013-05-29T20:05:00+06:00"
-categories: HTML5 
+categories: html5 
 tags: 
 banner_image: 
 permalink: /2013/05/29/Assets-from-my-TechWed-Preso

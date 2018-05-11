@@ -2,7 +2,7 @@
 layout: post
 title: "Missing DevNexus"
 date: "2016-02-15T14:44:00-07:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2016/02/15/missing-devnexus

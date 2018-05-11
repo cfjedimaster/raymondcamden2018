@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Spreadsheet Bug with Formulas"
 date: "2011-06-03T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/03/ColdFusion-Spreadsheet-Bug-with-Formulas

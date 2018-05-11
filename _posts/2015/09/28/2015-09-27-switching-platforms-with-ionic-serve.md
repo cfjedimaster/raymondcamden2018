@@ -2,7 +2,7 @@
 layout: post
 title: "Switching platforms with Ionic Serve"
 date: "2015-09-28T05:36:50+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/09/28/switching-platforms-with-ionic-serve

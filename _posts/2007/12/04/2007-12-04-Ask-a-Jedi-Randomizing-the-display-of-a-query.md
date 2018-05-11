@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Randomizing the display of a query"
 date: "2007-12-04T13:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/04/Ask-a-Jedi-Randomizing-the-display-of-a-query

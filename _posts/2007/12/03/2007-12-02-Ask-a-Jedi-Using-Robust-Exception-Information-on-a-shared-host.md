@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Using Robust Exception Information on a shared host"
 date: "2007-12-03T10:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/03/Ask-a-Jedi-Using-Robust-Exception-Information-on-a-shared-host

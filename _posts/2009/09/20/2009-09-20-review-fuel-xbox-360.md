@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Fuel (XBox 360)"
 date: "2009-09-20T17:09:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2009/09/20/review-fuel-xbox-360

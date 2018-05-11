@@ -2,7 +2,7 @@
 layout: post
 title: "New Site: KidGamers.org"
 date: "2006-08-07T13:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/08/07/New-Site-KidGamersorg

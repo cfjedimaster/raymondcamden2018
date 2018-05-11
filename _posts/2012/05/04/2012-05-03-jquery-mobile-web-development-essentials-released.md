@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery Mobile Web Development Essentials - Released"
 date: "2012-05-04T10:05:00+06:00"
-categories: Development JavaScript jQuery Mobile 
+categories: development javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/05/04/jquery-mobile-web-development-essentials-released

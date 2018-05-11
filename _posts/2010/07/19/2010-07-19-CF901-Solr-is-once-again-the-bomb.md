@@ -2,7 +2,7 @@
 layout: post
 title: "CF901: Solr is (once again) the bomb"
 date: "2010-07-19T20:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/07/19/CF901-Solr-is-once-again-the-bomb

@@ -2,7 +2,7 @@
 layout: post
 title: "Flex4/FlashBuilder4/Flash Catalyst Links"
 date: "2009-06-01T14:06:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2009/06/01/Flex4FlashBuilder4Flash-Catalyst-Links

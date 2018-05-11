@@ -2,7 +2,7 @@
 layout: post
 title: "Finding the username in an AIR app, and a quick binding tip"
 date: "2009-06-27T11:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/06/27/Finding-the-username-in-an-AIR-app-and-a-quick-binding-tip

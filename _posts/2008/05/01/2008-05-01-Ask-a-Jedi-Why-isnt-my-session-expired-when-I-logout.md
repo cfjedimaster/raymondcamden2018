@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi - Why isn't my session expired when I logout?"
 date: "2008-05-01T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/05/01/Ask-a-Jedi-Why-isnt-my-session-expired-when-I-logout

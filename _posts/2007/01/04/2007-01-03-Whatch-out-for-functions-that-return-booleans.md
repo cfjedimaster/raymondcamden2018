@@ -2,7 +2,7 @@
 layout: post
 title: "Watch out for functions that return booleans"
 date: "2007-01-04T10:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/01/04/Whatch-out-for-functions-that-return-booleans

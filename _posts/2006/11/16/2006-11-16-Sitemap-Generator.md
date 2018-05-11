@@ -2,7 +2,7 @@
 layout: post
 title: "Sitemap Generator"
 date: "2006-11-16T22:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/16/Sitemap-Generator

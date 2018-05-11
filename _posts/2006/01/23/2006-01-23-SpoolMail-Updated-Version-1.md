@@ -2,7 +2,7 @@
 layout: post
 title: "SpoolMail Updated - Version 1"
 date: "2006-01-23T18:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/23/SpoolMail-Updated-Version-1

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: CFASSOCIATE Example"
 date: "2009-10-09T16:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/09/Ask-a-Jedi-CFASSOCIATE-Example

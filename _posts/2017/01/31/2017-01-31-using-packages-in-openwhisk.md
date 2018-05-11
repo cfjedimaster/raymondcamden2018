@@ -2,7 +2,7 @@
 layout: post
 title: "Using Packages in OpenWhisk"
 date: "2017-01-31T11:00:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/01/31/using-packages-in-openwhisk

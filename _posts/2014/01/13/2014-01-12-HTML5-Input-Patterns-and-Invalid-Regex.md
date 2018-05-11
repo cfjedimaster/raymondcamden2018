@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 Input Patterns and Invalid Regex"
 date: "2014-01-13T07:01:00+06:00"
-categories: HTML5 JavaScript 
+categories: html5 javascript 
 tags: 
 banner_image: 
 permalink: /2014/01/13/HTML5-Input-Patterns-and-Invalid-Regex

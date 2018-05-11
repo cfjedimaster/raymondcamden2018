@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Enhancing the Flash Form Grid (2)"
 date: "2005-08-07T22:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/07/Ask-a-Jedi-Enhancing-the-Flash-Form-Grid-2

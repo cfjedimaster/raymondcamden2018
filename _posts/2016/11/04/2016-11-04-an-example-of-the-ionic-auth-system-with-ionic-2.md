@@ -2,7 +2,7 @@
 layout: post
 title: "An example of the Ionic Auth service with Ionic 2"
 date: "2016-11-04T12:59:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic
 banner_image: /images/banners/ionic2auth.jpg
 permalink: /2016/11/04/an-example-of-the-ionic-auth-service-with-ionic-2

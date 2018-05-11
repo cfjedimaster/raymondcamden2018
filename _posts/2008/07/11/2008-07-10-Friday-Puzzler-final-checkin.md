@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler final checkin"
 date: "2008-07-11T08:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/07/11/Friday-Puzzler-final-checkin

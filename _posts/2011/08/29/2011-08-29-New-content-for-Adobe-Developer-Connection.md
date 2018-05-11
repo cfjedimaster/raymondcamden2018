@@ -2,7 +2,7 @@
 layout: post
 title: "New content for Adobe Developer Connection"
 date: "2011-08-29T18:08:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2011/08/29/New-content-for-Adobe-Developer-Connection

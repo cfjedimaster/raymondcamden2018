@@ -2,7 +2,7 @@
 layout: post
 title: "An early look at Ionic Push"
 date: "2015-03-31T10:31:18+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: ionic
 banner_image: 
 permalink: /2015/03/31/an-early-look-at-ionic-push

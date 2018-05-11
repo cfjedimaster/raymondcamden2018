@@ -2,7 +2,7 @@
 layout: post
 title: "Say hello to Brackets"
 date: "2012-06-25T19:06:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/06/25/Say-hello-to-Brackets

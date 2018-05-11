@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Contest - Final Entries"
 date: "2005-10-24T13:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/10/24/ColdFusion-Contest-Final-Entries

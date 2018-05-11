@@ -2,7 +2,7 @@
 layout: post
 title: "POC: Integrating a Chrome Extension with Adobe Edge Animate"
 date: "2012-11-14T15:11:00+06:00"
-categories: Development HTML5 JavaScript 
+categories: development html5 javascript 
 tags: 
 banner_image: 
 permalink: /2012/11/14/POC-Integrating-a-Chrome-Extension-with-Adobe-Edge-Animate

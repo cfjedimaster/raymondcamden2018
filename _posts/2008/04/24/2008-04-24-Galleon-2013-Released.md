@@ -2,7 +2,7 @@
 layout: post
 title: "Galleon 2.013 Released"
 date: "2008-04-24T17:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/04/24/Galleon-2013-Released

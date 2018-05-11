@@ -2,7 +2,7 @@
 layout: post
 title: "Why you should, and should not, break encapsulation in methods"
 date: "2009-01-22T10:01:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2009/01/22/Why-you-should-and-should-not-break-encapsulation-in-methods

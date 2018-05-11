@@ -2,7 +2,7 @@
 layout: post
 title: "Spry and Server Side Paging"
 date: "2007-02-23T12:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/23/Spry-and-Server-Side-Paging

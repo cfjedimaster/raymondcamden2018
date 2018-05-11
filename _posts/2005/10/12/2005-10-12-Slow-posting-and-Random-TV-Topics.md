@@ -2,7 +2,7 @@
 layout: post
 title: "Slow posting and Random TV Topics"
 date: "2005-10-12T17:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/10/12/Slow-posting-and-Random-TV-Topics

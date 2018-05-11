@@ -2,7 +2,7 @@
 layout: post
 title: "Connecting PouchDB to Cloudant on IBM Bluemix"
 date: "2015-04-24T15:39:43+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: bluemix
 banner_image: 
 permalink: /2015/04/24/connecting-pouchdb-to-ibm-bluemix

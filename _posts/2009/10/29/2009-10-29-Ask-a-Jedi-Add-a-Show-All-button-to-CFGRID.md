@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Add a \"Show All\" button to CFGRID"
 date: "2009-10-29T14:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/29/Ask-a-Jedi-Add-a-Show-All-button-to-CFGRID

@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Keynote Review (Edited 12:12 PM)"
 date: "2006-10-24T13:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/10/24/MAX-Keynote-Review

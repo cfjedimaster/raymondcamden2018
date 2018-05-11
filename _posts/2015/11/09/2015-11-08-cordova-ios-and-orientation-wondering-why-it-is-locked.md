@@ -2,7 +2,7 @@
 layout: post
 title: "Cordova, iOS, and Orientation - wondering why it is locked?"
 date: "2015-11-09T10:49:07+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/11/09/cordova-ios-and-orientation-wondering-why-it-is-locked

@@ -2,7 +2,7 @@
 layout: post
 title: "Using ColdFusion Scheduler With Files Based on Dates"
 date: "2005-08-05T15:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/05/Using-ColdFusion-Scheduler-With-Files-Based-on-Dates

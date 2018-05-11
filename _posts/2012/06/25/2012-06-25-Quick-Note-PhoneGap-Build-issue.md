@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Note: PhoneGap Build issue"
 date: "2012-06-25T16:06:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2012/06/25/Quick-Note-PhoneGap-Build-issue

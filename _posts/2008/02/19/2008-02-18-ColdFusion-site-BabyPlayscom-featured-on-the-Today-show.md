@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion site, BabyPlays.com, featured on the Today show"
 date: "2008-02-19T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/02/19/ColdFusion-site-BabyPlayscom-featured-on-the-Today-show

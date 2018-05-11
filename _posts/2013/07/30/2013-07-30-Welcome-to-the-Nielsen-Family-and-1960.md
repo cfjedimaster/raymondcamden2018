@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to the Nielsen Family - and 1960"
 date: "2013-07-30T17:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2013/07/30/Welcome-to-the-Nielsen-Family-and-1960

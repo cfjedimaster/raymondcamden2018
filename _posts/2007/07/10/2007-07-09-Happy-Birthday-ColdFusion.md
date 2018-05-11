@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Birthday, ColdFusion"
 date: "2007-07-10T10:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/07/10/Happy-Birthday-ColdFusion

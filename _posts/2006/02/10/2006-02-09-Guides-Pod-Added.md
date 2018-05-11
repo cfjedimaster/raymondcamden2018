@@ -2,7 +2,7 @@
 layout: post
 title: "Guides Pod Added"
 date: "2006-02-10T09:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/02/10/Guides-Pod-Added

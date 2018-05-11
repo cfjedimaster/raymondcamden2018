@@ -2,7 +2,7 @@
 layout: post
 title: "Flex Going Open Source"
 date: "2007-04-26T07:04:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/04/26/Flex-Going-Open-Source

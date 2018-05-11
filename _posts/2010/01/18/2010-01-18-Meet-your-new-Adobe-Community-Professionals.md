@@ -2,7 +2,7 @@
 layout: post
 title: "Meet your new Adobe Community Professionals"
 date: "2010-01-18T23:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/01/18/Meet-your-new-Adobe-Community-Professionals

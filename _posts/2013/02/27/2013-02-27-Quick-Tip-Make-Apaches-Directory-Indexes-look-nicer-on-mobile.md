@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Tip - Make Apache's Directory Indexes look nicer on mobile"
 date: "2013-02-27T15:02:00+06:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: 
 banner_image: 
 permalink: /2013/02/27/Quick-Tip-Make-Apaches-Directory-Indexes-look-nicer-on-mobile

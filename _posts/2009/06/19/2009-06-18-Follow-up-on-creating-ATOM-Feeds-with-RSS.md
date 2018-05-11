@@ -2,7 +2,7 @@
 layout: post
 title: "Follow up on creating ATOM Feeds with RSS"
 date: "2009-06-19T09:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/06/19/Follow-up-on-creating-ATOM-Feeds-with-RSS

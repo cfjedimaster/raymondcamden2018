@@ -2,7 +2,7 @@
 layout: post
 title: "Spry's HTML Panel (2)"
 date: "2007-11-06T09:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/11/06/Sprys-HTML-Panel-2

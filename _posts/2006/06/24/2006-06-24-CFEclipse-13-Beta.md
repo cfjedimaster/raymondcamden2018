@@ -2,7 +2,7 @@
 layout: post
 title: "CFEclipse 1.3 Beta"
 date: "2006-06-24T22:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/24/CFEclipse-13-Beta

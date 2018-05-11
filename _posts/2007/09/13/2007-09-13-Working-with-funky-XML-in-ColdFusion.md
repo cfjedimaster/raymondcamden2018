@@ -2,7 +2,7 @@
 layout: post
 title: "Working with funky XML in ColdFusion"
 date: "2007-09-13T13:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/09/13/Working-with-funky-XML-in-ColdFusion

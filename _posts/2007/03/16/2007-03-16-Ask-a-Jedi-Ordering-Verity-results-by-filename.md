@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Ordering Verity results by filename"
 date: "2007-03-16T14:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/03/16/Ask-a-Jedi-Ordering-Verity-results-by-filename

@@ -2,7 +2,7 @@
 layout: post
 title: "Hot Fix for FCK Issue"
 date: "2009-07-08T16:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/07/08/Hot-Fix-for-FCK-Issue

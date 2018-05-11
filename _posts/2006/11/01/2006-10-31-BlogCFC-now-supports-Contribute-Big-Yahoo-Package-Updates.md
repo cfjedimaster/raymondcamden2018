@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC now supports Contribute + Big Yahoo Package Updates"
 date: "2006-11-01T09:11:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/11/01/BlogCFC-now-supports-Contribute-Big-Yahoo-Package-Updates

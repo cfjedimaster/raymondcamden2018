@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with jQuery UI's Autocomplete Control"
 date: "2010-04-12T10:04:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/04/12/Playing-with-jQuery-UIs-Autocomplete-Control

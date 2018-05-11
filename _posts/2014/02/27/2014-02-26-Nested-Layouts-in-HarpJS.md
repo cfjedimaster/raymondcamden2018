@@ -2,7 +2,7 @@
 layout: post
 title: "Nested Layouts in HarpJS"
 date: "2014-02-27T10:02:00+06:00"
-categories: Development HTML5 
+categories: development html5 
 tags: 
 banner_image: 
 permalink: /2014/02/27/Nested-Layouts-in-HarpJS

@@ -2,7 +2,7 @@
 layout: post
 title: "Open Discussion - Learning a scripting language"
 date: "2012-04-02T15:04:00+06:00"
-categories: ColdFusion Development 
+categories: coldfusion development 
 tags: 
 banner_image: 
 permalink: /2012/04/02/Open-Discussion-Learning-a-scripting-language

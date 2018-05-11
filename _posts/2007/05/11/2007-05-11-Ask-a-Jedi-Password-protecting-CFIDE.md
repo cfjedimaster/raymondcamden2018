@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Password protecting CFIDE"
 date: "2007-05-11T11:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/11/Ask-a-Jedi-Password-protecting-CFIDE

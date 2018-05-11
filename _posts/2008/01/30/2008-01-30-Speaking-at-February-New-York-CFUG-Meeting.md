@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at February New York CFUG Meeting"
 date: "2008-01-30T21:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/01/30/Speaking-at-February-New-York-CFUG-Meeting

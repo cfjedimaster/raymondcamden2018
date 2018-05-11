@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Display value of file upload field"
 date: "2007-08-31T16:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/31/Ask-a-Jedi-Display-value-of-file-upload-field

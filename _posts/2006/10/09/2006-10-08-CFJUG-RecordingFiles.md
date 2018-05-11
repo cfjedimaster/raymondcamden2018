@@ -2,7 +2,7 @@
 layout: post
 title: "CFJUG Recording/Files"
 date: "2006-10-09T10:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/10/09/CFJUG-RecordingFiles

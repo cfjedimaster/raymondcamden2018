@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion S3 Issue with Folders"
 date: "2011-02-10T14:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/02/10/ColdFusion-S3-Issue-with-Folders

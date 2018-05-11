@@ -2,7 +2,7 @@
 layout: post
 title: "Review: The City & The City"
 date: "2009-11-29T09:11:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2009/11/29/review-the-city-the-city

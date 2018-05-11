@@ -2,7 +2,7 @@
 layout: post
 title: "Adobe ColdFusion Developer Week"
 date: "2011-08-23T17:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/23/Adobe-ColdFusion-Developer-Week

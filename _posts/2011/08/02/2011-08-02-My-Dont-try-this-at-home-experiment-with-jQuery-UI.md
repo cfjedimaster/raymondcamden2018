@@ -2,7 +2,7 @@
 layout: post
 title: "My \"Don't try this at home\" experiment with jQuery UI"
 date: "2011-08-02T12:08:00+06:00"
-categories: ColdFusion JavaScript jQuery 
+categories: coldfusion javascript jquery 
 tags: 
 banner_image: 
 permalink: /2011/08/02/My-Dont-try-this-at-home-experiment-with-jQuery-UI

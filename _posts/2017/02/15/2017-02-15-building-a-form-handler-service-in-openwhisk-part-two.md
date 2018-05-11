@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Form Handler Service in OpenWhisk - Part Two"
 date: "2017-02-15T12:22:00-07:00"
-categories: Serverless 
+categories: serverless 
 tags: openwhisk
 banner_image: 
 permalink: /2017/02/15/building-a-form-handler-service-in-openwhisk-part-two

@@ -2,7 +2,7 @@
 layout: post
 title: "Is this too much? (Change to Contact form)"
 date: "2009-06-04T12:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2009/06/04/Is-this-too-much-Change-to-Contact-form

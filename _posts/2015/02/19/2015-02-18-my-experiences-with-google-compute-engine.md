@@ -2,7 +2,7 @@
 layout: post
 title: "My experiences with Google Compute Engine"
 date: "2015-02-19T10:58:37+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2015/02/19/my-experiences-with-google-compute-engine

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Accessing Application Variables set in Application.cfc"
 date: "2005-08-18T11:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/18/Ask-a-Jedi-Accessing-Application-Variables-set-in-Applicationcfc

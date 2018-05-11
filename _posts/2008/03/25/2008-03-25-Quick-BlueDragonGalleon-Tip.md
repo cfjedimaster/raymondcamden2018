@@ -2,7 +2,7 @@
 layout: post
 title: "Quick BlueDragon/Galleon Tip"
 date: "2008-03-25T11:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/03/25/Quick-BlueDragonGalleon-Tip

@@ -2,7 +2,7 @@
 layout: post
 title: "Harlan ColdFusion Ad Server Updated"
 date: "2006-01-27T17:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/01/27/Harlan-ColdFusion-Ad-Server-Updated

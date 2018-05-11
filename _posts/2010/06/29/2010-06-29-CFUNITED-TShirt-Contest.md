@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED T-Shirt Contest!"
 date: "2010-06-29T14:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/06/29/CFUNITED-TShirt-Contest

@@ -2,7 +2,7 @@
 layout: post
 title: "Open PhoneGap/Cordova Session next week"
 date: "2014-04-16T17:04:00+06:00"
-categories: HTML5 Mobile 
+categories: html5 mobile 
 tags: 
 banner_image: 
 permalink: /2014/04/16/Open-PhoneGapCordova-Session-next-week

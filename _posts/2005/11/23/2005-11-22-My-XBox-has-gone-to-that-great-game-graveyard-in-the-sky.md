@@ -2,7 +2,7 @@
 layout: post
 title: "My XBox has gone to that great game graveyard in the sky..."
 date: "2005-11-23T10:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/11/23/My-XBox-has-gone-to-that-great-game-graveyard-in-the-sky

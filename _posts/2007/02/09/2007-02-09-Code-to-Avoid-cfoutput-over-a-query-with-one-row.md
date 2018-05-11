@@ -2,7 +2,7 @@
 layout: post
 title: "Code to Avoid: cfoutput over a query with one row"
 date: "2007-02-09T15:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/02/09/Code-to-Avoid-cfoutput-over-a-query-with-one-row

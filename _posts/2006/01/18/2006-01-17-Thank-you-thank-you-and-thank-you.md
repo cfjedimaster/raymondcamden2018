@@ -2,7 +2,7 @@
 layout: post
 title: "Thank you, thank you, and thank you..."
 date: "2006-01-18T09:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/01/18/Thank-you-thank-you-and-thank-you

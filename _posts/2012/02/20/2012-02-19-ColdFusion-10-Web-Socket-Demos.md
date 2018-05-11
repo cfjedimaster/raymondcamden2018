@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 10 Web Socket Demos"
 date: "2012-02-20T09:02:00+06:00"
-categories: ColdFusion Development HTML5 JavaScript jQuery 
+categories: coldfusion development html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/02/20/ColdFusion-10-Web-Socket-Demos

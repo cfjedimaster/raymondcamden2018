@@ -2,7 +2,7 @@
 layout: post
 title: "Presenting tomorrow: Flex 4.5 and ColdFusion"
 date: "2011-06-22T22:06:00+06:00"
-categories: ColdFusion Flex Mobile 
+categories: coldfusion flex mobile 
 tags: 
 banner_image: 
 permalink: /2011/06/22/Presenting-tomorrow-Flex-45-and-ColdFusion

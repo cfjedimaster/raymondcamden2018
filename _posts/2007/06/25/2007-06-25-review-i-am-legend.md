@@ -2,7 +2,7 @@
 layout: post
 title: "Review: I Am Legend"
 date: "2007-06-25T12:06:00+06:00"
-categories: Books 
+categories: books 
 tags: 
 banner_image: 
 permalink: /2007/06/25/review-i-am-legend

@@ -2,8 +2,8 @@
 layout: post
 title: "Review: Building Progressive Web Apps"
 date: "2017-10-16T09:24:00-07:00"
-categories: Development JavaScript Books 
-tags: JavaScript
+categories: development javascript books 
+tags: javascript
 banner_image: 
 permalink: /2017/10/16/review-building-progressive-web-apps
 ---

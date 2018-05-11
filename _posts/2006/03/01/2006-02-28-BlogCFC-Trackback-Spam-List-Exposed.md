@@ -2,7 +2,7 @@
 layout: post
 title: "BlogCFC Trackback Spam List Exposed!"
 date: "2006-03-01T10:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/03/01/BlogCFC-Trackback-Spam-List-Exposed

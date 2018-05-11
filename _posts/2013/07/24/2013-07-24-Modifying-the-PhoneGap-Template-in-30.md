@@ -2,7 +2,7 @@
 layout: post
 title: "Modifying the PhoneGap Template in 3.0"
 date: "2013-07-24T13:07:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2013/07/24/Modifying-the-PhoneGap-Template-in-30

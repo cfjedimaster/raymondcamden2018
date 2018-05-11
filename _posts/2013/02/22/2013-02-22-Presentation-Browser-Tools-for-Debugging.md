@@ -2,7 +2,7 @@
 layout: post
 title: "Presentation: Browser Tools for Debugging"
 date: "2013-02-22T15:02:00+06:00"
-categories: Development HTML5 JavaScript jQuery Mobile 
+categories: development html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2013/02/22/Presentation-Browser-Tools-for-Debugging

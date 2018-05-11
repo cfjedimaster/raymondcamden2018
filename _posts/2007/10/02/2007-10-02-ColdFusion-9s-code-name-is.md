@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9's code name is..."
 date: "2007-10-02T15:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/10/02/ColdFusion-9s-code-name-is

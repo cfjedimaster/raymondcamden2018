@@ -2,7 +2,7 @@
 layout: post
 title: "A quick look at debugging Node.js with StrongLoop and Visual Studio Code"
 date: "2015-10-28T15:01:28+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: strongloop
 banner_image: 
 permalink: /2015/10/28/a-quick-look-at-debugging-node-js-with-strongloop-and-visual-studio-code

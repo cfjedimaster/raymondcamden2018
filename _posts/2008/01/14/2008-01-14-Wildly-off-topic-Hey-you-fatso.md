@@ -2,7 +2,7 @@
 layout: post
 title: "Wildly off topic - Hey you, fatso!"
 date: "2008-01-14T13:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/01/14/Wildly-off-topic-Hey-you-fatso

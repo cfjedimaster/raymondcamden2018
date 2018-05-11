@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Adding additional text to a CFCHART"
 date: "2010-01-25T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/01/25/Ask-a-Jedi-Adding-additional-text-to-a-CFCHART

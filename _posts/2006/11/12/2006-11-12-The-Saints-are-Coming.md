@@ -2,7 +2,7 @@
 layout: post
 title: "The Saints are Coming"
 date: "2006-11-12T22:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/11/12/The-Saints-are-Coming

@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Text-Based Adventure in Vue.js (2)"
 date: "2018-02-15"
-categories: JavaScript 
+categories: javascript 
 tags: vuejs
 banner_image: /images/banners/cavegame.jpg
 permalink: /2018/02/15/building-a-text-based-adventure-in-vuejs-2

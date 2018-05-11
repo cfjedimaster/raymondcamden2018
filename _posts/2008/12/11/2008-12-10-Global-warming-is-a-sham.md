@@ -2,7 +2,7 @@
 layout: post
 title: "Global warming is a sham!"
 date: "2008-12-11T09:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/12/11/Global-warming-is-a-sham

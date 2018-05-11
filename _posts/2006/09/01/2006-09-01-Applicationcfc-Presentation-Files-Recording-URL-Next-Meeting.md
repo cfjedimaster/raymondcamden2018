@@ -2,7 +2,7 @@
 layout: post
 title: "Application.cfc Presentation Files + Recording URL + Next Meeting"
 date: "2006-09-01T12:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/01/Applicationcfc-Presentation-Files-Recording-URL-Next-Meeting

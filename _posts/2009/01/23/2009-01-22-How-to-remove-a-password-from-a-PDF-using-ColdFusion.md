@@ -2,7 +2,7 @@
 layout: post
 title: "How to remove a password from a PDF using ColdFusion"
 date: "2009-01-23T10:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/01/23/How-to-remove-a-password-from-a-PDF-using-ColdFusion

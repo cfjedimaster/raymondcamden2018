@@ -2,7 +2,7 @@
 layout: post
 title: "Programmatically select a row in CFGRID"
 date: "2011-04-12T19:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/04/12/Programmatically-select-a-row-in-CFGRID

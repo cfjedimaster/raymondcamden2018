@@ -2,7 +2,7 @@
 layout: post
 title: "BSG Versus Lost"
 date: "2006-07-19T23:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/19/BSG-Versus-Lost

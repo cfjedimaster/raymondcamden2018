@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: ColdFusion 8 Ajax Features and JavaScript Detection"
 date: "2008-03-13T17:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2008/03/13/Ask-a-Jedi-ColdFusion-8-Ajax-Features-and-JavaScript-Detection

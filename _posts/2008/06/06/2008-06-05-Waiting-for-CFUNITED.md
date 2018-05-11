@@ -2,7 +2,7 @@
 layout: post
 title: "Waiting for CFUNITED"
 date: "2008-06-06T08:06:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/06/06/Waiting-for-CFUNITED

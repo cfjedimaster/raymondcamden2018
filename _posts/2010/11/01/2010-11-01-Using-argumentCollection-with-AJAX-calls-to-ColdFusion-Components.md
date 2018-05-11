@@ -2,7 +2,7 @@
 layout: post
 title: "Using argumentCollection with AJAX calls to ColdFusion Components"
 date: "2010-11-01T23:11:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/11/01/Using-argumentCollection-with-AJAX-calls-to-ColdFusion-Components

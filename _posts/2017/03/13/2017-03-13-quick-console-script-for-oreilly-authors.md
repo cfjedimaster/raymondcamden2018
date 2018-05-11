@@ -2,7 +2,7 @@
 layout: post
 title: "Quick console script for O'Reilly Authors"
 date: "2017-03-13T17:04:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2017/03/13/quick-console-script-for-oreilly-authors

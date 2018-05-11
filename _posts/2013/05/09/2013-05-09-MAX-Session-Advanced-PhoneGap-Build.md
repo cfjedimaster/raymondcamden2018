@@ -2,7 +2,7 @@
 layout: post
 title: "MAX Session: Advanced PhoneGap Build"
 date: "2013-05-09T23:05:00+06:00"
-categories: HTML5 Mobile 
+categories: html5 mobile 
 tags: 
 banner_image: 
 permalink: /2013/05/09/MAX-Session-Advanced-PhoneGap-Build

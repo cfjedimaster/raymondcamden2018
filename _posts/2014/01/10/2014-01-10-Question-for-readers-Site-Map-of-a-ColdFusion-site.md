@@ -2,7 +2,7 @@
 layout: post
 title: "Question for readers: Site Map of a ColdFusion site?"
 date: "2014-01-10T13:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/01/10/Question-for-readers-Site-Map-of-a-ColdFusion-site

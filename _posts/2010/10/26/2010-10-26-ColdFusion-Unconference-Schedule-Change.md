@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Unconference - Schedule Change"
 date: "2010-10-26T20:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/10/26/ColdFusion-Unconference-Schedule-Change

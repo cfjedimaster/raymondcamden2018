@@ -2,7 +2,7 @@
 layout: post
 title: "(Yet Another) Waste of time..."
 date: "2006-03-27T08:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/03/27/Yet-Another-Waste-of-time

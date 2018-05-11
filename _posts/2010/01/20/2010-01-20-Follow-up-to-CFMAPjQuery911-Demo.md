@@ -2,7 +2,7 @@
 layout: post
 title: "Follow up to CFMAP/jQuery/911 Demo"
 date: "2010-01-20T18:01:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/01/20/Follow-up-to-CFMAPjQuery911-Demo

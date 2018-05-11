@@ -2,7 +2,7 @@
 layout: post
 title: "cfchart and non-American locales"
 date: "2011-05-19T14:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/05/19/cfchart-and-nonAmerican-locales

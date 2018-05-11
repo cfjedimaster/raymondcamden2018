@@ -2,7 +2,7 @@
 layout: post
 title: "A simple RSS reader in NativeScript"
 date: "2016-05-23T07:17:00-07:00"
-categories: Development Mobile 
+categories: development mobile 
 tags: nativescript
 banner_image: 
 permalink: /2016/05/23/a-simple-rss-reader-in-nativescript

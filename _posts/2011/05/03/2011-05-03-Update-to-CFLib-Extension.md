@@ -2,7 +2,7 @@
 layout: post
 title: "Update to CFLib Extension"
 date: "2011-05-03T19:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/05/03/Update-to-CFLib-Extension

@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at cfObjective 2010"
 date: "2010-01-06T15:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2010/01/06/Speaking-at-cfObjective-2010

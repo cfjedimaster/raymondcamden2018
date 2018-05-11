@@ -2,7 +2,7 @@
 layout: post
 title: "How to tell if a Cordova application is running in the simulator"
 date: "2015-11-30T16:04:19+06:00"
-categories: JavaScript Mobile 
+categories: javascript mobile 
 tags: cordova
 banner_image: 
 permalink: /2015/11/30/how-to-tell-if-a-cordova-application-is-running-in-the-simulator

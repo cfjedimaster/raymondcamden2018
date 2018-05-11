@@ -2,7 +2,7 @@
 layout: post
 title: "CFBL Initial Stats"
 date: "2008-01-15T09:01:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/01/15/CFBL-Initial-Stats

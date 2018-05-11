@@ -2,7 +2,7 @@
 layout: post
 title: "Do you monitor your site feedback?"
 date: "2006-05-30T10:05:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/05/30/Do-you-monitor-your-site-feedback

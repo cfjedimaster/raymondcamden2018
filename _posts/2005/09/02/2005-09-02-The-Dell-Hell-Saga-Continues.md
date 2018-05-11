@@ -2,7 +2,7 @@
 layout: post
 title: "The Dell Hell Saga Continues..."
 date: "2005-09-02T17:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/02/The-Dell-Hell-Saga-Continues

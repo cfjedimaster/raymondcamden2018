@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion and Pagination - Six Years Later"
 date: "2012-06-22T17:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/06/22/ColdFusion-and-Pagination-Six-Years-Later

@@ -2,7 +2,7 @@
 layout: post
 title: "You Need TV (Really)"
 date: "2005-10-23T10:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/10/23/You-Need-TV-Really

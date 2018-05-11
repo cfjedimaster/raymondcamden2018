@@ -2,7 +2,7 @@
 layout: post
 title: "Mac Goodness"
 date: "2005-08-15T16:08:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/08/15/Mac-Goodness

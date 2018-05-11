@@ -2,8 +2,8 @@
 layout: post
 title: "Working with OpenWhisk Triggers"
 date: "2017-02-02T15:03:00-07:00"
-categories: Serverless 
-tags: OpenWhisk
+categories: serverless 
+tags: openwhisk
 banner_image: /images/banners/openwhisk_triggers.jpg
 permalink: /2017/02/02/working-with-openwhisk-triggers
 ---

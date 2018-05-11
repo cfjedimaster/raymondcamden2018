@@ -2,7 +2,7 @@
 layout: post
 title: "Getting additional machine information in ColdFusion"
 date: "2011-01-30T15:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/01/30/Getting-additional-machine-information-in-ColdFusion

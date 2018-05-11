@@ -2,7 +2,7 @@
 layout: post
 title: "IE7 Beta 2 Ready"
 date: "2006-01-31T16:01:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2006/01/31/IE7-Beta-2-Ready

@@ -2,7 +2,7 @@
 layout: post
 title: "Webinar next week on Browser Dev Tools"
 date: "2016-03-09T07:23:00-07:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2016/03/09/webinar-next-week-on-browser-dev-tools

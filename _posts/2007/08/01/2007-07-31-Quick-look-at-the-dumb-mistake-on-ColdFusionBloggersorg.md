@@ -2,7 +2,7 @@
 layout: post
 title: "Quick - look at the dumb mistake on ColdFusionBloggers.org"
 date: "2007-08-01T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/08/01/Quick-look-at-the-dumb-mistake-on-ColdFusionBloggersorg

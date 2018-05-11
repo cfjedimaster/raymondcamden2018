@@ -2,7 +2,7 @@
 layout: post
 title: "Site launched - TipBin.com"
 date: "2007-09-07T18:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/09/07/Site-launched-TipBincom

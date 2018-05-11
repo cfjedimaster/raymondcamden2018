@@ -2,7 +2,7 @@
 layout: post
 title: "Code School Kicks Butt"
 date: "2013-04-28T12:04:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/04/28/Code-School-Kicks-Butt

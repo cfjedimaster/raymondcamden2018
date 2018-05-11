@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Security Checklist"
 date: "2006-06-16T08:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/16/ColdFusion-Security-Checklist

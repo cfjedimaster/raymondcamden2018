@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamically changing jQuery Mobile Buttons"
 date: "2012-06-26T18:06:00+06:00"
-categories: Development JavaScript jQuery Mobile 
+categories: development javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2012/06/26/Dynamically-changing-jQuery-Mobile-Buttons

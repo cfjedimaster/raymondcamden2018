@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring ColdFusion Builder's Services Browser"
 date: "2010-02-26T13:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/02/26/Exploring-ColdFusion-Builders-Services-Browser

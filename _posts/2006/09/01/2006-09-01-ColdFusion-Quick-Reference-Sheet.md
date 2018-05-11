@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Quick Reference Sheet"
 date: "2006-09-01T17:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/01/ColdFusion-Quick-Reference-Sheet

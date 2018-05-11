@@ -2,7 +2,7 @@
 layout: post
 title: "Autosuggest in Spry - Working with ColdFusion"
 date: "2007-05-22T10:05:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/05/22/Autosuggest-in-Spry-Working-with-ColdFusion

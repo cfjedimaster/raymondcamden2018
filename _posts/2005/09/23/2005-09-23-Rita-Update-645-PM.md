@@ -2,7 +2,7 @@
 layout: post
 title: "Rita Update 6:45 PM"
 date: "2005-09-23T20:09:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/09/23/Rita-Update-645-PM

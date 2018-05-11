@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 10 REST and Self-Documentation"
 date: "2012-12-06T09:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/12/06/ColdFusion-10-REST-and-SelfDocumentation

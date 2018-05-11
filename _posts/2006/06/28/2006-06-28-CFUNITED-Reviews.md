@@ -2,7 +2,7 @@
 layout: post
 title: "CFUNITED Reviews"
 date: "2006-06-28T12:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/06/28/CFUNITED-Reviews

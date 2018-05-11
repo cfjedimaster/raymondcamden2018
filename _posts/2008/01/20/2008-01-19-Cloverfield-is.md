@@ -2,7 +2,7 @@
 layout: post
 title: "Cloverfield is..."
 date: "2008-01-20T10:01:00+06:00"
-categories: Movies 
+categories: movies 
 tags: 
 banner_image: 
 permalink: /2008/01/20/Cloverfield-is

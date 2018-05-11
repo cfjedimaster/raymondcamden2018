@@ -2,7 +2,7 @@
 layout: post
 title: "Trip report and review of CFUNITED/Express"
 date: "2007-03-09T08:03:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2007/03/09/Trip-report-and-review-of-CFUNITEDExpress

@@ -2,7 +2,7 @@
 layout: post
 title: "Sunday Mega Video Game Review"
 date: "2012-11-25T14:11:00+06:00"
-categories: Video Games 
+categories: video games 
 tags: 
 banner_image: 
 permalink: /2012/11/25/sunday-mega-video-game-review

@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: cfupdate versus cfquery"
 date: "2006-08-09T10:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/09/Ask-a-Jedi-cfupdate-versus-cfquery

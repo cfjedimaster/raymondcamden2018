@@ -2,7 +2,7 @@
 layout: post
 title: "Big updates to Apache Cordova"
 date: "2015-04-21T22:46:46+06:00"
-categories: Development JavaScript Mobile 
+categories: development javascript mobile 
 tags: 
 banner_image: 
 permalink: /2015/04/21/big-updates-to-apache-cordova

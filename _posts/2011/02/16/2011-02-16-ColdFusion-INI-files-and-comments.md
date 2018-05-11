@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion, INI files, and comments"
 date: "2011-02-16T18:02:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/02/16/ColdFusion-INI-files-and-comments

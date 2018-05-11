@@ -2,7 +2,7 @@
 layout: post
 title: "Proof of Concept - Updating news items dynamically"
 date: "2012-07-02T11:07:00+06:00"
-categories: HTML5 JavaScript jQuery 
+categories: html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/07/02/Proof-of-Concept-Updating-news-items-dynamically

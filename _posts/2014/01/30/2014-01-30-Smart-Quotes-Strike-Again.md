@@ -2,7 +2,7 @@
 layout: post
 title: "Smart Quotes Strike Again"
 date: "2014-01-30T21:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/01/30/Smart-Quotes-Strike-Again

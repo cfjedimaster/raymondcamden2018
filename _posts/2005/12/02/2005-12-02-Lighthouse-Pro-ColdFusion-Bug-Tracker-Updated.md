@@ -2,7 +2,7 @@
 layout: post
 title: "Lighthouse Pro (ColdFusion Bug Tracker) Updated"
 date: "2005-12-02T17:12:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2005/12/02/Lighthouse-Pro-ColdFusion-Bug-Tracker-Updated

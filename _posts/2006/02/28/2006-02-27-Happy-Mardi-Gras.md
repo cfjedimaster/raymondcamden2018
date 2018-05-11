@@ -2,7 +2,7 @@
 layout: post
 title: "Happy Mardi Gras!"
 date: "2006-02-28T09:02:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/02/28/Happy-Mardi-Gras

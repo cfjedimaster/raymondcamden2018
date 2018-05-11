@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting CFQUERY Bug"
 date: "2009-08-11T16:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/08/11/Interesting-CFQUERY-Bug

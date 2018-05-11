@@ -2,7 +2,7 @@
 layout: post
 title: "WebCharts3D Editor in Eclipse"
 date: "2009-09-14T13:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/09/14/WebCharts3D-Editor-in-Eclipse

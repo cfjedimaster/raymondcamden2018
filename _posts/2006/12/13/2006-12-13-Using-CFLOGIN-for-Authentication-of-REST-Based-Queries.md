@@ -2,7 +2,7 @@
 layout: post
 title: "Using CFLOGIN for Authentication of REST Based Queries"
 date: "2006-12-13T16:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/12/13/Using-CFLOGIN-for-Authentication-of-REST-Based-Queries

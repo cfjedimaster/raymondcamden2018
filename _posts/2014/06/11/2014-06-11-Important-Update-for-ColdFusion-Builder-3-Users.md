@@ -2,7 +2,7 @@
 layout: post
 title: "Important Update for ColdFusion Builder 3 Users"
 date: "2014-06-11T11:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2014/06/11/Important-Update-for-ColdFusion-Builder-3-Users

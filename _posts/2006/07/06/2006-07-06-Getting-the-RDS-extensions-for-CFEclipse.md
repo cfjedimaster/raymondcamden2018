@@ -2,7 +2,7 @@
 layout: post
 title: "Getting the RDS extensions for CFEclipse"
 date: "2006-07-06T23:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/07/06/Getting-the-RDS-extensions-for-CFEclipse

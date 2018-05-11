@@ -2,7 +2,7 @@
 layout: post
 title: "Going to Germany for CFCAMP - but more importantly - what do I eat?"
 date: "2012-10-12T10:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2012/10/12/Going-to-Germany-for-CFCAMP-but-more-importantly-what-do-I-eat

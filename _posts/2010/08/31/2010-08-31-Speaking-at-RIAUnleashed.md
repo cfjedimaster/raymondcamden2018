@@ -2,7 +2,7 @@
 layout: post
 title: "Speaking at RIAUnleashed"
 date: "2010-08-31T13:08:00+06:00"
-categories: ColdFusion Flex 
+categories: coldfusion flex 
 tags: 
 banner_image: 
 permalink: /2010/08/31/Speaking-at-RIAUnleashed

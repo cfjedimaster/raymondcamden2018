@@ -2,7 +2,7 @@
 layout: post
 title: "An Introduction to jQuery and Form Validation"
 date: "2009-02-09T15:02:00+06:00"
-categories: jQuery 
+categories: jquery 
 tags: 
 banner_image: 
 permalink: /2009/02/09/An-introduction-to-jQuery-and-Form-Validation

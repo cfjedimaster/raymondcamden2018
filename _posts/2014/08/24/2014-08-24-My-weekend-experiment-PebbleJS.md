@@ -2,7 +2,7 @@
 layout: post
 title: "My weekend experiment - PebbleJS"
 date: "2014-08-24T14:08:00+06:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: 
 banner_image: 
 permalink: /2014/08/24/My-weekend-experiment-PebbleJS

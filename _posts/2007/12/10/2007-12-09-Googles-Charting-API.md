@@ -2,7 +2,7 @@
 layout: post
 title: "Google's Charting API"
 date: "2007-12-10T11:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/12/10/Googles-Charting-API

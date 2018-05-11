@@ -2,7 +2,7 @@
 layout: post
 title: "Example of invokeAndPublish with WebSockets and ColdFusion 10"
 date: "2012-05-11T15:05:00+06:00"
-categories: ColdFusion HTML5 JavaScript jQuery 
+categories: coldfusion html5 javascript jquery 
 tags: 
 banner_image: 
 permalink: /2012/05/11/Example-of-invokeAndPublish-with-WebSockets-and-ColdFusion-10

@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion Flash Forms File Upload Example"
 date: "2005-08-09T08:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2005/08/09/ColdFusion-Flash-Forms-File-Upload-Example

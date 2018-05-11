@@ -2,7 +2,7 @@
 layout: post
 title: "Galleon and Lighthouse Pro updates"
 date: "2010-03-30T00:03:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2010/03/29/Galleon-and-Lighthouse-Pro-updates

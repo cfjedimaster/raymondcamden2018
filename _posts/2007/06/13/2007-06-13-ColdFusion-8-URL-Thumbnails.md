@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8: URL Thumbnails"
 date: "2007-06-13T14:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/13/ColdFusion-8-URL-Thumbnails

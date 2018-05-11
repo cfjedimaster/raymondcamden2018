@@ -2,7 +2,7 @@
 layout: post
 title: "Two project updates (Lighthouse Pro/toXML/Canvas)"
 date: "2006-09-18T22:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/09/18/Two-project-updates-Lighthouse-ProtoXMLCanvas

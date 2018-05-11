@@ -2,7 +2,7 @@
 layout: post
 title: "Components for script-based search, index, and collection"
 date: "2011-07-04T11:07:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/07/04/Components-for-scriptbased-search-index-and-collection

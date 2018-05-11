@@ -2,7 +2,7 @@
 layout: post
 title: "New POC - DailyReddit"
 date: "2016-07-05T11:31:00-07:00"
-categories: Development JavaScript 
+categories: development javascript 
 tags: nodejs
 banner_image: /images/banners/poc-dr1.jpg
 permalink: /2016/07/05/new-poc-dailyreddit

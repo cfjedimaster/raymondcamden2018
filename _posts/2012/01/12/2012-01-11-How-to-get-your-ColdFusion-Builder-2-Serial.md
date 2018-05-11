@@ -2,7 +2,7 @@
 layout: post
 title: "How to get your ColdFusion Builder 2 Serial"
 date: "2012-01-12T09:01:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2012/01/12/How-to-get-your-ColdFusion-Builder-2-Serial

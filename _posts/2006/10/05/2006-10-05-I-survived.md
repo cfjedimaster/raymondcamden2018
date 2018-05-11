@@ -2,7 +2,7 @@
 layout: post
 title: "I survived!"
 date: "2006-10-05T22:10:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/10/05/I-survived

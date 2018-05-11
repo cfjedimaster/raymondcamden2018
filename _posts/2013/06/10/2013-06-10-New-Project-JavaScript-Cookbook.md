@@ -2,7 +2,7 @@
 layout: post
 title: "New Project: JavaScript Cookbook"
 date: "2013-06-10T11:06:00+06:00"
-categories: Development 
+categories: development 
 tags: 
 banner_image: 
 permalink: /2013/06/10/New-Project-JavaScript-Cookbook

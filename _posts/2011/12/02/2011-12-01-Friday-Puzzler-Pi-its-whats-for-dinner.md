@@ -2,7 +2,7 @@
 layout: post
 title: "Friday Puzzler: Pi - it's what's for dinner"
 date: "2011-12-02T08:12:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/12/02/Friday-Puzzler-Pi-its-whats-for-dinner

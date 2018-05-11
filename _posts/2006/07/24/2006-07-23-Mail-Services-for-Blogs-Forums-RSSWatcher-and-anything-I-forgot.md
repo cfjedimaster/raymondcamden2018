@@ -2,7 +2,7 @@
 layout: post
 title: "Mail Services for Blogs, Forums, RSSWatcher (and anything I forgot)"
 date: "2006-07-24T01:07:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2006/07/24/Mail-Services-for-Blogs-Forums-RSSWatcher-and-anything-I-forgot

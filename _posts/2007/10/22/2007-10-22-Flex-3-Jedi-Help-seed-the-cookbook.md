@@ -2,7 +2,7 @@
 layout: post
 title: "Flex 3 Jedi? Help seed the cookbook!"
 date: "2007-10-22T12:10:00+06:00"
-categories: Flex 
+categories: flex 
 tags: 
 banner_image: 
 permalink: /2007/10/22/Flex-3-Jedi-Help-seed-the-cookbook

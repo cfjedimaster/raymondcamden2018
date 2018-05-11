@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion/jQuery/Yahoo Example"
 date: "2009-09-24T19:09:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2009/09/24/ColdFusionjQueryYahoo-Example

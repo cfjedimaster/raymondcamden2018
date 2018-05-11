@@ -2,7 +2,7 @@
 layout: post
 title: "Ask a Jedi: Tracking Users"
 date: "2006-08-21T09:08:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2006/08/21/Ask-a-Jedi-Tracking-Users

@@ -2,7 +2,7 @@
 layout: post
 title: "This weeks winner for the \"Bug you will never run into a million years\" award"
 date: "2011-06-24T18:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/06/24/This-weeks-winner-for-the-Bug-you-will-never-run-into-a-million-years-award

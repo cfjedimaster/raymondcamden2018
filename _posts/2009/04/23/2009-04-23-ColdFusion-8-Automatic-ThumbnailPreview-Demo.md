@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 8 - Automatic Thumbnail/Preview Demo"
 date: "2009-04-23T17:04:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/04/23/ColdFusion-8-Automatic-ThumbnailPreview-Demo

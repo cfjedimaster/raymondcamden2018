@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Parse.com User support to your PhoneGap application"
 date: "2012-10-31T12:10:00+06:00"
-categories: HTML5 JavaScript Mobile 
+categories: html5 javascript mobile 
 tags: 
 banner_image: 
 permalink: /2012/10/31/Adding-Parsecom-User-support-to-your-PhoneGap-application

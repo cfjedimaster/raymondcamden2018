@@ -2,7 +2,7 @@
 layout: post
 title: "Building an offline capable mobile web site with jQuery Mobile"
 date: "2011-03-12T14:03:00+06:00"
-categories: HTML5 JavaScript jQuery Mobile 
+categories: html5 javascript jquery mobile 
 tags: 
 banner_image: 
 permalink: /2011/03/12/Building-an-offline-capable-mobile-web-site-with-jQuery-Mobile

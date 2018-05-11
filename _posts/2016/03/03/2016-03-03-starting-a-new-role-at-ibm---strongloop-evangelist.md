@@ -2,7 +2,7 @@
 layout: post
 title: "Starting a new role at IBM - StrongLoop Evangelist"
 date: "2016-03-03T09:09:00-07:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: /images/banners/strongloop_ibm.png
 permalink: /2016/03/03/starting-a-new-role-at-ibm-strongloop-evangelist

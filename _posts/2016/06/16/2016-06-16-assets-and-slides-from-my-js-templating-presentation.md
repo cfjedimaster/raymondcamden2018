@@ -2,7 +2,7 @@
 layout: post
 title: "Assets and slides from my JS Templating Presentation"
 date: "2016-06-16T10:35:00-07:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2016/06/16/assets-and-slides-from-my-js-templating-presentation

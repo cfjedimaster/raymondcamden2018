@@ -2,7 +2,7 @@
 layout: post
 title: "Adding a preview to CFFILEUPLOAD"
 date: "2010-03-29T20:03:00+06:00"
-categories: ColdFusion jQuery 
+categories: coldfusion jquery 
 tags: 
 banner_image: 
 permalink: /2010/03/29/Adding-a-preview-to-CFFILEUPLOAD

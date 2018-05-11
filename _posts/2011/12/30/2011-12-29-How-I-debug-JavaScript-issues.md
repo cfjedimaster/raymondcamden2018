@@ -2,7 +2,7 @@
 layout: post
 title: "How I debug JavaScript issues"
 date: "2011-12-30T11:12:00+06:00"
-categories: JavaScript 
+categories: javascript 
 tags: 
 banner_image: 
 permalink: /2011/12/30/How-I-debug-JavaScript-issues

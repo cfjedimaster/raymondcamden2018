@@ -2,7 +2,7 @@
 layout: post
 title: "Testing the New Ionic User Service"
 date: "2016-03-28T10:26:00-07:00"
-categories: Mobile 
+categories: mobile 
 tags: ionic
 banner_image: /images/banners/ionicuserservice.png
 permalink: /2016/03/28/tesing-the-new-ionic-user-service

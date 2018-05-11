@@ -2,7 +2,7 @@
 layout: post
 title: "Safe and Sound in the Big City"
 date: "2008-11-16T17:11:00+06:00"
-categories: Misc 
+categories: misc 
 tags: 
 banner_image: 
 permalink: /2008/11/16/Safe-and-Sound-in-the-Big-City

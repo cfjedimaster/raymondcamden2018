@@ -2,7 +2,7 @@
 layout: post
 title: "Quick example of CFTHREAD - and a warning"
 date: "2007-06-21T23:06:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2007/06/21/Quick-examlpe-of-CFTHREAD-and-a-warning

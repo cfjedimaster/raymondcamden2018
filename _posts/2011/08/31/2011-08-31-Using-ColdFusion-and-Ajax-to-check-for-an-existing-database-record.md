@@ -2,7 +2,7 @@
 layout: post
 title: "Using ColdFusion and Ajax to check for an existing database record"
 date: "2011-09-01T00:09:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2011/08/31/Using-ColdFusion-and-Ajax-to-check-for-an-existing-database-record

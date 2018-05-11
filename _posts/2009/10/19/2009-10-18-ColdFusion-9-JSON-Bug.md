@@ -2,7 +2,7 @@
 layout: post
 title: "ColdFusion 9 JSON Bug"
 date: "2009-10-19T08:10:00+06:00"
-categories: ColdFusion 
+categories: coldfusion 
 tags: 
 banner_image: 
 permalink: /2009/10/19/ColdFusion-9-JSON-Bug
