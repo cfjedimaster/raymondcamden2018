@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/11/10/Sponsored-Post-ReviewMe-Review
+guid: 1648
 ---
 
 I've been using <a href="http://www.text-link-ads.com">Text Link Ads</a> on my site for a while now. I don't know if my readers notice them, but they are the small, text based (imagine that) ads to the right of the browser. About a week ago I got an invite to join <a href="http://www.reviewme.com">ReviewMe</a>. The concept is simple:

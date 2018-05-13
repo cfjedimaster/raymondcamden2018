@@ -6,6 +6,7 @@ categories: [music]
 tags: []
 banner_image: 
 permalink: /2006/05/26/Pandora-a-music-lovers-treat
+guid: 1298
 ---
 
 I'm probably the last one to know about this (and when I read about this morning, I remember someone showing it to me earlier), but if you like online music radio, you should consider <a href="http://www.pandora.com">Pandora</a>. It is a free service that builds stations built around your tastes. 

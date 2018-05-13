@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/19/Reminder-on-CFLOGON-and-Web-Based-Security
+guid: 1482
 ---
 
 I <a href="http://ray.camdenfamily.com/index.cfm?mode=entry&entry=93DF9C26-E949-7552-0FD3D62E488E25AB">blogged </a> about this way back in 04, but I had a client who ran into this yesterday and lost a good few days trying to debug. 

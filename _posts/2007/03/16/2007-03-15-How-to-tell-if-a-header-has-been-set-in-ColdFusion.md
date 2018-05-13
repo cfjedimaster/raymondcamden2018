@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/16/How-to-tell-if-a-header-has-been-set-in-ColdFusion
+guid: 1896
 ---
 
 Here is an interesting question - how do you determine if something has been added to the response header? I needed to know this because of an bug in <a href="http://coldfire.riaforge.org">ColdFire</a> where cflocation stopped working when ColdFire was used. Turns out that when you use cflocation, the debug template is still executed. I'm not sure why the template still runs - but when my code set information in the header, it apparently broke the data that cflocation had also set in the header. So obviously I needed to see if a cflocation header existed - and if so - suppress ColdFire. Easy, right?

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/01/31/Modifying-the-PhoneGap-Template-in-33-and-higher
+guid: 5141
 ---
 
 <p>

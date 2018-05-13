@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/02/Foundeo-releases-ColdFusion-Web-Application-Firewall
+guid: 3302
 ---
 
 Got an email a few minutes ago from Foundeo announcing their <a href="http://foundeo.com/security/">new firewall</a> product written completely in ColdFusion. Stealing a bit from their email to me, features include:

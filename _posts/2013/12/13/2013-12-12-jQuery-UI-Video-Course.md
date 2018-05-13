@@ -6,6 +6,7 @@ categories: [development,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2013/12/13/jQuery-UI-Video-Course
+guid: 5100
 ---
 
 <p>

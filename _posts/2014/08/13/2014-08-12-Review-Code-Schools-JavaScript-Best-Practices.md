@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/08/13/Review-Code-Schools-JavaScript-Best-Practices
+guid: 5286
 ---
 
 <p>

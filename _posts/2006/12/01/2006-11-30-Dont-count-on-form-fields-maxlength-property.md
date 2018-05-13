@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2006/12/01/Dont-count-on-form-fields-maxlength-property
+guid: 1687
 ---
 
 I've talked about this before, but don't count on maxlength in your form fields. Why? Because it is trivial to turn them off using Firefox's Web Developer toolbar extension. I was looking at a ColdFusion based shopping cart solution today, and noticed that when I did this to their cart display, I was able to enter a huge number for the line item. What was my final line item price?

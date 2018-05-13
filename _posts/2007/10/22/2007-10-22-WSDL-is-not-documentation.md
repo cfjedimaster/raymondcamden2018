@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/22/WSDL-is-not-documentation
+guid: 2429
 ---
 
 Rant Mode On...

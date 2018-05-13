@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2014/01/21/Experience-converting-a-dynamic-site-to-static-with-HarpJS
+guid: 5134
 ---
 
 <p>

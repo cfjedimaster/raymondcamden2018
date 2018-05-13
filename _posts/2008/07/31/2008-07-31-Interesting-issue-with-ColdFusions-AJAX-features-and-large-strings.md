@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/31/Interesting-issue-with-ColdFusions-AJAX-features-and-large-strings
+guid: 2950
 ---
 
 I was speaking with <a href="http://www.alagad.com">Doug Hughes</a> earlier today about an interesting issue he ran into. He had a cfdiv bound to a CFC method like so:

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2011/02/17/When-using-ANT-to-write-to-the-file-system-specify-a-file
+guid: 4128
 ---
 
 This is my weekly contribution to the "Stupid Developer of the Week" award. I spent the last hour or so trying to diagnose why my ANT script couldn't write to my file system. Apparently there is some Windows 7 bug where folders are marked Read Only and you can't clear it. So despite my ANT script's ability to make a folder I kept getting "Access is denied" errors when it tried to write into the folder. Here is the code I used.

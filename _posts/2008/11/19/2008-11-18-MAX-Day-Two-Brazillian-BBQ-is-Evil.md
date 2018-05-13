@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/11/19/MAX-Day-Two-Brazillian-BBQ-is-Evil
+guid: 3113
 ---
 
 So once again, my summary post is late due to a very full day at MAX, oh and that 20 pounds of meat last night at <a hef="http://www.espetus.com/">Espetus</a> didn't help either. 

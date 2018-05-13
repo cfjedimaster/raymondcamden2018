@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/21/Database-Explorer-Updated
+guid: 2363
 ---
 
 Ben Forta sent in some nice updates to the <a href="http://cfdbexplorer.riaforge.org/">ColdFusion Database Explorer</a>. I've added these to the download. The new features include the ability to hide views (which really helps on SQL Server) and metadata about query results, as seen below:

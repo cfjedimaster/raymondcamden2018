@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/08/28/Spry-Detail-Regions-and-hiding-content-until-a-click
+guid: 2993
 ---
 
 That's not a great title up there, but I worked with a reader this week on an interesting problem with Spry. The issue seemed simple enough. How do you hide a detail region until the user actually selects a row in a data set? Turns out though that this is more difficult then it seems.

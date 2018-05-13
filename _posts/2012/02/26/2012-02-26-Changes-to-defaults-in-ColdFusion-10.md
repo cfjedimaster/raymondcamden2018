@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/26/Changes-to-defaults-in-ColdFusion-10
+guid: 4538
 ---
 
 Along with new features, ColdFusion 10 also offers some good changes to defaults. You may not agree with these changes, so review them carefully to ensure they mesh with your development rules.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/19/Interesting-Verity-Bug
+guid: 1111
 ---
 
 I ran into an interesting issue with Verity today. I was working on the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> today and noticed something odd. When I did a search for file, one of the entries had this for a title: Cached File Example

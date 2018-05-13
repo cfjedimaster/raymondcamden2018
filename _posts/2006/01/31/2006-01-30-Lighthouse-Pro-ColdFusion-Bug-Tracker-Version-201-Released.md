@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/31/Lighthouse-Pro-ColdFusion-Bug-Tracker-Version-201-Released
+guid: 1069
 ---
 
 A few minor updates to <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a> have been released this morning:

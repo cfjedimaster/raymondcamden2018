@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/11/02/Seeing-two-geolocation-prompts-in-a-PhoneGapCordova-application
+guid: 5076
 ---
 
 <p>

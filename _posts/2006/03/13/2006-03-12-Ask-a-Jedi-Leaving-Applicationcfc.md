@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/13/Ask-a-Jedi-Leaving-Applicationcfc
+guid: 1147
 ---
 
 It's not quite like leaving Las Vegas, but Marco had this question:

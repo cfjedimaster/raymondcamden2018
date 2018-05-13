@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/21/CFMenu-CSS-Hacking-with-Daniel-Budde-II
+guid: 2139
 ---
 
 I don't normally do "Guest Posts", but Daniel and I were talking about some hacking with CFMENU and CSS. He came up with some interesting findings and as he doesn't have a blog (hey Daniel, I know a good <a href="http://www.blogcfc.com">one</a>!) I offered to post his findings here. Everything that follows is his work.

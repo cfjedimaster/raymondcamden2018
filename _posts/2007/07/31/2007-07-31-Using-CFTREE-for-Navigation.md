@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/31/Using-CFTREE-for-Navigation
+guid: 2238
 ---
 
 A user on cf-talk today asked if it was possible to use ColdFusion 8's new HTML CFTREE as a navigation tool. Turns out it is rather simple, and like most things in ColdFusion, there are multiple solutions.

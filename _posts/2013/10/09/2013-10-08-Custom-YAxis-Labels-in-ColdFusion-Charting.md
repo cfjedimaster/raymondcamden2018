@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/10/09/Custom-YAxis-Labels-in-ColdFusion-Charting
+guid: 5056
 ---
 
 <p>

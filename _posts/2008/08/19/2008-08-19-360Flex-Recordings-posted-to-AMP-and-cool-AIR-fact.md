@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/08/19/360Flex-Recordings-posted-to-AMP-and-cool-AIR-fact
+guid: 2978
 ---
 
 Ted pinged me earlier today to let me know that the first 5 sessions from 360|Flex are available via AMP (Adobe Media Player). You can find more information at his blog post:

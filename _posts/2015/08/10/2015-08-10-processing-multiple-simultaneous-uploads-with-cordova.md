@@ -6,6 +6,7 @@ categories: [development,javascript,jquery,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/08/10/processing-multiple-simultaneous-uploads-with-cordova
+guid: 6619
 ---
 
 I forget where, but a user on one of my posts recently asked about handling multiple uploads with Cordova, so I thought I'd whip up a quick demo. As always, the code below is all on GitHub (link will be at the bottom), so you can skip my post completely and just grab the bits if you want.

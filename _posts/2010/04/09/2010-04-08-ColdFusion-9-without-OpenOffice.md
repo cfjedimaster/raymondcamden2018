@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/09/ColdFusion-9-without-OpenOffice
+guid: 3776
 ---
 
 Daniel emailed me yesterday with the following question:

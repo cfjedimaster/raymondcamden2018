@@ -6,6 +6,7 @@ categories: [design,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/21/Edge-Animate-30
+guid: 5133
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/04/10/Recording-and-demos-from-my-ColdFusion-11-presentation
+guid: 5197
 ---
 
 <p>

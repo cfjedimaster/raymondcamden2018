@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/05/I-survived
+guid: 1568
 ---
 
 I've been up since 3AM but I am now back from Atlanta. I'm about 100+ emails behind so please do not expect quick responses if you sent in a support request. I'm not really going to be "back" until Sunday so as I've said - things will be quiet here.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/02/CFAbort-Still-Firing-onError
+guid: 894
 ---
 
 So, at MAX I spoke about how cflocation and cfabort could fire the onError method in your Application.cfc error. I could have sworn this was all fixed up in 7.0.1, however, I'm seeing it fire again when I use code like so in my onRequestStart:

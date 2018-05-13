@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/04/Ask-a-Jedi-Using-onError-to-Mail-the-Errror
+guid: 1007
 ---
 
 A reader asks:

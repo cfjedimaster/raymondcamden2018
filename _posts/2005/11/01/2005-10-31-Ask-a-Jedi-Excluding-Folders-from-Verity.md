@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/01/Ask-a-Jedi-Excluding-Folders-from-Verity
+guid: 886
 ---
 
 A user asked this question about Verity:

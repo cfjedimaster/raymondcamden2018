@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/18/Ask-a-Jedi-ColdFusion-and-PGP
+guid: 711
 ---
 
 Bob asks:

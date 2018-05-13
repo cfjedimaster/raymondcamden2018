@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/17/Ask-a-Jedi-Controlling-the-size-of-bars-in-cfchart
+guid: 2974
 ---
 
 Su asks:

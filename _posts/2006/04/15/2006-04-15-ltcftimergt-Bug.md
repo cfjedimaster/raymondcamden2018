@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/15/ltcftimergt-Bug
+guid: 1215
 ---
 
 I ran into a little bug today with <a href="http://www.techfeed.net/cfQuickDocs/?cftimer">cftimer</a>. I was using the inline mode which is supposed to report the time right where the code was ran. However, nothing showed up. 

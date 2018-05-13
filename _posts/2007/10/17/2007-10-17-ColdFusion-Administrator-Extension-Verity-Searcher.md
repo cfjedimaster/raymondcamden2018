@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/17/ColdFusion-Administrator-Extension-Verity-Searcher
+guid: 2420
 ---
 
 I wrote a handy little tool today. Drop the zip into your ColdFusion Administrator folder, edit the custommenu.xml file to point to it, and you've now got a simple tool to let you run test searches against Verity collections. Here is a screen shot:

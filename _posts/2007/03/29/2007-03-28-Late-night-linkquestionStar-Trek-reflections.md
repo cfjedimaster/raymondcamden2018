@@ -6,6 +6,7 @@ categories: [coldfusion,misc]
 tags: []
 banner_image: 
 permalink: /2007/03/29/Late-night-linkquestionStar-Trek-reflections
+guid: 1928
 ---
 
 I'm tired so I'm going to combine a few things into one blog entry.

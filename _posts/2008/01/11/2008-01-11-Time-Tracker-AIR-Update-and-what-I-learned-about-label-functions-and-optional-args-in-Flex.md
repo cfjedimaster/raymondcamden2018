@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/01/11/Time-Tracker-AIR-Update-and-what-I-learned-about-label-functions-and-optional-args-in-Flex
+guid: 2587
 ---
 
 I've got a big update to the my little Time Tracker AIR application, thanks mostly to <a href="http://www.kylehayes.info/blog/">Kyle Hayes</a>. He gave some UI loving to the app - see below:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/09/07/Site-launched-TipBincom
+guid: 2328
 ---
 
 Christian Cantrell (Technical Product Manager for AIR) just launched a new site (not Adobe related) called <a

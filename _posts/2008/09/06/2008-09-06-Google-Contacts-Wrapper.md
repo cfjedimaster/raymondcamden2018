@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/06/Google-Contacts-Wrapper
+guid: 3002
 ---
 
 Earlier today a user asked if I knew anything about reading Google contact information. I wasn't aware of an API for this, but turns out, one did exist (<a href="http://code.google.com/apis/contacts/">Contacts Data API</a>). I think I'm finally getting used to the Google way of thinking when it comes to APIs (although see my PS at the bottom), so this one was rather easy to set up. 

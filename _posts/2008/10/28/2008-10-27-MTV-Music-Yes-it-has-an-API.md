@@ -6,6 +6,7 @@ categories: [music]
 tags: []
 banner_image: 
 permalink: /2008/10/28/MTV-Music-Yes-it-has-an-API
+guid: 3074
 ---
 
 MTV launched a new music video service, <a href="http://www.mtvmusic.com/">MTV Music</a>. The UI is rather nice. Maybe it's the old man in me but I love the large, super obvious search box. They also allow for embedding...

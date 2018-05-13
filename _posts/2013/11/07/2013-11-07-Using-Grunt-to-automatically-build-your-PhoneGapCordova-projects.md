@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/11/07/Using-Grunt-to-automatically-build-your-PhoneGapCordova-projects
+guid: 5081
 ---
 
 <p>

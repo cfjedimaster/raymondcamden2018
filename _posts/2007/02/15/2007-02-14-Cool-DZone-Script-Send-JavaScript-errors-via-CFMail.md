@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/15/Cool-DZone-Script-Send-JavaScript-errors-via-CFMail
+guid: 1838
 ---
 
 My friend James pointed me to a cool snippet on <a href="http://www.dzone.com">DZone</a>:

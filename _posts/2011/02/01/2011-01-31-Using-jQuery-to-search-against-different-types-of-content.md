@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/02/01/Using-jQuery-to-search-against-different-types-of-content
+guid: 4102
 ---
 
 Shane asked an interesting question over email. He wanted to know if it was possible, either via auto suggest or a 'live search' type interface, to search different types of content. For example, maybe searching against people and locations. While each by itself is simple, he wanted to know if it was possible to search both at once and - of course - display them appropriately. Here is an example I came up with.

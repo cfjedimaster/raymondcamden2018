@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/01/Verity-Presentation-Spry-Notes-and-Final-Farewall
+guid: 1369
 ---
 
 I've attached the Verity presentation to this blog entry. I added entryDAO.cfc to the zip. This is code from the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> that demonstrates "real" use of Verity. You will see two Verity related functions in the CFC. The "calls" to these functions are done in the controller file run by Model-Glue.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/30/Are-you-aware-of-the-MIMEFile-Upload-Security-Issue
+guid: 3415
 ---
 
 I had heard a few rumblings of this recently but had not really paid it much attention. Mike emailed me today and described how he was hacked pretty badly by it. I'll share his email and then add some notes to the end.

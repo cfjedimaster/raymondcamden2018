@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/01/Bribery-for-the-ColdFusion-Cookbook-and-looking-for-a-grunt-or-two
+guid: 2907
 ---
 
 I'd like to get the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> updated with some ColdFusion 8 submissions. The amount of submissions has trickled down a bit, so consider this my official plea for submissions, and specifically those that cover ColdFusion 8. (Although submissions that don't specifically involve new CF8 features are welcome as well.) 

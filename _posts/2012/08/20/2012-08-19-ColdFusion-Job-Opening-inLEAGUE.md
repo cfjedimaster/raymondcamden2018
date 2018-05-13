@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/08/20/ColdFusion-Job-Opening-inLEAGUE
+guid: 4706
 ---
 
 ColdFusion/jQuery Application Developer Wanted

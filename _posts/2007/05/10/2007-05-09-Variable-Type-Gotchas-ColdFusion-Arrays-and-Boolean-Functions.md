@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/10/Variable-Type-Gotchas-ColdFusion-Arrays-and-Boolean-Functions
+guid: 2022
 ---
 
 Time for another gotcha. Imagine you are a new ColdFusion developer and you need to sort an array. If you are like me, you may not read the complete documentation for the function. (I know I'm not the only one who skims the docs.) You see that there is an arraySort function so you write code like so:

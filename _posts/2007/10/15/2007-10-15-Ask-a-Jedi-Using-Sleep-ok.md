@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/10/15/Ask-a-Jedi-Using-Sleep-ok
+guid: 2413
 ---
 
 Danny asks a question about locking and sleep in his ColdFusion/Flex application:

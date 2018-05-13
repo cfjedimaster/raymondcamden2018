@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/20/CFLib-Testers-Needed
+guid: 1282
 ---
 
 If you are bored on this fine Saturday afternoon, please take a look at the MG version of CFLib set up here:

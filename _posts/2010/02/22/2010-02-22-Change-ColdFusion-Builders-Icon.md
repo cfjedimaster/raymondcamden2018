@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/22/Change-ColdFusion-Builders-Icon
+guid: 3730
 ---
 
 So while I love ColdFusion Builder, I'm not a big fan of the logo. To me, it looks <i>way</i> too close to the ColdFusion Server logo, and while I can live with it, Eclipse makes it pretty darn easy to change. All you have to do is fine the CFBuilder.ini file. On the Mac, you would right click on CFBuilder.app and do "Show Package Contents". On the PC, you would sell your laptop and buy a Mac. Once you've got the file, just find this line:

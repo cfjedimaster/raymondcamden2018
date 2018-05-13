@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/07/CFBL-Update-Week-4-The-Show-me-your-numbers-Mardi-Gras-Edition
+guid: 2637
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/jabbamask mardi gras2.jpg" align="left" style="margin-right: 5px"> Sorry for the delay in posting this, and thanks to everyone who resent their numbers. We still have a bit over 20 people participating, so thank you to everyone who is still working at it!

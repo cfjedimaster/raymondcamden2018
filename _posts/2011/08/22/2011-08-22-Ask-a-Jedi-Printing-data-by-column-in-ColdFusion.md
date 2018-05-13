@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/22/Ask-a-Jedi-Printing-data-by-column-in-ColdFusion
+guid: 4335
 ---
 
 David asked: 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/04/29/ColdFusion-11-and-ColdFusion-Builder-3-Released
+guid: 5213
 ---
 
 <p>

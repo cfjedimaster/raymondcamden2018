@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/30/small-update-to-cf9-orm-cms-demo
+guid: 3467
 ---
 
 It's been a few days since I posted my <a href="http://www.raymondcamden.com/index.cfm/2009/7/25/Very-simple-very-ugly-CMS-built-with-ColdFusion-9">CF9 ORM CMS demo</a>, but I wanted to share a small update I worked on yesterday while recovering from the beach. 

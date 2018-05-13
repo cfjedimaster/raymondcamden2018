@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/20/Cumulative-Hot-Fix-for-ColdFusion-9-Released
+guid: 3728
 ---
 
 Not sure why this wasn't given more of an announcement, but the first <a href="http://kb2.adobe.com/cps/825/cpsid_82536.html">cumulative hot fix</a> for ColdFusion 9 was released yesterday. Hit the link up for details on what was fixed. The best item I think is the JSON casting issue. I talked about that bug in a <a href="http://www.raymondcamden.com/index.cfm/2009/10/19/ColdFusion-9-JSON-Bug">blog entry</a> back in October.

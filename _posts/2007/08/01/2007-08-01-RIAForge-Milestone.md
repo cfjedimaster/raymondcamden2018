@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/08/01/RIAForge-Milestone
+guid: 2243
 ---
 
 <a href="http://www.riaforge.org">RIAForge</a> hit another milestone last night. As of this morning the site had over 100,000 downloads. Projects have been viewed 1.5 million times. That's pretty darn impressive. Complete stats are below.

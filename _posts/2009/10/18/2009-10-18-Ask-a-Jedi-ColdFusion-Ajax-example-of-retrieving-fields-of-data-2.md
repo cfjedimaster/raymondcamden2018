@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data-2
+guid: 3566
 ---
 
 Earlier today I <a href="http://www.raymondcamden.com/index.cfm/2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data">blogged</a> a simple example of using ColdFusion Ajax controls to load detail information based on a primary key. The reader who asked the question sent me a followup asking if it was possible to change the form to use a button instead of a keypress to load the data.

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/01/23/Detecting-invalid-HTML-with-JavaScript
+guid: 4505
 ---
 
 As a blogger, I write quite a few blog posts. I hate RTEs (Rich Text Editors) so I'll typically do most of any desired HTML by hand. Normally this isn't a big deal. My blogware can handle paragraphs and code formatting. I typically just worry about <b>bold</b> and <i>italics</i>. However, because I'm entering HTML manually, there's always a chance I could screw up. I've got a Preview feature on my blog but I rarely use it.

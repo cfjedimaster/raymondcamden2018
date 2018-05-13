@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/04/Whatch-out-for-functions-that-return-booleans
+guid: 1750
 ---
 
 A user reported an error to me that I've seen a few times recently. His code was doing something like this:

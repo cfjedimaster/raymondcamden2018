@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/04/Ask-a-Jedi-New-to-ColdFusion-why-use-cfform-cfdiv-cftable
+guid: 3263
 ---
 
 Caleb asks:

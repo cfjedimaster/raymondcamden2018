@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/20/How-ColdFusion-can-save-you-business
+guid: 1600
 ---
 
 Ok, please forgive the overly dramatic title, but I want to talk about something pretty darn important and I wanted to get your attention. Does your site have an e-commerce feature? Is the main purpose of your site e-commerce? If so - let me ask you a question. I'm sure you can tell me right now (I hope!) how many orders your site gets per day, along with other things like the average size of the order, highest order, etc. But can you tell me how many people visit your site, add a few items to their cart, and just give up never to return? Can you tell me if there is a particular part of your checkout process where people tend to abandon their carts? If you can't - then you could (literally) be losing money every day. Money isn't everything - but I've heard good things about it - so why not go the extra mile to ensure you are losing money due to some stupid reason like a hard to navigate checkout process or even a simple typo that makes it difficult for consumers to complete their order. Luckily we can add some monitoring using a simple feature of ColdFusion MX7: Application.cfc.

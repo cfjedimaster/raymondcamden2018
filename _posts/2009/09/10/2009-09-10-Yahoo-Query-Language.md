@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/10/Yahoo-Query-Language
+guid: 3520
 ---
 
 Ok, so I'm a bit tiffed at Yahoo right now (I'll put my rant at the end) but I can't not be excited about this. Luke S. emailed me a week or two and suggested I take a look at this blog entry: <a href="http://www.wait-till-i.com/2009/08/25/tutorial-scraping-and-turning-a-web-site-into-a-widget-with-yql/">Tutorial: Scraping and tuning a web site into a widget with YQL</a>. This blog entry discusses how you can use YQL (Yahoo Query Language) as a way to arbitrarily parse random HTML pages. He discusses how he uses XPATH against the HTML to parse up the data and reuse it. I thought this was cool - but then I began looking at the <a href="http://developer.yahoo.com/yql/guide/index.html">YQL</a> docs more closely and found that this was just the tip of the iceberg.

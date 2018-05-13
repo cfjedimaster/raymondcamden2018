@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/08/Spammers-love-me
+guid: 1254
 ---
 
 Someone explain this to me. Being the incredibly <a href="http://www.egoaddict.com">ego-centric</a> guy I am, I routinely check the Subscribers list for my blog so I can see how many people are signed up. When the number goes higher, I smile and do my Mr. Burns laugh. When it goes down, I shed a few tears.

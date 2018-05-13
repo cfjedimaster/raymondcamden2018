@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/04/CFFEED-Fixes-in-801
+guid: 2752
 ---
 
 I mentioned yesterday that ColdFusion 8.0.1 fixes issues in CFFEED. Here is a run down of what has been done.

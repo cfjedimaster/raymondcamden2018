@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/25/ModelGlue-note-on-events-and-redirects
+guid: 1169
 ---
 
 So, I hope it's clear that even though I'm writing a series on <a href="http://www.model-glue.com">Model-Glue</a>, and even though I gush about it at every chance I get (it's the bee's knees, ya know), I still make a few mistakes here and there, and I'm still learning it as well. 

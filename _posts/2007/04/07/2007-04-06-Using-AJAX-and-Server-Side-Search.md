@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/07/Using-AJAX-and-Server-Side-Search
+guid: 1947
 ---
 
 I've blogged before (or at least think I have) about how to do client side filtering/searching of data with Spry. An example of this is the <a href="http://www.riaforge.org/index.cfm?event=page.search">search</a> at RIAForge. The concept is simple. Load your dataset. Then simply filter against this dataset. RIAForge lets you filter both on the keyword you enter and the category. While this does require some JavaScript work, it is still pretty darn simply in Spry. (I encourage you to view source on the page.) However, there are a few drawbacks to this approach.

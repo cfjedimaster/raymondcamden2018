@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/11/20/Quick-example-of-jQueryColdFusion-9-multifile-uploader
+guid: 3616
 ---
 
 I was talking to a reader earlier today about ColdFusion 9's new multi-file uploader. I mentioned my <a href="http://www.raymondcamden.com/index.cfm/2009/11/11/Important-notes-about-ColdFusion-9s-new-multi-file-uploader">earlier</a> blog post which goes into details about the "multiple post" nature of this control, specifically if you have other form fields involved. He came back with an interesting scenario. How would you handle allowing for metadata about each file upload. By that I mean imagine the following: You've got a form with a few basic fields in (name, email, etc), and then you have the multi-file uploader. For each file you upload you want to ask the user to enter data about the file, like perhaps a nicer name. How could you handle that? Here is one simple example that makes use of jQuery. I wrote this <i>very</i> quickly so please forgive the ugliness.

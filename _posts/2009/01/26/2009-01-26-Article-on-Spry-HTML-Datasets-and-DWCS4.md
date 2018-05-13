@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2009/01/26/Article-on-Spry-HTML-Datasets-and-DWCS4
+guid: 3211
 ---
 
 Yes, my continued affair with Dreamweaver CS4 continues. Today Adobe published my latest article: <a href="http://www.adobe.com/devnet/dreamweaver/articles/spry_creating_html_data_set.html?devcon=f2">Creating a Spry HTML data set</a> 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/07/03/ColdFusion-page-timeouts-and-scheduled-tasks
+guid: 4665
 ---
 
 Thanks to Micah Brown for checking into this. He emailed me a few days ago with an interesting question. Given that your server may be set to timeout requests after 10 seconds, will the timeout in the settings of your scheduled task override it? When he asked this, I simply told him what I'd do. Set your server timeout setting to a nice low number, like 10, set your scheduled task to a higher number, like 20, and then drop in a simple sleep() command in your CFM:

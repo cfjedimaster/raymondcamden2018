@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/17/Settings-cookies-with-expiration-etc-in-CFScript
+guid: 3850
 ---
 
 From the department of "Code I will write once and forget about in a day" comes the setCookie UDF. Inspired by a question on Stack Overflow (<a href="http://stackoverflow.com/questions/3059924/how-to-set-expiration-date-on-a-cookie-in-cfscript">how to set expiration date on a cookie in cfscript</a>), the UDF allows you to set cookies in cfscript that have expiration dates. You can actually pass <i>all</i> the arguments if you want, like domain, httpOnly (CF9), etc. Here is the UDF:

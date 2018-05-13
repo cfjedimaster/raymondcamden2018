@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/12/09/What-the-heck-is-index-in-Chrome-Dev-Tools
+guid: 5094
 ---
 
 <p>

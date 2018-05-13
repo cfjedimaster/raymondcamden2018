@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/07/25/jqTouch-Notes
+guid: 3888
 ---
 
 Last week I finally got to play with <a href="http://www.jqtouch.com/">jQTouch</a>, a jQuery based framework for building mobile-ready web sites. It was... rough to say the least. I'm very happy with the final result, but it took a bit of work to figure out how jQTouch <i>wanted</i> to work and what I should be doing with it. What follows are some basic notes, discoveries, and tips. I warn you though - most likely some of what follows could be a misunderstanding on my part.

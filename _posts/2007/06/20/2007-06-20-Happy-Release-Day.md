@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/20/Happy-Release-Day
+guid: 2137
 ---
 
 Lots of stuff was released over the day today:

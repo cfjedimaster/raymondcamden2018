@@ -6,6 +6,7 @@ categories: [adoption]
 tags: []
 banner_image: 
 permalink: /2009/11/21/november-is-national-adoption-month-2
+guid: 3617
 ---
 
 Every year I promise to blog this on the 1st, and every year it gets away from me. Personally, I think Time is an evil thief who must be killed at the earliest convenience, but maybe it's just me getting old. In case you weren't aware, November is national adoption month. You can read the <a href="http://www.whitehouse.gov/the-press-office/presidential-proclamations-national-adoption-month">presidential proclomation</a> here if you are interested. I'll also pass along this nice list of <a href="https://www.childwelfare.gov/">highlights</a> for the month (notice the CFM extension - and yes - it is a Model-Glue site).

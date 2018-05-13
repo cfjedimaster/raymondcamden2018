@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/23/Tweak-ColdFusion-Builders-Outline-Mode
+guid: 3731
 ---
 
 I absolutely love the outline view in ColdFusion Builder (see my <a href="http://www.raymondcamden.com/index.cfm/2009/7/17/ColdFusion-Builder-and-Outline-Mode">earlier blog post</a> on it), but I just discovered something interesting about it that I wanted to share with others.

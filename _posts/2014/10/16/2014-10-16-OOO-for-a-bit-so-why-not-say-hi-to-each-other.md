@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2014/10/16/OOO-for-a-bit-so-why-not-say-hi-to-each-other
+guid: 5336
 ---
 
 <p>

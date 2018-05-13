@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/10/21/Determining-the-version-of-an-HTMLbased-AIR-Application
+guid: 3979
 ---
 
 Earlier today a subscriber on the <a href="http://groups.google.com/group/air-html-js">AIR with HTML and JS</a> listserv asked about how one could get the current version of an AIR application from within the application itself. AIR stores the version number in the application.xml file. This is a free-form value that can be anything (number, string, etc.) A quick Google search turned out this perfect tip: <a href="http://inflagrantedelicto.memoryspiral.com/2009/02/quick-tip-display-application-version-in-your-air-app/">Quick Tip: Display Application Version in your AIR App</a> This worked, but I wanted to mock up a quick HTML version. Unfortunately dealing with XML in JavaScript kind of makes me want to throw up a little. I think ColdFusion has got me spoiled. But once I figured out the syntax (thank you again <a href="http://www.w3schools.com/Xml/xml_dom.asp">W3 Schools</a>) I was able to whip up the following demo.

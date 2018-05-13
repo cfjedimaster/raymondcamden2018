@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/22/Flex-date-gotcha
+guid: 1787
 ---
 
 This surprised me. I was working with formatting a date value returned from ColdFusion. The dates looked like so:

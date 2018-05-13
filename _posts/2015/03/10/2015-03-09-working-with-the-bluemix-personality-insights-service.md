@@ -6,6 +6,7 @@ categories: [development]
 tags: [bluemix]
 banner_image: 
 permalink: /2015/03/10/working-with-the-bluemix-personality-insights-service
+guid: 5804
 ---
 
 As I continue to play around with <a href="https://console.ng.bluemix.net/">IBM Bluemix</a>, this week I spent some time playing with the <a href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights.html">Personality Insights</a> service. This service uses IBM Watson to analyze textual input and try to determine personality aspects of the author. It focuses on three areas of analysis:

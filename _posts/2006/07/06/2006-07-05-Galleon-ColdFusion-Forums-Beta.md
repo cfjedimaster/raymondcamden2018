@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/06/Galleon-ColdFusion-Forums-Beta
+guid: 1376
 ---
 
 I haven't released a new version of <a href="http://ray.camdenfamily.com/projects/galleon">Galleon</a> since November of last year. That isn't because the product was done (again, my goal is to be comparable to Fusetalk or PHPBB), it is a reflection of that fact that I'm now at a point where I have so many products out, it takes a bit more time to get new releases out. I'm going to pretend that I'm suddenly more concerned about quality then quantity, but as my blog readers know, that isn't the case. ;)

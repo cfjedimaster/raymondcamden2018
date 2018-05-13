@@ -6,6 +6,7 @@ categories: [html5,mobile]
 tags: []
 banner_image: 
 permalink: /2012/09/20/Numeric-HTML-fields-keyboards-and-zip-codes
+guid: 4735
 ---
 
 Just a quick tip I want to share with folks. I had a simple form field that included two fields for zip codes. Both used type="number". While testing in iOS6, I discovered that when I entered 02180 as a zip code, Safari "fixed" it by removing the 0 in front. Ok, I guess that makes sense, but it obviously wasn't helpful. 

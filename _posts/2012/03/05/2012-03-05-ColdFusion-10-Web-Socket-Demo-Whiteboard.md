@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/05/ColdFusion-10-Web-Socket-Demo-Whiteboard
+guid: 4550
 ---
 
 My past set of blog entries on ColdFusion 10 and web sockets has focused on a simple chat application that I slowly improved over time with various features (and security fixes). Today I thought I'd release a demo of a simpler application - a basic whiteboard. The whiteboard makes use of HTML5 Canvas and web sockets to allow multiple people to draw at the same time. It doesn't do anything fancy like say who is drawing what or allow for erasing, but it does allow for awesome collaborative art like this:

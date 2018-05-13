@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/08/Two-ColdFusionSolr-issues-I-discovered
+guid: 4006
 ---
 
 As I prepare for my Solr presentation at <a href="http://riaunleashed.com/">RIAUnleashed</a> I've run into two interesting issues that may trip people up. One is a bug proper and the other is simply misleading. Let's start with the bug.

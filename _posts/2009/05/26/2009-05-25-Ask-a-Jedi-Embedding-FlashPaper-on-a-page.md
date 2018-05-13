@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/26/Ask-a-Jedi-Embedding-FlashPaper-on-a-page
+guid: 3370
 ---
 
 Rob wrote me yesterday asking about cfdocument and FlashPaper. FlashPaper? Yes, <a href="http://www.adobe.com/products/flashpaper/">FlashPaper</a>. FlashPaper was an alternative to PDF created back before Adobe swallowed up Macromedia. I thought the product was dead, but apparently you can still purchase it. As you can guess, it is a "document" type product, much like PDF, but it uses Flash for rendering into of the PDF engine. ColdFusion has supported generating FlashPaper ever since cfdocument was released. Here is a quick example.

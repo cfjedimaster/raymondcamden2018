@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/08/ColdFusion-9-ORM-Tip-Count-related-entities
+guid: 3636
 ---
 
 Here is a simple (or so I thought) problem: Given that an entity has a related property, how can you get a count of the objects? Imagine a Group entity with a One-To-Many to Members (Groups have many Members). How would you report on the number of members in a group?

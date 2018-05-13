@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/18/CFUNITED-09-Review
+guid: 3492
 ---
 
 It's hard to believe that a week ago I was at CFUNITED. CFUNITED09 was easily my favorite yet - despite being extremely exhausting. I had a grand total of 7 sessions to present (4 unique ones) but all in all, it was worth it. One of the New Years Resolutions I had for myself this year was to try to give new presentations and I had 3 at CFUNITED that were 100% new. (And technically my jQuery one was kind of new since I had to shrink it down to 2 hours.) In no particular order, here are some high points for me:

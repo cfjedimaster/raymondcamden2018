@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/01/Ask-a-Jedi-ColdFusion-Frameworks
+guid: 1004
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/17/Quick-example-of-cleaning-up-Verity-results
+guid: 1964
 ---
 
 Christian Ready pinged me a few days ago about an interesting problem he was having at one of his <a href="http://www.marcor.com/">web sites</a>. His search (Verity-based on CFMX7) was returning HTML. The HTML was escaped so the user literally saw stuff like this in the results:

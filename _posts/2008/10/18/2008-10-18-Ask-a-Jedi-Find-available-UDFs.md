@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/18/Ask-a-Jedi-Find-available-UDFs
+guid: 3059
 ---
 
 Brandon asks:

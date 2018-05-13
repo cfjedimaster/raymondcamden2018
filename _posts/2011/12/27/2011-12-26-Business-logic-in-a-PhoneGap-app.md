@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2011/12/27/Business-logic-in-a-PhoneGap-app
+guid: 4473
 ---
 
 This question came in to me via Stefan Richter yesterday on Twitter and I thought I'd use the blog to answer in a bit more detail. He asked:

@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/04/22/Article-Posted-Again-Building-a-Google-Maps-Application-with-Updating-Markers
+guid: 4915
 ---
 
 <img src="https://static.raymondcamden.com/images/map-trucks.jpg" style="float:left;margin-right: 10px;margin-bottom:10px" /> Just as an FYI, today my first article on <a href="http://flippinawesome.org/">flippin' awesome!</a> was published this morning: <a href="http://flippinawesome.org/2013/04/22/google-maps-markers/">Building a Google Maps Application with Updating Markers</a>

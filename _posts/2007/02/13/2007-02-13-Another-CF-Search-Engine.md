@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/13/Another-CF-Search-Engine
+guid: 1832
 ---
 
 I blogged about the cool new toy Google released (<a href="http://ray.camdenfamily.com/index.cfm/2006/10/24/Custom-Google-Search-Engines">Custom Google Search Enginees</a>) a few months back. At that time, <a href="http://www.cfhunt.com">CF Hunt</a> was released using  this engine. Now there is another one, <a href="http://www.cfsearchengine.com/">CFSearchEngine.com</a>.

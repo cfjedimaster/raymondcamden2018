@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/22/Using-spryhover-spryeven-and-spryodd-all-together
+guid: 2430
 ---
 
 One of the nicer features of Spry is the simple way you can apply even, odd, and hover classes to a dataset. Consider this example:

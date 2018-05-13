@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/07/Ask-a-Jedi-UDFs-in-Custom-Tags
+guid: 3047
 ---
 
 Nathan asks:

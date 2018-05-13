@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/06/26/Brackets-Edge-Code-and-MAX-2013
+guid: 4973
 ---
 
 <i>Note: This post has been in the queue for a while but hopefully folks still find it useful.</i>

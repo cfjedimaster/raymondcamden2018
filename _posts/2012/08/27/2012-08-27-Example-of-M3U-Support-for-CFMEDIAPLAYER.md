@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2012/08/27/Example-of-M3U-Support-for-CFMEDIAPLAYER
+guid: 4715
 ---
 
 A while ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2010/5/5/Ask-a-Jedi-Dynamic-Updates-for-CFMEDIAPLAYER#cB729CB90-0C41-C755-EECC911AF3B0524E">blog entry</a> that discussed how to add a playlist to a CFMEDIAPLAYER tag. The idea was simple. Given a query - turn it into a grid control that could then drive the content for the media player control. Misty posted a <a href="http://www.raymondcamden.com/index.cfm/2010/5/5/Ask-a-Jedi-Dynamic-Updates-for-CFMEDIAPLAYER#cD652B26E-AE66-68FC-1252D60CCED471F1">comment</a> about M3U support so I thought I'd write up a quick example.

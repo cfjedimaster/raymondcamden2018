@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/05/HTMLAdobe-AIR-Application-Diversion-One-User-Login
+guid: 3899
 ---
 
 I've got a couple of entries going so far in my HTML/Adobe AIR series. I'm taking a step "out" of that course to address some questions I've gotten recently via IM. (Hence the 'Diversion' title above.) Today's question deals with handling server based authentication. In other words, how do you build a client side application that authenticates against some central server? Before I get started - let me send a quick shout out to <a href="http://www.12robots.com">Jason Dean</a> and <a href="http://www.andymatthews.net/">Andy Matthews</a> for helping me get this together.

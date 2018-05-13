@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/02/07/Job-Opening-Duquesne-Light
+guid: 4849
 ---
 
 As always, just passing it along...

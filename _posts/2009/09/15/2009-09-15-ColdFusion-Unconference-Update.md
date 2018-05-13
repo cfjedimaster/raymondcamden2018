@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/15/ColdFusion-Unconference-Update
+guid: 3527
 ---
 
 With MAX approaching much quicker than I'd like to admit to myself, I thought I'd share some cool news in regards to the <a href="http://www.raymondcamden.com/page.cfm/ColdFusion-Unconference">ColdFusion Unconference</a>.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/02/Error-with-queryNew-and-query-of-queries
+guid: 2166
 ---
 
 I'm working alongside my client today (well, "alongside" as in virtually on the net) when he pings me with an odd error. His template allows you to sort a set of data by selecting a value from a drop down. Whenever he picks Published Year as the sort, he would get a very odd error:

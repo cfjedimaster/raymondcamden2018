@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/01/05/And-now-to-make-you-REALLY-hate-me
+guid: 1012
 ---
 
 A supporter who <i>really</i> appreciated Soundings decided to send me a nice little gift... the XBOX 360. Of course, him saying he would do it was a lot harder than him actually doing it. Seems like there was a minor shortage? I don't know anything about that of course. Anyway - he pings me today with a nice surprise....

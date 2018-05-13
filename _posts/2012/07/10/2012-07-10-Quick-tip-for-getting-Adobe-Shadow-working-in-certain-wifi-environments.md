@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2012/07/10/Quick-tip-for-getting-Adobe-Shadow-working-in-certain-wifi-environments
+guid: 4672
 ---
 
 I've blogged quite a bit about the coolness that is <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a>. One issue that has cropped up from time to time is that Shadow sometimes does not work well in certain Wi-Fi environments. Conferences are a good example, but so is the office I'm currently sitting in. Basically, the network here is blocking my iPad from seeing my Macbook. It isn't a Shadow issue. Safari can't hit my machine at all. I've seen this in the Adobe offices as well. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/04/09/getSafeHTML-and-ColdFusion-11
+guid: 5196
 ---
 
 <p>

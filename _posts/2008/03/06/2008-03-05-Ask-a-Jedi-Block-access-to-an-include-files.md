@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/06/Ask-a-Jedi-Block-access-to-an-include-files
+guid: 2693
 ---
 
 Devon asks:

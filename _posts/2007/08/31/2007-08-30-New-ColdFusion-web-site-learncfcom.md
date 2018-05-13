@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/31/New-ColdFusion-web-site-learncfcom
+guid: 2316
 ---
 
 Dale Fraser announced today the launch of a new ColdFusion web site, <a href="http://www.learncf.com">learncf.com</a>. What is it? From his About page:

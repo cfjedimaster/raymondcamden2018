@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/10/10/Cordova-the-Camera-plugin-AngularJS-and-Ninja-Cats
+guid: 5331
 ---
 
 <p>

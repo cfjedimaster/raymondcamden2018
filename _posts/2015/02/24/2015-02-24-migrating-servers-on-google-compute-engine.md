@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/02/24/migrating-servers-on-google-compute-engine
+guid: 5729
 ---
 
 So, as folks know, I've been struggling a bit with my server here. Last night MySQL went down around 10PM, and while normally I'm up there, I had gone to bed early so I didn't restart it till 6AM this morning. That's a heck of a long time for it to be down. I decided to reach out again for help as well as start looking seriously at <a href="http://jekyllrb.com/">Jekyll</a>. I prefer <a href="http://harpjs.com/">Harp</a> but after watching Brian Rinaldi's demo of Jekyll I decided to try it out.

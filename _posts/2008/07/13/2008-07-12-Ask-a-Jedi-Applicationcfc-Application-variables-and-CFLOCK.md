@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/13/Ask-a-Jedi-Applicationcfc-Application-variables-and-CFLOCK
+guid: 2930
 ---
 
 I hope folks will forgive me for not talking about the iPhone again, but here is a good ColdFusion question from Mark:

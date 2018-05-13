@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/06/24/keyboard-tip-for-the-ios-simulator
+guid: 6316
 ---
 
 I've been using the iOS Simulator for a few years now and never noticed this trick before. Thanks go to <a href="http://blog.devgeeks.org/">Tommy-Carlos Williams</a> for teaching me this. Have you ever noticed that sometimes when you type in a form field inside the simulator that the virtual keyboard doesn't slide up? For example:

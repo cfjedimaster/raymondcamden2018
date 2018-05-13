@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/28/LighthousePro-Updated
+guid: 2793
 ---
 
 Just a quick note to let folks I released a small update to <a href="http://lighthousepro.riaforge.org">LighthousePro</a>, my ColdFusion-based issue tracker. The updates include:

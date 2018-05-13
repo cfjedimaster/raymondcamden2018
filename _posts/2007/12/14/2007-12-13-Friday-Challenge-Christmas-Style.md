@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/14/Friday-Challenge-Christmas-Style
+guid: 2540
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/12DaysChristmasHallmark.jpg" align="left" style="margin-right: 10px">

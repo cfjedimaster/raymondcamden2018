@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/06/23/book-review-thirdparty-javascript
+guid: 4970
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=1617290548&nou=1&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;float:left;margin-right:10px;margin-bottom:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> "Third-Party JavaScript", by <a href="http://benv.ca/">Ben Vinegar</a> and <a href="http://anton.kovalyov.net/">Anton Kovalyov</a> is a fascinating deep dive into the practice of building JavaScript-based services to be used by others. If you have ever made use of Google Adsense, Disqus, or even a simple Twitter widget, then you've been a consumer of a third-party JavaScript application. 

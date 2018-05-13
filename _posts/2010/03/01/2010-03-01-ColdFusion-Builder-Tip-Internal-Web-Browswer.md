@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/01/ColdFusion-Builder-Tip-Internal-Web-Browswer
+guid: 3737
 ---
 
 Ok, so this is another tip that is more Eclipse than ColdFusion Builder, but I thought I'd share it anyway. (I'm assuming a lot of people who will be using CFBuilder will be new to Eclipse as well!) I've mentioned before how I like to use <a href="http://www.raymondcamden.com/index.cfm/2009/11/25/Quick-TailView-Tip">TailView</a> when debugging. I find it especially useful in MVC applications with a lot of moving parts in each request. I've also demonstrated how I use <a href="http://www.coldfusionjedi.com/index.cfm/2009/11/19/Quick-Tip--CFLOG-and-JSON">JSON and CFLOG</a> to record complex data to a log file. While that works ok, sometimes I really need to use a proper CFDUMP to see what I'm working with. In those cases, I'll cfdump to a file (with format="html"):

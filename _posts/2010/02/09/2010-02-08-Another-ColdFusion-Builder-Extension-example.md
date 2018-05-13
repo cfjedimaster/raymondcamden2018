@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/09/Another-ColdFusion-Builder-Extension-example
+guid: 3713
 ---
 
 Every day I use ColdFusion Builder I like it a bit more. Last night I built out a new extension. Before I describe how it works, let me demonstrate with a video (and once again I apologize for the size - my 30 inch monitor spoils me):

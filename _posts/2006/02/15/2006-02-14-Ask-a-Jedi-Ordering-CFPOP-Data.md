@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/15/Ask-a-Jedi-Ordering-CFPOP-Data
+guid: 1100
 ---
 
 Robert writes in with a question concerning CFPOP:

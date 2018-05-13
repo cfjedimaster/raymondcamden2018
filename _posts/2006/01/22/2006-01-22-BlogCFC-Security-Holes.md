@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/22/BlogCFC-Security-Holes
+guid: 1045
 ---
 
 Well, I was doing my best to ignore the personal attacks from Mr. Horn. However, today he pointed out "security holes" in BlogCFC. I want to make sure my users are aware that not one single thing he pointed out was true. I'm sure he wrote his post in attempt to help others, and not as a personal attack. I'm sure he isn't the one behind all the foul mouthed blog comments recently. Anyway, let's take a look at what he says:

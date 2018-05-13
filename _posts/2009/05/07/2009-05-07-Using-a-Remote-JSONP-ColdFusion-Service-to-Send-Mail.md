@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/05/07/Using-a-Remote-JSONP-ColdFusion-Service-to-Send-Mail
+guid: 3347
 ---
 
 A user had an interesting question regarding jQuery and JSONP. He wanted to know if a file on one server (a server without ColdFusion) could use jQuery and JSONP to run CFML code on another server and send email. The problem with using JSONP in this scenario is that JSONP is a GET request. Emails are - typically - a bit long and could fail to execute if the message was too large. He still wanted to see an example anyway so I whipped up the following demo. The code is based on the <a href="http://www.raymondcamden.com/index.cfm/2009/3/11/Writing-a-JSONP-service-in-ColdFusion">blog entry</a> I wrote two months ago on JSONP services in ColdFusion. 

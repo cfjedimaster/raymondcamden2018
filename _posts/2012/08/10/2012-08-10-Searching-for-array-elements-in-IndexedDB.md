@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/08/10/Searching-for-array-elements-in-IndexedDB
+guid: 4700
 ---
 
 As I continue my research into <a href="http://www.w3.org/TR/IndexedDB/">IndexedDB</a>, today I decided to look into how you could perform a search for data based on an array property. Search is - to me - the most critical weak point of IndexedDB now. But "weak" doesn't imply powerless, and maybe I'm just not fully appreciating the power of IndexedDB yet. Today I was specifically curious about the following use-case:

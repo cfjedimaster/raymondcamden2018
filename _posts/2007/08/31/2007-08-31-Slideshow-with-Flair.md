@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/31/Slideshow-with-Flair
+guid: 2317
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2007/8/29/Simple-image-slide-show-built-in-ColdFusion-8">blogged</a> about a simple slide show built using CFIMAGE and CFLAYOUT. While this worked ok, it wasn't very sexy. It had no flair. And as everyone knows, I'm all about the flair, so let's take a look at a cooler version. First I'll show the demo than talk about how it was built.

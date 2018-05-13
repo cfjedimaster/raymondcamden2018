@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/02/Ask-a-Jedi-How-do-I-convert-JSON-to-XML
+guid: 3509
 ---
 
 Jody asks:

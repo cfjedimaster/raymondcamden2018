@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2013/12/30/My-2013-Reading-List
+guid: 5113
 ---
 
 <p>

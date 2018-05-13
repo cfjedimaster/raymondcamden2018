@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/30/Calling-wrapped-ColdFusion-custom-tags-within-CFIF-blocks
+guid: 4067
 ---
 
 That isn't the best title in the world but hopefully an example will help. Yesterday Simon Free encountered an interesting problem with wrapped custom tags. For folks who don't know what I mean, a wrapped custom tag is simply a custom tag that wraps something. So for example, consider the following code.

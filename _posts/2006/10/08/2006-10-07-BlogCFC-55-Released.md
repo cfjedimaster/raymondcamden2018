@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/08/BlogCFC-55-Released
+guid: 1571
 ---
 
 The 5.5 release of BlogCFC is now released. You may download it from the <a href="http://ray.camdenfamily.com/projects/blogcfc">project page</a>. Lots of new stuff in this release - and here is just a partial list of what has been added:

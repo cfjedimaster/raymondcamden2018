@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/20/Schedular-issue-with-RIAForge
+guid: 2485
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2007/11/19/Multiple-Emails-from-RIAForge-Yes-I-know">blogged</a> about an issue <a href="http://www.riaforge.org">RIAForge</a> was having. What was supposed to be a once a day email about project updates magically turned into a three a day email. Here is the update.

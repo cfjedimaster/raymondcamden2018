@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/09/Some-thoughts-on-ColdFusion-9-ORM-and-Persistent-CFCs
+guid: 3519
 ---
 
 If you follow me on <a href="http://www.twitter.com/cfjedimaster">Twitter</a> you may have recently seen me mention "Project Picard" a few times. While I still can't publicly talk about what it entails, I'm hoping to share what I've learned while working on it. Picard makes use of ColdFusion 9 and ORM. While I've played a bit with ORM (check out my demo content management system <a href="http://www.raymondcamden.com/index.cfm/2009/7/25/Very-simple-very-ugly-CMS-built-with-ColdFusion-9">here</a>) this current project is definitely much larger and more complex than anything I've done with ORM before. I recently ran into a problem that I want to share. <b>Please</b> remember this is new to me and that I might not do the best job explaining it. I do think it is something other people will run into so I wanted to share my findings as soon as possible.

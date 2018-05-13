@@ -6,6 +6,7 @@ categories: [html5,mobile]
 tags: []
 banner_image: 
 permalink: /2014/06/02/White-paper-on-Hybrid-Mobile-Apps
+guid: 5235
 ---
 
 <p>

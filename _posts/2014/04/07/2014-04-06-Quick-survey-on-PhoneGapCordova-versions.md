@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/07/Quick-survey-on-PhoneGapCordova-versions
+guid: 5192
 ---
 
 <p>

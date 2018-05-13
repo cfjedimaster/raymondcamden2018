@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/23/Brick-by-Mozilla
+guid: 5017
 ---
 
 A few months ago I wrote a post that was - perhaps - a bit over the top: <a href="http://www.raymondcamden.com/index.cfm/2013/5/22/The-Future-of-the-Web">The Future of the Web</a>. I don't deny that the title was a bit sensational, but, I honestly felt excited about what I was seeing and truly think we are seeing a tectonic shift in web development. Today's blog post isn't quite that earth shattering, but I think it's pretty darn cool.

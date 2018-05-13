@@ -6,6 +6,7 @@ categories: [coldfusion,flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/09/02/Crazy-Flex-Mobile-ColdFusion-BlazeDS-experiment
+guid: 4352
 ---
 
 After lunch today I decided to embark on a little test. Folks know - or should know - that ColdFusion ships with an incredibly powerful Server Monitor. If you haven't yet played with it, I highly encourage taking a look at Charlie Arehart's <a href="http://www.adobe.com/devnet/coldfusion/articles/monitoring_pt1.html">four part article</a> over on the Adobe Developer connection for a review. One of the features he talks about is the Alerts system. For folks who don't want to spend all day staring at a computer screen (wait, people don't?), then the Alerts feature is a powerful way to have the monitor tell you when something is wrong as opposed to you keeping a constant eye on it. Alerts can do a variety of things, but when the built in functionality doesn't meet your needs, you can also have it run a CFC for you - and that's where this experiment began.

@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/05/18/tracking-and-notifying-geolocation-status-with-ionic
+guid: 6156
 ---
 
 On Twitter, Snehal reached out to me with an interesting question. Given a location X, he wanted to track a user's location and know when they were within a certain distance to X. By itself, that's not really a difficult task. You need to:

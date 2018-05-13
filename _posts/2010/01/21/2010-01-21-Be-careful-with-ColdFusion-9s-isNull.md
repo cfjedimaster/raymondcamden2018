@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/21/Be-careful-with-ColdFusion-9s-isNull
+guid: 3692
 ---
 
 I guess this isn't surprising - but I certainly wasn't expecting it. Check out the following code snippet:

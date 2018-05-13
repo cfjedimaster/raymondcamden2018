@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/11/24/Happy-Thanksgiving
+guid: 4445
 ---
 
 (Note - this is almost an <i>exact</i> copy of my post from last year, but, I liked it, and it's a holiday, so I'm allowed to duplicate a post. ;)

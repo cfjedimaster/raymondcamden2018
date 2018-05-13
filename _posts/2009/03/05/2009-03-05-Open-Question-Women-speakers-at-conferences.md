@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/03/05/Open-Question-Women-speakers-at-conferences
+guid: 3265
 ---
 
 Anonymous asks:

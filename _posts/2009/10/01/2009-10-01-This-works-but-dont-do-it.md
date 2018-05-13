@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/01/This-works-but-dont-do-it
+guid: 3549
 ---
 
 I just ran across this little gem in some code I'm looking at. It works, but... I'm not sure I'd ever recommend actually doing it. I'll show the code first, explain how it works, and then how I'd rewrite it.

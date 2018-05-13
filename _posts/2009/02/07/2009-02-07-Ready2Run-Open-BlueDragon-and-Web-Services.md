@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/07/Ready2Run-Open-BlueDragon-and-Web-Services
+guid: 3228
 ---
 
 I was testing some simple web services code and needed to try it under <a href="http://www.openbluedragon.org">Open BlueDragon</a>. I was <i>very</i> happy to see a 'Ready2Run' install option. I downloaded, unzipped, and entered one command in Terminal and I was up and running. However, I ran into an error when I tried to run code that made a web service request.

@@ -6,6 +6,7 @@ categories: [coldfusion,development,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/04/14/Dynamically-replacing-Gists-with-raw-content-for-jQuery-Mobile
+guid: 4590
 ---
 
 I've recently begun making uses of Gists to host my code blocks. I like the formatting - I like that folks can take the code and fork it - I just like it in general. Plus, all the cool kids are using it so why shouldn't I? However, I realized yesterday that the Gist embeds were not working on my <a href="http://www.raymondcamden.com/mobile">mobile</a> site. Why? Let's look at a simple example and it will soon make sense.

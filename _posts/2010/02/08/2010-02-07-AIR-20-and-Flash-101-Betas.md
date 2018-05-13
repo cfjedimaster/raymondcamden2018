@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2010/02/08/AIR-20-and-Flash-101-Betas
+guid: 3710
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/air_icon_special.gif" style="align:left;margin-right:5px" align="left" /> As I (slowly) try to recover from yesterday, I thought I'd send out a quick reminder to folks that the latest betas of both AIR 2.0 and Flash 10.1 are available. 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/07/16/Clearing-your-SnipEx-Cache-and-CFLib-SnipEx-Update
+guid: 2196
 ---
 
 While working on some bugs in the CFLib SnipEx server, Mark Drew sent me a great tip on how to clear the cache in CFEclipse. Right now it is a manual process, but Mark will be adding a refresh option to the UI soon. So to clear your SnipEx cache, drop down to the command line and....

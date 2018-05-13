@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/12/21/Another-presentation-tip
+guid: 1728
 ---
 
 I just got my feedback from MAX (thanks everyone!) and someone had a great tip in there. I thought it would be a good addition to my <a href="http://ray.camdenfamily.com/index.cfm/2006/6/29/A-few-presentation-tips">previous post</a> on presentation tips. One of the things I mentioned was increase the size of text in your editor. One of the side effects of this is that lines now can go far off screen. 

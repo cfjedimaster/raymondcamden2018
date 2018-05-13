@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [mobilefirst]
 banner_image: 
 permalink: /2015/04/06/some-tips-for-writing-javascript-adapters-for-ibm-mobilefirst
+guid: 5962
 ---
 
 I've been doing a lot of playing lately with <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a>, and one of the cooler features it has is the ability to write adapters in JavaScript. I <a href="http://www.raymondcamden.com/2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application">blogged</a> about this last week and today I thought I'd share a few tips/notes for folks who may be new to this feature.

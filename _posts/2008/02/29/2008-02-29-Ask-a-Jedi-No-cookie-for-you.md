@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/29/Ask-a-Jedi-No-cookie-for-you
+guid: 2683
 ---
 
 Pat asks:

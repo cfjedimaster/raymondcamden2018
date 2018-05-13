@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/03/Quick-Demo-KML-and-CFMAP
+guid: 3739
 ---
 
 A while ago I shared a few emails with a reader who wanted to know if it was possible to do KML operations with CFMAP. For those who don't know, <a href="http://code.google.com/apis/kml/documentation/kml_tut.html">KML</a> is an XML format for geographical data. From what I've read, it allows for various types of overlays and data "skins" over map or Earth data. The reader, Richard Zawadzki, and I went back and forth a bit, but it was he who finally got it working and graciously allowed me to share his code.

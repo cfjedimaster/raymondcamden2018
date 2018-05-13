@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/11/Warning-about-a-ModelGlue-Issue
+guid: 3643
 ---
 
 For a while now I've seen an odd issue with <a href="http://www.cflib.org">CFLib</a>. It only occurred after a reboot and I was always able to make it go away with a reinit, so I put it on my queue of things to fix "one day" and promptly let it idle there (it's right next to BlogCFC 6). Earlier this week however a user of <a href="http://lighthousepro.riaforge.org">LighthousePro</a> reported the <i>exact</i> same error so I decided to dig a bit deeper. I had been convinced the CFLib issue was simply a minor bug in my code, and while I could easily make the mistake in two sets of code, it seemed a bit unlikely. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/09/Galleon-2-Update
+guid: 2331
 ---
 
 Just a quick note to let folks know how Galleon 2 development is going. Today I wrapped up the security modifications. There were a few things I had forgot - like search and RSS. I also added a page in the admin that lets you edit the settings in the INI file. To do:

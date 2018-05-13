@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/07/ColdFusionORM-Example-Filtering-with-a-many-to-many
+guid: 3595
 ---
 
 Let me be clear - I'm not sure this is the <b>best</b> way to do this - but it worked and as it took me a while to Google up the answer and test it, I thought I'd share.

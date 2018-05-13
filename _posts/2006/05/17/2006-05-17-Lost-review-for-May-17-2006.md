@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/17/Lost-review-for-May-17-2006
+guid: 1274
 ---
 
 This week's episode was a bit lite, but still pretty good. (It was also one of the few episodes without an off-island flashback.) The episode's main focus was on Michael and what happaned to him when he was captured. It lept back and forth from the time he left the hatch to the present day.

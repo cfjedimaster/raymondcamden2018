@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2014/03/23/Sunday-Quickie-Bookmarklet-to-Fix-forms-that-disable-autocomplete
+guid: 5182
 ---
 
 <p>

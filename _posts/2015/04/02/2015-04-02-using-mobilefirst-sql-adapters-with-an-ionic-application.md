@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application
+guid: 5939
 ---
 
 As I continue my look at integrating <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> and <a href="http://ionicframework.com/">Ionic</a>, today I'm going to look at the SQL Adapter. MobileFirst Adapters are server-side components that connect your hybrid mobile application to other things. Those "things" being generally broken down into a few categories, and a few specific adapter types. The SQL adapter is, as you can guess, a connection to a database.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/11/Ask-a-Jedi-What-do-I-need-to-know-to-learn-ColdFusion
+guid: 1201
 ---
 
 A reader asks:

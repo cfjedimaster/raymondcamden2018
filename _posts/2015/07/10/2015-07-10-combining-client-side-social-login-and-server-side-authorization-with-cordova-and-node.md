@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/07/10/combining-client-side-social-login-and-server-side-authorization-with-cordova-and-node
+guid: 6369
 ---
 
 I believe this wins the title for the longest blog title ever. So what in the hell am I talking about? It isn't too difficult to add a social login aspect to your Apache Cordova application. I've used a variety of plugins/libraries in the past and for the most part - it just plain works. Recently however I ran into an issue that I didn't know how to get around. Given that your mobile client authenticates a user against some OAuth provider, and given than you <i>then</i> allow that user to interact with your server, how do a) ensure that the person running the server API is authenticated and b) how do you uniquely identify that user? That's a bit abstract, so how about a real example?

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/01/Sams-list-of-ColdFusion-OneLiners
+guid: 2241
 ---
 
 Just wanted to share a quick link to a cool entry at Sam Farmer's blog:

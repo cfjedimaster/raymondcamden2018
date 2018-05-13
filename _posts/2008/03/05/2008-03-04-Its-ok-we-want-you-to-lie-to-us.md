@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/03/05/Its-ok-we-want-you-to-lie-to-us
+guid: 2691
 ---
 
 I'm was looking at a page in the Yahoo Developer network when I ran across this snippet:

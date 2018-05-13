@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/12/23/2005-in-Review-for-my-blog
+guid: 992
 ---
 
 So this will either excite you or bore you to tears, but I thought I'd do a quick review of the top entries over the past year. I'm basing "top entries" on the entries that gained the most comments. You can see this list on the <a href="http://ray.camdenfamily.com/stats.cfm">stats</a> page, but that list isn't restricted to 2005. Here are the top entries from this year:

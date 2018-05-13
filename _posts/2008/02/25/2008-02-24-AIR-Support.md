@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/25/AIR-Support
+guid: 2671
 ---
 
 And with the final release of AIR, cue the puns. Ok, seriously, I must have some kind of mental block with Adobe's web site. Where does one download documentation for AIR? I did find the online docs, but I had to use the site search tool to find it. I've yet to find a <i>direct path</i> to them.

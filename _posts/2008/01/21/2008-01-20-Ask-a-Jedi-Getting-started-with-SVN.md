@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/01/21/Ask-a-Jedi-Getting-started-with-SVN
+guid: 2604
 ---
 
 Joshua asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/31/ColdFusion-MAX-Unconference-Update
+guid: 2949
 ---
 
 Just a quick update, I've posted the initial (blank for now :) schedule for the CF MAX Unconfernece. I think I may just start calling this CFMU for short. Anyway, you can find it here:

@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2014/07/27/Sunday-OT-Wolfenstein-The-New-Order
+guid: 5275
 ---
 
 <p>

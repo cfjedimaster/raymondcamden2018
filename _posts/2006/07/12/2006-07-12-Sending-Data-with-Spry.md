@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/12/Sending-Data-with-Spry
+guid: 1397
 ---
 
 So I've showed a few Spry examples that are great examples of displaying XML data using AJAX. But so far, these have all been "Read Only" type demonstrations. By that I mean, I simply used Spry as a nicer front end to my applications. One question you may have is - how do I use Spry to communicate <i>back</i> to the server? There are two answers to this question based on what you actually have in mind.

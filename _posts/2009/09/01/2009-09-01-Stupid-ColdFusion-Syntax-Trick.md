@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/01/Stupid-ColdFusion-Syntax-Trick
+guid: 3508
 ---
 
 I was in a development meeting earlier today and the following typo came up on screen:

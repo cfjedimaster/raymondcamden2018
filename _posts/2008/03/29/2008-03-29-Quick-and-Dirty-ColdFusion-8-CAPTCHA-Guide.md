@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/29/Quick-and-Dirty-ColdFusion-8-CAPTCHA-Guide
+guid: 2738
 ---
 
 Many moons ago I wrote a blog entry on doing CAPTCHA's in ColdFusion (<a href="http://www.raymondcamden.com/index.cfm/2006/11/14/Quick-and-dirty-CAPTCHA-Guide#cFD0E4FC7-19B9-E658-9D538572D8F9CABF">Quick and dirty CAPTCHA Guide</a>). This guide discussed how to add CAPTCHA images to your forms using third party tools in ColdFusion 7. One of the new features in ColdFusion 8 is built-in CAPTCHA support, so I thought it would be nice to upgrade the guide.

@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/12/11/cordova-example-sending-sms-messages
+guid: 5437
 ---
 
 <div class="note">

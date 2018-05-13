@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/23/Creating-a-Mailing-List-in-ColdFusion-Part-2
+guid: 1286
 ---
 
 Welcome to the second part of my series on how to create a simple mailing list in ColdFusion. Be sure to read the <a href="http://ray.camdenfamily.com/index.cfm/2006/5/22/Creating-a-Mailing-List-in-ColdFusion-Part-1">first entry</a> in the series before starting this one. As previously mentioned, the goal of this application is to create a simple way for users to sign up at your web site. An administrator can then use a tool to send an email to folks who have signed up. Today's entry will deal with the administrator a bit. Now I'm going to cheat a bit. I don't want to spend a lot of time on security and all that, so I'm going to write a script and place it in the same folder as my other files. <b>Obviously in a real world application this file would be placed in a protected folder.</b> The specific item to add to our application today is a simple interface to list the subscribers and add/delete folks. Later in the series I'll discuss how folks can delete themselves, but the honest truth is that even if you provide such a method, folks will still email you (or call you) and demand that you remove them. So lets work on a tool that will make that simple.

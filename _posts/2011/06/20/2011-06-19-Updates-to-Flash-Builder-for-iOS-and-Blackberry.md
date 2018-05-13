@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/06/20/Updates-to-Flash-Builder-for-iOS-and-Blackberry
+guid: 4274
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/Adobe_Flash_Builder_4_Logo.png" align="left" /> Just a quick note to let folks know Adobe has updated Flash Builder 4.5 today to add support for iOS and Blackberry Playbook. This means you can now easily push out <b>one</b> project to all three platforms - even on a Windows device. (I did this myself.) For more details, check out these two blog posts:

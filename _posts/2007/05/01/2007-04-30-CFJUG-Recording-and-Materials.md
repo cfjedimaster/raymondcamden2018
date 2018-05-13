@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/01/CFJUG-Recording-and-Materials
+guid: 1993
 ---
 
 If you missed the meeting last, you can view the recording here:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/21/Quick-Applicationcfc-Review
+guid: 1909
 ---
 
 A user sent in a request for me to look over some code he would like to use for his Application.cfc file. (As an aside, don't forget my online <a href="http://www.raymondcamden.com/downloads/app.pdf">Application.cfc</a> template you can use.) The template looked nice but had one main issue that I noticed. Since the user got the template from someone else, I won't post the whole thing as it isn't my code, but I will demonstrate the problem I saw.

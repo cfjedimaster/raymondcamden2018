@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/21/Goodbye-for-a-while-and-some-quick-media-reviews
+guid: 2940
 ---
 
 So I've been more than a little quiet this week and I apologize for that. I'm currently sitting at SFO waiting for my 12:30 AM flight back home. Tuesday my family and I are heading out for my first real vacation in close to two years. I'll be back on the 29th but I doubt I'll have any entries between then and now. I've got Ben covering <a href="http://www.riaforge.org">RIAForge</a> while I'm gone. Please understand if it takes me a bit longer (like, oh, 7 days) to respond to email. 

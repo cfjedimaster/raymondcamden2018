@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/13/Help-spread-the-word-post-a-ColdFusion-Cookbook-entry-and-win-ColdFusion-9
+guid: 3562
 ---
 
 Adobe recently released their updated Cookbooks site, including the new <a href="http://cookbooks.adobe.com/coldfusion">ColdFusion Cookbook</a>. To help get the cookbook filled with content even quicker, Ed Sullivan has <a href="http://blogs.adobe.com/adc/2009/10/coldfusion_cookbook_contest_-.html">announced</a> that if you are one of the first 100 people to make a submission, you will be entered into a raffle to win a <b>free copy</b> of ColdFusion 9! 

@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/12/Building-an-offline-capable-mobile-web-site-with-jQuery-Mobile
+guid: 4155
 ---
 
 Earlier this week I decided to try an experiment. Unfortunately it was not a complete success. However, I feel like I got close enough to blog about it. I got to about 90% of where I wanted to be and maybe one of my readers can help me overcome the issues I ran into.

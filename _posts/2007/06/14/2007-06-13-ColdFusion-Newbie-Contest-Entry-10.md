@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/14/ColdFusion-Newbie-Contest-Entry-10
+guid: 2121
 ---
 
 This last entry in the <a href="http://www.raymondcamden.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie Contest</a> is here! It is an application created by Phillip Senn. As with the previous entry, I had difficulty setting up the code locally (due to my not having SQL Server at the time), so I'm going to point people to the online version: <a href="http://www.aacr9.com/index/camdenfamily/tamagotchi/">http://www.aacr9.com/index/camdenfamily/tamagotchi/</a>

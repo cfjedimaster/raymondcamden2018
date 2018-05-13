@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/08/Speaking-tonight-at-Boston-CFUG-on-CFIMAGE
+guid: 2261
 ---
 
 Tonight I'll be speaking at the <a href="http://www.bostoncfug.org/">Boston CFUG</a> on the new CFIMAGE feature in ColdFusion 8. This is a repeat of my presentation at CFUNITED, so if you missed that, you are welcome to attend. The <strike>Breeze</strike>Connect URL is:

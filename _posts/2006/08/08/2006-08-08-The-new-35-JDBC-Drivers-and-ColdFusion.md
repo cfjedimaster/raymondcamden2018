@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/08/The-new-35-JDBC-Drivers-and-ColdFusion
+guid: 1454
 ---
 
 I try not to cross post to other blogs often, but I wanted to point out two interesting articles on Charlie Arehart's blog:

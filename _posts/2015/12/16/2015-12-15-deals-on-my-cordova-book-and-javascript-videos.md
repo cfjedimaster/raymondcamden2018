@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2015/12/16/deals-on-my-cordova-book-and-javascript-videos
+guid: 7257
 ---
 
 Just a quick note to let folks know about two deals regarding my content. First, you can get <strong>half</strong> off of my <a href="http://www.manning.com/camden">Apache Cordova</a> book with the following code: dotd121615au. Other books are included in that deal including their <a href="https://www.manning.com/books/ionic-in-action">Ionic book</a>.

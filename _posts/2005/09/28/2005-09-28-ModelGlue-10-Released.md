@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/28/ModelGlue-10-Released
+guid: 817
 ---
 
 Folks, I cannot stress enough the amount of respect and admiration I have for the <a href="http://www.model-glue.com">Model-Glue</a> framework. I was surprised and very excited to hear that <a href="http://www.model-glue.com/index.cfm?mode=entry&entry=9D495E59-E081-2BAC-693525110654574B">1.0</a> was released today. I encourage <i>everyone</i> to check out this release.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/01/DateDiff-and-Wholeness
+guid: 4292
 ---
 
 This surprised a reader of mine recently and while it falls into the "Obvious" category, I bet it's something folks forget - or may not remember when debugging a problem with their application. Without running the code below, can you tell me what the result is?

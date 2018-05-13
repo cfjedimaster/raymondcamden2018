@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/16/JavaScript-Errors-and-the-Firefox-Console
+guid: 5008
 ---
 
 This may fall into the category of "so obvious I'm the only one who didn't get it", but I just had to share it. I'm preparing a blog post where I've got an intentional error in my JavaScript code. I noticed that it wasn't showing up in the Firefox console though. I added a console.log message before the error - and it showed up - but my error never did.

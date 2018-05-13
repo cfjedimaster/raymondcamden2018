@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/16/Galleon-ColdFusion-Forums-15-Released
+guid: 783
 ---
 
 Another week, another new release. Sorry BlogCFC folks, I've been all tied up in Forums lately, I'll return to BlogCFC 4.0 (and the <a href="http://mg.cflib.org">Model-Glue CFLib</a>) one day. So what is new in the 1.5 release?

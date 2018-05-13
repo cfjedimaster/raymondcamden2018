@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/20/Simple-ColdFusion-9-ORMSolr-Example
+guid: 3497
 ---
 
 Last night I decided to whip together a simple example of how to add Solr search indexing to an application. Luckily, for the most part, this is the exact same process we've been using for years now with Verity. I know many people avoided Verity due to the document size limits so with that in mind, I thought a simple ColdFusion 9 example would help introduce the feature. To start off with, let me show you a simple application that has no search capability at all. This will be the first draft application that I'll modify to add Solr support.

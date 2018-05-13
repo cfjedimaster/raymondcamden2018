@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/08/Multiple-Presentations-Today
+guid: 2461
 ---
 
 Today I'm giving two presentations. These are not new presentations, but if you missed them before it is an excellent chance to watch them live.

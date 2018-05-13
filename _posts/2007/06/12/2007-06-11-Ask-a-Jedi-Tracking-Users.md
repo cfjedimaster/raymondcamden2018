@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/12/Ask-a-Jedi-Tracking-Users
+guid: 2114
 ---
 
 Rob sent in an interesting question this morning concerning tracking users and their activities. It is a rather long read, but please check it out and let me know what you think. (Also, I've been getting a <b>lot</b> of email from Australia lately. I knew there were a bunch of ColdFusion developers down there, but who knew there were so many! I'm going to have to buy some Coopers and fly down there some time.)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/22/Ask-a-Jedi-Handling-print-format-when-using-custom-tags
+guid: 2557
 ---
 
 Devon asks:

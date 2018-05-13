@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/04/05/Quick-Code-Sample-Add-your-Behance-portfolio-to-your-web-site
+guid: 4903
 ---
 
 A few months ago Adobe acquired <a href="http://www.behance.net">Behance</a>, a sort-of "LinkedIn for Artists" (thanks TechChrunch for that description). At the time I didn't really pay attention, but earlier this week I spent some time on the site and was incredibly impressed. I think it is fair to assume that a majority of my visitors here fall more on the developer side than designer, but I'd still recommend you check the site out. Even as a non-designer, I found the site <i>really</i> cool. It is a pleasure to use. You can also use the site as a way to keep up with your favorite designers. Currently there are over one million users so there's a pretty huge community already. For a good example, check out the work from my coworker Greg Wilson: <a href="http://be.net/gwilson">http://be.net/gwilson</a>

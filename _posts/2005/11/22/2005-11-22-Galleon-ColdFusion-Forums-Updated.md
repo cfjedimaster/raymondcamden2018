@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/22/Galleon-ColdFusion-Forums-Updated
+guid: 933
 ---
 
 Galleon has been updated today, and it finally has a <a href="http://ray.camdenfamily.com/projects/galleon">project page</a>. So what was changed?

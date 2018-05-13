@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/25/Ask-a-Jedi-onMissingTemplate-in-ColdFusion-7
+guid: 3406
 ---
 
 Craig asks:

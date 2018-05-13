@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/07/25/Good-example-of-practical-microdata
+guid: 4685
 ---
 
 Microdata (<a href="http://en.wikipedia.org/wiki/Microdata_(HTML)">Wikipedia ref</a>) is one of those HTML5 things that I've been meaning to take a closer look at for some time. At a very high level, you can think of microdata as a way of embedding context into your HTML to provide information to search engine crawlers and browsers. It isn't meant for the human eye, but can help out automated agents viewing your site. 

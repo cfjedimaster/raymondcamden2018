@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/19/Recording-for-Intro-to-ColdFusion-9-ORM
+guid: 3614
 ---
 
 For those who couldn't make my ColdFusion 9 ORM presentation today, Charlie Arehart has posted the recording:<br/>

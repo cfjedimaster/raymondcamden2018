@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/16/ColdFusion-Security-Checklist
+guid: 1337
 ---
 
 A few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2006/6/14/Top-10-PHP-Vulnerbalities">blogged</a> about a list of PHP vulnerabilities and how they applied to ColdFusion users as well. With that in mind I've created a one page resource for ColdFusion users:

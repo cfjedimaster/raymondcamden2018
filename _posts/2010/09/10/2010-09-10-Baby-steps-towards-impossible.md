@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/09/10/Baby-steps-towards-impossible
+guid: 3937
 ---
 
 Ok, so I don't often get philosophical here - I'm not that kind of guy - but I heard something pretty important a few days ago at the last Google keynote that I wanted to share with my readers. It had a huge impact on me when I heard it and I hope I can do a good job of conveying what I felt then.

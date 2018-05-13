@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/06/11/Important-Update-for-ColdFusion-Builder-3-Users
+guid: 5243
 ---
 
 <p>

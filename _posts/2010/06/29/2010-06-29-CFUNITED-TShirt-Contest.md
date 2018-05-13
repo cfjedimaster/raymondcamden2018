@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/06/29/CFUNITED-TShirt-Contest
+guid: 3863
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_tag_shirt_contest.gif" title="CFUNITED Shirt Contest" align="left" style="margin-right: 5px" /> 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/04/Increasing-the-canvas-size-of-an-image
+guid: 3513
 ---
 
 In ColdFusion, how would you increase the canvas size of an image without actually stretching the image? I played with this today while eating my peanut butter and jelly (PB&J FTW) and came up with the following solution. The basic idea is pretty simple. You make a new image of the desired canvas size and then just paste in the old image. Here is a simple hard coded example.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/13/CF901-CFDump-Update
+guid: 3876
 ---
 
 I just blogged a few minutes ago about the new ColdFusion 9.0.1 release so I thought I'd make my first detailed blog post a bit simple - updates to CFDUMP. CFDUMP is one of those tags that is almost never used in production, but is pretty much <b>essential</b> to your day to day development. Therefore any and all small little update to the tag could be incredibly helpful. Back when TOP was added I cheered - and yet folks still don't know about it today. While there weren't any new features added, 9.0.1 does correct a few issues that may be important to you.

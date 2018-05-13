@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2007/10/13/bioshock-versus-halo-3
+guid: 2411
 ---
 
 Now that the WACK is mostly behind me, I've had a bit more time to play video games. Earlier this week I wrapped up <a href="http://www.2kgames.com/bioshock/">BioShock</a> and last night I wrapped <a href="http://www.halo3.com/">Halo 3</a>. I've only played the single player campaign for Halo 3, but I thought I'd talk a bit about how I felt the two compared.

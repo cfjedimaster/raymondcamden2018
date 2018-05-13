@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/15/Using-CFMAILs-server-attribute-to-store-additional-information
+guid: 1766
 ---
 
 Did you know that <a href="http://www.cfquickdocs.com/?getDoc=cfmail">CFMAIL's</a> server attribute allows you to pass in the username, password, and port information as well? Why would you do that? Let's say you are building code for an application where the port setting may not exist. Your server is set to mypop.com. To conditionally add the port you could do something like this:

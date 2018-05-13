@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/08/10/Friday-Joke-Share-your-best-geek-one-liner
+guid: 2269
 ---
 
 So I'm not actually in a joking mood today. In fact, I'm in about as foul of a mood as I can be, but since I don't want to talk about it yet, I figure a distraction might be nice. A few days ago I was talking to a friend and shared what I thought was a pretty darn funny. 

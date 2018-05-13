@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/09/11/Using-Local-Storage-to-keep-a-draft-of-form-data
+guid: 4360
 ---
 
 As a blogger, one of the things I'm well aware of is how unstable a browser can be. You probably don't think of how often your browser crashes (and to be fair, it's probably been a good month since mine crashed and I run a bleeding edge Chrome install), but if you were ever 500 or so words into a blog entry (or forum posting, or comment) and your browser crashes - you become pretty aware of how nice Word's Auto Save feature is. I first blogged about this back in 2007 (<a href="http://www.raymondcamden.com/index.cfm/2007/1/1/Saving-data-in-case-of-brower-crashes">Saving data in case of brower crashes</a>). Back then I used cookies to store a temporary copy of form data while the user was editing. I thought it might be nice to update the idea using HTML 5's Local Storage feature.

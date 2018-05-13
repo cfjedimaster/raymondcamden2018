@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/09/Delaying-an-Edge-Animate-asset-until-visible-Part-3
+guid: 5003
 ---
 
 Surprisingly, my blog posts (see the Related Entries section below) on <a href="http://html.adobe.com/edge/animate/">Edge Animate</a> and delaying animations were much more popular than I thought. In the comments section folks came up with some interesting questions and discussions about the techniques I presented. One of them was rather fascinating - and like all good questions - led to some interesting code.

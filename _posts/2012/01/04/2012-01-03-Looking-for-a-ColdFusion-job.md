@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/04/Looking-for-a-ColdFusion-job
+guid: 4480
 ---
 
 My former employers, REX Technologies, are looking to hire some folks. It's a great place to work and there's some really smart folks there. For more details, see the details below. (By the way - the contact below, Chris Seim, is my former boss. He was one of the best managers I've had in my career.) 

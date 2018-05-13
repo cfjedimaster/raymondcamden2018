@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/21/Ask-a-Jedi-Tracking-Users
+guid: 1483
 ---
 
 Paul asked me this morning if there was a simple way to track the users currently using your site. There are a couple of ways you can handle this. Let's consider a simple example where you want to track <i>known</i> (i.e. logged in) users of an application. This means two things:

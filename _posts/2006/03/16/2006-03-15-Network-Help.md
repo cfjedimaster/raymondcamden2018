@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/03/16/Network-Help
+guid: 1154
 ---
 
 So, my readers know that I'm not the best hardware guy. The same can be said for my networking skills. I have (what is to me) a complex network setup here at my home. It begins with a cable modem upstairs. This is connected to a simple hub. One of the ports goes to a powerline ethernet bridge. Downstairs, I have another powerline ethernet bridge that is connected to a wireless hub. Why the bridge? Wireless simply doesn't work well when it's directly connected to the cable modem upstairs. 

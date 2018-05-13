@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/27/Framework-One-Sample-Application-QBall
+guid: 3736
 ---
 
 I've blogged about <a href="http://fw1.riaforge.org">Framework One</a> (FW/1) a few times before. The more I look at it, the more I grow to like it and appreciate it's way of doing things. I don't prefer it <i>over</i> Model-Glue, but I think it's got a lot going for it, and I think it will appeal to people who may not like Model-Glue. One of the biggest differences between FW/1 and Model-Glue is that almost everything you do in FW/1 is implicit in nature. There is no XML. There is no set of declarations for each event. Instead, the framework will do almost everything for you and save you from writing a lot of code that - for the most part - isn't strictly necessary. This post isn't meant to teach you FW/1 - see the <a href="http://fw1.riaforge.org/wiki/">docs</a> for that. Rather I thought I'd share my experiences (and code!) for my first "real" application. Before I go any further though - please keep in mind: This is my <b>FIRST</b> FW/1 application. Do you remember your first ColdFusion application? Yeah - this is worse. I'm sure Sean and others who have used FW/1 will be able to tear this apart. That being said - I <b>enjoyed</b> writing this, and I <b>enjoyed</b> using the framework. I hope this sample is useful to others in some way.

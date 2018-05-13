@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/24/Server-monitoring-with-ColdFusion
+guid: 1609
 ---
 
 Unlocking the CF Server Black Box

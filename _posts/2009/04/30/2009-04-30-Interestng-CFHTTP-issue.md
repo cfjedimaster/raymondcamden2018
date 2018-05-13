@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/30/Interestng-CFHTTP-issue
+guid: 3335
 ---
 
 Here is an interesting issue that came from a reader. He is using Yahoo's stock quote system to get data using CFHTTP. Here is the code he used:

@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2011/04/26/Video-encoding-with-Zencoder
+guid: 4208
 ---
 
 This is something I found a few months ago but I'm just now finally finding the time to write it up. If you've ever had to work with video encoding, you know it can be somewhat difficult, especially if you are looking for an automated solution. I've worked with ffmpeg before, and while it's pretty darn powerful, it can be a chore to set it up correctly and figure out the exact right API to get the results you need. If a client came to me asking for some form of video encoding solution I'd probably punt and say - just use Youtube. That's before I found <a href="http://zencoder.com/">Zencoder</a>.

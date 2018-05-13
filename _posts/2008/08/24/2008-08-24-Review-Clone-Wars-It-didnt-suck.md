@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2008/08/24/Review-Clone-Wars-It-didnt-suck
+guid: 2986
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/poster.png" align="left" style="margin-right:10px;margin-bottom:10px"> Yesterday I took my three kids to see the new Clone Wars movie. I knew it was coming to TV eventually, but I couldn't pass up the chance to see more Star Wars on the big screen. My boys are pretty big Star Wars fans themselves (gee, I wonder where they get that from) and my daughter, well, she loves her daddy so that was enough for her. The title of this blog entry is a bit of a joke. I am not one of those Star Wars fan who hate Lucas or thinks he is raping the franchise. I do think some parts of the prequels suck. But at the same time - I don't see Jar Jar being any more worse than the Ewoks. (Although we do get to see an Ewok die though...) I read quite a few negative reviews of the movie, but I went with an open mind and figured - at worse - my boys would absolutely love it. 

@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/03/24/working-with-ibm-mobilefirst-and-ionic-bootstraping
+guid: 5878
 ---
 
 Yesterday I described how to make use of the <a href="http://www.ionicframework.com">Ionic</a> framework and IBM's <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> platform. Today I'm going to build on that first post and talk about bootstrapping. Specifically - how can you coordinate the use of your application with the Cordova deviceReady and MobileFirst initialization routines. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/05/Friday-Puzzler-Quick-Stats
+guid: 3134
 ---
 
 I tend to be kind of a nerd for stats. I check my Google Analytics often and I also check the <a href="http://www.raymondcamden.com/stats.cfm">stats</a> here every week as well. Both of these options are great, but tend to be more delayed stats than realtime information. 

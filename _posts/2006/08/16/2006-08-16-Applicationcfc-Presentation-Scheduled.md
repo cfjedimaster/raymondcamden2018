@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/16/Applicationcfc-Presentation-Scheduled
+guid: 1475
 ---
 
 Yesterday I posted a query to see who would be interested in a presentation on Application.cfc. I got quite a response, so this morning I went ahead and formally scheduled the meeting. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/07/Ask-a-Jedi-Getting-the-legend-from-CFCHART
+guid: 3773
 ---
 
 Brijesh asks:

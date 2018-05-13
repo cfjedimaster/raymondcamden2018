@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/11/Two-quick-Applicationcfc-questions
+guid: 4118
 ---
 
 This week I got two simple Application.cfc questions that I thought would be interesting to write up. The first one is from Gary and asks:

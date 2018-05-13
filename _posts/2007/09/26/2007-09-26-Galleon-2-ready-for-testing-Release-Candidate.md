@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/26/Galleon-2-ready-for-testing-Release-Candidate
+guid: 2373
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/glogo.png" align="left">

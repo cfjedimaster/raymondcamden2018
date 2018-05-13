@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/09/Ask-a-Jedi-Searching-Encrypted-Values
+guid: 963
 ---
 
 Here is an old entry from my Ask a Jedi files. As a reminder - please do not use the feature for <b>immediate</b> support. I don't always have time to respond. Anyway...

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/05/28/Update-your-bookmarks-for-the-ColdFusion-Docs
+guid: 5233
 ---
 
 <p>

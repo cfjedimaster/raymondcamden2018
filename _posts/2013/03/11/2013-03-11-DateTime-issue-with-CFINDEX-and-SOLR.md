@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/03/11/DateTime-issue-with-CFINDEX-and-SOLR
+guid: 4878
 ---
 
 I'm not sure if this is a bug or totally expected, but as it hit my blog, I figured I'd share it. A reader (thank you Aaron!) noted that searches on my blog were all returning dates in 2000 and 2001:

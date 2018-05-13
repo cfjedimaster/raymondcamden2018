@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/09/27/Building-a-Parsecom-Enabled-PhoneGap-App-Part-3
+guid: 4743
 ---
 
 Welcome to the third part of my blog series on building a <a href="http://www.parse.com">Parse.com</a> enabled <a href="http://www.phonegap.com">PhoneGap</a> application. If you haven't yet read the earlier entries in this series, please see the links at the bottom for background and the story so far. In today's entry, I finally get to some code! Not a whole lot of code, but actual data gets created and displayed which is quite a bit farther than we've gotten so far.

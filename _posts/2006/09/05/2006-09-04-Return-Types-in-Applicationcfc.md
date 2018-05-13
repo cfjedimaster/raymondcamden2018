@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/05/Return-Types-in-Applicationcfc
+guid: 1514
 ---
 
 Peter sent in an interesting question this morning, especially as it relates to my <a href="http://ray.camdenfamily.com/index.cfm/2006/9/1/Applicationcfc-Presentation-Files--Recording-URL--Next-Meeting">last presentation</a>:

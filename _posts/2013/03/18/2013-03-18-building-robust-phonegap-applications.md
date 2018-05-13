@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/03/18/building-robust-phonegap-applications
+guid: 4883
 ---
 
 Lately I've been thinking more about how to make my PhoneGap applications more robust. By robust, I'm not necessarily talking about performance. While that is important (see my coworker's excellent blog post on the topic: <a href="http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/">Performance & UX Considerations For Successful PhoneGap Apps</a>), I'm thinking more about the general stability of the application as a whole. This is especially important for applications that need, or desire, data only available on the network. How you handle network conditions is just as important as how you handle the UX and performance of your application. (Well, that may be up to debate. :) In this blog post I'm going to share some thoughts and examples of what I mean by this and - as always - I look forward to your comments, suggestions, and corrections.

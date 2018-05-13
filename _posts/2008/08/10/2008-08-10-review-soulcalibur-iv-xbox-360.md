@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2008/08/10/review-soulcalibur-iv-xbox-360
+guid: 2967
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B000ZKDOVW&nou=1&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;margin-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe> So I have an admission to make. I've been playing fighting games for about as long as I can remember, but I've always been more of a button masher than anything else. I may learn a move or two, but I generally just like to run into a fight and win by going crazy. That's what I call tactics. If a game allows that, then I'm happy. Soulcalibur IV was my first introduction to the series so I can't compare to any of the previous incarnations. It's also only the second fighting game on the 360 I've played. (I've got a copy of Dead or Alive as well.) So what did I think?

@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2013/03/11/LocalStorage-Monitor-Updated
+guid: 4877
 ---
 
 Just an FYI - if you follow this blog pretty regularly, then you know I'm a big fan of the LocalStorage API. It is one of those simple, <i>practical</i> APIs that I think are far more useful than the much praised/talked about canvas tag. A while ago I built a Chrome Extension called the <a href="https://chrome.google.com/webstore/detail/localstorage-monitor/bpidlidmmmnapeldonddkjmmjkpeiabi">LocalStorage Monitor</a>. The idea being that I wanted to know when sites were making use of LocalStorage and have a quick way to view that usage.

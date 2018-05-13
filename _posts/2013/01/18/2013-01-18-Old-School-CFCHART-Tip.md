@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/01/18/Old-School-CFCHART-Tip
+guid: 4833
 ---
 
 For those of you still on ColdFusion 9 or running ColdFusion 10 Standard edition, this tip may help you. A reader wanted to know how to have a CFCHART legend with only one value in it. I wasn't quite sure what he meant, so I asked him for a quick demo.

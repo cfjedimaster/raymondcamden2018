@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/22/Building-your-first-ModelGlue-application-part-6
+guid: 1161
 ---
 
 Welcome to (yet another) entry on my series on building a Model-Glue application. I thought I'd take a step back and add some spice to the site. What do I mean by spice? Oh how about a decent layout. Not that I have any design skills mind you, in fact, the design you will see was ripped right from <a href="http://www.oswd.org">Open Source Web Design</a>. This entry will discuss how to apply layout to a Model-Glue site and we will also add one more bit of actual functionality (for those of you who care about such things).

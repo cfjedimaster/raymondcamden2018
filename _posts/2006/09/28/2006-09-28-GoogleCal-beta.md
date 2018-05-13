@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/28/GoogleCal-beta
+guid: 1563
 ---
 
 Ugh. That's all I can say. I spent a few hours the last few nights trying to get GoogleCal able to add events. I was finally able to do so with some help from Teddy Payne and a nice fellow on Google Groups. But wow. What an experience after working with the Yahoo services. How bad was it? This is how you add an event in Google's Calendar API.

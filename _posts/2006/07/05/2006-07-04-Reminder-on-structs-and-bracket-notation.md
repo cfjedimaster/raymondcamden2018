@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/05/Reminder-on-structs-and-bracket-notation
+guid: 1374
 ---
 
 A friend sent in an interesting problem yesterday that had a quick solution:

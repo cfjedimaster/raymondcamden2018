@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/18/Ask-a-Jedi-Question-about-learning-frameworks-and-other-things
+guid: 2776
 ---
 
 Henry asks quite a few questions regarding frameworks so I've split up his email into smaller parts.

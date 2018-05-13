@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/02/PhoneGap-file-upload-to-ColdFusion
+guid: 4418
 ---
 
 This came up on the <a href="https://groups.google.com/forum/#!forum/phonegap">PhoneGap Forums</a> today so I thought I'd take a quick look at how PhoneGap handles file uploads. Turns out there is <i>really</i> nice support for it built-in, but you can quickly run into an issue with ColdFusion if you don't know one little tip.

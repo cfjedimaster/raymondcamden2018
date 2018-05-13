@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/31/ColdFusion-8-Demo-of-CFGRID-Ajax-binding-and-CFWINDOW
+guid: 2078
 ---
 
 <img src="http://ray.camdenfamily.com/images/traffic_thumb.jpg" align="left" hspace="10"> 

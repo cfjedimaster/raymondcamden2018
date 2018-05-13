@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/18/Ask-a-Jedi-CFC-Scope-Question
+guid: 2713
 ---
 
 Jason asks:

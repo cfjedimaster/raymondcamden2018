@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/06/Saving-images-from-an-RSS-feed-with-ColdFusion
+guid: 4258
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2011/6/5/ColdFusion-Sample--Reading-a-RSS-Feed">blogged</a> a simple example of using ColdFusion's RSS parsing feature with the cffeed tag. One of the readers who commented on the story mentioned that he was interested in using cffeed to parse an RSS feed from the National Geographic. What made this feed a bit different is that it was specifically for pictures. He wanted to take those pictures and download them. What follows is a simple template that does just that. (I'll warn folks now though - I did not check what NG's requiresment were for copyright notices. You will want to do that if you make use of this code.)

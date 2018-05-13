@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/19/BSG-Versus-Lost
+guid: 1413
 ---
 
 Ok, it's not really a Battlestar Galactica versus Lost post, but I did have two things to share.

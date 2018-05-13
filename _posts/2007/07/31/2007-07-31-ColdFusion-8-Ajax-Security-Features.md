@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/31/ColdFusion-8-Ajax-Security-Features
+guid: 2239
 ---
 
 There are some interesting new features in ColdFusion 8 related to security that I thought I'd share. I just discovered them myself (I'm writing one of the Ajax chapters for CFWACK) and I thought I'd share.

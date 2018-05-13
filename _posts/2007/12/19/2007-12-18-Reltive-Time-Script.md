@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/19/Reltive-Time-Script
+guid: 2550
 ---
 
 A few minutes ago a user in the ColdFusion IRC channel asked about an ActionScript relative time script. What is a relative time script? It translates something like "December 10" to "8 days ago". Turns out Google found a bunch of examples <a href="http://twitter.pbwiki.com/RelativeTimeScripts">here</a>. I took the first example, a JavaScript one, and rewrote it. This version is ColdFusion 8 only since it uses &lt;, but you could change that in about 2 nanoseconds for a cf7 and earlier version. I'll add this up to CFLib a bit later probably.

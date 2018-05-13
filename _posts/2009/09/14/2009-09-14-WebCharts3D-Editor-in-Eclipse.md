@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/14/WebCharts3D-Editor-in-Eclipse
+guid: 3525
 ---
 
 Wow, this is pretty cool. While researching ColdBox this morning I ran across a <b>very</b> cool thing - apparently the WebCharts folks created an Eclipse plugin to aid in your chart editing. More details may be found <a href="http://www.gpoint.com/website/WebCharts50/products/eclipse.jsp">here</a>. This allows you to edit charts directly in Eclipse as opposed to running the BAT/sh file at the command line.

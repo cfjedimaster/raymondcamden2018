@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/09/CFFILEUpload-Issue-I-ran-into
+guid: 2869
 ---
 
 A few days ago I was debugging an issue with <a href="http://canvas.riaforge.org">Canvas</a> when I ran across an interesting issue with CFFILE, action=upload. The user reported that the files he uploaded via the wiki were not visible. With some debugging, I found that files named foo.whatever ended up being upload to a folder with the same name as the filename, so instead of having the file end up here:

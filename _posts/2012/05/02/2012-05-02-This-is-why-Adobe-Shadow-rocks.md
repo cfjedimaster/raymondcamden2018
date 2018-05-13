@@ -6,6 +6,7 @@ categories: [development,html5,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/02/This-is-why-Adobe-Shadow-rocks
+guid: 4605
 ---
 
 <img src="https://static.raymondcamden.com/images/shadow_128x128.gif" style="float:left;margin-right: 15px;" /> I've blogged about <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a> before, and I've played with it, but I don't think I truly appreciated it till just now.

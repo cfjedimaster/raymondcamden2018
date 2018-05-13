@@ -6,6 +6,7 @@ categories: [development,jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/19/Using-jQuery-to-add-form-fields
+guid: 3244
 ---
 
 A reader on <a href="http://www.raymondcamden.com/index.cfm/2008/9/10/Ask-a-Jedi-Dynamically-updating-line-items-on-a-form#c66689663-19B9-E658-9D8C331055BBD5D8">another post</a> asked me about using jQuery to dynamically add form fields to an existing form. I whipped up a quick demo that I'd like to get folks opinions on. Here is what I came up with:

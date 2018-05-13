@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/10/07/Article-New-Linting-API
+guid: 5055
 ---
 
 <p>

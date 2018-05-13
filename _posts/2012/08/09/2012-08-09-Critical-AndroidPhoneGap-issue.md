@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/08/09/Critical-AndroidPhoneGap-issue
+guid: 4699
 ---
 
 Ugh. I spent a few hours this week trying to figure out why a previously-working PhoneGap app was having an odd issue in one small part of the application. The issue involved a set of buttons that linked to a detail page. Each link pointed to the same HTML file and used a URL parameter to pass along information. In other words, something like detail.html?id=1 or detail.html?id=2. I've <a href="http://www.raymondcamden.com/index.cfm/2012/2/24/Getting-URL-parameters-in-a-jQuery-Mobile-page">blogged</a> about this before.

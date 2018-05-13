@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/02/19/ColdFusion-SplendorThunder-Public-Betas
+guid: 5156
 ---
 
 <p>

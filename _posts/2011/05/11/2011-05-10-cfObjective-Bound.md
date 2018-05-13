@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/05/11/cfObjective-Bound
+guid: 4228
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/airplane.gif" style="float:left;margin-right:10px" />I'm sitting in Lafayette's excellent airport (excellent in terms of free wifi even though they use a content file that blocks any url with ass in it, like, oh, say assets for CSS *sigh*) waiting my flight to Minneapolis and cfObjective. Last year's conference was incredible and I'm really looking forward to this year. I'll be giving a session on building ColdFusion Builder extensions, so if you've never looked at that process before, please show up. I'll also be giving a small part of the keynote and a lightning talk as well. 

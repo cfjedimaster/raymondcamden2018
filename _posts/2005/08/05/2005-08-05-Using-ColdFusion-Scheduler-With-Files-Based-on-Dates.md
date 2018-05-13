@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/05/Using-ColdFusion-Scheduler-With-Files-Based-on-Dates
+guid: 673
 ---
 
 A user in the ColdFusion IRC room asked how he (I assume he) could use the cfschedule; tag such that when the task executed, it would save a different file per day. 

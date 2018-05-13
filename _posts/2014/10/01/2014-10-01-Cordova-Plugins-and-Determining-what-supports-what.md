@@ -6,6 +6,7 @@ categories: [html5,mobile]
 tags: []
 banner_image: 
 permalink: /2014/10/01/Cordova-Plugins-and-Determining-what-supports-what
+guid: 5321
 ---
 
 <p>

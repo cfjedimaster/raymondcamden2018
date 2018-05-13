@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/13/ColdFusion-Newbie-Contest-Entry-9
+guid: 2118
 ---
 
 Welcome to the second to last entry in my <a href="http://www.raymondcamden.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie contest</a>. I should be hitting up the last one tonight and announcing a winner tomorrow or Friday. These last two took a while because I wasn't able to get them running locally. Now normally that would be a disqualification. But - as both of these submissions had online versions, I decided to give them a review and include them in.

@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/02/28/My-IndexedDB-recording-and-a-few-notes
+guid: 4869
 ---
 
 Here is the recording URL for the presentation I just gave on IndexedDB: <a href="http://experts.adobeconnect.com/p30v2nmantc/">http://experts.adobeconnect.com/p30v2nmantc/</a>

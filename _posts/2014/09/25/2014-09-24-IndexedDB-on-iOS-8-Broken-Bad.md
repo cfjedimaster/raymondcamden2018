@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/09/25/IndexedDB-on-iOS-8-Broken-Bad
+guid: 5317
 ---
 
 <div class="status status-success">

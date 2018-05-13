@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/30/Ask-a-Jedi-Automatically-selecting-certain-values-with-ColdFusion-Ajaxbound-controls
+guid: 4032
 ---
 
 Shawn asked:

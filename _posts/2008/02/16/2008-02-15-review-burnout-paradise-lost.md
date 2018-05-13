@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2008/02/16/review-burnout-paradise-lost
+guid: 2654
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B000MUXLOK&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&nou=1" style="width:120px;height:240px;margin-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"  align="left"></iframe> When it comes to video games, one of my favorite genres are racers. I tend to divide racers into two main categories. On one side you have "serious" racers like Turismo and Forza. These games require serious skills. Every turn requires planning and you try to memorize courses and proper lines.

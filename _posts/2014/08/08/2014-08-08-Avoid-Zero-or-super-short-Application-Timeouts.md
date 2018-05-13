@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/08/08/Avoid-Zero-or-super-short-Application-Timeouts
+guid: 5283
 ---
 
 <p>

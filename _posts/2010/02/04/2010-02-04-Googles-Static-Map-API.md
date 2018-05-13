@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/04/Googles-Static-Map-API
+guid: 3708
 ---
 
 I discovered something cool today - Google has a <a href="http://code.google.com/apis/maps/documentation/staticmaps/">"Static" Maps API</a>. What is that exactly? While Google Maps is <i>very</i> powerful, it requires the use of JavaScript. For simple maps, or for embedding maps into PDFs, you can't use regular Google Maps. This gets around it. The API is a simple URL based service that returns the image in binary form. So for example, to create a map for my area, I'd use this URL:

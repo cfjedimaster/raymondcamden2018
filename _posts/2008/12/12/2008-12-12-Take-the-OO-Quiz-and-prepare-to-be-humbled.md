@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/12/12/Take-the-OO-Quiz-and-prepare-to-be-humbled
+guid: 3146
 ---
 
 Hal Helms has posted an interesting quiz to his site:

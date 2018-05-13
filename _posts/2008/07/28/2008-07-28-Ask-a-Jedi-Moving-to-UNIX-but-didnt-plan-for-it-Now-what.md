@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/28/Ask-a-Jedi-Moving-to-UNIX-but-didnt-plan-for-it-Now-what
+guid: 2943
 ---
 
 Sandeep asks:

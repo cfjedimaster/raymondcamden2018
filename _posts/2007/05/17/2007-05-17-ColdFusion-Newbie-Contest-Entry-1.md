@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/17/ColdFusion-Newbie-Contest-Entry-1
+guid: 2044
 ---
 
 <img src="http://ray.camdenfamily.com/enclosures/gothboy%2Egif" align="left" hspace="10"> Welcome to the first entry in the <a href="http://ray.camdenfamily.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie Contest</a>! Before I get started on these reviews, let me lay down the ground rules here. The whole point of this contest is for us to learn. I'm a <b>huge</b> believer in looking at, and talking about, other people's code. I've learned a lot of what I know today from others so I think this contest can really serve as a platform to share and learn. Even those these entries are from newbies, I highly encourage those of you who are more experienced to take a look. You never know when you may learn something. With that being said, I'm going to point out what I like and what I don't like about these applications. I am not a ColdFusion God. You should not take my opinion here for the absolute final word. These are my opinions, nothing more. I encourage others to also chime in with their opinions as well. The number one rule though is to be polite. We were all <a href="http://ray.camdenfamily.com/index.cfm/2007/4/19/Why-you-will-never-read-my-blog-again">beginners</a> at once point and time. So feel free to point out mistakes I didn't find - but be nice!

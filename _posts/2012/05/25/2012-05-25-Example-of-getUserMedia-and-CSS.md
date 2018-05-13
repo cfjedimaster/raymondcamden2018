@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/05/25/Example-of-getUserMedia-and-CSS
+guid: 4629
 ---
 
 One of the more interesting features on the bleeding edge of HTML5 is <a href="http://dev.w3.org/2011/webrtc/editor/getusermedia.html">getUserMedia</a>. This API covers basic access to the user's audio and video devices. I first blogged about this a few weeks ago with my <a href="http://www.raymondcamden.com/index.cfm/2012/4/6/Face-detection-with-getUserMedia">face detection</a> example. Since that time I've been curious what other uses would be possible with this support. As I said in the previous blog entry, chat and quick picture taking is kind of obvious. I'm more interested in the <i>not so obvious</i> (and possibly not very practical ;) examples.

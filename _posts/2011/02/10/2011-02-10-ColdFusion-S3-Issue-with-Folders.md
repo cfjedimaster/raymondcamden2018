@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/10/ColdFusion-S3-Issue-with-Folders
+guid: 4116
 ---
 
 Wow, bad week for ColdFusion/S3 bugs. I reported a few days ago about a <a href="http://www.raymondcamden.com/index.cfm/2011/2/7/ColdFusion-S3-Implementation-bug-with-metadata-and-ACLs">ColdFusion/S3 issue with metadata</a>. Today I verified a bug reported by Stefan Richter on cf-talk concerning folders. I'll keep it short and sweet. If you use ColdFusion's cfdirectory tag to list the contents of a bucket that has a subfolder with no lastdate modified value, you will get an error in ColdFusion. How do you end up with a folder with no lastdate modified value? It's simple enough in the S3 Web tool. Just make a new folder. Obviously this folder was <i>never</i> modified so it makes sense.

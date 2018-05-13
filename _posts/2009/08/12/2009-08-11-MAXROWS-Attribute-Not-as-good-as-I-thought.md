@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/12/MAXROWS-Attribute-Not-as-good-as-I-thought
+guid: 3485
 ---
 
 I think it's somewhat easy to fall into assumptions. Everyone knows X is faster than Y. Everyone knows the so and so function should be avoided. Etc. But it doesn't to double check those assumptions from time to time. You may be surprised. Case in point - MAXROWS. The maxrows attribute for cfquery is a simple way to return only the top N rows of a query. While you can do this in SQL, if you don't know the syntax (and every database is a bit different) than this can be a much simpler way of handling it.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/24/ColdFusion-8-Image-Support
+guid: 1610
 ---
 
 I'm not covering everything here as I was a bit late, but here are the high level features:

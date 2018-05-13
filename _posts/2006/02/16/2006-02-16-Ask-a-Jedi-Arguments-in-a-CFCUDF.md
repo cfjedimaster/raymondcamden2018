@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/16/Ask-a-Jedi-Arguments-in-a-CFCUDF
+guid: 1104
 ---
 
 A reader asks:

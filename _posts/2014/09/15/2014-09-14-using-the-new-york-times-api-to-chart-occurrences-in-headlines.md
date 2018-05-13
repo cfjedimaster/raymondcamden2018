@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/09/15/using-the-new-york-times-api-to-chart-occurrences-in-headlines
+guid: 5309
 ---
 
 <p>

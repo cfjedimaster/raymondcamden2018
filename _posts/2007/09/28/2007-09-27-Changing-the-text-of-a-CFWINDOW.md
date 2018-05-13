@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/28/Changing-the-text-of-a-CFWINDOW
+guid: 2375
 ---
 
 A quick tip - how do you change the text of a window created by CFWINDOW? All you need to do is grab the underlying window object:

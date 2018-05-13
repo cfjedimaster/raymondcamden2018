@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2009/09/03/Making-Subclipse-recognize-a-project-checked-out-from-Subversion
+guid: 3512
 ---
 
 When I typically work with Subclipse, I begin my project doing a checkout. Today I added Subclipse to install of ColdFusion Builder where one of the projects was already pointing to a working directory. I expected, perhaps foolishly, that Subclipse would recognize the .svn folder and just - um - do it's thing. No joy. I happened to guess upon a working solution though and thought I'd share with others. <b>Warning</b> - I have yet to actually commit or update - but I did confirm that I could compare against the latest in the repository.

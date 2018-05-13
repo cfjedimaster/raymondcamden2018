@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2014/07/06/Sunday-OT-Video-Game-Reviews
+guid: 5258
 ---
 
 <p>

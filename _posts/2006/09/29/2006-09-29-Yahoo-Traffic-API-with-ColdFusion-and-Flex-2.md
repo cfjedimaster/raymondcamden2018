@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/09/29/Yahoo-Traffic-API-with-ColdFusion-and-Flex-2
+guid: 1565
 ---
 
 I've talked before about how much I love Flex 2. While I still have trouble remembering the syntax and API at times, I love how it is just as RAD as ColdFusion. How RAD is it? I tend to wake up pretty early. This morning I had a good hour before the kids woke up for school. In that time I took my <a href="http://ray.camdenfamily.com/index.cfm/2006/9/28/Yahoo-Traffic-Example">Yahoo Traffic API</a> sample and turned it into a quick little CFC. I then built the UI you see below. It is a bit big so you may need to increase your resolution a bit. As always - don't hate me because my UI skills suck.

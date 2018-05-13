@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/19/Problem-with-Scatter-graphs-in-ColdFusion
+guid: 3494
 ---
 
 A reader hit me up recently with an odd issue using scatter graphs in ColdFusion. Let's take a look at his data and then I'll show you how it rendered. 

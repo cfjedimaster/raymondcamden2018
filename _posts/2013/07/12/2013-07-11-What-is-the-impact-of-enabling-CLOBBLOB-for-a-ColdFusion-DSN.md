@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/07/12/What-is-the-impact-of-enabling-CLOBBLOB-for-a-ColdFusion-DSN
+guid: 4982
 ---
 
 Yesterday Adam R sent me an interesting question:

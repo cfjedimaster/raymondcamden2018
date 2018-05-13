@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/26/Yahoo-Answers-API-Example
+guid: 1555
 ---
 
 I'm continuing my journey into the Yahoo API. Today let's take a look at <a href="http://answers.yahoo.com/">Yahoo Answers</a>. This is a service where people can ask questions and other people (hopefully bright, intelligent reasonable people, which the net is full of) then answer. While you can use the web to search for Yahoo Answers, you can also use a REST based API. The documentation for this API may be found here:

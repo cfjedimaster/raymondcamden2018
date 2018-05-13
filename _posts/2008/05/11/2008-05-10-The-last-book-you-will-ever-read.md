@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2008/05/11/The-last-book-you-will-ever-read
+guid: 2819
 ---
 
 So I've been thinking about this for quite some time now, and I figured today was as good as any other day to blog it. This may be a rather morbid blog post, but I'd be willing to bet I'm not the only one here who has thought about what I'm about to say.

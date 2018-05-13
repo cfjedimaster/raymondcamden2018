@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2013/03/05/Simple-Reverse-Geocoding-Example
+guid: 4872
 ---
 
 Have you ever seen a web site that seemed to know where you were located? I'm not talking about a map, but the actual <i>name</i> of the location? This is done with a process called "Reverse Geocoding." Whereas geocoding refers to translating a human-readable address into a longitude/latitude pair, reverse geocoding is, well, the opposite of that. Given a longitude/latitude pair, what would be the description of that location. In this blog post I'll show a simple example of this process. My example application will attempt to report the city and state you live in.

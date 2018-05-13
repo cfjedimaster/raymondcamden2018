@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/23/How-to-remove-a-password-from-a-PDF-using-ColdFusion
+guid: 3206
 ---
 
 ColdFusion makes it relatively trivial to create a PDF and password protect it. But how do you edit a PDF to remove that password? Let me begin this blog entry by saying that I am <b>convinced</b> that the solution I am about to provide is the <b>wrong</b> way to solve the problem. I truly can't believe that the awesome CFPDF tag, which does so much, doesn't provide for this simple functionality. I'll be happy to be proved right when someone posts the one line solution. Until then, here is how I solved it using DDX and the power of magical unicorns.

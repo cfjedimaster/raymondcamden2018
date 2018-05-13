@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/29/CFFEED-You-have-failed-me-for-the-last-time
+guid: 2995
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/fail.gif" align="left" alt="This is your CFML. This is your CFML with cffeed." style="margin-right:10px;margin-bottom:10px">

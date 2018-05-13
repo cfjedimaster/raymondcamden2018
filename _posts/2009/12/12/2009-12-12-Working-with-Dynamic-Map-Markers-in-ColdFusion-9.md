@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/12/12/Working-with-Dynamic-Map-Markers-in-ColdFusion-9
+guid: 3644
 ---
 
 John asks:

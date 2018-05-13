@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/29/DirectoryWatcher-and-ColdFusion-Image-Manipulation-Example
+guid: 2441
 ---
 
 Now that ColdFusion 8 gives us a crap load of image functions as well as event gateways in all editions, I thought I'd write up a super quick demo on how you can use both in your application. If you've never played with event gateways before, either because you thought they were too complex or you were running the Standard edition of ColdFusion, you should really take a look now. Event gateways are extremely powerful - but not as complex as you may think.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/06/CFUNITED-Mobile
+guid: 3475
 ---
 
 <img src="http://cfunited.com/blog/images//iphone_app1.jpg" align="left" style="margin-right:10px">

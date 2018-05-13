@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2008/09/10/Ask-a-Jedi-Dynamically-updating-line-items-on-a-form
+guid: 3007
 ---
 
 Sid had the following problem. He has a form with a dynamic number of line items. Each line item has 3 fields. A product quantity, a price per product, and a total for the line item. He wanted to know if it was possible to automatically update the total as you entered prices and quantities, and to also have a grand total. This is solvable via JavaScript of course, with a bit of complexity involved to handle the dynamic number of fields. Here is how I solved it - with both my own JavaScript and a jQuery solution.

@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/07/19/PhoneGap-30-Released-Things-You-Should-Know
+guid: 4987
 ---
 
 Today at <a href="http://pgday.phonegap.com/us2013/">PhoneGap Day</a> version 3.0 was released. This is a pretty significant release in terms of the underlying architecture and there are some things you should know.

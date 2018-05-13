@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/04/09/ColdFusion-Job-Opening-Goodville-Mutual
+guid: 4585
 ---
 
 Software Developer - ColdFusion, Goodville Mutual Casualty Company, New Holland PA

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/24/Simple-example-of-a-Form-post-to-ColdFusion-with-jQuery-Login
+guid: 3287
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2009/3/20/Simple-example-of-a-Form-post-to-ColdFusion-with-jQuery">blogged</a> a simple example of doing an Ajax form post with jQuery to a ColdFusion page. Today I'd like to build upon that simple example by demonstrating a login process that uses jQuery to fire off the authentication requests. I know I keep saying this, but do remember that this is just one way to do this and you could modify this code quite a bit if you wanted it to run a bit differently.

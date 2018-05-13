@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/19/The-new-oddness-and-evenness-of-Spry-14
+guid: 1725
 ---
 
 Ok, I'm not sure if "evenness" is really a word, but if Steve Colbert can make stuff up - so can I. Before Spry 1.4, Spry supported a simple way to apply different CSS styles to datasets rows to support even/odd colors. It was done using the built in variable ds_EvenOddRow. On execution, this would be replaced with even or odd. So in this example:

@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2006/12/09/ColdFsion-handling-of-Subversion-events
+guid: 1703
 ---
 
 I consider myself a casual user of Subversion (SVN). So every now and then I get surprised by what you can do with it. One of the cooler features of SVN is <a href="http://svnbook.red-bean.com/nightly/en/svn.reposadmin.create.html#svn.reposadmin.create.hooks">hook scripts</a>. These are scripts that run based on SVN events, such as committing a file. As you can imagine this is a pretty powerful tool as it lets you have finer control and additional monitoring of your SVN repository.

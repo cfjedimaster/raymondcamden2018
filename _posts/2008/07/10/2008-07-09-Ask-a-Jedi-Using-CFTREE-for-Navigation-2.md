@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/10/Ask-a-Jedi-Using-CFTREE-for-Navigation-2
+guid: 2923
 ---
 
 So last night, during my CF/AJAX presentation, I mentioned that I didn't think most folks made use of cftree, so this question is perfectly poised to prove me wrong. John asks:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/19/I-dub-thee-Idiot-Bait
+guid: 1412
 ---
 
 So after reading an <a href="http://www.markdrew.co.uk/blog/index.cfm/2006/7/19/Strange-but-true">entry</a> on Mark Drew's blog, I eventually ended up on a <a href="http://weblogs.macromedia.com/jd/archives/2003/01/instantet_the_e.cfm">post</a> at John Dowdell's blog that is absolutely hilarious. 

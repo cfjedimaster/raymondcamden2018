@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/15/Error-resizing-a-JPG-with-ColdFusion
+guid: 3441
 ---
 
 I exchanged a few emails yesterday with Steve concerning an issue he was having creating thumbnails in ColdFusion. He had a query of filenames, many of them, and was looping over each and shrinking them down:

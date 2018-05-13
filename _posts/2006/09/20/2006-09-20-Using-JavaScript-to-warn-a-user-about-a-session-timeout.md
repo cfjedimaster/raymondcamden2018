@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2006/09/20/Using-JavaScript-to-warn-a-user-about-a-session-timeout
+guid: 1543
 ---
 
 A coworker asked me this today so I thought I'd whip up a quick example. Many bank sites like to use a JavaScript warning to let you know when your session is about to end. Personally these things bug the heck out of me, but in the interest of helping her out (and others), here is a way to do it in ColdFusion and JavaScript. (Explanation follows the code.)

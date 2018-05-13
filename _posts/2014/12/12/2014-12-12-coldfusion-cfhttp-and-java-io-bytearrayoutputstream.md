@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/12/12/coldfusion-cfhttp-and-java-io-bytearrayoutputstream
+guid: 5442
 ---
 
 I believe I may have blogged this before, but a reader ran into this yesterday so I thought it might be worth sharing. If you are using CFHTTP to hit a remote and seeing java.io.ByteArrayOutputStream in the result, there is a simple solution around that.

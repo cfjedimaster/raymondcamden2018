@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/01/22/Quick-Ripple-Tip-Detecting-Ripple
+guid: 5135
 ---
 
 <p>

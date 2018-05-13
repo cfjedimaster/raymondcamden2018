@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/01/06/Why-I-dont-recommend-Vizio
+guid: 4075
 ---
 
 <b>Be sure to read the PS below. My experience turned from crap to gold as far as I'm concerned.</b>

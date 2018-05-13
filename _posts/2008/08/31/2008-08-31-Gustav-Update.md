@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/08/31/Gustav-Update
+guid: 2996
 ---
 
 For those who are sitting around bored wondering if I'm dead or cutting my way out of my roof yet, here is the latest projection. The pink dot is Lafayette, but I did it by hand and so it may not be 100% precise.

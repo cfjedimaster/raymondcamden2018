@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/23/Canvas-15-Released
+guid: 1488
 ---
 
 I have released a new version of Canvas with some nice new updates. First off though - all of this is from my users, so props to them for helping make the product better! You can download Canvas from the <a href="http://ray.camdenfamily.com/projects/canvas">project page</a>. 

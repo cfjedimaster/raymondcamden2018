@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/20/Spry-update-on-the-way
+guid: 2662
 ---
 
 A little birdie just let me know that a <i>very</i> cool Spry update is on the way. It includes a feature I've been asking about for a while now - custom display functions. What do I mean? Consider the following example (thanks Donald Booth for the code):

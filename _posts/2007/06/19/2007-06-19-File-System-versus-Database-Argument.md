@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/06/19/File-System-versus-Database-Argument
+guid: 2133
 ---
 
 So I could have sworn I've had this discussion on the blog before, and I'm sure I have in the comments, but I'd like to open it up for further discussion into an entry by itself. Today I got this from Michael G:

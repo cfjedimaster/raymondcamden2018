@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/11/09/Random-code-Im-sharing-for-no-good-reason
+guid: 5346
 ---
 
 <p>

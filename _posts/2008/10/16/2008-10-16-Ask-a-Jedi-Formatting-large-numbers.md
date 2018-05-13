@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/16/Ask-a-Jedi-Formatting-large-numbers
+guid: 3056
 ---
 
 This wasn't technically a 'Ask a Jedi' question but was posted to my <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=07898188-19B9-E658-9D6661C09F2AF2F6">forums</a>. The question was - how can we convert numbers into smaller versions? The examples given by the user were:

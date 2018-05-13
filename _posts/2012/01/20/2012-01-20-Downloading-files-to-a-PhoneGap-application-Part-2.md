@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/20/Downloading-files-to-a-PhoneGap-application-Part-2
+guid: 4502
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2012/1/19/Downloading-files-to-a-PhoneGap-application--Part-1">blogged</a> my experiment with downloading files to a PhoneGap application. Today I decided to take my code and try it out on iOS. Along the way I discovered a little bug, and encountered the White List issue with iOS PhoneGap apps. As with the previous entry, please note that this could possibly be done better.

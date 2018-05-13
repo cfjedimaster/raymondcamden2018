@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/13/jQuery-quickie-Reading-the-contents-of-form-fields-in-an-iframe
+guid: 4081
 ---
 
 Mihai asks:

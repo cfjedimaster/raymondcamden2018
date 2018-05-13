@@ -6,6 +6,7 @@ categories: [design,development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/10/10/My-review-of-Ionics-Visual-Application-Builder
+guid: 5332
 ---
 
 <p>

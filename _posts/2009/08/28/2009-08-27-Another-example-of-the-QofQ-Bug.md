@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/28/Another-example-of-the-QofQ-Bug
+guid: 3503
 ---
 
 About two months ago I <a href="http://www.raymondcamden.com/index.cfm/2009/7/2/Query-of-query-issue-with-where-clausejoins">blogged</a> about an interesting Query of Query bug. The bug involved a QoQ that changed the sort order of the original data. This week a user sent in another example of a QoQ causing changes to the original query. Consider the following query:

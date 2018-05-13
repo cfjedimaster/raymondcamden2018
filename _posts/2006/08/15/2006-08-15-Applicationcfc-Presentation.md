@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/15/Applicationcfc-Presentation
+guid: 1473
 ---
 
 As a member of the <a href="http://www.adobe.com/communities/experts/">Adobe Community Expert</a> group, I'm given access to Adobe Breeze. While I'm currently preparing for a few upcoming <a href="http://ray.camdenfamily.com/speakingengagements.cfm">speaking engagements</a>, I thought I'd try out the Breeze account Adobe is sharing with me.

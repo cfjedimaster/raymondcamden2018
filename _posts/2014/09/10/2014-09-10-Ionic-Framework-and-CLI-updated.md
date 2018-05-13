@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/09/10/Ionic-Framework-and-CLI-updated
+guid: 5304
 ---
 
 <p>

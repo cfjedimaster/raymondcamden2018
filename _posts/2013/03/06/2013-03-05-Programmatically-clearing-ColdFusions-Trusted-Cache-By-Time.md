@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/03/06/Programmatically-clearing-ColdFusions-Trusted-Cache-By-Time
+guid: 4874
 ---
 
 I've <a href="http://www.raymondcamden.com/search.cfm?search=trusted+cache">blogged</a> before about ColdFusion and trusted cache, with multiple entries on how you can clear that cache when updating files.

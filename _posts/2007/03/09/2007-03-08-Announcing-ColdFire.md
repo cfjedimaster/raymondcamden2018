@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/09/Announcing-ColdFire
+guid: 1882
 ---
 
 If you have attended any of my Spry presentations, you have heard me sing the praises of <a href="http://www.getfirebug.com/">Firebug</a>, the best Firefox extension ever created. About once a week I discover something new about it that just amazes me.

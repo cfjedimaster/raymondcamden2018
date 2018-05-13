@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/13/ColdFusion-9s-new-Application-variables
+guid: 3436
 ---
 
 ColdFusion 9 adds a few new settings options for your Application.cfc file. Some are documented, some are not. You can find the documentation for these variables <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-750b.html">here</a>. Here is a quick run down of what was added.

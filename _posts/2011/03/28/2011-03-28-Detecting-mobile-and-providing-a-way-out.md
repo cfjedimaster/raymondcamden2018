@@ -6,6 +6,7 @@ categories: [coldfusion,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/28/Detecting-mobile-and-providing-a-way-out
+guid: 4174
 ---
 
 After a little run in with a Gawker site this weekend that pushed me into a mobile version of their site and wouldn't let me out, I thought I'd share two quick tips, and examples, of how to both auto detect a mobile device as well as allowing mobile devices to run your normal web site.

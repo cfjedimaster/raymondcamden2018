@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/05/05/Visual-comparisons-of-PhoneGap-Notification-UIs
+guid: 4925
 ---
 
 If you are a PhoneGap users,  hopefully you know about the various aspects of the <a href="http://docs.phonegap.com/en/2.7.0/cordova_notification_notification.md.html">Notification API</a>. The Notification API allows for visual, audio, and tactile notifications. In this post I want to focus on the visual notifications and how they differ from the built in web view notifications.

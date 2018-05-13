@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/11/Lighthouse-Pro-Update
+guid: 1023
 ---
 
 This update has some nice updates, but since I forgot to change the version number, it is still 2.0 (grin). What is new?

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/12/03/Using-jQuery-to-mimic-the-NYTs-new-paragraph-linking
+guid: 4039
 ---
 
 Yesterday I <a href="http://thenextweb.com/media/2010/12/02/the-new-york-times-introduces-the-evolution-of-the-hyperlink/">read</a> about a new paragraph linking system the New York Times has added to their site. The article linked to in the previous sentence describes it, but the gist is that you can add hash marks to focus in to a specific paragraph or sentence and do highlighting as well. This is really cool as it lets people linking to a story specifically call out a certain section. During lunch I decided to see if I could build something similar in jQuery. I specifically wanted to build a completely client side solution that did not - in any way - impact the textual data being served up from the CMS. I assume the NYT did the same. Here is what I came up with. It currently only supports paragraph selecting and highlighting, but I've got an idea on how to handle sentences as well. I wrote this <i>very</i> quickly so I'm sure it could be done much better. 

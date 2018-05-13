@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/26/Select-boxes-that-limit-other-select-boxes
+guid: 3924
 ---
 
 That title probably doesn't do a great job of introducing the topic, but hopefully it will make more sense by the time the entry is done. A reader wrote me this week asking how to create select boxes that all share the same options. However, as soon as you pick an option in one, that option would then be removed from the other ones. A good example of this would be sorting data. Imagine you had N products. For each product you want to assign a ranking to it. Only one product can be 1, only one can be 2, and so on. Imagine that as you selected a particular rank, that rank was then removed from the others. Here's how I solved the problem using a little bit of ColdFusion and jQuery, my peanut butter and chocolate.

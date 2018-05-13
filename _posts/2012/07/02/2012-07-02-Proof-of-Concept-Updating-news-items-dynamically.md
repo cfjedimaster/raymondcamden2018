@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/07/02/Proof-of-Concept-Updating-news-items-dynamically
+guid: 4664
 ---
 
 I apologize in advance if the title of this post isn't terribly clear. For a while now I've wanted to build a proof of concept JavaScript application that demonstrated automatically displaying new content. Think of your Facebook news feed as an example.  In a trivial application, you could simply get your new content and prepend it to the content. However, I wanted to do something a bit more complex.

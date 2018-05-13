@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/04/30/my-cordova-book-is-on-sale-again
+guid: 6088
 ---
 
 So a few weeks ago, my publisher ran an awesome deal for my Cordova book and their upcoming Ionic book. Today they are running the same deal. You can pick up <a href="http://www.manning.com/camden/">"Apache Cordova in Action"</a> and <a href="http://www.manning.com/wilken/">"Ionic in Action"</a> both for half off. These are both MEAP versions, which basically mean an "in progress" copy of the book. You get the full ebook when done, and updates while new chapters are released. My book currently has nine chapters available, but I turned in the last chapter a few weeks back so you can expect to see the next three rather soon. (Yes, the end is in sight!) When checking out, use the code <code>dotd043015</code> for your discount.

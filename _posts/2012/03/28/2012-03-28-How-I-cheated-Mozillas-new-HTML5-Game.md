@@ -6,6 +6,7 @@ categories: [html5,video games]
 tags: []
 banner_image: 
 permalink: /2012/03/28/How-I-cheated-Mozillas-new-HTML5-Game
+guid: 4573
 ---
 
 Disclaimer: I'm not advocating cheating as a good thing. I'm not insinuating that Mozilla's code was somehow lacking (actually the code is pretty kick ass). Nor am I trying to pretend I'm some super hacker. Rather - I thought I'd share how I modified Mozilla's new game to cheat as a way of demonstrating things you have to look out for when coding HTML5-based games. Also - my <i>very first</i> programming experience was pretty similar. I had to learn hex so I could edit my Bard's Tale game saves via a disk editor on my Apple 2e. I figured a legacy as rich as that deserves a rebirth. ;)

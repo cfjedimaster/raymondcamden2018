@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/08/Food-for-thought-10-Beginner-Tips-from-the-PHP-Masters
+guid: 4007
 ---
 
 I'm a regular reader of <a href="http://www.dzone.com">DZone</a>, a good tech aggregator. One of the items today caught my attention and I thought I'd share it with my readers: <a href="http://mashable.com/2010/10/21/php-tips-for-beginners/">10 Beginner Tips from PHP Masters</a> So why in the heck am I linking to a PHP article? Two reasons.

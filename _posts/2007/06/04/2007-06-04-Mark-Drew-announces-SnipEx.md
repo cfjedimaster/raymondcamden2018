@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/04/Mark-Drew-announces-SnipEx
+guid: 2088
 ---
 
 Forgive the simple cross post - but I wanted to point out Mark Drew's latest blog post:

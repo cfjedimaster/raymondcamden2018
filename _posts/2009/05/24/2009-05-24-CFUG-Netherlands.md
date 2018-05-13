@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/24/CFUG-Netherlands
+guid: 3368
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//n.png" align="left" style="margin-right:5px"> Michael van Leest pinged me earlier in the week to let me know of a new ColdFusion User Group he is trying to start up in The Netherlands. More information may be found at his <a href="http://michaelvanleest.com/index.cfm/2009/5/22/CFUG-Netherlands">blog post</a>. 

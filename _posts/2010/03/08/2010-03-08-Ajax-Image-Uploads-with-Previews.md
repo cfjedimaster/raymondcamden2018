@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/08/Ajax-Image-Uploads-with-Previews
+guid: 3742
 ---
 
 Earlier today I saw a pretty darn good tutorial over at ZURB (I have no idea why they are, but with a name like ZURB they are either Web 2.0 experts or an alien race hell bent on enslaving us. Either way - cool). The article, <a href="http://www.zurb.com/playground/ajax_upload">Image Uploads with 100% Less Suck. Guaranteed</a>, detailed how you can let a user select an image and create a preview from that selection. I'm not going to talk a lot about how the code works - the ZURB folks did a real good job in their blog entry. So be sure to read that before going any further. I assume you did that (programmers always follow written directions) and have asked - can we do this with ColdFusion handling the server-side image processing? Of course we can. Here is a quick mock up I came up with.

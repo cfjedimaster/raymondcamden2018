@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/09/10/Few-quick-notes-BlogCFC-TV-and-a-Textmate-query
+guid: 3008
 ---
 
 I just released an update to <a href="http://blogcfc.riaforge.org">BlogCFC</a>. This fixes a few small bugs, but one is pretty critical. On blogs with multiple authors, if a user edits another user's blog entry (to fix a typo for example), than that user will become the author of the blog. Thanks to <a href="http://www.corfield.org/blog">Sean Corfield</a> for finding that one.

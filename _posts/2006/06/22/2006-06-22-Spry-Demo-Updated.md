@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/22/Spry-Demo-Updated
+guid: 1349
 ---
 
 I updated my Spry demo, again, this time with a few fixes. First, the URL: 

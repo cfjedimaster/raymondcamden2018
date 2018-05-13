@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/30/Ask-a-Jedi-Getting-file-permissions
+guid: 3126
 ---
 
 Jibu asks:

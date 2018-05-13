@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/23/Ask-a-Jedi-Mixing-ColdFusion-Ajax-and-CFCALENDAR
+guid: 2896
 ---
 
 Michael asks:

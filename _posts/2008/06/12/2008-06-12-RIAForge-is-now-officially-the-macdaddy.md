@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/06/12/RIAForge-is-now-officially-the-macdaddy
+guid: 2879
 ---
 
 Today I approved project number 500, yes, 500, for <a href="http://www.riaforge.org">RIAForge</a>. The 500th project was <a href="http://yacc.riaforge.org/">Yet Another ColdFusion CMS</a> by Terrence Ryan. While not the most exciting name, it is the 500th project and Terrence will be getting some nice gifts from Adobe. These gifts include a copy of ColdFusion Standard and Flex Builder. (No gifts from me since I'm cheap. ;) 

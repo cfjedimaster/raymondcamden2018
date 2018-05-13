@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/03/Reminder-Uber-Panel-of-ColdFusion-Awesomeness
+guid: 4040
 ---
 
 Just a quick reminder that next week, on December 8th at 11AM CST, there will be a free, open to the world, available over Connect, panel discussion with some of the biggest names in the ColdFusion universe. Our current line up is:

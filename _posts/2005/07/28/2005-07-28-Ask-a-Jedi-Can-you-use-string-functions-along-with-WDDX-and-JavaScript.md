@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/28/Ask-a-Jedi-Can-you-use-string-functions-along-with-WDDX-and-JavaScript
+guid: 650
 ---
 
 Mike asks the following:

@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2009/09/19/Have-you-seen-this-XBox-360-freeze-on-some-games-only
+guid: 3532
 ---
 
 Ok, I've googled this quite a bit and am about ready to give up and call Tech Support. Before I do I thought I'd ask my super-intelligent, incredibly handsome readers. I know one of you have probably seen this before and can share some advice.

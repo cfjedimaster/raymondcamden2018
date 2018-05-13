@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/14/Ask-a-Jedi-ColdFusion-8-Licensing-Question
+guid: 2708
 ---
 
 A while back I got a question from a reader concerning ColdFusion licensing. As I know next to nothing about this I went right to <a href="http://blog.joshuaadams.com/">Josh Adams</a>, Adobe's newest ColdFusion specialist. He graciously helped me out and his reply is below. First, the question, from Andy:

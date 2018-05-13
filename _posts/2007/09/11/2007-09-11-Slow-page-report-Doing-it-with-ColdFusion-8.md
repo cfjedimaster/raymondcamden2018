@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/11/Slow-page-report-Doing-it-with-ColdFusion-8
+guid: 2337
 ---
 
 Many moons ago, I <a href="http://www.raymondcamden.com/index.cfm?mode=entry&entry=E1C4D4BE-AF44-3997-E6F1C507CE21DF5B">reported</a> on how you could write a template to parse your server.log file for slow page reports. In case you didn't know - the ColdFusion Administrator lets you log files that take too long to process. This setting is found in the Logging Settings page as seen in the following screen shot:

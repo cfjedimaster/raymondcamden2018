@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/14/CFUNITED-Presentations-jQuery-Applicationcfc-and-Charting
+guid: 3486
 ---
 
 Sorry for the delay folks, but here are the slides and code for my first three presentations at CFUNITED. 

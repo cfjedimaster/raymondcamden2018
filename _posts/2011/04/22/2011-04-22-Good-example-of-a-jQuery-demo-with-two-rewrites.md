@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2011/04/22/Good-example-of-a-jQuery-demo-with-two-rewrites
+guid: 4203
 ---
 
 Whenever I see something interesting, UX wise, I consider writing it myself with jQuery, just to see if I can. Last night I did this, posted the code, and got some great rewrites from other folks in the jQuery community. I thought it would be fun to share both my version and theirs so folks can see how differently problems can be solved. I've said this many times in ColdFusion sessions. There's multiple ways to get things done. I guess it's no surprise the same applies to jQuery as well. The ... effect... widget... user experience I wanted to mimic is something I've seen on <a href="http://slashdot.org">Slashdot</a>. Slashdot's home page consists of a set of articles. I assume most of my readers have visited Slashdot but if you haven't, notice how the articles are either expanded or opened up. If you click on the title of an opened article, you are taken to the detail page with comments. If you click on the title of a closed article, first the summary opens up, and on a second click you are sent to the detail page.

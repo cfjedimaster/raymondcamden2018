@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2010/11/18/Open-Discussion-Mobile-Application-Security
+guid: 4018
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/mobile-phone-security-software.jpg" style="float:left;margin-right:5px" />This question came in via my <a href="http://www.raymondcamden.com/forums">forums</a> but I thought it would be great to bring it up here and reach a bigger audience. wolfee asked:

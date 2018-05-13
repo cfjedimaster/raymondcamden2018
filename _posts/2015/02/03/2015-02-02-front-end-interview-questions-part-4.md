@@ -6,6 +6,7 @@ categories: [development]
 tags: [front-end-interview-questions]
 banner_image: 
 permalink: /2015/02/03/front-end-interview-questions-part-4
+guid: 5635
 ---
 
 This post is part of a series I’m writing where I attempt to answer, to the best of my ability, a set of <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-End developer questions</a>. I expect/hope my readers will disagree, augment, and generally hash out my answers in the comments below.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/22/Metadata-properties-for-CFFEED
+guid: 2297
 ---
 
 When creating RSS feeds with the CFFEED tag, you can specify metadata properties for the feed that help describe the feed in general. The docs though aren't very clear on <i>what</i> metadata properties you can provide.

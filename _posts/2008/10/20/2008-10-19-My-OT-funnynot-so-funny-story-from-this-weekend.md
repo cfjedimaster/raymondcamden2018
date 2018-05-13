@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/10/20/My-OT-funnynot-so-funny-story-from-this-weekend
+guid: 3060
 ---
 
 No, this will not be nearly as exciting as band camp, but I thought I'd share. This weekend I had to stop at Walmart. I was by myself and when I noticed the eye care center was pretty empty, I figured it was a good idea to do the eye exam that I've been trying to find time for over the past year or so. A quick review on myself and my eyes. Growing up I had a weak left eye. I was patched for a while and wore glasses. Late in high school I was told I didn't need them anymore, but being a typical high schooler, was more than glad to get rid of the glasses.

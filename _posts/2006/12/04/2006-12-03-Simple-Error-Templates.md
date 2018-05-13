@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/04/Simple-Error-Templates
+guid: 1689
 ---
 
 A few days ago I promised I'd blog about the error templates I use. Obviously part of the template is set up to show the site's look and feel and present a generic "We are so sorry, blah blah blah" type message. Outside of that though here is typically what I do with the error itself. 

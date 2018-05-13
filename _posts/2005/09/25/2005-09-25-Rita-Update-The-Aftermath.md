@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/25/Rita-Update-The-Aftermath
+guid: 807
 ---
 
 Well, since it is over 36 hours later, you can guess what happened. What follows ia a long story, so for those who just want the short story, I'm fine, my wife and kids are fine, and we had no damage. 

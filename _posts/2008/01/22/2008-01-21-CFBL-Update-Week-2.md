@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/22/CFBL-Update-Week-2
+guid: 2608
 ---
 
 We had a drop down in submissions for this week on the ColdFusion Biggest Loser. In week one we had 42 submissions. This week we had around 20. Which is fine - and people can send me their (now late ;) weigh ins for Monday when they can. Of the 20 who sent in, the biggest loser in both raw pounds and percentage was Chris Peterson. He lost 11 pounds, or 4.42%. Congrats! Here are the overall stats:

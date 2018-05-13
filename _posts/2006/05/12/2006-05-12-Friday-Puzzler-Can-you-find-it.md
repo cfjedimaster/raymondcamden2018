@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/12/Friday-Puzzler-Can-you-find-it
+guid: 1265
 ---
 
 Today's puzzle is two parter. Part one is simply <i>finding</i> the puzzle. Once you find it, part two will make sense. The puzzle is on this page.

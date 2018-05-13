@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/24/phonegap-rss-reader-part-3
+guid: 4507
 ---
 
 Welcome to my third entry for my (what was at first) simple PhoneGap RSS reader. If you haven't yet, please be sure to read <a href="http://www.raymondcamden.com/index.cfm/2011/10/11/PhoneGap-RSS-Reader">part 1</a> and <a href="http://www.raymondcamden.com/index.cfm/2011/12/19/PhoneGap-RSS-Reader--Part-2">part 2</a> so you have some context about how this application works. In this part, I'm going to tackle two enhancements suggested to me by my readers:

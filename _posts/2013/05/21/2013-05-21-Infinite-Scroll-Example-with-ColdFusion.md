@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/21/Infinite-Scroll-Example-with-ColdFusion
+guid: 4939
 ---
 
 A few weeks ago a reader asked if I had an example of infinite scroll with a ColdFusion back end. I replied that I did not, and that infinite scroll was the worst thing to happen to the Internet since the rainbow horizontal rule. 

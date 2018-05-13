@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/21/Embedded-CFCHART-in-Flash-Forms-Part-Deux
+guid: 636
 ---
 
 In my <a href="http://ray.camdenfamily.com/index.cfm/2005/7/19/Embedded-CFCHART-in-Flash-Forms">previous post</a>, I talked about how you can embed a Flash chart inside a Flash-based CFFORM. I used a textarea, set it’s HTML property and pointed it at a Flash chart I had previously saved. This works fine, but it requires you to save the SWF before you can use it. Let’s make things a bit simpler and try to get rid of the file completely. As I mentioned in the previous post, it is possible to get the binary data from cfchart saved into a variable. In theory, we could just use cfcontent to serve up the chart. Consider this code:

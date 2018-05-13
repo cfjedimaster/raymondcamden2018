@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/25/Reading-text-from-a-PDF-in-ColdFusion-8
+guid: 2220
 ---
 
 Yesterday I <a href="/2007/07/24/ColdFusion-8-Working-with-PDFs-Part-7">blogged</a> about ColdFusion and DDX, a way to some fancy-pants neato transformations of PDF documents. One of the cooler examples was that DDX could be used to grab the text from a PDF file. For those who thought it might be too difficult to use the DDX, I've wrapped up the code in a new ColdFusion Component I'm calling <b>PDF Utils</b>. (Coming to a RIAForge near you soon. Watch the skies...) 

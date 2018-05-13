@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/14/Simple-Chat-in-Spry
+guid: 1711
 ---
 
 Last night I decided to try an experiment. I had read a good article over at Dynamic AJAX: <a href="http://www.dynamicajax.com/fr/JSON_AJAX_Web_Chat-271_290_324.html">JSON AJAX Web Chat Tutorial</a>. I decided to see if I could build something like that using Spry. Turned out it wasn't that hard. Let me show you what I did...

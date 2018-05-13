@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/06/30/Hackin-the-MAX-Scheduler
+guid: 3866
 ---
 
 Ok, "hacking" may be too strong a word, but I thought I'd share a fun little diversion I tried at lunch. I noticed that the <a href="http://max.adobe.com/schedule/by-session/">MAX 2010 Scheduler</a> oddly did not list session times. You could browse by day of course, but I prefer to browse by session title. I was also curious to see when my session was. Unfortunately, the date and times for each session were not available in that view. 

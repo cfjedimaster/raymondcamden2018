@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/20/GoogleCalendarcfc-Version-1
+guid: 1228
 ---
 
 I've updated my GoogleCalendar.cfc. It now correctly (I think) handles time zone offsets and recurrences. I also added a simple way to make it refresh its own cache. 

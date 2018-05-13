@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/19/ColdFusion-Quickie-Scan-and-Report-on-Exception-Logs
+guid: 3496
 ---
 
 A client sent me a set of exception logs and asked me to make fixes where I could. I have a limited set of hours so I needed to focus on the errors that occurred most often. I wrote up a quick ColdFusion script that would parse the exception logs and keep count of unique errors. Here is the code I came up with along with some explanation as to how it works.

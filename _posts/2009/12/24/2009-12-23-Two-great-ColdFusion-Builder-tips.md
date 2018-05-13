@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/24/Two-great-ColdFusion-Builder-tips
+guid: 3664
 ---
 
 Nice to see I'm not the only one around today. Typically I try to share links on Twitter, not here, but as I just saw two <b>really, really</b> good ColdFusion Builder tips, I thought I'd share them here.

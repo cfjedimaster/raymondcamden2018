@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/10/Ask-a-Jedi-ColdFusion-Memory-Scoped-Variables-and-Clusters
+guid: 688
 ---
 
 Tim asks:

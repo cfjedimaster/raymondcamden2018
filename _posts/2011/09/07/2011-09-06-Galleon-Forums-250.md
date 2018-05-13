@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/07/Galleon-Forums-250
+guid: 4356
 ---
 
 Today I released version 2.5.0 of <a href="http://galleon.riaforge.org">Galleon Forums</a>. This update has a few bug fixes but also includes two new (and cool I think) features:

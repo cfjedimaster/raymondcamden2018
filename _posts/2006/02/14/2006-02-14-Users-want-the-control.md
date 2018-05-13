@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/02/14/Users-want-the-control
+guid: 1098
 ---
 
 A friend sent me a link (here, I'll share it, since I know folks will ask: <a href="http://www.trunkmonkeyad.com">trunkmonkeyad.com</a>). It is nothing more than a collection of funny car ads. (Actually, pretty darn funny.) Since I was busy, I loaded up the first clip, switched to another Firefox tab and went back to listening to my too-loud trance music. 

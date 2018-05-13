@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/30/My-second-HTML-based-Apollo-application
+guid: 1933
 ---
 
 For my second little HTML Apollo test, I thought I'd build a simple log monitor. One of my favorite plugins for Eclipse is <a href="http://www.mikenimer.com/eclipse/logviewer/index.cfm">Mike Nimer's Log Viewer</a>. It lets you watch a log file and updates in real time. Much more nicer than constantly reloading the log view in the ColdFusion Admin.

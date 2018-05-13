@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/02/01/Example-of-pagination-with-jQuery-and-ColdFusion-with-External-Buttons
+guid: 3705
 ---
 
 That title really isn't very clear, so let me explain a bit more about what this blog entry is about. A reader asked if it was possible to do pagination via Ajax (ie, each page of content is loaded via Ajax), but have the controls (the previous and next buttons) exist <i>outside</i> of the Ajax-loaded content. This is an interesting question. It is <b>incredibly</b> trivial to load content via Ajax with jQuery. My seven year old could do it in his sleep. But we need to find a way to handle showing, and hiding, the navigation controls. We also need to ensure those controls can correctly "drive" the content to handle paging. Like ColdFusion, jQuery provides many ways to solve a problem. This is just one example.

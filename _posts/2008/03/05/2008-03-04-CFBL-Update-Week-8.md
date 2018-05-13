@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/05/CFBL-Update-Week-8
+guid: 2690
 ---
 
 Had quite a drop in participation this week - but some folks tend to stop reporting and come back, so hopefully things will pick up for these last 3 reports. Anyway, here are the stats:

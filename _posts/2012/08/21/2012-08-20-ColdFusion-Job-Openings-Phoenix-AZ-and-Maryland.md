@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/08/21/ColdFusion-Job-Openings-Phoenix-AZ-and-Maryland
+guid: 4708
 ---
 
 Two jobs to share (the second one is actually multiple positions) - enjoy:

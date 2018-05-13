@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/08/23/Two-speaking-engagements-in-Omaha
+guid: 4711
 ---
 
 In about two weeks I'll be speaking twice in Omaha. On September 5th at 7PM, I'll be speaking at the <a href="http://www.necfug.com/">Nebraska ColdFusion User Group</a>. I'll be giving a presentation on HTML5 Storage methods.

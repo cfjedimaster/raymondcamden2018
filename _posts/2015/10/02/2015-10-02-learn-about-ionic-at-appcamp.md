@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/10/02/learn-about-ionic-at-appcamp
+guid: 6864
 ---
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/10/appcamp-logotype.png" alt="appcamp-logotype" width="200" height="247" class="alignleft size-full wp-image-6865" /> Interested in another way to learn the <a href="http://ionicframework.com">Ionic framework</a>? Recently they released an interesting little tool called <a href="http://appcamp.io/">Appcamp</a>. Appcamp is a set of interactive tutorials that walk you through various different aspects of Angular and Ionic. Courses are divided into four sections:

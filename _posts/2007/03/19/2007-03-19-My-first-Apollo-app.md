@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/19/My-first-Apollo-app
+guid: 1903
 ---
 
 Here is my first little Apollo application. I based it on the <a href="http://blog.everythingflex.com/2007/03/19/html-control/">blog entry</a> written by Rich Tretola. The code is rather simple:

@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/03/11/example-of-ionics-updating-feature
+guid: 5814
 ---
 
 Ok, so this will be a pretty short post, and the main gist is, "It works as advertised", but I had not had a chance to actually test this until recently and I was pretty darn impressed with how smoothly it worked so I thought I'd share.

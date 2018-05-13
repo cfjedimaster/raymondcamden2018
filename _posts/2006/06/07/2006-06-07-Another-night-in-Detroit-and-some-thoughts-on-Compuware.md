@@ -6,6 +6,7 @@ categories: [development,misc]
 tags: []
 banner_image: 
 permalink: /2006/06/07/Another-night-in-Detroit-and-some-thoughts-on-Compuware
+guid: 1321
 ---
 
 Today was an incredibly long day, so forgive me if this post isn't very intelligent or deep. I've been in meetings, presentations, and other activities since 7:30 this morning. It's 10:30 PM now. I just got off a river cruise that was quite wonderful. We went north about a mile or so, to the entrance to one of the great lakes. (I'm too lazy to google it and see which one.) The GM building is amazing, like something out of the future, and the country-side north of Detroit was beautiful. I took quite a few pictures, but since I suck, I didn't bring my USB cable for my RAZR.

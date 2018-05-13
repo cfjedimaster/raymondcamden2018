@@ -6,6 +6,7 @@ categories: [coldfusion,development,flex]
 tags: []
 banner_image: 
 permalink: /2012/07/26/How-I-debugged-a-Flashbased-uploader-issue
+guid: 4686
 ---
 
 Since I've been on a 'How I fix things' kick lately I thought I'd share a quick real world example. A reader wrote in stating that he had issues with ColdFusion's multi-file uploader. This is a Flash-based utility that allows you to upload any number of files. On the server side, you handle the file as you wish (copy it to a folder, upload it to S3, whatever), but you are responsible for outputting a JSON string back to the front end that is then interpreted by the Flash application.

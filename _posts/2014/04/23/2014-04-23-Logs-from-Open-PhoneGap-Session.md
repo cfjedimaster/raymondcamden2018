@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/23/Logs-from-Open-PhoneGap-Session
+guid: 5209
 ---
 
 <p>

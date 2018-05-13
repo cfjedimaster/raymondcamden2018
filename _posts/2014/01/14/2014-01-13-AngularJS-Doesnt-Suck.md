@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/14/AngularJS-Doesnt-Suck
+guid: 5123
 ---
 
 <p>

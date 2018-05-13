@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/21/CFDEVCON-Calling-all-UK-ColdFusion-Devs
+guid: 1545
 ---
 
 If you are in the UK (or can afford to travel to it), check out <a href="http://www.cfdevcon.com/">CFDEVCON</a>. It is a one day conference on November 9 in Surrey, about 30 minutes or so from London. The price is 40 pounds (plus VAT), and if the exchange rate is anything like it was last time I was in England, that is only about 50-60 American dollars, which is pretty darn cheap if you ask me. Registration is open and some <a href="http://www.cfdevcon.com/#speakers">speakers and topics</a> are already announced.

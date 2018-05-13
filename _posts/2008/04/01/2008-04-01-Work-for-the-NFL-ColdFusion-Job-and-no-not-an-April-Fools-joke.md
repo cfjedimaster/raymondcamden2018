@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/01/Work-for-the-NFL-ColdFusion-Job-and-no-not-an-April-Fools-joke
+guid: 2745
 ---
 
 The Director of Internet Services for the Indianapolis Colts contacted me with the following (quite exciting I think) job search:

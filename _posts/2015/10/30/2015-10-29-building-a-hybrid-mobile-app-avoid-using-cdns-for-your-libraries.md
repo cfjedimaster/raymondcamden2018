@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/10/30/building-a-hybrid-mobile-app-avoid-using-cdns-for-your-libraries
+guid: 7036
 ---
 
 I'm reading an (otherwise fascinating) article now on Ionic and came across this snippet of code:

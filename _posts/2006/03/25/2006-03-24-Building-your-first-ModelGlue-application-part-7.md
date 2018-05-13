@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/25/Building-your-first-ModelGlue-application-part-7
+guid: 1168
 ---
 
 <img src="http://ray.camdenfamily.com/images/mg.jpg" align="left" border="1" hspace="5">

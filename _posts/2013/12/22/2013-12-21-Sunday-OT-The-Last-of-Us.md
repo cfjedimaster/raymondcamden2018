@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2013/12/22/Sunday-OT-The-Last-of-Us
+guid: 5109
 ---
 
 <p>

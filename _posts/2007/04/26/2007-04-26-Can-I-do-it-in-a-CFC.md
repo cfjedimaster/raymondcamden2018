@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/26/Can-I-do-it-in-a-CFC
+guid: 1984
 ---
 
 Matt asked a question today and since I actually have gotten some work done today, I figured I'd blog about something besides Ubuntu, Hard Drives, and why I can't wait till I'm 100% Mac-ified. Anyway, here is his question:

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2010/04/18/New-files-in-Flash-Builder-and-code-hintingcoloring
+guid: 3784
 ---
 
 Ok, anyone with more than one day of Flex Builder/Flash Builder experience can ignore this and laugh at me (discretely). I've run into this a few times before and as I always tend to forget <i>why</i> I thought maybe a blog entry would help seal it in my memory.

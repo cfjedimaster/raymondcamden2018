@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/17/Ask-the-Jedi-Counting-characters-and-lines-with-Spry
+guid: 3152
 ---
 
 Barbara asks:

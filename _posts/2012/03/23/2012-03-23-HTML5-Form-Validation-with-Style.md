@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/03/23/HTML5-Form-Validation-with-Style
+guid: 4567
 ---
 
 Welcome to my third and final (although whenever I say that it typically leads to more posts, diversions, and experiments) on HTML5-based form validation. In the <a href="http://www.raymondcamden.com/index.cfm/2012/3/16/A-look-at-HTML5-Form-Validition">first entry</a> I discussed how you could add simple client-side validation to your forms by just using HTML. In my <a href="http://www.raymondcamden.com/index.cfm/2012/3/19/HTML5-Form-Validation--The-Constraint-Validation-API">second entry</a>, I demonstrated how to add JavaScript for deeper, and customized validation. In this final entry, I'll discuss how to employ CSS to visually enhance your forms.

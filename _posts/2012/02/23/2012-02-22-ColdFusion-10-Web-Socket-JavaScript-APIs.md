@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/23/ColdFusion-10-Web-Socket-JavaScript-APIs
+guid: 4533
 ---
 
 In my <a href="http://www.raymondcamden.com/index.cfm/2012/2/20/ColdFusion-10-Web-Socket-Demos">last post</a>, I demonstrated three examples of websockets under ColdFusion 10. One thing I didn't really touch on was the JavaScript API you can use to work with websockets. These functions are available to any file making use of the cfwebsocket tag. They allow you to:

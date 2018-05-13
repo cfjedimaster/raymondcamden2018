@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/09/22/Tales-from-the-Trenches-Swapping-Libraries
+guid: 4738
 ---
 
 Ok, not a very deep post, but my buddy Tai over at <a href="http://www.luxanimals.com/">Luxurious Animals</a> just told me a story on IM I couldn't resist sharing. 

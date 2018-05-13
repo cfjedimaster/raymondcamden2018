@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2006/06/26/Ask-a-Jedi-Setting-up-a-home-environment
+guid: 1355
 ---
 
 Fernando had a large set of questions, all related to how best to set up a home environment. Let me start with his questions and then I'll respond.

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/02/26/reminder-you-dont-need-appcache-for-phonegapcordova
+guid: 5734
 ---
 
 I've seen this come up a few times recently, and it was mentioned in a presentation I attended yesterday on PhoneGap, but just as a reminder, <strong>stop worrying about AppCache</strong> and PhoneGap/Cordova. It may not be entirely clear to people new to hybrid mobile development, but your application is <strong>on the device</strong> itself. AppCache makes no sense in this regard. It is a bit like having an HTML file on your desktop. Whether you are online or not <strong>does not matter!</strong>

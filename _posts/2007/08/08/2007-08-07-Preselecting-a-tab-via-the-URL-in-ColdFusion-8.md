@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/08/Preselecting-a-tab-via-the-URL-in-ColdFusion-8
+guid: 2260
 ---
 
 A quick and simple tip - ColdFusion 8 lets you set a default selected tab by using selected="true" in the tab. Here is a simple example:

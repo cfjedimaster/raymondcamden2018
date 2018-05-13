@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/06/08/Diagnose-an-OS-X-Slowdown
+guid: 2106
 ---
 
 So my new shiny Mac has been wonderful since I've got gotten it - but in the last few days I've had something very weird going on. The machine will lock up for about 4 minutes. Music keeps playing, but I can't do anything. After about 4 minutes I gradually get control back. This happens about twice per day, normally about 2-3 hours apart.

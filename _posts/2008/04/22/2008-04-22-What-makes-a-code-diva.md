@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/04/22/What-makes-a-code-diva
+guid: 2782
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//rockingray2.gif" align="left" hspace="5" vspace="5"> 

@@ -6,6 +6,7 @@ categories: [coldfusion,development,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/02/23/Your-security-lesson-for-the-day-Console-is-the-MCP
+guid: 4534
 ---
 
 I crashed my server a few minutes ago, and while not related, I discovered a little security flaw in my websocket demo that I thought would be fun to share with you guys. My mistakes should be your lessons, right? As with many mistakes, it involved something I knew could be an issue, I just had to find the time to confirm it really was. Before I tell you the flaw, let me show you the code and see if you can pick up the issue.

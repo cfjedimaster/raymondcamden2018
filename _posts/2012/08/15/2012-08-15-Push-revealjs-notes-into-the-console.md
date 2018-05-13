@@ -6,6 +6,7 @@ categories: [javascript,misc]
 tags: []
 banner_image: 
 permalink: /2012/08/15/Push-revealjs-notes-into-the-console
+guid: 4702
 ---
 
 I just read a great blog post by Christian Heilmann (Principal Developer Evangelist for MDN) about how you can use the detached browser console as a way to broadcast speaker notes in an HTML-based presentation: <a href="http://christianheilmann.com/2012/08/15/browsers-have-a-presenter-mode-console-info/">Browsers have a presenter mode: console.info()</a> It's an incredibly simple and practical idea. His code was tied to the <a href="https://github.com/pepelsbey/shower">Shower</a> presentation framework (a new one for me), but it took all of two minutes to repurpose it for <a href="http://lab.hakim.se/reveal-js">reveal.js</a>.

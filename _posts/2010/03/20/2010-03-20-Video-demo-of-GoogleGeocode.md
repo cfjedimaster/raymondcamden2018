@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/20/Video-demo-of-GoogleGeocode
+guid: 3757
 ---
 
 A few weeks ago one of my readers, <a href="http://www.rentvine.com/">Dave Dugdale</a>, volunteered to make an introductory video to my Google Geocode CFC. I thought this was a great idea so I told him to be my guest. However, another user recently released a more update to date Geocode CFC for Google's latest API. Monte Chan's CFC, available <a href="http://googlegeocoder3.riaforge.org/">here at RIAForge</a>, makes use of the latest version of the API. So I decided to take down my project and direct people to Chan's. Dave still worked up a demo and I think it is pretty darn awesome. Check it out via the embed below. 

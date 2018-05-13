@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2015/05/14/my-speakers-self-post-mortem
+guid: 6141
 ---
 
 I've got a good hour and a half before I board (yes, I'm one of those people who arrive early at the airport still), and while driving to the airport I was thinking about the presentations I gave yesterday. I spend a <i>lot</i> of time thinking about my presentation and trying to see how I can make them better. I thought it might be interesting for me to share some specific thoughts I had about my most recent presentations and demonstrate the kind of thinking that goes behind updating a presentation. Obviously this will be very specific to what I just gave, but I'm hoping the "inside look" may help others who are new to presenting or are just looking to improve their game. (And honestly, I could be completely wrong about what I need to improve, so part of hope behind this post is that other more experienced speakers may help me out as well!)

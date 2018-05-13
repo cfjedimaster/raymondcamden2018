@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/03/04/hosting-static-sites-with-surge
+guid: 5767
 ---
 
 My readers know that I've become somewhat of a proponent of static sites lately. As much as I've made a career out of building dynamic web apps, I love the simplicity of static files. I can push to a CDN and pretty much not worry about it again. Don't get me wrong, I know S3, Google Cloud, and their kind can - and probably will - go down. But I'm probably safe in saying that their engineers can get servers back up much quicker than I can. That's why I was excited to see a new option for hosting static sites launch - <a href="http://surge.sh">Surge</a>.

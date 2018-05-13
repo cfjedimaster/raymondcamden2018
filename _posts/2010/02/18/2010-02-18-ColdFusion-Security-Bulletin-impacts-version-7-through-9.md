@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/18/ColdFusion-Security-Bulletin-impacts-version-7-through-9
+guid: 3725
 ---
 
 Just helping to spread the word - a new ColdFusion Security Bulletin was released today:

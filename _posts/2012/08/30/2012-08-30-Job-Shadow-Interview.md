@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/08/30/Job-Shadow-Interview
+guid: 4719
 ---
 
 Yesterday my interview with Job Shadow went live:

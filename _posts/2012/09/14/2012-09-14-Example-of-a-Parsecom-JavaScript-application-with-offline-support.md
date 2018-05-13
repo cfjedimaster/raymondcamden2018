@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/09/14/Example-of-a-Parsecom-JavaScript-application-with-offline-support
+guid: 4732
 ---
 
 This morning I got a seemingly innocent question from a reader:

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2005/12/21/Mindseye-is-Hiring-FlashFlex
+guid: 985
 ---
 
 Know Flash? Want to learn Flex? <a href="http://www.mindseye.com">Mindseye</a> is hiring. Best of all - you get to work on my team and hear me rant about source control and how much nicer ColdFusion is compared to .Net! Here is the job description:

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/05/Some-thoughts-on-Windows-Phone-and-Windows-8-in-general
+guid: 4549
 ---
 
 Did you know Microsoft has a phone? No - seriously - they do. Ok, all kidding aside, I've been wanting to take a look at a Windows Phone for some time now. I've encountered a grand total of <b>one</b> person actually using it - but that person raved about it. A few weeks back one of my readers (Jason Haag) offered to send me his phone and let me play with it. I didn't get a long time with the hardware, but it was an interesting experience and I thought I'd share a few thoughts. As always, I'm very curious to see what others think.

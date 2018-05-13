@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/24/Ask-a-Jedi-Validating-Numbers-in-a-Flash-Form-Grid
+guid: 867
 ---
 
 A reader asks:

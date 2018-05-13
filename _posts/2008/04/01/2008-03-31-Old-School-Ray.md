@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/01/Old-School-Ray
+guid: 2744
 ---
 
 I've got a Google Alert set up for my name for purely ego purposes. Normally it just finds my own blog posts. Today though it found something odd:

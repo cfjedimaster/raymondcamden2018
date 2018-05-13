@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/09/07/Flex-for-Mobile-VPN-Secure-connections
+guid: 4357
 ---
 
 Mike asked:

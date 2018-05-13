@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/17/Flying-the-notsofriendly-skies
+guid: 2938
 ---
 
 I had a bit of a shock this morning. I went to go check in at American Airlines and discovered that I now have to <b>pay</b> to check luggage. Sure it was only 15 bucks, but it was certainly a surprise to me. The lady behind the counter said it was all over the news, but I guess I'm a bit behind.

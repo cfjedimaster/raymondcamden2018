@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2009/01/17/Making-a-sticky-CFWINDOW
+guid: 3198
 ---
 
 Ok, I'm not <i>really</i> a huge fan of CFWINDOW, despite this being the <a href="http://www.raymondcamden.com/index.cfm/2009/1/16/Launching-CFWINDOW-with-a-Dynamic-Location">second blog post</a> in a row about them. That being said, I thought I'd recreate a trick (see PS below) with CFWINDOW that maybe some folks will find useful. The trick involves keeping CFWINDOW in a position and making it stick there as you scroll. It is probably best if you see it live:

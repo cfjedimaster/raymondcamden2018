@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/04/13/Simple-introduction-to-Google-Maps-Part-2-Markers
+guid: 4195
 ---
 
 Back in February I wrote a <a href="http://www.raymondcamden.com/2011/02/15/Simple-introduction-to-Google-Maps">simple introduction</a> to using Google Maps. ColdFusion makes this relatively easy, but there are times when you may want to use the Google Map service natively. It's also important to note that CFMAP makes use of the previous version of Google Maps. If you want to make use of the new hotness, you have to do it "by hand." As my blog post (hopefully) showed, this isn't terribly difficult at all. I thought I'd post a sequel that dealt with another part of the puzzle - markers. ColdFusion makes this really easy as well with the cfmapitem tag. Here's what I found when digging into the docs.

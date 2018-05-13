@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/06/Soundings-2-Preview-Release
+guid: 2175
 ---
 
 I've got a preview of Soundings 2 available for folks who want to test. This release just adds one feature - multiple questions per page. You can't set the number of questions per survey - it is a global Application setting. It only works for <b>true/false and yes/no</b> questions. If you use any other type of question, it will not work. I'm looking for:

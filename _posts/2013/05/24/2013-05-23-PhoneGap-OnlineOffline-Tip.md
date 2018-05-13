@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/05/24/PhoneGap-OnlineOffline-Tip
+guid: 4943
 ---
 
 A few months ago I wrote a blog post that talked about <a href="http://www.raymondcamden.com/index.cfm/2013/3/18/Building-Robust-PhoneGap-Applications">"robust"</a> PhoneGap applications. Basically it was a look at the types of things you should consider to make your PhoneGap application more of an app and less of a wrapped web page.

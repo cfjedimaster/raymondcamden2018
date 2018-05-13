@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/19/Cant-connect-Apache-and-CF-due-to-previous-connection
+guid: 1038
 ---
 
 My box was running ColdFusion under JRun, but I decided to switch back to a "simple" server setup. During the install, however, the connection to Apache wasn't updated. It continued to point to the JRun server instead of my new server. When I tried to run the connector though, I was told that Apache was already configured for JRun.

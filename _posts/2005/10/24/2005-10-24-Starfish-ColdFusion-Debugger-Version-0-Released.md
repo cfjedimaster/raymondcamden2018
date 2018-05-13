@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/24/Starfish-ColdFusion-Debugger-Version-0-Released
+guid: 868
 ---
 
 So a few days ago I <a href="http://www.raymondcamden.com/index.cfm/2005/10/19/Goodbye-MAX-and-One-More-Thing">blogged</a> about my new project, Starfish. Starfish is essentially a ColdFusion debugger that doesn't display information, but rather stores it in the Server scope. You can then display a report on this data in the CF Admin. I'm now happy to report that the initial version is ready for <a href="http://ray.camdenfamily.com/downloads/starfish.zip">download</a>.

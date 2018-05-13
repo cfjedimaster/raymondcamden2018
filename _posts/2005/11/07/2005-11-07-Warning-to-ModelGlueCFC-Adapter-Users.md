@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/07/Warning-to-ModelGlueCFC-Adapter-Users
+guid: 902
 ---
 
 Note - this is conjecture. I've seen it on my machine, and I had someone confirm on IRC. Two people experiencing a problem does not make it true - but I thought I'd share in case others run into this.

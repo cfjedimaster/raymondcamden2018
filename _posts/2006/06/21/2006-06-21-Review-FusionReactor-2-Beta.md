@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/21/Review-FusionReactor-2-Beta
+guid: 1348
 ---
 
 I was lucky enough to be asked to play some with the Fusion-Reactor 2 beta. I asked if I could write a review and was given permission. (I did pass this review by them first, but more to ensure I didn't screw things up.) If you haven't heard of <a href="http://www.fusion-reactor.com">Fusion-Reactor</a>, here is a brief overview. Fusion-Reactor is a J2EE servlet that runs with your ColdFusion server. It gives reports on requests and helps you monitor the general health of your server. A competitor would be <a href="http://www.seefusion.com">SeeFusion</a>, and in a minor sense, my project, <a href="http://ray.camdenfamily.com/projects/starfish">Starfish</a>. I plan on reviewing SeeFusion later in the year, and to be honest, I'm sure both put Starfish to shame.

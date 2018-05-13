@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/15/Lighthouse-Pro-21-Released
+guid: 1534
 ---
 
 Today I released a new version of <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a>. This version was mostly updated by Ron Stewart. 

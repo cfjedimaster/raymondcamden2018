@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/16/Ask-a-Jedi-Click-a-CFMAP-to-get-LongitudeLatitude
+guid: 3751
 ---
 
 A reader asked:

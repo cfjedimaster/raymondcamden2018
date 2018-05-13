@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/29/Ask-a-Jedi-Backing-up-DSNs
+guid: 1301
 ---
 
 Michael asks:

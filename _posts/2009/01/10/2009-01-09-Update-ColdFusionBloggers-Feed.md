@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/10/Update-ColdFusionBloggers-Feed
+guid: 3188
 ---
 
 Just a quick note. If you are currently subscribed to the <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> RSS feed, please update your feed to use this URL:

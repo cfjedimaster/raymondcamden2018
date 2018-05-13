@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/09/12/Live-response-to-email-verification-Ajax-based-proof-of-concept
+guid: 4361
 ---
 
 Tonight I'm going to demonstrate my version of an interesting technique now I've seen on a few sites - the live handling of email verification. I don't think that really describes the issue well, but let try to explain what I'm talking about to see if it makes more sense. Imagine a simple registration form that asks for a few details including an email address.

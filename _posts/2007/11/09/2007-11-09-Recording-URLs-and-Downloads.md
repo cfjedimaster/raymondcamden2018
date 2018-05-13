@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/09/Recording-URLs-and-Downloads
+guid: 2465
 ---
 
 First off - for <b>both</b> presentations, I had crashing issues. Not sure if it was Leopard or Connect, but Connect kept crashing on me. So about 2-3 times each in both presentations, I drop off for a minute. Personally, I think Connect couldn't contain the awesomeness that is Raymond, but that's just my opinion.

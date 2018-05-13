@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/22/ColdFusion-Job-Opening--Air-Methods-Corporation-Englewood-CO
+guid: 4532
 ---
 
 Passing along another job offering...

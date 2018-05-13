@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/08/01/If-Spry-Do-This
+guid: 1444
 ---
 
 Sorry for the obtuse title, but I wanted to demonstrate how <a href="http://labs.adobe.com/technologies/spry/">Spry</a> handles conditionals. What do I mean by that? So far all of my examples have mainly shown how to dump data into a table. While this is useful, sometimes you want to filter the data being shown. I've shown examples with filtering for pagination and keyword filtering, but there are other ways to do conditional type operations with Spry.

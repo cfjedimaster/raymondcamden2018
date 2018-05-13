@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2015/01/30/thank-you-jack-wilber
+guid: 5626
 ---
 
 As I prepare to leave Adobe, I want to acknowledge the enormous amount of help I had from Jack Wilber. One of the Adobe benefits I had was the use of an editor, and Jack has been helping improve my blog posts over the past few years. He never once complained about my constant misuse of its and it's or than and then. I'm double checking this post as well to ensure I didn't miss anything, but most likely, I did. 

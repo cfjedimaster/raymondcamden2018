@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/09/Reading-MP3-ID3-tags-with-ColdFusion-2
+guid: 1385
 ---
 
 So, almost a month ago I wrote about <a href="http://ray.camdenfamily.com/index.cfm/2006/6/13/Reading-MP3-ID3-tags-with-ColdFusion">reading  MP3 information</a> using ColdFusion. I promised a follow up the next day and ended up getting a bit busy with a new job, trips, etc. The sad thing is that I wrote the code a few days afterwards and it ended up being exceptionally simple. So - first off - sorry for the delay. Let's look at the CFC I ended up with. As you can see, it is so simple I can share all the code right here:

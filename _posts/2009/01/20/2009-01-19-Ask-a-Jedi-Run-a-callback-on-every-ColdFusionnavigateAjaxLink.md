@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/20/Ask-a-Jedi-Run-a-callback-on-every-ColdFusionnavigateAjaxLink
+guid: 3202
 ---
 
 Emil asks:

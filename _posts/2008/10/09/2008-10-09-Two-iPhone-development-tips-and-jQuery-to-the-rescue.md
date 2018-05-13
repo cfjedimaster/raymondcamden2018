@@ -6,6 +6,7 @@ categories: [development,jquery]
 tags: []
 banner_image: 
 permalink: /2008/10/09/Two-iPhone-development-tips-and-jQuery-to-the-rescue
+guid: 3048
 ---
 
 I've spent the last week or so doing iPhone web development. Let me be clear - that's web development. I'm not actually writing any fancy native applications for the iPhone. While most of my time was spent on just the basic work of the app (and I'll have some server side details on that tomorrow at <a href="http://blog.broadchoice.com">ArgumentCollection</a>), I wanted to look into what - if any - tweaks were available to on the iPhone web browser. I've found two things that I think are pretty interesting.

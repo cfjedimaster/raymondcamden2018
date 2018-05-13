@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/12/09/coldfusion-updated-and-some-notes-about-query-caching
+guid: 5421
 ---
 
 Earlier today the ColdFusion team released a big update for ColdFusion 11 and 10. You can read the juicy details here: <a href="http://blogs.coldfusion.com/post.cfm/coldfusion-11-update-3-and-coldfusion-10-update-15-are-available-now">ColdFusion 11 Update 3 and ColdFusion 10 Update 15 are available now</a>. While looking over the release notes for ColdFusion 11, I saw this odd little gem:

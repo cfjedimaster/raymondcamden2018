@@ -6,6 +6,7 @@ categories: [games,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/06/20/Using-the-Gamepad-API
+guid: 5250
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/25/Yet-another-CFMAP-Demo-Bird-Report-App
+guid: 3763
 ---
 
 Last week I wrote a <a href="http://www.raymondcamden.com/index.cfm/2010/3/16/Ask-a-Jedi-Click-a-CFMAP-to-get-LongitudeLatitude">blog entry</a> on how one could get the longitude and latitude of a position clicked on in a map. In my example, I built a simple "Bird Sighting Report" application. Every time you clicked on the map it got the longitude and latitude and create a form element from it. This worked for a simple demo, but I thought I could expand a bit on it and make it more "real world". Here is what I came up with.

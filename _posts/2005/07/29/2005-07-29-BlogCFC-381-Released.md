@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/29/BlogCFC-381-Released
+guid: 654
 ---
 
 This is an important update, so please read the following notes:

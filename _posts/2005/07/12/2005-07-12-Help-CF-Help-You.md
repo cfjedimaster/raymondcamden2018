@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/12/Help-CF-Help-You
+guid: 622
 ---
 
 So, unlike the rest of you guys, I never make any mistakes. No, really, I don't. But, I know people who do make mistakes. In fact, my good buddy (the same guy who is watching and reviewing all those cool shows in England) recently told me that he makes one mistake quite often - and that is trying to use an invalid key of a struct. So, consider the following code:

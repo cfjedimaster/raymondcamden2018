@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/18/Ask-a-Jedi-Why-isnt-my-cferror-working
+guid: 2656
 ---
 
 Steve asks:

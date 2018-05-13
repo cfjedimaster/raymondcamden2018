@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/20/Sessions-posted-for-MAX-2007-Speaking-at-MAX
+guid: 2136
 ---
 
 The <a href="http://adobemax2007.com/na/sessions/">sessions</a> have bee posted for MAX 2007, including the one I'm speaking on:

@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/12/02/Adding-voicebased-search-to-a-PhoneGap-app
+guid: 4453
 ---
 
 A few weeks back I <a href="http://www.raymondcamden.com/index.cfm/2011/10/12/First-test-of-PhoneGap-Plugins">blogged</a> about plugins under PhoneGap. If you haven't read that blog entry, take a quick look at it. For the most part, plugins in PhoneGap are pretty simple. Download a Java file. Download a JavaScript file. Make one tweak to an XML file and you're good to go. In that entry I made use of the <a href="https://github.com/phonegap/phonegap-plugins/tree/master/Android/SpeechRecognizer">SpeechRecognizer</a> plugin for Android. Since that blog entry was kind of a joke (ok, <i>most</i> of my blog entries contain code that is a kind of a joke - but let's forget about that for a moment), I thought it might be nice to demonstrate a more real world use for the plugin. With that in mind here's a simple application built without and with speech recognition.

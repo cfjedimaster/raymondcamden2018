@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/13/ColdFusion-8-Working-with-PDFs-Part-3
+guid: 2192
 ---
 
 So today's CFPDF entry will detail how you can add a watermark to a PDF. Why would you do that? You may want to mark a PDF for security reasons. As an example, this weeks episode of Entourage featured M. Night Shyamalan (will his movies ever be good again?) giving Ari (a hollywood agent) a copy of his latest script. On every single page of the script, Ari's name was printed across the text. That way if the script was leaked to the Internet, M. Night would know exactly who to blame.

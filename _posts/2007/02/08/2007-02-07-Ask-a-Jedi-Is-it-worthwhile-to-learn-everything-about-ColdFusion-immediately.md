@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2007/02/08/Ask-a-Jedi-Is-it-worthwhile-to-learn-everything-about-ColdFusion-immediately
+guid: 1828
 ---
 
 A few days ago an interesting <a href="http://ray.camdenfamily.com/forums/messages.cfm?threadid=7C79D8D0-F53C-E7BB-AF97A5AF4B929F86">post</a> was made to my forums. I asked the author if he minded me moving the conversation over here and he was cool with it. While his question involves ColdFusion, I really do think it could apply to any other language. First let's start with his question:

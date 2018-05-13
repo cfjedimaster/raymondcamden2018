@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/17/Two-Apollo-Notes-And-no-this-isnt-a-BSG-post
+guid: 1965
 ---
 
 First, an announcement. Adobe, Creation Chamber and Xylem Interactive are hosting <a href="http://apolloranch.eventbrite.com/">Apollo Ranch</a>, a <b>free</b> one night conference on Apollo. The conference is being held in Boulder, CO on May 5th and runs from 5 to 11:30 PM - which I think is pretty cool actually. (Of course, I think I gave a 1AM presentation to New Zealand a few weeks back.)

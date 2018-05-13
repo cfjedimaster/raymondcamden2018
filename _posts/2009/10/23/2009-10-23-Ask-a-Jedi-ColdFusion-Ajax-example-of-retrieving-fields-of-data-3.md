@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/23/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data-3
+guid: 3575
 ---
 
 This is the third in a short series of blog entries demonstrating one way to use ColdFusion's built in Ajax code to load detail information into a form. I've written two previous entries (linked to below) and I recommend checking them out first if you have not done so already. The <a href="http://www.raymondcamden.com/index.cfm/2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data">first entry</a> simply bound a text field to a back end CFC. When you typed in a number the code would attempt to retrieve the complete record from the server. The <a href="http://www.coldfusionjedi.com/index.cfm/2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data-2">second entry</a> modified the code to use a button to perform the database lookup. This final entry (heh, I hope, the original author keeps asking for interesting tweaks!) modifies the code yet again. Now it provides a loading message while the data is being retrieved. The code isn't terribly different from before so I'll paste in the entire thing and then explain the modifications.

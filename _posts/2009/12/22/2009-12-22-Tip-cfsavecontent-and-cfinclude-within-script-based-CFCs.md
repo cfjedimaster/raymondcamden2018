@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/22/Tip-cfsavecontent-and-cfinclude-within-script-based-CFCs
+guid: 3662
 ---
 
 Ok, so I know that I've said (many times) that including layout in a CFC is <i>generally</i> a bad idea. I still think it is. But like most rules there are always exceptions. Normally this wouldn't be a big deal, but HTML and JavaScript within a script based component is - well - it's ugly. Here is an example:

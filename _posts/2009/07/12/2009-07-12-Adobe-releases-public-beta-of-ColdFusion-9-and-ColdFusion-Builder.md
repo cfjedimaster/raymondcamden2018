@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/12/Adobe-releases-public-beta-of-ColdFusion-9-and-ColdFusion-Builder
+guid: 3433
 ---
 
 The title says it all. As of about 60 seconds ago, Adobe Labs just released the public beta's of ColdFusion 9 and ColdFusion Builder:

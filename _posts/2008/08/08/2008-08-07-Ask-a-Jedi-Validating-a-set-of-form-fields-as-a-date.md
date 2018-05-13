@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/08/Ask-a-Jedi-Validating-a-set-of-form-fields-as-a-date
+guid: 2964
 ---
 
 Cody asks:

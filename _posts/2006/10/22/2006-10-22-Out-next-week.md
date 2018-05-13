@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/22/Out-next-week
+guid: 1602
 ---
 
 Tomorrow morning I fly up to MAX, so the blogging will be a bit light. Heh, just kidding. I actually plan to blog the heck out of it. As much as the wireless access will let me - I'll be blogging anything I can - so if you can't go - be sure to read my reviews. (Along with everyone else blogging as well. There will be a bunch of us.)

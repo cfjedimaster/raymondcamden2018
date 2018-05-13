@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/08/When-does-it-make-sense-to-cache-ColdFusion-code
+guid: 3269
 ---
 
 This is in response to a question asked of me on Twitter (I'm using Twitter <i>a lot</i> recently, but I'd probably suggest folks use emails for questions as Twitter can be hard to catch up). The user asked potential bottlenecks with cfdocument and cfpdf. This brought up a general suggestion I thought I'd share on the blog. When does it make sense to cache ColdFusion code?

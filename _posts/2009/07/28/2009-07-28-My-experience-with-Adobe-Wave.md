@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/28/My-experience-with-Adobe-Wave
+guid: 3466
 ---
 
 I meant to get this out before vacation, but alas, time went by a bit quicker than I expected. This should <b>not</b> be considered a "How To" when it comes to Adobe Wave and ColdFusion. Considering that Wave is still in beta, most likely the API/process will change significantly over time (assuming Wave leaves beta). Also note that I - probably like most people - did not adequately read the docs, so some of what follows may not be exactly kosher with the docs. Please keep that in mind when reading. With that in mind, here are some quick tips and code examples.

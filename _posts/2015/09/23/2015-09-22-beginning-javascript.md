@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/09/23/beginning-javascript
+guid: 6803
 ---
 
 As I've mentioned before, I've got a few videos available at O'Reilly (<a href="http://shop.oreilly.com/product/0636920034971.do">JavaScript Templating</a> and <a href="http://shop.oreilly.com/product/0636920043638.do">Client-Side Data Storage</a>). You can now get my "JavaScript Templating" video as part of a bigger series called <a href="http://shop.oreilly.com/category/learning-path/beginning-javascript.do">"Beginning JavaScript"</a>:

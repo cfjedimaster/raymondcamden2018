@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/10/08/License-Report-at-RIAForge
+guid: 2398
 ---
 
 I just got an IM from Neil M asking what the most popular OS licenses were at <a href="http://www.riaforge.org">RIAForge</a>. I had never really thought to even care about that before - but it was definitely an interesting question. I wrote up a quick SQL script in Aqua Data Studio and was happy to discover they allow you to export results into HTML. Here are the results:

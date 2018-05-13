@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2010/11/01/Five-minutes-to-your-first-mobile-AIR-Application
+guid: 3991
 ---
 
 A few days back I <a href="http://www.raymondcamden.com/index.cfm/2010/10/21/My-First-Android-Application">blogged</a> about my mobile AIR application. I talked a bit about how darn easy it was but I had to be bit vague as I was still under NDA. Now that MAX has passed everyone has the opportunity to build mobile AIR applications and I thought I'd show just how easy it is. <b>To be clear, you do not need an Android device to play/learn.</b>

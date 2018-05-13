@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/21/Ask-a-Jedi-Wrapping-List-Elements-in-ColdFusion
+guid: 1347
 ---
 
 This is a short and simple questions I thought may be interesting to beginners:

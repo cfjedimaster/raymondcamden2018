@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/09/18/Using-jQuery-to-convert-text-into-form-fields
+guid: 3531
 ---
 
 I'm working on a new project now (Picard FTW - Engage!) and it involves converting some existing JavaScript. The "old" JavaScript works fine, but is <i>very</i> difficult to get to and also suffers from the fact that it isn't jQuery. That's a huge problem if you ask me. So as I work through the project I'm slowly converting various dynamic elements into ColdFusion. One of those elements was pretty interesting. A list of fields had an associated piece of metadata. Each piece was represented in simple text. Next to it was an edit link. Clicking edit changed the plain text into a drop down. I reworked this into jQuery and this is what I came up.

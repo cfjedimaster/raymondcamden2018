@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [nodejs,strongloop]
 banner_image: 
 permalink: /2016/01/06/seeding-data-for-a-strongloop-app
+guid: 7366
 ---
 
 <div style="border-style:solid;border-width:thin;padding:5px"><strong>Please Read! A few hours after posting this, a member of the StrongLoop team pointed out an alternative that did exactly what I wanted to accomplish in about one second of typing. I still think the <i>core</i> of this blog entry makes sense as is so I'm not editing it, but see the note at the bottom!</strong></div>

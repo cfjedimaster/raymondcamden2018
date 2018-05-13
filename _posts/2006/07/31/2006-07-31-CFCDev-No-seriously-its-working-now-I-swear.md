@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/31/CFCDev-No-seriously-its-working-now-I-swear
+guid: 1441
 ---
 
 I'm a lot of things. A father. A geek. A slightly (yeah right) overweight out of shape frumpy dude. I also code ColdFusion. What I don't do well is IT work. As folks know, the CFCDev listserv was down the last two weeks. The fine folks at <a href="http://www.katapultmedia.com/">Katapult Media</a> purchased us a new mail server, but I didn't have a chance to set it up till early this morning.

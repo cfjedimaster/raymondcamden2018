@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/24/Fight-the-Spam-Power
+guid: 2615
 ---
 
 So I've noticed quite a few spams on various BlogCFC based sites lately. They all have something like this:

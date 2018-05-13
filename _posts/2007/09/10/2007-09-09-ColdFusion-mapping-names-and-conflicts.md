@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/10/ColdFusion-mapping-names-and-conflicts
+guid: 2332
 ---
 
 This weekend a reader asked me an interesting question about ColdFusion mappings. Imagine the following two mappings:

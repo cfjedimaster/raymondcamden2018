@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/02/28/Working-with-HTML5s-multiple-file-upload-support
+guid: 4543
 ---
 
 This won't be a terribly long post, nor one that is probably informative to a lot of people, but I finally got around to looking at the HTML5 specification for multiple file uploads (by that I mean allowing a user to pick multiple files from one file form field). I knew it existed I just never got around to actually looking at it. Turns out it is incredibly simple.

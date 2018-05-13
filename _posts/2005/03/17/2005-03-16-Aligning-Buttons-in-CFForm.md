@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/03/17/Aligning-Buttons-in-CFForm
+guid: 496
 ---
 
 This is probably a no-brainer, but in case it isn't, I thought I'd share. Imagine you are building a simple flash-based cfform. At the end you include a submit button. However, but button comes out aligned to the left, like so:

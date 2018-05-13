@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/01/Ask-a-Jedi-Getting-a-job-and-code-samples
+guid: 1509
 ---
 
 George sent me this a few weeks ago:

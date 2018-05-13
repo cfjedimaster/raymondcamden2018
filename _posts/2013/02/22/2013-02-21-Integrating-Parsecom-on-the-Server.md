@@ -6,6 +6,7 @@ categories: [coldfusion,development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/02/22/Integrating-Parsecom-on-the-Server
+guid: 4862
 ---
 
 Earlier today a reader asked me to discuss using <a href="http://www.parse.com">Parse.com</a> on the server. I've blogged about Parse quite a bit, but always in the context of a web application (typically a mobile application). Parse.com has a full <a href="https://parse.com/docs/rest">REST API</a> that provides 100% of the functionality I've talked about before to any server-side application. In this blog post I'll demonstrate a few examples in ColdFusion, but certainly any application platform would suffice.

@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/02/05/Playing-with-SVG-and-JavaScript
+guid: 4847
 ---
 
 For some reason, I never took a real good look at <a href="https://developer.mozilla.org/en-US/docs/SVG">SVG (MozDev link)</a> in the past. I knew, conceptually, that it was a way to describe graphics in XML format and I knew Adobe had a large amount of history/support behind it, but I never really thought it was useful for what I do in my day to day work. That was until last week when a reader sent in an interesting question.

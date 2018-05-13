@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/03/12/Reprint-What-in-the-heck-is-JSONP-and-why-would-you-use-it
+guid: 5173
 ---
 
 <div class="alert alert-success">

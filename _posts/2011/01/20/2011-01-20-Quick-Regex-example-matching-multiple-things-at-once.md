@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/20/Quick-Regex-example-matching-multiple-things-at-once
+guid: 4088
 ---
 
 Here is something I've never tried to do before with regex - match multiple "rules" but within one regex. Consider for example password validation. Normally this requires a string pass multiple rules:

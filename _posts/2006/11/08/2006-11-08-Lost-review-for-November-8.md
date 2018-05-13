@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/11/08/Lost-review-for-November-8
+guid: 1641
 ---
 
 I really should stop calling these reviews as I mainly just jot notes down while I watch the show. :) Anyway, here is what happened:

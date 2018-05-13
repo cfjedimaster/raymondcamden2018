@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/05/Flex-Builder-201-and-yes-support-for-the-Mac-is-here
+guid: 1752
 ---
 
 The title says it all. You can download a trial here:

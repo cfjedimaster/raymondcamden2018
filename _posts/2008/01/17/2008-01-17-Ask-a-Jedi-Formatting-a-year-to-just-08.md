@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/17/Ask-a-Jedi-Formatting-a-year-to-just-08
+guid: 2598
 ---
 
 Robert asks:

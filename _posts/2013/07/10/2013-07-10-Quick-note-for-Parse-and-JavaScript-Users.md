@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/07/10/Quick-note-for-Parse-and-JavaScript-Users
+guid: 4980
 ---
 
 Forgive the somewhat haphazard nature of this blog post. I've got a limited amount of time before I board a plane but I didn't want to wait till the morning to post. Earlier today a reader (Arcayne - sounds like an early 80s X-Man) posted a comment that led me to discover that Parse's JavaScript API now supports Files. This wasn't possible in the past. You can read the details about it <a href="https://parse.com/docs/js_guide#files">here</a> but for folks who want to see complete demo code, keep reading.

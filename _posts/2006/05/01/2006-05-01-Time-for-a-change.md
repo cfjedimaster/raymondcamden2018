@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/01/Time-for-a-change
+guid: 1240
 ---
 
 For the past three years I've worked at <a href="http://www.mindseye.com">Mindseye, Inc</a>, and it has been a great place to grow and learn. However, I've felt that it was time for a change and a new path in my career.

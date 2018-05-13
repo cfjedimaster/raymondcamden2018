@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/22/Creating-a-Mailing-List-in-ColdFusion-Part-1
+guid: 1284
 ---
 
 One of the features you may be asked to add to a web site is a mailing list. A mailing list lets people subscribe to get the latest news and updates from whatever your site may be offering. In this series I'll talk about how to add this feature to your web site. Before going on, let me go over the features of this application and what it will provide.

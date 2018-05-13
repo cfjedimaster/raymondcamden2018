@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/19/cfchart-and-nonAmerican-locales
+guid: 4239
 ---
 
 A poster on cf-talk today noticed an interesting issue. Even though she was trying to use the English (UK) locale (or as I call it, Dr. Who's locale), her cfchart was not using Pound symbols for the values. I whipped up a quick example to verify this issue. Luckily, it's easy to get around with - you guessed it - the chart style editor.

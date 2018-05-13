@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/14/Fun-little-feed-parsing-issue-to-watch-out-for-new-lines
+guid: 2590
 ---
 
 For a few days now <a href="http://www.bennadel.com/blog/recent-blog-entries.htm">Ben Nadel's blog</a> hasn't been aggregated on <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>. While this was <i>not</i> a lame attempt by me to stop the rising tide of my competition in the blog world (ok, maybe it was ;), it was an interesting little issue.

@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/11/12/Dynamically-loading-a-style-sheet-based-on-weather-conditions
+guid: 4780
 ---
 
 I know what you're thinking - thank God Ray is blogging about this topic. I can't tell you the number of times clients have asked for a dynamic web site design based on the user's current weather conditions. Well, today's your lucky day! (Ok, all snark aside - I saw this asked on StackOverflow and thought it would be fun to build.)

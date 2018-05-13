@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/24/Null-Pointer-Error-with-HQL-Check-for-this
+guid: 3952
 ---
 
 Yesterday I was writing what I thought to be some pretty simple HQL:

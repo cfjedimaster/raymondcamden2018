@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/15/ColdFusion-8-Getting-the-autonumber-insert-ID
+guid: 2127
 ---
 
 I love this. So I assume most folks knew about the result attribute added to cfquery in ColdFusion 7. If not - you are missing out. It returns quite a bit of good information about your query. But best of all - it was updated in ColdFusion 8.

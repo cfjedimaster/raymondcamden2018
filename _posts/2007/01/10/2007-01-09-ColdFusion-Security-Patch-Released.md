@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/10/ColdFusion-Security-Patch-Released
+guid: 1761
 ---
 
 Adobe released a security patch yesterday:

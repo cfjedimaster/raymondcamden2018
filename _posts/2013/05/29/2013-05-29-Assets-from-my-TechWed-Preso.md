@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2013/05/29/Assets-from-my-TechWed-Preso
+guid: 4948
 ---
 
 For folks who were at my noon TechWeb online presentation on Cutting Edge HTML, I've attached the resources below. It was a private meeting so most of my readers probably have no idea what I'm talking about, so just look at this instead. 

@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/12/13/Meanwhile-over-in-IndexedDB-land
+guid: 5101
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/26/Exploring-ColdFusion-Builders-Services-Browser
+guid: 3735
 ---
 
 Today I thought I'd take a look at ColdFusion Builder feature I had not paid much attention to - the Services Browser. The Services Browser has a couple of interesting functions in it that you might find pretty darn useful. Let's take a look at a sample view first:

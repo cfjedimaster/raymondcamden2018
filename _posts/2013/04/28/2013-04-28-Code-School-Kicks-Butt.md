@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/04/28/Code-School-Kicks-Butt
+guid: 4920
 ---
 
 <img src="https://static.raymondcamden.com/images/Screenshot_4_28_13_10_31_AM.png" style="float:left;margin-right:10px;margin-bottom:10px" /> A few weeks ago I <a href="http://www.raymondcamden.com/index.cfm/2013/3/21/New-online-material-for-Chrome-DevTools">blogged</a> about an online course dedicated to Chrome's DevTools. That was my first experience with <a href="http://www.codeschool.com">Code School</a> and I thought it worked very well.

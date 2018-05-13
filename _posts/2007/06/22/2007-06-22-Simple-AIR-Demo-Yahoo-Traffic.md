@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/22/Simple-AIR-Demo-Yahoo-Traffic
+guid: 2145
 ---
 
 Don't ask me why I'm so obsessed with Yahoo's APIs - maybe because they are so darn easy when compared to Google or UPS. It's almost as if Google went out of their way to make an API that would be a pain in the rear to use - whereas Yahoo's services are a model of simplicity. Well, most of the time anyway.

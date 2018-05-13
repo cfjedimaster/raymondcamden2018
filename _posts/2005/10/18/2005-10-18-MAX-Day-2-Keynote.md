@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/10/18/MAX-Day-2-Keynote
+guid: 857
 ---
 
 So here are my notes from the keynote. The wireless wasn't working, so I this is a bit delayed. Forgive the grammar/spelling/etc, as I was taking notes quickly. (Although I saw <a href="http://www.brooks-bilson.com/blog">Rob Brooks-Bilson</a> taking a lot more notes, so check his entry.) 

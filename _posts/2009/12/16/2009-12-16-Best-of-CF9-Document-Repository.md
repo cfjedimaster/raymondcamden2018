@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/16/Best-of-CF9-Document-Repository
+guid: 3652
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 is Document Repository by Nathan Strutz. As you can guess by the title, the application handles document uploads. It has a simple security system with user registration. Once logged in, you can upload a document to the repository. Nathan's code will create a thumbnail, store a record in the database, and add the document to your list. Functionality wise it's only partially there right now, but there are some pretty darn interesting things in the code and it's a great start. Let's take a look.

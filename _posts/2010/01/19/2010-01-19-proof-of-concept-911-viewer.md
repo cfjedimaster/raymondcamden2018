@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/01/19/proof-of-concept-911-viewer
+guid: 3687
 ---
 
 About two weeks ago a fellow techie in town clued me in a web page run by my local government that <a href="http://67.32.159.27/webcad/webcad.asp">posted</a> the latest 911 information. This is filtered to just traffic information but still it was pretty fascinating to watch. I contacted them to see if they had a non-HTML version but, of course, I never heard back. (Is it just me or do most sites just freaking ignore contacts??) I decided to see if I could play with this data a bit and get a 'clean' view of the data. Here is what I came up with.

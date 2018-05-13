@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/12/11/What-can-Brown-do-for-me-How-about-a-provide-an-easy-to-use-service
+guid: 1705
 ---
 
 So over on cf-talk there is a <a href="http://www.houseoffusion.com/groups/CF-Talk/message.cfm/messageid:263530">thread</a> going on about working with the UPS API. It is something I've wanted to try myself for a while now. But get this. To actually use the API you have to:

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2010/11/30/Simple-mobile-directory-browser-built-with-AIR
+guid: 4031
 ---
 
 Last night I wanted to take a look at file/directory traversing in a mobile AIR application. I had assumed it would "just work" but I wanted to be sure of that myself and see it in action. I was also curious as to how the various 'helper aliases' work. By that I mean the aliases AIR provides for the user's desktop and documents directory. These are nice, cross platform ways to point to common folders across different operating systems. I wasn't quite sure how they would work on the Android so I figured it was a good time to find out. The application I built is quite short so I'll post the code and then explain how the parts work.

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2010/01/17/Best-of-CF9-MailClient
+guid: 3684
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is the second to last entry. Slowly but surely we're getting there. One more and it will be time to judge! Today's entry comes from Adam Tuttle. Hits entry is entitled MailClient. It's a simple entry so the review won't be too long, but it's got a lot of interesting bits to it I think folks will want to take a closer look at. Before getting started, ensure you read the following.

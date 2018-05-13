@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/11/FusionReactor-and-FusionDebug
+guid: 1393
 ---
 
 A few weeks ago I <a href="http://ray.camdenfamily.com/index.cfm/2006/6/21/Review-FusionReactor-2-Beta">reviewed</a> the beta of Fusion-Reactor 2. It is now released and more information may be found <a href="http://www.fusion-reactor.com/featureFocus-2.0.html">here</a>. 

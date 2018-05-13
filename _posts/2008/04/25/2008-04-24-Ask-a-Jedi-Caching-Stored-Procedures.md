@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/25/Ask-a-Jedi-Caching-Stored-Procedures
+guid: 2788
 ---
 
 Seth asks:

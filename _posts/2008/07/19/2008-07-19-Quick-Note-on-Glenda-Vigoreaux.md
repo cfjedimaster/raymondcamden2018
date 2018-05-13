@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/19/Quick-Note-on-Glenda-Vigoreaux
+guid: 2939
 ---
 
 I just wanted to write a quick note to make sure folks know about the passing of one our communities best speakers, Glenda Vigoreaux. Charlie Arehart has written up the details so I'm going to link to him:

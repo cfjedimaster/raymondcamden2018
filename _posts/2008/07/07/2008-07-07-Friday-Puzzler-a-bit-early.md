@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/07/Friday-Puzzler-a-bit-early
+guid: 2920
 ---
 
 After a bit of a <a href="http://www.vintagecoding.com/blog/2008/06/27/ray-are-you-too-busy/">public call out</a>, I realized it was time to start thinking of the Friday Puzzler again. I came up with what I thought was a fun one, but it ended up being something I thought would be a bit more than 5 minutes. So this Puzzler will be for the entire week, and to sweeten the pot a bit, Ben Forta will be sharing a copy of CFWACK (3rd book) with the winner. This isn't a real 'contest' per se, but just a slightly more intense Friday Puzzler. Ready?

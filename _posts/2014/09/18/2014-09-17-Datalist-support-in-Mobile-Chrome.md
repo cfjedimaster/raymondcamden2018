@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2014/09/18/Datalist-support-in-Mobile-Chrome
+guid: 5311
 ---
 
 <p>

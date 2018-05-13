@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/11/Friday-Puzzler-Twitter-style-with-an-actual-prize-this-time
+guid: 3521
 ---
 
 It's been a few weeks since my last Friday Puzzler, but during a meeting yesterday an idea came up that I thought was too good to pass up. To sweeten the pot a bit, I'm going to give the winner a $20 Amazon gift certificate to the winner. Your post must be by noon CST. The winner will be chosen by me and will most likely be 100% arbitrary and unfair. Whiners automatically get to use PHP for the rest of their lives. 

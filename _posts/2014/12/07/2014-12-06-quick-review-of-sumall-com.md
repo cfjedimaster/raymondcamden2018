@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/12/07/quick-review-of-sumall-com
+guid: 5392
 ---
 
 For a few months now I've been using <a href="http://sumall.com">SumAll</a> as a "stat aggregator" and I thought I'd share my experiences with it. I'm not necessarily super-involved with my "brand" (yes, I just threw up a little saying that), but I do care about how my web site performs and I like to have a basic idea of how much reach I have to the audience I care about. I've built an aggregator for Google Analytics before (<a href="http://www.raymondcamden.com/2014/1/24/Proof-of-Concept--Dashboard-for-Google-Analytics">Proof of Concept – Dashboard for Google Analytics</a>) but that only handles web traffic.

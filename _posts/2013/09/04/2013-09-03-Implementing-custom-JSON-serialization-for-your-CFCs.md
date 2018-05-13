@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/09/04/Implementing-custom-JSON-serialization-for-your-CFCs
+guid: 5026
 ---
 
 A few weeks back Ben Nadel <a href="http://www.bennadel.com/blog/2505-JsonSerializer-cfc-A-Data-Serialization-Utility-For-ColdFusion.htm">released</a> a nice utility that does JSON serialization with ColdFusion data. As you know, ColdFusion has this feature baked in, but it doesn't always serialize your data in the form you need. Ben's library gives you greater control over JSON serialization and can be helpful in cases where the built-in support isn't working right for you. I wanted to share a quick example of how you could possibly use this in a real CFC.

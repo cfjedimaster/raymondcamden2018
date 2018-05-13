@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/15/Yet-another-CordovaPhoneGap-Debugging-Tip
+guid: 5267
 ---
 
 <p>

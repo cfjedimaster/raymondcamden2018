@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/09/12/Ask-a-Jedi-Tracking-views-when-using-an-Ajaxfront-end
+guid: 3013
 ---
 
 Paul asks:

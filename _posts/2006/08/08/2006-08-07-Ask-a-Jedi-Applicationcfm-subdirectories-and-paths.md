@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/08/Ask-a-Jedi-Applicationcfm-subdirectories-and-paths
+guid: 1453
 ---
 
 Brad asked the following question:

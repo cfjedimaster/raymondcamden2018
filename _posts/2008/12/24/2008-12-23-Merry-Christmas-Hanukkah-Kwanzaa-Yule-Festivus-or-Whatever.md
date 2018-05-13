@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/24/Merry-Christmas-Hanukkah-Kwanzaa-Yule-Festivus-or-Whatever
+guid: 3161
 ---
 
 Just a quick note to wish those of you celebrating the holidays (no matter what the holiday is), a great, fun, and of course, safe time. I wrapped up my shopping Monday night (well, technically I got one more gift via Amazon on Wednesday, sorry buddy, its going to be late) and now it's time to just relax and enjoy the time off.

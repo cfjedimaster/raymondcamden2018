@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/23/Ask-a-Jedi-Complex-security-possible-in-ColdFusion
+guid: 2897
 ---
 
 Michael asks:

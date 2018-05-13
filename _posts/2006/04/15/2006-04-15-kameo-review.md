@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/04/15/kameo-review
+guid: 1214
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B000B6ML0A&fc1=000000&IS2=1&lt1=_top&lc1=0000ff&bc1=000000&bg1=ffffff&npa=1&f=ifr" style="width:120px;height:240px;margin-right: 10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>

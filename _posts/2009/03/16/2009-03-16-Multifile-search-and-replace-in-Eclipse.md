@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2009/03/16/Multifile-search-and-replace-in-Eclipse
+guid: 3278
 ---
 
 Ok, a big thanks goes out to <a href="http://www.boyzoid.com">Scott Stroz</a> for this one. I've been using Eclipse for a while now but never needed to do a multi-file search and replace until last week. Turns out it is rather simple, but I had never really noticed the feature before. I figure a quick blog post may help others, and since I know I'll probably forget in six months, it will help me as well.

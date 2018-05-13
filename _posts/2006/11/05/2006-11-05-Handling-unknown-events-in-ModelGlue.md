@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/05/Handling-unknown-events-in-ModelGlue
+guid: 1634
 ---
 
 What happens in a Model-Glue application when you pass in an unknown event? An error is thrown. While this makes sense - it may not be desired behavior for an application. For example - I'd probably consider most unknown events to be 404 errors. So how can you handle it?

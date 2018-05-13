@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/10/28/Intro-to-jQuery-slides-code
+guid: 4412
 ---
 
 Thanks to everyone who attended my presentation today at RIAUnleashed. You can find the slide and code in the presentation below. Use the menu in the Flash application to download the attachment. 

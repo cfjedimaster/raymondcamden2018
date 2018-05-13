@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/27/Im-an-idiot-for-not-using
+guid: 2735
 ---
 
 ColdSpring and Transfer.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/11/08/Released-Learn-CF-in-a-Week
+guid: 4778
 ---
 
 This is pretty big news folks. For a while now, various members of the ColdFusion community, led by Simon Free, have been working on a new educational resource for CF developers. It is now live at: <a href="http://www.learncfinaweek.com/">http://www.learncfinaweek.com/</a>. 

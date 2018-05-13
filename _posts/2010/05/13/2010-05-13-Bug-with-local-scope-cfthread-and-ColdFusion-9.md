@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/13/Bug-with-local-scope-cfthread-and-ColdFusion-9
+guid: 3817
 ---
 
 So this is a weird one. Please note that myself (and the other guys working on this) are still digging in so we may be wrong, but it appears that the use of cfthread in a CFC method, <i>along</i> with the use of local scope, is causing a bug in ColdFusion 9. For an example, see the code below.

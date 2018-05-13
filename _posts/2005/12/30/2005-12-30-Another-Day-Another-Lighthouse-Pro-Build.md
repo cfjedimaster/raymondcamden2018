@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/30/Another-Day-Another-Lighthouse-Pro-Build
+guid: 1001
 ---
 
 Wow, you would almost think I don't do any QA on my project. I've updated <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a> again today. At least one of the bugs was an old one. Anyway, here are the fixes:

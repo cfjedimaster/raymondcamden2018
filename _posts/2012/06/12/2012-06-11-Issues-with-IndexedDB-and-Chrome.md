@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/06/12/Issues-with-IndexedDB-and-Chrome
+guid: 4647
 ---
 
 I've been doing some investigation into IndexedDB lately, and one of the issues I ran into was Chrome not following the <a href="http://www.w3.org/TR/IndexedDB/">spec</a> correctly. As a blogger I have the luxury of simply not caring and writing code just for Firefox. But I was writing an article recently and was told it would make sense to try to support Chrome. Here is what I had to do to make my article work in both browsers. Supposedly Chrome will soon support the spec so this won't matter. Till then, I hope this article is helpful for folks.

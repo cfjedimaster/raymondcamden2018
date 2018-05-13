@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/05/ApplicationCFC-Template-Update
+guid: 2454
 ---
 
 Someone asked me today when I was going to update my Application.cfc reference (linked to in the Guides pod to the left) for ColdFusion 8. I went ahead and did so. You can see the new guide here:

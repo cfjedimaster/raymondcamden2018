@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/30/Ask-a-Jedi-Learning-cfscript
+guid: 2946
 ---
 
 Robert asks:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/05/13/Adobe-Connect-failure-on-the-Mac-apologies-to-the-Connecticut-UG
+guid: 2825
 ---
 
 So - if you tried to attend my presentation tonight, you saw it was a complete and utter failure. Whenever Connect opened, all I saw was a blank white screen. I connected to my PC via RDP, went to the meeting, and confirmed it was working fine there, but no go on the Mac. I did a reboot and it didn't help. Finally one of the members suggested I load Connect in the browser with ?launcher=false.

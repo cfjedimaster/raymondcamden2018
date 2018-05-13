@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2008/06/22/Sunday-Mega-Media-Review
+guid: 2895
 ---
 
 I've been meaning to post a few quick reviews and as I've got nothing to do until I board my plane, I thought I'd take the time and share some. 

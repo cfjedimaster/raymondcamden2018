@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/11/23/My-XBox-has-gone-to-that-great-game-graveyard-in-the-sky
+guid: 934
 ---
 
 So, yesterday I <a href="http://ray.camdenfamily.com/index.cfm/2005/11/22/XBox-360--Did-you-buy-one">asked</a> about the new XBox 360. My old XBox must have heard that, and in a fit of jealousy committed suicide. Last night I went to play X-Men Legends (which, by the way, rocks, especially if you are a Diablo fan), and the game kept freezing. I thought at first it was a bad disk, but noticed the machine was acting weird without any disc in it. Whenever I tried to browse the HD, the machine would stutter and generally move slowly. I was able to copy some games off (except for the games where the bastard creators refused to let you back them up), but eventually the machine just stopped responding. I got various errors at various times, but as of this morning, the machine is running so slow I can't even browse the menu. It <i>definitely</i> feels like a bad hard drive, although I don't hear any kind of clicking or other abnormal behaviour. Of course, the XBox is below my Cox DVR which <i>also</i> has a drive, so it is a bit hard to tell. 

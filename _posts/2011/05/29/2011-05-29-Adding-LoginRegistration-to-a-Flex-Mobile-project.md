@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/29/Adding-LoginRegistration-to-a-Flex-Mobile-project
+guid: 4251
 ---
 
 What follows is a simple experiment in adding login and registration to a Flex Mobile project. There are probably better ways of doing this but my main interest here was to see what was possible. I've done this before with Flex applications. It's not difficult at all. But Flex Mobile has a different way of handling user views. There's a push/pop system that makes it easier to direct the user throughout the application. Specifically I was curious about the tabbed navigator - one of two main views Flex Mobile applications start with - and how it could handle presenting a User/Registration view that could be swapped to the 'real' UI once finished. Again - this was just me playing around to see what was possible. Consider it a proof of concept. Also - I avoided doing "real" login/registration as you will see. Doing network calls in a Flex Mobile application is no more difficult than a traditional Flex application. If readers want to see that, I can definitely make it real. (I'd estimate it would take me longer to FTP the ColdFusion files to my server than it would to actually write the code.)

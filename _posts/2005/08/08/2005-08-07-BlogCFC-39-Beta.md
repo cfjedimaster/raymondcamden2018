@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/08/BlogCFC-39-Beta
+guid: 679
 ---
 
 Another week, another beta from Camden, Inc...

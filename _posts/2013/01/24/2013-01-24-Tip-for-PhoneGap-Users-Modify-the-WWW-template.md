@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/01/24/Tip-for-PhoneGap-Users-Modify-the-WWW-template
+guid: 4839
 ---
 
 Now that I've gotten comfortable with PhoneGap's <a href="http://docs.phonegap.com/en/2.3.0/guide_command-line_index.md.html#Command-Line%20Usage">command line</a> I'm finding myself much more productive when building quick demos. The previous link will tell you more, but as a quick example, this is how I'd quickly dump out an IOS project.

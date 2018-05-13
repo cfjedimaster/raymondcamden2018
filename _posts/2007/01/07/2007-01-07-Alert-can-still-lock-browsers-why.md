@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2007/01/07/Alert-can-still-lock-browsers-why
+guid: 1759
 ---
 
 I remember back in the old days (Netscape was king!) when learning JavaScript that it was pretty easy to lock up the browser with the Alert statement. All you had to do was create an infinite loop of JavaScript alerts and then the browser was essentially locked up.

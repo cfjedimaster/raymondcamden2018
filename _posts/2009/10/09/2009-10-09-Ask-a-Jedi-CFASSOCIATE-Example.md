@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/09/Ask-a-Jedi-CFASSOCIATE-Example
+guid: 3560
 ---
 
 Kaushal asks:

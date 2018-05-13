@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/21/Quick-examlpe-of-CFTHREAD-and-a-warning
+guid: 2141
 ---
 
 Other people have talked about CFTHREAD (see Ben Nadel's excellent <a href="http://www.bennadel.com/index.cfm?dax=blog:743.view">post</a> on the topic) so I'm not going to bother with a full description of the tag. Instead I wanted to show a quick example of where I've already put it to use in production, and I wanted to share a warning about how you have to be careful when using the tag.

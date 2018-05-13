@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/09/26/Why-is-my-Ajax-not-working
+guid: 4375
 ---
 
 This is a topic I cover pretty often, but as I still get emails about it I figure it doesn't hurt to repeat myself. One of the number one reasons folks have issues with Ajax and ColdFusion is the use of Application.cfc and onRequestStart. If you output <b>anything</b> in onRequestStart, like a header, or a footer (in onRequestEnd obviously), it will <b>always</b> output, even when you make requests to CFCs. Let's look at a quick example of this.

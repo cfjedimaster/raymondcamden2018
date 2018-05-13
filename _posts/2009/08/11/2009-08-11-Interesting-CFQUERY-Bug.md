@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/11/Interesting-CFQUERY-Bug
+guid: 3484
 ---
 
 Credit for this find goes to David McGuigan. He found the bug and reported it on a private listserv. I asked him to blog it, and he suggested I do instead. 

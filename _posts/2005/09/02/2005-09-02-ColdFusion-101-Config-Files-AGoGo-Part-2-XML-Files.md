@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/02/ColdFusion-101-Config-Files-AGoGo-Part-2-XML-Files
+guid: 751
 ---
 
 Welcome to the second in a series concerning configuration files and ColdFusion applications. In the <a href="http://ray.camdenfamily.com/index.cfm/2005/8/26/ColdFusion-101-Config-Files-AGoGo">previous article</a>, I discussed how you could use INI files to supply configuration information for a web application. In this article, I'll talk about how you can use XML files instead. Before we begin, let me state that ColdFusion's XML support is pretty strong, with a good set of <a href="http://livedocs.macromedia.com/coldfusion/7/htmldocs/00000372.htm">XML functions</a> available. This post is <i>not</i> intended to teach you about XML. There are whole books on this topic as well as a <a href="http://livedocs.macromedia.com/coldfusion/7/htmldocs/00001505.htm">specific section</a> in the ColdFusion documentation. So, with that in mind, let's take a simple look at how we can use XML to store configuration values.

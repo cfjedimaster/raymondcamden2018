@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/10/ColdFusion-and-Short-Circuit-Boolean-Evaluation
+guid: 1389
 ---
 
 So this is <i>very</i> old news, but I discovered recently that not everyone may know about this. ColdFusion uses short circuit boolean evaluation. Ok, so what in the heck does that mean? What it means is when ColdFusion is evaluating an expression, if it finds a way to end quicker, it will. So, in English, consider this statement:

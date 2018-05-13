@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/20/Ask-a-Jedi-What-is-Cause-and-RootCause-in-ColdFusion-exceptions
+guid: 3688
 ---
 
 A week or so ago a reader asked me about an odd change he saw when dumping exceptions in ColdFusion. In a "normal" error, he saw the following keys in the Exception object: Detail, ErrNumber, Message, StackTrack, TagContext, Type. These were all expected (although there can be more based on your error). Then he noticed that if an error occurred within Application.cfc, something else was added. To test this, I added the following:

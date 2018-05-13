@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/14/Trusted-Cache-and-the-VFS
+guid: 3970
 ---
 
 So a few days ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2010/10/13/Why-arent-you-using-Trusted-Cache">quick blog entry</a> asking why more people weren't making use of Trusted Cache. While not a silver bullet, it can sometimes be a quick way to improve your site performance. A reader, johans, <a href="http://www.coldfusionjedi.com/index.cfm/2010/10/13/Why-arent-you-using-Trusted-Cache#c8CB03A28-B62A-C0C4-DE3D4EC8ABD734D1">commented</a> asking what the impact would be on files stored in the virtual file system (VFS). I assumed it would act the same - ie, any changes would not be picked up. Today I wrote a quick template to see if I was right:

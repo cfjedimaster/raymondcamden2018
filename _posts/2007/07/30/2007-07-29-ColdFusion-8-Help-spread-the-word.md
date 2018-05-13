@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/30/ColdFusion-8-Help-spread-the-word
+guid: 2232
 ---
 
 Folks, I've submitted a digg and dzone story. Please vote/digg these links to help get them to the front page.

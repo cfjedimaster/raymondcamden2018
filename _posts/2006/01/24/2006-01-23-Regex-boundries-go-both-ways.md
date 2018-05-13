@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/24/Regex-boundries-go-both-ways
+guid: 1052
 ---
 
 So I was working on the <a href="http://ray.camdenfamily.com/index.cfm/2006/1/24/Cookbook-Update">update</a> to the <a href="http://www.coldfusioncookbook.com">cookbook</a> site to allow for auto-hyperlinking of tags and functions. I began my work by simply trying to get createUUID() to hyperlink.

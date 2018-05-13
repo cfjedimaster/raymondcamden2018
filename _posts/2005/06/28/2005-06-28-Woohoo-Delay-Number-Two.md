@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/06/28/Woohoo-Delay-Number-Two
+guid: 607
 ---
 
 Well, to be honest, it's not a delay. It's just Delta losing my luggage.

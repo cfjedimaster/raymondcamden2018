@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/10/Galleon-ColdFusion-Forums-231
+guid: 3812
 ---
 
 I just released a minor update to <a href="http://galleon.riaforge.org">Galleon</a>, my ColdFusion Forums product. The updates include:

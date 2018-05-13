@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/05/Ask-a-Jedi-Handling-a-custom-sort-order-update
+guid: 1248
 ---
 
 That title sounds a heck of a lot more complex than what the subject matter is, so don't be scared. Mark asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/04/Soundings-2-Released-Shock-the-Monkey
+guid: 2250
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//logo.gif" align="left" style="margin-right: 10px">

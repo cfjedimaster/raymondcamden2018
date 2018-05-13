@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/02/12/Ten-Years-Ago-Today
+guid: 4853
 ---
 
 Ten years ago today this little blog of mine launched with a simple <a href="http://www.raymondcamden.com/index.cfm?mode=entry&entry=395FA384-CC01-17D6-AE9B36479350D784">Welcome</a> post.  I started this blog with the intent of sharing knowledge and random things I thought were "cool." In the past ten years there have been... 

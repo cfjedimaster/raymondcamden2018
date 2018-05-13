@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/07/ColdFusion-8-Tip-Reading-the-top-or-another-slice-of-a-file
+guid: 2327
 ---
 
 In the ColdFusion IRC channel today, someone asked about reading just the top portion of a file. While she was looking for a command line solution and not ColdFusion, I thought it would be interesting to share how easy it is in ColdFusion 8 using the new file attribute to CFLOOP. This code will loop over the first ten lines of a file and display them:

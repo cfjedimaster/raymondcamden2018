@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/31/Ask-a-Jedi-Pros-and-Cons-of-Flash-Forms
+guid: 1306
 ---
 
 Brad asks:

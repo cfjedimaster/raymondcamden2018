@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/07/09/Article-posted-to-HTML5Rocks-Databinding-UI-Elements-with-IndexedDB
+guid: 4671
 ---
 
 I'm <i>very</i> proud (ok, giddy even) to announce that I've had my first article published at <a href="http://www.html5rocks.com">HTML5Rocks</a>:

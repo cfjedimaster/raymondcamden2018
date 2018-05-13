@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/02/15/Use-Google-Analytics-and-Ajax-Remember-to-update-your-code
+guid: 3239
 ---
 
 Just a quick tip to remind you that if you use Google Analytics with a heavily Ajax driven site, you may want to update your code to track your Ajax requests. Google details this here:

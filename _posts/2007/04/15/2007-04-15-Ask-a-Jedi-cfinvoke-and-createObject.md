@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/15/Ask-a-Jedi-cfinvoke-and-createObject
+guid: 1960
 ---
 
 Gary sent in a question I've dealt with in the past, but I hear it brought up multiple times so I thought I'd share my response here. First, Gary's question:

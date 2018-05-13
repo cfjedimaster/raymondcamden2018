@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/27/Quick-tip-with-cfpop-and-debugging
+guid: 4343
 ---
 
 I'm working on some code to generate EML files dynamically. My goal is to use cfpop to read messages and provide a quick 'Download' link that will generate an EML file. These files can then be opened in a native desktop client like any other mail. I've got that part working (and will be blogging it soon), but when I went to test against real email, I ran into an interesting issue.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/08/ColdFusion-101-Config-Files-AGoGo-Part-3-Wrap-Up
+guid: 758
 ---
 
 If you haven't already, please see <a href="http://ray.camdenfamily.com/index.cfm/2005/8/26/ColdFusion-101-Config-Files-AGoGo">part 1</a> and <a href="http://ray.camdenfamily.com/index.cfm/2005/9/2/ColdFusion-101-Config-Files-AGoGo-Part-2-XML-Files">part 2</a> of this series. I've been talking about various ways of doing configuration for web applications. I wanted to use this last part to simply wrap up a few threads, share a few ideas, and, well, wrap up. So here are some thoughts in no particular order.

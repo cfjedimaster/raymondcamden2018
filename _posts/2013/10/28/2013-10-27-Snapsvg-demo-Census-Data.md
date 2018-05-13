@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2013/10/28/Snapsvg-demo-Census-Data
+guid: 5070
 ---
 
 <p>

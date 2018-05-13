@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/12/26/avoid-the-minified-angularjs-library-in-development
+guid: 5486
 ---
 
 I'm still learning AngularJS, which means I can get stuff done but I'm dangerous. A few days ago I ran into a problem that drove me crazy. I was trying to use <a href="http://ngcordova.com/">ngCordova</a> in an existing AngularJS application and kept running into a problem injecting the library into my controller. The error message was less than helpful. Heck, it was useless. Let's look at an example.

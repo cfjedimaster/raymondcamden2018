@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/06/30/Does-your-form-validation-need-to-be-less-strict
+guid: 2906
 ---
 
 I ran across an interesting issue with gmail this morning. I was logging into my Broadchoice hosted mail account. Those of you who use Gmail for your hosted mail know that the form looks something like so:

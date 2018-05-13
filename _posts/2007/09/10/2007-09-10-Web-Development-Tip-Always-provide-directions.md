@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/09/10/Web-Development-Tip-Always-provide-directions
+guid: 2333
 ---
 
 Ok, this may sound obvious - but I just ran into this and I was truly surprised. I'm doing some work for a client who uses  <a href="http://www.crystaltech.com/">CrystalTech</a>. They have a pretty nice web based administrator. But get this - if your session times out and you try to load a page, you get this error:

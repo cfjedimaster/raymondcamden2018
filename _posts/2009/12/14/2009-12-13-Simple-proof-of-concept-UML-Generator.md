@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/14/Simple-proof-of-concept-UML-Generator
+guid: 3647
 ---
 
 I was talking with <a href="http://www.briankotek.com/blog/">Brian Kotek</a> recently about a particular design issue when he suggested I make use of <a href="http://yuml.me">yUML</a>. This is an online service that allows you to dynamically generate UML documents. UML is <i>not</i> something that I'm really into. I can see the benefits of it, but I just haven't felt the need yet to make it part of my development process. That being said, I thought it was pretty cool how yUML allowed you to generate a UML picture straight from a URL. If you look at their <a href="http://yuml.me/diagram/scruffy/class/samples">samples</a> page, you can see how they go from a simple URL "api" to a generate graphic. 

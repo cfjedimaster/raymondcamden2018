@@ -6,6 +6,7 @@ categories: [development,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/12/10/really-useful-chrome-dev-tools-tip
+guid: 5428
 ---
 
 This is not necessarily a new feature, but one that really helped me yesterday so I thought I'd share it. I do not believe this exists in Firefox now (I'm using Firefox as my primary browser now), and I did not check IE, so it may be a Chrome-only feature at the moment. Yesterday I was trying to help a friend debug an incredibly weird problem with an incredibly simple bit of jQuery.

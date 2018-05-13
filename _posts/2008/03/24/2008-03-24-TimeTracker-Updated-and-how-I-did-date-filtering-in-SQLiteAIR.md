@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/03/24/TimeTracker-Updated-and-how-I-did-date-filtering-in-SQLiteAIR
+guid: 2723
 ---
 
 Sometime ago I began work on a simple AIR tool to help me record my hours. It's been a while since I worked on it, but this weekend I decided to take another look at a nagging issue that I had never resolved. How do I do date filters in SQLite? Specifically, the "Enter Hours" screen should only show the hours you entered for today. (I plan on adding a Reports tab later to let you browse hours and generate reports.)

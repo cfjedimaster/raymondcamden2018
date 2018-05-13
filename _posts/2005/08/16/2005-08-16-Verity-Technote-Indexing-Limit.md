@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/16/Verity-Technote-Indexing-Limit
+guid: 701
 ---
 
 A new technote was released yesterday concerning Verity:

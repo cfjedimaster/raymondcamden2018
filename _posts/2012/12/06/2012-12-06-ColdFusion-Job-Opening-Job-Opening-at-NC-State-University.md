@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/12/06/ColdFusion-Job-Opening-Job-Opening-at-NC-State-University
+guid: 4803
 ---
 
 Job Title: Operations and Systems Analyst

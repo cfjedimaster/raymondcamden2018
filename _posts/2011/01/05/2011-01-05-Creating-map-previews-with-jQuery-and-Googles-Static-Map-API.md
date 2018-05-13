@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/05/Creating-map-previews-with-jQuery-and-Googles-Static-Map-API
+guid: 4074
 ---
 
 I've blogged before about Google's <a href="http://code.google.com/apis/maps/documentation/staticmaps">Static Map API</a> (see the related blog entries below). Essentially it is a simple way to quickly embed maps on your site by just using query parameters. While not as powerful as the "real" JavaScript Map API, it's a darn nice feature and about as simple to use as you can get. Today on a phone conversation I mentioned how this API could be used to provide previews for address information. Take for example the <a href="http://groups.adobe.com/index.cfm?event=page.maps">maps</a> page for Adobe Groups. This is driven by address information entered by user group managers. It would be cool if we could provide a way for the UGMs to see exactly where on the map their address will fall. Here is a quick and dirty I whipped up with jQuery.

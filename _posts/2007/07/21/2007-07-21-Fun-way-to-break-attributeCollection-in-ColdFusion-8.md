@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/21/Fun-way-to-break-attributeCollection-in-ColdFusion-8
+guid: 2209
 ---
 
 Ok, so I love the new attributeCollection feature of ColdFusion 8. Here is a simple example:

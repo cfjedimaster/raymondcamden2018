@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/11/26/disqus-update-and-blogcfc-export-script
+guid: 5359
 ---
 
 <p>

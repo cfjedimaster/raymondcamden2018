@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/10/06/Followup-to-jQuery-experiment-autoshortener-as-a-plugin
+guid: 3963
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2010/10/5/Simple-jQuery-experiment--automatically-shortening-a-long-list">wrote</a> a quick proof of concept that demonstrated jQuery code that would shorten a list of content to a set max and automatically add a 'Show More' link. The content was output by ColdFusion and could be any size. The JavaScript would check to see if there were more than 10 items and remove the ones <i>after</i> the 10th as well as adding the link to redisplay the content. This morning I quickly rewrote the code into a plugin (and took some of the advice I got on the last blog entry). Here is what I came up with.

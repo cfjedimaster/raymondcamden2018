@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/12/16/New-Brackets-Extension-Canalyzer
+guid: 5103
 ---
 
 <p>

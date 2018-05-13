@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/21/Yet-another-post-on-cffeed-and-columnMap
+guid: 2981
 ---
 
 I love to beat up on the cffeed tag. I mean I'm happy it was added to the language, but out of all the features in CF8, this one seemed to be the most flakey. Just look at the blog entries:

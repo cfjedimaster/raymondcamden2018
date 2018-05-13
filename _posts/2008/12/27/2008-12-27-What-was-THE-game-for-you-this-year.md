@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2008/12/27/What-was-THE-game-for-you-this-year
+guid: 3164
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//Video-Games-Posters.jpg" align="left" hspace="5">

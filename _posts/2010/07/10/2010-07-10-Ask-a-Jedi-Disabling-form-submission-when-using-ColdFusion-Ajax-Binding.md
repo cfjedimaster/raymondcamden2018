@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/10/Ask-a-Jedi-Disabling-form-submission-when-using-ColdFusion-Ajax-Binding
+guid: 3874
 ---
 
 <b>Be sure to read the update at the bottom of the post.</b>

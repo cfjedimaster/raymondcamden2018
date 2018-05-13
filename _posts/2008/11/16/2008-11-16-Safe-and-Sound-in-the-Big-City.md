@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/11/16/Safe-and-Sound-in-the-Big-City
+guid: 3105
 ---
 
 Woot. I got here - safe - and on time. Well, two minutes late, but believe me, I'm not going to complain about a few minutes. I love San Francisco, but I swear in all the years I've been here, this is the warmest I've felt it. So much for all the warm clothes and jacket.

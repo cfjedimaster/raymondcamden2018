@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/20/Spry-Updated
+guid: 1601
 ---
 
 While the official 1.4 release is still not ready yet, the folks over on the Spry team have released a new update today. You can read more about this at <a href="http://www.adobe.com/cfusion/webforums/forum/messageview.cfm?forumid=72&catid=602&threadid=1206959&enterthread=y">this forum</a> post. This release focuses mostly on widgets and form validation - two areas that Spry doesn't have a lot of tools in - so I'm very happy to see this update. 

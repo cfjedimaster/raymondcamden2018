@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/10/17/MAX-Day-0-Report
+guid: 852
 ---
 
 So, nothing much to report today. We had the Community College meeting which revealed some interesting details (more on that later). During the meeting we got a chance to grill folks from various product teams. I was with the CF group (of course) and we had a very interesting discussion. There is a three hour session tomorrow on ColdFusion that I encourage folks to attend. 

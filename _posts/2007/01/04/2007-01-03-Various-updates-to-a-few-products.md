@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/04/Various-updates-to-a-few-products
+guid: 1749
 ---
 
 I updated my <a href="http://cfyahoo.riaforge.org">CF Yahoo Package</a> today with an amazing new feature called Documentation. The rumor is that documentation, or "docs" as some people call it, actually helps people use software. All kidding aside, sorry it took so long to provide some proper docs, but I've started at least. The included doc covers installation, getting an application ID, and describes one of the APIs, the Answer service. I also removed my own application key from the code. I had forgotten to do that before. If you are using the code in your application, please remove my application key. (And send me an email - I'd like to include a list of sites using the code.) I'm trying to convince Yahoo to add ColdFusion to their <a href="http://developer.yahoo.com/">developer network</a>, so if anyone has an "in" there, let me know. 

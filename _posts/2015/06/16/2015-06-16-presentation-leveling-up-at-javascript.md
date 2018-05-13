@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/06/16/presentation-leveling-up-at-javascript
+guid: 6295
 ---
 
 So last week - right before I left on vacation, and yes, I shouldn't be posting now - I gave a presentation to the Chicago ColdFusion User Group on my thoughts on how to improve your skills at JavaScript. It is a topic I'm pretty interested in and I  think the presentation is a good one. However, Adobe Connect kept crapping out on me. I don't know if that was Connect's fault or my laptop, but, it caused problems. I believe the recording is still worthwhile though so I encourage you to check it out and let me know what you think:

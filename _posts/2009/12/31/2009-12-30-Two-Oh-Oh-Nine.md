@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/12/31/Two-Oh-Oh-Nine
+guid: 3670
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/happy_new_year.jpg" style="float:left;padding-right:5px;padding-bottom:5px" title="Yo, Happy New Year. Word to 2010." />

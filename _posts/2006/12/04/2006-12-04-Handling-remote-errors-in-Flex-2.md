@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/12/04/Handling-remote-errors-in-Flex-2
+guid: 1692
 ---
 
 After my <a href="http://ray.camdenfamily.com/index.cfm/2006/12/4/Simple-Error-Templates">last post</a> on a simple error handler for ColdFusion, I was asked how I would do the same in Flex 2. Keep in mind I'm still new to all this - so I'm sure (and I'm counting on!) my readers to correct me - but here is my answer to that question.

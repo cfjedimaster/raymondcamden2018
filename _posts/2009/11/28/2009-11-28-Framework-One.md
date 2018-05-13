@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/28/Framework-One
+guid: 3625
 ---
 
 Back in July <a href="http://www.corfield.org/blog">Sean Corfield</a> released a new framework: <a href="http://fw1.riaforge.org">Framework One</a>, or FW/1. Sean has a nice <a href="http://fw1.riaforge.org/blog/index.cfm/2009/7/19/Introducing-Framework-One">blog entry</a> talking about why he created it. The basic gist is that Sean was looking to create something simpler and more direct than the frameworks in use in our community today. I've been a fan of Model-Glue for a long time. I've played with other frameworks, ColdBox most recently, but I've never been as satisfied or as happy as I am when I use Model-Glue. This holiday week I thought I'd check out FW/1, and while I don't think it will replace Model-Glue as my framework of choice, I was <b>very</b> impressed by it and had a lot of fun building a sample application with it.

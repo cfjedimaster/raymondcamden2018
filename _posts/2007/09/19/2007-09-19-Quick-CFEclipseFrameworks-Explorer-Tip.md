@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/09/19/Quick-CFEclipseFrameworks-Explorer-Tip
+guid: 2357
 ---
 
 I'm working on a rather large Model-Glue site. The main ModelGlue.xml file contains many includes to break out the functionality.

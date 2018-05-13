@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/25/Using-ColdFusion-to-help-with-my-sons-homework
+guid: 3030
 ---
 
 So I don't know if this is cheating or not. You guys can tell me. My son's teacher assigns some homework that is meant to be done with a parent. Today he had a problem that involved school lunches. The problem was that if a student spent exactly 5 dollars for lunch, he would get a free cookie. There were four groups of foods and each item had a different price. You had to pick one item from each group and reach a sum of 5 dollars. He found one by himself, and had trouble finding the other combinations. We began to do it by random guessing, and quickly gave up. It then occurred to me. This was a perfect example of boring, iterative work that a computer could probably solve in one second. I created a set of data for the food groups and items:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/02/Dont-Try-This-At-Home-CFBASIC
+guid: 663
 ---
 
 So, a few years ago I was bored. Really bored. I decided to write a BASIC interperter in ColdFusion. It would allow for stuff like this:

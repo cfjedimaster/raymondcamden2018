@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/12/Dell-Update-Inifinity
+guid: 694
 ---
 
 As a followup to my last <a href="http://ray.camdenfamily.com/index.cfm/2005/8/6/Dell-Update-Number-2432940">post</a>, I thought I'd share something either very funny, or very sad.

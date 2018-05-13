@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/27/CFThread-Demo-with-Status-Messages
+guid: 2374
 ---
 
 Yesterday I wrote a <a href="http://www.raymondcamden.com/index.cfm/2007/9/26/Ask-a-Jedi-CFThread-Questions">blog entry</a> where I answered various questions about threading. One of the topics I touched on was how you could monitor the status of threads that you aren't waiting around for. I promised a small demo - and at lunch today I whipped one up. It isn't the most elegant example, but hopefully it will help demonstrate the concept. I'll discuss bits of the code, and at the end of the entry will present the entire template for those who want to cut/paste.

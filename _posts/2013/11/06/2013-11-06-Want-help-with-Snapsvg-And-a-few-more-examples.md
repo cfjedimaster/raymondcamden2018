@@ -6,6 +6,7 @@ categories: [design,development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/11/06/Want-help-with-Snapsvg-And-a-few-more-examples
+guid: 5080
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/02/19/Some-examples-of-Android-PhoneGap-Config-Settings
+guid: 4859
 ---
 
 One thing I don't really play a lot with are config.xml files on Android. The config.xml file is a powerful way to specify settings like icons, splash screens, and the like. You can find the high level docs for this feature here: <a href="http://docs.phonegap.com/en/2.4.0/guide_project-settings_index.md.html#Project%20Settings">Project Settings</a>. A few days ago <a href="http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-240.html">Simon MacDonald</a> wrote up some details about new Android features and specifically called out another blog post by Joe Bowser about new config.xml settings for Android: <a href="http://www.infil00p.org/what-else-is-new-in-cordova-android-2-4-0/">What else is new in Cordova Android 2.4.0</a>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/26/Yet-Another-Variable-Scoping-Warning
+guid: 1170
 ---
 
 Scott Pinkston sent me a note this weekend about a problem he ran into:

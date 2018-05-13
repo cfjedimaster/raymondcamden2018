@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/25/BlogCFC-40-Update
+guid: 729
 ---
 
 It's been a few weeks since my <a href="http://ray.camdenfamily.com/index.cfm/2005/8/12/BlogCFC-39-Released--BlogCFC-40-Specs">3.9 Release/4.0 Announcement</a> so I thought I'd give folks an update. Here is the original list of 4.0 specs and my progress on each:

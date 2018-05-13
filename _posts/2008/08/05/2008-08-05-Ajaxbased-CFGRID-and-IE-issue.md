@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/05/Ajaxbased-CFGRID-and-IE-issue
+guid: 2958
 ---
 
 I've been working with a user on this issue and since it involves CSS and IE (two things I try not to be familiar with), I figured I'd blog it to see if one of my readers can help.

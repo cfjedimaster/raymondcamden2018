@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/05/17/a-simple-cordova-task-runner-for-visual-studio-code
+guid: 6149
 ---
 
 I've been <i>really</i> liking <a href="https://code.visualstudio.com">Visual Studio Code</a> lately, so much so that it is now my primary editor. It is still definitely a pre-1.0 release, but it performs really well and I just dig its coding style. I had to step away from Brackets a few weeks ago due to a bug (<a href="https://github.com/adobe/brackets/issues/10718">details</a>) that impacts AngularJS/Ionic apps. Since that's what I work with most of the time, Brackets simply became too frustrating to use. One of the cool features of Visual Studio Code is the ability to define <a href="https://code.visualstudio.com/Docs/tasks">Tasks</a> for a project. You can support one or more different tasks for a project simply by adding a tasks.json file to the .settings subdirectory. VSC will even create a good default with lots of examples for you to modify. Even nicer, since VSC supports intellisense for <a href="https://code.visualstudio.com/Docs/languages#_json">JSON schemas</a>, you get code hints while building the file. This morning I thought I'd write up a quick example of adding support for emulating Cordova app.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/15/Warning-about-the-ColdFusion-Admin-API-and-CFLOGON
+guid: 2126
 ---
 
 I ran into an interesting little issue last night when I was writing my blog entry on the <a href="http://www.raymondcamden.com/index.cfm/2007/6/14/ColdFusion-8-Server-Monitor-API">Server Monitoring API</a>. For some reason my ability to add blog posts stopped working. I thought something crazy was going on until I noticed something. My username had switched from the username I used to logon to BlogCFC to the username "admin". Why? 

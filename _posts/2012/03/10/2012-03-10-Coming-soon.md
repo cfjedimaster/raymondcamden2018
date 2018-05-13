@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/10/Coming-soon
+guid: 4556
 ---
 
 Principle writing done... doing final updates and support for 1.1... and launching in June. Written by myself and Andy Mathews...

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/24/Cookbook-Update
+guid: 1051
 ---
 
 Today I added what I think is a pretty cool feature to the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a>. Now all (most) CFML tags and functions will be auto-linked to the livedocs documentation for that tag or function. Since it is XML-based, whenever Adobe gets around to finally adding getSessions (come on already, it's time! :) I can simply modify the source XML file.

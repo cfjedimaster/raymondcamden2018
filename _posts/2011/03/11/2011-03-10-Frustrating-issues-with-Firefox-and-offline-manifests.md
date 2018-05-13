@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2011/03/11/Frustrating-issues-with-Firefox-and-offline-manifests
+guid: 4153
 ---
 
 I'm working on a demo that makes use of the HTML5 offline manifest feature (nicely described <a href="http://diveintohtml5.org/offline.html">here</a>), and I'm having a hell of a time getting things to update in Firefox now that I've begun playing with things. I thought I had my demo ready to go. Whenever I changed my code I went into the cache manifest file and modified my header so that the server would see that the file was updated. This didn't always work, so I'd also go into Firefox settings (Tools/Options/Offline storage)and run Clear Now.

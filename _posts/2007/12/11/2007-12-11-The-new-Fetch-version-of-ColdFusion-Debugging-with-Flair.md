@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/11/The-new-Fetch-version-of-ColdFusion-Debugging-with-Flair
+guid: 2530
 ---
 
 I've done a lot of playing around with ColdFusion's debug and exception templates. As I like to remind people - these templates are all CFML and open source. You can play with them to your hearts content. You should be careful obviously, especially if you modify the exception template. This "play" is what led to the <a href="http://coldfire.riaforge.org">ColdFire</a> project.

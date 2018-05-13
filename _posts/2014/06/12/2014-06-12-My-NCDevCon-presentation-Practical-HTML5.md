@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2014/06/12/My-NCDevCon-presentation-Practical-HTML5
+guid: 5244
 ---
 
 <img src="https://static.raymondcamden.com/images/ncdevcon-logo.png" style="float:left;margin-right:10px;" />

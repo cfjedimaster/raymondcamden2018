@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2013/10/01/MultiFile-Uploads-and-Multiple-Selects
+guid: 5051
 ---
 
 <p>

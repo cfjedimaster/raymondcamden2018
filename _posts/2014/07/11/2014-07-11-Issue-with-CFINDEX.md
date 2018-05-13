@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/07/11/Issue-with-CFINDEX
+guid: 5264
 ---
 
 <p>

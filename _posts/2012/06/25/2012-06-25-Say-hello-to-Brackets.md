@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/06/25/Say-hello-to-Brackets
+guid: 4658
 ---
 
 <img src="https://static.raymondcamden.com/images/brackets_logo.png" style="float:left;margin-right:10px;margin-bottom:10px;"  /> Today marks the public launch of <a href="https://github.com/adobe/brackets">Brackets</a>, an open source, light-weight code editor built entirely with web standards. Brackets has been in "stealth mode" for a little while now. The complete source (as well as links for downloads) can be found at the Github repo: <a href="https://github.com/adobe/brackets">https://github.com/adobe/brackets</a>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/16/Building-a-Twitter-Report-in-ColdFusion-Part-2
+guid: 3528
 ---
 
 Before I begin this entry, I wanted to post a quick notice about the code in my <a href="http://www.raymondcamden.com/index.cfm/2009/9/14/Building-a-Twitter-Report-in-ColdFusion">previous entry</a>. I discovered a bug that broke the date filter. I've mentioned the fix in the comments but have <b>not</b> updated the zip. Rather, in this entry, I will include the fixed code along with the new version of the report I'll be discussing below. Even if you don't care for the new features I'm showing here, please grab the updated code if you want to run the simpler Twitter report. Thanks.

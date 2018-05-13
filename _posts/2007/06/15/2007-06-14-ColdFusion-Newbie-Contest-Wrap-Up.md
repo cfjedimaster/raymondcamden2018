@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/15/ColdFusion-Newbie-Contest-Wrap-Up
+guid: 2125
 ---
 
 When I decided to run another <a href="http://www.raymondcamden.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker

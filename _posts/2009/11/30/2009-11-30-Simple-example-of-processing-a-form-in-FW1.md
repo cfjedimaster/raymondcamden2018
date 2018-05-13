@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/30/Simple-example-of-processing-a-form-in-FW1
+guid: 3627
 ---
 
 I spent the last week learning <a href="http://fw1.riaforge.org">FW/1</a> (you can see my quick review <a href="http://www.raymondcamden.com/index.cfm/2009/11/28/Framework-One">here</a>) and while - in general - it was pretty easy - one thing was a bit confusing for me. I had a hard time wrapping my head around the logic of: 

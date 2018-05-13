@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/09/Adding-driving-directions-to-a-jQuery-Mobile-web-site
+guid: 4150
 ---
 
 My first morning at Scotch on the Rocks was a bit rough. Despite getting to bed at a decent time (10:30 or so) so I could catch up on my sleep, I ended up waking up around 3:30 or so in the morning and tossing and turning till 6. During that time an idea popped in my head for one more demo I could do for my jQuery Mobile presentation. I was thinking about building a simple mobile web site for the hotel. I thought it would be a simple example but also pretty practical. Of course, once I figured out a simple, static plan for the site an idea occurred to me. One of the important details for a hotel - obviously - is where they are. But what if you could not only tell folks where the hotel was but how you could get there? Here's my demo which shows just that. I'll warn you now - it's brittle as heck. It's really just a proof of concept. But it works (mostly) and I think it's pretty cool. Ready?

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/21/Minor-Updates-to-GalleonBlogCFC
+guid: 1417
 ---
 
 I've made two small updates today. First, I fixed the database scripts in <a href="http://ray.camdenfamily.com/projects/galleon">Galleon</a>. If you last upgrade went ok, then you need not worry about getting this version.

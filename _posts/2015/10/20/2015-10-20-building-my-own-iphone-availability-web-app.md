@@ -6,6 +6,7 @@ categories: [development,javascript,jquery,mobile]
 tags: [bluemix]
 banner_image: 
 permalink: /2015/10/20/building-my-own-iphone-availability-web-app
+guid: 6960
 ---
 
 <strong>Before I begin, a quick disclaimer. What I'm building here is completely for fun and because I thought it might be interesting. I'm critiquing and improving a form that was built by people smarter than me and more than adequate for 99.99% of users. Basically, I saw something I wanted to build and I did it.</strong>

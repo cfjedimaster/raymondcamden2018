@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/28/ColdFusion-101-Building-a-contact-form-with-dynamic-TO-addresses
+guid: 1870
 ---
 
 This question came in to me today, and as a former library worker (well, I was a shelver in high school - one of the best jobs I ever had), I wanted to give her a hand and thought I'd share the question/solution.

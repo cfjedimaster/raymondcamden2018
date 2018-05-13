@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/04/21/crazy-cool-chrome-extension-and-how-to-dig-into-the-source
+guid: 6036
 ---
 
 I'm learning some interesting stuff at <a href="http://fluentconf.com">FluentConf</a> and I'll talk more about that when the conference wraps, but I want to share something I found yesterday that I thought was really freaking cool. It is a Chrome extension called <a href="https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en">Momentum</a>. Apparently this was all over the place a few weeks ago so I'm late to the party, but it replaces your "New Tab" screen with an absolutely beautiful (and somewhat useful) design:

@@ -6,6 +6,7 @@ categories: [html5,mobile]
 tags: []
 banner_image: 
 permalink: /2013/05/09/MAX-Session-Advanced-PhoneGap-Build
+guid: 4929
 ---
 
 Oddly, the <i>last</i> of my Adobe MAX sessions is available online now but none of my earlier ones. I assume they will show up in the next day or so. But for now, enjoy my eloquent presentation on the more advanced aspects of using PhoneGap Build. You can download the source code for the sample apps and slide deck as well.

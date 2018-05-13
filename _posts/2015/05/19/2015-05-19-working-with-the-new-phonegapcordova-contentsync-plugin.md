@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/05/19/working-with-the-new-phonegapcordova-contentsync-plugin
+guid: 6160
 ---
 
 Yesterday at PhoneGap Day EU (sooooo sorry I'm missing it!), someone (I forget who) announced two new plugins for PhoneGap development - <a href="https://github.com/phonegap/phonegap-plugin-push">Push</a> and <a href="https://github.com/phonegap/phonegap-plugin-contentsync">ContentSync</a>. Push is what you would expect - a way to deal with push messages easier. ContentSync is another beast altogether. The plugin makes it easier to update your application after it has been released. The API gives you a simple way to say, "Hey, I want to fetch this zip of crap and use it." It handles performing the network request to a zip, downloading it, providing various progress events, unzipping it, and then telling you where it stored stuff. All in all a kick ass plugin, but I had some difficultly understanding it so I worked on a few demos to wrap my mind around it. Before we get started though, let me clarify some things that were confusing to me. (And yes, I've filed some bug reports on where I got confused for possible documentation updates.)

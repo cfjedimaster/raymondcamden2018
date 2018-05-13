@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/10/Friday-Puzzler-Fractions
+guid: 3311
 ---
 
 Today's puzzler should be a rather simple one, but I'm curious to see how folks solve it. Don't forget - these Friday Puzzler's are meant to be quick tests of your ColdFusion coding skills. If you can't solve it in five minutes, than take a break. (If I get someone fired I'll feel so guilty. At least for 30 seconds.) So what's the challenge?

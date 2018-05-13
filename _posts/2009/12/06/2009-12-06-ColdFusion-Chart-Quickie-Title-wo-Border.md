@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/06/ColdFusion-Chart-Quickie-Title-wo-Border
+guid: 3633
 ---
 
 From a reader:

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/02/01/Automatically-storing-changes-in-a-form
+guid: 4103
 ---
 
 Ok, earlier today I complained on Twitter (shocking I know) about a particular web site that I can't mention by name that has a particular 'feature' that drives me bonkers. The site has a list of forums you can subscribe to. When you click the checkbox to confirm you want to subscribe it automatically stores your preference. What bugs me is <i>how</i> it does this. As soon as you click the checkbox (either on or off) the entire form is posted to the server. To make matters worse, this is not the most "zippy" site out there (it's not ColdFusion by the way) so just updating your preferences can take a while and cause issues if you are trying to change something while the page is reloading. It's frustrating and it's ticked me off enough times that I decided to quickly rewrite the UX. Let's start with a mockup of how the site currently works. (I didn't view source on the page but rather built it as I imagined it is built.)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/06/28/ColdFusion-Job-Opening-SignUpGeniuscom
+guid: 4974
 ---
 
 Passing it along...

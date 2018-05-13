@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/28/Searching-CFDocs
+guid: 2736
 ---
 
 A friend of mine recently pinged me with a question about the ColdFusion docs. She noticed that in version 8, the search capability was removed. Now while you can obviously search the PDF, that can be a bit slow, and if you aren't online and can use <a href="http://www.cfquickdocs.com/cf8">cfQuickDocs</a>, you have to use your local docs. CFEclipse includes the CF docs and also provides a searchable interface. I don't use Dreamweaver but I'm sure it supports it as well.

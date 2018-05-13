@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/03/New-Site-Atlas-Venture
+guid: 668
 ---
 
 The <a href="http://www.atlasventure.com">Atlas Venture</a> site launched today. Atlas Venture is a venture capital firm based

@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2012/05/27/sunday-review-comics-i-read
+guid: 4631
 ---
 
 As a teenager, I was a regular, if somewhat casual comic reader. I picked up some X-Men, Spiderman, and, of course, Star Wars. However - I can still remember the day when I ran across this gem at my local store:

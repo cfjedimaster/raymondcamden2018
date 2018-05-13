@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/23/Ask-a-Jedi-Executing-Dynamic-ColdFusion
+guid: 1049
 ---
 
 So a reader asks a question I've seen a few times before:

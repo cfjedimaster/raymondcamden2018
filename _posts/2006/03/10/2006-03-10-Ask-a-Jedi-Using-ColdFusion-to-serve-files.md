@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/10/Ask-a-Jedi-Using-ColdFusion-to-serve-files
+guid: 1145
 ---
 
 Alex asks:

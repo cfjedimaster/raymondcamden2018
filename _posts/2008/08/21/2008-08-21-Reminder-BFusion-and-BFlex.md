@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2008/08/21/Reminder-BFusion-and-BFlex
+guid: 2983
 ---
 
 Do not forget that registration is open for <a href="http://bflex.info/">BFusion &amp; BFlex</a>, a two day conference being held in Bloomington, Indiana on September 6th and 7th. The first day focuses on ColdFusion and the second on Flex. Best of all - you can't beat the price. Free. 

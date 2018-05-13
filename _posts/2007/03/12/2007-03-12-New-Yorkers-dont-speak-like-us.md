@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/12/New-Yorkers-dont-speak-like-us
+guid: 1884
 ---
 
 I meant to post this a few days ago but completely forgot. During my travels to NYC last week I noticed two odd language uses I just had to share.

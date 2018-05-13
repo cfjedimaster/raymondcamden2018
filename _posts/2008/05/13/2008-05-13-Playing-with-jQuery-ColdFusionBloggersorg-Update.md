@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2008/05/13/Playing-with-jQuery-ColdFusionBloggersorg-Update
+guid: 2824
 ---
 
 A while ago I built and released <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a> as a way to demonstrate and learn about new ColdFusion 8 Ajax technologies. Since then I've wanted to come back to the site and rebuild it using Spry or JQuery. Not because I wasn't happy with the CF8 Ajax stuff, but because a) it's fun to totally rebuild your own sites and b) I wanted to learn more about jQuery.

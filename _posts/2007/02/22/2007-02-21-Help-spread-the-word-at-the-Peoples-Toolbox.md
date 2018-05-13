@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/22/Help-spread-the-word-at-the-Peoples-Toolbox
+guid: 1852
 ---
 
 So about a week or so ago I discovered <a href="http://www.thepeoplestoolbox.com/programmers/">thePeoplesToolbox</a> - a cool site built to aggregate listings of tools for various languages. A darn good idea I say.

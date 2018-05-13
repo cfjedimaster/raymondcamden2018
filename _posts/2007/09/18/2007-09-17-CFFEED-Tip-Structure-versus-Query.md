@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/18/CFFEED-Tip-Structure-versus-Query
+guid: 2353
 ---
 
 Over the weekend and Monday, there was an interesting thread on CF-Talk. You can read the complete thread <a href="http://www.houseoffusion.com/groups/cf-talk/thread.cfm/threadid:53408">here</a>. The basic problem involved getting a particular piece of data to show up in the final feed xml, in this case, the GUID attribute for an RSS 2.0 feed. One of the problems I have with CFFEED is that sometimes it is rather difficult to figure out what you have to feed it. (See <a href="http://www.raymondcamden.com/index.cfm/2007/8/22/Metadata-properties-for-CFFEED">this post</a> for an example.)

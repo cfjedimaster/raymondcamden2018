@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/08/14/Another-ColdFusion-10-Closures-Post
+guid: 4701
 ---
 
 <strong>Edit on February 19, 2016:</strong> This blog post came up on a [StackOverflow](http://stackoverflow.com/questions/35512739/using-querysort) post today. The code I used in my sort was based on a beta of ColdFusion and will not work in the release or more recent versions. Specifically, my comparator must return 1, 0, or -1, instead of just true and false. See [this answer](http://stackoverflow.com/a/35512880/52160) which talks more about it and shows an example of how you can now do sorting on query objects directly.

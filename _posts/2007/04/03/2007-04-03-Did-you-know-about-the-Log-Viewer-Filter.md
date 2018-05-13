@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/03/Did-you-know-about-the-Log-Viewer-Filter
+guid: 1940
 ---
 
 Most folks use the ColdFusion Log Viewer to do simply that - view log files. But did you know that there was also a pretty good filter function built into it as well? It isn't hidden per se, in fact you can see the button right here:

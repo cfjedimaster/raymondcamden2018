@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2010/06/30/Flash-Remoting-onCFCRequest-Issue
+guid: 3865
 ---
 
 This week I exchanged a few emails with Damien Bruyndonckx concerning an interesting bug he found with flash remoting and onCFCRequest, a new feature added to ColdFusion 9. (You can see a quick review of this <a href="http://www.raymondcamden.com/index.cfm/2009/7/13/ColdFusion-9-fixes-onRequest-adds-onCFCRequest">here</a>.) I was able to confirm the issue he found (which he has already logged a bug for) and I thought I'd share with you guys the details. All credit for this goes to Damien - I'm just the messenger.

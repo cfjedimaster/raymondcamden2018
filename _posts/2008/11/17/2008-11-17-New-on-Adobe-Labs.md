@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/11/17/New-on-Adobe-Labs
+guid: 3108
 ---
 
 Just a quick blog post to summarize and link to the new stuff released today on <a href="http://labs.adobe.com">Adobe Labs</a>.

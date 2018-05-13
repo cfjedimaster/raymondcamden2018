@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/18/Ask-a-Jedi-How-much-is-too-much-when-it-comes-to-the-Application-scope
+guid: 1967
 ---
 
 Matt S. had an interesting question I thought I'd share with my readers:

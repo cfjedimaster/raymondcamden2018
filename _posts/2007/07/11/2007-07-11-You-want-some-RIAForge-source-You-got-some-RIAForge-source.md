@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/11/You-want-some-RIAForge-source-You-got-some-RIAForge-source
+guid: 2189
 ---
 
 Folks have been <strike>bugging</strike>asking me about sharing the source to <a href="http://www.riaforge.org">RIAForge</a> for a while now, and I've finally gotten to packaging it up. You can download it via the Download link below. Before you download though, please read the following notes.

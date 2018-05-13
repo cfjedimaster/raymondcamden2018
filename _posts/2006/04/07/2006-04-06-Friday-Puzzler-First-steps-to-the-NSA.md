@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/07/Friday-Puzzler-First-steps-to-the-NSA
+guid: 1194
 ---
 
 Bored this Friday morning? Here is a little treat for you. Write a ColdFusion UDF that does the following:

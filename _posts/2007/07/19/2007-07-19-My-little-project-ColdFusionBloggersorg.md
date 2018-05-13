@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/19/My-little-project-ColdFusionBloggersorg
+guid: 2203
 ---
 
 I've been hinting at a little project the last few days and as I'm about to get on an airplane I thought now would be a good time to share. First let me share the URL and I know folks will just immediately link out, so please do me a favor and open this in a new window. I want to talk a bit about the project before you leave.

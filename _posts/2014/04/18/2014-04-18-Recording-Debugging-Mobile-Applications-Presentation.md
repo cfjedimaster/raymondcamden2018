@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/18/Recording-Debugging-Mobile-Applications-Presentation
+guid: 5206
 ---
 
 <p>

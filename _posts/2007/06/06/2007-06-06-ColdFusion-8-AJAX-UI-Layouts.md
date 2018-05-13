@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/06/ColdFusion-8-AJAX-UI-Layouts
+guid: 2099
 ---
 
 Today I begin a series of blog posts looking at the new AJAX UI elements in ColdFusion. Let me start off by saying that when I first discovered that ColdFusion would be shipping UI elements I was a bit.... wary. I mean - how many of you are using CFTABLE? The only real success ColdFusion has had in UI elements is Flash Forms... which frankly are dead to me now that I can use Flex 2 for free. So I think I'm being quite honest when I say I didn't have high expectations when I first started to dig into these features. After playing with them though I'm beginning to really like them. Let's start with the simplest of the UI controls - the layouts.

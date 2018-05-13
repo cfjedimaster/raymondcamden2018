@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/18/Ask-a-Jedi-Pair-Counting
+guid: 1219
 ---
 
 Steve asks:

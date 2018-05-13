@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/14/WebCharts-and-ColdFusion
+guid: 2766
 ---
 
 A while back I posted quite a few blog entries on charting, including many talking about custom styles using the built in WebCharts engine included with ColdFusion.

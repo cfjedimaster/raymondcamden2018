@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/23/And-were-back-hopefully-along-with-another-Lost-post
+guid: 1420
 ---
 
 Thanks to everyone who sent me the note about CFCDev going crazy. This happens once every few months when I slip and let the hard drive fill up. ColdFusion's "coldfusion-out.log" file is not rolled over like other CF logs, and unfortunately, it tends to grow huge pretty quickly. I really, really hope Adobe fixes this in 8. Anyway, the file got too big, and MailEnable, my mail server, really doesn't like it. In fact, it tends to go ape-you know what when the drive gets too low.

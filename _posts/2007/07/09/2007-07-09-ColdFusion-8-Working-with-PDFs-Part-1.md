@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/09/ColdFusion-8-Working-with-PDFs-Part-1
+guid: 2181
 ---
 
 Ok, time for a little revelation. This may prevent me from ever working for Adobe, but I have to be honest. 

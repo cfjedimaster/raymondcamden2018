@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/22/Preventing-resizes-in-CFGRID-Columns
+guid: 3366
 ---
 
 Ever want to stop the ability to resize columns in a CFGRID? There isn't a way to do this via tags, but as with other CFGRID hacks, you can do it once you get access to the underlying grid object. Let's look at an example.

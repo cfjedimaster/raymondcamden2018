@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2009/11/17/Looking-For-Writing-ColdFusion-in-Visual-Studio
+guid: 3608
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/vs_mainlogo.png" style="align:left;padding-right:5px" />

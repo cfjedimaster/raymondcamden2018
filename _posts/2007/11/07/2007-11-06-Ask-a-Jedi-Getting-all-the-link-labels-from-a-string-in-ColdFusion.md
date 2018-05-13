@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/07/Ask-a-Jedi-Getting-all-the-link-labels-from-a-string-in-ColdFusion
+guid: 2458
 ---
 
 A reader asked me how they could use regex to find all the link labels in a string. Not the links - but the label for the link. It is relatively easy to grab all the matches for a regex in ColdFusion 8, consider the following code block:

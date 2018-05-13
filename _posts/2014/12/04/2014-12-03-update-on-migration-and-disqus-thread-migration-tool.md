@@ -6,6 +6,7 @@ categories: [uncategorized]
 tags: []
 banner_image: 
 permalink: /2014/12/04/update-on-migration-and-disqus-thread-migration-tool
+guid: 5383
 ---
 
 Just a quick note on the migration process. I'm still planning on talking about the migration in detail, but I want to wait till I feel confident that most of the bugs are gone and the server is stable. Yesterday my blog crashed pretty quickly after launch with a database connection error. I added the <a href="https://wordpress.org/plugins/wp-super-cache/">SuperCache</a> plugin (which multiple people had recommended) and it seemed to work well, but sometime around 3AM this morning it went down again. Right now I'm thinking that maybe a micro instance (0.6 gig ram) is a bit too small and I should maybe jump up to the next higher level. I'm researching that now. 

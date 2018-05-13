@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/12/ColdFusion-8-Working-with-PDFs-A-Problem
+guid: 2191
 ---
 
 So you may have noticed I didn't post a new CFPDF post last night. Problem was - well, I ran into a few problems. I'd like to describe one of them now as I'm sure other people will run into this as well.

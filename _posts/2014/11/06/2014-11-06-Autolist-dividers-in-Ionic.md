@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/11/06/Autolist-dividers-in-Ionic
+guid: 5344
 ---
 
 <p>

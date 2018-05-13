@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/07/23/better-example-of-phonegap-parse-and-uploading-files
+guid: 4989
 ---
 
 A few days back I <a href="http://www.raymondcamden.com/index.cfm/2013/7/10/Quick-note-for-Parse-and-JavaScript-Users">posted</a> about how Parse's JavaScript API now makes it easy to upload files via their SDK. The demo I built was very quick and simple, and while it made use of PhoneGap, it wasn't a great example of the technologies together. Before I spoke on Parse at PhoneGap Day (apparently videos will be posted soon, I'll share when they are) I whipped up a slightly nicer example. Let's take a look.

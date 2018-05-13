@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/14/Ask-a-Jedi-Handling-a-Dead-Database
+guid: 970
 ---
 
 A reader asks:

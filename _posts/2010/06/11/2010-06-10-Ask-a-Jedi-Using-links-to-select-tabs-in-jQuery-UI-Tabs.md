@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/06/11/Ask-a-Jedi-Using-links-to-select-tabs-in-jQuery-UI-Tabs
+guid: 3845
 ---
 
 Frances asked:

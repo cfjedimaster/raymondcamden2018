@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/27/Ask-a-Jedi-What-version-of-the-JRE-is-bundled-with-CFMX
+guid: 648
 ---
 
 Dutch Rapley asks:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/06/04/Is-this-too-much-Change-to-Contact-form
+guid: 3383
 ---
 
 My buddy <a href="http://www.cfsilence.com">Todd Sharp</a> pointed out something interesting to me today - the <a href="http://www.bennadel.com/ask-ben/ask-ben-nadel.htm">contact form</a> on Ben Nadel's blog. Ben added a simple checkbox to let folks using the contact form signify if they are willing to hire him for professional services. I thought this was a good idea, and I've done something similar on <a href="http://www.raymondcamden.com/contact.cfm">my contact form</a>. 

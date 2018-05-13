@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/02/cfObjective-Keynote-News-on-Centaur-CF9
+guid: 2802
 ---
 
 I'm sitting the keynote for cfObjective. Jason Delmore of Adobe is presenting and talking about how well ColdFusion is doing and about the latest 8.0.1 release. The topic now is Centaur, the new version of ColdFusion. I'll be updating this blog entry as he speaks, so please be sure to reload.

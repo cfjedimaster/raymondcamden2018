@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/26/Sprys-Confirmation-Validation
+guid: 2437
 ---
 
 A few days ago I blogged about <a href="http://www.raymondcamden.com/index.cfm/2007/10/21/Sprys-Password-Validation">Spry's password validation</a>. It is an impressive little widget giving you nice control over how strong your password needs to be. Today I'm going to demonstrate the confirmation widget.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/27/Photoshop-Express-Example
+guid: 2734
 ---
 
 Just a quick blog entry to play with embedding a Photoshop Express album. What do folks think? FYI, I chose a fancy 3d album effect. You have multiple options for how the albums are presented.

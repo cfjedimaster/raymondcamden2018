@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/02/15/Matt-Woodwards-Mac-Guide
+guid: 1837
 ---
 
 Matt Woodward recently released a nice guide for those of us who have left the "joy" of Windows and moved over to the Mac:

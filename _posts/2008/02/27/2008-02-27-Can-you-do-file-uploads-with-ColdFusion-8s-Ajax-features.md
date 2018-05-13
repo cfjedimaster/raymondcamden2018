@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/27/Can-you-do-file-uploads-with-ColdFusion-8s-Ajax-features
+guid: 2678
 ---
 
 I've gotten this question about 200 times, as have other bloggers, so I thought I'd write up a quick blog post to discuss it.

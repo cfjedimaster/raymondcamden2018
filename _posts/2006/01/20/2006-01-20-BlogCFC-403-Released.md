@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/20/BlogCFC-403-Released
+guid: 1042
 ---
 
 Time for another update. This week it is brought to you by the mashup mp3 of 50 Cent and NIN. Sweet. Anyway, what is new in 4.0.3?

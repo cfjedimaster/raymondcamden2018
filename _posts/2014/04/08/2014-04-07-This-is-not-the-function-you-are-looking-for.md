@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/04/08/This-is-not-the-function-you-are-looking-for
+guid: 5194
 ---
 
 <p>

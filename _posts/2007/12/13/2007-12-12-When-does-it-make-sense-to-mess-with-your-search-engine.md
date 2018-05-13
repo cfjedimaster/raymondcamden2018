@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/12/13/When-does-it-make-sense-to-mess-with-your-search-engine
+guid: 2539
 ---
 
 For most folks, their search engine is a black box. They write the code using either a SQL statement, a Verity search, or perhaps handing it off to Google, and that's it. But this isn't always a good idea. This week I had two examples of this.

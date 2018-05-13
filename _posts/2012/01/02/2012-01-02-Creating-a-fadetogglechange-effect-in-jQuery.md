@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/01/02/Creating-a-fadetogglechange-effect-in-jQuery
+guid: 4477
 ---
 
 While watching the Saints completely devastate the Panthers this weekend, I noticed something interesting in the "info ticker" (or whatever they call it) at the bottom of the screen. Whenever an important score occurred in one of the other games, there would be a "Score Alert". You would see the previous score, like ATL: 0, NO: 43, and the team that scored would fade in and out, repeat, and come back with the new score. It is a great way to highlight what changed. I thought I'd try to duplicate the effect in jQuery. I'm sure this has probably already been done (a lot), but I figured it would be a good excuse to write code on vacation. Here's what I did:

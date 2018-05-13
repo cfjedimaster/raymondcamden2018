@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/11/09/Working-with-a-ColdFusion-Query-in-jQuery
+guid: 4008
 ---
 
 This morning one of the ColdFusion support forums I subscribe to asked about how one could work with a ColdFusion query sent over Ajax to jQuery. I whipped up a quick example of one way (remember - like ColdFusion - there are many ways to do things in jQuery) you could do it. To start off, I'll show the CFC I'll be using to feed data to the Ajax-based front end. Notice how nothing in it is Ajax-specific. Outside of the fact that it has remote access, this is just a vanilla script-based CFC.

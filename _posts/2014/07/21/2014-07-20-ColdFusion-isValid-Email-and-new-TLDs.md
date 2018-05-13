@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/07/21/ColdFusion-isValid-Email-and-new-TLDs
+guid: 5270
 ---
 
 <p>

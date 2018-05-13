@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/04/Exporting-from-CFGRID
+guid: 2323
 ---
 
 A user asked me today if it was possible to export data from the new HTML-based grid in ColdFusion 8. While there is no direct support, you can roll your own. Let's take a look at one solution to this problem.

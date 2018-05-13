@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/09/Lost-for-May-9-His-name-is-Jacob
+guid: 2021
 ---
 
 Holy. Crap. Ok, so I'm hooked again. I can't remember the last time I about broke my remote hitting pause and play to try to grab a screen shot. This episode was absolutely amazing. I won't do a normal review of all the events but just talk about the high points.

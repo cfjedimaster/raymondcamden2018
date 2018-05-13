@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/04/29/cant-find-cordova-plugin-docs
+guid: 6078
 ---
 
 With the last big release of Apache Cordova, plugins have now moved to npm. (Details may be found here: <a href="http://cordova.apache.org/announcements/2015/04/21/plugins-release-and-move-to-npm.html">Plugins Release and Moving plugins to npm: April 21, 2015</a>. One <i>temporary</i> side effect of this move is that the documentation is no longer working. So for example, when you go to the <a href="https://www.npmjs.com/package/cordova-plugin-camera">Camera plugin</a> page, you see this:

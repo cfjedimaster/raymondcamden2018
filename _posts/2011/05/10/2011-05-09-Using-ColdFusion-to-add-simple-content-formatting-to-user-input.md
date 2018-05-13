@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/10/Using-ColdFusion-to-add-simple-content-formatting-to-user-input
+guid: 4227
 ---
 
 For the most part, those of us who use sites with user generated content, like this blog right here, will do everything possible to strip out and "sanitize" the content sent in by the public. This is mainly done as a security measure. <b>While not enough by itself</b>, htmlEditFormat can be used to strip out and block attempts to spam/misdirect users. Even when not worried about that, innocent users, if given the ability to inject HTML into your site, could easily make a simple HTML mistake that renders your site completely broken. (Visibly anyway.) While a few sites allow for basic HTML, in general you are stuck with simple plain text. Because of this many people will use a few common typographical symbols to convey meaning. For example, I may use *foo*to symbolize boldness or strong feeling. I may also use _underscores_ as a way to represent italics. Let's look at a simple example of how ColdFusion can render some of these into <i>real</i> HTML tags.

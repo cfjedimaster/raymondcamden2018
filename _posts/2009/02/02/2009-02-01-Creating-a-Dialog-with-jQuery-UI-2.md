@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/02/Creating-a-Dialog-with-jQuery-UI-2
+guid: 3217
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2009/2/1/Creating-a-Dialog-with-jQuery-UI">blogged</a> about my experience working with jQuery UI and the Dialog widget. In general it went well (after a slightly rough start), but I was able to get things working nicely and even played around with the themes a bit. I thought things were working fine. I could click my link, and the dialog would show up. (See the exciting, thrilling demo <a href="http://www.coldfusionjedi.com/demos/jqueryuitest2/test3.html">here</a>.) However, there was a bug with how I used the code. If you click on the link it will load the dialog, but if you close it, you can't reopen it. Here is how I fixed the problem.

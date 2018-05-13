@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/07/21/Does-my-mailbox-need-a-stimulant
+guid: 3455
 ---
 
 Forgive the non-ColdFusion, non-Ajax, non-anything important post, but this was too funny to pass up. Today we had a little notice with our mail. Be sure to read the comments:

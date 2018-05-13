@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/12/BlogCFC-v5-The-circle-is-now-complete
+guid: 1266
 ---
 
 I'm happy to announce the immediate availability of BlogCFC 5.0. This has been a long time coming. In fact, the last release was January 22nd. So what has changed? Here is a short list:

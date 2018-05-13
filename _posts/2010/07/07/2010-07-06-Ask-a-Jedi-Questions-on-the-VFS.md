@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/07/Ask-a-Jedi-Questions-on-the-VFS
+guid: 3870
 ---
 
 Daniel emailed me last night with some questions about ColdFusion 9's Virtual File System (VFS). I thought it would be worthwhile to discuss them with the class (you guys ;) and see what people thought.

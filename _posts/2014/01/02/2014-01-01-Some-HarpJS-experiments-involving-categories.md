@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/02/Some-HarpJS-experiments-involving-categories
+guid: 5116
 ---
 
 <p>

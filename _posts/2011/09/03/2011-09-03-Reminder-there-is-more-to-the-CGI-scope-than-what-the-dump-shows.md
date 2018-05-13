@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/03/Reminder-there-is-more-to-the-CGI-scope-than-what-the-dump-shows
+guid: 4353
 ---
 
 I knew this - but forgot and instead of spinning my wheels when I make the same mistake in a month, I figured I'd quickly blog it to help me remember.

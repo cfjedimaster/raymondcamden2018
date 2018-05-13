@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/12/08/Ask-a-Jedi-Adding-Print-support-for-CFMAP
+guid: 3637
 ---
 
 Dale asks:

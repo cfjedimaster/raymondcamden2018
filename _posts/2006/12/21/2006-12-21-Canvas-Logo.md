@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/21/Canvas-Logo
+guid: 1729
 ---
 
 Dave Hill has come up with some cool Canvas logos. I need to pick one for Canvas 2. What do folks think?

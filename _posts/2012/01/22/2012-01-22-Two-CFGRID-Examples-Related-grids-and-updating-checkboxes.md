@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2012/01/22/Two-CFGRID-Examples-Related-grids-and-updating-checkboxes
+guid: 4503
 ---
 
 I've had a simple CFGRID demo sitting in my local web server for a few months now and never got around to sharing it on the blog. Today I responded to user with another CFGRID question and figured it would be good to share them both in one example. (Plus, the code has been sitting in my test.cfm file all that time and I want to get rid of it. ;) So let's start with the first example - relating one cfgrid to another.

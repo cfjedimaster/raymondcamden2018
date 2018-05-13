@@ -6,6 +6,7 @@ categories: [coldfusion,html5]
 tags: []
 banner_image: 
 permalink: /2011/08/29/Note-to-self-about-ServerSent-Events
+guid: 4345
 ---
 
 This morning I took a look over the <a href="http://hacks.mozilla.org/2011/08/firefox6/?utm_source=html5weekly&utm_medium=email">Firefox 6</a> release notes. Before I go any further - wow - kudos to the Firefox devs for such a good, detailed, and informative set of release notes. I was really impressed. Anyway, while reading them I noticed they mentioned support for <a href="http://dev.w3.org/html5/eventsource/">Server-Sent Events</a>. This is one of the more interesting HTML5 specs as it allows for push notifications. In my simple testing though it seemed to fall back to simple polling, which is actually kind of cool. So for example, here is the HTML:

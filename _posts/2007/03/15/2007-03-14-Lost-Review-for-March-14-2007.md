@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/15/Lost-Review-for-March-14-2007
+guid: 1891
 ---
 
 Well, it is about time to show didn't suck. Last night wasn't "Heroes" level great, but darn tootin it was pretty good. First and foremost - how can you <i>not</i> love that line (and I may not get it exactly right):

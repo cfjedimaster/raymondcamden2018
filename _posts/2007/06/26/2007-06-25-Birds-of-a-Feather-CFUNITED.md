@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/26/Birds-of-a-Feather-CFUNITED
+guid: 2150
 ---
 
 CFUNITED is hosting a set of <a href="http://cfunited.com/go/topics#track-birdsoffeather">Birds of a Feather</a> at CFUNITED. These are more informal and casual meetings as opposed to the normal "Guy with Powerpoint" presentation. There a quite a few good ones. Here are a few I want to point out:

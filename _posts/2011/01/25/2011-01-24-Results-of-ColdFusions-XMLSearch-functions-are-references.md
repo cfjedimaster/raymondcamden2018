@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/25/Results-of-ColdFusions-XMLSearch-functions-are-references
+guid: 4093
 ---
 
 Just a quick note. I was talking with <a href="http://nil.checksite.co.uk">Stephen Moretti</a> about working with the results of the XMLSearch function. He wanted to know if the results were references or copies of the XML data. I did a few tests and from what I see - they are references. Here is a quick example.

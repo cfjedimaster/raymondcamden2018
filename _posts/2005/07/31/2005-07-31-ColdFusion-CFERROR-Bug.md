@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/31/ColdFusion-CFERROR-Bug
+guid: 658
 ---
 
 Today is bug day! This isn't a bug per se - but a change in behaviour. Like the <a href="http://ray.camdenfamily.com/index.cfm/2005/7/31/ColdFusion-Function-IsValid-Bug">last issue</a> I blogged about - I can't take credit for finding it. This issue was found by Glenda Vigoreaux of <a href="http://www.roundpeg.com">Roundpeg</a>.

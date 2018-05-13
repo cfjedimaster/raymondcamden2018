@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/01/Ask-a-Jedi-If-I-do-my-own-checking-do-I-still-need-cfqueryparam
+guid: 1310
 ---
 
 Justin asks:

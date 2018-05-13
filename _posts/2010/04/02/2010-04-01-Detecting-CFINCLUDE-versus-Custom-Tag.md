@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/02/Detecting-CFINCLUDE-versus-Custom-Tag
+guid: 3771
 ---
 
 JC Panzerpants asks:

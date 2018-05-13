@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/05/27/Cordova-35-and-Whats-Next-Guide
+guid: 5232
 ---
 
 <p>

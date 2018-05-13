@@ -6,6 +6,7 @@ categories: [design,development]
 tags: []
 banner_image: 
 permalink: /2013/09/09/Photoshop-launches-new-Generator-feature
+guid: 5032
 ---
 
 <p>

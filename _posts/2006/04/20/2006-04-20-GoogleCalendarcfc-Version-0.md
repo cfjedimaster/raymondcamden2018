@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/20/GoogleCalendarcfc-Version-0
+guid: 1226
 ---
 
 I've attached to this entry the first version of the GoogleCalendar.cfc. There is no documentation yet so use at your own risk. What it does:

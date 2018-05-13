@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/14/Ask-a-Jedi-Simple-ColdFusion-8-Ajax-Pagination
+guid: 3147
 ---
 
 Omer asks:

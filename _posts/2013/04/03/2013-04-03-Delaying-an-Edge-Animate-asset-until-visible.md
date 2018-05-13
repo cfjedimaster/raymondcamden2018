@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/04/03/Delaying-an-Edge-Animate-asset-until-visible
+guid: 4900
 ---
 
 Here's a simple little modification that may be useful for people using <a href="http://html.adobe.com/edge/animate/">Edge Animate</a>. The default behavior for an Edge Animate animation is to play immediately. You can disable this of course and use the JavaScript API to play whenever you want. Here's an interesting use for this. What if your Edge Animate asset is on a page where it may not be visible? For example, a page with lots of text or other assets above it? Here is how I solved it.

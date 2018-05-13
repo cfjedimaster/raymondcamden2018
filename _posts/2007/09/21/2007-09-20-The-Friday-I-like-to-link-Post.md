@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/21/The-Friday-I-like-to-link-Post
+guid: 2362
 ---
 
 Just a few quick links I wanted to share. First off - Jason Delmore of Adobe <a href="http://www.cfinsider.com/index.cfm/2007/9/20/Amazing-Features-of-CF8-Presentation">blogged</a> about a presentation he did. The blog entry contains the download for a <i>very</i> nice 'what is CF' presentation. He also links to Adobe's <a href="http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=506273&loc=en_us">ColdFusion eSeminar Series</a>. There are three upcoming presentations that folks may like to see: 

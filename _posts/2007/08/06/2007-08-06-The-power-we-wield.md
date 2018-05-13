@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/08/06/The-power-we-wield
+guid: 2256
 ---
 
 So this is a (slightly edited) email I got earlier today. I didn't want to blog it as it sounds like I'm just bragging on myself (ok, I am a bit), but it reminded me of the power that those of who blog (or participate in the community in general) have, and it's something we need to keep in mind. Sometimes it seems like I'm preaching to the choir, but it's nice to know that we can have a greater impact:

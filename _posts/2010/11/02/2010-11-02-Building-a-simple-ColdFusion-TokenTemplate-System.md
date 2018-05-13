@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/02/Building-a-simple-ColdFusion-TokenTemplate-System
+guid: 3995
 ---
 
 As ColdFusion developers, we build a lot of different types of applications. For the most part though these apps come down to simple content management systems. We build out forms and let our clients enter blocks of text that then get put together nicely on the front end. While the actual view of the application is dynamic, typically the text itself is rather static. So for example, this blog post comprises a title and a body, and is certainly dynamic when viewed by the public, but the actual words themselves are just straight text. Sometimes we need to provide a way to add an additional level of dynamicness (yes, I know that isn't a word, but I'm going for it anyway). A great example of this is an email template. Your web site may send out emails to users on a weekly schedule. The text of the email may need to include customization. It may want to say something like, "Hello #name#", where name is the person receiving the email. You can do this quite easily in ColdFusion, but what if the client wants more control over the text? What if they want to change "Hello" to "Hiya" or perhaps add a ! after the name? This is where a simple token/template system can come in handy. Here is a quick UDF I built with a few sample uses of it. (And by the way, I'm pretty sure I've blogged about this before in the past few years, but it was on my mind this week so I thought I'd whip out another example.)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/27/Second-beta-of-Railo-3-out
+guid: 2902
 ---
 
 Just read this on the Railo 3 listserv. The second beta is out. A few new features were added, including the shorthand array/struct support CF8 has and cfdocument/cfpdf support. One really interesting update is the ability to specify where unscoped variables go in a UDF. Consider this example:

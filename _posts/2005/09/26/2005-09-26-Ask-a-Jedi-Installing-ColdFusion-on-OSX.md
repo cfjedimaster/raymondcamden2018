@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/26/Ask-a-Jedi-Installing-ColdFusion-on-OSX
+guid: 808
 ---
 
 John asks:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/27/Custom-columns-in-Spry
+guid: 1736
 ---
 
 A few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2006/12/22/New-Spry-Code-Paged-Datasets">posted</a> a link to a few new Spry demos including one that shows how to build <a href="http://labs.adobe.com/technologies/spry/samples/data_region/CustomColumnsSample.html">custom columns</a> in Spry. This is a pretty cool feature so I thought I'd whip up another demo so folks can really appreciate how handy this is. The idea is simple: You tell Spry to run code after the data is loaded and simply manipulate the data structure to add the new column. The new column can contain anything you want. This is great if you don't have control over the XML that your Spry page is using.

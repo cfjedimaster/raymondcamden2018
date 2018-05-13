@@ -6,6 +6,7 @@ categories: [adoption]
 tags: []
 banner_image: 
 permalink: /2005/08/24/New-Blog-The-Adoption-News
+guid: 727
 ---
 
 As readers of this blog know, I've adopted three beautiful, wonderful, and of course perfect (ahem) children from South Korea. The adoption process is a wonderful, and trying process. I try to keep up to date on the latest adoption news even though our adoptions are complete (for now). 

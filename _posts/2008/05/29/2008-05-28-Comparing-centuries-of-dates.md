@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/29/Comparing-centuries-of-dates
+guid: 2846
 ---
 
 This is a cross post from something I just posted to the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a>, but since that site gets about a 100 hits a month or so, I figured I'd share it here as well. 

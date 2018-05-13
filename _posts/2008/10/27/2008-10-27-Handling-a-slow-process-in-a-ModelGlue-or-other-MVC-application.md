@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/27/Handling-a-slow-process-in-a-ModelGlue-or-other-MVC-application
+guid: 3073
 ---
 
 This weekend I exchanged a few emails with a reader about how you can handle very slow processes in a Model-Glue application. Typically folks will handle slow processes using one of these methods:

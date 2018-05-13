@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/11/28/Web-Job-Opening-in-Gods-Country-AKA-Lafayette
+guid: 4792
 ---
 
 Ok, so maybe I'm a bit biased, but I think anyone would be lucky to live and work in Lafayette, Louisiana. There's a festival every 5 days. Pleasant weather (triple digits means three times the fun), affordable cost of living, minimal gator attacks. Oh, and <a href="http://lusfiber.com/">fiber</a> to the home. (50 bucks a month for 40 Mbps up and down!) Apex Innovators asked me to pass along this job opening and I was glad to do so.

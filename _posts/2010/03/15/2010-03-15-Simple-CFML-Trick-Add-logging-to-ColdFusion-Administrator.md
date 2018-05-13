@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/15/Simple-CFML-Trick-Add-logging-to-ColdFusion-Administrator
+guid: 3749
 ---
 
 Earlier today I filed an ER to add <a href="http://cfbugs.adobe.com/cfbugreport/flexbugui/cfbugtracker/main.html#bugId=82437">logging to the ColdFusion Administrator</a>. This would add simple auditing to actions done within the administrator. So for example you could see when a user added a DSN, or when another user tweaked mail settings. In theory this should be easy to implement, and I think it would be a great addition. If you agree, don't forget that you can vote for bugs on the public bug tracker so add yours to the <a href="http://cfbugs.adobe.com/cfbugreport/flexbugui/cfbugtracker/main.html#bugId=82437">request</a>. On a whim though I thought I'd try to see if I could hack it in. I know that the administrator hasn't really been updated a lot lately (except for new settings!) and I guessed - correctly - that it still made use of Application.cfm, <i>not</i> Application.cfc.

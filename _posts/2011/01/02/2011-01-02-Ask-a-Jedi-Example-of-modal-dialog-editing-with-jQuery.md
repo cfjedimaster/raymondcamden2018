@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/02/Ask-a-Jedi-Example-of-modal-dialog-editing-with-jQuery
+guid: 4069
 ---
 
 Steve asks:

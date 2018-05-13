@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/08/03/Editing-notification-settings-for-Twitter-on-Android
+guid: 4693
 ---
 
 On the desktop I use TweetDeck for my Twitter client, and while it has a few things that bug me about it I've yet to find a better application. (My favorite feature is the one where I mouse over a tweet to click a link and the app decides to scroll a millisecond before I click. Yeah, I love that.) On mobile, however, TweetDeck was always flaky for me. When it got to the point where I was forcibly shutting it down once a day I decided to look for something else.

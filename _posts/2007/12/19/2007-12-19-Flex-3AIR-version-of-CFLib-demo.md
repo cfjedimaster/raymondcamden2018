@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/12/19/Flex-3AIR-version-of-CFLib-demo
+guid: 2551
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2007/12/18/CFLib-gets-a-dose-of-fresh-air">released</a> an AIR application that lets you browser <a href="http://www.cflib.org">CFLib.org</a> from your desktop. This application didn't take terribly long - except for some issues I ran into with the new security model.

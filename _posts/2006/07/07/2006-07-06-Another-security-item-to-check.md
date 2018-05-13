@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/07/Another-security-item-to-check
+guid: 1382
 ---
 
 Here is something to give you nightmares about - I just googled for a site and came across a complete admin interface. Totally unprotected. I didn't do anything bad of course, but it is something to watch out for.

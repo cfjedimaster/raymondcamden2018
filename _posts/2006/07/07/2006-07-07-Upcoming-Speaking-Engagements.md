@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/07/Upcoming-Speaking-Engagements
+guid: 1384
 ---
 
 I have two upcoming speaking engagements I want to mention, as well as to let people know that I am available to present to your user group (or business I guess) as long as you give me a good 2-3 week warning. I've been doing this off and on lately and I've decided to create a page with my speaking engagements when I release the new design for the blog. So - in the mean time - if you would like to have me speak at your organization, just drop me an email. As I said, I would normally need 2-3 weeks of warning. It needs to be at night, roughly 6PM CST, and obviously over a Breeze account you would set up. I'm not going to do more than 2 a month, so it's first come first serve. 

@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/05/13/Article-Working-with-Intl
+guid: 5223
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/02/26/Flex2-Lighthouse-Pro-Interface
+guid: 1123
 ---
 
 Simon Barber from over at <a href="http://www.thoughtfaqtory.com">ThoughtFaqtory</a> sent me this cool screen shot (click for larger image):

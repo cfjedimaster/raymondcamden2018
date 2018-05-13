@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/14/Proof-of-Concept-Throttling-automatic-emails-in-ColdFusion
+guid: 3971
 ---
 
 Ok, so hopefully you've got a nice system for handling errors within your ColdFusion application. (And if not, don't worry, there's a <a href="http://www.raymondcamden.com/index.cfm/2007/12/5/The-Complete-Guide-to-Adding-Error-Handling-to-Your-ColdFusion-Application">guide</a> for that.) And maybe you even have your error handler sending you a nice, informative email on every error. Great. Until one day something goes haywire and you end up with 1000 emails in your inbox. (Although that's never happened to me. Honest. Well, not this week. I mean today.) Wouldn't it be nice if you could send email - but perhaps tell ColdFusion to not send the <i>same</i> email within a timeframe? Here is my stab at building such a service.

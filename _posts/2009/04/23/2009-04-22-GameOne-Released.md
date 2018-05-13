@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/04/23/GameOne-Released
+guid: 3325
 ---
 
 Ok, if you have been following me on <a href="http://www.twitter.com/cfjedimaster">Twitter</a>, you know I've been working on a project involving BlazeDS, Flex, AIR, and ColdFusion. The game idea I had was pretty complex, so I thought it would make sense to start with a simple game, and focus on the technologies first. So with that in mind, I'm proud to announce the release of GameOne. Yes, I know, great name, eh? Well, I don't care how creative the name is, I'm just happy it works (mostly). 

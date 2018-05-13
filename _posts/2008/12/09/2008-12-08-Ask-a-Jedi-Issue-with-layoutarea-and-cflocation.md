@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/09/Ask-a-Jedi-Issue-with-layoutarea-and-cflocation
+guid: 3140
 ---
 
 Miles asks:

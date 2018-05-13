@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/24/ColdFusion-8-Working-with-PDFs-Part-7
+guid: 2217
 ---
 
 In today's entry I'll be discussing the processDDX action of the CFPDF tag. I have to admit that I wasn't looking forward to this entry. Every time I had looked at the documentation, it just didn't make sense. I didn't see the point. But now that I've looked at it again more in depth, I'm almost in awe at how cool this feature is. I'm definitely just scratching the surface in this blog post, but hopefully it will encourage others to look into DDX and how it works with ColdFusion.

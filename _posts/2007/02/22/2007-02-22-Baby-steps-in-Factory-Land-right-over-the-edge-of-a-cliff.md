@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2007/02/22/Baby-steps-in-Factory-Land-right-over-the-edge-of-a-cliff
+guid: 1854
 ---
 
 So I was really enjoying object factories. They seemed so clean. So cool. So... perfect for helping my applications get a bit simpler to manage. I decided as my first trial attempt at using them I'd work with <a href="http://galleon.riaforge.org">Galleon</a>. Rob Gonda had already done the work for me - I just needed to go over it and ensure it worked with my latest build. (Rob had sent me the files eons ago.)

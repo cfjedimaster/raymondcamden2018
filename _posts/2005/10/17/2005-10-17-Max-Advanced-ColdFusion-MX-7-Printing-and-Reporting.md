@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/17/Max-Advanced-ColdFusion-MX-7-Printing-and-Reporting
+guid: 853
 ---
 
 Notes from Dean Harmon's presentation on CFDOCUMENT/CFREPORT:

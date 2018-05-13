@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/10/26/Call-to-BlogCFC-Users
+guid: 873
 ---
 
 If you are currently using BlogCFC, please do me a favor and add a comment here with:

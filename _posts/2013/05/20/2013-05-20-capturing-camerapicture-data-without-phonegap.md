@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/20/capturing-camerapicture-data-without-phonegap
+guid: 4937
 ---
 
 <strong>Two years later and this blog post is still highly popular. If you like this content, be sure to <a href="https://feedburner.google.com/fb/a/mailverify?uri=RaymondCamdensBlog&loc=en_US">subscribe</a> to the blog to get the latest updates. You may also want to check out my <a href="http://www.manning.com/camden">Apache Cordova book</a> and the <a href="/about-me">JavaScript videos</a> I have available.</strong>

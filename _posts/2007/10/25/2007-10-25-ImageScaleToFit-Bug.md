@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/25/ImageScaleToFit-Bug
+guid: 2433
 ---
 
 I just ran into an interesting imageScaleToFit bug. I was writing some code to handle scaling an uploaded image when I got this error:

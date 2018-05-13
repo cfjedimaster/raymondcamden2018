@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2011/10/09/Commenting-via-Disqus-returns-to-CFLib
+guid: 4384
 ---
 
 Back in the day (in the old days), <a href="http://www.cflib.org">CFLib</a> had commenting. I removed it when I did the last major update. James Moberg contacted me recently and suggested making use of <a href="http://disqus.com">Disqus</a>, a hosted commenting system. I had heard great things about it and thought that CFLib would be an excellent place to test it out. This morning I did "the work", which ended up being approximately 10 minutes or so of clicking around. I spent more time FTPing then integrating code which really shows you how good of a job they've done on setup. 

@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/23/Using-jQuery-to-post-an-array-to-a-ColdFusion-Component
+guid: 3761
 ---
 
 A reader sent in an interesting question today. He was trying to make use of jQuery to post an array of data to a ColdFusion component. His CFC was expecting, and demanding, an array argument. Whenever he fired off the request though he received an error from ColdFusion saying the argument was not a valid array. Let's look at an example of this so it is more clear.

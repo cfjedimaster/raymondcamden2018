@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/11/26/ColdFusion-Samples-Using-CFZIP
+guid: 4446
 ---
 
 It's been a while since I did a "ColdFusion Sample", so if you've forgotten, the idea of this is blog series to demonstrate a ColdFusion tag or feature in a complete, if simple, application. In this entry, I'm going to demonstrate <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-7695.html">CFZIP</a>. This tag allows for creating, reading, and extracting zip files. In my example I'll be making use of reading and extracting.

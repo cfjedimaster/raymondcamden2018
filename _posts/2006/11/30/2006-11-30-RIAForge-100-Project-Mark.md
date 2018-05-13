@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/11/30/RIAForge-100-Project-Mark
+guid: 1682
 ---
 
 It wasn't too long ago that <a href="http://www.riaforge.org">RIAForge</a> was announced. Just in case you don't know what it is - RIAForge is a site that offers hosting for open source projects built in Adobe technologies. You can host your project files, Subversion, forums, blog, and issue tracker at the site, or simply just list your site if you already have an existing project site.

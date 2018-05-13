@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/03/Code-from-ColdFusion-Boot-Camp-and-Tip-about-ColdFusion-8-and-JSON
+guid: 2391
 ---
 
 I just gave a quick CF Boot Camp at MAX on using ColdFusion to send data to Spry. It covers going from static to CF6, CF7, and CF8 dynamic data. I've zipped up the code below. Note that it makes use of a database you won't have (I'll try to use the art gallery from now on) and I've removed the personal pictures of my kids. 

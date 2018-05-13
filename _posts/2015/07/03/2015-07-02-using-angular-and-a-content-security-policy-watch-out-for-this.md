@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: [cordova]
 banner_image: 
 permalink: /2015/07/03/using-angular-and-a-content-security-policy-watch-out-for-this
+guid: 6351
 ---
 
 <div style="background-color:#ececec">Edit on July 6, 2015: Kevin H, in the comments below, pointed out that the docs for ngShow actually talk about this! I missed this completely. The solution the docs recommend, including an additional CSS file, worked fine for me, and feels like a "better" solution than mine, so I recommend following the docs lead.</div>

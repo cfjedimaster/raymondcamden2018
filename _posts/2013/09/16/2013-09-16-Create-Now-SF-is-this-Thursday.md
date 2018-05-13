@@ -6,6 +6,7 @@ categories: [design,development,html5]
 tags: []
 banner_image: 
 permalink: /2013/09/16/Create-Now-SF-is-this-Thursday
+guid: 5038
 ---
 
 <p>

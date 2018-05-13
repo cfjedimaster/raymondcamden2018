@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/01/IE-issue-with-AjaxProxy
+guid: 2908
 ---
 
 IE is the coolest browser on Earth. Really. It's like Vanilla Ice. So incredibly cool that it had to fade away in order to let other feeble browsers like Firefox get some air time. With that being said I ran into a real weird issue with IE that didn't make sense to me. Imagine the following code.

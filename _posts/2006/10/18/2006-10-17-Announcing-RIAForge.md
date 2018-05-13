@@ -6,6 +6,7 @@ categories: [coldfusion,development,flex]
 tags: []
 banner_image: 
 permalink: /2006/10/18/Announcing-RIAForge
+guid: 1592
 ---
 
 So - I've been dropping hints left and right over the past few weeks about a "secret project" that I've been working on, and today I finally get to announce it. Please say hello to <a href="http://www.riaforge.org">RIAForge.org</a>. What is RIAForge?

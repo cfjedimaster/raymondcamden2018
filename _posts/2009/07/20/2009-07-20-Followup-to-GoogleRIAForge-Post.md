@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/20/Followup-to-GoogleRIAForge-Post
+guid: 3453
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2009/7/19/RIAForge-Update-and-awesome-example-of-ColdFusionGoogle-Integration">blogged</a> about I how I integrated Todd Sharp's <a href="http://cfgoogle.riaforge.org/">ColdFusion/Google API project</a> into <a href="http://www.riaforge.org">RIAForge</a>. I had a few people ask to see a bit of the code, so I thought I'd share how it was added. Credit goes to Todd Sharp for the integration, I just handled the view, and obviously, to see his core Google/CF code, visit his <a href="http://cfgoogle.riaforge.org">project</a>.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/09/Example-of-callback-URL-support-in-ColdFusion-Builder
+guid: 4489
 ---
 
 I know this isn't new - and I've blogged it before - but I thought it was cool so I thought I'd share. I'm preparing for an e-seminar tomorrow morning on RIAForge. I decided I'd quickly show off the <a href="http://riaforgedownloader.riaforge.org/">RIAForge Downloader</a>. If you haven't seen it before, it's an extension to ColdFusion Builder that lets you browse and download projects from your IDE. For example:

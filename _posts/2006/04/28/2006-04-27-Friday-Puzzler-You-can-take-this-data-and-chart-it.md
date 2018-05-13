@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/28/Friday-Puzzler-You-can-take-this-data-and-chart-it
+guid: 1236
 ---
 
 One of the (many) things I like about ColdFusion is its built-in support for charting. I especially like the improvements in the last version. Not just the ability to apply custom charting, but the simple improvement to the default colors. There <i>is</i> a reason I don't pick out my own clothes!

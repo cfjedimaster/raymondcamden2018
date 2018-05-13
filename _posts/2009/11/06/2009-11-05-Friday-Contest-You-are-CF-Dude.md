@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/11/06/Friday-Contest-You-are-CF-Dude
+guid: 3594
 ---
 
 Today's contest is 100% non-code based. I've got a 20 dollar Amazon gift cert to the best impersonation of the famous (imho) ColdFusion Dude:

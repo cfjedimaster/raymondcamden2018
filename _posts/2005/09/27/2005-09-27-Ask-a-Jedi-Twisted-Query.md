@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/27/Ask-a-Jedi-Twisted-Query
+guid: 811
 ---
 
 This interesting question came in a few days ago:

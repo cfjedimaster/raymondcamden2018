@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/20/Looping-over-an-array-with-XML-objects-CF8-versus-CF9
+guid: 3689
 ---
 
 Here is an interesting little issue I ran into. Given the following simple XML (and I'm typing this on the fly so pardon any typos), imagine you want to loop over the people nodes:

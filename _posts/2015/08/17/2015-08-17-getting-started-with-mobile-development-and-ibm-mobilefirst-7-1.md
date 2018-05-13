@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [mobilefirst]
 banner_image: 
 permalink: /2015/08/17/getting-started-with-mobile-development-and-ibm-mobilefirst-7-1
+guid: 6638
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/2015/08/14/ibm-mobilefirst-7-1-released">blogged</a> about the release of <a href="https://ibm.biz/BluemixMobileFirst">MobileFirst 7.1</a>. At the time, I really didn't have a lot of time so I didn't say much outside of, well, that it was released. Now that I'm back home (for a few days anyway), I thought I'd write a bit more about MobileFirst 7.1 and how hybrid mobile developers can make use of it. This is going to stretch out over a few posts, mostly written today, so for now I'm just going to cover installation and basic setup.

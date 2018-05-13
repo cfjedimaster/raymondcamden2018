@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2007/01/21/More-on-the-JavaScript-bug-I-had-and-how-it-relates-to-Spry
+guid: 1784
 ---
 
 So, a few hours ago I <a href="http://ray.camdenfamily.com/index.cfm/2007/1/21/Setting-the-disabled-property-of-a-form-field-help-needed">posted</a> about an odd JavaScript issue I was having where I couldn't set a field's disabled property. Turns out it was an issue with Spry, and one that makes sense if you think of it. My code was doing something like so:

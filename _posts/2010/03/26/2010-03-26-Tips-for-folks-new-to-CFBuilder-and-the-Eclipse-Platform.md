@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/26/Tips-for-folks-new-to-CFBuilder-and-the-Eclipse-Platform
+guid: 3765
 ---
 
 For some people trying out CFBuilder, this will be their first experience with an Eclipse-based application. Eclipse has been around for a while now and is an excellent platform for IDEs. While it is extremely powerful and is chock full of features, it can be a bit... alien to people who have never used it before. This blog post will share some basic tips/suggestions for working with CFBuilder and Eclipse. It is certainly not meant to be a <i>complete</i> guide to everything Ecplise-wise, but I thought it might be helpful to share a few things that may confuse/frustrate people migrating from non-Eclipse IDEs. These are in no particular order, and I would <b>greatly</b> appreciate other people's tips as well.

@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/09/10/Adding-a-file-display-list-to-a-multifile-upload-HTML-control
+guid: 5033
 ---
 
 <p>

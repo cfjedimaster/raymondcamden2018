@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/25/Two-ColdFusion-8-Documentation-Resources
+guid: 2149
 ---
 
 First - Jake Munson just <a href="http://techfeed.net/blog/index.cfm/2007/6/25/CFQuickDocs-for-ColdFusion-8-Released">announced</a> a ColdFusion 8 version of cfQuickDocs. If you aren't using cfQuickDocs, you are really missing out. It is a great way to quickly look up documentation online. The ColdFusion 8 version may be found here:

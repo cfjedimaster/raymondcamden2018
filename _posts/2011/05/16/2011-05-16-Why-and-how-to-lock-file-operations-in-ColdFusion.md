@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/16/Why-and-how-to-lock-file-operations-in-ColdFusion
+guid: 4234
 ---
 
 The use of locking in ColdFusion still appears to vex people. I thought it would be nice to write up a quick explanation as to why (and how) you would use locking in regards to file operations. Tomorrow (ok, maybe later in the week) I'll follow up with another blog post talking about locking in terms of data.

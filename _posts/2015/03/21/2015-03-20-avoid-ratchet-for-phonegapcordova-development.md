@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/03/21/avoid-ratchet-for-phonegapcordova-development
+guid: 5846
 ---
 
 I'm writing this rather quickly (and a bit angrily, which is a recipe for disaster ;) but if you are building hybrid apps I'd suggest you avoid using <a href="http://goratchet.com/">Ratchet</a>. I've used it for testing before but never for a real application. I thought it might be nice to use it for my last example in my <a href="http://manning.com/camden/">Cordova book</a>. I built up my sample app, tested in the browser, and everything was kosher. 

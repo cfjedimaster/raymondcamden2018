@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/10/27/MAX-Day-Two
+guid: 3985
 ---
 
 Before I fall asleep, here are my random, disjointed thoughts from the second day of MAX.

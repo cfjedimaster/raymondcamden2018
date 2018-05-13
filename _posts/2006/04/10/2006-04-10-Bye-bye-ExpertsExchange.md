@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/04/10/Bye-bye-ExpertsExchange
+guid: 1199
 ---
 
 So I typically don't have much use for the more advanced Google search tips. I almost always find exactly what I want with a simple query. However - something has been bugging me for a while now and I finally got off my butt to learn how to correct it.

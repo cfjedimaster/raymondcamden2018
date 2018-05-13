@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/08/Yet-another-Lighthouse-Pro-update
+guid: 1085
 ---
 
 Sorry folks, I swear I do normally do QA, but for some reason I just completely skipped my normal checking for the recent <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a> update. I've refreshed the zip again after Dave Shuck discovered a bug.

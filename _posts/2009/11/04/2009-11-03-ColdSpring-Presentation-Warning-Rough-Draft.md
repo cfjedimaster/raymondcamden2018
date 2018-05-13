@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/04/ColdSpring-Presentation-Warning-Rough-Draft
+guid: 3588
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/logo1.png" align="left" style="margin-right:10px" />I'm going to give a rough draft presentation today covering ColdFusion and ColdSpring. This is something I've been asked to do for my main contract gig and I'd like to get some feedback on how I can improve the presentation before I give it to them. So with that being said, if you already know ColdSpring, I'd <b>greatly</b> appreciate some constructive feedback on what I can cover better. 

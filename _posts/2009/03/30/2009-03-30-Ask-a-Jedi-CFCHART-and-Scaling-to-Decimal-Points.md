@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/30/Ask-a-Jedi-CFCHART-and-Scaling-to-Decimal-Points
+guid: 3296
 ---
 
 A reader wrote in with an interesting problem. He needed to use CFCHART to plot data points that ranged in value from 0.9 to 1.0. He wanted to use the scaleFrom and scaleTo attributes to limit the chart to this range, but no matter what he did, the chart would range from 0 to 1.

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/04/23/Note-about-PhoneGap-Build-and-Splash-Screens
+guid: 4917
 ---
 
 I'm currently working on my MAX <a href="https://bit.ly/Wc52VD">Advanced PhoneGap Build</a> presentation (wait, scratch that, of course I'm done already, I mean, who waits to the last minute???) and ran into an interesting issue. Using a splash screen is rather easy via the PhoneGap Build <a href="https://build.phonegap.com/docs/config-xml">config.xml</a> file.

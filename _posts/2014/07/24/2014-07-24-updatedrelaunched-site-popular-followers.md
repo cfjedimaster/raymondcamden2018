@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/07/24/updatedrelaunched-site-popular-followers
+guid: 5274
 ---
 
 <strong>Edit in November 2015: The new URL is <a href="http://popularfollowers.raymondcamden.com">http://popularfollowers.raymondcamden.com</a></strong>

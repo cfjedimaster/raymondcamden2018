@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/23/Help-Me-Get-More-Free-Junk
+guid: 799
 ---
 
 So, a year or so ago I did the free IPod thing, and it actually worked, thanks to the great support of my readers. Since my greed knows no bounds, I've signed up for the free IPod Nano thing as well. To be honest, it wasn't my intent. A friend asked me to do an offer for him, which of course meant that I was signed up as well. So, if you are bored and want to help me get a Nano (of course you do!), just follow this link and complete an offer...

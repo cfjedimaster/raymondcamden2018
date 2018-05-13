@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/08/ColdFusion-8-Aggregator-CFC-First-Release
+guid: 2105
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2007/6/6/ColdFusion-8-Update-to-Aggregator-UDF">blogged </a> about an Aggregator UDF I was working on. This UDF took a set of RSS feeds and returned a "joined" query, like MXNA, FullAsAGoog, or Feed-Squirrel. I've worked on this a bit more and have updated it to be a full CFC. I've made some interesting changes I think folks may like as well.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/23/Ask-a-Jedi-Seeing-a-SOAP-Request-that-ColdFusion-sent
+guid: 2612
 ---
 
 Mike asks:

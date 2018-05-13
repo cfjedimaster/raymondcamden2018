@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/08/Ask-a-Jedi-Moving-to-ColdFusion
+guid: 2463
 ---
 
 This email just makes me happy all over. I'm always thrilled to hear about someone moving to ColdFusion. One of his questions involved hosts, so I figured it was a good one to share. Ola asks...

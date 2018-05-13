@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/08/Ask-a-Jedi-The-Request-Scope-not-just-for-breakfast-anymore
+guid: 1255
 ---
 
 CJ had a good set of questions concerning the request scope:

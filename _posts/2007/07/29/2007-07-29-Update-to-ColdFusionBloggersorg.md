@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/29/Update-to-ColdFusionBloggersorg
+guid: 2228
 ---
 
 I've done some more updates to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a>. Here they are in no particular order.

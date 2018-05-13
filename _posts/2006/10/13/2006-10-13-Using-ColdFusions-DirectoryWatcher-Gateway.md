@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/13/Using-ColdFusions-DirectoryWatcher-Gateway
+guid: 1587
 ---
 
 Last month I blogged about using ColdFusion's <a href="https://www.raymondcamden.com/2006/09/14/Using-ColdFusions-Asynchronous-Gateway-3/">Asynchronous Gateway</a>. Today I want to show another example of an Enterprise Gateway: The DirectoryWatcher. The DirectoryWatcher gateway does what you imagine it would - it watches a directory. It lets you monitor additions, changes, and deletions from a directory.

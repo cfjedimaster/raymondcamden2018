@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/07/14/jQuery-Presentation-Tonight
+guid: 3438
 ---
 
 Sorry to blog on something <i>not</i> related to ColdFusion 9, but tonight I'll be presenting to the <a href="http://www.cfugitives.com/">Connecticut CFUG</a> on jQuery and ColdFusion. This is a repeat of an presentation I did earlier in the year, but with a bit more focus on ColdFusion, and yes, I do bring up ColdFusion 9. 

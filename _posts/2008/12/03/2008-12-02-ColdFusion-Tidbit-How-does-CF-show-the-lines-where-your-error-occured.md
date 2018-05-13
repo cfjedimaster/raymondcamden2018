@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/03/ColdFusion-Tidbit-How-does-CF-show-the-lines-where-your-error-occured
+guid: 3130
 ---
 
 I shared a few emails with a user this week that had an interesting request. He wanted to use try/catch around some problematic code, but want to display detailed information in the cfcatch block that mimicked what he saw when he had a 'naked' error.

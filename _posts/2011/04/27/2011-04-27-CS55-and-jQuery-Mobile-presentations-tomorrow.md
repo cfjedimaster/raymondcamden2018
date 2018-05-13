@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/04/27/CS55-and-jQuery-Mobile-presentations-tomorrow
+guid: 4212
 ---
 
 Two free, online presentations are happening tomorrow that I think my readers may be interested in.

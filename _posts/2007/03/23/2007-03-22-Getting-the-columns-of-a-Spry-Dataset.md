@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/23/Getting-the-columns-of-a-Spry-Dataset
+guid: 1918
 ---
 
 A friend asked yesterday how he could get the columns from a dataset in Spry. I was sure there was an API for this, but it turns out there isn't. Luckily for me (and maybe not for Adobe), I've got the Spry guys on speed dial so I can bug them directly. Here is what Kin Blas had to say:

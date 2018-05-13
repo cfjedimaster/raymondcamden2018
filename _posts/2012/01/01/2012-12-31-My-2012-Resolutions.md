@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/01/01/My-2012-Resolutions
+guid: 4476
 ---
 
 Yep, time again to make a list I'll be guilty over in a year. ;) Actually, let me start off by reviewing what I said last year:

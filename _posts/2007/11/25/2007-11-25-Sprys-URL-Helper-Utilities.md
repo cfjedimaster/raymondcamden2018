@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/11/25/Sprys-URL-Helper-Utilities
+guid: 2494
 ---
 
 Every time I turn around I run across yet another cool feature of Spry. I'm going to have to force myself to sit down and read the docs cover to cover because I'm sure there is a lot that I'm missing. Today's discover is the URL Utils library. As you can probably guess, this utility library helps you work with URLs.

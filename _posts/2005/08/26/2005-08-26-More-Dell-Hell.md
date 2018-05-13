@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/26/More-Dell-Hell
+guid: 730
 ---
 
 Come on... did you <i>really</i> think my Dell Hell was <a href="http://ray.camdenfamily.com/index.cfm/2005/8/24/Dell-Hell-The-Finale">over</a>? As I mentioned before, the new battery is working a lot better, especially now that I've stopped using Remote Desktop Connection as much. However, I've noticed that every now and then, the machine will shut off when the battery is around 30%. No warning, nothing, just completely turn off. This has happaned a few times, and when it happaned again last night, I had had enough.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/09/Two-Presentations-Next-Week
+guid: 1760
 ---
 
 Sorry I've been quiet this week. I actually have a few Spry posts in mind, but I'm out of town all week doing training (Model-Glue, Spry, all kind of fun stuff). Next week I have two presentations:

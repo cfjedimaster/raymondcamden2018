@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/10/23/Broken-Promises-of-HTML5
+guid: 4766
 ---
 
 I tweeted this last week and have mentioned it again a few times, but I wanted to ensure my readers watched this. Christian Heilmann is an evangelist for Mozilla and gave what I consider to be a damn good presentation on HTML5. 

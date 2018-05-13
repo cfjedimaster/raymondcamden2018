@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/09/CFUnited-Express-Atlanta-Next-Week
+guid: 3310
 ---
 
 <img src="http://express.cfunited.com/images/logos/atlanta_2009.gif" align="left" style="margin-right: 10px">

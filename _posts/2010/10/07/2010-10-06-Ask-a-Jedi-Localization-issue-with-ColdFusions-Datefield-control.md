@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/07/Ask-a-Jedi-Localization-issue-with-ColdFusions-Datefield-control
+guid: 3965
 ---
 
 Anthony wrote in with the following problem:

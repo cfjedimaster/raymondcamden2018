@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/02/20/Another-Lafayette-Job-Game-Programming-Teacher
+guid: 4860
 ---
 
 As before, I'm just passing it on, but I'm so happy to see cool tech jobs in beautiful Lafayette, LA.

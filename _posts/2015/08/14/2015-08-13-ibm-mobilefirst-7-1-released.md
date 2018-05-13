@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [mobilefirst]
 banner_image: 
 permalink: /2015/08/14/ibm-mobilefirst-7-1-released
+guid: 6624
 ---
 
 I'm happy to announce that today we've released <a href="https://ibm.biz/BluemixMobileFirst">MobileFirst 7.1</a>! 

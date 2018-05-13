@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/11/Remember-LINDEX-ColdFusion-integration-with-Lucene
+guid: 2188
 ---
 
 A <i>long</i> time ago, back on DRK 3(*), there was a project released called Lindex. This was a ColdFusion wrapper to the open source Lucene search engine.

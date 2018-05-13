@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/11/07/Cordova-and-Asset-Downloads
+guid: 5345
 ---
 
 <p>

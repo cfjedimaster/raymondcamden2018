@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/13/Followup-to-XML-Post
+guid: 2470
 ---
 
 Yesterday I wrote a <a href="http://www.raymondcamden.com/index.cfm/2007/11/12/When-is-XML-not-XML">post</a> about an issue I found with isXML. Lots of good suggestions/ideas were posted in the comments, including one by Rick O which seems to have nailed down the issue. Basically, if you have an invalid tag within a CDATA block, ColdFusion will report the XML as being invalid. The <a href="http://www.w3schools.com/xml/xml_cdata.asp">specs</a> say (from what I found), that anything should be allowed in CDATA. It seems like this would be a bug in ColdFusion. Here is a simple sample:

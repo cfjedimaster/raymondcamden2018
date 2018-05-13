@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [mobilefirst]
 banner_image: 
 permalink: /2015/03/26/using-grunt-to-automate-mobilefirsthybrid-builds
+guid: 5891
 ---
 
 When working with <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> and hybrid mobile applications, any changes to your web assets requires running both a build and deploy to see your changes. The command line makes this easy by letting you combine the calls into one (<code>mfp bd</code>), but while developing, it may be a pain to constantly run this. So for fun, I wrote the following <a href="http://gruntjs.com">Grunt</a> script.

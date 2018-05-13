@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/30/NCDevCon-Resources
+guid: 4745
 ---
 
 Thanks to everyone who attended my NCDevCon presentations. As always, I appreciate <i>any</i> and all feedback. 

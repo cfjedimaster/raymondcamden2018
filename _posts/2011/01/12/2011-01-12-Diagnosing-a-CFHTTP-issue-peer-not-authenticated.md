@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/12/Diagnosing-a-CFHTTP-issue-peer-not-authenticated
+guid: 4080
 ---
 
 What follows comes from a lot of sources, and is not something I'm 100% solid on mentally, so if I screw anything up here, blame me, not the group of guys who helped me out. A few weeks ago I looked into writing an API for a <b>very</b> cool service called <a href="http://zencoder.com/">Zencoder</a>. Zencoder is an API based video encoding service. Basically think of it as an easier way to do ffmpeg type work. They aren't free, but from what I can tell of their API, it seems extremely well thought out and like a great service to consider. I began working on a ColdFusion wrapper (which, by the way, will be happening now that I've gotten past my issues) for their service. I immediately noticed a problem. Whenever I did a cfhttp against their API URL I got:

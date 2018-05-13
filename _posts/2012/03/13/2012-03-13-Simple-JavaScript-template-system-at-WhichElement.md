@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/03/13/Simple-JavaScript-template-system-at-WhichElement
+guid: 4559
 ---
 
 Yesterday Terry Ryan <a href="http://www.terrenceryan.com/blog/post.cfm/whichelement-com">announced</a> the launch of WhichElement.com, a site dedicated to the semantic side of HTML5. This is an area I had not dug into a lot previously. Terry is quite passionate about it and because of this I've taken a deeper look at the topic and found it to be quite interesting. I highly encourage you to check out the <a href="http://www.whichelement.com">site</a> and <a href="http://whichelement.com/contribute/">participate</a> in the discussion. I thought I'd take a few minutes and discuss a bit about the technology in use on the site.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/09/Ask-a-Jedi-Multiple-questions-on-Application-startup-and-templating
+guid: 2583
 ---
 
 Just a quick note before I dive into this question. I've noticed lately I've been getting a few questions that cover stuff that I've answered before. I have <b>no</b> problems answering them again. Sometimes they cover things that really need repeating. I'm just commenting here as it seems like it has occurred a bit often lately, and if my readers are getting a bit miffed, I wanted to explain why. (As another FYI, I plan on running a survey like Todd is <a href="http://cfsilence.com/blog/client/index.cfm/2008/1/8/Quick-Blog-Survey-Tell-Me-How-Im-Doing">doing</a> so you will have the opportunity to tell me exactly what you think of my blog.) Ok, on with the questions!

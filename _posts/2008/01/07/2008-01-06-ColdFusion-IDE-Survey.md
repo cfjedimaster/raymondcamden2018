@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/01/07/ColdFusion-IDE-Survey
+guid: 2577
 ---
 
 Do you write ColdFusion? Do you use an editor? (Ok, dumb question.) Jason Delmore just <a href="http://www.cfinsider.com/index.cfm/2008/1/7/Adobe-ColdFusion-IDE-Survey">blogged</a> about a survey Adobe is running concerning IDEs. Here is the direct link to the non-<a href="http://soundings.riaforge.org">Soundings</a>-based survey:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/22/Minor-BlogCFC-Update
+guid: 717
 ---
 
 One more small bug fix for BlogCFC. A while ago I added logic to make the Application name dynamic based on the physical folder. This helps folks who want to run N blogs on one box without modifying the blog name. So - I went through the trouble of creating the dynamic name using this logic:

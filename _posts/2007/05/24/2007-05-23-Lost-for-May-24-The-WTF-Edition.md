@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/24/Lost-for-May-24-The-WTF-Edition
+guid: 2060
 ---
 
 This is going to be a short post. Lost airs here 9-11 and it is approaching midnight here and since my body still thinks it is 2 AM, I'm quite tired. 

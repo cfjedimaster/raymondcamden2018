@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/30/Ask-a-Jedi-Warning-about-the-End-of-a-Session
+guid: 823
 ---
 
 Joerg asks:

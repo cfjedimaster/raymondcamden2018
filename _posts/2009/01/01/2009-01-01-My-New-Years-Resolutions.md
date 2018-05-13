@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/01/My-New-Years-Resolutions
+guid: 3172
 ---
 
 I'm keeping my 2009 resolutions nice and simple so that I can - you know - actually achieve some of them instead of failing horribly. So in no particular order, here is what I'd like to accomplish this year.

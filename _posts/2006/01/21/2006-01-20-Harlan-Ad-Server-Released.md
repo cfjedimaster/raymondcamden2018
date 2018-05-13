@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/21/Harlan-Ad-Server-Released
+guid: 1043
 ---
 
 Six months ago today DRK12 was released by Macromedia. On that DRK I released a product called Harlan Ad Server. Harlan was a tool to allow you to earn money from your web sites by generating ads and advertising campaigns. Much like Google AdSense (which I use here), Harlan generates JavaScript code that can be placed on your web site (or even on a totally unrelated, non-ColdFusion web site). Once your ads are displayed, you can begin tracking the results including impressions and click throughs. 

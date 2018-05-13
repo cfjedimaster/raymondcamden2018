@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/06/Ask-a-Jedi-Enhancing-the-Flash-Form-Grid
+guid: 677
 ---
 
 Scott asks:

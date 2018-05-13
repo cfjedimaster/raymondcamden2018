@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/20/example-of-phonegaps-database-support
+guid: 4401
 ---
 
 Folks who have used Adobe AIR before already know (or hopefully know) about it's cool, built-in database support. Any AIR application (whether written in Flex or HTML - you do remember you can do AIR with HTML, right?) can make use of an embedded SQLite database. This is incredibly useful for applications and pretty darn easy to use as well. PhoneGap also has built in support for SQLite via their <a href="http://docs.phonegap.com/en/1.1.0/phonegap_storage_storage.md.html">storage</a> support. In this blog entry I'll walk you through a sample application I've created that makes use of the feature. I'll also point out some of the mistakes I made while writing so that hopefully you can avoid the issues I ran into.

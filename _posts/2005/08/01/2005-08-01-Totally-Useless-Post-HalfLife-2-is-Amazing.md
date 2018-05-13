@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2005/08/01/Totally-Useless-Post-HalfLife-2-is-Amazing
+guid: 660
 ---
 
 So I got Half-Life 2 today (thanks to a wishlist purchase, thanks Jake!). I installed it and then quickly ran it to see how nice the graphics were.

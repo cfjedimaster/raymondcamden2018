@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/04/09/My-thoughts-on-Apple
+guid: 3777
 ---
 
 So, a warning. If you can't tell by the title, this is an off topic post. It is also an emotional one. I expect many people to a) not care or b) not agree, and that's fine, but as I've had some people complain before when I go into politics, I just want to start off with a warning. If you keep reading, well, you've been warned.

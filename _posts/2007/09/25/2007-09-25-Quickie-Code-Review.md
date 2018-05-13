@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/25/Quickie-Code-Review
+guid: 2370
 ---
 
 From time to time in my job I'm asked to do code reviews. I love em. I get to tear apart someone else's code and pretend like I never make mistakes. It's perfect. I don't often review code over email as it's typically a big job, and I don't want to encourage folks to send me reams of code (well, not unless you have a budget ;), but as this was one simple file I thought I'd help the user out, and then share the results here. Is this kind of post useful? Let me know. I think it is as it shows real life production code - but again - do let me know. (I also know that people are still struggling to grok application.cfc - so I figure the more examples the better.)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/19/Ask-a-Jedi-Foreign-text-over-CFDIV
+guid: 3882
 ---
 
 Darren asks:

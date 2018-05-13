@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/10/09/My-DZone-Interview-Embrace-the-Epic-Nerdness
+guid: 4754
 ---
 
 I have a confession to make. I don't mind doing interviews, but I absolutely refuse to watch myself on video. I suppose it's like hearing yourself recorded. That being said, if you want to hear me wax poetic about the web for a few minutes and show off my Star Wars tats, you can watch the incredibly engrossing video below. Thanks to <a href="http://www.dzone.com">DZone</a> for the interview.

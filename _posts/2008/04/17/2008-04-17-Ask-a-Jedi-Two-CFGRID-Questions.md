@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/17/Ask-a-Jedi-Two-CFGRID-Questions
+guid: 2774
 ---
 
 Joel asks:

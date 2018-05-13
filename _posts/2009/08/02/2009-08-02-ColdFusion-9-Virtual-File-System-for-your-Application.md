@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/02/ColdFusion-9-Virtual-File-System-for-your-Application
+guid: 3470
 ---
 
 One of the cooler new features of ColdFusion 9 is the Virtual File System (VFS). I've blogged on it before and also authored a <a href="http://labs.adobe.com/technologies/coldfusion9/videos/rcamden_03/">quick video</a> on it as well. One thing that I kind of <i>don't</i> like though is the fact that the VFS is system wide, not application specific. I guess that kind of makes sense - the file system is system wide as well, but with the VFS being RAM based, it seems like it would have been cooler if it was tied to an application, not the entire server. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/06/12/Have-some-Ramen-with-your-ColdFusion
+guid: 4958
 ---
 
 This morning (which now seems like a <i>real</i>long time ago), I tweeted about how spoiled I am with npm and package management in general. If you've never experienced this, let me give you a real quick, rough idea of what this means as a developer.

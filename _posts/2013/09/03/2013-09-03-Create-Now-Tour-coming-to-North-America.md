@@ -6,6 +6,7 @@ categories: [design,development]
 tags: []
 banner_image: 
 permalink: /2013/09/03/Create-Now-Tour-coming-to-North-America
+guid: 5024
 ---
 
 Interested in learning more about Creative Cloud? Want to see some awesome speakers showing you the latest features? This month we're kicking off a North American tour across 8 different cities with more being added soon. The first event will be in San Francisco on September 19th. This will be both education and inspirational, and best of all, it is completely free. You can find more information here: <a href="http://www.adobeeventsonline.com/CreateNow/DM/invite.html">Create Now</a>

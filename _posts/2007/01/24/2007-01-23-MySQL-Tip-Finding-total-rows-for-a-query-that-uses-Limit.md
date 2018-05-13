@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/01/24/MySQL-Tip-Finding-total-rows-for-a-query-that-uses-Limit
+guid: 1795
 ---
 
 So I'm constantly surprised by MySQL. I ran across a stored procedure today that had this in it:

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/05/08/Simple-jQueryColdFusion-form-example
+guid: 3811
 ---
 
 Last week I <a href="http://www.raymondcamden.com/index.cfm/2010/5/1/Simple-jQueryColdFusion-data-loading-example">blogged</a> a very simple example of jQuery to ColdFusion communication. At the request of a reader I created the simplest example I could come up with that demonstrated the basic concepts. Today I have a slightly more advanced example, one that specifically makes use of a form and a post operation.

@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2014/02/23/Recommendation-The-Merchant-Princes-series-by-Charles-Stross
+guid: 5162
 ---
 
 <p>

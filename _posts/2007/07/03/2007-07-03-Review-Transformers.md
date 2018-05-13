@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2007/07/03/Review-Transformers
+guid: 2170
 ---
 
 This afternoon I took off a bit early and saw Transformers. Let me just say that this is one of the best films I've seen in a long time. Not in the Godfather/Children of Men/etc type area but as a pure action/popcorn flick - it was near perfect. From the first few minutes to the end it is almost non-stop action and the slower/mushy/comedy type scenes are nicely spaced throughout. If I had only one complaint - it was a bit too long. I can't imagine what I'd cut though. There wasn't any obviously horrid scenes like the Jazz club in Spiderman 3. (I still shudder to think of that train wreck of a scene.) I just would have made it a bit shorter. 

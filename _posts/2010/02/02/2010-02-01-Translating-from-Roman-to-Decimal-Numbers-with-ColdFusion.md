@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/02/Translating-from-Roman-to-Decimal-Numbers-with-ColdFusion
+guid: 3706
 ---
 
 A few days ago I saw on Twitter a request for code that would convert roman numerals to decimal. <a href="http://www.cflib.org">CFLib</a> has a UDF for going from decimal to Roman, but not the other way. I did a bit of searching and while I found a bunch of code libraries, I didn't find one that explained the <i>logic</i> behind the translation. Finally I came across this page: <a href="http://www.mathematische-basteleien.de/romannumerals.htm">Roman Numerals</a>, which I thought explained the issue very nicely. The basic process to convert from Roman to decimal is:

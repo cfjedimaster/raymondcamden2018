@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/04/Checking-for-updates-to-tagsfunctions-in-ColdFusion-9
+guid: 3590
 ---
 
 Just a quick tip here. If you want to find out what changed in ColdFusion 9 at a tag/function level, there are three places you need to check. All of these may be found within the CFML Reference.

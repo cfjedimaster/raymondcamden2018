@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/19/Best-of-CF9-PostIt
+guid: 3656
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry comes to us from Corey Butler. It was reviewed by <a href="http://www.briankotek.com/blog/">Brian Kotek</a>. I'll be including his notes as well as mine intermingled below. Warning - the download for this entry is rather large. So instead of including it as an enclosure to the entry, I've instead FTPed it to my server. You can download it by clicking the URL below. The file size is a bit over 12 megs. (If folks have issue grabbing the code, let me know and I'll put it up on S3.)

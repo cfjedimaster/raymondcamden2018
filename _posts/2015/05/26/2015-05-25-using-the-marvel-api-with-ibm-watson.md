@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [bluemix]
 banner_image: 
 permalink: /2015/05/26/using-the-marvel-api-with-ibm-watson
+guid: 6211
 ---
 
 A little over a year ago I blogged about my experience working with the <a href="http://developer.marvel.com/">Marvel API</a> (<a href="http://www.raymondcamden.com/2014/02/02/Examples-of-the-Marvel-API">Examples of the Marvel API</a>. It's been a while since I took a look at it and I thought it might be fun to combine the Marvel data with IBM Watson's <a href="http://ibmmobile.info/VisualRecognition">Visual Recognition service</a>. The Visual Recognition service takes an image as input and Watson's cognitive computing/computer vision intelligence to identify different items within it. 

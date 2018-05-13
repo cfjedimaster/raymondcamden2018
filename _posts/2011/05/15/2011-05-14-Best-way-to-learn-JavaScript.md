@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2011/05/15/Best-way-to-learn-JavaScript
+guid: 4232
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/best-javascript-resources1.jpg" style="float:left;margin-right:5px"/> I got an email (a few weeks back - sorry - trying to keep up ;) from a developer who wants to use jQuery but doesn't really know JavaScript first. Having to learn how to walk before you run - I was curious as to what folks recommend for the best way to learn JavaScript? I'll list out a few options here and I'd love for my readers to comment on what they would recommend.

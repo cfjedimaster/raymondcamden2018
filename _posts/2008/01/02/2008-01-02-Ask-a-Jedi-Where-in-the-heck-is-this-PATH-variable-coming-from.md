@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/02/Ask-a-Jedi-Where-in-the-heck-is-this-PATH-variable-coming-from
+guid: 2570
 ---
 
 <a href="http://www.danvega.org/blog/index.cfm">Dan Vega</a> had an interesting issue today. He noticed that following code would work, even though he didn't create the variable:

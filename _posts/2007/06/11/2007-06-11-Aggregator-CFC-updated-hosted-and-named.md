@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/11/Aggregator-CFC-updated-hosted-and-named
+guid: 2111
 ---
 
 This weekend <a href="http://cfsilence.com/blog/client">Todd Sharp</a> and I worked up some modifications to the Aggregator CFC I released last week. The CFC has been updated with the following changes:

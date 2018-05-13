@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/01/05/jQuery-Quickie-Highlighting-a-table-row-after-selecting-a-checkbox-2
+guid: 3673
 ---
 
 This is a follow to an <a href="http://www.raymondcamden.com/index.cfm/2009/11/18/jQuery-Quickie-Highlighting-a-table-row-after-selecting-a-checkbox">earlier post</a> that discussed how to use jQuery and checkboxes to highlight a row. A user wrote in with two requests that were fairly sensible so I thought I'd share them here.

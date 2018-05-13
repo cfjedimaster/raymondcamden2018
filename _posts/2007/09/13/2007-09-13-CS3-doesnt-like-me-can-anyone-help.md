@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/09/13/CS3-doesnt-like-me-can-anyone-help
+guid: 2343
 ---
 
 So this morning I decided to install Adobe Creative Suite 3 Master Collection. I selected a few of the apps as I didn't need everything (Dreamweaver, Flash, Photoshop, Contribute) and hit go. I noticed a few minutes later the installer was hung. I was silently cursing the installer when I noticed my CD wasn't showing up in Finder. Turned out I had started up VMware Fusion and it had stolen the CD device. -sigh- My fault. 

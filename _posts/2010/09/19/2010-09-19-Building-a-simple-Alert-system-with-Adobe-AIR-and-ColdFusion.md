@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/19/Building-a-simple-Alert-system-with-Adobe-AIR-and-ColdFusion
+guid: 3946
 ---
 
 Every now and then I get a simple question that leads to loads and loads of code. That may sound bad but sometimes it can be fun as heck. What follows is a proof of concept "Alert" system built with Adobe AIR and ColdFusion. It was all spurred by the following email from Michael.

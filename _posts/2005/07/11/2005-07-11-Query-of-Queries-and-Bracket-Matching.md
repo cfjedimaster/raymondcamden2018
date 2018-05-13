@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/11/Query-of-Queries-and-Bracket-Matching
+guid: 618
 ---
 
 So, I ran into an interesting issue today while working on a new (personal) project. I needed to do a query of query (QofQ) and match records that <b>started</b> with the following:

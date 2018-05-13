@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/22/ColdFusion-901-Sneaks
+guid: 3787
 ---
 
 Terry Ryan just announced a few tidbits for the upcoming ColdFusion 9.0.1. Don't ask me for details, I'm just sharing the news:

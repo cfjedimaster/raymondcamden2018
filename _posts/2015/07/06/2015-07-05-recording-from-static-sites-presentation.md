@@ -6,6 +6,7 @@ categories: [uncategorized]
 tags: []
 banner_image: 
 permalink: /2015/07/06/recording-from-static-sites-presentation
+guid: 6354
 ---
 
 If you missed my presentation on static site generators last week, you can now watch the recording here:

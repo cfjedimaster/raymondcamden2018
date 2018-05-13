@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/04/Converting-XML-to-JSON-My-exploration-into-madness
+guid: 4481
 ---
 
 Forgive the overly dramatic blog title - just having a bit of fun. A coworker asked me yesterday how one could take a flat XML file and serve it up as JSON. I told him I'd whip up a "quick example" for him and blog it to share with others. Smirking a bit to myself, I imagined I'd be done in 5 minutes and it would be a bit of a fluff piece. My ego ran head first into a brick wall rather quickly - which - I will admit - was kind of fun. Here's what I discovered.

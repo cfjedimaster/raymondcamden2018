@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2014/12/01/HTML5-or-HTML-in-general-book-recommendations
+guid: 5362
 ---
 
 <p>

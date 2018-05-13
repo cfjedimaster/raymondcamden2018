@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/14/BlogCFC-51-Released
+guid: 1403
 ---
 
 I'm happy to announce the release of <a href="http://ray.camdenfamily.com/projects/blogcfc">BlogCFC 5.1</a>. This release adds some <i>very</i> cool features including a simple content management system. This "mini" CMS allows for content editing outside the blog system. This is a great way to build supporting pages for the blog. Along with the CMS changes, here are some of the other changes:

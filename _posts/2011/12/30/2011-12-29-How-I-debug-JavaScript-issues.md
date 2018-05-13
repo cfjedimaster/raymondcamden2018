@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2011/12/30/How-I-debug-JavaScript-issues
+guid: 4475
 ---
 
 After helping a friend earlier this week with a JavaScript issue, I thought I'd quickly write up the normal ways I attack issues with JavaScript. This is not meant to be a definitive guide per se, but just how I go about dealing with problems. I'll be talking about Chrome, but pretty much everything mentioned below is doable in other browsers (some even in IE).

@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/17/INeedIt-Addressing-text-size-issues
+guid: 4236
 ---
 
 This past Saturday I <a href="http://www.raymondcamden.com/index.cfm/2011/5/14/INeedIt--Simple-Flex-Mobile-example">wrote about</a> my experience creating a Flex Mobile application called INeedIt. Based on the <a href="http://code.google.com/apis/maps/documentation/places/">Google Places API</a>, it was a simple application that found businesses of a certain type around your location. One of the issues I ran into was with text size. Consider what the simulator showed:

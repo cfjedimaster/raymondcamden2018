@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/09/18/BlogCFCFlex-article-up-at-Adobes-Developer-Center
+guid: 1538
 ---
 
 The title says it all, but a more in depth article about my Flex 2 front end for BlogCFC is now up at the Developer Center:

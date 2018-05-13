@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/07/Ask-a-Jedi-Applicationcfc-versus-Applicationcfm
+guid: 958
 ---
 
 Tony asks:

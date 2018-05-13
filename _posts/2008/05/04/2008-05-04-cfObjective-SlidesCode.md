@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/04/cfObjective-SlidesCode
+guid: 2808
 ---
 
 I've attached a zip with the slide and code from my Spry presentation, as well as the slides from my Model-Glue presentation. My MG presentation did have a bit of code, but as it was just me playing with the application skeleton, I figure folks don't care too much for that.

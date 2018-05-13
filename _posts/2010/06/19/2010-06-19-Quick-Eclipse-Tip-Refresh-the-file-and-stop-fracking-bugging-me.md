@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/06/19/Quick-Eclipse-Tip-Refresh-the-file-and-stop-fracking-bugging-me
+guid: 3852
 ---
 
 Ok, I love the Eclipse platform, but it has a few... eccentricities that annoy the heck out of me. One of them involves how uppity Eclipse gets if a file is modified by another process. Instead of simply refreshing the file, Eclipse will give you a snooty message and demand you refresh the file. I complained about this on Twitter (is there any other reason to use Twitter) and <a href="http://stevegood.org/">Steve Good</a> let me know that you can set Eclipse to automatically refresh. Turns out he was exactly right:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/15/ColdFusion-Portal-Update
+guid: 1472
 ---
 
 Some big updates to the <a href="http://www.coldfusionportal.org">ColdFusion Portal</a> this morning:

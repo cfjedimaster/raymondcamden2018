@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/14/Lemonade-Stand-The-Results-Are-In
+guid: 2932
 ---
 
 It's been a week since I announced the <a href="http://www.raymondcamden.com/index.cfm/2008/7/7/Friday-Puzzler-a-bit-early">Lemonade Stand</a> contest, and I hope folks weren't too disappointed when I delayed the results last Friday. Thankfully that whole mess is done with now. Last night I worked a bit more on my simulator, trying to clean up the results a bit, but the code itself is still a bit ugly. But who cares. What folks want to know is who won this little contest.

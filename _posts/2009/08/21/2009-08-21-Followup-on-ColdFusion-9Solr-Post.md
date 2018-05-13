@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/21/Followup-on-ColdFusion-9Solr-Post
+guid: 3499
 ---
 
 Just a very quick follow up to my <a href="http://www.raymondcamden.com/index.cfm/2009/8/20/Simple-ColdFusion-9-ORMSolr-Example">post</a> yesterday about ColdFusion and Solr. (And by the way - I'm disappointed no one has discovered the security issue with my searchable code. Tsk tsk! :) I ran into issues running Solr when I was testing. Shannon Hicks has posted a nice blog entry on this with Mac-compatible Solr startup scripts:

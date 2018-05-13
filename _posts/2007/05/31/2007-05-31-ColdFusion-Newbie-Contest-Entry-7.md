@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/31/ColdFusion-Newbie-Contest-Entry-7
+guid: 2080
 ---
 
 Welcome to the 7th entry in the <a href="http://ray.camdenfamily.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie Contest</a>. The entries just keep getting more and more interesting. I've got about 3 more after this so I'm hoping to wrap this series by next week. Today's entry is from Jonathon Stierman and his coworker Nicholas. I'm not quite sure if it was just Nicholas though.

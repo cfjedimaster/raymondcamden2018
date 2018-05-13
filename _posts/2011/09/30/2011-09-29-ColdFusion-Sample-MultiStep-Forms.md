@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/30/ColdFusion-Sample-MultiStep-Forms
+guid: 4377
 ---
 
 The "ColdFusion Sample" series is a collection of blog entries that describe how to do common tasks in web development with ColdFusion. They are not meant to be the only solution, but simply one solution, presented in such a fashion that you can take the code and immediately use it (with modifications of course) in a production environment. For today's entry I'm going to demonstrate how to handle a multi-step form in ColdFusion. My example will be the fairly common checkout form seen on e-commerce sites. Multi-step forms <i>can</i> be done completely client side. For this entry though I'm going to rely on a simpler solution. One quick aside. I try like heck to keep my code samples as simple as possible. So for example, if I wanted to demonstrate how to output the current time in ColdFusion, I'm not going to bother with a 'complete' HTML page. While all of the extra HTML may make for a "Proper" HTML result, it's stupid to clutter up one line of CFML with 10 lines of HTML. That being said I decided to try out the <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> toolkit to make my demo look a bit nicer. At the very end of this blog entry I'll have a few notes on Bootstrap and what I both liked and disliked.

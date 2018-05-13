@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/28/Small-formatting-issue-with-emails-sent-via-ColdFusion-9-Mailcfc
+guid: 3927
 ---
 
 Using the new mail.cfc to send emails in ColdFusion 9? You may notice an odd formatting issue. Check out this screen shot:

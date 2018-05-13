@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2005/07/21/PSP-Review-Untold-Legends
+guid: 638
 ---
 
 Summary for those who don’t want to bother through my long-winded and rambling review: Good Diablo 2 clone that suffers from a major, game-ending flaw.

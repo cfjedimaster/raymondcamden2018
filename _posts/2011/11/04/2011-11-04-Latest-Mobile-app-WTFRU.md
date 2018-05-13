@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/04/Latest-Mobile-app-WTFRU
+guid: 4421
 ---
 
 Today I held an open meeting over connect to discuss some interesting issues I ran into while building my latest mobile application. Thank you to all who attended. The recording link is at the very end of this blog post. For every one else, here is a quick look at what I built and why I built it.

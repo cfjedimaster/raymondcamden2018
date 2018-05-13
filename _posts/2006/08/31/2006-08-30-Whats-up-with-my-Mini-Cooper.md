@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/08/31/Whats-up-with-my-Mini-Cooper
+guid: 1506
 ---
 
 Since I know people are just insane with curiosity, I thought I'd post another update about my Mini Cooper, or as I call it, S*** on Wheels. I don't think I've been that strong in my posts before, but I'm <i>really</i> getting ticked now.

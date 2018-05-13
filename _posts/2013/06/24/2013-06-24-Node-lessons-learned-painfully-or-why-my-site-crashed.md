@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/06/24/Node-lessons-learned-painfully-or-why-my-site-crashed
+guid: 4971
 ---
 
 Last week I launched <a href="http://www.javascriptcookbook.com">JavaScriptCookbook</a>. The code behind the site makes use of Express and Node.js. This is the first site I've ever built using Node and frankly - I'm really unsure of... well everything. It was fairly trivial to get the site up and running (Express is just an incredible framework), but there is still quite a bit to the ... ecosystem (not sure if that is the right word) that is a bit unclear to me.

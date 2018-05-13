@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/12/Aptana-adds-AIR-Support
+guid: 2115
 ---
 
 So before I even go into this blog entry - how many people think we are going to have a <i>ton</i> of "air" puns now that Apollo has been renamed???

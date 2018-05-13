@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/12/Question-on-Instant-Messenger-Gateway
+guid: 1526
 ---
 
 Kevin asks, 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/02/CentraSoft-Helping-Katrina-Victims
+guid: 749
 ---
 
 <a href="http://centrasoft.com">CentraSoft</a>, the makers of the CFMX Exam Buster, are donating all of their proceeds to help the victims of hurricane Katrina. Here are the details:

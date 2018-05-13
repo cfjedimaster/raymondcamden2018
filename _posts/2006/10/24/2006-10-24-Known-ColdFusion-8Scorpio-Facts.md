@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/24/Known-ColdFusion-8Scorpio-Facts
+guid: 1607
 ---
 
 As the conference goes on - I thought I'd start a thread on what is public knowledge about Scorpio. Please add to this list with your comments, and I'll cut and paste into the main entry. (So thanks in advanced.) I will also flesh out the facts so if you see something covered but want to add detail, again, just write a comment. 

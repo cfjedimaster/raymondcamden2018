@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/21/TV-Lost-is-Found
+guid: 793
 ---
 
 Do not forget that tonight is the season premier of Lost. I raved about this show pretty much all last season. If you haven't given it a chance yet, I strongly urge you to take a look.

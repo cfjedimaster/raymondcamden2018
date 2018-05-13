@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/07/31/First-impressions-of-Leap-Motion
+guid: 4995
 ---
 
 Summary: My initial impression was <i>very</i> confusing, frustrating, but after some hiccups I'm pretty damn excited. Read on for more details.

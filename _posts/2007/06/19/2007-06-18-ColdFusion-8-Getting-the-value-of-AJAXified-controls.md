@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/06/19/ColdFusion-8-Getting-the-value-of-AJAXified-controls
+guid: 2130
 ---
 
 I ran into a problem last night trying to use JavaScript to read the value of a rich text field. I had assumed I could use the normal syntax I'd use for a form field:

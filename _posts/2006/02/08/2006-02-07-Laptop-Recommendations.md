@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/02/08/Laptop-Recommendations
+guid: 1082
 ---
 
 My wife needs a new laptop. It seems like the kids have slowly torn apart her old Sony and now it barely functions. It won't run without being plugged in, and it is missing a key or two. It is still good enough for my son to play a few games on it, but I want to get something for my wife now. Can anyone recommend a laptop?

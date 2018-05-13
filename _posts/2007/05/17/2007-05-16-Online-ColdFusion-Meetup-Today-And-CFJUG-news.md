@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/17/Online-ColdFusion-Meetup-Today-And-CFJUG-news
+guid: 2043
 ---
 
 At 11:30 CST today Simon Horwith will be presenting a preview of his CFUNITED full day class. For more information, and to RSVP, please visit the <a href="http://coldfusion.meetup.com/17/calendar/5778241/">site</a>. Just in case folks don't know - this is a 100% free, online meeting.

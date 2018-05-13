@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/09/An-odd-cfdiv-issue
+guid: 3187
 ---
 
 Forgive the vague title, but the title I wanted to use would reveal the secret behind the mystery that plagued a reader of mine for the past few days. He was using cfdiv to load dynamic content and discovered that the content would loop itself in a loop. What do I mean?

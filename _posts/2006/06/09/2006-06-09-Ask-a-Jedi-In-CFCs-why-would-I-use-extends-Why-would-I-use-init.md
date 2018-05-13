@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/09/Ask-a-Jedi-In-CFCs-why-would-I-use-extends-Why-would-I-use-init
+guid: 1323
 ---
 
 It is probably bad form to cover two topics in one blog post, but they came in together so I thought I'd answer them together. Here is what my reader asked:

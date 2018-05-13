@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/08/Recorded-version-of-my-MAX-ColdFusion-ORM-Presentation
+guid: 3557
 ---
 
 As has been Twittered around this morning, the MAX sessions are now coming online. Even if you didn't actually buy a ticket for MAX, you can watch <b>all</b> the sessions (just sessions, no labs) online for free at <a href="http://tv.adobe.com/">Adobe TV</a>. 

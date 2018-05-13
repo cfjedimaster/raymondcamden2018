@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/10/25/Flex-Builder-2-for-the-Mac
+guid: 1611
 ---
 
 I'm probably the last one to blog it, but you can now download Flex Builder 2 for the Mac.

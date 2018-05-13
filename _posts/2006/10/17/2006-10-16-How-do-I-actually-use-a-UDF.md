@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/17/How-do-I-actually-use-a-UDF
+guid: 1590
 ---
 
 Over the past few days I've had multiple people ask me the same question - and that means one thing to me... blog post! 

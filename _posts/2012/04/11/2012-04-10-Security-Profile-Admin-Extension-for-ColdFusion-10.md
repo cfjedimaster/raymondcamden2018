@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/04/11/Security-Profile-Admin-Extension-for-ColdFusion-10
+guid: 4586
 ---
 
 The Adobe engineers are hard at work fixing bugs and preparing ColdFusion 10 for its final release. One of the interesting features that landed <i>after</i> the initial public release is a "Secure Profile" during installation. (<b>Edit:</b> Shilpi Khariwal just added a <a href="http://www.shilpikhariwal.com/2012/04/coldfusion-10-presents-secure-profile.html">blog post</a> on this new feature!) While installing ColdFusion, users can select to enable a Secure Profile that modifies around 20 default settings to help lock down the server. To be clear, <b>this is not meant to be a one size fits all type solution nor is it meant to imply you can never worry about security again</b>. Instead - it is simply meant to help guide people into a more secure production server.

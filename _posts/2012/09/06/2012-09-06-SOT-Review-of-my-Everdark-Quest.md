@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/09/06/SOT-Review-of-my-Everdark-Quest
+guid: 4724
 ---
 
 SOT (or Seriously Off Topic) post to share with you today. This morning I was sitting in the <a href="http://www.heartlanddc.com/">HDC</a> keynote and was surprised to hear the speaker talk about MUDs. For those of you who are a too young, MUDs were multiplayer RPGs in the days before World of Warcraft. They were entirely text based (well, at first) and were basically Zork-clones on acid. Many MUDs existed but they've waned somewhat in popularity over the past few decades.

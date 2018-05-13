@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/10/Happy-Birthday-ColdFusion
+guid: 2183
 ---
 
 I'm a bit late on this, and I wasn't even aware it was coming up, but apparently today is ColdFusion's 12th birthday. Not bad for a technology that has been on it's death bed for the past few years. (And yes, that's sarcasm in case any ComputerWorld "journalists" are reading.)

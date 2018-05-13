@@ -6,6 +6,7 @@ categories: [development,misc]
 tags: []
 banner_image: 
 permalink: /2014/06/25/XCode-forgets-frameworks-and-bundles-after-a-restart
+guid: 5253
 ---
 
 <p>

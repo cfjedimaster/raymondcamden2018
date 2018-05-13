@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/23/What-I-did-this-weekend
+guid: 1976
 ---
 
 Well, not this weekend. This lego set of an Imperial Star Destroyer was sent me to almost a year ago. But I finally finished it this week. It contains close to 1400 pieces, and believe it or not is the "small" Star Destroyer. My brother-in-law has the 3k one and it dwarfs mine. See more pictures here: 

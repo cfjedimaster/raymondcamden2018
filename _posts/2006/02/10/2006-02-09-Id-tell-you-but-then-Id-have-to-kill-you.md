@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/02/10/Id-tell-you-but-then-Id-have-to-kill-you
+guid: 1090
 ---
 
 Saw this on a <a href="http://abcnews.go.com/Politics/wireStory?id=1602666&CMP=OTC-RSSFeeds0312">story</a> at ABC News this morning:

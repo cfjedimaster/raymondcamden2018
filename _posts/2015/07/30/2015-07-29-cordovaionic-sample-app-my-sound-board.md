@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/07/30/cordovaionic-sample-app-my-sound-board
+guid: 6560
 ---
 
 Today's demo is something I started working on Sunday "for fun", but when it turned into an unholy mess (see <a href="http://www.raymondcamden.com/2015/07/27/recording-and-saving-audio-in-cordova-applications">Recording and saving audio in Cordova applications</a>), it took me a bit longer to wrap than I expected. The idea was simple. "Sound Boards" are apps that contain a collection of sounds, typically related to a movie or TV show. My coworker <a href="http://www.tricedesigns.com/">Andy</a> built a cool sound board themed around Halloween a few years back: <a href="http://www.tricedesigns.com/2012/10/23/halloween-fun-with-phonegap/">Halloween Fun with PhoneGap</a>. I wanted to build a sound board too, but instead of shipping it with a set of sounds, I wanted it to be completely customized. The idea being you could record your own sounds. In a fit of extreme creativity, I called it - "My Sound Board".

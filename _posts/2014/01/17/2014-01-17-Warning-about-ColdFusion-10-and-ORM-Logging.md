@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/01/17/Warning-about-ColdFusion-10-and-ORM-Logging
+guid: 5130
 ---
 
 <p>

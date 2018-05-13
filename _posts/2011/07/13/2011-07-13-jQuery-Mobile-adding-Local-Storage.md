@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/07/13/jQuery-Mobile-adding-Local-Storage
+guid: 4305
 ---
 
 So about a week or so ago I had an idea about a simple jQuery Mobile application that would make use of Local Storage. That was a week ago. Turns out - the "simple" application turned out to be a royal pain in the rear. Not because of Local Storage, but because of some misconceptions and lack of knowledge on my part in jQuery Mobile. What followed was a couple painful days (and more than a few curse words) but after all of that, I feel like I've got a better understanding of jQuery Mobile and got to play with some new features. So with that being said, let's get to the app.

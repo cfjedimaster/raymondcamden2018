@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/05/Generating-XML-from-a-CFC-Watch-out-for-whitespace
+guid: 1876
 ---
 
 A friend sent in a question this weekend that confounded him to no end. He was generating some XML but kept getting an error in the browser because of extra white space. He had used cfsetting enablecfoutputonly=true. He had used output=false in the method. But he still had a white space issue. And let's face it - ColdFusion likes whitespace more than Paris Hilton likes publicity.

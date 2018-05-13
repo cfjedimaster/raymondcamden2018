@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/27/Ask-a-Jedi-Can-I-bind-an-image-to-a-cell-in-cfgrid
+guid: 647
 ---
 
 Zach asks, "Is there a way to bind an image to a column in a Flash Grid?" The answer is yes. From the docs for <a href="http://livedocs.macromedia.com/coldfusion/7/htmldocs/wwhelp/wwhimpl/common/html/wwhelp.htm?context=ColdFusion_Documentation&file=00000267.htm">cfgridcolumn</a>, we see that the type attribute for cfgridcolumn allows for "image" as a value. Some notes though:

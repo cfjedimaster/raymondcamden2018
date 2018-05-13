@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/08/21/Eclipse-trick
+guid: 2982
 ---
 
 I'm writing some quick code samples for my presentation tonight and accidentally discovered a neat trick in Eclipse. I went to add a new folder for try/catch demos. I named the folder, literally, try/catch. I had meant to do trycatch of course. So what did Eclipse do? It nicely made a try folder with a catch folder underneath:

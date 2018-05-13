@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/12/11/FlashVars-in-Flex
+guid: 1704
 ---
 
 As a developer on the receiving end of Flash files, I've gotten used to dealing with FlashVars as a way to configure a Flash application. I've wondered how I'd do this in Flex though. Joao Fernandes sent me some sample code and showed me the way.

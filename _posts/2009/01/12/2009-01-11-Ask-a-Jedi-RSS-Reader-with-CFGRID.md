@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/12/Ask-a-Jedi-RSS-Reader-with-CFGRID
+guid: 3190
 ---
 
 Craig sent me one of those emails where one main question leads to a whole heck of a lot of topics. I love those. Here is his email, and then I'll try to tackle it bit by bit:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/05/ColdFusion-Contest-Entry-Examind-Part-2
+guid: 830
 ---
 
 Today we are going to look at the second <a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">contest</a> entry. What is interesting about this one is that it takes the opposite approach from the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/4/ColdFusion-Contest-Entry-Examined">first entry</a>. In the first entry, the user had to guess the right number. In this entry, the computer has to guess it. This is what I had originally wanted, but to be honest, either way is fine, so I have no problem with the first entry's approach.

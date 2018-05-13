@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/18/ColdFusion-10-Demo-Dump
+guid: 4528
 ---
 
 With the <a href="http://labs.adobe.com/technologies/coldfusion10/">public release</a> of ColdFusion 10, I'll be ramping up my demo posts now that we can all play with the code. I'll also be updating my own server to ColdFusion 10 so folks can see them running in a live environment. However - it's also Mardi Gras, so I won't be around much. I thought folks might like to have some demo code to play with. I've attached a zip to this blog entry of a bunch of code I've been using over the past few months to test out ColdFusion 10 features. Some of these are things I've already shared, and some I plan on sharing later (I'm especially proud of the Web Socket demos), but in the mean time, I wanted to hand out these files to give folks something to play with it. 

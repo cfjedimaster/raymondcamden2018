@@ -6,6 +6,7 @@ categories: [coldfusion,development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/05/09/Recording-slides-and-code-from-my-WebSockets-presentation
+guid: 4612
 ---
 
 Enjoy. I'm going to have some followup blog posts on this coming up this week.

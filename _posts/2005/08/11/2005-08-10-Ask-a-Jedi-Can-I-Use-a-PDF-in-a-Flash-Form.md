@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/11/Ask-a-Jedi-Can-I-Use-a-PDF-in-a-Flash-Form
+guid: 690
 ---
 
 Ryan asks:

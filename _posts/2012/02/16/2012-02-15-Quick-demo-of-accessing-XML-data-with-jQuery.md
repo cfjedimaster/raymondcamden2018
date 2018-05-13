@@ -6,6 +6,7 @@ categories: [development,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/02/16/Quick-demo-of-accessing-XML-data-with-jQuery
+guid: 4526
 ---
 
 This blog post is mainly for my own memory - but a user asked about access CDATA values stored in an XML field via JavaScript. I'm using jQuery to work with XML and wrote up a very quick demo. For the most part, it seems like it "just works", but I assume there are going to be some edge cases. I'll update the demo to add more examples if folks would like.

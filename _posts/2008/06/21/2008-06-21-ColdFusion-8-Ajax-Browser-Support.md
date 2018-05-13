@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/21/ColdFusion-8-Ajax-Browser-Support
+guid: 2894
 ---
 
 I was asked this a few times, but what is the official supported browser list for ColdFusion 8 Ajax support. I kept telling people to check the Developer's Guide, but it isn't there. You have to look in the CF8 Release Notes. From that:

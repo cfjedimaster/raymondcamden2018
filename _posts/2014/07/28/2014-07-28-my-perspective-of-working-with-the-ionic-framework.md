@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/28/my-perspective-of-working-with-the-ionic-framework
+guid: 5276
 ---
 
 <p>

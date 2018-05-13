@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/08/05/book-review-flex-3-in-action
+guid: 2957
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.comm/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=1933988746&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&nou=1" style="width:120px;height:240px;padding-right:10px"  scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>

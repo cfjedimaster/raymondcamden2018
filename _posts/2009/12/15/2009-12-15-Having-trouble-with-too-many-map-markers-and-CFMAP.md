@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/15/Having-trouble-with-too-many-map-markers-and-CFMAP
+guid: 3651
 ---
 
 About a few months ago a user contacted me with an odd issue with CFMAP. At random times the markers on the map refused to load. Actually they returned the rather odd error that the address didn't exist. Here is an example:

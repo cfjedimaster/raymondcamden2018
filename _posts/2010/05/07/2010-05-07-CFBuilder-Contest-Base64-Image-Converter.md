@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/07/CFBuilder-Contest-Base64-Image-Converter
+guid: 3809
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Today's ColdFusion Builder Contest entry comes from Dave Ferguson. Once again - it is a very unique, very interesting extension that I think just goes to show what kind of tools you can build when you have a platform as extensible as CFBuilder. His extension allows you to create Base64 strings out of images. Not only that - you can actually <i>create</i> images with the extension as well!

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/07/Using-ColdFusions-Asynchronous-Gateway
+guid: 1518
 ---
 
 I got an email a while back from a user who was having issues with ColdFusion's Asynchronous Gateway code. It had been a while since I used it so I thought it might be nice to refresh my own memory, and provide a simple guide for users on how to work with it. I ran into a few issues that I bet have tricked up my own readers. (Hopefully we will see Damon Cooper's <a href="http://www.dcooper.org/blog/client/index.cfm?mode=entry&entry=916FEFD9-4E22-1671-57A23859C50FFF47">cfthread</a> get rolled into the core product to make this a lot easier.) This guide will not cover everything you can do with the Asynch gateway, but it should be enough to get you going.

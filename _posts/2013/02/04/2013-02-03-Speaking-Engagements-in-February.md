@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/02/04/Speaking-Engagements-in-February
+guid: 4844
 ---
 
 Just a quick run down of my speaking engagements for February.

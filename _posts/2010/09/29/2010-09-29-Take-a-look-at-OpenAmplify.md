@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/29/Take-a-look-at-OpenAmplify
+guid: 3955
 ---
 
 Yesterday I discovered a service called <a href="http://community.openamplify.com/content/docs.aspx">OpenAmplify</a>. OpenAmplify is a free API that provides deep, and I mean really deep, textual analysis. Currently they only support English, and I've no idea how long the service will remain free, but the level of detail their analysis provides is pretty darn stunning. As an example of the level of detail it provides, when I used their API to scan this blog, it was able to tell me:

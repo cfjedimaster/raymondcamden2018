@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/16/ColdFusion-Quickie-Last-12-Months
+guid: 3018
 ---
 
 A reader asked:

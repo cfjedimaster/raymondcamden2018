@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/15/Go-ahead-and-DRM-the-monitor
+guid: 626
 ---
 
 Slashdot is <a href="http://it.slashdot.org/it/05/07/15/155216.shtml?tid=109&tid=172&tid=158&tid=155">reporting</a> that Longhorn will contain a new feature called PVP-OPM (Protected Video Path - Output Protection Management). Longhorn will notice if your monitor supports DRM, and if not, may block protected content from being displayed.

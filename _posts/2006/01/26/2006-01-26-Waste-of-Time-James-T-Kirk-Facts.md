@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/01/26/Waste-of-Time-James-T-Kirk-Facts
+guid: 1062
 ---
 
 In honor of other <a href="http://www.chucknorrisfacts.com/">famous</a> <a href="http://www.cfmjunkies.com/wmblog/jack_bauer.cfm">tributes</a>, I present to you the facts about James T. Kirk:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/24/Vile-Forms
+guid: 726
 ---
 
 I'm coining a new term today. I'll trade mark it (hey, if Paris can, so can I) and make millions. What do I mean by a "Vile" form? A Vile form is any form that, on error, turns back on the 'spam' options automatically. It is truly vile in that you see the rest of the form fields have not been changed, so you mistakenly think the form remember you don't want spam. 

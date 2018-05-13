@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/29/Canvas-2-Beta
+guid: 1741
 ---
 
 I'm <b>very</b> happy to announce the beta for Canvas 2. Before I say anything at all about this release, I want to give thanks to Mark Mazelin. 100% of Canvas 2 is his work. It has been ready for a while now but I've just been too busy to release it yet. I'm releasing his work as a beta not because I don't trust his work - but mainly that it is so big a change that I need additional eyes to look at it. Plus, there are two changes I want to add in before the final release is done. So what exactly is in Canvas 2?

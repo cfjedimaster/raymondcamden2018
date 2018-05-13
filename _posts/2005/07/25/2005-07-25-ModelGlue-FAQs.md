@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/25/ModelGlue-FAQs
+guid: 645
 ---
 
 As I work my way through rebuilding CFLib (and yes, I still plan on deploying it live so people can see the progress) I ran into a few issues that I needed help. I'll make the assumption that my questions aren't stupid and share them here...

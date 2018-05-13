@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/22/A-few-BlogCFC-Notes
+guid: 795
 ---
 
 A few notes in no particular order...

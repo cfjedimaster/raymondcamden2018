@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/08/Adobe-eSeminar-on-ColdFusion-and-Monitoring
+guid: 4521
 ---
 
 (Sorry for the somewhat simple blog posts this week - all day offsite with Adobe. I promise to return to my normal incredibly exciting posts soon...)

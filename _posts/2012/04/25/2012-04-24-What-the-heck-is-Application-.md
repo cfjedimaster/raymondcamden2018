@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/04/25/What-the-heck-is-Application-
+guid: 4596
 ---
 
 I'm working on an update to <a href="http://www.cflib.org">CFLib</a>. Nothing that end users will actually see, but rather all behind the scenes. The current code base makes use of Model-Glue and Transfer. I'm rebuilding it for ColdFusion 10 and making use of Framework One and ORM. It's been a while since I've gotten to use <a href="https://github.com/seancorfield/fw1/wiki">FW/1</a> and I forgot how much of a pleasure it is to use. 

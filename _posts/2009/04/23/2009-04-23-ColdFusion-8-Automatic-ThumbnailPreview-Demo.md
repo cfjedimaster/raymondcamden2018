@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/23/ColdFusion-8-Automatic-ThumbnailPreview-Demo
+guid: 3326
 ---
 
 This is a neat little piece of code sent to me by Miles Jordan. He credited Dave Watts for the original idea. The code makes use of the CFTOOLTIP tag, one of ColdFusion 8's Ajax features. The tag allows you to easily provide tooltip information for items on the page. What's cool is that the tooltip can be both simple text and HTML. He makes use of this by feature by simply using the larger version of the image as the tooltip. Check it out:

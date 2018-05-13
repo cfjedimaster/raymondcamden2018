@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/02/20/Video-Debugging-with-Firefox-DevTools
+guid: 5157
 ---
 
 <p>

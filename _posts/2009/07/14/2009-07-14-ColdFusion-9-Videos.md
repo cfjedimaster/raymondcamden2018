@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/14/ColdFusion-9-Videos
+guid: 3440
 ---
 
 With the release of ColdFusion 9, Adobe also produced some ColdFusion 9 specific videos. By Adobe I mean Ben and I. ;) You can find these videos at Labs: <a href="http://labs.adobe.com/technologies/coldfusion9/videos/">http://labs.adobe.com/technologies/coldfusion9/videos/</a>

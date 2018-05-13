@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/12/01/Quick-jQuery-Tip-Removing-default-search-text
+guid: 4034
 ---
 
 One of the common UI patterns is to add some default text to a search box, so for example, it may say "Enter Search" in the input field. As soon as the user clicks on the field that default text goes away. While there are probably a thousand ways of doing it, here is one quick and dirty way of doing it with jQuery.

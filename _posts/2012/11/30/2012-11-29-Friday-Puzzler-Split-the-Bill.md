@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/11/30/Friday-Puzzler-Split-the-Bill
+guid: 4793
 ---
 
 Today's puzzler is more of a simple exercise than a real brain teaser, but the more I thought about it, the more I thought it might be a fun little bit of code to write or something that more experienced developers could pass on to their coworkers. As always, the "rules" are to try to do this within five minutes or so. 

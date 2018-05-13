@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/04/16/My-first-jQueryAIR-Application-Selecter-Tester
+guid: 3318
 ---
 
 A few days ago I was speaking with Ben Nadel and Rey Bango about a problem I had with jQuery Selectors. I've only recently become a bit comfortable with them, but they can still be a bit confusing to use. I wondered if there was a way to create a test script. Currently I'll write my selector and do hide() (for those of you who don't use jQuery, you can probably guess that will hide the matched items) or apply a class that adds a border. I'll do a bunch of "edit/save/alt-tab/reload" tests which isn't always fun.

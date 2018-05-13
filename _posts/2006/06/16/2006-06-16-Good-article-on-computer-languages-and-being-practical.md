@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/06/16/Good-article-on-computer-languages-and-being-practical
+guid: 1339
 ---
 
 I've never visited Nutrun before, but I absolutely loved this article: 

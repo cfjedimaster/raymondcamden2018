@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/27/CFMAP-and-Centering
+guid: 3665
 ---
 
 For a while now I've had two line items in my "To write about" notebook. They concerned figuring out how to use CFMAP (and Google Maps in general) to center the map on an address. Out of the box you have an immediate address that acts as the center, but I wanted to see how the center could be changed post map load. 

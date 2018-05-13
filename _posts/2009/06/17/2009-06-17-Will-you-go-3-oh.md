@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/06/17/Will-you-go-3-oh
+guid: 3398
 ---
 
 Last year I <a href="http://www.raymondcamden.com/index.cfm/2008/7/11/So-far-iPhone-20-is-DOA">blogged</a> about my experience upgrading my iPhone to 2.0. Little did I know that within a few hours I'd have a few hundred comments. It ended up being the most commented blog entry on my blog (972, almost 1k!) and my 6th most visited entry over all.

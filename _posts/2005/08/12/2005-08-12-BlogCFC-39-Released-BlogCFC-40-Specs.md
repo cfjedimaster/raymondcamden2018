@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/12/BlogCFC-39-Released-BlogCFC-40-Specs
+guid: 695
 ---
 
 BlogCFC 3.9 is now formally released. There were a few small changes since the beta. Here is the list of features, with changes at the end:

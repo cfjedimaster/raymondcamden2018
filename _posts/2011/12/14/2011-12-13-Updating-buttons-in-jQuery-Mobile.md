@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/12/14/Updating-buttons-in-jQuery-Mobile
+guid: 4461
 ---
 
 When working with various control types in jQuery Mobile (forms, widgets ,etc), one of the things you have to remember is that after jQuery Mobile "enhances" your content, changes to those controls, like via JavaScript, have to be updated as well. I've run into this already with list controls. Recently I built a form for a PhoneGap app and ran into the same problem. I thought I'd demonstrate the solution (which is rather simple), and give a complete example of what you need to do.

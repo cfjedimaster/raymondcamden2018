@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/27/Good-custom-tag-examples
+guid: 1559
 ---
 
 While custom tags have fallen out of a favor a bit, I'm still a big fan of them. I thought I'd point out two good blog posts by Ben Nadel which show how to nest tags:

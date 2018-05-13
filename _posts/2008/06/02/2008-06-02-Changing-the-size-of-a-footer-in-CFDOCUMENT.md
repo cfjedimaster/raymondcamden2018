@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/02/Changing-the-size-of-a-footer-in-CFDOCUMENT
+guid: 2853
 ---
 
 Over on the <a href="www.bacfug.org">BACFUG</a> mailing list, a user asked:

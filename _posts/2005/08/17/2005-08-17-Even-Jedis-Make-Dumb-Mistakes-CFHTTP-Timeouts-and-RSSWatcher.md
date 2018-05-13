@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/17/Even-Jedis-Make-Dumb-Mistakes-CFHTTP-Timeouts-and-RSSWatcher
+guid: 706
 ---
 
 So I'm a big fan of sharing coding mistakes, since I think there are mistakes that many of us make - and are probably too ashamed too admit. This morning all of my web sites were down. The rest of the box was running fine though, so I figured it was probably a ColdFusion issue. (Make that - an issue with one of my ColdFusion pages, not ColdFusion itself.)

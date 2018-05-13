@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2015/05/30/a-look-at-new-relic-browser
+guid: 6223
 ---
 
 While at Fluent Conf this year, I was walking by the <a href="http://www.newrelic.com">New Relic</a> booth when I noticed something interesting - a product called New Relic Browser. Back when I converted my blog to Wordpress, I ran into a lot of problems. My server went down, WordPress crashed, it was a bit frustrating. (Much like how lemonade in a paper cut is a bit frustrating.) One of the tools I used to help diagnose my server was the <a href="http://newrelic.com/server-monitoring">New Relic Server monitor</a>. Outside of a few issues installing, I was <i>really</i> impressed with the level of detail the monitor provided. While it wasn't the final solution for fixing my problem, it definitely helped me pinpoint what was sucking up all the RAM on my box, and helped me check my changes to ensure things were going well. Best of all, this was entirely free. I'll give them <strong>huge</strong> props for offering such a powerful tool for no up front money. Because I had such a good experience with them on the server side, I thought I'd give their <a href="http://newrelic.com/browser-monitoring">Browser product</a> a try as well.

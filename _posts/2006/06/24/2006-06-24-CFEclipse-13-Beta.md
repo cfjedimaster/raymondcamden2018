@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/24/CFEclipse-13-Beta
+guid: 1354
 ---
 
 The beta of <a hre="http://www.cfeclipse.org/beta/">CFEclipse 1.3</a> has been released. I'm very happy with this release since I was never able to get RDS working on my MacbookPro. The 1.3 release finally got FTP file exploring working for me.  Here are the newest features, copied from the CFE web site:

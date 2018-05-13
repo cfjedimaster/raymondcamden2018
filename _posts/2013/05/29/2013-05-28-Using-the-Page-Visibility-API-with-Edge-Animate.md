@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/29/Using-the-Page-Visibility-API-with-Edge-Animate
+guid: 4947
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2013/5/28/Using-the-Page-Visibility-API">blogged</a> about the Page Visibility API. In that entry I talked about how the API works and how it can be used. Today I thought I'd demonstrate another example of this API. Imagine you have an <a href="http://html.adobe.com/edge/animate/">Edge Animate</a> animation that runs in a loop. It would be cool if you could use the Page Visibility API to pause the animation when the browser tab isn't being displayed. Here is how I solved this.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/06/ColdFusion-8-Update-to-Aggregator-UDF
+guid: 2094
 ---
 
 I'm posting an update to the <a href="http://ray.camdenfamily.com/index.cfm/2007/6/5/ColdFusion-8-RSS-Aggregator-UDF">aggregator code</a> I blogged about yesterday. This update does a few things - and demonstrates a bug (I think) in CFTHREAD inside a UDF.

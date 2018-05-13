@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/06/03/Looking-for-comments-about-pictures-orientation-and-ColdFusion
+guid: 4952
 ---
 
 This weekend I shared a few emails with Dario (who I imagine to be a Dothraki) concerning something interesting he noticed with images and ColdFusion. He took two images and used ColdFusion to check their height and width. Here are the two images he used. (I got permission to use the pictures. I've got no idea who the subject is but I assume they are ok with it. :)

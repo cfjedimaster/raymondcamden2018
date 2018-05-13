@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/22/ColdFusion-Zeus-POTW-Extra-edition-again
+guid: 4469
 ---
 
 Hey, it's the holidays, so why not share one more quick ColdFusion Zeus update? This is another little feature that literally became available two days ago. If you've ever needed to dynamically invoke a CFC method, you know that's simply enough using cfinvoke. So for example:

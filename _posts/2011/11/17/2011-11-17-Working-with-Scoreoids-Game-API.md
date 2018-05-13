@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/17/Working-with-Scoreoids-Game-API
+guid: 4437
 ---
 
 <b>Edited on February 26, 2012:</b> Scoreoid has recently gone through an API update. The demo here will no longer work, but the changes are not huge. I got my own local copy running well. If anyone wants an updated ColdFusion wrapper, please let me know.

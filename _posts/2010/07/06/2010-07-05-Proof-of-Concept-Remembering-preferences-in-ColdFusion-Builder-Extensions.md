@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/07/06/Proof-of-Concept-Remembering-preferences-in-ColdFusion-Builder-Extensions
+guid: 3869
 ---
 
 This weekend I worked on a little proof of concept concerning persistence and ColdFusion Builder Extensions. Persistence in ColdFusion applications normally involves either cookies, client variables, session variables, or databases. I was curious to see how I could achieve something similar for a CFB extension. My use case for this was preferences. So you could imagine a complex extension perhaps remember what your last choices were. This could make using the extension quicker if you don't have to configure your settings on ever use. 

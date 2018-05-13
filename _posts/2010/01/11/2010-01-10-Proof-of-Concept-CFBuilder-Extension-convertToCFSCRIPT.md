@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/11/Proof-of-Concept-CFBuilder-Extension-convertToCFSCRIPT
+guid: 3680
 ---
 
 I'm working on a project now that involves quite a bit of cut and paste from an old site into a new one. While doing so, I'm also moving some code from tag based CFCs into script based ones. Obviously you can't just paste tag based code into a script based tag. I wondered if it would be possible to build something to help me with some of the grunt work conversion. Specifically, I wanted something that would change:

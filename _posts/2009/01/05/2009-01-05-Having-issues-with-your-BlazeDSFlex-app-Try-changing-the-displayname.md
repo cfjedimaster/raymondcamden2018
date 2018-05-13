@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2009/01/05/Having-issues-with-your-BlazeDSFlex-app-Try-changing-the-displayname
+guid: 3177
 ---
 
 For days now (well, days in man hours, today is my first day back from vacation), I've been struggling with an issue concerning Flex and BlazeDS. Specifically an issue with the Flex front end receiving messages being sent by BlazeDS. I finally found the answer today, but before I go on, please note I'm a bit fuzzy on the details here - all I know is that it worked and I'm about as freaking relieved as a developer can get.

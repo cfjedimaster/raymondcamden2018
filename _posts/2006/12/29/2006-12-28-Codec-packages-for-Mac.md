@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/29/Codec-packages-for-Mac
+guid: 1740
 ---
 
 I recently tried to watch a video on my Intel Mac where the audio wouldn't work. On the PC I typically just grab k-lite, a large collection of codecs, and that takes care of the problem. Unfortunately I wasn't aware of such a thing for the Mac. Dean Saxe came to my rescue and pointed out this great resource:

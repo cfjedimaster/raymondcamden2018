@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/23/ColdFusion-101-Building-a-Calendar-2
+guid: 1792
 ---
 
 One of my most popular posts was one I did almost a year and a half ago: <a href="http://ray.camdenfamily.com/index.cfm/2005/8/31/ColdFusion-101-Building-a-Calendar">Buildig a Calendar</a>. It was a simple post describing how to create a calendar in ColdFusion. I've gotten numerous requests to follow up on it. The main request is to show how to include events on the calendar. I've been avoiding showing that as I was worried any example would be too tied to a particular data model. But after a few more requests, I've decided to get over it and just do it.

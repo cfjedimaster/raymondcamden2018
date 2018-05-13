@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/12/Ask-a-Jedi-Using-ColdFusion-Ajax-to-set-Session-Variables
+guid: 3236
 ---
 
 James Brown (yes, him) asks:

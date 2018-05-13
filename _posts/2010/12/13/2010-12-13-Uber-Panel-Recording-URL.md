@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/13/Uber-Panel-Recording-URL
+guid: 4051
 ---
 
 Sorry for the delay in getting the recording link up. There were some "issues" back in the Connect headquarters (I imagine something out of the Matrix) and I just got the URL a few seconds ago. Enjoy:

@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2009/05/15/Simple-CFCHARTjQuery-Demo
+guid: 3356
 ---
 
 I had some time to kill today and I decide to mix cfchart up with some jQuery love. You can see the demo of this <a href="http://www.raymondcamden.com/demos/jquerychart/">here</a>. When the chart loads, click on the bars, and you will see a detail load beneath the graph.

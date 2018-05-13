@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/27/Next-CFJUG-Title-No-Date
+guid: 1924
 ---
 
 <img src="http://ray.camdenfamily.com/images/seal.gif" align="left" hspace="10">

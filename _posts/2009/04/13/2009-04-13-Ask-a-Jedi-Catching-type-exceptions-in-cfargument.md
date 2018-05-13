@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/13/Ask-a-Jedi-Catching-type-exceptions-in-cfargument
+guid: 3314
 ---
 
 Bob asks:

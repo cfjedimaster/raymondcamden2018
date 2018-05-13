@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/19/Clearing-individual-filesfolders-from-ColdFusion-templates-cache
+guid: 2890
 ---
 
 A little bit ago I sat in the session "End to End Performance Tuning", which was a great session. One of the tips mentioned was the use of trusted cache on production systems. One of the problems with this though is that you need to clear the template cache for each and every little change. What folks tend to forget is that the Admin API has support to clear individual files. I <a href="http://www.raymondcamden.com/index.cfm/2007/6/7/ColdFusion-8-Admin-API-and-Trusted-Cache">blogged</a> about this last year (at CFUN I think) and wrote up a quick little script to show an example of it. This came up again during the session so I thought I'd work a bit on the script and make it a bit more presentable in the ColdFusion Admin. 

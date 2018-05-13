@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/19/Using-Drawing-Tools-and-Maps-to-Find-Data
+guid: 5011
 ---
 
 A few years back a good buddy of mine (<a href="http://bayousoft.com/">Ryan LeTulle</a>) demoed a cool real estate map application he built. I asked him to blog it (because, everyone has a blog, and time to blog, right?) but he never got around to it. Last week I asked him if he minded me rebuilding what I saw him do, and he said go for it. Thanks Ryan for the inspiration!

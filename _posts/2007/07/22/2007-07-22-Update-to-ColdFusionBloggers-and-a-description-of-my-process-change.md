@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/22/Update-to-ColdFusionBloggers-and-a-description-of-my-process-change
+guid: 2212
 ---
 
 Wow, what an exciting blog title there. I bet you saw "process change" and just jumped for joy. All joking aside, let me talk a bit about how <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org </a>used to work and what I just did to help with performance.

@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2015/12/05/review-destiny-and-star-wars-battlefront
+guid: 7212
 ---
 
 It isn't Sunday but here are two video game reviews for you. Next will be Fallout 4 which should be at home within the week.

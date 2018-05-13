@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/13/Guest-Post-Apple-Push-Notifications-From-ColdFusion-in-Ten-Minutes-or-Less
+guid: 3940
 ---
 
 So I'm not a big fan of guest posts (I'll admit to being something of a blog diva), but after talking about this with Erik Madsen last week I thought it would be great to share. He doesn't have a blog so I offered to post his text here. (I get 1% credit for pointing him towards one URL.) Anyway, enjoy, and thank you Erik for sharing!

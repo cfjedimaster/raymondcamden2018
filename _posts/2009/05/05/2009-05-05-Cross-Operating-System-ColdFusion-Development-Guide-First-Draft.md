@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/05/Cross-Operating-System-ColdFusion-Development-Guide-First-Draft
+guid: 3342
 ---
 
 Wow, that title is a heck of a lot more serious than I intended it to be. A few days ago I was working with some code Dan Swizter had written for BlogCFC. I ran into an issue when code he had written failed to run on my Mac. It turned out to be a simple enough mistake, but it occurred to me that it may make sense to create a simple list of development guidelines for ColdFusion programmers to ensure maximum portability of their web applications across Windows, Linux, and Mac platforms. I'm just starting this guide off with a few tips, and I hope my readers can help flesh it out. Once enough content is gathered, I'll create a proper document for it and link it up from the Guides pod to the right. So without further ado, here are some things to keep in mind when writing your code.

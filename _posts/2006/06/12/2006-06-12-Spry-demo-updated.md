@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/12/Spry-demo-updated
+guid: 1326
 ---
 
 A few days ago I blogged about the update to <a href="http://labs.adobe.com/technologies/spry/">Spry</a>. I've updated my demo. You can see two AJAX-ified Blog demos:

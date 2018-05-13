@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/14/Ask-a-Jedi-Multiple-questions-few-answers
+guid: 1097
 ---
 
 I got a few Ask a Jedi questions this week that shared one common characteristic - none of them had a "good" answer. Therefore I thought it would be perfect to combine them into one post. If anything, it just goes to show you that ColdFusion provides <i>multiple</i> solutions to a problem, and like many things in life, there isn't one correct answer. Let's start with the first question:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/06/16/Issue-with-ColdFusion-JavaSettings-and-ReloadOnChange
+guid: 5245
 ---
 
 <p>

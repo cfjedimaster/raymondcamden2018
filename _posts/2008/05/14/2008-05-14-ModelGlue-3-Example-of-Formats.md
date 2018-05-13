@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/14/ModelGlue-3-Example-of-Formats
+guid: 2827
 ---
 
 Time for yet another quick Model-Glue 3 example. This time I wanted to show off formats. In the past, if you wanted to have multiple views of the same type of data, you had to build multiple events. So for example, one page may display a list of all the starships in your fleet in HTML format. If you wanted the same query in JSON, then you would build another event to handle that request. Model-Glue 3 makes this a heck of a lot simpler. The views XML entity now supports a format attribute. So for example:

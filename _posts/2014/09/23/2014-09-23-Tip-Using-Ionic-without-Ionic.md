@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/09/23/Tip-Using-Ionic-without-Ionic
+guid: 5314
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/27/ColdFusion-Job-Opening-Top-of-Mind-Networks
+guid: 4540
 ---
 
 As always - just passing it along...

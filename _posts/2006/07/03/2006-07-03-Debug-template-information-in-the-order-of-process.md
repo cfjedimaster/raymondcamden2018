@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/03/Debug-template-information-in-the-order-of-process
+guid: 1372
 ---
 
 Wow, that title is really, really bad. So, my friend Zoid asked me today how to get the ColdFusion debugger to report both a) all the files executed (i.e., report each file each time), and b) the order of execution for the templates.

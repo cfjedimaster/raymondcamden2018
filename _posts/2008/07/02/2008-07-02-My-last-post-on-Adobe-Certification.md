@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/02/My-last-post-on-Adobe-Certification
+guid: 2911
 ---
 
 As a follow up to my <a href="http://www.raymondcamden.com/index.cfm/2008/6/3/Open-Letter-to-Adobe-on-Certification">open letter on Adobe Certification</a> (which again, never garnered an official response), I have an update to share with my readers. Before I do so though I have a lot of preparatory text I need to get out of the way. The following blog entry is based on a meeting I attended (non-NDA) for Adobe User Group Managers and Community Experts. It was specifically on Certification. This meeting left me frustrated and - frankly - a little bit more angry. I should perhaps have waited before blogging - but I wanted to share the notes while they are still fresh in mind. Just keep in mind that this may not be my most rational response. I'm emotional now (scratch that - I'm <b>angry</b>) and if you want to stop reading, I won't mind.

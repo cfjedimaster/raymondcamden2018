@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2009/06/11/ColdFusion-Quickie-Generating-JavaScript-from-CFML
+guid: 3391
 ---
 
 Have you ever wondered how you could create JavaScript data from ColdFusion? Now before you say anything, I'm not talking about AJAX. While using AJAX to load data into the client is probably the most often used way to do this, it certainly isn't the only way. Consider the following example.

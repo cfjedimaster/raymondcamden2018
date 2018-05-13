@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/14/Macrochat-Recording-and-Downloads
+guid: 776
 ---
 
 My Macrochat was recorded and may be watched <a href="http://mmchats.breezecentral.com/p49809263/">here</a>. Enjoy listening to my silky-smooth voice as I detail the wonders of input validation and ColdFusion. 

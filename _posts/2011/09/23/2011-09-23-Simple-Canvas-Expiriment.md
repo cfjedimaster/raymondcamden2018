@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2011/09/23/Simple-Canvas-Expiriment
+guid: 4372
 ---
 
 I've been giving the HTML5 Canvas tag a bit of a hard time. It's not that I'm against the feature in general, I just don't think <i>most</i> of the example use cases are actually practical. I love coding for coding's sake as much as anyone else. But if you are trying to sell me on using a feature, I need to see some examples of how I'd actually use the tag on a real web site. I think Canvas works great for charting, but I've been trying to come up with additional examples of where it could be practical. Unfortunately, this is probably not a <i>really</i> practical example. But, it was fun to right, so being Friday afternoon I'm invoking my right to spend some time learning something by writing some code that will probably never be used.

@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/07/02/ionic-push-example-supporting-state-changes
+guid: 6346
 ---
 
 <i>Please note that I'm writing this blog post while Ionic Push is still in Alpha. Everything I discuss here may change before 1.0 is released. Use the following code with caution.</i> One of the more interesting features of Ionic's Push feature is the ability to recognize a push message with state data. You can craft a push packet that not only includes a state value but state params as well. This is discussed in the <a href="http://docs.ionic.io/v1.0/docs/push-faq#section-i-want-my-app-to-open-to-a-specific-state-when-i-receive-a-notification-">FAQ</a>:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/07/Ask-a-Jedi-Caching-constant-structures
+guid: 3933
 ---
 
 Adobe evangelist <a href="http://gregsramblings.com/">Greg Wilson</a> just asked me the following on IM and I thought it would be good to share with others. I also think it's something that folks may have strong opinions on so I'd like to see what kind of debate this can cause. Here is his question:

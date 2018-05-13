@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/28/cfcache-and-errors
+guid: 4141
 ---
 
 Earlier today @jamesahull asked on Twitter about the relationship between cfcache and errors. For folks who have not used cfcache, this is an old feature of ColdFusion that allows for quick and dirty page caching. Prior to ColdFusion 9 you could literally just add a cfcache tag to the top of a page and get instant caching. It wasn't terribly useful for user-specific pages (although you could use a client-side cache if you wanted) and it wouldn't work at all on pages based on Form fields, but it would handle URL-dynamic pages just fine. Again - as long as you wanted the <i>entire</i> page cached. 

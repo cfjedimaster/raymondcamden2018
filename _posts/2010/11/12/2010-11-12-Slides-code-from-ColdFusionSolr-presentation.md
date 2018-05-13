@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/12/Slides-code-from-ColdFusionSolr-presentation
+guid: 4011
 ---
 
 Below you will find my slides and code form my ColdFusion and Solr presentation. I'm currently planning on repeating this on the Online Meetup sometime in the future (probably January). Enjoy.

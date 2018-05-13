@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/16/Some-thoughts-on-organizing-a-large-jQuery-Mobile-project
+guid: 4618
 ---
 
 Ben Forta pinged me with an interesting question (and when the Forta pings you, you respond) that I thought I'd share here. It's one of those "best practices" questions that really has no best answer, so as always, I'm very eager to hear what my readers have to say. Don't feel afraid to tell me I'm completely off my rocker - that makes for fun conversation. Ok, so the question:

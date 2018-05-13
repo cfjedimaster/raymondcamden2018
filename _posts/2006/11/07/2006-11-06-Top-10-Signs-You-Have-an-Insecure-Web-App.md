@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/11/07/Top-10-Signs-You-Have-an-Insecure-Web-App
+guid: 1637
 ---
 
 Blogger Mike Sutton posted a very, concise list of things to look out for in terms of security and web applications:

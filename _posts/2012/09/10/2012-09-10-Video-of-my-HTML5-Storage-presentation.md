@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/10/Video-of-my-HTML5-Storage-presentation
+guid: 4727
 ---
 
 Last week I presented on HTML5 Storage in Omaha, and the locals were nice enough to video it! You can see the entire presentation below. As always, I'm open to criticisms and suggestions on how to improve it. 

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/14/Slides-code-and-recording-from-my-PhoneGap-Presentation
+guid: 4562
 ---
 
 Thanks again to the <a href="http://www.slcfug.org/">Salt Lake ColdFusion User Group</a> for inviting me to speak to them on PhoneGap. Below you can find the slide embed. You can watch the recording URL here: <a href="http://experts.adobeconnect.com/p8x6r7cl6te/">http://experts.adobeconnect.com/p8x6r7cl6te/</a>. You can also download the sample apps as well. If anyone has any followup questions or suggestions for improvements, please let me know.

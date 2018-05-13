@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/05/06/Adobe-Developer-Week-recordings
+guid: 2810
 ---
 
 If you couldn't make any of the Adobe Developer Week meetings, the recordings have been released here:

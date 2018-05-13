@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/03/05/my-experience-working-with-jekyll
+guid: 5780
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/03/04/hosting-static-sites-with-surge">blogged</a> about the new static-site hosting service, <a href="http://surge.sh">Surge</a>. In order to test it, I decided to rebuild <a href="http://www.javascriptcookbook.com">JavaScript Cookbook</a> as a static site. (Which, to be honest, was a silly decision. Surge takes about five minutes to use. My rewrite took about five hours. ;) I decided to give <a href="http://jekyllrb.com/">Jekyll</a> a try and I thought I'd share my thoughts about the platform. Obviously I've just built one site with it so take what I say with a grain of salt, but if you're considering setting up a static site, maybe this post will be helpful.

@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix,ionic]
 banner_image: 
 permalink: /2015/07/24/saucedb-handling-the-sauce-view
+guid: 6530
 ---
 
 "Handling the Sauce view" - how immature would I sound if I said that title made me laugh? Today's post isn't terribly exciting. I'm basically going to cover how I got one more screen in my app working. But I'm ok with this being kind of boring. As I document this process, somethings will be complex and some will simple. This is one of the simple items that I think is still useful to cover. 

@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/07/13/LocalStorage-Example-Storing-previous-searches
+guid: 4677
 ---
 
 I've made it clear that I'm a huge fan of <a href="https://developer.mozilla.org/en/DOM/Storage">LocalStorage</a>. While sitting in the Houston airport for many hours this week, I decided to whip up a little example that demonstrates one of the practical uses for this feature. I built a simple Ajax-based search page and then added LocalStorage as a way to remember your previous searches. This isn't anything special, but I think it's another good example of the feature. Let's begin by taking a look at the application before any use of LocalStorage.

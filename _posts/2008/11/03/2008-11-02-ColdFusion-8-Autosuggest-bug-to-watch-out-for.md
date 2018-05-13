@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/03/ColdFusion-8-Autosuggest-bug-to-watch-out-for
+guid: 3078
 ---
 
 Here is an odd bug a reader ran into this weekend involving ColdFusion 8's new autosuggest feature. It was difficult to debug but ended up being quite trivial. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/15/ColdFusion-9-and-CFFEED
+guid: 3444
 ---
 
 I've complained (quite a bit) about some of the warts around the CFFEED tag. Looks like my complaining may have helped a bit. ColdFusion 9 adds a new feature to CFFEED that I think is pretty darn nice. 

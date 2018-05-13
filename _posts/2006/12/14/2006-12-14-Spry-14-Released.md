@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/14/Spry-14-Released
+guid: 1713
 ---
 
 The site still says 1.3, but you can now download <a href="http://www.macromedia.com/go/labs_spry_download">Spry 1.4</a>. I'll have some examples later on.

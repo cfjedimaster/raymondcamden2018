@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/06/Anyone-playing-with-iText-and-ColdFusion
+guid: 4222
 ---
 
 Anyone out there playing with <a href="http://www.itextpdf.com/">iText</a>? iText is an open source library that allows for the creation and manipulation of PDFs via Java. I've heard of it before but have never really played with it. I find cfdocument and cfpdf to be good enough for most of my needs, but earlier this week a user wrote in asking about how to use iText to get comments from a PDF. While cfpdf supports DDX, an XML based language that does PDF magic via an embedded Livecycle engine in ColdFusion, it specifically blocks you from running DDX to get comments. I'm not going to complain about this as I'm still surprised as to how much you <i>can</i> do via DDX, but it would be nice to have a work around. iText itself is also bunded within ColdFusion. That means you can use it without installing any additional Jars or using JavaLoader. So an example:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/11/Fun-little-AJAXInternet-Explorer-issue-with-cool-Spry-fix
+guid: 1581
 ---
 
 A few days ago I mentioned a little issue I ran into with Spry. Today I was helping my friend diagnose some issues with his application and IE and I ran into a new little bug. This isn't a Spry issue - but just IE in general.

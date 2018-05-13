@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/19/Two-new-ColdFusion-Resources
+guid: 4398
 ---
 
 First up is <a href="http://cfgloss.com/">Gloss</a>, a new ColdFusion reference that includes both built in functions as well as <a href="http://www.cflib.org">CFLib.org</a> UDFs. So a search for email, for example...

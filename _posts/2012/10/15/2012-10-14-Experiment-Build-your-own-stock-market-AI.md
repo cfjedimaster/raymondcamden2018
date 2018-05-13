@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2012/10/15/Experiment-Build-your-own-stock-market-AI
+guid: 4758
 ---
 
 I had an interesting idea last night. I'm not saying it is a good idea - my brain is having some serious weirdness going on with the seven hour time change. But good idea or not I built it and figured I'd share it.

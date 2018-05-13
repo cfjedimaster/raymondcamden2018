@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/31/Quick-ColdFusion-Builder-Tip-Make-it-recognize-HBMXML-Files
+guid: 3583
 ---
 
 I'm currently fighting (ok, not fighting - debugging - it just feels like a fight) an issue with a ColdFusion 9 site that makes heavy use of ORM. I thought it might help to take a look at the Hibernate config files generated, so I added this to my ormSettings structure in Application.cfc:

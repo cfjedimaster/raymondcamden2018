@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/13/Happy-Anniversary-to-me-and-my-wife
+guid: 1207
 ---
 
 So, I know I don't post many off topics entries here (was that lightning I just heard?) but today is a very special day - my wedding anniversary. Normally I wouldn't bother sharing, but I'm proud to say my wife and I hit the ten year mark today. 

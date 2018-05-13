@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/04/Automating-watermarking-of-images-with-ColdFusion
+guid: 3837
 ---
 
 Earlier this week Bobby H. started an <a href="http://www.houseoffusion.com/groups/cf-talk/thread.cfm/threadid:61445#334299">interesting thread</a> over on cf-talk. He was using ColdFusion image processing to automatically watermark a random image in a directory. This worked ok for him, but he had some odd caching issues. One of the things I recommended (and others) was to look at a solution that would permanently  watermark the images. ColdFusion is fast and all, but any time you work with files your going to have <i>some</i> slow down. Bobby agreed, but also wanted to keep the convenience of just being able to FTP up an image and have it automatically become one of watermarked images his could could randomly chose from. I thought I'd whip up two quick examples of how this could be done. There are other ways as well, but hopefully these examples will be useful for others.

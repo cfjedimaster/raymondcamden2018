@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/14/Serving-up-CFIMages-via-Image-Tags-and-a-NonCF-Friday-contest
+guid: 2347
 ---
 
 Todd Sharp recently pinged me about an interesting problem. He was working with Images generated in ColdFusion 8 and was trying to use this imaga via the HTML IMG tag, like so:

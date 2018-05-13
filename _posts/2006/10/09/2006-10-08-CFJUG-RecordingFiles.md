@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/09/CFJUG-RecordingFiles
+guid: 1575
 ---
 
 Sorry for the delay on this, but here is the recording URL and files for my last ColdFusion Jedi User Group meeting on application security.

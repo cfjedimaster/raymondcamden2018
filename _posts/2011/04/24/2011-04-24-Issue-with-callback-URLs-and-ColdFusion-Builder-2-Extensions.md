@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/04/24/Issue-with-callback-URLs-and-ColdFusion-Builder-2-Extensions
+guid: 4205
 ---
 
 One of the interesting new features of ColdFusion Builder 2 (and to me, <b>the</b> critical feature) is the use of a callback system to execute commands. I need to do a full blog entry on it, but for now, just know that the editor sends to extensions a special URL. Your extension can hit this URL with XML to perform commands with the editor. So as a simple example, I can send XML to the callback URL to request a refresh on a folder if I've added some files to it.

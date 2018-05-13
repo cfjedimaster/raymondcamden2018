@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/01/29/suggestions-for-learning-json
+guid: 5603
 ---
 
 Yesterday a reader asked me a question about one of my blog posts. In the blog post, I described a Cordova application that would retrieve a list of URLs from a server. It would then fetch each URL and download the resource to the device. I casually described the data as "an array of URLs in JSON" and assumed everyone would know what that meant. Of course, not everyone <i>does</i> know what JSON means.

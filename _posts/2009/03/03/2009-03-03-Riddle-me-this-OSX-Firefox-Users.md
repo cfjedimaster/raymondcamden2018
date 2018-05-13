@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2009/03/03/Riddle-me-this-OSX-Firefox-Users
+guid: 3261
 ---
 
 As the manager of <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>, I view a heck of a lot of RSS feeds. I've noticed that the description field is always (nearly) impossible to read:

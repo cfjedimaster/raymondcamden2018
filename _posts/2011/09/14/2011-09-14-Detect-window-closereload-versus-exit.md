@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/09/14/Detect-window-closereload-versus-exit
+guid: 4364
 ---
 
 This was an interesting question that came in from a reader:

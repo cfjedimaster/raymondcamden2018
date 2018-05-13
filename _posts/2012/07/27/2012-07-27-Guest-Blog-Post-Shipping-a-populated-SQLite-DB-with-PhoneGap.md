@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/07/27/Guest-Blog-Post-Shipping-a-populated-SQLite-DB-with-PhoneGap
+guid: 4687
 ---
 
 This is my second "Guest Blog Post" for the month. Sorry I've been a bit slow on my own content lately! Today's post comes from Scott Buckel. He and I shared a conversation earlier this month about databases and PhoneGap. PhoneGap makes it pretty darn easy to create and work with a database in your application. What isn't so trivial is actually shipping a prepopulated database with the app itself. I wasn't able to help him as much as I'd like - but he worked at it until he came up with a solution. Here is what he discovered.

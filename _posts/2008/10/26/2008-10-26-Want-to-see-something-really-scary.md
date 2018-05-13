@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2008/10/26/Want-to-see-something-really-scary
+guid: 3070
 ---
 
 It's almost Halloween and this year I'm trying my best to enjoy it as much as possible. Halloween seems to be slowly fading away as everything seems to be pushing towards Christmas insanely early. Sure Halloween is more a kids thing, and maybe I shouldn't care as much now that I'm an old guy, but I <i>really</i> feel like getting into the mood this year. I visited a haunted house earlier in the week. Our house is decorated (my wife found some awesome and unique decorations this year) and I can't wait to go out trick or treating with my young ones.

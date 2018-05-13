@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/10/30/Using-jQuery-to-create-a-dynamic-time-countdown
+guid: 4413
 ---
 
 A user wrote in with an interesting request. He wanted to take a form field, and as a user entered a date in it, display the "time till" the entered date. So for example, if I were to enter tomorrow, let's say an hour from now, we would get a message stating this was one day, one hour away. To make things even more interesting, he wanted to make it dynamic. So as you sat there and watched, the difference would actually count down. Here's how I solved it - and as always - I'm open to folks rewriting this in a better way! (If you do, please use pastebin, don't post your code in the comment.)

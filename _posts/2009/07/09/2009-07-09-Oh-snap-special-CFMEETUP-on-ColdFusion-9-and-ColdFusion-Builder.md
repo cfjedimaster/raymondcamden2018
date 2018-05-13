@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/09/Oh-snap-special-CFMEETUP-on-ColdFusion-9-and-ColdFusion-Builder
+guid: 3429
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//surprise.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> Just got a special note from the Online

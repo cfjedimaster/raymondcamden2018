@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/09/Ask-a-Jedi-cfupdate-versus-cfquery
+guid: 1456
 ---
 
 James asks, 

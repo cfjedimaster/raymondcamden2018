@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/26/This-blog-this-week
+guid: 1356
 ---
 
 Expect postings to be extremely slim this week as I'll be at CFUNITED starting tomorrow morning. This is assuming D.C. isn't under water tomorrow. (You would think with all that hot air...)

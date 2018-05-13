@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/08/Another-Charting-Option-JFreeChart
+guid: 2640
 ---
 
 I've been blogging quite a bit lately on cfchart and other charting options. I just ran across a blog post by Gary Gilbert that may be of interest:

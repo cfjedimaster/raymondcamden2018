@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/02/Variable-Type-Gotchas-ColdFusion-List-Delimeters
+guid: 1995
 ---
 
 During my <a href="http://ray.camdenfamily.com/index.cfm/2007/5/1/CFJUG-Recording-and-Materials">presentation</a> earlier this week, I brought up a few 'Gotchas' that ColdFusion developers may not be aware of. Today I'm going to review some of these for those who couldn't make the presentation.

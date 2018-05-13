@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/27/ColdFusion-Unconference-Sessions-Announced
+guid: 3925
 ---
 
 So this was actually announced quite a bit earlier on Twitter, but as I've been bug hunting all day I didn't get a chance to blog about it till now. You can now find the official list of sessions and speakers for the ColdFusion Unconference here:

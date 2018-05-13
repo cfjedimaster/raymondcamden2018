@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/15/No-not-ColdFusion-9-not-BlogCFC-6-but-new-update-to-BlogCFC-5
+guid: 3443
 ---
 
 Forgive the quick repost - I added this to BlogCFC.com, but wanted to ensure it got the widest distribution so I had as many testers as possible.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/01/01/My-2011-Resolutions
+guid: 4068
 ---
 
 In no particular order, this is what I'm hoping to accomplish in the next twelve months...

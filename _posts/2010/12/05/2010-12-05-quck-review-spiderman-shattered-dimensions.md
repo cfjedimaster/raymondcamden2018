@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2010/12/05/quck-review-spiderman-shattered-dimensions
+guid: 4042
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_top&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=raymondcamden-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B003ESDQW4" style="width:120px;height:240px;margin-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe> Before I added this game to my wishlist I had heard that - for the most part - all Spider-Man video games sucked. I'm not sure how true that is but I can say the last time I played Spider-Man on a console it had a <a href="http://www.siliconera.com/2007/05/03/retro-revival-spider-man-on-the-2600/">wood finish</a> to it. But I had heard good things about Shattered Dimensions and the concept intrigued me. The basic idea behind Shattered Dimensions is that you get to play four different versions of Spider-Man. You got your "regular" Amazing Spider-Man, your Ultimate Spider-Man, Spider-Man 2099, and the Noir Spider-Man. Each of these different versions have their own story and unique design, but gameplay wise only the Noir version is really unique. For the most part you'll be spending your time beating bad guys up when in the non-Noir worlds and playing a stealth game as the Noir Spider-Man. 

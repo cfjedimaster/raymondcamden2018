@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/09/Ask-a-Jedi-Handling-a-recurring-billing-date
+guid: 3714
 ---
 
 Ellis asks:

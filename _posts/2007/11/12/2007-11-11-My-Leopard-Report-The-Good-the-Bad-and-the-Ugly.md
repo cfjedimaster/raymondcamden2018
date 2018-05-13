@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/11/12/My-Leopard-Report-The-Good-the-Bad-and-the-Ugly
+guid: 2468
 ---
 
 After reading Matt Woodward's <a href="http://www.mattwoodward.com/blog/index.cfm?event=showEntry&entryId=2AE8CF9F-032E-6350-5004C360EB3D9836">update</a> on his Leopard experience, I thought I'd share a bit of mine.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/27/Implicit-arraystruct-and-function-calls
+guid: 2562
 ---
 
 I'm thinking this is something folks have blogged about before, but I just ran into it today. When using array and struct implicit creation, you cannot use the syntax directly in a udf/method call. Let me explain. Consider this example:

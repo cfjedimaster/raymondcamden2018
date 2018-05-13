@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/18/Cool-Spry-Tip
+guid: 2422
 ---
 
 I missed this from two versions ago or so, but Spry has a new attribute to make master/detail work a bit easier. In the past, you would typically use code like this to display a set of data and allow a user to click to load a detail region:

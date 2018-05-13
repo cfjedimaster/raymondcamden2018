@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/10/12/Going-to-Germany-for-CFCAMP-but-more-importantly-what-do-I-eat
+guid: 4756
 ---
 
 Tomorrow I board a plane for Munich, Germany and my speaking engagement at <a href="http://www.cfcamp.org">CFCAMP</a>. While I'm terribly excited about presenting, I'm slightly more excited about the food. Oh, and apparently they make good beer in Germany too.

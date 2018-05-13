@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/02/Frameworks-Conference-Intro-to-Object-Factories-Rob-Gonda
+guid: 1811
 ---
 
 Talked about how developers moved to using CFCs and ended up with "The Big Object." (Take a look at BlogCFC.) 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/16/ColdFusion-Newbie-Contest-Announced-Monster-Maker
+guid: 1962
 ---
 
 Today I am happy to announce a new ColdFusion Newbie(Beginner) Contest. The last <a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">beginner's contest</a> was held almost two years ago. I've had a few more since then but nothing like the original one, so hopefully the  participation will perk up a bit. I've got some great prizes, but I'm not going to announce them until I finalize the list. So what's the contest?

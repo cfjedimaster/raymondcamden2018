@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/07/Continuing-my-Fusebox-study
+guid: 1824
 ---
 
 In my <a href="http://ray.camdenfamily.com/index.cfm/2007/2/5/Installing-Fusebox">last entry</a> I talked about how to install the Fusebox framework and how to create a basic Fusebox application install using the skeleton. I confirmed that the skeleton worked (you can see it <a href="http://ray.camdenfamily.com/skeleton">here</a>) and now I want to dig down a bit more into what actually goes on when you run the application.

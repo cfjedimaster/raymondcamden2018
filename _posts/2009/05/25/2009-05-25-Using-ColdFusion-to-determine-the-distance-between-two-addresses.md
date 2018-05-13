@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/25/Using-ColdFusion-to-determine-the-distance-between-two-addresses
+guid: 3369
 ---
 
 I'm not sure this is extremely accurate, or useful, but I've wanted to write up a quick demo on this for a while, so today was the day. The question is simple. Given two addresses, is it possible to find the distance between them? Since the answer to "Can you do X in ColdFusion" is always yes (warning, I may be a bit biased), here is the code I used to demonstrate this.

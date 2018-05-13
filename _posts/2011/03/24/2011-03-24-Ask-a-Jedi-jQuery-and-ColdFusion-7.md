@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/03/24/Ask-a-Jedi-jQuery-and-ColdFusion-7
+guid: 4169
 ---
 
 Sue asks:

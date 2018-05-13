@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/14/Ask-a-Jedi-Building-a-Template-System-in-ColdFusion
+guid: 849
 ---
 
 This question came in this morning, and while I have about two hundred questions in front of it, it was so interesting I had to cover it immidiately. Dave asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/12/Firebug-Tip-When-Ajax-Calls-Go-Bad
+guid: 2878
 ---
 
 Soon to be a new Fox special - this is something that's been bugging me for quite some time. I use Firebug every single day, but I've noticed that it doesn't really keep a history of events. Why do I need a history? I've noticed that in some situations, if my code does an Ajax call to foo.cfm, and foo.cfm throws a ColdFusion exception, then the browser may go to a new page. So for example, imagine this link:

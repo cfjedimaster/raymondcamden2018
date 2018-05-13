@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/04/Did-you-know-Adobe-had-a-Product-Security-Incident-Response-blog
+guid: 3421
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//psirt.png" align="left" style="margin-right:10px;margin-bottom:10px">

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/05/ColdFusion-Zeus-POTW-XPathXLST-Updates
+guid: 4483
 ---
 
 For the most part, I try to avoid XML. I almost always go towards using JSON - both as a consumer and a producer. That being said, probably the only thing I find cool about XML is XPath and XSLT. I haven't used XSLT much, but XPath can be a real useful tool. It allows you to perform queries against XML data (something you can't do with JSON as far as I know). In ColdFusion Zeus, we've upgraded both XSLT and Xpath to version 2 of the specification. Here's some details on this update.

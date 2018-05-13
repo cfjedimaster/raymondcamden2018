@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/12/22/More-on-Lafayette-Fiber-Battle
+guid: 988
 ---
 
 If you enjoyed the <a href="http://ray.camdenfamily.com/index.cfm/2005/12/20/BellSouth--Thanks-for-the-Suit">earlier post</a> with the anti-BellSouth X-Mas jingle, you can found even more at their new web site:

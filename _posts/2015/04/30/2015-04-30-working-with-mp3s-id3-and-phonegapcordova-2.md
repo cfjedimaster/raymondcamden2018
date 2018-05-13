@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/04/30/working-with-mp3s-id3-and-phonegapcordova-2
+guid: 6093
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/04/29/working-with-mp3s-id3-and-phonegapcordova">blogged</a> about using MP3s and ID3 information in a PhoneGap/Cordova application. Today I've taken the initial proof of concept I built in that demo and updated to make use of the <a href="http://ionicframework.com">Ionic framework</a>. I've also a few other features to make the application a bit more applicable to real world usage. Finally, I've also uploaded it my GitHub repo (along with a copy of the last version) for you to use in your own applications. Before we get into the code, let's take a look at the visual updates.

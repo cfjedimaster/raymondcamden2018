@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/20/Building-your-first-ModelGlue-application-part-5
+guid: 1158
 ---
 
 In the <a href="http://ray.camdenfamily.com/index.cfm/2006/3/16/Building-your-first-ModelGlue-application-part-4">last entry</a>, I finally showed you how to hook up model information (in this case the model handled our User data) to the Model-Glue controller. This let you logon to the system. Now I need to modify things a bit to let you actually register for the site. Most sites will have features like "Request a Password", but in keeping with things simple, I'm only building a logon form and a register form. If you forget your password, your out of luck. (Although I am planning some entries that take place place <i>after</i> the application is done, so this may be one of the improvements I add.)

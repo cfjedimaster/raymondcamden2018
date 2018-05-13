@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/12/Programmatically-select-a-row-in-CFGRID
+guid: 4193
 ---
 
 Ernie asked me if it was possible to select a row in CFGRID via JavaScript. I coulda sworn I had covered this before, but my search-fu failed to turn it up. Anyway, here is a super quick example of how to do it. It's works with ColdFusion 9 only - not ColdFusion 8. (Not as far as I know since the Ext API changed.)

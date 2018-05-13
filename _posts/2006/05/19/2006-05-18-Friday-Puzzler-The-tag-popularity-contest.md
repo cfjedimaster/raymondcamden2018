@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/19/Friday-Puzzler-The-tag-popularity-contest
+guid: 1278
 ---
 
 Today's contest is not only simple, but (hopefully) useful. Write a UDF that will take a string of CFML code as input. The UDF will parse the string for CFML tags. It will then return a  result set that includes each tag used (without arguments) and the number of times it is used. This could create a report that looks like so:

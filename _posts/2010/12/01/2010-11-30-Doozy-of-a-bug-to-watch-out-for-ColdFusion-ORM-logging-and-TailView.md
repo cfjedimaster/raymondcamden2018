@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/01/Doozy-of-a-bug-to-watch-out-for-ColdFusion-ORM-logging-and-TailView
+guid: 4033
 ---
 
 Wow, so this one came out of left field. Earlier this week I looked into playing with secondary caching in ORM. I've only scratched the surface of this yet, but I'm amazed at how easy it is to use and how quickly it can begin to increase your performance. I'll try to gather some URLs later but that's not the point of my post here. While testing my site changes I it suddenly stopped responding. I could hit CFMs outside of my site and the CF Admin just fine. But any request for my site just hung. I restarted ColdFusion but it didn't help. Finally I did a complete machine restart and it worked - but only for a few requests. At this point I did what everyone should do - hit up the Server Monitor. I confirmed that my requests were hanging and confirmed in the stack trace that they were stuck on an ORM related function. Next I went to the Snapshots tab and generated a snapshot. The snapshot was large... and pretty much 100% incomprehensible. Luckily I've got smart friends.

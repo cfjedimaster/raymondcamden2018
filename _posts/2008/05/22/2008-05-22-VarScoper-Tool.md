@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/22/VarScoper-Tool
+guid: 2839
 ---
 
 So now that I've begun to use <a href="http://varscoper.riaforge.org">VarScoper</a> I've really been surprised at how bad I am with var scoping. I mean - I'm the guy always complaining about other developers forgetting to var scope. But that's ok. I'm just happy I have the tool. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/29/ColdFusion-101-Sorting-Directory-Paths-in-ColdFusion
+guid: 738
 ---
 
 A reader asked how they could sort a set of directory paths in ColdFusion. The answer isn't that complex, and like most things in ColdFusion it can be done multiple ways. I thought it would be interesting to demonstrate as it may show a few tags/functions that beginners may not be familiar with. 

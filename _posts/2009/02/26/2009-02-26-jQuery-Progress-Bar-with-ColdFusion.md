@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/26/jQuery-Progress-Bar-with-ColdFusion
+guid: 3254
 ---
 
 I mentioned in yesterday's <a href="http://www.raymondcamden.com/index.cfm/2009/2/25/jQuery-Sortable-with-ColdFusion">blog posting</a> on the Sortable plugin that I was taking a closer look at jQuery UI and how I could integrate it with ColdFusion. I've taken a closer look at another of the widgets and thought I'd share my findings. (Also please note a personal request at the end.)

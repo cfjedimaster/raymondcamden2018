@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/07/Workarounds-for-things-not-supported-in-ColdFusion-Script
+guid: 4187
 ---
 
 Yesterday a friend on twitter was upset by the fact there was no CFWDDX support within ColdFusion scripting. This got me thinking other things not yet supported and ways that developers can work around them. While scripting has gotten <i>very</i> close to being "100% complete" under ColdFusion 901, there are definitely a few things left you still cannot do (WDDX being one of them) and I thought a discussion about ho to handle that might be nice.

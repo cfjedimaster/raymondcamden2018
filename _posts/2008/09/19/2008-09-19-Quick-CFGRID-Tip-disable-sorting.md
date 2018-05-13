@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/19/Quick-CFGRID-Tip-disable-sorting
+guid: 3024
 ---
 
 I really feel like this is something I've blogged before, or someone else, but Google is failing to find the result for me so I figure a quick blog entry is in order. How do you disable sorting for one column using the new HTML-based grids in ColdFusion 8?

@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/10/29/My-Modern-Web-Conference-presenation-is-now-available-online
+guid: 5339
 ---
 
 <p>

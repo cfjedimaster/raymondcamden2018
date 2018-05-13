@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/24/Listing-your-Twitter-followers-by-popularity-using-50-lines-of-ColdFusion
+guid: 3953
 ---
 
 Earlier this morning <a href="http://www.joshuacyr.com/">Joshua Cyr</a> and I had a discussion about a Twitter feature we would both like to see - the ability to list your followers by their popularity - ie, by <i>their</i> number of followers. Once you get over a certain number of followers there is no real easy way to do this. Turns out this is rather simple if you use Twitter's API. What follows is an ugly - but effective - script that will get all of your followers and then sort them by their followers. I banged this out in about 15 minutes at lunch so pardon the lack of proper error handling or a decent UI. (But let's be honest - if I had all week to work on it I'd just make it uglier!)

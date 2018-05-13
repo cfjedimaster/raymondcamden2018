@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2015/01/14/know-wordpress-need-some-advice
+guid: 5550
 ---
 
 Ok, time to throw in the towel and ask for help. ;) After upgrading the virtual server this blog runs on to a better level of hardware (1.7 gigs of RAM versus 0.6), my uptime improved quite a bit. But I still get - a few times a week - the infamous "Error Establishing Database Connection" issue. I've got a monitor set up for it now so I can reboot quickly, but last night it happened about an hour and a half after I went to bed so it was down for hours.

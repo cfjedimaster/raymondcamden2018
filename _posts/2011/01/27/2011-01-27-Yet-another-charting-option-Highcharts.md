@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/27/Yet-another-charting-option-Highcharts
+guid: 4096
 ---
 
 A reader emailed me earlier this week and suggested I take a look at <a href="http://www.highcharts.com/">Highcharts</a>, a JavaScript charting solution created by  Torstein Hønsi out of Norway. It's an interesting package and I'm glad the reader suggested I take a look.

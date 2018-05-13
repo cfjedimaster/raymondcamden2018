@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2010/12/14/review-javascript-patterns
+guid: 4053
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_top&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=raymondcamden-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=0596806752" style="width:120px;height:240px;margin-right:5px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe> In my (seemingly) never-ending quest to improve my JavaScript skills, I recently received a copy of JavaScript Patterns by Stoyan Stefanov. While I feel <i>very</i> comfortable with jQuery and simple Ajax applications, I feel like I'm still missing... something in terms of constructing JavaScript heavy applications, especially those used within Adobe AIR applications. A few months back I reviewed <a href="http://www.raymondcamden.com/index.cfm/2010/6/15/Review-ObjectOriented-JavaScript">Object-Oriented JavaScript</a> which was also by Stefanov. JavaScript Patterns is an excellent followup and I'd definitely recommend it.

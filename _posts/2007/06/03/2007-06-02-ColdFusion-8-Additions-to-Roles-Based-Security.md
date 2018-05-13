@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/03/ColdFusion-8-Additions-to-Roles-Based-Security
+guid: 2085
 ---
 
 When roles based security was added to ColdFusion MX, I was a pretty big fan of it. Almost all of my open source applications make use of cflogin. Since that time though my relationship with the feature has soured a bit. There were numerous security issues, and I had wished for more out of the box support for basic security features. ColdFusion 8 improves this feature. Read on to find out what has been added - and why I'm still a bit wary of using it.

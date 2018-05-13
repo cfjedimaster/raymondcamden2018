@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/14/Reminder-Macrochat-TODAY
+guid: 773
 ---
 
 Do not forget that my Macrochat, <a href="http://www.macromedia.com/cfusion/event/index.cfm?event=detail&id=288085&loc=en_us">Validating Input Parameters</a>, will be held later today. Here is the description I wrote for the user group folks:

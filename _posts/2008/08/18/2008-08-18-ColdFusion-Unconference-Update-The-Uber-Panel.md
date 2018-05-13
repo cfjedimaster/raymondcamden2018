@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/18/ColdFusion-Unconference-Update-The-Uber-Panel
+guid: 2976
 ---
 
 Just a quick note to remind folks about the <a href="http://www.raymondcamden.com/page.cfm/ColdFusion-Unconference">ColdFusion Unconference</a> coming to MAX 2008. I've filled a few more slots in the last week but I'm still looking for additional speakers.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/25/Decorating-Eye-for-the-Transfer-Guy
+guid: 3121
 ---
 
 Today I get to talk about my favorite Transfer topic (although events may supplant it) - Decorators. No, I'm not talking about the people who come in and hang wallpaper or rearrange your furniture. Rather, decorators in Transfer allow you to extend and build upon the TransferObjects automatically created for you when you get data via Transfer.

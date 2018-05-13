@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/04/03/Dynamically-Creating-CSV-Files-on-the-Client
+guid: 5191
 ---
 
 <p>

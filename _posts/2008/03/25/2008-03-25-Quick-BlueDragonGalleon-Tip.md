@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/25/Quick-BlueDragonGalleon-Tip
+guid: 2726
 ---
 
 I was testing <a href="http://galleon.riaforge.org">Galleon</a> under BlueDragon 7.0.1 and ran into an odd issue. My queries were being returned with the aliases ignored. Ie, I'd do

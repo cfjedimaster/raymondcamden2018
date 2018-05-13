@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/14/Triple-Related-Selects-and-interesting-CFDIV-trick
+guid: 3015
 ---
 
 Last week I helped a user who was having problems with a multi-related select application. You've probably seen the ColdFusion 8 related selects example before, where one drop down drives the content for another. His code was a bit more complex since he had three drop downs in play instead of two. The main problem he had though was in dealing with the second and third selects when the page loaded. After selecting items in his drop downs everything worked fine, but that initial load kept throwing errors. 

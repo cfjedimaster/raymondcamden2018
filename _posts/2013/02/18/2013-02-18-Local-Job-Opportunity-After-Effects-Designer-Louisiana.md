@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/02/18/Local-Job-Opportunity-After-Effects-Designer-Louisiana
+guid: 4858
 ---
 
 Just passing this on. The company is one I've known for a while and is a darn cool local shop.

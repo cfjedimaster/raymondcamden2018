@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/11/Quick-followup-to-my-CFSpreadSheet-Samples
+guid: 4301
 ---
 
 A few weeks ago I blogged a few quick and simple CFSpreadSheet examples. (You can find links to them at the bottom of this blog post.) I was having an email conversation with a reader when an interesting technique came up. Given that you might want to generate random Excel files for different users, how would you ensure that one user doesn't get another user's file? For example, if you follow my <a href="http://www.raymondcamden.com/index.cfm/2011/6/1/ColdFusion-Sample--Create-an-Excel-File">first sample</a> you can see that the resultant Excel is saved to a file called myexcel.xls. Great, now what happens when two people run the application at the same time?

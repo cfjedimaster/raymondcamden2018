@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/22/Autosuggest-in-Spry-Working-with-ColdFusion
+guid: 2055
 ---
 
 A few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2007/5/18/Autosuggest-in-Spry">blogged</a> about how to do autosuggest in Spry. In that example, the autosuggest data was based on an XML file loaded as a Spry dataset. While this worked, it was pretty static. What would be more useful is if we could integrate with a database. There are a few options we can pass to the Spry Autosuggest feature to enable this.

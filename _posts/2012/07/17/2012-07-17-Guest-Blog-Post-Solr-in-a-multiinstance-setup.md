@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/07/17/Guest-Blog-Post-Solr-in-a-multiinstance-setup
+guid: 4681
 ---
 
 Michael Dawson sent this to me and asked if I could help let others know. I rarely use multi-instances myself so I haven't run into this, but hopefully this will help others. (And if Michael is wrong, let us know!)

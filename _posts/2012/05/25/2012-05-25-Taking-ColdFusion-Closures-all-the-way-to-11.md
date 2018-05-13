@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/05/25/Taking-ColdFusion-Closures-all-the-way-to-11
+guid: 4630
 ---
 
 I have to admit - closures in ColdFusion 10 were not terribly exciting to me. Don't get me wrong - I'm really happy they were added. Much like I was happy the engineers added implicit notation and other "syntax sugar". But it's not really a "feature" per se. It's there - I'm happy it's there - and my brain will just mentally keep it in mind as I write ColdFusion.

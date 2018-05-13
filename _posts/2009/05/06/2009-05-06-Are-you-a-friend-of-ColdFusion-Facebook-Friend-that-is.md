@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/06/Are-you-a-friend-of-ColdFusion-Facebook-Friend-that-is
+guid: 3343
 ---
 
 Just a quick reminder - ColdFusion has a presence on Facebook. If you are a FB addict you should consider becoming a friend of the group:

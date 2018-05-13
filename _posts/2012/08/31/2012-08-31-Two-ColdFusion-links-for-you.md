@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/08/31/Two-ColdFusion-links-for-you
+guid: 4721
 ---
 
 Quick Friday afternoon post for you:

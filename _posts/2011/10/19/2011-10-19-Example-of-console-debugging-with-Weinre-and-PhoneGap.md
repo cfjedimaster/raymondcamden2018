@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/19/Example-of-console-debugging-with-Weinre-and-PhoneGap
+guid: 4399
 ---
 
 I'm still struggling with the best way to do debugging of my PhoneGap apps. I had heard of <a href="http://phonegap.github.com/weinre/">weinre</a>, or Web Inspector Remote, but had not had a chance to get it running locally. Turns out PhoneGap hosts a remote server you can use for your testing. It's a bit tricky to get console messages up, but in case it helps others, I've created a quick video entry on how I got things working.

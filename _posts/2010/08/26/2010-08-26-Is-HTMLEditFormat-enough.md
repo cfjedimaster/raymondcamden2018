@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/26/Is-HTMLEditFormat-enough
+guid: 3923
 ---
 
 Patrick asks:

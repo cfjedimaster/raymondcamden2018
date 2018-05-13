@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/12/iPhone-20-Apps-my-thoughts-so-far
+guid: 2929
 ---
 
 So after all the <a href="http://www.raymondcamden.com/index.cfm/2008/7/11/So-far-iPhone-20-is-DOA">drama</a> yesterday, I did get to play a bit the App Store. Here are my impressions, and a tip or two, so far.

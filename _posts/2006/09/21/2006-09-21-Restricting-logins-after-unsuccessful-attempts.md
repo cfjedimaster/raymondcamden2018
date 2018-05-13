@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/21/Restricting-logins-after-unsuccessful-attempts
+guid: 1547
 ---
 
 I saw an article on <a href="http://www.dzone.com">dzone.com</a> today that talked about ways to restrict logins after a number of unsuccessful attempts. I thought I'd show a quick demo of how to do this in ColdFusion. This method is <b>not</b> perfect and I'll talk about alternatives. I will also link to the original article so you can see how it was done there.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/21/Best-of-CF9-MuralBuilder
+guid: 3691
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> Welcome to the <b>final</b> entry in the Best of CF9 contest! We are finally done. I'll be posting a wrap up and announcing the winners mid next week. In the meantime, please enjoy this final review written by Charlie Arehart.

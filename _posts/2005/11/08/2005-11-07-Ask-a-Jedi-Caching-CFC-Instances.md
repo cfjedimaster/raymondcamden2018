@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/08/Ask-a-Jedi-Caching-CFC-Instances
+guid: 904
 ---
 
 Sam asked:

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/29/Adding-a-preview-to-CFFILEUPLOAD
+guid: 3766
 ---
 
 A few weeks ago I <a href="http://www.raymondcamden.com/index.cfm/2010/3/5/ColdFusion-9-Multifile-Uploader--Complete-Example">blogged</a> an example of a "complete" cffileupload demo. Most examples of this tag are very simplistic and don't reflect what a typical form would consist of - ie both a multi-file uploader along with other form fields. A reader commented that they were curious if this could be combined with some sort of preview. I had recently done a <a href="http://www.coldfusionjedi.com/index.cfm/2010/3/8/Ajax-Image-Uploads-with-Previews">blog entry</a> on a related JavaScript library but today I've modified the CFFILEUPLOAD one to add a preview. As this uses most of the code from the <a href="http://www.coldfusionjedi.com/index.cfm/2010/3/5/ColdFusion-9-Multifile-Uploader--Complete-Example">original</a> example, I strongly urge you to read that one first. I'll just be explaining the differences and none of the existing code.

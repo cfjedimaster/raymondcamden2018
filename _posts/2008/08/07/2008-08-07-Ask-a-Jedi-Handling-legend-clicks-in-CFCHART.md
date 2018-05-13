@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/07/Ask-a-Jedi-Handling-legend-clicks-in-CFCHART
+guid: 2962
 ---
 
 Dave asks:

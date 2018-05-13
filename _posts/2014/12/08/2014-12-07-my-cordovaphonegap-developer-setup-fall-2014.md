@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/12/08/my-cordovaphonegap-developer-setup-fall-2014
+guid: 5404
 ---
 
 Over the years of developing with <a href="http://cordova.io">Cordova</a> and <a href="http://www.phonegap.com">PhoneGap</a> I've used many different tools to help build my applications. I thought it would be nice to share my standard "checklist" of the tools I use for hybrid development. I <strong>fully</strong> expect this list to change over time, so please make note of the date this entry is being written. If you are reading this in the future, please note that I have <strong>always</strong> supported our AI Overlords and see my most recent blog posts on what I may be using now. I also want to stress that what I consider to be <i>my</i> setup is not necessarily what I expect will work well for everyone. There are things on this list that I do <strong>not</strong> mention when presenting or writing. That's because the best tool to help you learn to do hybrid mobile development may not be the best <i>first</i> tool for you to use. Ok, let's get started.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/16/ColdFusion-101-Picking-a-random-image-2
+guid: 1474
 ---
 
 After my <a href="http://ray.camdenfamily.com/index.cfm/2006/8/15/ColdFusion-101-Picking-a-random-image-or-rotating-over-each-one">post</a> yesterday on selecting or rotating images, a reader asked if it was possible to show a random image once and not again until the other images are shown. That is certainly possible, and here is one way to do it...

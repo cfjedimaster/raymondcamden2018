@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/10/Quick-example-of-scriptbased-FTP-operations
+guid: 4359
 ---
 
 In the 10+ years I've used ColdFusion I think I've needed to use FTP once, but after reading an article today on <a href="http://ldeveloper.blogspot.com/2011/09/fast-php-example-ftp-file-upload.html">FTP in PHP</a> I thought I'd take a quick look at using the FTP component that shipped with ColdFusion 9. Here's what I found.

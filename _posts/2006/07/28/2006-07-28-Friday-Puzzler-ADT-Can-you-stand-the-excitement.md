@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/28/Friday-Puzzler-ADT-Can-you-stand-the-excitement
+guid: 1437
 ---
 
 After <a href="http://ray.camdenfamily.com/index.cfm/2006/7/21/Friday-Puzzler-All-Fish-Must-Die">last week's Fish Killing</a> puzzle, I thought it was time to take it down a notch and try something a bit less exciting (and harmful). Today's puzzle will have you build an Abstract Data Type, basically, some code that will act like a built in data type (think struct, array, etc), but with distinctive behavior. 

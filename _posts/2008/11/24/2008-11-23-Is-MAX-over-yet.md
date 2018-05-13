@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/11/24/Is-MAX-over-yet
+guid: 3117
 ---
 
 Yes, I think it is. I finally got back home Saturday night after a very long, and very exciting, week at MAX. I spent the latter half of the week at <a href="http://www.broadchoice.com">Broadchoice</a> in some pretty intense meetings and am happy to be back in my office slinging code. In no particular order, here are my thoughts on MAX 2008.

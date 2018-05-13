@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/12/28/Providing-context-help-for-drop-downs-with-jQuery
+guid: 4065
 ---
 
 I'm working on updating the UI to <a href="http://groups.adobe.com">Adobe Gorups</a> (don't worry - it's not my design) and I came across an interesting issue. I've got a simple drop down of options the user can chose from but I want to provide some contextual help as well. So if you select an option I want to describe the option in greater detail. Here is a quick solution I came up with that makes use of custom data attributes and jQuery.

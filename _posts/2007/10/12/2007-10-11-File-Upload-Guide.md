@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/12/File-Upload-Guide
+guid: 2406
 ---
 
 About two months ago I was asked by a client to help her understand file uploads and ColdFusion. I wrote her up a document and then asked if I could blog it. She graciously agreed (I've been lucky in that regard - I've hard multiple clients pay me for work and then ask that I share it with the world. Clients rule!) and I've pasted the document below. It is very basic - but figured it may be useful to share. I've also included a PDF export.

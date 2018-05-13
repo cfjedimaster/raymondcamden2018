@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/02/Lots-of-Scorpio-ColdFusion-8-News
+guid: 1997
 ---
 
 The info on Scorpio (ColdFusion 8) just gets better and better...

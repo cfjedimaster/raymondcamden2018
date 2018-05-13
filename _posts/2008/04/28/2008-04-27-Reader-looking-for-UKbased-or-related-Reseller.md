@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/04/28/Reader-looking-for-UKbased-or-related-Reseller
+guid: 2792
 ---
 
 I'm just passing this on. I don't like to get into the 'find me a host' type conversations as it isn't an area I'm experienced in (and like religion, it has no final answer), but I figured this request was specific enough where maybe some of my European readers could help out. Anyway, on with the question:

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2011/04/29/How-do-jQuery-jQuery-UI-and-jQuery-Mobile-fit-together
+guid: 4214
 ---
 
 A few minutes ago @BradLawryk asked me on Twitter what the difference between jQuery and jQuery Mobile  was. Are they the same thing? Do they work together? Etc. I thought it might make sense to quickly explain how jQuery, jQuery UI, and jQuery Mobile relate to each other. This is my opinion of course so please feel free to chime in.

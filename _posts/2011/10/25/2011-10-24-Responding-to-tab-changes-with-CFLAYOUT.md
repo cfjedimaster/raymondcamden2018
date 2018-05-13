@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/25/Responding-to-tab-changes-with-CFLAYOUT
+guid: 4407
 ---
 
 Pete asked an interesting question about ColdFusion's CFLAYOUT tags. He was making use of a tabbed layout within a border layout control. He needed to refresh one of the layout panels when the tab control was modified. As with all questions in this area, I did my research by looking into the  Ext docs, which, unfortunately, Sencha makes it a pain in the rear to find. Here's the docs for <a href="http://docs.sencha.com/ext-js/3-4/">3.4</a>, but keep in mind ColdFusion is using 3.1. (<b>Edit:</b> Twitter user Maertsch sent me this <a href="http://extjs.cachefly.net/ext-3.1.1/docs/">link</a> for Ext 3.1.1 docs. It looks to be off the official Sencha site though. Anyone care to explain why Sencha is hiding their docs?) I knew there would be a way to listen in for tab changes, I just had to research what the event type was and how to listen for it. Here's how I solved Pete's question.

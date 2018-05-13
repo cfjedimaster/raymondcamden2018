@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/04/27/ColdFusion-Builder-2-adds-a-Free-Edition
+guid: 4211
 ---
 
 Looks like Todd Sharp beat me to the punch on Twitter (that's ok, I'm just going to bring the <a href="http://www.raymondcamden.com/index.cfm/2011/4/26/Bring-the-Misery-Hammer-down-on-your-trolls">misery hammer</a> into effect on him!) but for folks who aren't on I thought I'd share some exciting news. Adobe will be releasing ColdFusion Builder 2 soon, and one of the new features is an "Express" edition. After your 60 day trial ends (which you have to admit is a good long trial!), CFBuilder2 will revert to an Express Edition. Under this mode the following features will be disabled:

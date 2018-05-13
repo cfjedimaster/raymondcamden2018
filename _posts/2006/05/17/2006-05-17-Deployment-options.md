@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/05/17/Deployment-options
+guid: 1273
 ---
 
 Tom asked, 

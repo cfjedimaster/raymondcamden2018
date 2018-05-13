@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/09/Best-of-CF9-School-Directory
+guid: 3640
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry comes to us from Dale Severin. It was reviewed by <a href="http://www.remotesynthesis.com/">Brian Rinaldi</a>. His review was pretty nicely organized so I'm including it as is. Everything up till "Ray here" is straight from him. 

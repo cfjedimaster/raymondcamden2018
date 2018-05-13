@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/07/02/Adding-print-support-to-ColdFusion-Builder-Extensions
+guid: 3868
 ---
 
 While jogging this morning (I won't call what I do running, at best, it's fast shambling that would probably just barely keep me ahead of the zombie horde) it occurred to me that it would probably be trivial to add basic print support to ColdFusion Builder extensions. I'm not talking about the cfprint tag, but printing on your client machine. I whipped up the following quick demo. Since extensions use a "mini browser", shouldn't it be possible to just use JavaScript to print?

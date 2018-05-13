@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/29/CFUNITED-Review-Testing-ColdFusion-Applications
+guid: 1363
 ---
 
 Great presentation, and as always, it covers a topic that CF users simply do not pay attention to (myself inclded). Two very cool applications demonstrated in the presentation that I had not seen before:

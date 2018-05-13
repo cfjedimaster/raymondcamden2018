@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2011/02/11/Adding-Google-Streetview-to-ColdFusion-CFMAP
+guid: 4119
 ---
 
 A reader asked if it was possible to integrate Google's StreetView API with CFMAP. Turns out this was rather simple once you read the <a href="http://code.google.com/apis/maps/documentation/javascript/v2/services.html#Streetview">docs</a>. Here is a pretty simple example to get you started.

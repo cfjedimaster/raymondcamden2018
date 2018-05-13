@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/03/Cumulative-Hot-Fix-4-for-801
+guid: 3630
 ---
 
 A new cumulative hot fix for ColdFusion 8.0.1 has been released. This is number four. Details and download may be found here: <a href="http://kb2.adobe.com/cps/529/cpsid_52915.html">http://kb2.adobe.com/cps/529/cpsid_52915.html</a>

@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/04/Playing-with-PhoneGap-Try-the-Mega-Demo
+guid: 4379
 ---
 
 So yesterday was pretty exciting at MAX. I plan on doing a write up after everything is done, but I wanted to specifically talk a bit about the PhoneGap news. In case you didn't hear it, Adobe acquired Nitobi Software, the guys behind <a href="http://www.phonegap.com">PhoneGap</a>. PhoneGap allows you to take your HTML and JavaScript and deploy natively to the mobile platform. Between PhoneGap and Flex Mobile, you've got two really good options for mobile development. I've got a few blog posts planned for later in the week, but today I wanted to share a little project I've been working on called PhoneGapMega.

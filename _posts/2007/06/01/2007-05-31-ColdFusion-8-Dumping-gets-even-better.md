@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/01/ColdFusion-8-Dumping-gets-even-better
+guid: 2081
 ---
 
 If you ask most developers, I'd be willing to bet that they would say their favorite ColdFusion tag is cfdump. Without a doubt, cfdump is a developers dream. It can take <i>any</i> variable and display the values. ColdFusion 8 added some new features to this tag to make it even more powerful. Read on for details...

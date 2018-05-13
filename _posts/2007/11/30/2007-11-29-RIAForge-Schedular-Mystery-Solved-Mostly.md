@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/30/RIAForge-Schedular-Mystery-Solved-Mostly
+guid: 2506
 ---
 
 I've blogged a few times already about the <a href="http://www.riaforge.org">RIAForge</a> Schedular issue. People who registered at RIAForge were supposed to get one email a day for the categories they monitored. All of a sudden, about 2 weeks ago, three emails about an hour separated, started to go out. I was a bit slow to addressing this (hey, it was a holidays!), but I found it the problem.

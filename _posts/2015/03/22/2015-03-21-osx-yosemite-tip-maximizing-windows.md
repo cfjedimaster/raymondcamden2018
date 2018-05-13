@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2015/03/22/osx-yosemite-tip-maximizing-windows
+guid: 5852
 ---
 
 For the most part, upgrading to OS X Yosemite didn't cause any issues for me, but the one change that bugged the heck out of me (and made me question what in the heck Apple was thinking), was switching the action of clicking the green icon in app windows. Previously, this would maximize the window on your screen. Now, it takes you full screen. (And this is where I question Apple. In all my time watching developers, I rarely see them use full screen. Heck, I used it for the first time last week for a video, but in my day to day work, never.)

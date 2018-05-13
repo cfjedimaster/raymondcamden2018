@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2015/07/17/using-javascript-indexeddb-to-cheat-at-wordbrain
+guid: 6417
 ---
 
 Warning - what follows is a complete waste of time. Do not spend time reading this blog post. Still here? Of course you are. For the past few days I've been addicted to a cool little game called <a href="https://play.google.com/store/apps/details?id=se.maginteractive.wordbrain">WordBrain</a>. It is a simple idea. You're presented with a grid of letters and must find two words within it by drawing a 'path' from one letter to the next. I like word games, but oddly have never really played any on my mobile devices before. Now I know why - they're incredibly addictive. While playing a few days ago I found myself stuck on one particular puzzle. 

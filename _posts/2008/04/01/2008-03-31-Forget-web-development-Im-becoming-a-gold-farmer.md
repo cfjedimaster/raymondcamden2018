@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2008/04/01/Forget-web-development-Im-becoming-a-gold-farmer
+guid: 2743
 ---
 
 After many years in the web development business, I've decided it's time to move on. Why? Because I think life as a World of Warcraft gold farmer will be <b>much</b> more lucrative and fufilling. I mean just look at the facts:

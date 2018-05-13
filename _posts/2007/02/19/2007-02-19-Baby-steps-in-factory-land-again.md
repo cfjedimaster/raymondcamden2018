@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/19/Baby-steps-in-factory-land-again
+guid: 1847
 ---
 
 About a week ago I posted about my first experiments with <a href="http://ray.camdenfamily.com/index.cfm/2007/2/11/Baby-steps-in-factory-land">object factories</a>. If you haven't read that post, please do so before reading this one. When I wrapped the last entry I mentioned I had two problems with my solution. I want to thank Rob Gonda. His code (variations of it) is used below.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/29/Ask-a-Jedi-CFAJAXPROXY-and-Managing-Callbacks
+guid: 3414
 ---
 
 Yaron asks:

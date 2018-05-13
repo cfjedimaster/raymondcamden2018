@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/18/ColdFusion-Quickie-Run-something-no-more-than-once-every-N-minutes
+guid: 3754
 ---
 
 A <a href="http://www.cfsilence.com/">buddy</a> and I were chatting yesterday about a particular piece of logic he needed to implement. He wanted to have some particular code run on a page request, but no more than once every five minutes. Because it needed to happen on a page request, cfschedule would not have fit the bill. Therefore it needed to be bound to a particular request. I suggested the following simple bit of code.

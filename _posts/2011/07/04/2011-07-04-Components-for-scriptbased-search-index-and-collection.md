@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/04/Components-for-scriptbased-search-index-and-collection
+guid: 4294
 ---
 
 Attached to this blog entry are new CFCs that will allow you to perform collection operations (cfcollection, cfindex, and cfsearch) view script based CFCs. From the attached zip, simply store the components in your cfinstall\customtags\com\adobe\coldfusion folder. (<b>Make a backup of base.cfc first!!</b>) The test files are just that - tests. They mainly work with a collection I had called 'test' so you should not expect them to work as is. They are mainly there to provide you with an example. Here are a few examples...

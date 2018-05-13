@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/05/Ask-a-Jedi-Embedding-ColdFusionbased-code-on-another-server
+guid: 3001
 ---
 
 Wayne asks:

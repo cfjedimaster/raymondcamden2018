@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/10/12/Slow-posting-and-Random-TV-Topics
+guid: 847
 ---
 
 I will most likely have little to no postings over the next week or so. I'm in the middle of a large project that is going slow, and I've got to prep for MAX, so forgive me if I don't respond to Ask a Jedi questions very quickly. I've got about... oh.... 70 or so in my queue, so I should be done sometime this year. ;)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/10/ColdFusion-UDFs-for-Google-URL-Shortening-service
+guid: 4079
 ---
 
 I wrote this in about five minutes and it doesn't support auth tokens yet, but here are two UDFs that make use of <a href="http://code.google.com/apis/urlshortener/overview.html">Google's URL Shortening API</a>. First, the shorten call:

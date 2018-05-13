@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/13/Ask-a-Jedi-Showing-new-content-to-a-user
+guid: 3100
 ---
 
 Jon asks:

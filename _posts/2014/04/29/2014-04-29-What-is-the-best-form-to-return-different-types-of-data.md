@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/04/29/What-is-the-best-form-to-return-different-types-of-data
+guid: 5214
 ---
 
 <p>

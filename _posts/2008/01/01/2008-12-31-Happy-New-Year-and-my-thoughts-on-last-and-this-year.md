@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/01/Happy-New-Year-and-my-thoughts-on-last-and-this-year
+guid: 2567
 ---
 
 First off - Happy New Year to everyone. For the first time in a long time, my wife and I actually made it all the way to midnight. Barely. But we made it. Of course today I feel like a truck ran over me.

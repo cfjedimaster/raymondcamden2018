@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/04/14/review-learning-javascript-design-patterns
+guid: 4909
 ---
 
 I've been thinking a lot lately about client-side development (as is hopefully evident by the type of posts I've been making). I feel like I've finally gotten comfortable with JavaScript, but am looking for ways to bring my skill set to the next level. In general, I'm looking for ways to better organize my code. I know that design patterns can help me with that goal. So I was pretty excited to get "Learning JavaScript Design Patterns" by <a href="http://addyosmani.com/blog/">Addy Osmani</a>. My expectation was that this book would give me a good overview of the various types of patterns I could apply to my client-side work. Unfortunately, I don't know if the book reaches that goal. Let me explain why.

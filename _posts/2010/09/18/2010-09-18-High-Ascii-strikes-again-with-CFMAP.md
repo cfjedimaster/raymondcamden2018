@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/18/High-Ascii-strikes-again-with-CFMAP
+guid: 3945
 ---
 
 I was diagnosing an issue with the maps feature at <a href="http://groups.adobe.com">Adobe Groups</a>. For some reason the map simply stopped working. No CF error - nothing odd in the source - but the map didn't render. The basic logic of the map is to simply loop over all the groups with geolocation data and add them as markers. To debug, I simply switched from looping over <i>all</i> the rows to looping over 50 at a time. Doing that I was able to find a range that caused the map to not display. I then slowly shrunk this down to one record and finally one string. At this point I began to wonder if some odd character was breaking the map. Nothing looked wrong, but I've seen this in the past with other applications. Here is the code I used to look for the character.

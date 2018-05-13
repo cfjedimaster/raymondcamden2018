@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/18/ColdFusion-8-AJAX-UI-Menus
+guid: 2129
 ---
 
 Continuing on with my tour of the new AJAX UI controls in ColdFusion 8, today I want to talk about menus. It seems like I've been building DHTML menus since before the dinosaurs walked the Earth, so it's nice to see this made a <i>heck</i> of a lot easier in ColdFusion 8. Let's get into it.

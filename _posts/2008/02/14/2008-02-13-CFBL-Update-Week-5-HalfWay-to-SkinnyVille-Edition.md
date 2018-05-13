@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/14/CFBL-Update-Week-5-HalfWay-to-SkinnyVille-Edition
+guid: 2651
 ---
 
 Ok, so maybe "SkinnyVille" isn't exactly where I (or those of us in the club) will be, but it's something to shoot for! Week 5 is halfway through. I'm down to about 17-18 people, and those of you who have not submitted, shame on you! ;) 

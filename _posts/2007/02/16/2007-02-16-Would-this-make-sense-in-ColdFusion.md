@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/16/Would-this-make-sense-in-ColdFusion
+guid: 1844
 ---
 
 So I work on a site (<a href="http://www.riaforge.org">RIAForge</a>) that has a few components that exist in kind of a "virtual application" mode. That's not a great way to describe it - but what I mean is that there is one code base that is used by multiple applications. So consider the blogs that each RIAForge project can use. This is all one code base but each instance will use it's own Application space.

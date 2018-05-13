@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/04/07/Interesting-addition-to-ColdFusion-11-and-an-example-of-it-in-ColdFusion-10
+guid: 5193
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/13/ColdFusionDotNet-question-for-my-readers
+guid: 2472
 ---
 
 This came in to me today and as I'm not a DotNetter, I thought I'd pass it on. Anyone know the answer?

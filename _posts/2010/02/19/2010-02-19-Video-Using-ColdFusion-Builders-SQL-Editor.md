@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/19/Video-Using-ColdFusion-Builders-SQL-Editor
+guid: 3727
 ---
 
 I thought I'd share a quick video demonstrating ColdFusion Builder's SQL editor. What's nice is that there are actually <b>two</b> different editors built in - one old school (and available now) and a new shiny one. Enjoy. (And any comments on the format/viewability/etc of the video are welcome.)

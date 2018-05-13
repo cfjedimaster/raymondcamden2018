@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/10/02/Ionic-has-a-CDN-use-with-caution
+guid: 5323
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/04/ColdFusion-8-Dumping-a-Query-in-ColdFusion-8
+guid: 2089
 ---
 
 So a small change - but a nice one. If you dump a query in ColdFusion 8, you now get a set of additional information along with the data. You get...

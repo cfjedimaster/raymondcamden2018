@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/01/Friday-Puzzle-Welcome-to-Santas-IT-Department
+guid: 1685
 ---
 
 For today's puzzler you find yourself newly employed in Santa's Workshop. While Santa is quite magical, full of joy, blah blah blah, his IT skills leave a bit to be desired. In fact, his current IT department currently consists of one elf who wants to be a dentist and some large furry creature.

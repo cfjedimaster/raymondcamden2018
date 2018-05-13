@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/28/Intermediate-Contest-Entry-6
+guid: 941
 ---
 
 Welcome to the sixth entry in the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">Intermediate ColdFusion Contest</a>. The earlier entries may be found at the end of this post. Today's entry is from Daniel Ness. Before reading on, please check his application <a href="http://ray.camdenfamily.com/demos/contest2/blackjack_dness">here</a>. You can download his code from the download link at the bottom. Please respect the copyright of the creator.

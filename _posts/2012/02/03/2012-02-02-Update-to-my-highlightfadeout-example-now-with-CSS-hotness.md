@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2012/02/03/Update-to-my-highlightfadeout-example-now-with-CSS-hotness
+guid: 4517
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2012/2/2/Creating-a-highlightfadeout-text-effect-on-a-tag-cloud">posted</a> an example of highlight/fadeout effects done with jQuery. It wasn't necessarily that exciting, but it's not something I've done before so it was fun to build. Fellow evangelist (and my boss, so yeah, his comments get special attention) Kevin Hoyt <a href="http://www.raymondcamden.com/index.cfm/2012/2/2/Creating-a-highlightfadeout-text-effect-on-a-tag-cloud#c83DEA5A5-0E00-001F-606D0CD5790170A1">commented</a> that what I had achieved would be possible with CSS and transitions.

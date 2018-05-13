@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/07/24/ColdFusion-Job-Opening-Fairfax-County-Schools
+guid: 4684
 ---
 
 <b>Edited on August 3rd - this job opening is still open and the deadline has been removed.</b>

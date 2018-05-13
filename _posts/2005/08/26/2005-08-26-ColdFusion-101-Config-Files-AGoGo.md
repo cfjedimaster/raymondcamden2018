@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/26/ColdFusion-101-Config-Files-AGoGo
+guid: 733
 ---
 
 One of the first things a beginning ColdFusion developer realizes, at least after their first few applications, is that configuration is something you want to make as easy as possible. What do we mean by configuration? Well imagine your web site has various forms. Forms for product reviews. Forms for job applications. Forms for budding Jedi Masters. You can build all of these forms so that on submission, they email to some email address, let's say junkbin@microsoft.com. This is all fine and good until the client says, "Hey, can we have all forms go to bjork@scandi.com instead?"

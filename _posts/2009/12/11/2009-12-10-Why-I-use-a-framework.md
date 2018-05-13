@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/11/Why-I-use-a-framework
+guid: 3642
 ---
 
 A colleague on Facebook sent me a quick question asking me about frameworks:

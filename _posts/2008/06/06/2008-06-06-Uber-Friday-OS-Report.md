@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/06/Uber-Friday-OS-Report
+guid: 2867
 ---
 
 I like the word Uber. Anyway, a bunch of updates today.

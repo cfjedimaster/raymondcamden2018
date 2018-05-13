@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/05/05/Related-selects-in-jQuery-an-example
+guid: 4221
 ---
 
 Earlier today a follower on Twitter asked about doing related selects in jQuery. This is relatively trivial, but surprisingly most Google searches turned up plugins instead of tutorials. There's nothing wrong with that. In fact, if I needed to do this in a project I'd make use of the excellent <a href="http://www.texotela.co.uk/code/jquery/select/">Select box manipulation</a> plugin for a few years now. It occurred to me though that it may be interesting to do a related select example "from scratch" so to speak. This is how I solved it - feel free to rewrite it better/faster/leaner.

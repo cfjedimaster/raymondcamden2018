@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/06/26/Trying-something-new-my-new-podcast-with-Brian-Rinaldi
+guid: 4972
 ---
 
 Ok, I'll be honest folks. I've no idea how well this will be received, but <a href="http://www.remotesynthesis.com/">Brian Rinaldi</a> and I have started a new podcast: <a href="http://flippinawesome.org/topic-undefined/topic-undefined-episode-1/">Topic Undefined</a>

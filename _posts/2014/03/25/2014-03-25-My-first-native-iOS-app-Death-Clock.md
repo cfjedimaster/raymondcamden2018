@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/03/25/My-first-native-iOS-app-Death-Clock
+guid: 5184
 ---
 
 <p>

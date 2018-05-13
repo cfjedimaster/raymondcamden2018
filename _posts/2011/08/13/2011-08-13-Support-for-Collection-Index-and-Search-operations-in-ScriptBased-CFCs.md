@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/13/Support-for-Collection-Index-and-Search-operations-in-ScriptBased-CFCs
+guid: 4326
 ---
 
 Attached to this blog entry you will find support for adding Solr support to your script based CFCs. These CFCs act like the other tag wrappers in ColdFusion 9 and should be saved to your &lt;cfintall&gt;/customtags/com/adobe/coldfusion folder. <b>Please back up your base.cfc file first!</b> The other files are new. Here's an example of how your code may look.

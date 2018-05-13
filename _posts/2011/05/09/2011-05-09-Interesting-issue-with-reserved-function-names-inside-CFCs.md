@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/09/Interesting-issue-with-reserved-function-names-inside-CFCs
+guid: 4226
 ---
 
 Earlier today <a href="http://bears-eat-beets.blogspot.com/">Tony Nelson</a> pinged me about an odd ColdFusion issue he ran into. It turned out to be an issue I've seen before outside of CFCs that - for whatever reason - acted somewhat different <i>inside</i> of a CFC. Let me explain a bit. First, let's look at his CFC.

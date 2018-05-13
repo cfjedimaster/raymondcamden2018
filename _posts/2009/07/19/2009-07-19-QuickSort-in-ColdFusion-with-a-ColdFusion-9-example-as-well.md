@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/19/QuickSort-in-ColdFusion-with-a-ColdFusion-9-example-as-well
+guid: 3450
 ---
 
 A reader on my forums <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=7A673595-E927-C5E4-2DCFFC748B0E6AF0">asked</a> about sorting structures. His problem was that he had an array of structs and needed to sort by one particular key within each struct.

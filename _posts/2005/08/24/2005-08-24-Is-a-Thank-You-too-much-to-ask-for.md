@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/24/Is-a-Thank-You-too-much-to-ask-for
+guid: 725
 ---
 
 Tell me if you've done this before....

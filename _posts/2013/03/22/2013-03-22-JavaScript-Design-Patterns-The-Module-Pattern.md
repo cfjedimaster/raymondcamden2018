@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/03/22/JavaScript-Design-Patterns-The-Module-Pattern
+guid: 4888
 ---
 
 (Edit: I see that the Gists/code samples are displaying extra lines on top/bottom. Please ignore. Will try to fix after lunch.) As I <a href="http://www.raymondcamden.com/index.cfm/2013/3/19/JavaScript-Design-Patterns--My-Crazy-Plan">mentioned</a> a few days ago, I'm currently in the process of reading Addy Osmani's <a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book">JavaScript Design Patterns</a> book. (Note - in my earlier blog entry I linked to the physical copy at Amazon. The link here is to the free online version. I think his book is worth buying personally, but you can try before you buy!) The first pattern described in the book, and the one I'm going to talk about today, is the Module pattern.

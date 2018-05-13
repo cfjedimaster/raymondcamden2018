@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/02/26/A-highly-unusual-ColdFusion-arguments-error
+guid: 4866
 ---
 
 This one is weird. I don't mean kinda weird. I mean bat-crap insane what-the-hell type weird. Earlier today Jeremy Tan sent me some code that acted a bit odd. Let's take a look at it.

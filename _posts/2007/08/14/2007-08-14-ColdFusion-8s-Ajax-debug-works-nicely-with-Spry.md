@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/14/ColdFusion-8s-Ajax-debug-works-nicely-with-Spry
+guid: 2278
 ---
 
 Wow - this was a surprise. I was trying to debug a Spry issue this morning and not having any luck at all. I was using Spry's debug panel which you enable like so:

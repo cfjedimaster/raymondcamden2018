@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/06/27/Out-of-Office-Notice
+guid: 605
 ---
 
 Tomorrow I leave for CFUNITED. I will probably write a few entries while there, but if you contact me personally, I may be slow to respond.

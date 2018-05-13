@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/04/Changes-to-attributeCollection-in-801
+guid: 2750
 ---
 
 Ok, now that you've all downloaded 8.0.1 (in the last 5 minutes) and had a chance to play with it, I'm going to do a few blog entries about some of the new features in 8.0.1. ColdFusion 8 added the ability to use attributeCollection to ColdFusion built in tags. In case you never played with that feature (it's been around for a while in custom tags and cfinvoke), it allows you to dynamic define attributes for a tag. Consider:

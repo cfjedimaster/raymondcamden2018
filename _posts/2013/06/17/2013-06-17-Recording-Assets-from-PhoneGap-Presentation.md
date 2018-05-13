@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/06/17/Recording-Assets-from-PhoneGap-Presentation
+guid: 4963
 ---
 
 Thanks to those who showed up today for my PhoneGap presentation as part of <a href="http://www.coldbox.org/cbdw">ColdBox Developer Week</a>. You may find the recording here:

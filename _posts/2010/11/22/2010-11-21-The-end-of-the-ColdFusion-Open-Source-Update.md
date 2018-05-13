@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/22/The-end-of-the-ColdFusion-Open-Source-Update
+guid: 4022
 ---
 
 I woke up today to some sad news - the <a href="http://www.remotesynthesis.com/post.cfm/coldfusion-open-source-update-says-goodbye">ColdFusion Open Source Update</a> is ending. This service, created and ran by Brian Rinaldi over the past four years, has provided an invaluable service to the ColdFusion community. Brian took the time to curate and aggregate news related to ColdFusion and open source. This was <b>much</b> better than any automated service. Why is Brian ending the service? Not because of any lack of ColdFusion open source. (To the contrary, as Brian notes in his post, when he began there were about 100 projects available on RIAForge. Now we have <a href="http://www.riaforge.org/index.cfm?event=page.category&id=1">793 ColdFusion projects</a> and <a href="http://www.riaforge.org/index.cfm?event=page.category&id=14">45 ColdFusion Builder</a> projects.) Instead it is simply a matter of time. I can more than understand that. 

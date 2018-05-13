@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2008/10/15/Ask-a-Jedi-Detect-JavaScript-with-ColdFusion
+guid: 3055
 ---
 
 Jose asks:

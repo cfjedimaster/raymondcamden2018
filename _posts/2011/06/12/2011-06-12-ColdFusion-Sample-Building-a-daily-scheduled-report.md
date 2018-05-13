@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/12/ColdFusion-Sample-Building-a-daily-scheduled-report
+guid: 4263
 ---
 
 A typical ColdFusion web site consists of a set of files that are either directly requested by a browser or run via other CFM files requested by the user. But ColdFusion also includes the ability to run files on a schedule. Within your ColdFusion Administrator you will find a "Scheduled Tasks" page. This tool lets you create, edit, and delete various tasks you can set up to make ColdFusion run files on a certain date or even based on a recurring schedule. In this blog post I'll demonstrate one simple example of how you can use this feature.

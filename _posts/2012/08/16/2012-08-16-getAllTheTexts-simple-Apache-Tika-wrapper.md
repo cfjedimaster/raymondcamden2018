@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/08/16/getAllTheTexts-simple-Apache-Tika-wrapper
+guid: 4703
 ---
 
 A few days ago a reader asked me if I had code that could handle extracting text from various document formats. There are multiple tools in ColdFusion that can do this. My first thought was to build a CFC that used a large switch block to shell out to the various different utilities. For some, this would be easy. CFPDF, for example, has a text extraction feature. Others would be a bit more work. You can convert PPTs and Word docs to PDF using CFDOCUMENT and then use CFPDF to extract text. Excel files can be parsed using CFSPREADSHEET. You get the idea.

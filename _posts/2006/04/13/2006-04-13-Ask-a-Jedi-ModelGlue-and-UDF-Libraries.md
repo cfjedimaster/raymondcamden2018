@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/13/Ask-a-Jedi-ModelGlue-and-UDF-Libraries
+guid: 1209
 ---
 
 Once again I'm digging into my mail bag:

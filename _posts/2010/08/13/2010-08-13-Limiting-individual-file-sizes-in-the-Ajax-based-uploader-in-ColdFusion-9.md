@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/13/Limiting-individual-file-sizes-in-the-Ajax-based-uploader-in-ColdFusion-9
+guid: 3911
 ---
 
 ColdFusion 9 added a snazzy little Ajax-based (well, Flash based to be truthful) multi-file uploader. Just in case you haven't actually seen it, here is a quick snap shot of what it looks like:

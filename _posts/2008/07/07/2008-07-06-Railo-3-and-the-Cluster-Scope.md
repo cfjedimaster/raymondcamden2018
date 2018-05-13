@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/07/Railo-3-and-the-Cluster-Scope
+guid: 2918
 ---
 
 This is just a quick note to point out the example on the Railo Blog on their cluster scope:

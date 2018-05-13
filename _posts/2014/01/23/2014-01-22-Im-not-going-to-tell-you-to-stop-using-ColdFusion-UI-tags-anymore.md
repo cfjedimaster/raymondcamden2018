@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/23/Im-not-going-to-tell-you-to-stop-using-ColdFusion-UI-tags-anymore
+guid: 5136
 ---
 
 <p>

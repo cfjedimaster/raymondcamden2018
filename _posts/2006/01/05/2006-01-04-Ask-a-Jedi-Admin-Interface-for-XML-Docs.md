@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/05/Ask-a-Jedi-Admin-Interface-for-XML-Docs
+guid: 1010
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/27/Ask-a-Jedi-Moving-existing-application-code-into-ModelGlue
+guid: 2065
 ---
 
 Rony sent me some interesting questions today concerning existing code and Model-Glue. He sent two questions. His second question was easier so I'll address that one first:

@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/19/Converting-a-list-of-dates-into-a-shorter-combined-list
+guid: 4936
 ---
 
 Forgive the title, I'm not sure it best describes the task. I was asked by a reader to consider a simple problem. Given a list of dates, how would you rewrite them so that two (or more) consecutive dates are displayed together? For example, imagine this input.

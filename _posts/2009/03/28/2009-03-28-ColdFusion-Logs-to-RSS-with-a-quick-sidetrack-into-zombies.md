@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/28/ColdFusion-Logs-to-RSS-with-a-quick-sidetrack-into-zombies
+guid: 3295
 ---
 
 A reader on Friday asked a pretty cool question:

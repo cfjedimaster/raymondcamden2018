@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/06/28/iPhone-3GS-So-far-so-good
+guid: 3411
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//iphone3gs1.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> I wanted to give folks a quick update on my experience with the new iPhone 3GS. With the expensive (for some) upgrade price, I know people aren't sure if it is worth the upgrade. Here is what I've found so far. First though - note that I had a first generation iPhone. What seems really great for me may not be so great for folks already on a 3G phone.

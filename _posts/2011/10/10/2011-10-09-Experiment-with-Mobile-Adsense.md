@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/10/Experiment-with-Mobile-Adsense
+guid: 4386
 ---
 
 I've been a Google Adsense user for a very long time, and while I won't be retiring off my earnings any time soon, it helps pay the hosting bill and covers my fancy beer/comic book addiction well. Before MAX I decided to take a look at Adsense for Mobile. Specifically I wanted to use it with an HTML-based application made with PhoneGap. I've seen a few applications making use of it (or other ad networks), and I was curious how easy it would be to use. Here's my experiences with it. I'd love to hear from others using it, or other ad networks, especially in terms of how easy it was to add to your application and how well the reporting works.

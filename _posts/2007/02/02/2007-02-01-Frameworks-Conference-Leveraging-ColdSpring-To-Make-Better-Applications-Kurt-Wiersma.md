@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/02/Frameworks-Conference-Leveraging-ColdSpring-To-Make-Better-Applications-Kurt-Wiersma
+guid: 1812
 ---
 
 ColdSpring is something I've been meaning to look at for quite some time, so I was very interested in this presentation from Kurt. As before - pardon any randomness/scatteredness of the notes.

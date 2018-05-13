@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/22/Watch-out-for-the-reserved-event-values-in-ModelGlue
+guid: 2056
 ---
 
 So for the last 10 minutes or so I've been struggling with why Model-Glue was throwing an error about events. I have a controller that checks the value of "event" in the ViewState. This contains the name of the currently running event. For some reason, when I did one particular action, I got an error saying that the value of the event wasn't a simple value. 

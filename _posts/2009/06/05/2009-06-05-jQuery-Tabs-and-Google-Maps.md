@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/06/05/jQuery-Tabs-and-Google-Maps
+guid: 3385
 ---
 
 A reader wrote in earlier this week about an issue with Google Maps and jQuery tabs. He was trying to use a Google Map in one tab but the map wasn't rendering correctly. Here is a quick example showing what went wrong.

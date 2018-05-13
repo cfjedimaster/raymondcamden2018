@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2010/11/10/Just-found-this-JSLint
+guid: 4010
 ---
 
 Earlier this week I received a copy of <a href="http://oreilly.com/catalog/9780596806767">JavaScript Patterns</a>. I've only finished the first two chapters and already I'm finding it to be an incredible book. (I'll be doing a review when I finish.) One of the first things I learned while reading it concerned a tool called <a href="http://www.jslint.com/">JSLint</a>. To quote their FAQ, JSLint is a code quality tool. It can read in JavaScript and report on problems, best practices, anti-patterns, etc. It is very configurable so if you find it <i>too</i> strict you can knock it down a peg or two. I spent a few minutes last night (before my Black Ops session!) working on a ColdFusion Builder Extension. Why? It isn't really needed - there is an <a href="http://www.rockstarapps.com/joomla-1.5.8/products/jslint-eclipse-plugin.html">eclipse plugin</a> already for JSLint. But it gave me an excuse to write another extension and revel in how darn cool ColdFusion Builder is. Here is a quick example of it in action:

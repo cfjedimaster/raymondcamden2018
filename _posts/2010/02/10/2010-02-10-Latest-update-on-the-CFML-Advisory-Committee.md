@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/10/Latest-update-on-the-CFML-Advisory-Committee
+guid: 3717
 ---
 
 Just a quick note - Rob Brooks-Bilson has written up a nice update on the latest status of the CFML Advisory Committee: 

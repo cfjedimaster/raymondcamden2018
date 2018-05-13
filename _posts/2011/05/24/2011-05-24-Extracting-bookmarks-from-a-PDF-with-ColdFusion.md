@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/24/Extracting-bookmarks-from-a-PDF-with-ColdFusion
+guid: 4246
 ---
 
 Sid asked:

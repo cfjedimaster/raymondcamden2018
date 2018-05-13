@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/01/04/Another-charting-option-XMLSWF-Charts
+guid: 2574
 ---
 
 A few weeks ago I <a href="http://www.raymondcamden.com/index.cfm/2007/12/10/Googles-Charting-API">blogged</a> about an alternative to ColdFusion's built in charts, <a href="http://code.google.com/apis/chart/">Google's Chart API</a>. This week I discovered another alternative, <a href="http://www.maani.us/xml_charts/index.php">XML/SWF Charts</a>. This isn't a free option, but they have a free license with limitations and the price for a "full" copy is only 45 bucks for a single domain. It works pretty easy too.

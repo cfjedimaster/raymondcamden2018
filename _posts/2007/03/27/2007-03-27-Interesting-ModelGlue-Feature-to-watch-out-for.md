@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/27/Interesting-ModelGlue-Feature-to-watch-out-for
+guid: 1925
 ---
 
 So I ran into an odd issue with Model-Glue a few weeks ago and forgot to blog about it at the time. Luckily the issue cropped up today in training. First, let me ask you what you think the following code would do in your controller:

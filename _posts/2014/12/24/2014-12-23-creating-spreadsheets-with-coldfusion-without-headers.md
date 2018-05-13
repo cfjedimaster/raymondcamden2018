@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/12/24/creating-spreadsheets-with-coldfusion-without-headers
+guid: 5483
 ---
 
 This question came in yesterday and I thought I'd share it. Paul asked a simple question - he had a query and wanted to write it to a spreadsheet <strong>without</strong> having the query columns being used as headers. There is an excludeHeaderRow attribute in cfspreadsheet, but it applies to <i>reading</i> only.

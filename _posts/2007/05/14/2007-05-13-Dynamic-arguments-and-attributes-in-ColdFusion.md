@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/14/Dynamic-arguments-and-attributes-in-ColdFusion
+guid: 2030
 ---
 
 One of the announced features for ColdFusion 8 is support for dynamically passing attributes to ColdFusion tags. This will be a godsend for tags like CFMAIL. A reader asked me (and by the way, folks, don't ask me about Scorpio, in general I can't answer) if this support carried over to cfmodule and custom tags.

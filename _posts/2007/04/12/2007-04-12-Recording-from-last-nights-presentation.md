@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/12/Recording-from-last-nights-presentation
+guid: 1956
 ---
 
 If you missed my presentation last night (and are one one of the 5 people who haven't seen me blather on about <a href="http://labs.adobe.com/technologies/spry">Spry</a>), then you can view it here:

@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/13/Working-with-the-battery-in-a-PhoneGap-application
+guid: 4494
 ---
 
 One of the interesting things added in PhoneGap 1.3.0 (and something I missed until fairly recently), was support for <a href="http://docs.phonegap.com/en/1.3.0/phonegap_events_events.md.html#batterycritical">battery events</a>. Using these events is pretty simple so I thought I'd whip up a quick demo.

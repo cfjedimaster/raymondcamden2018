@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/02/22/Advanced-Contest-Announced
+guid: 1118
 ---
 
 After the successful run of the <a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">beginner</a> and <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">intermediate</a> ColdFusion contests, I'm happy to announce the Advanced ColdFusion Contest. This contest begins today, and will run until the end of March. So what's the contest?

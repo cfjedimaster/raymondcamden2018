@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/12/18/appfog-and-mongodb2-configuration
+guid: 5460
 ---
 
 Just a quick tip. I'm using <a href="http://www.appfog.com">AppFog</a> for my Node.js version of <a href="http://www.cflib.org">CFLib.org</a> and ran into an issue with their MongoDB2 support. When you use AppFog services, they document how your code can dynamically read configuration information from their server. This is required since things like MongoDB support are configured uniquely per deployed application.

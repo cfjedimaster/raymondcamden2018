@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/04/03/Example-of-jQuery-Mobile-site-using-authentication-first-round
+guid: 4182
 ---
 
 I've been thinking lately about how to add authentication to a jQuery Mobile site. I whipped up a quick example that works, but I'm definitely open to suggestions on how this could be done better. My intent with calling this entry the "first round" is to make it clear that there are other ways of doing this and probably <i>better</i> ways of doing it. Hopefully this example will help others and - admittedly - flesh out some improvements from my readers.

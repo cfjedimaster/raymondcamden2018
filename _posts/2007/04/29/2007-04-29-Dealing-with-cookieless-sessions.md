@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/29/Dealing-with-cookieless-sessions
+guid: 1989
 ---
 
 Axel asked a question about Vista Gadgets that I thought I would discuss here.

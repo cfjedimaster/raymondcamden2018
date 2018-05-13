@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/28/Two-Spry-Questions
+guid: 1436
 ---
 
 I had a few Spry questions during my <a href="http://ray.camdenfamily.com/index.cfm/2006/7/27/Spry-Presentation-RecordingZip">presentation</a> that I wasn't able to answer. I pinged the <a href="http://www.adobe.com/cfusion/webforums/forum/categories.cfm?forumid=72&catid=602">Spry Forum</a> and got the responses I needed.

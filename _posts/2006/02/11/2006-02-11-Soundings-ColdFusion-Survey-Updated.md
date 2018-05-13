@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/11/Soundings-ColdFusion-Survey-Updated
+guid: 1093
 ---
 
 I've updated <a href="http://ray.camdenfamily.com/projects/soundings">Soundings</a>, my ColdFusion Survey application, with some minor bug fixes and a major performance change. The details are below:

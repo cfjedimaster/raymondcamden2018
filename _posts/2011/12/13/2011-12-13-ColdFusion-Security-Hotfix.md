@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/13/ColdFusion-Security-Hotfix
+guid: 4460
 ---
 
 A new security hotfix for ColdFusion was released today:

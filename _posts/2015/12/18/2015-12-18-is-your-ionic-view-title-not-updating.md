@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/12/18/is-your-ionic-view-title-not-updating
+guid: 7277
 ---
 
 Ok, so I run into this once a month or so. I'm writing this just so I can - hopefully - remember it this time. This isn't a bug or anything in Ionic - but I'm wondering if it should be documented a bit more clearly for people like me. (AKA old dense people.)

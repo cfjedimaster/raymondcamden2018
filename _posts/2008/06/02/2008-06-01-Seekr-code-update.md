@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/02/Seekr-code-update
+guid: 2852
 ---
 
 I updated <a href="http://seeker.riaforge.org">Seeker</a> a few minutes. This is my code that wraps <a href="http://lucene.apache.org/">Lucene</a> functionality. If that sounds like a type of mouthwash to you - just think of Lucene as a search engine, much like Verity, except that Lucene is free and open source. It also runs just fine on OSX. 

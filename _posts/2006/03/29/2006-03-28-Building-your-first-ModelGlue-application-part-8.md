@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/29/Building-your-first-ModelGlue-application-part-8
+guid: 1174
 ---
 
 <img src="http://ray.camdenfamily.com/images/mg.jpg" align="left" border="1" hspace="5"> Welcome to the eight installation to my tutorial on building a Model-Glue application. In the <a href="http://ray.camdenfamily.com/index.cfm/2006/3/25/Building-your-first-ModelGlue-application-part-7">last entry</a>, I talked about the Gallery object. Because the entry ran a bit long, I didn't get to cover everything we needed, so before moving on to photo uploading (which is the whole point of the application), I want to wrap up some final Gallery actions, specifically deleting and updating the gallery data.

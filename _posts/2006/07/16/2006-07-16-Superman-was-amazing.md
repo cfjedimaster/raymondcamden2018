@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2006/07/16/Superman-was-amazing
+guid: 1405
 ---
 
 <a href="http://supermanreturns.warnerbros.com/webmaster/graphics.html?id=11" target="_blank"><img src="http://pdl.warnerbros.com/wbol/us/supermanreturns/webmaster/SRW_elements_graphic11.jpg" width="100" height="75" border="0" alt="Superman Returns" align="left"></a>

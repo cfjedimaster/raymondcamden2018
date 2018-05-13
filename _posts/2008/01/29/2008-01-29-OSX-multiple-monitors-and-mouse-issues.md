@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/29/OSX-multiple-monitors-and-mouse-issues
+guid: 2622
 ---
 
 I'm just blogging this as I would never have been able to Google this. Luckily I've got a <a href="http://appliedliberally.com/blog/">smart (freaky)</a> friend who seems to have a wealth of knowledge for these things.

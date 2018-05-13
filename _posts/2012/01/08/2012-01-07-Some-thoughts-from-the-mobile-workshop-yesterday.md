@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/01/08/Some-thoughts-from-the-mobile-workshop-yesterday
+guid: 4487
 ---
 
 Yesterday I was honored to speak at the <a href="http://www.meetup.com/creativesuitesanjose/events/41143312/">mobile workshop</a> put on by Adobe Creative Suite User Group of San Jose. It was a great crowd of folks and a lot of interesting discussions came up. I was only able to attend one session besides my own, a talk on HTML5 given by <a href="http://www.kevinruse.com/">Kevin Ruse</a> (who is a damn good presenter by the way). During his talk I noticed some interesting questions/comments from the crowd that I thought I'd share here and see what folks think.

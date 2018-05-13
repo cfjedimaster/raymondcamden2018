@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/13/Building-your-first-ModelGlue-application-part-1
+guid: 1148
 ---
 
 Readers of my blog know that I am a huge fan of the <a href="http://www.model-glue.com">Model-Glue</a> framework. While I certainly don't consider myself an expert, I thought folks might appreciate a simple walk through building a real Model-Glue application. With that in mind, I'm starting a new series today. In this series I'll design a Model-Glue application and share the complete code as each step is built. I will also host the application online so my readers can see it in action (and see it as we build it up). One quick reminder before we start. I'm a Model-Glue newbie. I love it and I want the world to appreciate it, but do know that I'll probably make a few mistakes along the way. Those of you more advanced then I, feel free to chime in, or even just to point out alternatives. So with that out of the way, let's get started.

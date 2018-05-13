@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/12/14/RIAForge-Updates
+guid: 3649
 ---
 
 I'm happy to announce some pretty big updates to RIAForge. While this is mainly for project admins, I thought it made sense to blog about it as it may encourage other folks to give RIAForge a try next time they need a place to host their open source project.

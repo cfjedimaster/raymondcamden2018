@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/24/What-shouldnt-you-be-doing-in-ColdFusion
+guid: 2368
 ---
 
 A few weeks ago I saw an interesting post on <a href="http://www.dzone.com">Dzone</a> about what you <i>shouldn't</i> do in Python. (See the article <a href="http://plope.com/Members/chrism/now_not_to_write_python">here</a>.) This got me thinking about what features/types of code/practices should be avoided in ColdFusion. 

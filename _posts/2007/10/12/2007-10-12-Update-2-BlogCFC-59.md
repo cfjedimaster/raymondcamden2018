@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/12/Update-2-BlogCFC-59
+guid: 2409
 ---
 
 I just released <a href="http://blogcfc.riaforge.org">BlogCFC 5.9</a> up to RIAForge. This is mainly a "maintenance" release where I tried to cover as many bugs as possible. It does include a few new features. 

@@ -6,6 +6,7 @@ categories: [coldfusion,development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/10/16/cfObjective-2014-Call-for-Speakers-and-my-proposed-sessions
+guid: 5061
 ---
 
 <p>

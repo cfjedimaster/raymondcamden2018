@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/18/ColdFusion-9-and-Caching-Enhancements
+guid: 3449
 ---
 
 Yesterday Terrence Ryan <a href="http://www.terrenceryan.com/blog/index.cfm/2009/7/17/Caching-Enhancements-in-ColdFusion-9">blogged</a> about updates to the cfcache tag in ColdFusion 9. I thought I'd follow up on his blog post and talk a bit more about the other caching changes in ColdFusion 9, specifically, the new cache based functions.

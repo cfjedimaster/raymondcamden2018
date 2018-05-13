@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/22/Ask-a-JediUsing-cfdirectory-and-a-form-to-delete-files
+guid: 3066
 ---
 
 This was a simple request, but I thought I'd share the code in case any other beginners would find it interesting. Joe asks:

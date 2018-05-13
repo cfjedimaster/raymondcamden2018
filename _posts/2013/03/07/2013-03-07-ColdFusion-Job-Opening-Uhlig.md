@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/03/07/ColdFusion-Job-Opening-Uhlig
+guid: 4876
 ---
 
 As always - just passing this on. Hope it helps someone find a job!

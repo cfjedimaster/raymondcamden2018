@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/04/05/Speaking-at-the-cfObjective-Keynote
+guid: 4185
 ---
 
 I'm very proud to announce that I'll be part of a team of folks speaking at the <a href="http://www.cfobjective.com/">cfObjective</a> keynote this year. I'll be presenting along with Jason Dean, Mark Mandel, Bob Silverberg, and Scott Stroz. (Although I worry about Scott. He is pretty shy.) You definitely do not want to miss this!

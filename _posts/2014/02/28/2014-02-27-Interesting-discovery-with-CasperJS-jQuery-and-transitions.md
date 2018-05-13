@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/28/Interesting-discovery-with-CasperJS-jQuery-and-transitions
+guid: 5168
 ---
 
 <p>

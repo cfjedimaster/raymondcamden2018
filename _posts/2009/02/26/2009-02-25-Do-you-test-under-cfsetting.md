@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/26/Do-you-test-under-cfsetting
+guid: 3253
 ---
 
 This blog post probably only applies to people building reusable components and UDFs, but I ran into an interesting issue today I thought I'd share with my readers. MrBuzzy (he prefers to go by his nickname) reported an issue with <a href="http://pdfutils.riaforge.org">pdfUtils</a> when used on a site with cfsetting enablecfoutputonly=true turned on. 

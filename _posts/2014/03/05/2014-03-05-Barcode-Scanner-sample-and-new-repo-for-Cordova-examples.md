@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/03/05/Barcode-Scanner-sample-and-new-repo-for-Cordova-examples
+guid: 5170
 ---
 
 <p>

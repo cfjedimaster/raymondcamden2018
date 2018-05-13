@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/19/CFBL-Update-Week-6-The-Getting-There-Edition
+guid: 2660
 ---
 
 Here are the stats for week 6. 

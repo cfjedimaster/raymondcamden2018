@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/12/An-Introduction-to-jQuery-and-Form-Validation-3
+guid: 3235
 ---
 
 For my final (well, for now) post on jQuery and forms validation, I thought I'd actually create a real form with actual back end processing. I'm going to demonstrate with a form that makes use of both client-side and server-side validation, and also demonstrate one of the cooler features of the jQuery <a href="http://docs.jquery.com/Plugins/Validation">Validation</a> library - remote validation.

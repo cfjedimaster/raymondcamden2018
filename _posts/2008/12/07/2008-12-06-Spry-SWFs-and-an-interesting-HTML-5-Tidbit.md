@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/07/Spry-SWFs-and-an-interesting-HTML-5-Tidbit
+guid: 3137
 ---
 
 A reader sent me a question last week, and in my attempts to solve it I kind of made a stupid mistake. I solved his problem the long way around instead of trying something a lot simpler. But while doing all of this, I discovered a few interesting tricks. Please be sure to read the entire blog post though and don't take my first solution as the best.

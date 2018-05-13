@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/10/Attend-NCDevCon
+guid: 5034
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/06/19/Edge-Inspect-BracketsEdge-Code-extension-open-sourced
+guid: 4967
 ---
 
 A few weeks back I <a href="http://www.raymondcamden.com/index.cfm/2013/6/11/Edge-Code-CC-and-Edge-Inspect-Integration">blogged</a> a video demonstration of Edge Code and Edge Inspect integration. Basically you could automatically preview your HTML on mobile devices connected to Edge Inspect as you wrote code in Edge Code. That extension is now available up on GitHub:

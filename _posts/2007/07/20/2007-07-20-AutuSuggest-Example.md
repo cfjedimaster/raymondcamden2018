@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/20/AutuSuggest-Example
+guid: 2207
 ---
 
 I've added autusuggest to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a> and thought I'd talk a bit about how I did it (and about the problems I ran into). 

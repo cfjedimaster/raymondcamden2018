@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/08/16/Ionic-and-Cordovas-DeviceReady-My-Solution
+guid: 5288
 ---
 
 <p>

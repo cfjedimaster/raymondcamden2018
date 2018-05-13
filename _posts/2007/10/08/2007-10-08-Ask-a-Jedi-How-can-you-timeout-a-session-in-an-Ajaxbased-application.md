@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/08/Ask-a-Jedi-How-can-you-timeout-a-session-in-an-Ajaxbased-application
+guid: 2397
 ---
 
 Todd Sharp, who is normally the one providing me CF8-Ajax based answers, asked me this question today:

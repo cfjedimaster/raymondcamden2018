@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/31/Processing-forms-with-duplicate-field-names
+guid: 3769
 ---
 
 Recently Ben Nadel <a href="http://www.bennadel.com/blog/1887-Using-jQuery-To-Pass-Arrays-To-Remote-ColdFusion-Components.htm">posted a blog entry</a> that was in reply to an <a href="http://www.raymondcamden.com/index.cfm/2010/3/23/Using-jQuery-to-post-an-array-to-a-ColdFusion-Component">earlier entry</a> of mine. Both entries talk about passing arrays of data to the server via client side JavaScript. In the comments we got a bit side tracked into talking about how to handle multiple form fields with the same name. What do I mean? Consider a form that looks like this:

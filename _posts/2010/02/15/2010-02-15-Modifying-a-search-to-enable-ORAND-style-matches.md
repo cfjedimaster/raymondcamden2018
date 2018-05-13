@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/15/Modifying-a-search-to-enable-ORAND-style-matches
+guid: 3722
 ---
 
 Here is a simple question. Given the "typical" search scenario (user searches for X, your SQL searches for "like {% raw %}%x%{% endraw %}"), how do you broaden the user's input when multiple words are used? Let me begin with an example of what I mean and then I'll demonstrate a few solutions. Also, note that in this blog entry I'm focusing only on <b>SQL</b> searching, not free text searching ala Lucene (or full text searching like you get in some databases).

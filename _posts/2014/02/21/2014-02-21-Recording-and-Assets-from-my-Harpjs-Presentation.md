@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/02/21/Recording-and-Assets-from-my-Harpjs-Presentation
+guid: 5160
 ---
 
 <p>

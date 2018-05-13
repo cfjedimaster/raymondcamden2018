@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/20/Update-to-my-ColdFusion-Mail-Throttler
+guid: 3977
 ---
 
 Last week I wrote a quick proof of concept that demonstrated a simple mail throttler for ColdFusion. The idea was that you may have some automatic mail process that you do not want to get overwhelmed with. Read the <a href="http://www.raymondcamden.com/index.cfm/2010/10/14/Proof-of-Concept--Throttling-automatic-emails-in-ColdFusion">previous blog entry</a> for full details and the original code. <a href="http://blog.pengoworks.com/">Dan Switzer</a> commented that my method for "merging" dynamic emails (with a regex) could be done much simpler if I allowed people to simply name the emails. So with that in mind I've added the support for a cachename value. This actually takes priority over regex as the more I think about it, the more I think folks will prefer it over the regex option. Here is the new component.

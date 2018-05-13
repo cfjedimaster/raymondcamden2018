@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2014/04/17/Article-HTML-out-of-the-Browser
+guid: 5204
 ---
 
 <p>

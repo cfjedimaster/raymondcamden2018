@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/11/20/BlogCFC-Bug-with-MySQLAccess
+guid: 924
 ---
 
 I've seen a few reports come in with an error concerning dates and Access/MySQL. This morning I was able to reproduce it - but to be honest, I'm a bit lost. It is an area that hasn't been touched in months, and the data is certainly valid dates. I just wanted to write a note and make sure people know I'm aware of it. 

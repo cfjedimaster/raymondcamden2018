@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/11/Coffee-Talk-New-Atlanta-Announcement
+guid: 2701
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/coffeetalk.jpg" style="margin-right:10px;margin-bottom:10px" align="left"> So I'm a good day behind on this, but I'm curious as to what people think of the New Atlanta announcement: 

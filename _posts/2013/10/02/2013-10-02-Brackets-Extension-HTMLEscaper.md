@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/10/02/Brackets-Extension-HTMLEscaper
+guid: 5053
 ---
 
 <p>

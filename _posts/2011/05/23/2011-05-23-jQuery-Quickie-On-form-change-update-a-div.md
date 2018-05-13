@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2011/05/23/jQuery-Quickie-On-form-change-update-a-div
+guid: 4244
 ---
 
 This question came to me on Saturday and I was pretty surprised by how quick it was to solve. I say that even being an already huge believer in the thinking that jQuery can basically out trump Unicorns for pure magic and awesomeness. Basically the issue was this. The reader had a set of form fields (text boxes, checkboxes, drop downs, etc), and if <i>any</i> of them changed, she wanted to update a div that was driven by the current values of the form. If you get rid of the console.log messages I used in my example, the code takes a grand total of three lines. Here's what I built:

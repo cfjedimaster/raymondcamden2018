@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/21/Update-to-my-Apollo-regex-checker
+guid: 1911
 ---
 
 I love you guys so much that I spent my lunch not just watching the Young and the Restless, but also improving my ugly little Apollo Regex Checker. (Ok, so I <i>did</i> watch Y and R while I coded.)

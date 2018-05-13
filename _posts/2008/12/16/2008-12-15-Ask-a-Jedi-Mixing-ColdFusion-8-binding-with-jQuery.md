@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2008/12/16/Ask-a-Jedi-Mixing-ColdFusion-8-binding-with-jQuery
+guid: 3150
 ---
 
 Josh asks:

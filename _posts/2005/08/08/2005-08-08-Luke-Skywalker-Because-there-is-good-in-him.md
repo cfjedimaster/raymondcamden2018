@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/08/08/Luke-Skywalker-Because-there-is-good-in-him
+guid: 680
 ---
 
 As Luke said,

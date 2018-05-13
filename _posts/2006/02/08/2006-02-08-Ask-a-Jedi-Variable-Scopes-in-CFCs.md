@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/08/Ask-a-Jedi-Variable-Scopes-in-CFCs
+guid: 1086
 ---
 
 A reader just sent this in:

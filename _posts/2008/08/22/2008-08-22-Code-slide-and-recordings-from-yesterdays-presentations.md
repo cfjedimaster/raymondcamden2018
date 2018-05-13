@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/22/Code-slide-and-recordings-from-yesterdays-presentations
+guid: 2984
 ---
 
 All my code/slides/etc for yesterday's presentations are now available via <a href="http://www.slidesix.com">SlideSix</a>:

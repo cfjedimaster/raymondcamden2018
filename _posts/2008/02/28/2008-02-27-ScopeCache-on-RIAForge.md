@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/28/ScopeCache-on-RIAForge
+guid: 2679
 ---
 
 Last night I released <a href="http://scopecache.riaforge.org/">ScopeCache</a> on RIAForge. This isn't new code. It's the caching custom tag I've had for a few years now. Charlie Arehart mentioned to me that it wasn't possible to find the code anymore (outside of BlogCFC), so now I have a place for folks to find it.

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/16/JavaScript-Tip-Auto-Capitalizing
+guid: 3750
 ---
 
 A reader asked me an interesting question yesterday. His system required all form input to be in capital letters. He wanted to know if there was a way to force the caps lock key to be abled on the client machine. As far as I know, this isn't possible. You can <a href="http://www.codeproject.com/KB/scripting/Detect_Caps_Lock.aspx">detect</a> the status of the caps lock key, but actually enabling it is not something you can do via JavaScript. However, it is pretty trivial to simply automatically capitalize the user's input. Here is one simple example in jQuery.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/26/User-Submitted-Tip-Refreshing-a-CFDIV-bound-to-a-CFC
+guid: 3371
 ---
 
 I swear this is something I may have covered before, but I'm not finding it in my archives. Either way, it's a good tip and I wanted to share it. Markus Wollny was working with a CFDIV tag that was bound to a CFC:

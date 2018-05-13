@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/04/18/Job-Posting-Council-for-Logistics-Research-Inc
+guid: 4591
 ---
 
 Quick note - they want me to let you know this is for Washington, DC candidates only.

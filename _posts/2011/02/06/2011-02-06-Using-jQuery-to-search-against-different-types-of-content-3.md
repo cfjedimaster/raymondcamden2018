@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/02/06/Using-jQuery-to-search-against-different-types-of-content-3
+guid: 4108
 ---
 
 I don't normally take blog entries into so many iterations, but after my <a href="http://www.raymondcamden.com/index.cfm/2011/2/3/Using-jQuery-to-search-against-different-types-of-content-2">last blog</a> post I got some really cool feedback from Dan Switzer and Kevin Marino. 

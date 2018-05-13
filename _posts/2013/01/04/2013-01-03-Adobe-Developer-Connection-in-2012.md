@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/01/04/Adobe-Developer-Connection-in-2012
+guid: 4822
 ---
 
 This is another short and sweet post. Regular readers know I contribute to, and praise the hell out of, the <a href="http://www.adobe.com/devnet.html">Adobe Developer Connection</a>. Yesterday Brian Rinaldi posted a list of every single article from 2012 and it is even more impressive then I would have guessed. (Hey guys, we need an email subscription for content!) Check it out here:

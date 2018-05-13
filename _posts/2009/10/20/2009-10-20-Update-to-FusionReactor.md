@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/20/Update-to-FusionReactor
+guid: 3571
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/logofr.png" align="left" style="margin-right:5px"/>

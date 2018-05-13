@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/25/Ask-a-Jedi-Learning-by-doing
+guid: 1495
 ---
 
 Aseen asks:

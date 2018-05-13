@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/06/30/CFUNITED-Thursday-Report-1
+guid: 613
 ---
 
 First off - yes - the luggage did arrive - around 10 this morning. So now instead of being extra stinky, I'm just my normaly stinky self. Best of all, I got the powercord for both my laptop (the Dell XPS, which takes it's own powerplant to run), my cell, and the PSP.

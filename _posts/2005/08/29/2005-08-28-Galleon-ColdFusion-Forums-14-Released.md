@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/29/Galleon-ColdFusion-Forums-14-Released
+guid: 736
 ---
 
 This morning I released version 1.4 of the Galleon ColdFusion Forums. Changes are listed below.

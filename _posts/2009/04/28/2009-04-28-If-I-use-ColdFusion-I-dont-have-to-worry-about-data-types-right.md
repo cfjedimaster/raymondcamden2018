@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/28/If-I-use-ColdFusion-I-dont-have-to-worry-about-data-types-right
+guid: 3332
 ---
 
 One of the nicer things about ColdFusion is that it takes a simple approach to variable types. When it comes to the simple types (non-array, structs, etc), you don't have to worry about specifying the type of data ahead of time. So for example, this code runs just fine:

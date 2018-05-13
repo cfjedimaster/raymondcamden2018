@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/07/In-Memory-Jacqueline-Camden
+guid: 2579
 ---
 
 Last Friday you may have noticed a lack of postings on my part. In general I try to post every week day, but on Friday I had to attend a funeral for my grandmother, Jacqueline Camden. She passed away New Years Eve at the ripe old age of 83. She was sick for quite some time, so it wasn't unexpected, but it was still pretty tough.  

@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2007/08/06/finally-reading-some-book-about-a-kid-wizard-maybe-youve-heard-of-it
+guid: 2254
 ---
 
 So unlike what seems to be the entire rest of the world, I was never a big fan of Harry Potter. I never read the books, and while I picked up all the movies on DVD, none of them really did anything for me. I've seen the first four movies, and I couldn't tell you what happened in one movie versus another. They were all just... meh.

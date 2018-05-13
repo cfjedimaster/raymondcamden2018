@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/19/Last-CFJUG-Recording-Available
+guid: 1598
 ---
 
 This time I didn't screw up! You can watch the recording of my repeat presentation on security at this URL:

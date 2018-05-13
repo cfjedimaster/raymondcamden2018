@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/10/CanvasWiki-Updated-Version-141
+guid: 1463
 ---
 
 I know I just updated it yesterday, but I had a few small more tweaks in mind and I've updated the zip. You can download it from the <a href="http://ray.camdenfamily.com/projects/canvas">project page</a>. The changes are minor. The biggest change is that the emails sent on page changes now actually render the page. That way you see the page a bit closer to what the public sees. I also added a clickable URL on the email so you can quickly load up the live site.

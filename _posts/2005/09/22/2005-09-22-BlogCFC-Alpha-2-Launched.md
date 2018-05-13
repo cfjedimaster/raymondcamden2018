@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/22/BlogCFC-Alpha-2-Launched
+guid: 797
 ---
 
 Didn't I say <a href="http://ray.camdenfamily.com/index.cfm/2005/9/22/A-few-BlogCFC-Notes">something</a> about not having a new version for a while? I finished the second alpha today, which includes the improvements I mentioned in the earlier post, and trackback support. 

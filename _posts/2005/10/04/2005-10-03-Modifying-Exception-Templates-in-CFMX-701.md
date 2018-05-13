@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/04/Modifying-Exception-Templates-in-CFMX-701
+guid: 827
 ---
 
 A while ago I posted about two techniques to modify your exception template in ColdFusion MX7. The first <a href="http://ray.camdenfamily.com/index.cfm/2005/7/14/More-CFMX-Error-Modifications">technique</a> allowed you to have automatically collapsed stack traces with Firefox, like you do with IE. Unfortunately this didn't make it into 7.0.1, so you will need to reapply the mod if you want to keep using it.

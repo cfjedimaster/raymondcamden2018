@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2013/07/26/Friday-Puzzler-How-to-get-to-there-from-here
+guid: 4992
 ---
 
 <img src="https://static.raymondcamden.com/images/4402065176_60a746cf19_b.jpg" />

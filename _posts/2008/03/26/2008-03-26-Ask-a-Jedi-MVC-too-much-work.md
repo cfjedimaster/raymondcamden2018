@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/03/26/Ask-a-Jedi-MVC-too-much-work
+guid: 2728
 ---
 
 Darren asks:

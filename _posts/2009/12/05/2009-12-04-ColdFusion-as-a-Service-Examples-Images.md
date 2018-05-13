@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/12/05/ColdFusion-as-a-Service-Examples-Images
+guid: 3632
 ---
 
 I promised a few weeks ago that I'd eventually get around to posting some of the code from my RIAUnleashed presentation. This morning I'm going to share two of them - both related to the Image service. The first one is really simple. It allows you to enter a URL to an image. CFaaS is then used to perform a gray scale on the image and return the result to the user. The code behind this demo could be a bit cleaner perhaps, but let's take a look at it.

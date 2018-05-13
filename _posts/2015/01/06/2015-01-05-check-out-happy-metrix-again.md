@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2015/01/06/check-out-happy-metrix-again
+guid: 5520
 ---
 
 Way back in the old days of 2013, I reviewed an application called Happy Metrix (<a href="http://www.raymondcamden.com/2013/07/27/Check-out-Happy-Metrix">Check out Happy Metrix</a>). Back then, Happy Metrix was an Adobe AIR desktop application that let users create dashboards of stats for various metrics. I'm kind of a stat junkie (see my recent look at <a href="http://www.raymondcamden.com/2014/12/07/quick-review-of-sumall-com">SumAll</a>) so apps like these really interest me. The creators of <a href="http://www.happymetrix.com/">Happy Metrix</a> reached out to me a few weeks ago to let me know they had a pretty big update and asked me to take a look. Here's what I found.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/06/06/ColdFusion-Developer-Security-Guide
+guid: 5239
 ---
 
 <p>

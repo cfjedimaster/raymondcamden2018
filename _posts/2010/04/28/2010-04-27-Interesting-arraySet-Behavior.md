@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/28/Interesting-arraySet-Behavior
+guid: 3794
 ---
 
 A reader pinged me last night with something he was convinced was a bug, but had said that Adobe shot him down and told him it was expected behavior. The behavior in question involved  <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-7f15.html">arraySet</a>, a function I rarely use myself, but is useful for folks who want to quickly initialize multiple values in an array.

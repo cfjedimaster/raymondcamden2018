@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/06/ServerMonitor-API-Example
+guid: 2519
 ---
 
 Back in June I wrote a quick <a href="http://www.raymondcamden.com/index.cfm/2007/6/14/ColdFusion-8-Server-Monitor-API">blog entry</a> on using the Server Monitor API. Most folks don't know that the cool Server Monitor in ColdFusion 8 is all driven by an underlying CFC API you can use in your own applications. I wrote up a quick demo of this I thought folks might find interesting.

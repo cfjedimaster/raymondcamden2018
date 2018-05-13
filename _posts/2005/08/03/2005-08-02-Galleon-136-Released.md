@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/03/Galleon-136-Released
+guid: 666
 ---
 
 A minor update. Here are the changes:

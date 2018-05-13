@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/23/A-Gotcha-with-Auto-Suggestions-in-ColdFusion-8
+guid: 2213
 ---
 
 A reader just sent me a bug report where he noticed that his autosuggestions didn't seem to work right in ColdFusion 8. The same dataset was returned from two things he typed into the box. One worked - and one did not.

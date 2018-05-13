@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/21/Quick-advice-for-handling-the-ColdFusion-haters
+guid: 4165
 ---
 
 Doug asks:

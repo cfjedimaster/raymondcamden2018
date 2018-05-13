@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2009/07/17/Review-Harry-Potter-and-the-Half-Blood-Prince
+guid: 3448
 ---
 
 As always, I will divide this review into two sections. The top portion will be spoiler free. Everything after the <b>SPOILERS!</b> mark will be, well, full of spoilers, and I'd assume the comments will be as well. 

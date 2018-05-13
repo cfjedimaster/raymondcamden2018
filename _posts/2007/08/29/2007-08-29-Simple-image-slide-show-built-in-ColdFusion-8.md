@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/29/Simple-image-slide-show-built-in-ColdFusion-8
+guid: 2313
 ---
 
 I wrote up a quick and dirty slide show application in ColdFusion 8 and thought I'd share the code. While it isn't very pretty (I have a second version to show you tomorrow), it gets the job done. First take a look at the demo, and then I'll describe the code:

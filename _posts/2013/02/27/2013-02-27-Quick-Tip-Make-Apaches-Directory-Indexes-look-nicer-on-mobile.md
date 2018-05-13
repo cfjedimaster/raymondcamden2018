@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/02/27/Quick-Tip-Make-Apaches-Directory-Indexes-look-nicer-on-mobile
+guid: 4868
 ---
 
 If you use Apache, then you most likely have DirectoryIndex enabled on your development server. This is the feature that lets you request a directory without a home document and see a list of folders and files. This is <i>not</i> normally enabled in production, but in certain circumstances it may be. (For a file download directory perhaps.) If you do any testing with mobile devices though you will probably find this index to a be a bit hard to read. Here's an example.

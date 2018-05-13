@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/26/This-is-NOT-customer-service
+guid: 1798
 ---
 
 Ok, I'm mad. Really mad. And I typically don't post when I'm ticked off, but there is something that is so unacceptable to me that I cannot stay quiet. I'm not going to name names, but I just have to bring this up.

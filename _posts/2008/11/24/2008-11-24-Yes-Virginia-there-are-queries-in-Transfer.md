@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/24/Yes-Virginia-there-are-queries-in-Transfer
+guid: 3119
 ---
 
 In all my entries on Transfer so far, we have yet to actually write a line of SQL, and believe me, I don't mind that one bit. But as you can probably imagine, there are definitely cases where you do need to break down and write some actual SQL statements. The biggest example is search. My <a href="http://www.raymondcamden.com/index.cfm/2008/11/14/Getting-Some-with-Transfer">last entry</a> talked about how you can get data based on properties, but it only worked for exact matches, i.e., where name was a specific value. Transfer provides a way around this with the feature I'll cover tonight - Transfer Query Language.

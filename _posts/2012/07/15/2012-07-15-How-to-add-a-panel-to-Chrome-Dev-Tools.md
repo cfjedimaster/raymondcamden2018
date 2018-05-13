@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2012/07/15/How-to-add-a-panel-to-Chrome-Dev-Tools
+guid: 4678
 ---
 
 I'm a big fan of the Chrome <a href="http://code.google.com/chrome/extensions/index.html">Extension</a> API. It is a simple (and cool) way to extend my favorite browser using HTML and JavaScript. One of the features I've been excited about for a while now is the <a href="http://code.google.com/chrome/extensions/devtools.html">DevTools API</a>. This has been in "experimental" status for a while but is now (mostly) available in the main release. 

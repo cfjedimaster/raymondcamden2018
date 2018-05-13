@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/05/08/Flex-2-Beta-3-Released
+guid: 1256
 ---
 
 Ok, everyone and their mother is talking about it, but just so you know, the 3rd beta of Flex 2 is now up on <a href="http://labs.adobe.com">Labs</a>. I've talked a bit about Flex 2 in the past, and I hope to bring it up here more and more as I get more comfortable with it. I <i>really</i> think Flex 2 is the bees knees, and here is a good example:

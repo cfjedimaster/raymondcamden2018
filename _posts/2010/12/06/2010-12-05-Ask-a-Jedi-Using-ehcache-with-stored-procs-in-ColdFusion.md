@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/06/Ask-a-Jedi-Using-ehcache-with-stored-procs-in-ColdFusion
+guid: 4043
 ---
 
 Hal asked:

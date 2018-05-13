@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/08/A-tip-concerning-ModelGlue-and-Google-AdSense
+guid: 2921
 ---
 
 Here is something I've run into with Model-Glue and AdSense. I'd bet it would also apply to other frameworks and similar advertising engines.

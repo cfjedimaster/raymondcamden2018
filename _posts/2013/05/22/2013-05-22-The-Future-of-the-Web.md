@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2013/05/22/The-Future-of-the-Web
+guid: 4940
 ---
 
 I know, I know. The title sounds like SEO-link-bait, I apologize. I want to talk about something that I'm fairly excited about, and I hope it excites you as well.

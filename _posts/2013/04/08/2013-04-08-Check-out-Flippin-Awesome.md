@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/04/08/Check-out-Flippin-Awesome
+guid: 4905
 ---
 
 I'm a few days late for this (been a busy couple days) but my buddy and coworker Brian Rinaldi recently launched a new site, <a href="http://flippinawesome.org/">Flippin' Awesome</a>. The site covers the entire gamut of web-related articles - from design to code to everything in between. Check it out!

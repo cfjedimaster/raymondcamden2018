@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2012/02/13/Make-your-Android-PhoneGap-app-less-scary
+guid: 4523
 ---
 
 For folks who are used to doing native Android development, this is old news, but for folks who may be new to it and coming from a PhoneGap perspective, I wanted to share a quick tip with you to help make your apps a bit less "scary" for your users. What am I talking about? Whenever you install an Android application, the device checks the app's descriptor file to see what permissions the app needs to run. By default, a PhoneGap Android app will simply have them all enabled. This means your users may see this...

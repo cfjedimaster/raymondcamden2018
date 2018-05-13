@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/22/Book-Review-Web-Development-Recipes
+guid: 4442
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/wbdev.jpg" align="left" style="padding-right: 20px" />I'm a fan of "cookbook" style books as it gives you a chance to see how folks solve problems in a particular language. A typical "intro" book will teach you the syntax, but normally doesn't provide a lot of real world examples. Cookbooks present an opportunity to demonstrate how problems can be solved and don't waste time on explaining syntax or other things that you assume the reader already knows. That's why I was pretty excited to be given a preview copy of "Web Development Recipes", an excellent collection of cookbook style articles covering an <b>amazing</b> range of topics. Written by Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson, and Aaron Godin, this Progamatic Bookshelf offering is currently <a href="http://pragprog.com/book/wbdev/web-development-recipes">available</a> in beta form as a PDF for 22 or PDF+physical book (once released) for 44. 

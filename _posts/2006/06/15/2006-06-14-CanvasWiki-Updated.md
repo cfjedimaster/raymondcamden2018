@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/15/CanvasWiki-Updated
+guid: 1334
 ---
 
 <a href="http://www.thebitbucket.net/weblog/">Lucas Sherwood</a> sent in a nice little modification for CanvasWiki, Google Sitemap support. I've added this and updated the build. You can download Canvas from the <a href="http://ray.camdenfamily.com/projects/canvas">project page</a>. 

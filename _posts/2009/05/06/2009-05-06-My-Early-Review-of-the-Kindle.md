@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/05/06/My-Early-Review-of-the-Kindle
+guid: 3344
 ---
 
 A couple of weeks ago I got the Kindle 2 (<a href="http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&tag=raymondcamden-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00154JDAI">Affiliate Link FTW</a><img src="http://www.assoc-amazon.com/e/ir?t=raymondcamden-20&l=as2&o=1&a=B00154JDAI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) via my wishlist, and a few of my friends asked me what I thought of it. I haven't really had much time to play with it, but this week I decided to give it a try. I've only gotten to spend a few hours with it, but I thought I'd share what I've found so far in case people are considering picking one up.

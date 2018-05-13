@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/29/Ask-a-Jedi-Does-using-a-framework-reduce-your-portability
+guid: 1501
 ---
 
 Dave asks an important question for those using frameworks:

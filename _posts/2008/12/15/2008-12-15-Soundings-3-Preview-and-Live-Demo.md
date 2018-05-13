@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/15/Soundings-3-Preview-and-Live-Demo
+guid: 3149
 ---
 
 I'm happy to announce the release, well, the beta release, of the 3rd version of Soundings, my ColdFusion-based survey application. You can download it now from SVN (<a href="http://svn.riaforge.org/soundings">http://svn.riaforge.org/soundings</a>). My plan is to let folks test it out and if things work well, issue a formal release next week. Be sure to read the release notes and note that the docs have not yet been updated. So with that being said, what's new, and how can you test it?

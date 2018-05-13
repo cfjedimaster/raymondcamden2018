@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/13/Ask-a-Jedi-Complete-Spry-CRUD-Example
+guid: 2823
 ---
 
 Walter asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/15/Update-to-CFLib-and-a-quick-trip-to-the-past
+guid: 4268
 ---
 
 At lunch I released a small update to <a href="http://www.cflib.org">CFLib</a> - author pages. Now when you view any UDF you can click on the author's name to see all their UDFs. Here's <a href="http://www.cflib.org/author/C4DA75DD6F95756886AD5218EBCE9A66">my list</a> and here's the list for <a href="http://www.cflib.org/author/F48C6C3C06C70FB42B371346FBAA6C82">James Moberg</a>. James is the one who recommended this feature so credit him for the idea. 

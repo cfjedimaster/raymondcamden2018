@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/02/structClear-and-Sessions-Still-bad
+guid: 3174
 ---
 
 In <a href="http://www.raymondcamden.com/index.cfm/2009/1/1/Ask-a-Jedi-cflogout-session-variables-and-the-back-button">yesterday's blog post</a> about cflogout, sessions, and the back button, there was a passing discussion about the structClear function and sessions. Phillip Senn asked if it was safe to use it on the session scope. It seems like it should be as long as you remember that this will not <b>end</b> the session but simply clear the current values.

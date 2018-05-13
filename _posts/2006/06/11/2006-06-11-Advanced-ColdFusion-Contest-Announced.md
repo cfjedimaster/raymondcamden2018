@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/11/Advanced-ColdFusion-Contest-Announced
+guid: 1325
 ---
 
 I've run three contests so far on this blog - a <a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">beginner</a> contest, an <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">intermediate</a> contest, and an <a href="http://ray.camdenfamily.com/index.cfm/2006/2/22/Advanced-Contest-Announced">advanced</a> contest. The last contest wasn't quite as successful as I had hoped, and a lot of people weren't happy with the Flex 2 requirement. I promised another contest and today I'm delivering on that promise. As before, the number one requirement will be that you open source your contest entry. You do <b>not</b> need to actively support it, but you do need to allow folks to download it and use it. (Feel free to use the license of your choice though.) So let's get into the details.

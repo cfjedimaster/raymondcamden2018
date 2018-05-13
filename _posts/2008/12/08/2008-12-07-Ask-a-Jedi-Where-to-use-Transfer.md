@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/08/Ask-a-Jedi-Where-to-use-Transfer
+guid: 3138
 ---
 
 Justin asks:

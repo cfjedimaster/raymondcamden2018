@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/09/Announcement-Verity-for-Fast-Text-Searching-Macrochat
+guid: 684
 ---
 
 On Wednesday, August 17th at 11AM CST, I will be doing a Macrochat on Verity and ColdFusion MX7. For more information, and to register, please go <a href="http://www.macromedia.com/cfusion/event/index.cfm?event=detail&id=269697&loc=en_us">here</a>.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/01/ColdFusion-8-QueryConvertForGrid
+guid: 2083
 ---
 
 One of the cool new UI elements we have in ColdFusion 8 is the AJAX based grid. It can be bound to external data and allows for sorting and paging. This is pretty cool and all - and I'll blog more about it later, but I wanted to talk about  a small little function that is used to help drive the grid - queryConvertForGrid.

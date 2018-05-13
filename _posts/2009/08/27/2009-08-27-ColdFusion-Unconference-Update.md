@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/27/ColdFusion-Unconference-Update
+guid: 3502
 ---
 
 It's been a while since I posted about the ColdFusion Unconference coming up at MAX 2009. Here is where we stand now:

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/11/25/Last-build-of-my-Flex-2ColdFusion-Security-Homework
+guid: 1676
 ---
 
 Ok, so this is the last revision of my <a href="http://ray.camdenfamily.com/index.cfm/2006/11/21/My-Thanksgiving-Flex-Homework">Flex Thanksgiving homework</a>. Thanks to everyone for the tips. My only purpose here was to learn a bit and I've definitely done that - thanks to you guys out there. So - enough kissing up. Let me talk about what I did in this last build.

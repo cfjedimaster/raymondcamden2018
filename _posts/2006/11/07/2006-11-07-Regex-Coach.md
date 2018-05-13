@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/11/07/Regex-Coach
+guid: 1639
 ---
 
 Tonight our user group talked about regular expressions, or regex. While I think I'm pretty good with them - I didn't have a good tool to write them. I typically just fired up a ColdFusion file and did my tests via the browser. 

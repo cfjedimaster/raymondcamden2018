@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/30/ColdFusion-Builder-Extensions-and-Long-Processes
+guid: 4176
 ---
 
 A week or so ago <a href="http://www.jeffcoughlin.com/">Jeff Coughlin</a> came to me with an interesting question. Was it possible for a ColdFusion Builder extension to handle a long running process? By that he meant fire off some type of process and handle the duration without locking up the editor. I got some time to think about this at lunch today and come up with a proof of concept. I then followup the POC with a real, if silly, extension that will scan your ColdFusion code and give you a report on which tags were used the most. Before going any further, note that there is already a good idea of this concept out there - Terry Ryan's <a href="http://builderstats.riaforge.org/">builderStats</a> extension. It makes use of Flash to generate a dialog that nicely waits while the back end code does a bunch of magic bean counting. I wanted a pure HTML solution using jQuery because... well... because. Here's what I came up with. Feel free to poke multiple holes into this solution.

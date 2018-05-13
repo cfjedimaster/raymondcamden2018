@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/08/Critical-update-for-Canvas-ColdFusion-Wiki-users
+guid: 2019
 ---
 
 If you use <a href="http://canvas.riaforge.org">Canvas</a>, my ColdFusion wiki, please <b>immediately</b> get the latest update. There is a serious bug that impacts folks using multiple wikis in one install.

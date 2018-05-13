@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/10/ColdFusion-Contest-Entry-Examined-Part-4
+guid: 842
 ---
 
 Welcome to the fourth (getting bored yet?) entry in the <a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">ColdFusion contest</a> I am running. If you haven't yet, take a look at entries <a href="http://ray.camdenfamily.com/index.cfm/2005/10/4/ColdFusion-Contest-Entry-Examined">one</a>, <a href="http://ray.camdenfamily.com/index.cfm/2005/10/5/ColdFusion-Contest-Entry-Examind--Part-2">two</a>, and <a href="http://ray.camdenfamily.com/index.cfm/2005/10/7/ColdFusion-Contest-Entry-Examined--Part-3">three</a>.

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2010/02/10/Totally-useless-ActionScript-drawing-tests
+guid: 3715
 ---
 
 Last night I made time to look at something I've been meaning to check out for years - drawing with ActionScript. While I have absolutely no need for this at all, it's something I've meant to take a look at. I've only looked at a few pages of the <a href="http://livedocs.adobe.com/flex/3/html/help.html?content=Part6_ProgAS_1.html">drawing API</a> so far, but it was enough to do a few experiments in AIR. I began with the recreation of something I wrote once in AppleSoft BASIC, my very first programming language.

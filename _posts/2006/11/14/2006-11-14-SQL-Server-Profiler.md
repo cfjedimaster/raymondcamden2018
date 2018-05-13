@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/11/14/SQL-Server-Profiler
+guid: 1654
 ---
 
 Ok - I'm probably the last one on the planet to know this - but just in case I'm not - I thought I'd share.

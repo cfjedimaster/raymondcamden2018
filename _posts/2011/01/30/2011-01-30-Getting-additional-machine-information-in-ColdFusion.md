@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/30/Getting-additional-machine-information-in-ColdFusion
+guid: 4100
 ---
 
 Rey asks:

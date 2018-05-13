@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/14/Revisiting-an-old-blog-entry-how-ColdFusion-can-help-save-your-business
+guid: 4327
 ---
 
 Almost five years ago, I wrote a blog entry (<a href="http://www.raymondcamden.com/index.cfm/2006/10/20/How-ColdFusion-can-save-you-business">How ColdFusion can save your business!</a>) that discussed how you can use the simple act of session expiration to track, and manage, abandoned user processes on your site. The title was a bit over the topic, but the use case, noticing folks bailing out of the order process on a particular step, was something that I thought could be critical to a business. 

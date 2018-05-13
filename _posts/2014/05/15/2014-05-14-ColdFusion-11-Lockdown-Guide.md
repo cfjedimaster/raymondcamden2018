@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/05/15/ColdFusion-11-Lockdown-Guide
+guid: 5224
 ---
 
 <p>

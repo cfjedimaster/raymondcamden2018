@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/05/ColdFusion-101-Looping-over-Months
+guid: 753
 ---
 
 A reader asks, "Is it possible to to loop through the remaining months of the current year and then show those in a form select field?" I like this question because a) it is simple and b) it is a nice "real world" type question that people are likely to encounter while working on a web site. Let's take a simpler approach and first show how to make a drop down containing <i>all</i> the months:

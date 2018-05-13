@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/16/PhoneGap-Day-Video-on-Parsecom
+guid: 5039
 ---
 
 <p>

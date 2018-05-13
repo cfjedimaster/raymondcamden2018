@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [nodejs,strongloop]
 banner_image: 
 permalink: /2016/01/05/playing-with-strongloop-building-a-blog-part-one
+guid: 7350
 ---
 
 This year I've decided I'm going to write the hell out of some Node code. That's both good and bad. It means I'll be learning more and more about Node as a side effect but on the flip side, I'll probably be producing a bunch of silly, not-terribly-practical examples as I go along. As always, I encourage people to remember that I am <i>not</i> an expert at this. I'm learning. So please feel free to comment about what you would do differently. On the flip side - if I actually make something kinda cool, then let's just pretend I'm brilliant, ok?

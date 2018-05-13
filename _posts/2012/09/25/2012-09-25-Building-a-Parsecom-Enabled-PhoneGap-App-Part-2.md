@@ -6,6 +6,7 @@ categories: [development,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/09/25/Building-a-Parsecom-Enabled-PhoneGap-App-Part-2
+guid: 4742
 ---
 
 Sorry it took me a few days to get part 2 done. My hope is to get a few more entries done this week with a wrap up by next week. If you haven't read the first part, follow the Related Entries links below. Hopefully you're up to date and ready to go.

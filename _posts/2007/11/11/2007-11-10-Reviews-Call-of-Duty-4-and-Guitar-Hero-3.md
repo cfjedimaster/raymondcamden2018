@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2007/11/11/Reviews-Call-of-Duty-4-and-Guitar-Hero-3
+guid: 2467
 ---
 
 Guitar Hero and Call of Duty are as about as different as you can get, but as I played both quite a bit this week I thought I'd share my thoughts.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/06/ColdFusion-9-Caching-IPADDMEMBERSHIP-Error
+guid: 3807
 ---
 
 I ran into a truly weird error today. I was building a very simple test script to load up my cache system with a lot of crap. This was the script I used:

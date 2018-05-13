@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/30/ColdFusion-8-Checking-the-size-of-an-image
+guid: 2073
 ---
 
 Yesterday (well, early this morning), I <a href="http://ray.camdenfamily.com/index.cfm/2007/5/30/ColdFusion-8-Checking-to-see-if-a-file-upload-is-an-image">blogged</a> about how you can use ColdFusion 8 for the rather simple (and common) task of verifying that a file uploaded is a valid image. In today's post I'll expand on this a bit and show how you can check the size of the image.

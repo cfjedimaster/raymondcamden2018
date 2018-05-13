@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/30/BlogCFC-591-Released
+guid: 2947
 ---
 
 I've just upated <a href="http://blogcfc.riaforge.org">BlogCFC</a> to version 5.9.1. This is one of the biggest releases in a while. It's mainly a guilt release. As folks know, version 6 has been <i>well</i> delayed. I decided to work on the 5.x branch again and clear up some old bugs and features that I had planned for version 6. So what's new?

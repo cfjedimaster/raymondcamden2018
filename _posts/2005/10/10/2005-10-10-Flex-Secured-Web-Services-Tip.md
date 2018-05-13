@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2005/10/10/Flex-Secured-Web-Services-Tip
+guid: 844
 ---
 
 So, I'm still something of a Flex newbie, so forgive me if this is a FAQ, but I ran into a problem last week that took quite a bit of time to fix. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/06/Another-regex-simple-formatting-for-comments
+guid: 4296
 ---
 
 As a follow up to my quick little <a href="http://www.raymondcamden.com/index.cfm/2011/7/5/Quick-little-regex-example--Youtube-video-from-URL">regex post</a> yesterday, I thought I'd share another one today. This is something I'm adding to <a href="http://www.blogcfc.com">BlogCFC</a> later this week, but as I was working on <a href="http://groups.adobe.com">Adobe Groups</a> today I figured I'd test it out there first. It's a formatting trick used n many places, including Google+, and it's something so simple you probably don't even have to document it. What this code will do is convert any word surrounded with asterisks to bolded text and any word surrounded with underscores to italics. Here's the UDF:

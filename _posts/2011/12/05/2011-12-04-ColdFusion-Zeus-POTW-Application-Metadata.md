@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/05/ColdFusion-Zeus-POTW-Application-Metadata
+guid: 4454
 ---
 
 Time for another quick ColdFusion Zeus preview. This one will probably be of lesser value to some folks, but it addresses an issue I've been raising for <i>years</i>, and that is:

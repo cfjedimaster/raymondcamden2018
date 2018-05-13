@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/19/Personalizing-a-login-form-with-jQuery-and-ColdFusion
+guid: 4086
 ---
 
 So - I'm still not 100% sure what <a href="http://www.quora.com/">Quora</a> is and why I would use it. It looks like a generic version of <a href="http://www.stackoverflow.com">StackOverflow</a> which could be cool. Right now my take is that it's "The site I keep hearing people talk about but I find impossible to spell." That being said I went to login this morning and noticed something I thought was <i>really</i> cool. Check out this screen shot.

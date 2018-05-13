@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2010/02/10/Get-10-more-pixels-of-coding-space-with-CFBuilder
+guid: 3716
 ---
 
 Ok, if you are like me, and I hope to God you aren't, you anal retentively scan the desktop and application settings of people giving presentations. Maybe it's a bit of ADD - but I obsess over it. Dock icons. Desktop shortcuts. You name it. Anyway, I just got out of a presentation and noticed the user's ColdFusion Builder layout was missing a small tweak I've done to mine. Have you noticed that - by default - you have a CFBuilder perspective button on a line all by itself?

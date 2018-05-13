@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/08/17/coming-soon-the-ionic-market
+guid: 6644
 ---
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/08/market-logo.png" alt="market-logo" width="220" height="66" class="alignleft size-full wp-image-6645" /> While not technically released yet, you can now take a gander at the new Ionic Market a <a href="http://market.ionic.io/">market.ionic.io</a>. The Ionic Market contains Starters (things to help you jump start a new project), plugins, and themes. <!--more-->

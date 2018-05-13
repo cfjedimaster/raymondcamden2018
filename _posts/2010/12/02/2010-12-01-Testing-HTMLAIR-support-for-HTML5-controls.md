@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/12/02/Testing-HTMLAIR-support-for-HTML5-controls
+guid: 4036
 ---
 
 There has been some discussion on the <a href="http://groups.google.com/group/air-html-js/topics">HTML/AIR listserv</a> recently about the webkit rendering engine used within AIR, especially in regards to HTML5. There is a great article on the topic at the Adobe Developer Center: <a href="http://www.adobe.com/devnet/air/ajax/articles/air_and_webkit.html">What's new about HTML, HTML5, CSS, and JavaScript in AIR 2.5?</a>. As an experiment, I decided to create a quick HTML/AIR application that would go through all of the HTML5 items related to form fields. For my documentation I used <a href="http://diveintohtml5.org/forms.html">A Form Of Madness</a> (great title!) from the Dive into HTML5 site. I simply went through his examples and created an HTML page with every one.

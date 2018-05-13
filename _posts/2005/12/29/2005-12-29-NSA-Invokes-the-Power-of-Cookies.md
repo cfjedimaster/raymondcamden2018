@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/29/NSA-Invokes-the-Power-of-Cookies
+guid: 1000
 ---
 
 From a link at slashdot: Breitbart.com reports that the NSA was accidentally <a href="http://www.breitbart.com/news/2005/12/28/D8EPGENO2.html">leaving permanent cookies</a> on user's browsers. From the article it noted that it was due to a recent software upgrade. On a hunch I went over to the <a href="http://www.nsa.gov">NSA</a> and discovered that, yes, it is indeed a ColdFusion site. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/17/Ask-a-Jedi-Handling-nulls-in-a-chart
+guid: 3020
 ---
 
 Nat asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/08/Stupid-CFCHART-Trick-of-the-Week
+guid: 2639
 ---
 
 Earlier yesterday morning I <a href="http://www.raymondcamden.com/index.cfm/2008/2/7/Ask-a-Jedi-CFCHART-Question">blogged</a> about cfchart and a poster asked an interesting followup question:

@@ -6,6 +6,7 @@ categories: [development,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/02/24/Getting-URL-parameters-in-a-jQuery-Mobile-page
+guid: 4536
 ---
 
 While I could have sworn I blogged this before (in fact, Chrome popped autosuggested the title), I can't find the post and as I ran into this issue again today, I figured I'd better blog it before I forget again. So - the question is simple. Given that you can use the powerful <a href="http://www.jquerymobile.com">jQuery Mobile</a> framework to create dynamic applications, how can you create single pages that act differently depending on the URL parameters sent to them. So for example, you may have a list of art pieces that all link to artdisplay.html. You want to pass an art ID value in the URL so your location may look like so:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/22/Open-Discussion-Organizing-19000-Queries
+guid: 4063
 ---
 
 This one is a doozy. I thought my readers would enjoy it. From a reader, Doug: (And note - I removed the angle brackets from his code because I'm too lazy to replace them out with escaped entities.)

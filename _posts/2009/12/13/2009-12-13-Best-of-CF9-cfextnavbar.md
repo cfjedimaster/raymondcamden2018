@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/13/Best-of-CF9-cfextnavbar
+guid: 3646
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's entry is cf_ext_navbar. It was submitted by Andrew Duval and reviewed by Todd Sharp. Todd's review is below in it's entirety with no editing from me. Thanks Andrew and Todd!

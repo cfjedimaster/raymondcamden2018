@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/04/Another-Canvas-Update
+guid: 1187
 ---
 
 Rob Gonda pointed out a bug in Canvas where it would throw an error when using a link as the first element. That has been fixed in the new release, 1.2.100. For the heck of it, I added three new "variablecomponents" to Canvas. Variable components are a method to add dynamic data to the Wiki. So for example, to include the version number of the current page, you simply do:

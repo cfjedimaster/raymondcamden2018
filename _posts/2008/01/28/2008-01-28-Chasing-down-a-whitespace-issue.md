@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/28/Chasing-down-a-whitespace-issue
+guid: 2618
 ---
 
 This is a blog entry that will/may have a few parts. A user just sent this in, and it seems like a mystery, so I'll try to keep my readers updated as things progress. Jennifer asks:

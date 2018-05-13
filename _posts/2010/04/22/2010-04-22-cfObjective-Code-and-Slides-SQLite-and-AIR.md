@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/04/22/cfObjective-Code-and-Slides-SQLite-and-AIR
+guid: 3788
 ---
 
 Today I gave my presentation at <a href="http://www.cfobjective.com">cfObjective</a>. The topic was SQLite and Adobe AIR. I think the presentation went well and I'm very excited to have been part of what is turning out to be an <b>extremely</b> good conference. (Going to post a longer review this weekend.) The embed below from SlideSix will give you the slides as well as all the code samples from the presentation:

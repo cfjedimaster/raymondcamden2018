@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/12/Ask-a-Jedi-Configuring-Multiple-BlogCFC-Installs
+guid: 966
 ---
 
 Dave asks: 

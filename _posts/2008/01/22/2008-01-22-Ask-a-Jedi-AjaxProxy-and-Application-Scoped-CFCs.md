@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/22/Ask-a-Jedi-AjaxProxy-and-Application-Scoped-CFCs
+guid: 2609
 ---
 
 Paul asks:

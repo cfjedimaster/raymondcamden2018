@@ -6,6 +6,7 @@ categories: [design,development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/22/My-videos-and-others-from-NCDevCon
+guid: 5044
 ---
 
 <p>

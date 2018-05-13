@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/01/How-I-got-started-in-ColdFusion
+guid: 4314
 ---
 
 A week or so ago Steve Bryant <a href="http://www.bryantwebconsulting.com/blog/index.cfm/2011/7/20/August-1-2011-is-How-I-Started-ColdFusion-Day">suggested</a> that August 1st be a day for us in the community to share how we got started in ColdFusion. I thought this was a really cool idea and I hope everyone takes the chance to participate. If any of my readers do not have a blog, I welcome you to share your story in the comments below.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/02/23/Your-blog-needs
+guid: 4135
 ---
 
 1) An About Me page. It doesn't matter if you don't want to name yourself. You should have a very defined, very clear page that either says who you are or why you are not sharing your name. And frankly, unless you are a political blogger in a country actively shooting dissidents, your reason to be anonymous is probably crap. 

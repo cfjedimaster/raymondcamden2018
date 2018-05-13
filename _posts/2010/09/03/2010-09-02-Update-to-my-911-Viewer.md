@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/09/03/Update-to-my-911-Viewer
+guid: 3931
 ---
 
 Way back in January of this year I <a href="http://www.raymondcamden.com/2010/01/19/Proof-of-Concept-911-Viewer">blogged</a> about a little experiment I did parsing local traffic-related incidents in my home town. A local police department had posted their data in HTML and I used a combination of YQL and ColdFusion to parse it. This was done via a simple scheduled task. A second task turned street addresses into longitude and latitude pairs. Finally I made use of cfmap to display the results. All in all, I think it was pretty cool. The results matched with what I would have assumed were the busiest streets. But yesterday I discovered something cool. Apparently I left the process on and it ran for <b>six months</b>.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/03/Building-your-first-ModelGlue-application-part-9
+guid: 1185
 ---
 
 <img src="http://ray.camdenfamily.com/images/mg.jpg" align="left" border="1" hspace="5"> Welcome to the ninth installment of the "Build your first Model-Glue application" series. We are approaching the end (really, I swear) of the application with only two more articles after today's entry. (That's the plan anyway.) The reason I built this application was to share photos, and gosh darnit, it's about time I actually allow for it.

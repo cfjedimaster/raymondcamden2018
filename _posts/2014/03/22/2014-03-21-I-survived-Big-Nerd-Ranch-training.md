@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/03/22/I-survived-Big-Nerd-Ranch-training
+guid: 5181
 ---
 
 <p>

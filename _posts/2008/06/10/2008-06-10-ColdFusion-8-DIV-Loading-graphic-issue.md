@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/10/ColdFusion-8-DIV-Loading-graphic-issue
+guid: 2873
 ---
 
 Here is something interesting I just ran into. One of my open bugs at <a href="http://www.broadchoice.com">work</a> involve adding a "Loading" graphic to an ajax container. The code in question uses CFDIV and hits up a CFC to load the data. 

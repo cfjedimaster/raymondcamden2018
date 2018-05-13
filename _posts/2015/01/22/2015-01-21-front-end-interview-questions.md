@@ -6,6 +6,7 @@ categories: [design,development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2015/01/22/front-end-interview-questions
+guid: 5580
 ---
 
 A few days ago, either someone tweeted or someone shared with me an interesting document: <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Front-end Developer Interview Questions</a>. This document (well, Git repo really) is a large set of questions that could be appropriate for interviewing someone for the role of a front-end developer. While this was new to me, apparently this document started way back in 2009 (did we even have browsers then?) and has had contributions from quite a few people. 

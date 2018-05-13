@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/24/ORMScanner-CFBuilder-Extension
+guid: 3762
 ---
 
 I've been doing a lot with ColdFusion 9 and ORM lately and I've run into an interesting little problem. Look at the code block below and see if you can find the error(s):

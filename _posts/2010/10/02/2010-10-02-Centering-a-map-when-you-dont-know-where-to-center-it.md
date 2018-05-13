@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/02/Centering-a-map-when-you-dont-know-where-to-center-it
+guid: 3959
 ---
 
 Wow, that's a pretty bad title, but hopefully things will be a bit clearer in a minute. A reader, Matt, wrote in with a few interesting cfmap problems. First - how would you center a map "best" when you aren't sure where your map items will be placed? The second problem is how best to zoom the map. By best we mean getting in as close as possible and still seeing all the map items. What follows is my solution, but the road to this solution was a bit rough. As always, if you have suggestions please share them.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/06/Adobe-response-to-recent-FCK-Issue
+guid: 3423
 ---
 
 I just re-tweeted this, and those who keep up to date on <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> will see it as well, but just to help spread the news, please read Terry's blog post:

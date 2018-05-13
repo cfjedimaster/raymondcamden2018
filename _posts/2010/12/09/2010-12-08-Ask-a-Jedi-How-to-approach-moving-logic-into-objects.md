@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2010/12/09/Ask-a-Jedi-How-to-approach-moving-logic-into-objects
+guid: 4048
 ---
 
 Here is a great question that came in from Tim G. 

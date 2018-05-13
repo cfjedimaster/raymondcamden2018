@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/11/10/Making-lemonade-with-Flex
+guid: 1647
 ---
 
 Ok, so this isn't the most useful example of Flex, but I have a soft spot for the old Lemonade Stand Apple IIe game of my youth. I rebuilt it with Flex:

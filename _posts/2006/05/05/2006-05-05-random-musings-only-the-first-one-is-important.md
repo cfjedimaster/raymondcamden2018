@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/05/random-musings-only-the-first-one-is-important
+guid: 1251
 ---
 
 I fixed a bug with <a href="http://www.blogcfc.com">BlogCFC 5</a> where subscriber data wasn't being saved. If you tried to subscribe in the last week, you may not have been. Sign up again. If you already are subscribed and do it again, you won't get subscribed twice.

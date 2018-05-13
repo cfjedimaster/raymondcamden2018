@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/01/18/Mixing-client-side-dynamic-forms-with-dynamic-ColdFusion-form-processing
+guid: 3199
 ---
 
 Here is an interesting thing I played with this Sunday morning. How can I create a dynamic form on the client side and combine it with dynamic processing on the server side? For example - consider a form that lets you send email to your friends. By default we could ask you for 5 sets of names and email addresses. But what if you aren't a programmer and have more than five friends? You could use a form that lets you enter data and includes a button labeled "I have more friends." The form would post to itself and then simply add more blank fields. That's kind of what <a href="http://soundings.riaforge.org">Soundings</a> does. It <i>works</i>, but we can do better, right?

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2010/06/21/How-to-use-one-remote-method-in-Flex-for-multiple-clients
+guid: 3856
 ---
 
 Jon asked me an interesting Flex based question. Now before I show any code, I'll remind folks - I'm still very much the Flex Padawan. Whatever I show here I expect could be done much better (in fact, be sure to read the final code sample as it was created by a true Flex Jedi). That being said, I'm proud to have at least had an idea of the ballpark of the solution! Ok, enough jibber jabber - let's get to the question. Jon was using Flash Remoting to talk to a ColdFusion component. His code made use of RemoteObject and method, a bit like so:

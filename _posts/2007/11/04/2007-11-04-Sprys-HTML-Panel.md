@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/11/04/Sprys-HTML-Panel
+guid: 2452
 ---
 
 Over the past few weeks, I've been taking a look at Spry's widgets, specifically those related to form items. I've been surprised by what I've found. I really wish I would have looked at them earlier. Today I looked at another widget, the HTML Panel. This one isn't form related, but is <i>darn</i> cool.

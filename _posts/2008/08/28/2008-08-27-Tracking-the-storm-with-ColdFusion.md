@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/28/Tracking-the-storm-with-ColdFusion
+guid: 2992
 ---
 
 Ok, so yesterday I <a href="http://www.raymondcamden.com/index.cfm/2008/8/27/Death-is-a-giant-brightlycovered-slug-heading-your-way">joked</a> a bit about Gustav (which, by the way, is now <a href="http://www.nhc.noaa.gov/refresh/graphics_at2+shtml/111213.shtml?hwind120#contents">tracking</a> closer to Lafayette) and about writing some ColdFusion code to track the hurricane. Being the OCD-natured kind of boy I am, I whipped up something in ColdFusion that seems to work well. Here is what I did...

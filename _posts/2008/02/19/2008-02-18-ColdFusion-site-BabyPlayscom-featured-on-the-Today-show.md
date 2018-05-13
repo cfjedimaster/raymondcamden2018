@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/19/ColdFusion-site-BabyPlayscom-featured-on-the-Today-show
+guid: 2657
 ---
 
 Right now I'm watching a story on the Today show about a mother who launched a business to help save money on the cost of toys. The idea is that instead of buying toys your child will only play with for a few months, you will rent them instead, like movie rentals. The toys - when returned, are cleaned/sanitized to keep them safe. 

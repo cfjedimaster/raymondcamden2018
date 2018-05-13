@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/09/01/calling-remote-services-from-ionic-serve
+guid: 6709
 ---
 
 A coworker pinged me today with an interesting question:

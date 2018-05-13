@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/29/A-Loading-page-with-CFFLUSH-and-JavaScript
+guid: 1679
 ---
 
 Today there was a <a href="http://www.houseoffusion.com/groups/CF-Talk/message.cfm/messageid:261819">thread</a> on cf-talk about how to make a "Loading" or "Please Wait" style page while ColdFusion is doing something slow. Most of the answers talked about AJAX but I thought I'd show a simpler version that just used a bit of JavaScript.

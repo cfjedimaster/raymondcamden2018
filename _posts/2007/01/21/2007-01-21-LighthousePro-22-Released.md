@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/21/LighthousePro-22-Released
+guid: 1785
 ---
 
 Today I put the finishing touches on <a href="http://lighthousepro.riaforge.org/">Lighthouse 2.2</a>, my ColdFusion based bug tracker. It was more fun that watching my Saints lose. (Although they did try very hard!) Changes in this version include:

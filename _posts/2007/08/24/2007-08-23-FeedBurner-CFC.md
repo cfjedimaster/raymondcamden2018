@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/24/FeedBurner-CFC
+guid: 2302
 ---
 
 I've been using FeedBurner for quite sometime now to host my RSS feeds, and when they bought Blogbeat, I was even happier since Blogbeat was a great blog-stats tool. Now I get both feed and general item stats all from one source. FeedBurner has an API to retrieve information about your stats so I decided to wrap up some of the API into a nice little CFC. FeedBurner.cfc supports getting both general feed data as well as item data. For example:

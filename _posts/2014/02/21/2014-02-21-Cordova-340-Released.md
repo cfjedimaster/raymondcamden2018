@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/02/21/Cordova-340-Released
+guid: 5161
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2015/07/08/using-friendlier-urls-for-a-harpjs-static-site
+guid: 6364
 ---
 
 Ok, "friendly" is in the eye of the beholder, but honestly, I spent about five minutes trying to think of the "best" title for this post and just gave up. What I'm really trying to describe here is how to use "year/month/date/slug" type URLs for a <a href="http://www.harpjs.com">HarpJS</a> static site. As an example, the URL for this blog entry includes the year, month, day, and a 'slug' or "URL-friendly" version of the title. In general, Harp doesn't care what folder structure you use, but the issue I ran into was how to handle metadata about the blog. So for example, how do you generate a list on the home page of the most recent articles and create an RSS feed?

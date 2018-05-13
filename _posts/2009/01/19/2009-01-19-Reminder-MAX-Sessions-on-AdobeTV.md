@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/19/Reminder-MAX-Sessions-on-AdobeTV
+guid: 3201
 ---
 
 I <a href="http://www.raymondcamden.com/index.cfm/2008/11/24/MAX-Videos-to-be-available-to-all">mentioned</a> this back in November, but do not forget that the MAX 08 sessions are being posted, over time, for free at AdobeTV: <a href="http://tv.adobe.com/#ch+MAX">AdobeTV - MAX</a>

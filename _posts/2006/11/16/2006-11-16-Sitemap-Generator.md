@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/16/Sitemap-Generator
+guid: 1660
 ---
 
 Earlier today Yahoo and Google announced their collaboration on <a href="http://www.sitemaps.org/">Sitemaps.org</a>. Sitemaps provide a way to describe to a search engine what pages make up your web site. I've had sitemap support in BlogCFC for a while, but today I wrote a little UDF you can use to generate sitemap xml. It will take either a list of URLs or a query of URLs. Enjoy. I'll post it to CFLib later in the week.

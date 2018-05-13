@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/21/Ask-a-Jedi-Can-you-run-a-tag-in-end-mode-inside-a-CFIF
+guid: 2364
 ---
 
 Kyle Hayes pinged me with an interesting question today. He wanted to run a custom tag in "end" mode - but inside a CFIF block:

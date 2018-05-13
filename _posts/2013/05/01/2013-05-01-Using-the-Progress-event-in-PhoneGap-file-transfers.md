@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/05/01/Using-the-Progress-event-in-PhoneGap-file-transfers
+guid: 4923
 ---
 
 Earlier today I was happy to hear that <a href="http://phonegap.com/blog/2013/04/30/pg-270-released/">PhoneGap 2.7</a> was released. While perusing the changelist, I thought I read that progress events for file transfers were added in this release. However, I was wrong. <a href="http://docs.phonegap.com/en/2.7.0/cordova_file_file.md.html#FileTransfer">FileTransfer</a> has supported a progress event for a few months now. But since I figured this out while halfway through a demo, I figured I'd finish it up anyway and share it on my blog.

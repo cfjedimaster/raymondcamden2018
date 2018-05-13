@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/16/Ask-a-Jedi-Ordering-Verity-results-by-filename
+guid: 1898
 ---
 
 David had an interesting question about Verity results:

@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/06/05/Quick-FYI-XHR-Cross-Domain-Requests-and-Sessions
+guid: 5238
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/26/ColdFusion-and-Pagination-Part-2
+guid: 1234
 ---
 
 Before getting into this entry, let me share two quick notes about the <a href="http://ray.camdenfamily.com/index.cfm/2006/4/24/ColdFusion-and-Pagination">last entry</a>. First off, if you are a subscriber and only read the emails, I had made a small mistake in my logic. It was corrected on the entry. Thanks to my reader Fernando for pointing it out. Secondly, Rob Gonda made the point that you probably don't want to do pagination in ColdFusion if you are returning a hundred thousand or so results. He is absolutely correct and shows a better alternative <a href="http://www.robgonda.com/blog/index.cfm/2006/4/25/MSSQL-and-Pagination">here</a>.

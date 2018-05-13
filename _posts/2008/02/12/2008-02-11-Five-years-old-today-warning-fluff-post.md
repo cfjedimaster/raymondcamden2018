@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/12/Five-years-old-today-warning-fluff-post
+guid: 2648
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//happy-birthday-cake.gif" align="left" style="margin-right: 10px"> On February 12, 2003, I wrote my <a href="http://www.raymondcamden.com/index.cfm?mode=entry&entry=395FA384-CC01-17D6-AE9B36479350D784">first blog entry</a>. Back then, BlogCFC wasn't released, as I said in that first entry:

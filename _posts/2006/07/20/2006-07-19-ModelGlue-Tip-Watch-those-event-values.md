@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/20/ModelGlue-Tip-Watch-those-event-values
+guid: 1414
 ---
 
 So I thought I'd blog about a problem I've run into a few times now. Hopefully this will help people avoid the mistake I've made. 

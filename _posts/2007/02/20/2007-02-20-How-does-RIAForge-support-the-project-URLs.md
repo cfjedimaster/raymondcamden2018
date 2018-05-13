@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/20/How-does-RIAForge-support-the-project-URLs
+guid: 1849
 ---
 
 I was asked today how RIAForge supported the multiple subdomains for the projects. As an example, consider <a href="http://blogcfc.riaforge.org">http://blogcfc.riaforge.org</a> and <a href="http://galleon.riaforge.org">http://galleon.riaforge.org</a>.

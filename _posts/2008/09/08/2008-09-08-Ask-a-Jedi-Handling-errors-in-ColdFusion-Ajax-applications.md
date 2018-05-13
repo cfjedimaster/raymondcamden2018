@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/08/Ask-a-Jedi-Handling-errors-in-ColdFusion-Ajax-applications
+guid: 3005
 ---
 
 Shirzad (cool name!) asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/26/Interesting-ColdFusion-POST-to-PHP-Issue
+guid: 3408
 ---
 
 I shared a few emails with a reader last week that concerned an interesting issue with ColdFusion POSTs (form submissions) to PHP code. I thought I'd share what we found and see if anyone else has seen this behavior as well. PHP developers are welcome to post their comments as well, although I know it's hard times for them with their language dieing and all that. Anyhoo....

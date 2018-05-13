@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/20/Two-Presentations-Tomorrow
+guid: 2980
 ---
 
 Tomorrow I'll be doing two presentations. The first meeting is <a href="http://coldfusion.meetup.com/17/calendar/8570144/">CFC 201</a> for the ColdFusion Online Meetup. This will be at 11AM CST. The Connect URL is <a href="http://experts.acrobat.com/cfmeetup/">http://experts.acrobat.com/cfmeetup/</a>. This is basically a tips/tricks/suggestions/etc presentation for components, but I'll be skipping over all (well most) of the syntax stuff.

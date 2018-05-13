@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/11/Advanced-ColdFusion-Contest-Entry-1-CodeCop
+guid: 1465
 ---
 
 Welcome to the first entry review for my <a href="http://ray.camdenfamily.com/index.cfm/2006/6/11/Advanced-ColdFusion-Contest-Announced">Advanced ColdFusion</a> contest.  Our first entry is from Steve Bryant. I have to say that if every other entry is like this, I will be incredibly happy. You may download it using the Download link below. 

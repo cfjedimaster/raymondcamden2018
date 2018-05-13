@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/11/10/Demo-of-CFWINDOW-and-jQuery-Date-Picker
+guid: 3597
 ---
 
 A reader Paul wrote me and described an issue he was having with the jQuery UI date picker. It worked in a form embedded on his page but refuses to work within a CFWINDOW. Let's look at an example of what he tried and I'll explain what went wrong and how to fix it.

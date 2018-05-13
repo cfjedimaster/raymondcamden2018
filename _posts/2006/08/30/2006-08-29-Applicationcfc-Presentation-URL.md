@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/30/Applicationcfc-Presentation-URL
+guid: 1503
 ---
 
 The URL for tonight's presentation is:

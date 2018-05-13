@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/06/12/RIAForge-Milestone-Again-and-time-for-What-will-happen-to-Ray-on-this-trip
+guid: 2116
 ---
 
 So once again <a href="http://www.riaforge.org">RIAForge</a> has hit a big milestone: 250 Projects. Other stats of interest:

@@ -26,7 +26,7 @@ That works, but breaks down when you need to add sorting and filtering. So for e
 
 VuePress supports [custom global components](https://vuepress.vuejs.org/guide/using-vue.html#using-components) by simply dropping a file in the `.vuepress/components` folder. In my testing it appeared as if I needed to restart the server in order to get VuePress to recognize it, but it could have been another issue. For me, I created a file called `RecentArticles.vue`. This then let me drop this into the home page:
 
-```markup
+```html
 ## Recent Additions
 
 <RecentArticles/>
@@ -34,7 +34,7 @@ VuePress supports [custom global components](https://vuepress.vuejs.org/guide/us
 
 Now let's look at the component.
 
-```markup
+```html
 <template>
 <div>
 	<ul>

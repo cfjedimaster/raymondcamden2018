@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/12/CFUNITED-09-Dates-Regisitration-Open
+guid: 3098
 ---
 
 The title pretty much says it all, but the dates and <a href="http://register.cfunited.com/">registration form</a> for CFUNITED 09 is now open. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/02/Quick-warningtip-to-ColdFusion-Builder-Extension-writers-and-note-on-varScoper-fix
+guid: 3510
 ---
 
 I ran into an interesting little bug today with ColdFusion Builder and extensions. I was trying to get <a href="http://varscoper.riaforge.org/">varScoper</a> working and I kept getting an error. Every time I got an error, Eclipse kindly told me that it had logged the error. If you open up the Eclipse Error Log view you (possibly) won't see your error. Why? Turns out that there is a bug with how ColdFusion Builder logs the extension error with Eclipse. The date gets screwed up and the error logs it as 1969-12-31. Since I had other errors with newer dates (like from this century), I didn't notice these. I've already filed a bug report for this but keep it in mind if you plan on developing a ColdFusion Builder Extension.

@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2007/11/03/Review-The-Sunrise-Lands
+guid: 2451
 ---
 
 <img src="http://ecx.images-amazon.com/images/I/51fRT94ZRUL._AA240_.jpg" align="left" hspace="5"> As much as I tend to complain about S.M. Stirling and his fascination with nature - I do enjoy his stories and try not to let myself get bogged down by his writing. I was very surprised by how well his <a href="http://www.raymondcamden.com/index.cfm/2007/5/19/Review-Island-in-the-Sea-of-Time-Series">Island in the Sea of Time</a> series was, so I knew he <i>could</i> write well. Last year I read his <a href="http://www.amazon.com/gp/product/B000P19ER4/002-7184977-1120010?ie=UTF8&tag=raymondcamden-20&linkCode=xm2&camp=1789&creativeASIN=B000P19ER4">Dies the Fire</a> series (reviewed <a href="http://www.coldfusionjedi.com/index.cfm/2006/2/7/Review-Dies-the-Fire-by-S-M-Stirling">here</a>). The basic premise was that a 'Change' of some sort occurs that makes all technology from gunpowder on stop working. As most of the world dies off due to food shortages, a few bands of people group together to try to survive. The series was decent enough (again, ignoring his fascination with spending paragraphs on trees and grass) but not great. 

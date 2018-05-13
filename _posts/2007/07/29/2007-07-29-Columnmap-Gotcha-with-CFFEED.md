@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/29/Columnmap-Gotcha-with-CFFEED
+guid: 2229
 ---
 
 I ran into this bug a week or so ago and just helped a user who ran into the same problem. When providing a query to CFFEED to generate an RSS string, you can provide alias information in the form of a columnMap structure. Basically it is a way to tell ColdFusion that column X maps to property Y of the RSS feed. If you try to use this feature though you will probably run into a bug. Consider this code from <a hrref="http://www.coldfusionbloggers.org">ColdFusionBloggers</a>'s RSS feed:

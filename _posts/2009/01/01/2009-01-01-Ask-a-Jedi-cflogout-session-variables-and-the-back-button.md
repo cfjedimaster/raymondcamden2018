@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/01/Ask-a-Jedi-cflogout-session-variables-and-the-back-button
+guid: 3173
 ---
 
 Steph has a few questions/concerns about cflogout, sessions, and the back button. His email to me was:

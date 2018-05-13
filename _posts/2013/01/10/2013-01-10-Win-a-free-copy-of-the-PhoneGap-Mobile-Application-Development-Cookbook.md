@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/01/10/Win-a-free-copy-of-the-PhoneGap-Mobile-Application-Development-Cookbook
+guid: 4826
 ---
 
 Would you like a free copy of the <a href="http://www.packtpub.com/phonegap-mobile-application-development-cookbook/book">PhoneGap Mobile Application Development Cookbook</a>? Packt has reached out to me to let me share <b>five</b> copies of the book to my readers. (People in the US, the UK, or Europe can choose a physical or electronic copy. Everyone else must select an electronic copy.) 

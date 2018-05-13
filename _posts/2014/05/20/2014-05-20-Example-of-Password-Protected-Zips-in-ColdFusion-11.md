@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/05/20/Example-of-Password-Protected-Zips-in-ColdFusion-11
+guid: 5227
 ---
 
 <p>

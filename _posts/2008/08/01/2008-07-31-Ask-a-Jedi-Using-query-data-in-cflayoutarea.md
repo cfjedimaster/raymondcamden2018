@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/01/Ask-a-Jedi-Using-query-data-in-cflayoutarea
+guid: 2951
 ---
 
 Ken asks:

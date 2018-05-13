@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/03/Ask-a-Jedi-Getting-your-scope-on
+guid: 1371
 ---
 
 Justin asks...

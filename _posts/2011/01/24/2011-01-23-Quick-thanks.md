@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/01/24/Quick-thanks
+guid: 4091
 ---
 
 Back in December I created a quick survey looking for reader feedback. I just wanted to thank everyone who took the time to respond. I had 152 responses and a <i>lot</i> of good feedback. My questions focused on the following topics.

@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/06/21/update-to-my-serverbased-login-phonegap-demo
+guid: 4653
 ---
 
 Back in November of last year I <a href="http://www.raymondcamden.com/index.cfm/2011/11/10/Example-of-serverbased-login-with-PhoneGap">blogged</a> an example of adding server-based login to a PhoneGap application. Essentially - how to create an HTML application on your mobile device that calls out to a remote server for authentication purposes. The blog post got quite a bit of traffic (and 100 comments at last count), but today a user pointed out an interesting issue and I thought it would be a great time to post an update to the demo with a fix in place.

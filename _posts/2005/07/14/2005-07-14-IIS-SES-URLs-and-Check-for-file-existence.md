@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/07/14/IIS-SES-URLs-and-Check-for-file-existence
+guid: 625
 ---
 
 So, a user reported a problem in the latest version of the BlogCFC beta. The SES URLs kept returning a 404 error. Turns out, he was running IIS6 with the "Check for file existence" flag turned on. Why would he do that? Well it let's you have nicer 404 errors on an IIS box with multiple servers on it. So this is normally a "good thing." That being said...

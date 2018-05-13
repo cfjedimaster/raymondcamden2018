@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/11/Project-Updates-and-a-small-little-security-fix
+guid: 3189
 ---
 
 Two recent updates I wanted to share with folks. First, <a href="http://pdfutils.riaforge.org/">pdfUtils</a> had a minor update. One of the functions in the CFC is a getText command. This will suck out all the text from a PDF. It used to return text in an array, but if a 3 page PDF had text on pages one and three, you didn't have a way to to know that page two didn't have text. I now return an array of structures where each block of text is also associated with a page number. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/21/thisdatasource-versus-thisormsettingsdatasource
+guid: 4202
 ---
 
 This probably falls into the obvious category, but if you are using ORM and have code that sets the datasource in the ormsettings, it will <b>not</b> apply to basic cfquery calls.

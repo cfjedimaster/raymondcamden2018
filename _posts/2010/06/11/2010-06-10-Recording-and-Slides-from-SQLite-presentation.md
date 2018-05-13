@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2010/06/11/Recording-and-Slides-from-SQLite-presentation
+guid: 3844
 ---
 
 If you missed my presentation yesterday, you can catch the recording <a href="http://experts.na3.acrobat.com/p13404004/">here</a>. You can view the slides, and download the source code, using the viewer below. This is the same SlideSix upload I created for cfObjective, and there were a few tiny changes since then, but nothing I'd call critical. Enjoy.

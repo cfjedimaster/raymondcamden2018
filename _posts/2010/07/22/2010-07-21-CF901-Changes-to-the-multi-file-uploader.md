@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/22/CF901-Changes-to-the-multi-file-uploader
+guid: 3887
 ---
 
 ColdFusion 9 introduced a new Ajax UI control to allow for multiple file uploads. This little control worked well, although it did add some level of complexity to your form process. (See <a href="http://www.raymondcamden.com/index.cfm/2009/11/11/Important-notes-about-ColdFusion-9s-new-multi-file-uploader">this blog entry</a> where I discuss that topic.) ColdFusion 9.0.1 updates the control a bit in a couple of nice ways. Here is what I've found so far.

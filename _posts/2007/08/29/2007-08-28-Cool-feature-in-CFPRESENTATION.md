@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/29/Cool-feature-in-CFPRESENTATION
+guid: 2310
 ---
 
 CFPRESENTATION is one of those tags that are pretty good - but I'm not sure how often I'll use it. While working on WACK though I discovered that the tag has a feature that is pretty darn interesting. As you may (or may not know), the CFPRESENTATION tag creates Connect presentations on the fly. This could be useful for multiple purposes. You could use it to create dynamic portfolios for a company. You could use it for tutorials. Etc. This example creates a basic 2 slide static example:

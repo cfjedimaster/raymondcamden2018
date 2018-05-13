@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/09/Ask-a-Jedi-Moving-items-up-and-down
+guid: 760
 ---
 
 So, a while ago I released a custom tag called <a href="http://ray.camdenfamily.com/downloads/slush.zip">Slush</a>. It was a custom tag that would generate a Flash Form control allowing for left/right controls using select boxes. A user asked me if I had anything like that but with Up/Down type controls. In other words, he wanted to order items in a select box. 

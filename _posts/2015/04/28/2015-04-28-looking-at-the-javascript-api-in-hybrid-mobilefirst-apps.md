@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: [mobilefirst]
 banner_image: 
 permalink: /2015/04/28/looking-at-the-javascript-api-in-hybrid-mobilefirst-apps
+guid: 6073
 ---
 
 I've been blogging lately about hybrid apps and <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a>, and today I thought I'd start investigating the <a href="http://www-01.ibm.com/support/knowledgecenter/SSHS8R_7.0.0/com.ibm.worklight.apiref.doc/apiref/r_ibm_worklight_client_side_api_.html">JavaScript client-side API</a> portion of the product. These are API methods you have available to you in your hybrid application. For today, I'm going to focus on the <a href="http://www-01.ibm.com/support/knowledgecenter/api/content/SSHS8R_7.0.0/com.ibm.worklight.apiref.doc/html/refjavascript-client/html/WL.App.html">WL.App</a> namespace.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/07/ColdFusion-offer-from-Intergral
+guid: 4520
 ---
 
 Intergral, makers of FusionReactor and FusionAnalytics, have a pretty cool offer for folks buying or upgrading ColdFusion:

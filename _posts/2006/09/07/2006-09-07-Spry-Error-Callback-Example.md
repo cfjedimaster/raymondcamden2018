@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/07/Spry-Error-Callback-Example
+guid: 1519
 ---
 
 Today's entry is from a guest blogger. Now before folks get all excited, I don't have a "real" concept of guest blogging here. Rather - he had a good problem with Spry and he shared his solution with me. He doesn't have a blog yet (hmm, someone should consider making a service so it is easy for folks to use BlogCFC w/o needing a real host, hmmm indeed) so I said I'd blog it for him. 

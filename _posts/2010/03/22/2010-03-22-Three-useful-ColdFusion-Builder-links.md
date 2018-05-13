@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/03/22/Three-useful-ColdFusion-Builder-links
+guid: 3760
 ---
 
 So as I've said before - I sometimes have trouble finding things on Adobe.com. If you're like me, hopefully the following two links will help:

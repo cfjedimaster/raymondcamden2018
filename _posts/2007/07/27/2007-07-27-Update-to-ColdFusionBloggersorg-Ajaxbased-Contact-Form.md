@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/27/Update-to-ColdFusionBloggersorg-Ajaxbased-Contact-Form
+guid: 2225
 ---
 
 Today's update to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>  adds a new Contact form to the site. Unlike the traditional contact form, this one is entirely Ajax based. Hop over to the site and click on "Contact" to see what I mean. The idea for this came from <a href="http://cfsilence.com/blog/client/">Todd Sharp</a>. 

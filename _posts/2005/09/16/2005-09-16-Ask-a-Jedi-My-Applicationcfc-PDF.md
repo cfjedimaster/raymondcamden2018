@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/16/Ask-a-Jedi-My-Applicationcfc-PDF
+guid: 785
 ---
 
 A user asks:

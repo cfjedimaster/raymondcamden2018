@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/04/Quick-tip-using-ColdFusionnavigate-instead-of-bindings
+guid: 2392
 ---
 
 A user pinged me during MAX (what's wrong with you guys, didn't I warn you about questions??!? ;) with a problem. He wanted to use a CFDIV tag that bound to a form. The problem was - he didn't want to actually do anything until the form was complete. He was using bindings, and everytime the form changed, the div reloaded, even though the form wasn't complete. There are two simple solutions to this.

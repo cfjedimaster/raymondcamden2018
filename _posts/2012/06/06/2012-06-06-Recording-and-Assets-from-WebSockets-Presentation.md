@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/06/06/Recording-and-Assets-from-WebSockets-Presentation
+guid: 4641
 ---
 
 Thank you to everyone who attended my WebSockets and ColdFusion 10 presentation on Monday. You may find the recording URL here: <a href="https://www.adobe.com/cfusion/event/index.cfm?loc=en_us&id=2045167&event=register_no_session">https://www.adobe.com/cfusion/event/index.cfm?loc=en_us&id=2045167&event=register_no_session</a>. You can download the bits, and slides, via the download link below.

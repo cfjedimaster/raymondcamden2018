@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/05/10/More-playtime-with-Flex-AIR-ColdFusion-and-Flex-Messaging
+guid: 3350
 ---
 
 Since I wrapped GameOne, and begun work on GameTwo, I've been thinking a lot about messaging about AIR/ColdFusion applications. I had an idea today for a simple application. Imagine your web site sells widgets. Every time you sell a widget, your boss wants an alert. You could easily use email, but emails tend to get ignored. How about writing a quick AIR application instead?

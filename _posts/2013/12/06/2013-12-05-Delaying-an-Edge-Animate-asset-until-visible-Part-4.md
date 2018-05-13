@@ -6,6 +6,7 @@ categories: [design,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/12/06/Delaying-an-Edge-Animate-asset-until-visible-Part-4
+guid: 5093
 ---
 
 <p>

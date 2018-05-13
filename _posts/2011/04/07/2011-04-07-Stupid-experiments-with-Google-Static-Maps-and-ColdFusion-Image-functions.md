@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/07/Stupid-experiments-with-Google-Static-Maps-and-ColdFusion-Image-functions
+guid: 4189
 ---
 
 I've blogged before about the Google Static Map API (see <a href="http://www.raymondcamden.com/index.cfm/2010/2/4/Googles-Static-Map-API">this entry</a> from last year), but recently an interesting question came in about the color of Google Maps. The reader wanted to know if it was possible to create black and white maps. Both the JavaScript-enabled maps as well as the static maps allow for some deep color styling. (See the docs <a href="http://code.google.com/apis/maps/documentation/staticmaps/#StyledMaps">here</a> for how to style static maps.) But hue and saturation are greek to me. I was curious to see how easy ColdFusion could possibly make this. Here's what I came up with. Probably not useful to anyone but fun.

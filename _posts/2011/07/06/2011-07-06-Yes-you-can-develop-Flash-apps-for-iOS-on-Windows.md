@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/07/06/Yes-you-can-develop-Flash-apps-for-iOS-on-Windows
+guid: 4297
 ---
 
 I finally got my hands on an iPad2 (yes, the new job has perks) and today I decided to test out building a Flex Mobile application to the device. Others have described the steps in detail so I won't repeat that here, but I'll share how it went for me.

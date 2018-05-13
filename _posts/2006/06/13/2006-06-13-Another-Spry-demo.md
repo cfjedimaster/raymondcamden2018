@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/13/Another-Spry-demo
+guid: 1329
 ---
 
 The more I play with <a href="http://labs.adobe.com/technologies/spry/">Spry</a>, the more I like it. I'd like to show you one more demo...

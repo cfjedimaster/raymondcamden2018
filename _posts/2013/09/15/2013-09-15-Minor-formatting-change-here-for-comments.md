@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/09/15/Minor-formatting-change-here-for-comments
+guid: 5037
 ---
 
 <p>

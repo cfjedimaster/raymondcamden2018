@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/19/Interesting-JSON-issue-to-look-out-for-and-a-cffileupload-bug
+guid: 4200
 ---
 
 This one surprised me - a lot. A reader wrote me this morning about an issue he was having following my <a href="http://www.raymondcamden.com/index.cfm/2010/3/5/ColdFusion-9-Multifile-Uploader--Complete-Example">tutorial</a> on using cffileupload. He reported that files were being uploaded but the Flash control kept returning a red error result to the end user. I whipped out my copy of Charles, an excellent network tool, and looked at the response. It's then I noticed that the JSON response was prefixed with //. Now - this is to be expected if you enable the "Prefix serialized JSON with" option in your ColdFusion administrator. However - all of ColdFusion's front end Ajax-y widgets are supposed to recognize and account for this. The end result being you enable the feature and don't have to worry about changing widgets like cfgrid, cfwindow, etc, and certainly cffileupload. Unfortunately, it looks like there is a bug (the report is <a href="http://cfbugs.adobe.com/cfbugreport/flexbugui/cfbugtracker/main.html#bugId=83573">here</a>) and the feature completely breaks cffileupload.

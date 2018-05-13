@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/08/20/new-site-popularfollowerscom
+guid: 4707
 ---
 
 Back almost two years ago I <a href="http://www.raymondcamden.com/index.cfm/2010/9/24/Listing-your-Twitter-followers-by-popularity-using-50-lines-of-ColdFusion">posted</a> some sample ColdFusion code that retrieved the followers for a Twitter user and then listed them by the number of followers they had. In other words, it told you who your most important followers were. (Well, "important" being measured by the number of followers a person has. One could argue that isn't the most important metric!)

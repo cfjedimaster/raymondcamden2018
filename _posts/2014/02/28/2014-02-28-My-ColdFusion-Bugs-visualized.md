@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/28/My-ColdFusion-Bugs-visualized
+guid: 5169
 ---
 
 <p>

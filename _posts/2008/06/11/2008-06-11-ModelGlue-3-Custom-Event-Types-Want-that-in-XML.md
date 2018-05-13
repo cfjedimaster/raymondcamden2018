@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/11/ModelGlue-3-Custom-Event-Types-Want-that-in-XML
+guid: 2876
 ---
 
 After my last post on <a href="http://www.raymondcamden.com/index.cfm/2008/5/9/ModelGlue-3--Example-of-Custom-Event-Types">custom event types</a> in Model-Glue 3, the reaction was pretty much universal. Nice - but why can't we define these guys in XML?

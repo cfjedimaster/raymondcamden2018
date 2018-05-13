@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/28/Example-of-FlexAIR-Gregs-Toolkit
+guid: 4411
 ---
 
 My boss sent me this yesterday and I think it's one of the coolest examples of Flex/AIR I've seen in a while. <a href="http://www.gregstoolkit.com/">Greg's Toolkit</a> (I love the product, don't love the name so much) is a desktop/mobile application that let's you monitor your Amazon web service assets. It gives you a real time view of your instances. I don't have any great screen shots, but I'll steal one from his site:

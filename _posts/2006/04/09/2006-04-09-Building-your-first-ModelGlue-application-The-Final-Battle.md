@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/09/Building-your-first-ModelGlue-application-The-Final-Battle
+guid: 1197
 ---
 
 <img src="http://ray.camdenfamily.com/images/mg.jpg" align="left" border="1" hspace="5">

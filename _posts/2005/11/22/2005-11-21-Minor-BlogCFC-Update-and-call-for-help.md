@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/22/Minor-BlogCFC-Update-and-call-for-help
+guid: 930
 ---
 
 So, a few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2005/11/20/BlogCFC-Bug-with-MySQLAccess">blogged</a> about an issue with BlogCFC and MySQL/Access. I was able to reproduce it, but for the life of me, I couldn't figure out why the bug occured. I was able to fix it though, so I've updated the zip. Changes include:

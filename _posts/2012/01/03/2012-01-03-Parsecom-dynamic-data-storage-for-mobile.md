@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/03/Parsecom-dynamic-data-storage-for-mobile
+guid: 4479
 ---
 
 <b>Updated September 3, 2012: As just an FYI, since I wrote this post Parse launched a JavaScript API. I'd recommend using that instead of the REST-based API if you are using JavaScript. You can still use the REST-based API, but using their JS API let's you skip some of the authorization issues I had below.</b>

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/15/CFBL-Initial-Stats
+guid: 2594
 ---
 
 CFBL, or ColdFusion's Biggest Loser, is how I'll preface my entries on the topics so those of you who are <strike>skinny jerks</strike>not participating can ignore. After my <a href="http://www.raymondcamden.com/index.cfm/2008/1/14/Wildly-off-topic--Hey-you-fatso">post</a> yesterday, I was really surprised by the turnout. 21 people sent me their stats! That's a great pool size. We also got another prize to give away - Rick Osborne has said he will give away a Nike+ chip for the iPod Nano. From what I know, that is a very cool tool to help exercisers.

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/10/22/What-is-the-best-jQuery-Dump-option
+guid: 3981
 ---
 
 While investigating an issue at work I came across a jQuery based dump utility. You can see an example of it <a href="http://mohammed.morsi.org/blog/node/268">here</a>. Unfortunately it completely failed to work for me in any tests of DOM objects. I could pass in simple arrays and strings just fine, but anything DOM related died. (Even though his screen shots clearly show DOM items.) That led me to do a more generic search for a jQuery-based dump plugin. Two results were found of which one had no download. The remaining one, <a href="http://plugins.jquery.com/project/Dump">Dump</a>, was last updated two years ago but worked fine no matter what I threw at it. It's not as pretty as the ColdFusion dump, but at least it works. I've found myself needing a tool like this recently so I'd like to know if anyone has a better jQuery dump solution? Here is a simple example showing the plugin from tdolsen:

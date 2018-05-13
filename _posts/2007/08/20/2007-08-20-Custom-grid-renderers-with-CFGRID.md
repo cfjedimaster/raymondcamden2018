@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/20/Custom-grid-renderers-with-CFGRID
+guid: 2293
 ---
 
 I've been playing a bit with CFGRID lately (as have others) and I found that by taking a look at <a href="http://extjs.com/">Ext's</a> documentation, there are some <b>very</b> powerful features hiding within the CFGRID tag. ColdFusion provides a function, ColdFusion.Grid.getGridObject, that when used gives you a handler to the underling Ext Grid object. By looking at the <a href="http://extjs.com/deploy/ext/docs/">documentation</a>, you can see which methods are available with the grid. One in particular I thought was pretty neat was the ability to add custom column renderers. What is that?

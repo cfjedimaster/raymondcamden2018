@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2008/03/09/Top-100-SciFi-Books
+guid: 2698
 ---
 
 My buddy Scott sent me this link: <a href="http://home.austarnet.com.au/petersykes/topscifi/lists_books_rank1.html">Sci-Fi Lists - Top 100 Sci-Fi Books</a>. It is a pretty good list of the best books of the genre, although I'm sure people could argue about the order (and what's included or not included). As much I liked Dune, I'm not sure I'd consider it #1. 1984, for example, is a much more important book, although it tends to get all the attention for dystopian literature. For an alternative to 1984, check out <a href="http://www.amazon.com/Modern-Library-Classics-Yevgeny-Zamyatin/dp/081297462X/ref=pd_bbs_2?ie=UTF8&s=books&qid=1205094823&sr=8-2">We</a>. 

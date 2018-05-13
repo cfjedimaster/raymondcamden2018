@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/31/createUUID-speeded-up-in-ColdFusion-9
+guid: 3506
 ---
 
 At CFUNITED, Hemant (Engineering Manager for ColdFusion) mentioned that createUUID was speed up in ColdFusion 9. CreateUUID isn't the fastest function in the world, and has some possible scary implications in some scenarios (see this excellent <a href="http://www.webapper.com/blog/index.php/2009/05/05/createuuid_friendly_function_or_server_killer/">blog post</a> by Tyson Vanek) but I've made use of it for years now in my open source applications because of how easy it is to use across multiple database platforms. I decided to take a look at the speed changes and I was pretty impressed by what I found.

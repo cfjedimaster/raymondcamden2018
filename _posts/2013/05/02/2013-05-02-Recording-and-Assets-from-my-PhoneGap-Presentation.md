@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/05/02/Recording-and-Assets-from-my-PhoneGap-Presentation
+guid: 4924
 ---
 
 For those who attended my PhoneGap presentation earlier this week (or those who just want to hear the sound of my silky-smooth almost Billy Dee Williams voice) you can view the recording at the URL below. Note that if you did not register for the event you will be asked to register before you can view it. To be clear, this is <b>free</b>. 

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2009/02/23/Question-for-Readers-Flex-alignment-with-textarea-controls
+guid: 3249
 ---
 
 Here is an odd one for you. Consider the following Flex code:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/25/Adobes-Active-Content-Fix
+guid: 1233
 ---
 
 So, I don't know about you, but since I don't use the <a href="http://www.microsoft.com/windows/ie/default.mspx">devils' browser</a>, I really haven't been too concerned about the upcoming (now here) EOLAS update which impacts Flash. When the update was rolled out and my project manager noticed the change on a client site, it was time to correct it. 

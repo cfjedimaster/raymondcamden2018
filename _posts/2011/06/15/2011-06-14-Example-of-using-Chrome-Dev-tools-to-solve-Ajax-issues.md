@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/06/15/Example-of-using-Chrome-Dev-tools-to-solve-Ajax-issues
+guid: 4267
 ---
 
 Many moons ago I did a quick video on <a href="http://www.developria.com/2009/06/quick-video-example-of-firebug.html">using Firebug</a> to solve Ajax issues. While Firebug does quite a bit, for me it was primarily an Ajax debugging tool and I showed how to use it to quickly diagnose issues that may be a bit hard to see visually. Most of the time Ajax issues show up as nothing in your browser. Firebug can help make them a lot more apparent. 

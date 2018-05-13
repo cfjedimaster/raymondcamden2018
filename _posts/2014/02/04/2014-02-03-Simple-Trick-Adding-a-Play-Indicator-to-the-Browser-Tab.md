@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/04/Simple-Trick-Adding-a-Play-Indicator-to-the-Browser-Tab
+guid: 5145
 ---
 
 <p>

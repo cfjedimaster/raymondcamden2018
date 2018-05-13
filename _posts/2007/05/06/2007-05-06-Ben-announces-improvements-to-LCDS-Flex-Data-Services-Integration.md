@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/05/06/Ben-announces-improvements-to-LCDS-Flex-Data-Services-Integration
+guid: 2014
 ---
 
 There will be a new gateway that can be used to notify a data services destination of changes in the data being managed by the destination.

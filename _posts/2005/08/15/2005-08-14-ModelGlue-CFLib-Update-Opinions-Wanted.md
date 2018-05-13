@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/15/ModelGlue-CFLib-Update-Opinions-Wanted
+guid: 699
 ---
 
 I've updated the Model-Glue version of CFLib again. You can find it here:

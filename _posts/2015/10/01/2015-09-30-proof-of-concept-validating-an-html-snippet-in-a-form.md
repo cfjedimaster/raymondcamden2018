@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/10/01/proof-of-concept-validating-an-html-snippet-in-a-form
+guid: 6849
 ---
 
 On my blog, I write my entries in pure HTML. WordPress supports a Visual editor too, but I like to write my HTML tags by hand. That's how I've done it for the past twenty years and that's how God intended me to write HTML. (Joking, honestly.) What's nice is that I can leave out some tags, like paragraph markers, and WordPress will handle that for me. I typically just worry about italics, bold, and links.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/06/Handling-CFDIVs-resizes
+guid: 3178
 ---
 
 Omer asks:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/03/29/LOST-Review-for-March-29th
+guid: 1176
 ---
 
 Wow. After <a href="http://ray.camdenfamily.com/index.cfm/2006/3/22/Lost-Review-322">last week's</a> somewhat slow episode, this one really ramped stuff up. It was a Locke-centric episode, which is normally good, and this proved to be no exception. 

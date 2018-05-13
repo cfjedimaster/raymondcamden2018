@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/14/Ask-a-Jedi-UDFs-versus-CFCs
+guid: 2972
 ---
 
 John from Cincinnati (no, not really) asks:

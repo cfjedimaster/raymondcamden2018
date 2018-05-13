@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/28/Lighthouse-Pro-ColdFusion-Bug-Tracker-Version-2
+guid: 997
 ---
 
 I'm happy to announce version 2 of <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a>, my ColdFusion Bug Tracking application. Changes include:

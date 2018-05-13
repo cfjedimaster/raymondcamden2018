@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/05/16/FlexColdFusion-case-sensitivity-gotcha
+guid: 2039
 ---
 
 Yesterday I was helping a ColdFusion user who is just getting into Flex. He kept getting this error:

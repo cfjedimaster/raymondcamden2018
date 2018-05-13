@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/09/29/Adobe-Developer-Connection-Launches
+guid: 2378
 ---
 
 I'm a bit late reporting this, but it looks like the new <a href="http://www.adobe.com/devnet/">Adobe Developer Connection</a> site has launched. I have to say - I'm not quite sure what I think about the UI. But it is definitely new and unique - I'll give it lots of credit for that.

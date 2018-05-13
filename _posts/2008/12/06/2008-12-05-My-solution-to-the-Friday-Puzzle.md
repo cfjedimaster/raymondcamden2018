@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/06/My-solution-to-the-Friday-Puzzle
+guid: 3135
 ---
 
 Based on my <a href="http://www.raymondcamden.com/index.cfm/2008/12/5/Friday-Puzzler-Quick-Stats">post</a> from yesterday, here is my 5 minute 'quick stat' solution to the puzzle. Note, this is not thread safe and it will quickly destroy my server (most likely), but it works!

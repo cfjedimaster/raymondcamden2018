@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/11/21/My-Thanksgiving-Flex-Homework
+guid: 1665
 ---
 
 So far my Flex apps have been very simple - a bunch of forms with remoting calls. Flex makes this very easy. I typically end up with just small problems of getting my layout just right, or making the format exactly right, but I honestly feel like I "get" Flex in terms of layout and controls.

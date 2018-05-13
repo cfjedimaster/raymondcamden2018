@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/11/Preachin-the-VAR-Scope-Gospell
+guid: 2112
 ---
 
 Ok, so I know I go on about VAR scoping like I'm a raving lunatic, but I wanted to share the following "testimonial" from a reader today:

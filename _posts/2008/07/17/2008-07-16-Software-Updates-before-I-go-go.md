@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/17/Software-Updates-before-I-go-go
+guid: 2937
 ---
 
 I'm about to head out of the office so before I do that, a few quick notices about some updates.

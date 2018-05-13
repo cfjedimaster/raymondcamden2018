@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/20/Ask-a-Jedi-Two-ApplicationCFC-Questions-and-a-request
+guid: 1345
 ---
 
 A readers asked a few questions in regards to Application.cfc. I've broken up his request and have some answers below.

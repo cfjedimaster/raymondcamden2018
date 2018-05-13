@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/07/Ask-a-Jedi-Multiple-templates-and-ModelGlue
+guid: 2811
 ---
 
 Shimju asks:

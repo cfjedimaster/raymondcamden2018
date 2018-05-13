@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2012/07/06/Simple-JavaScript-number-format-function-and-an-example-of-Jasmine
+guid: 4668
 ---
 
 I'm officially on vacation this week, but I can't stop myself from doing a bit of code here and there and playing with new toys - or at least things new to me. For a while now I've wanted to write a simple number formatting function in JavaScript. I <i>know</i> there are about 500 libraries out there that do this, but I figured it would be a) fun to write and b) further exercise for the JavaScript-portion of my brain.

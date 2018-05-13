@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/10/16/Another-OS-X-Question-All-my-apps-go-to-the-netherworld
+guid: 2417
 ---
 
 About a week ago something odd happened when I visited <a href="http://kuler.adobe.com">Adobe's kuler</a> site. All of my applications went away. All of them. My dock went away and then returned. I noticed that not all of my apps returned to the top of my screen. It reminded me a lot of killing and restarting Explorer.exe in Windows. I removed Flash, reinstalled, and was able to hit Kuler. Yesterday though the same issue returned. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/24/CFFEED-and-Date-Values
+guid: 2841
 ---
 
 I ran into an interesting issue this week with my work at <a href="http://www.broadchoice.com">Broadchoice</a> and the RSS feeds that some of my code was generating. For some reason the times were off by multiple hours. It wasn't a database issue. When viewing the data in non-RSS mode it was perfect. But as soon as I switched to the RSS feed the problem was pretty bad. Because the hours were so far off, new data wasn't showing up in feed readers.

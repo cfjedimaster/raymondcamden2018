@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/28/Source-code-from-todays-presentations
+guid: 2155
 ---
 
 Sorry for the delay folks (it is technically tomorrow, although my body is still on CST). Attached to this blog entry is one big zip with all the code from my presentations today, including the Paris Hilton CFIMAGE work that I unfortunately didn't get to show off. 

@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/07/11/Delaying-an-Edge-Animate-asset-until-visible-Part-2
+guid: 4981
 ---
 
 A few months back I wrote a blog entry (<a href="http://www.raymondcamden.com/index.cfm/2013/4/3/Delaying-an-Edge-Animate-asset-until-visible">Delaying an Edge Animate asset until visible</a>) that discussed how to ensure folks actually <i>saw</i> your Edge Animate animation. It used a bit of code to detect if the asset was available and if not - listened for scroll events to figure out when it should fire off. A reader asked me an interesting side question. Given an animation that may loop, or a user who may scroll up and down, is it possible to just pause the video when not visible and re-enable it when viewed? Yes! Here is my solution.

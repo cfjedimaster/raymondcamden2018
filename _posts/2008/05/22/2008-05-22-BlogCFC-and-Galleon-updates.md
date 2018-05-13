@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/22/BlogCFC-and-Galleon-updates
+guid: 2840
 ---
 
 I had decided to not work anymore on BlogCFC 5, but with 6 being delayed so long, I gave some love to the 5.X code base tonight. <a href="http://blogcfc.riaforge.org">BlogCFC</a> 5.9.003 was released tonight. Nothing major was changed, but I did switch to <a href="http://coldfish.riaforge.org">ColdFish</a>, the code syntax highlighter written by Jason Delmore. This replaces the ancient code I had in there before. 

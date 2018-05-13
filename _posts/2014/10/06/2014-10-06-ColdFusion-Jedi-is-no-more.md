@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2014/10/06/ColdFusion-Jedi-is-no-more
+guid: 5325
 ---
 
 <p>

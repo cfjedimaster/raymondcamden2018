@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/24/Followup-on-last-factorygalleon-post
+guid: 1858
 ---
 
 In my <a href="http://ray.camdenfamily.com/index.cfm/2007/2/22/Baby-steps-in-Factory-Land-right-over-the-edge-of-a-cliff">last post</a> on object factories, I talked about how my attempt to use an object factory for Galleon had led to infinite loop. More than one person told me to switch to ColdSpring and rethink my CFC setup in general (which I <b>agree</b> with), but at the same time I was curious as to why the factory didn't work when I expected it to. Rob Gonda (who had provided the original code) was able to figure out the issue.

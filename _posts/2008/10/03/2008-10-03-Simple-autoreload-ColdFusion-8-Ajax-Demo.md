@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/03/Simple-autoreload-ColdFusion-8-Ajax-Demo
+guid: 3041
 ---
 
 A user on my forums <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=C3300F90-19B9-E658-9D17FD71521D69BA&">asked</a> about creating a region on his web page that would auto reload, like what he saw on <a href="http://www.att.com">att.com</a>. I used to have an auto-reloading item on <a href="http://www.coldfusionbloggers.org">coldfusionbloggers.org</a>, and I thought I had blogged on it, but wasn't able to find it. Forgive the dupe if you remember an earlier entry about this. Anyway, here is a real simple example.

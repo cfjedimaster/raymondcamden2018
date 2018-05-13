@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/08/Converting-the-color-space-of-an-image-for-PDF-consumption
+guid: 3387
 ---
 
 Reader Morgan W. wrote in a few days ago with an interesting problem:

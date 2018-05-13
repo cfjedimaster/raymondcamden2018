@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/10/Simple-ColdFusion-8-Drop-Shadow-Example
+guid: 2402
 ---
 
 I'm definitely <b>not</b> the first person to do this - but I've been itching to do drop shadows ever since I started playing with ColdFusion 8's new image functionality. My UDF is rather simple. It takes an image and duplicates it. It fills the canvas with white - and than adds an offset black square the same size as the original image. It does a blur, and then pastes on the original image.

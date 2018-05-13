@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/23/Spry-Demo-CFLib
+guid: 1351
 ---
 
 Ok, so I bet folks may be tired of hearing me rave about <a href="http://labs.adobe.com/technologies/spry/">Spry</a>, but I wanted to share another demo I created this morning:

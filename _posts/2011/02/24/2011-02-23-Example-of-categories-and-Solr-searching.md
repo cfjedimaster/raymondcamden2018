@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/24/Example-of-categories-and-Solr-searching
+guid: 4136
 ---
 
 Earlier this week a reader came to me with an interesting question. They were using Solr and ColdFusion 9 and had a collection of products they wanted searched. That part wasn't difficult. But here comes the interesting part. His products were split between male and female products (imagine clothing) as well as unisex items. A search for male products should return both male and unisex items while a search for female products would return female and unisex. This ended up being pretty easy to do and I thought I'd share the example code I wrote.

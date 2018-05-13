@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/03/ModelGlue-Internet-Explorer-and-File-Downloads
+guid: 1136
 ---
 
 So first off, let me apologize. A Model-Glue site I worked on went "live" recently, but I haven't published it since it is a closed site. The site, <a href="http://www.universitynotes.net">UniversityNotes.net</a>, is a site for kids at ULL (my old school) to share notes, old tests, and generally rap about the school. I did this site as a favor to a family friend, and to be honest, I freaking love <a href="http://www.model-glue.com">Model-Glue</a>. Unfortunately, you have to be a student at ULL to register for the site. (Well, to confirm your registration you have to be.) So I can't really show anything from the site.

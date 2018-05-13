@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/25/Two-ColdFusion-10-WebSocket-Experiments
+guid: 4741
 ---
 
 What follows are two little experiments I did with ColdFusion 10 WebSockets. I'm not sure how useful these are but I thought I'd share them. As a reminder, I'll be presenting on WebSockets this weekend at <a href="http://ncdevcon.com/">NCDevCon</a> along with many other people far more intelligent than myself. I think there is something like 2 tickets left so it's not too late!

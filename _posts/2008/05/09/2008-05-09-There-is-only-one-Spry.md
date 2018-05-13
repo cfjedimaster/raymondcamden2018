@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/05/09/There-is-only-one-Spry
+guid: 2817
 ---
 
 Today's picture of the day comes from <a href="http://www.bennadel.com/blog/recent-blog-entries.htm">Ben Nadel</a>:

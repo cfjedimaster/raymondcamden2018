@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/16/Applicationcfc-lookup-order-change-in-ColdFusion-9
+guid: 3490
 ---
 
 In previous versions of ColdFusion, the server would look for an Application.cfc (or CFM) file in the current folder. If it didn't find it, it would begin to 'crawl up' the folder hierarchy until it reaches the root of the drive. 

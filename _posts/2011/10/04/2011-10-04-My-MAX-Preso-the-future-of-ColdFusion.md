@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/04/My-MAX-Preso-the-future-of-ColdFusion
+guid: 4380
 ---
 
 Enjoy...

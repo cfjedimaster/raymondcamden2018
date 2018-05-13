@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/20/Watch-out-for-overly-vague-cfcatch-statements
+guid: 1971
 ---
 
 I just helped a client with an issue that I've run into my own code as well, so I thought I'd share this tip with others. My client came to me and said that a particular feature wasn't working. Without getting into too much detail, imagine the code was something like so:

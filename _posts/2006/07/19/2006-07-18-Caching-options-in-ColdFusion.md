@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/19/Caching-options-in-ColdFusion
+guid: 1411
 ---
 
 This morning (last night?) on cf-talk there was a good <a href="http://www.houseoffusion.com/cf_lists/messages.cfm/forumid:4/threadid:46832">thread</a> started about caching options in ColdFusion. While you have <a href="http://www.techfeed.net/cfQuickDocs/?cfcache">cfcache</a> and query caching out of the box, there are more options out there for advanced caching. On the thread these were mentioned:

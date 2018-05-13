@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/06/28/Flex-2-ColdFusion-702-Released-Flash-9
+guid: 1358
 ---
 
 So I'm probably the last to blog it, but today was the big release day for the Flex 2 platform. (Links will be at the end.) I've already blogged about Flex 2 before and how great it is, but now is an excellent time to download it and start learning the technology. I cannot recommend it enough. 

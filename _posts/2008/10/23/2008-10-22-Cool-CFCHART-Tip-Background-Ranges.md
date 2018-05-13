@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/23/Cool-CFCHART-Tip-Background-Ranges
+guid: 3067
 ---
 
 The following tip comes from reader Rick Drew. He both asked, and solved this, himself, which makes my job a heck of a lot easier! His question was - how do I create a background 'range' on a chart that can be used to compare against data. In other words, imagine a line chart ranging from 1 to 100. Now imagine that these were golf scores and that the desired score (golfers forgive me, I'm making this up) was 50-70. He wanted to plot a background on the graph for that range so it was really clear to see how the scores compared to the desired value.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/18/Cool-and-undocumented-ColdFusion-9-Feature
+guid: 3493
 ---
 
 This didn't quite make the docs, nor do I think it was mentioned at CFUNITED, but one of the more interesting functions added to ColdFusion 9 is getFunctionCalledName. This returns the name of the calling function. Here is a somewhat useless example:

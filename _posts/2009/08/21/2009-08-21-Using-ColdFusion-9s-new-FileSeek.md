@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/21/Using-ColdFusion-9s-new-FileSeek
+guid: 3500
 ---
 
 Another new feature in ColdFusion 9 (and unfortunately not documented) is the new FileSeek ability. The basic idea of seeking in a file is jumping to an arbitrary position. This could be useful for a variety of reasons. For example, certain binary files may store information at the end of a file. Another example is getting the end of a long log file. I <a href="http://www.raymondcamden.com/index.cfm/2009/4/12/Using-ColdFusion-to-get-the-end-of-a-file">blogged</a> about this back in April using Java via ColdFusion. ColdFusion 9 makes this somewhat easier with the addition of FileSeek.

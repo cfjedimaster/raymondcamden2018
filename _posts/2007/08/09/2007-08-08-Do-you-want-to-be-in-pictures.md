@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/08/09/Do-you-want-to-be-in-pictures
+guid: 2265
 ---
 
 Adobe (well, a marketing firm working with Adobe) is looking for people to star in a video for MAX. Details (and pasted doc) are below. Please contact them - not me - for more information.

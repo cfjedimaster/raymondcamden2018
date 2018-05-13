@@ -6,6 +6,7 @@ categories: [coldfusion,development,html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/05/converting-a-dynamic-web-site-to-a-phonegap-application
+guid: 4608
 ---
 
 Earlier today a reader asked me about the possibility of converting his mobile-friendly site into a "real" application via PhoneGap. I told him that this <i>could</i> be very easy. You can take your HTML, upload it to the PhoneGap Builder service, and see what you get. This works with simple HTML sites, but is not going to work well with dynamic sites built with server-side languages. In this blog post, I'll explain why it won't work, and also walk you through an example of converting a (simple) dynamic web site into a PhoneGap application.

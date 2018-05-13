@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix]
 banner_image: 
 permalink: /2015/02/06/using-the-new-bluemix-visual-recognition-service-in-cordova
+guid: 5644
 ---
 
 Before I begin, a quick disclaimer. I've been at IBM for a grand total of five days. Considering three were taken up by travel and orientation, I'm <i>very</i> much the new kid on the block here. I've only begun to look into <a href="https://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> and <a href="http://www.ibm.com/software/bluemix">Bluemix</a> so you should take what I show here with the same confidence you would give anyone using a new technology for two days. In other words - proceed with caution! ;)

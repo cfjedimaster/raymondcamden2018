@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/18/ColdFusion-Ajax-Grid-and-POST
+guid: 2975
 ---
 
 On another listserv (sorry, can't say where, would have to kill you), a user brought up an interesting problem. He was using CFGRID (the Ajax variety) and had bound it to a CFC. No big deal, right? Well his API was somewhat complex. How complex? His method took 61 different arguments. Now frankly I think that is a bit too much (like Paris Hilton doing political ads too much), but it's what he needs and he wants it to work. The problem he is running into though is the size of the URL. You can probably imagine that a URL with 61 different arguments is going to get a bit long, and at some point, it stops working. The solution is simple. Switch to POST. But how do we do that with cfgrid?

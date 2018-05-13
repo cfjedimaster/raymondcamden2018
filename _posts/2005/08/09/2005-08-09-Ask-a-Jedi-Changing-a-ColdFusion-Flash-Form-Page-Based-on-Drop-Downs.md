@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/09/Ask-a-Jedi-Changing-a-ColdFusion-Flash-Form-Page-Based-on-Drop-Downs
+guid: 686
 ---
 
 A user on the CF irc channel asked about how a Flash Form "page" (a tab or accordion doohicky) can be updated based on a drop down. Turns out the code is rather simple:

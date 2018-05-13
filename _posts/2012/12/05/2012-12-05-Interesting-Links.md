@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/12/05/Interesting-Links
+guid: 4801
 ---
 
 I know - a very generic title there. These two things made the rounds on Twitter recently and I realize that not all of my readers are addicted to the Twitter-crack as much as I am. I also thought these were some pretty damn important links so I wanted to share them here as well.

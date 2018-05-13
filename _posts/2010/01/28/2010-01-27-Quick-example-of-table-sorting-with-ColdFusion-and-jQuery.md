@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/01/28/Quick-example-of-table-sorting-with-ColdFusion-and-jQuery
+guid: 3699
 ---
 
 For a while now I've been meaning to take a look at table sorting via jQuery. I finally got a chance to play with it last night and write up a quick demo. My example makes use of <a href="http://tablesorter.com/docs/">Tablesorter</a>, a jQuery plugin that adds (wait for it) table sorting to existing tables. Check the plugin's web site for full documentation on options and demos. Here is a quick example of how easy this is to use.

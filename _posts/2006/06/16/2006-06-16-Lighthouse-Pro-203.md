@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/16/Lighthouse-Pro-203
+guid: 1340
 ---
 
 I've released an update to <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a> today. There are two main changes in this application, both of which were suggested from Dan Sorensen.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/01/Ask-a-Jedi-ColdFusion-datefieldchange-question
+guid: 3038
 ---
 
 Curt Danceswithformfields asked:

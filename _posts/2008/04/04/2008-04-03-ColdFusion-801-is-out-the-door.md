@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/04/ColdFusion-801-is-out-the-door
+guid: 2749
 ---
 
 The title says it all. The latest version of ColdFusion is now available, including both Leopard and 64 bit support and a lot of bug fixes. (Best of all - many CFFEED issues were fixed - more on that later.)

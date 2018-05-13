@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/24/Hooking-up-ColdFusion-and-SQLite
+guid: 3539
 ---
 
 Need to hookup ColdFusion to SQLite? I did. I normally only use SQLite for AIR development, but I had a situation where I needed to seed a database with a large set of data. While AIR can easily do this (it can create the database, the tables, and initial data), I thought it would be nicer if the database was simply prepoulated. 

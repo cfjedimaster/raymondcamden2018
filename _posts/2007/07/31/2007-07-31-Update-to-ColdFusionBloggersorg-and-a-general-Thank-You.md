@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/31/Update-to-ColdFusionBloggersorg-and-a-general-Thank-You
+guid: 2240
 ---
 
 Let me start with the thank you first. In the last few weeks I've gotten a few <a href="http://www.amazon.com/gp/registry/wishlist/ref=yourlists_pop_1/002-1385569-4322431">wish list</a> purchases that were <b>very</b> much appreciated, but were from people who I could not find an email address for. So if you sent me something and didn't hear from me, please know I appreciate it. 

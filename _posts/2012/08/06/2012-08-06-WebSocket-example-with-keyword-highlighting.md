@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/08/06/WebSocket-example-with-keyword-highlighting
+guid: 4695
 ---
 
 In the keynote this morning at <a href="http://www.riacon.com">RIACon</a>, I talked about a few ColdFusion 10 technologies that I found especially interesting. I began with WebSockets. I've blogged about WebSockets and ColdFusion 10 many times already, but I built something interesting for the keynote that I'd like to share.

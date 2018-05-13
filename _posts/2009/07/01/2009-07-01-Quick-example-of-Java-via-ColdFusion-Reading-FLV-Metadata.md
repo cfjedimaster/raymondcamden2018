@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/01/Quick-example-of-Java-via-ColdFusion-Reading-FLV-Metadata
+guid: 3417
 ---
 
 Earlier this week a reader asked if there was a way to read FLV Metadata via ColdFusion. There isn't anything built in (that I know of!) so I did a quick search for a Java solution. I think people forget how easy it is to use Java via ColdFusion. Even if you have no intent, or care, to read FLV Metadata, please read on as the general technique is something I've done many times in ColdFusion, and could be helpful to anyone looking to do something not directly supported via CFML.

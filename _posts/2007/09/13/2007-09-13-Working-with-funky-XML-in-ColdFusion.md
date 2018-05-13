@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/13/Working-with-funky-XML-in-ColdFusion
+guid: 2344
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2007/9/12/My-kul-CFC-Kuler-API-CFC">blogged</a> about writing an interface to the kuler API. A user wrote me and mentioned he had tried to do the same, but ran into a problem with the XML. Kuler's feeds include XML that may look a bit odd. Consider this snippet:

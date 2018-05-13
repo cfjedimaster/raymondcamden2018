@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/07/ColdFusion-8-Admin-API-and-Trusted-Cache
+guid: 2100
 ---
 
 Along with cool tags and functions added in ColdFusion 8, there have also been some neat updates to the Admin API. If you don't know what the Admin API is - it is a set of CFCs that give you programmatic access to various administrator type functions. One example is being able to list and create datasources. Today I want to show one of the new features in the Admin API under ColdFusion 8 - being able to clear individual files from the trusted cache.

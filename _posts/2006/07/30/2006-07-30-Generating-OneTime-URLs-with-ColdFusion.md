@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/30/Generating-OneTime-URLs-with-ColdFusion
+guid: 1439
 ---
 
 Drew asked the following question regarding "one-time" URLs:

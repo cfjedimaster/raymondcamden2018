@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/06/ColdFusion-Newbie-Contest-Entry-8
+guid: 2098
 ---
 
 Welcome to the 8th entry in the <a href="http://www.raymondcamden.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie</a> contest. This is one of three remaining entries. At the end I'll be recapping the entries, talking about what I saw (both good and bad) and announcing the winners. (Did I say winners? Yes I did. I may have more than one prize to share.) As I'm getting close to wrapping up, I'd like to encourage folks to speak up and let me know what they think of these entries. Also feel free to <a href="http://www.coldfusionjedi.com/contact.cfm">contact</a> me and tell me what you think of the contest.

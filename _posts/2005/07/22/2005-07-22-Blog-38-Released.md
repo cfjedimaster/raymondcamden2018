@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/22/Blog-38-Released
+guid: 640
 ---
 
 After a long development period (well, long for me anyway), BlogCFC 3.8 is now finally released. I'm only going to summarize the changes that were made in the beta and the RC. I'll go into more detail about what changed from the RC. 

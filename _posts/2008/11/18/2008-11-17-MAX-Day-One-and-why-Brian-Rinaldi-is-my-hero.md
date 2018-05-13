@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/11/18/MAX-Day-One-and-why-Brian-Rinaldi-is-my-hero
+guid: 3110
 ---
 
 Good morning everyone. I wanted to post a Day One summary last night, but unfortunately I was diverted by Anchor Steam until about 1 in the morning. 

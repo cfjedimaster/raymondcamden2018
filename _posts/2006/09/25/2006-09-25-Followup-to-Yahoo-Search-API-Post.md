@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/25/Followup-to-Yahoo-Search-API-Post
+guid: 1553
 ---
 
 Yesterday I wrote a <a href="http://ray.camdenfamily.com/index.cfm/2006/9/24/Yahoo-Search-API">quick post</a> about using Yahoo's search API. I wanted to follow it up with a slightly more useful example. On of the commenters on my last post noted that Yahoo seemed to respond pretty quickly, and I have to agree. The results take little to no time to return. Anyway, on to the example.

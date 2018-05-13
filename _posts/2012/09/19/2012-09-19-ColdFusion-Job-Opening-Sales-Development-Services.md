@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/09/19/ColdFusion-Job-Opening-Sales-Development-Services
+guid: 4734
 ---
 
 <p>Sales Development Services (SDS), Inc., an industry leading company in media advertising sales, is looking for a full-time ColdFusion developer in suburban Columbus, Ohio.  If interested, please see the job description, below.</p>

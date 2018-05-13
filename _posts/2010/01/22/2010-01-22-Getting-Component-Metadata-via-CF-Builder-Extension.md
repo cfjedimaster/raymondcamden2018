@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/22/Getting-Component-Metadata-via-CF-Builder-Extension
+guid: 3693
 ---
 
 I'm working on a proof of concept ColdFusion Builder Extension for work and it requires that I examine a CFC. That should be easy enough, right? We have the getComponentMetadata function which returns a nice structure of information about the CFC. However, there is one problem with this function. All CFC functions in ColdFusion require a "dot path". Unless the CFC is in the same folder you need to use a "dot path" location to tell ColdFusion how to load the CFC. Since this CFBuilder extension has to work with any CFC on the file system, it isn't really practical to figure out how to get path to that CFC. What follows is one solution to this issue - I'm not terribly happy with it but it seems to work.

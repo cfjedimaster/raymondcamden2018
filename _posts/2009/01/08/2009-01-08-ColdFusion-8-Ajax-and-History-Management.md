@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/08/ColdFusion-8-Ajax-and-History-Management
+guid: 3185
 ---
 
 Earlier this week a reader, Kumar, wrote me with the following question:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/20/CanvasWiki-Updated-Version-13
+guid: 1346
 ---
 
 Another set of updates to <a href="http://ray.camdenfamily.com/projects/canvas">CanvasWiki</a>:

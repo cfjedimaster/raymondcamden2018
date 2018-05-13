@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/18/ModelGlue-Unity-and-Generic-Database-Messages
+guid: 1409
 ---
 
 One of my favorite new features of <a href="http://www.model-glue.com">Model-Glue: Unity</a> is "Generic Database Messages". What are those? MG: Unity can use the power of Reactor to allow for simple CRUD (Create/Read/Update/Delete) operations. You don't need to build a controller or model CFCs, you simply follow a standard format within your configuration XML. Let me focus on the basic "Get All" type functionality. Imagine you have a table of groups (this is exactly what I was working on last night). You could get all the groups by adding this to your event:

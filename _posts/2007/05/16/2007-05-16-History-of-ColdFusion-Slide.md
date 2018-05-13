@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/16/History-of-ColdFusion-Slide
+guid: 2041
 ---
 
 At cfObjective, Jason Delmore of Adobe had a cool slide showing the history of ColdFusion. I bugged him into sending me the slide, and when I didn't have the fonts, I bugged him again for the PDF export. (You can ask various people on the CF team - I'm good at bugging folks.) Anyway - here it is:

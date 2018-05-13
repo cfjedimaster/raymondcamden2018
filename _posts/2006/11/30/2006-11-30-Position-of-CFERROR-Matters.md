@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/30/Position-of-CFERROR-Matters
+guid: 1683
 ---
 
 Chalk this up to the "I can't believe you never saw this before" file. While this is incredibly obvious, I never really ran into this today. Where you put your CFERROR tag (for those using Application.cfm instead of Application.cfc) matters. Consider:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/11/Ask-a-Jedi-Two-yAxis-for-ColdFusion-Charts
+guid: 3096
 ---
 
 Danny asks:

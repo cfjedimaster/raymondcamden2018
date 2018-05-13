@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/28/Ask-a-Jedi-CFGRID-Question-and-Asynchronous-Processes-in-ColdFusion
+guid: 816
 ---
 
 I've got a deal for you today - two questions answered in one entry! The first question is:

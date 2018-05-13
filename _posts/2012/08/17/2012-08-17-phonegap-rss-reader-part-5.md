@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/08/17/phonegap-rss-reader-part-5
+guid: 4705
 ---
 
 For a while now I've been talking about, and upgrading, a basic PhoneGap-based RSS reader application. (See the related entries at the bottom for the earlier iterations.) I was thinking about the application this morning. One of the things I noticed about the application is that when you clicked to read a full article, the application launched the native web browser. In IOS, there wasn't a nice way to get back to the application. On Android, you could use back, but overall, the transition was a bit jarring. I thought this would be a perfect opportunity to try the ChildBrowser plugin.

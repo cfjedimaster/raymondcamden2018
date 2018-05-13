@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/07/Best-of-CF9-MultiMail
+guid: 3676
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is MultiMail, created by Guust Nieuwenhuis and reviewed by Daniel Short. MultiMail was created to solve a problem I'm well aware of - multiple browser tabs dedicated to web based mail clients. Guust's solution was to design a web application that allowed you to define multiple mail accounts (both POP and IMAP). Once your accounts are defined you can then browse the inbox for each. The application also allows you to send mail from any account.  The design is simple, but nice:

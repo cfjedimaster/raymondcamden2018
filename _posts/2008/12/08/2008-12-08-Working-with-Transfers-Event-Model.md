@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/08/Working-with-Transfers-Event-Model
+guid: 3139
 ---
 
 In all my posts so far on Transfer, this is the one I was most looking forward to. I had known, in general, what Transfer did and how it works... kind of. But the event model was something I was completely in the dark with so I couldn't wait to start playing with it. Now that I have, I can say I'm both impressed, and a bit disappointed.

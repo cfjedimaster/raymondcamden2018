@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/19/GoogleDocs-CFC
+guid: 3245
 ---
 
 Many, many moons ago I released some code to work with Google's Documents service. It supported listing documents and downloading... kinda. At the time, downloading wasn't officially documented, and the code completely failed for hosted accounts. Well, Google finally officially released download support, so I spent some time today updating the CFC. With the CFC you can now:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/30/ColdFusion-101-Building-a-Calendar-3
+guid: 1804
 ---
 
 I've finally gotten around to writing the follow up to my <a href="http://ray.camdenfamily.com/index.cfm/2007/1/23/ColdFusion-101-Building-a-Calendar-2">last entry</a> on building a simple calendar in ColdFusion. I mentioned that the next entry was going to focus on making the CSS a bit more configurable, but that's boring. I'll do that next. What folks really want is an example of sending data to the custom tag. So let's get to it.

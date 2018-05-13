@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/13/Ask-a-Jedi-Time-of-last-Verity-Update
+guid: 1095
 ---
 
 Michael asks:

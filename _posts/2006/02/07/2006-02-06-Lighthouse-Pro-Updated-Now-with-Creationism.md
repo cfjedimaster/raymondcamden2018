@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/07/Lighthouse-Pro-Updated-Now-with-Creationism
+guid: 1079
 ---
 
 (Sorry, I couldn't resist the title. It will make sense in a moment.) Today I've released <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro 2.0.2</a>. This release is heavy on the email changes, so lets just dig into the updates:

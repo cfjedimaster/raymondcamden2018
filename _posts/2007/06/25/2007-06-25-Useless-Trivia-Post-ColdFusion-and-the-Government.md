@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/25/Useless-Trivia-Post-ColdFusion-and-the-Government
+guid: 2148
 ---
 
 So with me wrapping up work here and packing for CFUNITED, I probably won't be doing any posts that are - you know - actually worth your time reading. But if you are truly bored and want to hear something a bit funny - read on.

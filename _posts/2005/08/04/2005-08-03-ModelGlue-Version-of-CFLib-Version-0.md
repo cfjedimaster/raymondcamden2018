@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/04/ModelGlue-Version-of-CFLib-Version-0
+guid: 669
 ---
 
 As I mentioned before, I wanted to share my progress with the Model-Glue version of <a href="http://www.cflib.org">CFLib</a> as I made progress. Last night I uploaded the files, set up the server, and now it is running here:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/23/ModelGlue-Tip-ViewStates-getAll
+guid: 2214
 ---
 
 I was just talking to Todd and helping him a bit with some ModelGlue development. He was talking about doing some testing of ViewState values. I mentioned he should use the getAll()  method of the viewState. If you want to quickly see what is available in a view, just drop this line in:

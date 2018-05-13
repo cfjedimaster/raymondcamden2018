@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/01/31/Latest-presentations-and-materials
+guid: 4842
 ---
 
 I'm still at a conference in San Francisco, but I thought I'd post up the links to my last two presentations. These links are both on Github and include an HTML-based slide deck and demos. The JavaScript Lab one will be pretty useless probably without me presenting it, but the IndexedDB one has a set of demos that slowly build up. I think these could be useful for folks looking for some simple examples of the technology.

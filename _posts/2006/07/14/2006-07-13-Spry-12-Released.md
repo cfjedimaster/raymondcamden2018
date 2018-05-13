@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/14/Spry-12-Released
+guid: 1400
 ---
 
 Adobe's AJAX framework, <a href="http://labs.adobe.com/technologies/spry/">Spry</a>, was updated last night to version 1.2. This is still a pre-release but it has some pretty cool new features. From the changelog:

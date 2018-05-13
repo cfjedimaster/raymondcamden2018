@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/12/29/looking-to-learn-node-and-express
+guid: 5494
 ---
 
 <iframe style="width:120px;height:240px;float:left;margin-right:10px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=raymondcamden-20&marketplace=amazon&region=US&placement=1491949309&asins=1491949309&linkId=SNCFNLZB7ZGJTOOP&show_border=true&link_opens_in_new_window=false">

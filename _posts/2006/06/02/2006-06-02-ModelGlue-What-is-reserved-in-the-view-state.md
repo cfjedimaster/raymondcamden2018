@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/02/ModelGlue-What-is-reserved-in-the-view-state
+guid: 1315
 ---
 
 Someone asked me on IRC yesterday what values are reserved in the viewState for Model-Glue. Since Model-Glue doesn't have the best documentation yet (poke Joe!), I pinged him and did a bit of testing. There are currently only four values that exist by default. You should avoid using a viewState/event arg value with these names:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/16/CFJUG-meeting-scheduled
+guid: 1961
 ---
 
 A week or so ago I mentioned my next CFJUG (ColdFusion Jedi User Group) meeting topic but didn't schedule it. I now have a date for it - Monday, April 30th at 5PM CST. This is a bit earlier than I normally do, but hopefully it will still work for folks.

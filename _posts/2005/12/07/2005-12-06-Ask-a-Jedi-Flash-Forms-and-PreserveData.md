@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/07/Ask-a-Jedi-Flash-Forms-and-PreserveData
+guid: 955
 ---
 
 Jimmy has an interesting problem with Flash Forms:

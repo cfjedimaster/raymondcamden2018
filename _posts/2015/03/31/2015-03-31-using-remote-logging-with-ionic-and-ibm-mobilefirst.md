@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/03/31/using-remote-logging-with-ionic-and-ibm-mobilefirst
+guid: 5926
 ---
 
 As the latest in my series of blog posts on <a href="http://ionicframework.com">Ionic</a> and <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a>, today I'm going to demonstrate how to use the remote logging feature of MobileFirst with Ionic. I recommend you read my <a href="http://www.raymondcamden.com/2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework">initial post</a> as  quick guide on how to run Ionic apps inside the MobileFirst platform.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/06/SpoolLockTimeoutException
+guid: 1696
 ---
 
 Anyone else run into this lovely error? It totally fried any emails from <a href="http://www.riaforge.org">RIAForge</a> last night. i did some research and found that <a href="http://www.drisgill.com/index.cfm/2005/11/14/ColdFusion-MX6-and-MX7-Mail-Problem-Snuck-up-on-me">Randy</a> also ran into this and it seems to be a known issue on CFMX7/Linux:

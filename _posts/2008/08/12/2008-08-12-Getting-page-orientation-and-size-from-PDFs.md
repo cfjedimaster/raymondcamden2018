@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/12/Getting-page-orientation-and-size-from-PDFs
+guid: 2970
 ---
 
 I had an interesting conversation today with Josh Knutson. He noticed that the getInfo action of CFPDF did not return either the page orientation (landscape versus portrait). Nor does it say anything about the page size. He needed to put a watermark in a PDF but the position depended on the orientation of the PDF.

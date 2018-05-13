@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/07/InsideRIA-Links-for-March-27-2009
+guid: 3268
 ---
 
 I mentioned (either on the blog, or Twitter, or maybe IM, who knows) that I was writing again for <a href="http://www.insideria.com">InsideRIA</a>. I'll be sharing the links to my entries every Saturday or so. If this doesn't make sense, let me know. I figure not everyone is going to check both blogs religiously.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/15/Application-Report-ColdFusion-Admin-Extension-example
+guid: 4329
 ---
 
 I was having a discussion on a private list when David McGuigan came up with a very interesting idea. What he proposed is <i>very</i> cool and much more than what I'm going to demo here, but I thought a simple proof of concept might be of interest. The core of his idea involved a ColdFusion Administrator tool that would give a live report of running applications. This tool would provide a wealth of data and features, but I thought I'd quickly write up a proof of concept for something a bit simpler. In this example I'll demonstrate how to make use of the Admin API, and specifically the Server Monitor API, to create such a report.

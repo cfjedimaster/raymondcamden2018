@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/30/Doing-form-Post-in-Spry-2
+guid: 1803
 ---
 
 Last week or so I <a href="http://ray.camdenfamily.com/index.cfm/2007/1/14/Doing-a-form-POST-in-Spry">blogged</a>  about doing form postings with Spry. I was asked to provide a bit more documentation so I thought I'd show a slightly more detailed example.

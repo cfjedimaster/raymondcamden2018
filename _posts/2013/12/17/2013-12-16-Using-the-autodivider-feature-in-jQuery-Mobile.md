@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2013/12/17/Using-the-autodivider-feature-in-jQuery-Mobile
+guid: 5104
 ---
 
 <p>

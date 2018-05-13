@@ -6,6 +6,7 @@ categories: [design,development]
 tags: []
 banner_image: 
 permalink: /2014/04/22/Project-Parfait-PSD-Introspection-in-the-Browser
+guid: 5208
 ---
 
 <p>

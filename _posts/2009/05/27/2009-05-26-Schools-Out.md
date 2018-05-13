@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/05/27/Schools-Out
+guid: 3372
 ---
 
 Ok, so this is <i>way</i> off topic, but I wanted to share for all the old timers, like myself, out there. Today is my eldest child's last day of school (the younger two had their last day on Friday). While talking to my son I remembered an episode of the Muppets with Alice Cooper singing School's Out. I wasn't surprised at all to find it on YouTube...

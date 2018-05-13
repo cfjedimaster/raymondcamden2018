@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/20/Var-Scoping-Tool
+guid: 1415
 ---
 
 So, pre-MX my big thing was locking. Post MX (really, CF5) my big "let me get all anal" thing is var scoping. As you have heard me say time after time on this blog, if you forget to var scope, you will end up in big trouble. (That's right, big trouble. Human sacrifice, dogs and cats living together - mass hysteria.)

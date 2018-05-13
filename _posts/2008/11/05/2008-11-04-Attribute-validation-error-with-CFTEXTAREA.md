@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/05/Attribute-validation-error-with-CFTEXTAREA
+guid: 3084
 ---
 
 Here is an interesting little issue a reader ran into this week. Can you tell me why the following code throws an error?

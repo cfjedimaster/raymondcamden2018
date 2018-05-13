@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/29/Can-you-search-a-CFGRID
+guid: 3796
 ---
 
 Here is an interesting question brought to me by Daniel F. Given a CFGRID on a page, is there a way to search through the data? He isn't talking about searching against the database and showing the results in the grid, but rather, simply searching through the client side data within the grid itself. I did some digging, and this is what I came up with. Please remember that ColdFusion 9 shipped with a much newer version of Ext than ColdFusion 8. So if you are still on the previous version of ColdFusion, the following code may not work.

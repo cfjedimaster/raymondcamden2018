@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/10/19/Oh-look-IE7-is-released
+guid: 1596
 ---
 
 Good news! <a href="http://www.microsoft.com/windows/ie/downloads/default.mspx">IE7</a> is now available.

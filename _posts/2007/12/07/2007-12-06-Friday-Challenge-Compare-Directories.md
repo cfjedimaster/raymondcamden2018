@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/07/Friday-Challenge-Compare-Directories
+guid: 2522
 ---
 
 It's been a while since I've done a Friday Challenge. Frankly I just haven't felt very creative. I think everyone goes through cycles of creativity and - um - the opposite of creativity (see, my vocabulary is suffering!) A reader, Kris (very Christmasy!) sent in the following idea, and I think it's pretty good. 

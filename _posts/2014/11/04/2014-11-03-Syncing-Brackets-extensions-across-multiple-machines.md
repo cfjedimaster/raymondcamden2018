@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/11/04/Syncing-Brackets-extensions-across-multiple-machines
+guid: 5342
 ---
 
 <p>

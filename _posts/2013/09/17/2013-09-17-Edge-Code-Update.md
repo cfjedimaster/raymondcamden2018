@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/09/17/Edge-Code-Update
+guid: 5040
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/03/25/PhoneGap-for-the-Enterprise
+guid: 5185
 ---
 
 <p>

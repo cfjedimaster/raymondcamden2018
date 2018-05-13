@@ -6,6 +6,7 @@ categories: [coldfusion,development,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/02/20/ColdFusion-10-Web-Socket-Demos
+guid: 4529
 ---
 
 One of my favorite new features in ColdFusion 10 is the powerful web socket support. If you've never looked at web sockets before, you can check out the <a href="http://en.wikipedia.org/wiki/Web_socket">Wikipedia entry</a>. Simply put, it is  a simple way to create a two way connection between multiple clients (browsers) and your server. Like most things, ColdFusion makes using web sockets incredibly easy. Let's look at a few demos.

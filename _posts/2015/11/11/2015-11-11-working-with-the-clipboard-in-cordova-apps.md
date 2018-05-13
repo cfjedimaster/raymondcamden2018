@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/11/11/working-with-the-clipboard-in-cordova-apps
+guid: 7089
 ---
 
 Earlier this week a friend of mine on Facebook noticed something odd. Facebook recognizes when you have URLs in your clipboard:

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/09/29/jQueryAIR-Quickie-YQL-Tester
+guid: 3546
 ---
 
 This is absolutely pointless, but I love the fact that it took all of five minutes to write. I've been playing quite a bit with YQL lately (I wrote about it <a href="http://www.raymondcamden.com/index.cfm/2009/9/10/Yahoo-Query-Language">here</a>) and even wrote a simple ColdFusion wrapper for it. I thought I'd take a look at how difficult it would be to write a jQuery based "tester". Ie, something I could write basic YQL text in and then see the results. I began with a few building HTML building blocks:

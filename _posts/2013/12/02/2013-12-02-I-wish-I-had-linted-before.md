@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/12/02/I-wish-I-had-linted-before
+guid: 5090
 ---
 
 <p>

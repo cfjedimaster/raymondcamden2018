@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/23/UDF-to-crop-and-highlight-a-block-of-text
+guid: 3663
 ---
 
 Here is a little UDF I worked on this morning. I've had code like this in BlogCFC for a while, but I needed it in a UDF for my Picard project so I just whipped it out. The basic idea is: 

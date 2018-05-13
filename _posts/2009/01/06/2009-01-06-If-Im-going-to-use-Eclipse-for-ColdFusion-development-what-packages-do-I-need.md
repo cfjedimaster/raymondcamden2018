@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2009/01/06/If-Im-going-to-use-Eclipse-for-ColdFusion-development-what-packages-do-I-need
+guid: 3179
 ---
 
 This question just came into my mailbox and I see it enough on cf-talk and other listservs so I figured it warranted a quick blog post. If you are <i>just</i> concerned about doing ColdFusion development with Eclipse, then you want to grab:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/18/Determining-which-component-called-a-method-in-a-parent-class
+guid: 3654
 ---
 
 Here's a question where I had a couple of answers, but I'm willing to bet we can have a good debate as to what would be preferred. I'll post the question, my answers, and then I'd love to see what other people think as well. First, the question from Don:

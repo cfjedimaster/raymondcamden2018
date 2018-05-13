@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/20/Ask-a-Jedi-Tieing-together-multiple-UDFs
+guid: 3061
 ---
 
 Brandon asks:

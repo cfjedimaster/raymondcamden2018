@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2012/08/23/PhoneGap-Build-adds-Hydration
+guid: 4713
 ---
 
 After getting a snazzy UI upgrade a few weeks ago, <a href="http://build.phonegap.com">PhoneGap Build</a> today released their new Hydration feature. You can read more about it at the <a href="https://build.phonegap.com/docs/hydration">docs</a>, but essentially Hydration makes rebuilding much quicker and makes it easier to notify testers of new builds. Let's look at a quick example.

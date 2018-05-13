@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/03/07/Blogbeat-Blog-Stats-Review
+guid: 1140
 ---
 
 A while back, Joe wrote a good <a href="http://www.ajaxcf.com/blog/index.cfm?mode=cat&catid=000910F9-B0D0-4928-F05A3CFB56185D3E">review </a> on using <a href="http://www.measuremap.com">Measure Map</a> with BlogCFC. He graciously let me take a look at his stats - and I absolutely love it. While Google Analytics is "deep", it takes time to really "dig" out the data. 

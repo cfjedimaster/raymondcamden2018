@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/24/Proof-of-Concept-Dashboard-for-Google-Analytics
+guid: 5137
 ---
 
 <p>

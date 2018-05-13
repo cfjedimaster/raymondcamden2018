@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [phonegap]
 banner_image: 
 permalink: /2015/05/01/phonegap-cli-and-templates
+guid: 6098
 ---
 
 A few days ago the PhoneGap team announced an update to the CLI: <a href="http://phonegap.com/blog/2015/04/28/phonegap-cli-5.0.0-0.27.0/">PhoneGap CLI 5.0.0 Released!</a>. To be honest, I don't typically make use of the PhoneGap CLI as I mostly use either Cordova or Ionic. However, I missed an earlier update that I think is pretty cool (and it is one I was able to help out with) - template support.

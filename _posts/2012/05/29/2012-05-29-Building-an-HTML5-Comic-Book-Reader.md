@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/05/29/Building-an-HTML5-Comic-Book-Reader
+guid: 4632
 ---
 
 <b>Edited on February 17, 2013:</b> I was alerted by a reader that this code is broken now. To fix the bug I needed to make one code tweak (noted below) and update to the latest copy of zip.js.

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2011/07/13/Adobe-AIR-3-and-Flash-Player-11-hit-Labs-and-Sony-news
+guid: 4304
 ---
 
 So I'm a bit late to help spread the news, but both <a href="http://labs.adobe.com/technologies/flashplatformruntimes/air3/">Adobe AIR 3</a> and <a href="http://labs.adobe.com/technologies/flashplatformruntimes/flashplayer11/">Flash Player 11</a> betas have hit Adobe Labs. You can check those links for details, but here are some things I'm excited about...

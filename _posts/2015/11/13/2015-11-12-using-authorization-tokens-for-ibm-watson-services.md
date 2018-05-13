@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix,cordova]
 banner_image: 
 permalink: /2015/11/13/using-authorization-tokens-for-ibm-watson-services
+guid: 7101
 ---
 
 This is a handy little trick I discovered last week. It is definitely documented (<a href="https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/gs-tokens.shtml">Using tokens with Watson services</a>), but I had not run into the feature until I was investigating a Watson service. Way back in February I wrote up a blog post that discussed how to use the Visual Recognition service with a Cordova application: <a href="http://www.raymondcamden.com/2015/02/06/using-the-new-bluemix-visual-recognition-service-in-cordova">Using the new Bluemix Visual Recognition service in Cordova</a>. While this worked fine, it had a big problem.

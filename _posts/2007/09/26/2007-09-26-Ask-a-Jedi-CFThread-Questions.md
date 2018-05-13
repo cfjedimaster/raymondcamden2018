@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/26/Ask-a-Jedi-CFThread-Questions
+guid: 2372
 ---
 
 Nathan Smith sent me some good questions on CFThread. I've broken up his email and bit and have commented with my opinions. I'd like to know what others think as well. CFThread is brand new to the language. Just like we are <i>still</i> debating the best way to use CFCs, I think we have a long road ahead of us deciding what is 'best practices' for this feature. Anyway - Nathan's email:

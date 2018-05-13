@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2012/06/22/Ask-a-Jedi-ColdFusion-WebSockets-and-Subchannels
+guid: 4654
 ---
 
 It has been <i>way</i> too long since I did a "Ask a Jedi" post! This was a simple question, but I thought it might be interesting to others considering WebSockets and ColdFusion 10. Matthew asked:

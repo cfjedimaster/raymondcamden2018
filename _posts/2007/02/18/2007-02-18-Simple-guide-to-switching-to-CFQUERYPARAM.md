@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/18/Simple-guide-to-switching-to-CFQUERYPARAM
+guid: 1845
 ---
 
 I've had a few requests to quickly review how to switch a dynamic query not using cfqueryparam to one that <i>is</i> using cfqueryparam. I've covered the reasons for using them many times (basically sql injection and performance). There are also things you lose (like ColdFusion's built in query caching). With that in mind - here is basic rule to consider when figuring out if you need cfqueryparam:

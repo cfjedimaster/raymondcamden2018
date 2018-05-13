@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/04/Searching-multiple-ColdFusion-SOLR-Collections-at-once
+guid: 4072
 ---
 
 Did you know that cfsearch allows you to search against multiple collections? As long as you aren't searching against categories you can search against as many collections you want. You simply add them to the COLLECTION attribute and go for it. However, a reader noticed something odd. His results were sorted by collection, not be score. So all the results for the first collection were returned in the results first followed by results in the second query. To test this myself I created two collections. The first contained all the HTML files from the ColdFusion docs. I called this collection cfref. I then created another collection of the Word docs from CFWACK. These are my own copies and are just a small part of the book but I thought it would give me nicely similar content to search against. I then tried the following code:

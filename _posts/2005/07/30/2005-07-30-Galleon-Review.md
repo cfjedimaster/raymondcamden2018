@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/30/Galleon-Review
+guid: 656
 ---
 
 I got this today in my email and just had to share it:

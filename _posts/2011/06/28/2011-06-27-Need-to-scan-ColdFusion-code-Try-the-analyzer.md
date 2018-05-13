@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/28/Need-to-scan-ColdFusion-code-Try-the-analyzer
+guid: 4286
 ---
 
 This recently came up on cf-talk and I thought I'd share the idea here as well. A poster to cf-talk had an issue where he was given an <i>extremely</i> large code base with lots of errors in it. In his case, the errors were compile time base - things that would immediately throw an error when loaded by ColdFusion. (For an example of compile time versus run time errors, see the very end of this post.) His particular error was consistent - bad use of pound signs, so perhaps something like this.

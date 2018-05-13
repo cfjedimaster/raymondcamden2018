@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/04/Mashups-of-CanIUsecom-data
+guid: 4722
 ---
 
 I would hope, <i>really</i> hope, that my readers are aware of <a href="http://caniuse.com/">When Can I Use</a>. It's a site that gives you quick access to a multitude of HTML5/CSS/etc features and their support over a wide variety of browsers and versions. It is <b>the</b> place I check when I need to see if a particular feature is supported on a particular platform. Towards the end of last week, someone tweeted that it would be cool if you could see a support matrix for multiple features at once. So for example, what if I wanted to see what browsers support both canvas and html5 form features. (Because certainly the browser engineers would focus their time on useful form features over silly graphical drawing surfaces. Oh god, I've gone off on a rant again. Ignore me.) Turns out that <b>all</b> of the data for the site is shared publicly on GitHub: <a href="https://github.com/fyrd/caniuse">https://github.com/fyrd/caniuse</a>

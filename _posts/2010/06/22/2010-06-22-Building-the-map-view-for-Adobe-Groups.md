@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/22/Building-the-map-view-for-Adobe-Groups
+guid: 3859
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/aug-map-4.png" align="left" style="margin-right: 5px" /> Earlier this month I pushed up a new feature to the <a href="http://groups.adobe.com">Adobe Groups</a> site - a <a href="http://groups.adobe.com/index.cfm?event=page.maps">map of all the user groups</a>. (And by all I mean those who entered geographic information.) This feature makes use of the Google Map API and the new CFMAP tag in ColdFusion 9. I thought folks might want a little explanation of the code behind this feature. I don't put this out as the most efficient maps demo or the coolest, but hopefully it will help others. 

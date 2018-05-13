@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/29/NonLeopard-OSX-ColdFusion-install-issue-to-watch-for
+guid: 2440
 ---
 
 I didn't discover this - but it was reported to me by a friend and former coworker, <a href="http://www.venturegeek.com/">Nathan Dintenfass</a>. I'm copying his findings here verbatim:

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/06/jQuery-UI-17-Released
+guid: 3266
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//Picture 225.png" align="left" style="margin-right:10px">

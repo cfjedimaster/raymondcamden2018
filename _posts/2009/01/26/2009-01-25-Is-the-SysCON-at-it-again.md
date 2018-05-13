@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/26/Is-the-SysCON-at-it-again
+guid: 3209
 ---
 
 Joe Rinehart pinged me this morning about the 'rebirth' of an old enemy: Sys-Con. They are using the new name of Ulitzer. You can find them here (not using a real link so as to not give them any Google credit): coldfusion.ulitzer.com

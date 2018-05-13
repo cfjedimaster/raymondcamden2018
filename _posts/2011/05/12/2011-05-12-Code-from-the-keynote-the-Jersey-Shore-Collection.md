@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/05/12/Code-from-the-keynote-the-Jersey-Shore-Collection
+guid: 4229
 ---
 
 Below you will attached the code from my "Jersey Shore" collection of CFBuilder, including:

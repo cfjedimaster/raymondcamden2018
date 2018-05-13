@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/10/26/Quick-ColdFusionjQuery-Google-Ajax-Language-Example
+guid: 3577
 ---
 
 A few weeks ago <a href="http://jamesedmunds.com/poorclio/">James Edmunds</a> (fellow manager of our local user group and local ColdFusion developer) demonstrated a very slick example of the <a href="http://code.google.com/apis/ajaxlanguage/">Google Ajax Language</a> API. This is a set of APIs that allow for translation services. I thought I'd take some time to play with it myself and share a simple example or two.

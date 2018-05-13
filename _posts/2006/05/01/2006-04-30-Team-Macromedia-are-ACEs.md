@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/01/Team-Macromedia-are-ACEs
+guid: 1239
 ---
 
 I think this has been out for a while now but I never got around to updating my sig. Team Macromedia is now Adobe Community Experts. In other words, I'm now an Ace, which sounds a heck of a lot like a fighter pilot call sign, which is fine by me. When I started off in this program it was Team Allaire, so this is the second name change I've been through.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/13/Quick-XML-tip-inserting-HTML-into-an-XML-object
+guid: 3939
 ---
 
 (<b>Quick edit: I think some of the HTML blocks I posted were escaped poorly in the blog post. I've got to run, but if so, I'll fix them later today.</b> <b>Second Edit - I replaced the badly formatted code examples with screen shots.</b>) This came up on cf-talk (both the question and the answer from almost three years ago!) and I thought it would be good to share. Jake Munson noted that whenever he tried to insert HTML into an XML object, the HTML ended up escaped. Let's look at a quick example.

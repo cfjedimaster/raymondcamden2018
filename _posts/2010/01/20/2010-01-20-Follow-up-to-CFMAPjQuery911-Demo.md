@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/01/20/Follow-up-to-CFMAPjQuery911-Demo
+guid: 3690
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2010/1/19/Proof-of-Concept-911-Viewer">blogged</a> about a proof of concept 911 viewer I built using CFMap and jQuery. The first example simply retrieved all of the 911 reports and mapped them at once. The second demo was more complex. This demo actually showed you map data from the beginning of the collection to the most recent report. Watch the <a href="http://www.coldfusionjedi.com/demos/traffic.swf">video</a> if that doesn't make sense. Let's look at how I built that demo. (Warning: I'm going to jump around a bit code wise but at the end I'll paste the entire template.)

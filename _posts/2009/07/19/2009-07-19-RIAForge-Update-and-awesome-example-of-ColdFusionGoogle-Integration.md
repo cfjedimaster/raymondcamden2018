@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/19/RIAForge-Update-and-awesome-example-of-ColdFusionGoogle-Integration
+guid: 3451
 ---
 
 Today I pushed a new update to <a href="http://www.riaforge.org">RIAForge.org</a>, and it's something I think that even non-RIAForge users may be interested in. A few weeks ago, Todd Sharp released <a href="http://cfgoogle.riaforge.org/">ColdFusion Google API</a>, a set of packages to integrate with Google. I've played a bit in this area as well, and Todd made use of a bit of my code as well (the benefits of sharing code, everyone wins). Part of his package is the ability to integrate with Google Analytics.

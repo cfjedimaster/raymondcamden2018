@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/06/Ben-announces-ColdFusion-AJAX-Wizard-for-Eclipse
+guid: 2012
 ---
 
 I'm blogging from Ben's keynote so as before, pardon the scattered nature. New feature announced today - the ColdFusion AJAX Wizard in Eclipse. Wizard asks you various questions - uses the query builder - pretty similar to Flex Wizard it seems. On generation you get a new project and all the files you need. The result is pretty darn sexy considering he spent all of four minutes building it. 

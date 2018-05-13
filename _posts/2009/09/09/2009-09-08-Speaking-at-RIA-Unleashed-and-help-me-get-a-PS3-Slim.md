@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/09/Speaking-at-RIA-Unleashed-and-help-me-get-a-PS3-Slim
+guid: 3518
 ---
 
 I've been a bit lax in mentioning this, but I was invited to, and accepted a speaking slot at <a href="http://www.riaunleashed.com/">RIA Unleashed</a> in Boston this fall. I'll be speaking on ColdFusion 9's CFaaS feature (ColdFusion as a Service). Early bird <a href="http://www.riaunleashed.com/page.cfm/register">registration</a> is a whopping 30 dollars - less than a bar tab typically - so you have no reason <i>not</i> to attend, right?

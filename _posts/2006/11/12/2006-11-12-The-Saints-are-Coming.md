@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/11/12/The-Saints-are-Coming
+guid: 1650
 ---
 
 I'm not a huge fan of Green Day (although I love the American Edit mashup of American Idiot), but this video, and song, absolutely broke my heart:

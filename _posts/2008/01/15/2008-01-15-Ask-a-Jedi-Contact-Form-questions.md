@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/15/Ask-a-Jedi-Contact-Form-questions
+guid: 2595
 ---
 
 Today I have another question from Tony:

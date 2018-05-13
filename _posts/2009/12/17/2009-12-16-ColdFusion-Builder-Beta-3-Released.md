@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/17/ColdFusion-Builder-Beta-3-Released
+guid: 3653
 ---
 
 The 3rd public beta of ColdFusion Builder has been <a href="http://labs.adobe.com/technologies/coldfusionbuilder/">released</a> to the Labs. Go grab it now. ColdFusion Builder has been my primary IDE for a few months now and I've been <i>very</i> happy with its progress. Some darn nifty things are in this new beta, including ORM hinting, a SQL editor(*), extensions updates, and support for building AIR applications. Check the <a href="http://labs.adobe.com/wiki/index.php/ColdFusion_Builder">release notes</a> for more information. 

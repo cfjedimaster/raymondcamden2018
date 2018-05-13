@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/02/ColdFusionSpry-Kit-Proof-of-Concept
+guid: 1632
 ---
 
 So - in case folks are curious - I now have both a dishwasher and the Internet back at my house. I feel like I've returned to the modern world. (Yes, I'm spoiled.)

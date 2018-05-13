@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/23/Ask-a-Jedi-Apache-Virtual-Hosts-and-Remoting
+guid: 865
 ---
 
 Scott asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/01/Ask-a-Jedi-AjaxProxy-and-working-with-CFCs
+guid: 2628
 ---
 
 Mark asks a question about working with CFCs over AjaxProxy:

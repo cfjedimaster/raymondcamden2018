@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/28/Ask-a-Jedi-Refreshing-Application-Variables
+guid: 940
 ---
 
 A reader asks, 

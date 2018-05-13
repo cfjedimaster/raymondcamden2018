@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/22/12-Days-of-Christmas-Yahoo-Style-2009
+guid: 3661
 ---
 
 Two years ago I whipped up a <a href="http://www.raymondcamden.com/index.cfm/2007/12/14/12-Days-of-Christmas--Yahoo-Style">quick blog entry</a> demonstrating how to make use of the <a href="http://cfyahoo.riaforge.org">CFYahoo</a> ColdFusion library to retrieve images related to the 12 Days of Christmas. I was thinking of this entry and thought it would be nice to repost the code and use more current results. So nothing new here, nothing serious, just something a bit cute (imho). The code:

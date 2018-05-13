@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/19/Quick-Frameworks-Tip
+guid: 3404
 ---
 
 I originally wrote this as a Model-Glue tip, but I believe it applies to frameworks in general. This is something that's bitten me in the rear a few times now, and it's finally sunk in and I thought I should blog it. (Why is it that some lessons needs to be repeated multiple times before we learn?)

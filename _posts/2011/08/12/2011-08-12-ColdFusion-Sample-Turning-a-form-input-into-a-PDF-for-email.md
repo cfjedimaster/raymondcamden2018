@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/12/ColdFusion-Sample-Turning-a-form-input-into-a-PDF-for-email
+guid: 4325
 ---
 
 This idea came from a discussion today on the cf-newbie mail list. Zelda (real name, or real name in the sig, either way, cool) described a situation where she need to...

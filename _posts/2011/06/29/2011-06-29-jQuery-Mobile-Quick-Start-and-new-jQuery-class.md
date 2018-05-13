@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/06/29/jQuery-Mobile-Quick-Start-and-new-jQuery-class
+guid: 4289
 ---
 
 I've been working on a quick start for <a href="http://www.jquerymobile.com">jQuery Mobile</a> for some time now. The draft has been done but waiting for some final edits. Unfortunately, the jQuery Mobile team decided they could still make improvements (what's wrong with those jerks!) so my quick start needs both some formatting updates and some changes to reflect recent changes. With that being said, I thought it might be useful to share the current version (minus most formatting) as it may be helpful to folks. Only a few things will change between now and final release, and I do think it is a good, and simple, introduction to the technology. But that's me - you guys let me know.

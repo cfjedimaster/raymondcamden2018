@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/03/09/need-to-test-a-service-that-doesnt-use-cors-theres-a-plugin-for-that
+guid: 5801
 ---
 
 Just a quick note - if you are trying to test a service that does <strong>not</strong> use CORS and want to hit via your desktop browser, there is a Chrome extension that let's you enable CORS for any particular URL you want to test. This is great for people using their desktop browser to prototype hybrid mobile applications. The plugin is called "Allow-Control-Allow-Origin: *" (rolls off the tongue, doesn't it?) and can be downloaded <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en">here</a>. 

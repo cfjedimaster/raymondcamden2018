@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/25/Bug-with-Ajax-HTML-Grid-and-File-Upload-Forms
+guid: 2987
 ---
 
 Dave sent me an interesting bug this weekend. Turns out if you use an HTML grid, and if you use enctype="multipart/form-data" in your form (required for file upload forms), you get a bug when posting to the server. If you want to try this right now, skip to the end of this post and run the CFM there. (By the way, a <b>huge</b> thank you to David for sending me a question along with a script I could just save and run. That makes it a thousand times easier to help!) David's script simply has a grid and a submit button. If you select a row in the grid and submit the form, you get:

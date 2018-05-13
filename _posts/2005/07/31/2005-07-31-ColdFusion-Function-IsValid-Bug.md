@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/31/ColdFusion-Function-IsValid-Bug
+guid: 657
 ---
 
 The following information was sent to me by Baz (he didn't send a last name, so for now I'm assuming he is an eccentric rock star looking to change careers and become a web developer). As you know, or may not know, CFMX7 added a cool new function called <a href="http://livedocs.macromedia.com/coldfusion/7/htmldocs/00000534.htm">isValid()</a>. isValid lets you do all kinds of nice checking on strings. For example:

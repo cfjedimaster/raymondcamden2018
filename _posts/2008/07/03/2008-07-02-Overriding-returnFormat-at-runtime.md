@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/03/Overriding-returnFormat-at-runtime
+guid: 2912
 ---
 
 Ok, so this falls in the "Not so sure this is a good idea" department. Stefan Vesterlund posted a comment on my <a href="http://www.raymondcamden.com/index.cfm/2008/6/3/Be-careful-with-returnFormat-and-JSON">last blog entry</a> concerning returnformat. He asked if it was possible to change the returnFormat at runtime. I said that I didn't think it was possible, but that you could simply use returnFormat="plain" and return JSON or WDDX manually. He played around with it and discovered you <i>could</i> override the default behavior. Consider the following code sample.

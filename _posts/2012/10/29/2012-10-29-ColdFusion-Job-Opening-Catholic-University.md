@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/10/29/ColdFusion-Job-Opening-Catholic-University
+guid: 4770
 ---
 
 Just passing it on...

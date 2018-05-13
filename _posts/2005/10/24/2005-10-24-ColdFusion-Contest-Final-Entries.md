@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/24/ColdFusion-Contest-Final-Entries
+guid: 866
 ---
 
 So, this contest has taken <i>way</i> longer than I thought it would, but that just speaks to how many responses I got, which I think is a good thing. If you haven't looked at the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/12/ColdFusion-Contest-Entry-Examined--Part-5">previous entries</a>, I suggest that you do so. I'm going to quickly link to and point out the final two entries, and tonight I will pick a winner. (Along with releasing Starfish Version 0 hopefully.)

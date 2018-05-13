@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/22/PhoneGap-Day-US-and-EU-Announced
+guid: 5272
 ---
 
 <p>

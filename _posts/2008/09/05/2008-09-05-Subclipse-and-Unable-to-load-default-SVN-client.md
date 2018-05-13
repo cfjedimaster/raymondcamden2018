@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/09/05/Subclipse-and-Unable-to-load-default-SVN-client
+guid: 3000
 ---
 
 I recently had to reinstall Eclipse (for the 10th time) and I ran into a problem when trying to open a repository with Subclipse. Every time I went to open a repo, I got:

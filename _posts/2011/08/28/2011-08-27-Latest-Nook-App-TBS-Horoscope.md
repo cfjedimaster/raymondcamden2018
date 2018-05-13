@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/08/28/Latest-Nook-App-TBS-Horoscope
+guid: 4344
 ---
 
 A week or so ago I shared my <a href="http://www.raymondcamden.com/2011/08/19/Thoughts-on-developing-for-the-Nook">thoughts</a> on developing for the NookColor. Today I'm happy to say my second Nook app is available on the market. The turn around time for this app was <i>much</i> quicker than before. I had the idea for it last Sunday. By Monday night it was almost done. Tuesday I submitted my metadata and it was approved in a couple hours. I then submitted the application and it was approved by Friday. I checked Friday and it wasn't in the store yet, but as of this morning it's there. I'm pretty sure it was out Saturday as I'm seeing a few sales already.

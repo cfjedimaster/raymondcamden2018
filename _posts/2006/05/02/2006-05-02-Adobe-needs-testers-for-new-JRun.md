@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/02/Adobe-needs-testers-for-new-JRun
+guid: 1244
 ---
 
 Adobe asked if I could share the word:

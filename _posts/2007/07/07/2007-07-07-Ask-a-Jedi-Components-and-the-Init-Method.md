@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/07/Ask-a-Jedi-Components-and-the-Init-Method
+guid: 2178
 ---
 
 Joel asks:

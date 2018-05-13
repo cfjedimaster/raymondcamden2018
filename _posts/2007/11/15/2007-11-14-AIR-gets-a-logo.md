@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/11/15/AIR-gets-a-logo
+guid: 2476
 ---
 
 My readers know I'm a <b>big</b> fan of Adobe AIR. I have not had the time to play with it lately as I would like (although I am working on something a bit special with a friend) but I still encourage folks to <a href="http://labs.adobe.com/technologies/air/">check it out</a>. Mike Chambers just <a href="http://www.mikechambers.com/blog/2007/11/15/introducing-the-adobe-air-logo/">announced on his blog</a> the final AIR logo, and as we all know, you aren't a product without a logo:

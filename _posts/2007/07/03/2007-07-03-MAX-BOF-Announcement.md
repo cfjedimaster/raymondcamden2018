@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/03/MAX-BOF-Announcement
+guid: 2169
 ---
 
 The MAX BOFs (Birds of a Feather) will be a bit more impressive this year. For the first time, attendees will get a chance to suggest and vote for what BOFs are run. Even better - food and drink will be provided. (Ok, so maybe food is a bit <i>too</i> important to me. :) Ted has all the details over at his blog:

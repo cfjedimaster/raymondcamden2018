@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/04/14/MultiFile-Uploads-and-Multiple-Selects-Part-2
+guid: 5200
 ---
 
 <p>

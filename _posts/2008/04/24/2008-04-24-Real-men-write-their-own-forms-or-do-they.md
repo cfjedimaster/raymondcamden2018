@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/04/24/Real-men-write-their-own-forms-or-do-they
+guid: 2786
 ---
 
 I have to admit that I'm kind of a - dare I say - diva - when it comes to forms. I prefer to type them out and do all the validation by hand. In the past I've written form 'helpers' to handle generating and validating forms (*), but I haven't done that for quite some time. I feel like I've written a few million forms in my life time, and I'm sure I'll write a few million more.

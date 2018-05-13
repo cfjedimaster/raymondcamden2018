@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/07/Wrapping-a-call-to-the-Twitter-user-lookup-API-with-ColdFusion
+guid: 4260
 ---
 
 I just wrote a quick UDF (available now on <a href="http://www.cflib.org/udf/getTwitterUser">CFLib</a>) that wraps the call to Twitter's user look up system. Like most Twitter APIs, this one is ridiculously simple, but I need this code for another project I'm working on (technically I need it in Flex, but the ColdFusion version helps me understand how I'll write that) so I thought I'd write it up real quick like. Here is getTwitterUser:

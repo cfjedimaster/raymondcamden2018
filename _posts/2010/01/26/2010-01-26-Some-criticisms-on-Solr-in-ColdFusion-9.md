@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/26/Some-criticisms-on-Solr-in-ColdFusion-9
+guid: 3696
 ---
 
 Recently Ryan Stille (one of the new ColdFusion ACPs) posted a <a href="http://www.raymondcamden.com/index.cfm/2009/10/30/Some-basic-SolrVerity-Differences#c9324ABC1-E28B-2975-6C4DBC3334AB2905">comment</a> on my blog entry, <a href="http://www.coldfusionjedi.com/index.cfm/2009/10/30/Some-basic-SolrVerity-Differences">Some Basic Solr/Verity Differences</a>. In that comment he pointed out that he was noticing differences in results returned by Verity and Solr. No big surprise there - but what was surprising was the <i>lack</i> of data returned by Solr. Spurred on by his comment I did some testing of mine and I have to say - I'm pretty disappointed. What follows are some findings in regards to testing <b>file based</b> collections in Solr and Verity. I'll point out that all of this has been brought to Adobe, so I'm not just complaining but actively trying to improve the problem for ColdFusion 9.X.X (i.e., whatever comes next).

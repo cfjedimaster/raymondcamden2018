@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/25/Server-Monitor-Alerts-in-ColdFusion-8
+guid: 2219
 ---
 
 So this isn't exactly old news, but while I've played quite a bit with the new Server Monitor in ColdFusion 8, I never really took a good look at the Alerts section. This week I finally took some time to play with alerts. Alerts are a great way to monitor your box without having to have the Server Monitor constantly running in a browser window. As you can guess, alerts will monitor various different things on your server and let you know if something goes wrong. 

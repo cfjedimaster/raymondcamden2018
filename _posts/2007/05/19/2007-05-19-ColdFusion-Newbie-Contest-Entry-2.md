@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/19/ColdFusion-Newbie-Contest-Entry-2
+guid: 2052
 ---
 
 <img src="http://ray.camdenfamily.com/demos/contest6/sheep1.jpg" align="left" hspace="10"> Ok, I have to admit. I'm completely impressed by the first two entries in my <a href="http://ray.camdenfamily.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">newbie ColdFusion contest</a>. 

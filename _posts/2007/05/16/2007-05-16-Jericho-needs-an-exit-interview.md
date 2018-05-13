@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/16/Jericho-needs-an-exit-interview
+guid: 2040
 ---
 
 <img src="http://ray.camdenfamily.com/images/jericho.jpg" align="left" hspace="10">

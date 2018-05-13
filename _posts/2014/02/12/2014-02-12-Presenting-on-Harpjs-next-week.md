@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/12/Presenting-on-Harpjs-next-week
+guid: 5150
 ---
 
 <p>

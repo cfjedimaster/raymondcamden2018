@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/24/550-New-BlogCFC-Installs
+guid: 1290
 ---
 
 Forgive me for tooting my own horn (and there is a practical side to this entry as well), but <a href="http://www.hellometro.com">HelloMetro.com</a> went live with 550 new installs of BlogCFC. The installs are all virtual for their 550 city sites. More info at the <a href="http://www.prweb.com/releases/2006/5/prweb389917.htm">press release</a>.

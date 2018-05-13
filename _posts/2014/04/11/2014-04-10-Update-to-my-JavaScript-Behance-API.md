@@ -6,6 +6,7 @@ categories: [design,javascript]
 tags: []
 banner_image: 
 permalink: /2014/04/11/Update-to-my-JavaScript-Behance-API
+guid: 5198
 ---
 
 <p>

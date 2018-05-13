@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/19/Goodbye-MAX-and-One-More-Thing
+guid: 860
 ---
 
 At my final session at MAX today I decided to give people a little sneak peek into something I've been working on. Ever since the demo of New Atlanta's CF Profiler at CFUNITED, I've been working on something simular within the CFMX framework. I had always wanted to take a look at the debug templates (which are open sourced by the way, did you know that?), and in fact, I released a small example of this a few agos with my <a href="http://www.raymondcamden.com/index.cfm/2005/10/4/CFC-Debugging">CFC debugger</a> mod. 

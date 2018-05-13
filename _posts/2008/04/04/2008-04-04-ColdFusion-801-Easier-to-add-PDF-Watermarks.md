@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/04/ColdFusion-801-Easier-to-add-PDF-Watermarks
+guid: 2753
 ---
 
 ColdFusion 8.0.1 makes it much easier to add watermarks to PDF documents. In the past you had to either use an image or another PDF, but now you can simply pass in text. You can even pass in styled text. Here is a simple example.

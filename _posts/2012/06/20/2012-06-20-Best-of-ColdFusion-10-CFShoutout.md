@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/06/20/Best-of-ColdFusion-10-CFShoutout
+guid: 4652
 ---
 
 Our third entry in the <a href="http://www.raymondcamden.com/index.cfm/2012/2/29/Best-of-Adobe-ColdFusion-10-Beta-Contest">Best of ColdFusion 10</a> contest comes from Ben Dalton. It mixes quite a few ColdFusion features including REST, Web Sockets, and ORM/Solr. On top of that, it is also one of the first uses I've seen of ESRI's mapping service. Most people use Google Maps but it certainly isn't the only option. Ben also mixed in HTML5 geolocation for good measure.

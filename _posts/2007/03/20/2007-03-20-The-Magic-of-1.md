@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/20/The-Magic-of-1
+guid: 1907
 ---
 
 Yesterday I was doing some training and my student asked me to explain the logic behind this code:

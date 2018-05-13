@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/12/09/Sunday-OT-Post-Transformative-Media
+guid: 4805
 ---
 
 I apologize for what is, on reflection, an incredibly obtuse title. Frankly, I couldn't think of a better way to describe what had been in my head this week but as it is Sunday, my brain is officially off the clock so I'm not going to worry about it too much. So what <i>am</i> I talking about? Earlier this week I was driving my kids to school when a particular song came on the radio. This song was, to me, one of the most interesting songs I have ever heard, and I got to thinking about how when I first heard it, the song had completely opened my mind to a new genre and a new way of thinking about music in general. This got me thinking about other things like that and I thought I'd write it up on my Sunday post. These are the things (music, movies, etc) that have "transformed" my thoughts about media in general. While not necessarily my favorite items, they are things that opened my mind.

@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/03/21/Example-of-a-JavaScript-Disqus-Recent-Comment-Widget
+guid: 5180
 ---
 
 <p>

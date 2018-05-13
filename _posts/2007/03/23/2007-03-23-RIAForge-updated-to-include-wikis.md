@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/23/RIAForge-updated-to-include-wikis
+guid: 1920
 ---
 
 I've released an update to <a href="http://www.riaforge.org">RIAForge</a> today that lets project owners run a host wiki on the site. This is mainly meant for documentation but could be used for just about anything really. FAQs are a good example.

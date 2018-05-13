@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/29/Revealing-ColdFusion-exceptions-hidden-by-trycatch
+guid: 4574
 ---
 
 Yesterday <a href="http://henke.ws/">Mike Henke</a> asked an interesting question on Twitter. (And I should thank him as this is the second time now one of his tweets has led to an interesting discussion.) He wished there was a way to make a try/catch be disabled when testing. Obviously you wouldn't do this in production, but I think most folks could imagine needing to temporarily disable a try/catch so that you can see full details of an error. I decided to take a quick look into this and found something I thought was interesting.

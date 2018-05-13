@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2009/09/20/review-fuel-xbox-360
+guid: 3533
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_top&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=raymondcamden-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B001OAKUZU" style="width:120px;height:240px;align:left;margin-right:5px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>

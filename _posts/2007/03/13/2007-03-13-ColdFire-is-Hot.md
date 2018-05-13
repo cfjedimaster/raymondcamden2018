@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/13/ColdFire-is-Hot
+guid: 1887
 ---
 
 Ok, I don't mean that to brag - but the response has been just a <i>tiny</i> but overwhelming. Thank you everyone for both your encouragement and your bug reports. I just wanted to let folks know that Adam and I are working on a pretty massive rewrite. The main issue we ran into was fat XML. I knew the XML was fat - but it became apparent with real testing that the XML was "Fat Bastard" style fat. XML is out and the younger, fresher, hipper JSON is now being used. Another mod we may make is to switch to how FirePHP sends the data - in a <a href="http://www.firephp.org/Reference/Specifications/Protocol.htm">multipart</a> document. 

@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/10/21/Article-Working-with-IndexedDB-Part-Two
+guid: 5064
 ---
 
 <p>

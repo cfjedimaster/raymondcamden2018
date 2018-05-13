@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/01/Lafayette-Mobile-Jump-Start
+guid: 4378
 ---
 
 For the past few months I've been thinking about what I could do to help spur mobile development in my home town. We've got a mobile user group that is small, but active (and doing some very cool stuff). I thought it might be interesting to have a... not a conference... but a one day "introduction", or Jump Start, to mobile development. The idea is to have a set of presentations that discuss mobile development in terms of 

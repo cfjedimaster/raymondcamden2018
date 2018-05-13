@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/10/08/IIS6-Bug-with-CFLOCATION
+guid: 839
 ---
 
 So, I've been trying to debug an issue with Galleon that I only saw on this server, not my local box. For some reason, whenever an IE browser posts a new message, instead of the current thread reloading, the user was pushed to the home page. (You won't see this now as I've disabled the cflocation.) I couldn't understand why, so I added some debugging.

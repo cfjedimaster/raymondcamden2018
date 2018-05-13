@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/27/Review-Instant-Wijmo-Widgets-HowTo
+guid: 4944
 ---
 
 I've not looked at <a href="http://wijmo.com/">Wijmo</a> in some time, so when offered the chance to review a book on it, I thought it would be a great chance to reacquaint myself. Wijmo is a UI library of 40+ controls that are extended from the core functionality provided by <a href="http://www.jqueryui.com">jQuery UI</a>. Wijmo is not free, but seems fairly priced for its size.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/04/Interesting-change-with-listToArray-from-ColdFusion-8-to-9
+guid: 3838
 ---
 
 Sorry if I'm late in noticing this - but something odd has happened with listToArray. I was reviewing SVN commits at work today when I noticed a coworker checked in a file where he stated that he had to modify a listToArray call because of "some change" to listToArray in ColdFusion 9. Now - I knew that <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-7f0f.html">listToArray</a> changed in CF9. The <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-7f0f.html">reference</a> shows that the multiCharacterDelimiter argument was added in CF9. However, in both CF8 and 9, the 3rd argument, includeEmptyFields, defaults to false.

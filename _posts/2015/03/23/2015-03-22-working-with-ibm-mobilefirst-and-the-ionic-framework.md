@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/03/23/working-with-ibm-mobilefirst-and-the-ionic-framework
+guid: 5857
 ---
 
 <strong>Edit on March 30, 2015: Please see my follow up here for a few small tweaks: <a href="http://www.raymondcamden.com/2015/03/30/working-with-ibm-mobile-first-and-ionic-a-follow-up">Working with IBM Mobile First and Ionic – a follow up</a></strong>

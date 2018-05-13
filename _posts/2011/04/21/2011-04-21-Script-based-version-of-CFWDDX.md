@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/21/Script-based-version-of-CFWDDX
+guid: 4201
 ---
 
 A couple of days ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2011/4/7/Workarounds-for-things-not-supported-in-ColdFusion-Script">blog post</a> talking about how to deal with things you couldn't do in ColdFusion scripting. As one of the examples I mentioned WDDX. For some reason I've seen multiple people in the last week or so bemoan the lack of support for a script based WDDX implementation so I thought I'd whip up the code for it.

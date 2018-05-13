@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/15/Two-ColdFusionSolr-questions
+guid: 4014
 ---
 
 After my <a href="http://www.raymondcamden.com/index.cfm/2010/11/12/Slides-code-from-ColdFusionSolr-presentation">presentation</a> last week I had a few ColdFusion/Solr questions to follow up on. Here are two of them.

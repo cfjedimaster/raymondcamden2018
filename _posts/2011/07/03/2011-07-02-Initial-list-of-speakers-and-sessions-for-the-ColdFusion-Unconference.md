@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/03/Initial-list-of-speakers-and-sessions-for-the-ColdFusion-Unconference
+guid: 4293
 ---
 
 The ColdFusion Unconference, and MAX, is rapidly approaching. (Ok, it's October, but it sure as heck seems like it's coming quickly!) Myself, Ezra Parker, and Scott Stroz are busy trying to nail down the final schedule. We are close, and today we can announce the first batch of sessions. We will have a total of 15 sessions and in today's announcement we can share the first 9.

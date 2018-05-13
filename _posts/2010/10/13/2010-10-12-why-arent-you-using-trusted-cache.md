@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/13/why-arent-you-using-trusted-cache
+guid: 3969
 ---
 
 Last night I was honored to give a presentation to the Capital Area CFUG. My presentation was a preview of my MAX topic, "Best Practices of the Modern CF Developer." During the presentation the topic of Trusted Cache came up and I was truly surprised to hear that next to no one was using this in production. 

@@ -6,6 +6,7 @@ categories: [development,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/12/First-test-of-PhoneGap-Plugins
+guid: 4389
 ---
 
 Much like the Adobe AIR framework, PhoneGap supports native extensions that enhance what you can do with the platform. In the PhoneGap world these are called plugins and a good number of them, for Android, iOS, Blackberry, and Palm, already exist. You can find all of the currently supported plugins at their Github repo: <a href="https://github.com/phonegap/phonegap-plugins">https://github.com/phonegap/phonegap-plugins</a>. I played with plugins this morning and here is what I found.

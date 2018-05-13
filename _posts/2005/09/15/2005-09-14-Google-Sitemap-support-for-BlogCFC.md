@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/15/Google-Sitemap-support-for-BlogCFC
+guid: 778
 ---
 
 This week I added support for <a href="http://www.google.com/webmasters/sitemaps/login?sourceid=gsm&subid=us-et-about2">Google Sitemaps</a> to my blog. While this isn't in the core BlogCFC install yet, I thought I'd share the code in case others wanted to do it. Right now I've just created a new CFM and dropped the code in there. I will most likely move the generation to a CFC method later on. Also note that I was unable to get the sitemap to verify until I "tricked" google. My file name was, let's say, sitemap.cfm. This refused to validate. I saved the output of my file as test.xml, and that validated immidiately. I hunted around and found a few people who asked if the extension would cause problems for Google. On a whim, I resubmitted by sitemap with this url:  http://ray.camdenfamily.com/sitemap.cfm?ext=xml. (Not the real URL.) This was enough to "fool" Google and allow my sitemap to validate. The code is below.

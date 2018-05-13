@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/12/08/XBox-Service-Wow
+guid: 961
 ---
 
 So, I figure why stop at 2 OT posts when I can I go for three? Last month I <a href="http://ray.camdenfamily.com/index.cfm/2005/11/23/My-XBox-has-gone-to-that-great-game-graveyard-in-the-sky">blogged</a> about my XBox's hard drive crashing. I decided to ahead and send it in. I was told that the repair time would be five to eight business days, which ain't too bad. I sent it in. UPS dropped it off at the repair center on the 1st. I figured with the holiday rush, I'd be lucky if the unit was sent back by the 9th.

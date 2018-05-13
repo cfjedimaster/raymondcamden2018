@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/28/Creating-a-Mailing-List-in-ColdFusion-Part-4
+guid: 1299
 ---
 
 In my <a href="http://ray.camdenfamily.com/index.cfm/2006/5/25/Creating-a-Mailing-List-in-ColdFusion-Part-3">last entry</a>, I talked about the code behind sending out an entry to the list subscribers. While in general this was rather simple, I built in a variable replacement system that let the emails be personalized for each list member. Today I'm going to add a critical part of the application - the unsubscribe feature. As part of this feature I will discuss how the variable replacement system is used to help with this feature.

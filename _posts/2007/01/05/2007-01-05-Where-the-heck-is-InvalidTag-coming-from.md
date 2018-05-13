@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/05/Where-the-heck-is-InvalidTag-coming-from
+guid: 1756
 ---
 
 I've gotten this question many times so I thought I'd write up a quick FAQ. If you are displaying dynamic content on your ColdFusion site and see InvalidTag instead of the HTML you thought you would - it means one of two things.

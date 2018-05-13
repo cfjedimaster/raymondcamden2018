@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/12/18/CFLib-gets-a-dose-of-fresh-air
+guid: 2547
 ---
 
 Yes, the AIR jokes are probably getting a bit old. ;) Yesterday I wrote up a quick demo for a off-site (not offline, but off web site) that demonstrates a <a href="http://www.cflib.org">CFLib</a> browser. Spry is used to speak to the web site. I used the same code I wrote for the SnipEx service. This meant no back end changes in CFLib, but it also meant I didn't get back as much data as I would like. But as I was just playing, I got over it. I also made use of Paged Datasets and Spry tabs for layout. 

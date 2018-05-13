@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/17/Mac-and-Mini-Update
+guid: 1342
 ---
 
 I know - it sounds like some Disney show. Let me start with the icky stuff first so I can at least end on a happy note. If you remember, I've been fighting Mini Corp to try to get a refund on what I consider to be a lemon. While I was in Detroit I got a call back from Mini Corp. (In my last entry I believe I mentioned that they called me and were "investigating". My contact at Mini, who was very polite, said that they would absolutely not consider giving me a refund. In their mind, the repairs had been made and that was that.

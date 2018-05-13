@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2007/09/06/JSONPaging-Fix-for-Spry
+guid: 2325
 ---
 
 Use JSON and PagedViews for Spry? Turns out there is a small bug when you use the pathIsObjectOfArrays property, like in the following example:

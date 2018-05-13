@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/08/Ask-a-Jedi-Fingering-the-bad-web-service
+guid: 3517
 ---
 
 James asks:

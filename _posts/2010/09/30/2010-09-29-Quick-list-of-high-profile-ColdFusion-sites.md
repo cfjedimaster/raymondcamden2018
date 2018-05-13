@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/30/Quick-list-of-high-profile-ColdFusion-sites
+guid: 3956
 ---
 
 I was having a discussion with a reader this week when the topic of high profile, high traffic ColdFusion sites came up. I discussed this with others and gathered up their recommendations into the following list of sites that - most likely - even your non-techy friends would recognize. This isn't meant to be any type of exhaustive list or the "best" ColdFusion sites - but just the ones most likely to be recognized by the general public.

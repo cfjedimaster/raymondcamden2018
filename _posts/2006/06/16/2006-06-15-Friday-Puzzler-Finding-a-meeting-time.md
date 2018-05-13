@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/16/Friday-Puzzler-Finding-a-meeting-time
+guid: 1338
 ---
 
 Here is an interesting problem, and one I admit I'm not sure what the best answer is. You have two people who want to meet. However, both are quite busy and have a day full of meetings. Can you use ColdFusion to find a time where both are available? I've created a simple data set that contains a query of 4 rows. Person ID is the FK of the user. Name is the name. Start and End are the times of a meeting. Each row then is one meeting, or a busy time. Your solution needs to find a time where users 1 and 2 can meet up (on 6/16 obviously). Your solution should only search from 8AM to 6PM, and, potentially, handle a case where a meeting is impossible. 

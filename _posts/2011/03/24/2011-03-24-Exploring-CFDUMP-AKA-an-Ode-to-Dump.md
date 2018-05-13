@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/24/Exploring-CFDUMP-AKA-an-Ode-to-Dump
+guid: 4170
 ---
 
 It may be a bit silly to say that I have a favorite tag, but I'll happily admit to being somewhat infatuated with the cfdump tag. Since it's introduction (in ColdFusion 4.5 I believe, but it was available earlier in the Spectra CMS), it's probably been my number one debugging/testing/all around useful utility tag in the language for close to a decade. I thought it might be fun to talk a bit about some of the lesser known features of cfdump. In preparation for this blog entry I've already discovered a few new things myself, so hopefully this guide will be of use to folks and really prove, once and forever, that the coolest tag ever created is cfdump.

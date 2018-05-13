@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/27/Why-do-HTMLEditFormat-and-HTMLCodeFormat-take-a-version
+guid: 2500
 ---
 
 Sorry for all the 'why' questions today - but this is the second time today I've run into something weird in ColdFusion. Did you know that both HTMLEditFormat and HTMLCodeFormat take a second argument? The argument, version, is supposed to allow you to specify what version of HTML to target. But for both tags - the argument is ignored. Even though the argument is ignored, the docs list out 3 possible values:

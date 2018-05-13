@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/02/04/Article-Creating-Brackets-Extensions
+guid: 5144
 ---
 
 <p>

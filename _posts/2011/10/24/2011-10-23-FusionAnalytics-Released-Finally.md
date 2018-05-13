@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/24/FusionAnalytics-Released-Finally
+guid: 4405
 ---
 
 As the subject says, Intergral has finally released <a href="http://www.fusion-analytics.com/fa/">FusionAnalytics</a>. I've blogged/tweeted/etc about this product over the past few years. I'm not quite sure when they started talking about it. It feels like it's been years. That being said - FusionAnalytics is now available to the public and after a personal presentation by Darren Pywell last week I can say the wait has been more than worth it.

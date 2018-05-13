@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/17/ColdFusion-Zeus-POTW-CFINCLUDE-Improvement
+guid: 4394
 ---
 
 Welcome to the first ColdFusion Zeus POTW (Preview of the Week). This is a new blog series where I'll be highlighting one feature a week from the upcoming new version of ColdFusion code-named Zeus. As with any preview, you should remember that <b>things may, and probably will</b>, change a bit before the final product is released. That being said, this is your early opportunity to voice your opinion. Some POTWs will be deep dives into large topics. Some, like today, will be simple, small changes that are meant to improve your day to day coding life. What I'm about to show is <i>really</i> small. But it's one of those nice things that I think you will really appreciate.

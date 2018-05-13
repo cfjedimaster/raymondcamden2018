@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/17/Three-more-features-of-Spry-14-removeClassName-addClassName-getNodeText
+guid: 1720
 ---
 
 Let's take a quick look at three more features in <a href="http://labs.adobe.com/technologies/spry/">Spry 1.4</a>. First lets take a look at remove and addClassName. These two functions will either remove, or apply, a CSS style to an element. So consider this element:

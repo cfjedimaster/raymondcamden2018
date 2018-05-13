@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/22/BlogCFC-Security-Issue-for-Apache-Users
+guid: 1046
 ---
 
 So, all of this attention to BlogCFC has let me do a bit of digging. While I know others (or one person anyway) believes I'm perfect. I am not. Here is a great example. On Apache servers, if the ORG folder is under web root, you can view the INI file that defines BlogCFC behaviour. In general, most of the stuff in this file isn't a security risk - but one pair of settings defines the mail username and password to use when connecting to the local mail server. 

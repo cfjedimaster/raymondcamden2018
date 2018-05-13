@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/03/02/CFBL-A-Year-Later
+guid: 3258
 ---
 
 Almost a year ago I <a href="http://www.raymondcamden.com/index.cfm/2008/3/20/CFBL--Week-10--The-End">wrapped up</a> the first ever ColdFusion Biggest Losers Club. This was a simple contest amongst my readers to see who could lose the most weight over a 10 week period. I thought I'd share my own progress a year later, and invite anyone who participated last year to chime in as well.

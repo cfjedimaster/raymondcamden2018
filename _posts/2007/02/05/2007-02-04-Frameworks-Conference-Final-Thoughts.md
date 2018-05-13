@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/05/Frameworks-Conference-Final-Thoughts
+guid: 1819
 ---
 
 So I'm safely back from the <a href="http://www.frameworksconference.com/">Frameworks Conference</a> and I thought I'd share a few final thoughts. 

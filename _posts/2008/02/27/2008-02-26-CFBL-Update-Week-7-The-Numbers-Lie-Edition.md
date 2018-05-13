@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/27/CFBL-Update-Week-7-The-Numbers-Lie-Edition
+guid: 2677
 ---
 
 Ok honestly, that "edition" really makes no sense. Anyway, here is the report from week 7. I had a <i>great</i> week - 5 pounds lost. Pretty surprising since I was sick for the last half of the week and didn't do as much exercise. 

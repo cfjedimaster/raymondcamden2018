@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/03/14/Using-CAPTCHA-in-ColdFusion-with-reload-powered-by-jQuery
+guid: 4157
 ---
 
 A few years ago I wrote a quick blog entry on working with CAPTCHA and ColdFusion. (<a href="http://www.raymondcamden.com/index.cfm/2008/2/28/Quick-and-dirty-CAPTCHA-Guide--for-ColdFusion-8#c01654B7B-9AFD-A399-39E204E8CE692389">Quick and dirty CAPTCHA Guide - for ColdFusion 8</a>) A reader on that entry asked if it was possible to add a "reload if you can't read feature" to the CAPTCHA. We've all seen CAPTCHAs before that are impossible to read. For many of these forms you have no choice but to submit the form and hope the next one is better. But more and more forms are allowing you to reload <i>just</i> the CAPTCHA. Here is a quick example of how I modified the earlier blog entry to support this.

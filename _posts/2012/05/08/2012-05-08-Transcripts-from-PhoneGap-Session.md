@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/08/Transcripts-from-PhoneGap-Session
+guid: 4611
 ---
 
 First off - a huge thank you to everyone who came to our PhoneGap Open Q and A today. We had more than 50 attendees for most of the two hour block which I think is a great turnout. We even had a troll (for a few minutes), so that means we must be doing something right!

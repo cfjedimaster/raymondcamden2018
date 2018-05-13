@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2011/12/05/PhoneGap-and-constants
+guid: 4455
 ---
 
 One of the issues I've run into with PhoneGap is dealing with constants. For example, today I'm doing my first work with the file system. I ran into an issue using one of the methods. My error handler was called with the helpful value of:

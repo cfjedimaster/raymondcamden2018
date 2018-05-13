@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/08/Ask-a-Jedi-Handling-Changes
+guid: 3091
 ---
 
 Patrick Star asks:

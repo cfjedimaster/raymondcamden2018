@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/03/19/HTML5-Form-Validation-The-Constraint-Validation-API
+guid: 4565
 ---
 
 In my <a href="http://www.raymondcamden.com/index.cfm/2012/3/16/A-look-at-HTML5-Form-Validition">last blog entry</a>, I introduced the basic concepts of form validation under HTML5. The focus was on basic tag/attribute support. In other words, what could be done without writing JavaScript code. In today's entry I want to talk about how you can use JavaScript to further enhance and work with validation, specifically the Constraint Validation API.

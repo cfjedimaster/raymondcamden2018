@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/03/09/ColdFusion-Builder-Code-Assist-for-Scoped-Variables
+guid: 3743
 ---
 
 Heres an interesting ColdFusion Builder feature you may not be aware of. CFBuilder does a good job providing code assistance for CFCs. So for example, consider the following code snippet:

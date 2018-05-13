@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/01/30/Smart-Quotes-Strike-Again
+guid: 5140
 ---
 
 <p>

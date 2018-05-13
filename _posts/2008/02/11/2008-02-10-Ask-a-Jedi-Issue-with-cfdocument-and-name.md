@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/11/Ask-a-Jedi-Issue-with-cfdocument-and-name
+guid: 2645
 ---
 
 Eugene asks:

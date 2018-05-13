@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/20/Some-quick-HarpJS-Tips
+guid: 5132
 ---
 
 <p>

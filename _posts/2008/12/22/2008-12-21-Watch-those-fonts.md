@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/22/Watch-those-fonts
+guid: 3157
 ---
 
 This weekend some of the older code I worked on for <a href="http://www.broadchoice.com">Broadchoice</a> was moved to a new server. Everything worked fine until this error began to fire:

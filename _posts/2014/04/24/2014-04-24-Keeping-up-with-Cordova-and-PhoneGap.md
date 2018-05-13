@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/24/Keeping-up-with-Cordova-and-PhoneGap
+guid: 5210
 ---
 
 <p>

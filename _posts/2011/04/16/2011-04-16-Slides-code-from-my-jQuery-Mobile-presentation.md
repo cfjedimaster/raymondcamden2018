@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/04/16/Slides-code-from-my-jQuery-Mobile-presentation
+guid: 4197
 ---
 
 Below you can find the slides and code from my jQuery presentation. The code is included as an attachment (click the Menu button in the slide display).

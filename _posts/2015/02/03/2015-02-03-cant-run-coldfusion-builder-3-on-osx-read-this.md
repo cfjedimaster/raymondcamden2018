@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/02/03/cant-run-coldfusion-builder-3-on-osx-read-this
+guid: 5639
 ---
 
 I'm working on a new machine and as part of my install process discovered I couldn't run ColdFusion Builder 3. It had installed just fine, but running it gave me:

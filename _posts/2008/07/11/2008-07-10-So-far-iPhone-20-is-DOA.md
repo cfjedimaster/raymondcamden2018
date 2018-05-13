@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/11/So-far-iPhone-20-is-DOA
+guid: 2926
 ---
 
 Ugh. So I was <i>really</i> excited about the new iPhone 2.0 firmware. In fact, I had already grabbed a bunch of apps yesterday so I could sync as soon as possible. So far though it looks like my iPhone is dead.

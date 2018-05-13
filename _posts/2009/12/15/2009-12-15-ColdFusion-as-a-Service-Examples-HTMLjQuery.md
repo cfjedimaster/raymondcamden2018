@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/12/15/ColdFusion-as-a-Service-Examples-HTMLjQuery
+guid: 3650
 ---
 
 Last week I <a href="http://www.raymondcamden.com/index.cfm/2009/12/5/ColdFusion-as-a-Service-Examples--Images">blogged</a> my first set of examples from RIAUnleashed. Today I thought I'd share a few more. Specifically - these examples are both HTML/jQuery based and do not make use of Flex at all. 

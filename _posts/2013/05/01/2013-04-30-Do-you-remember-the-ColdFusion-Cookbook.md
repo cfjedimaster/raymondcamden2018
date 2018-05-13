@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/05/01/Do-you-remember-the-ColdFusion-Cookbook
+guid: 4922
 ---
 
 Many years ago (<a href="http://www.raymondcamden.com/index.cfm/2006/1/6/Get-Cooking-with-ColdFusion">early 2006</a> to be exact) the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> was launched. The idea behind the site was simple. Provide a set of 'recipes' with clear solutions provided in ColdFusion. In some cases this was a bit like the regular documentation. (For example, <a href="http://coldfusioncookbook.com/entry/154/How-do-I-parse-RSS-feeds?">"How do I parse RSS feeds?"</a>). In others, the questions are more unique: <a href="http://coldfusioncookbook.com/entry/152/How-can-you-test-to-see-if-two-arrays-are-the-same?">How can you test to see if two arrays are the same?"</a>

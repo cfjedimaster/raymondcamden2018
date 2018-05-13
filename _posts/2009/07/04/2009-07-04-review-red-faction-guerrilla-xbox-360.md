@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2009/07/04/review-red-faction-guerrilla-xbox-360
+guid: 3422
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B0014ULQB2&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&nou=1" style="width:120px;height:240px;margin-right:10px;margin-bottom:10px;float:left" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/30/Ask-a-Jedi-ColdFusion-Components-and-Validation
+guid: 744
 ---
 
 Brad asks the following:

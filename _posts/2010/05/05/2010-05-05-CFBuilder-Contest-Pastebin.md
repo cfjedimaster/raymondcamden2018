@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/05/CFBuilder-Contest-Pastebin
+guid: 3806
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Welcome to the second entry in the ColdFusion Builder Contest. Today's entry is Pastebin by <a href="http://www.danvega.org/blog/">Dan Vega</a>. As you can probably guess, this is an extension that gives you integration with the <a href="http://pastebin.com/">Pastebin.com</a> service. Pastebin is a quick way to share code with others. They have many code highlighters (including one for our <a href="http://www.adobe.com/go/coldfusion">framework</a>) that will "pretty up" your paste as well. Let's take a look at Dan's extension.

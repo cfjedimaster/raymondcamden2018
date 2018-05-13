@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/12/Best-of-CF9-Collyba
+guid: 3681
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/>Welcome to another (and almost the last!) entry in the Best of ColdFusion 9 contest. Today's entry is Collyba created by Marko Simic. It was reviewed by Francisco Paulino - Tofinha and includes his comments and mine. So what is Collyba? I'll quote directly from Marko's INSTALL.txt file:

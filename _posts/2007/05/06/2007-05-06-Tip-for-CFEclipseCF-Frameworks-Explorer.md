@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/06/Tip-for-CFEclipseCF-Frameworks-Explorer
+guid: 2010
 ---
 
 As I <a href="http://ray.camdenfamily.com/index.cfm/2007/5/6/Framework-explorer-ready-for-CFEclipse">mentioned</a> earlier today, Mark Drew has released  the CF Frameworks Explorer for CFEclipse. One feature I couldn't get working right was the "Open Include" option for my views in my ModelGlue XML. 

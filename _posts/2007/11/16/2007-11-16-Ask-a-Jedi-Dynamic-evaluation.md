@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/16/Ask-a-Jedi-Dynamic-evaluation
+guid: 2478
 ---
 
 Luis asks:

@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/12/03/ioniccordova-demo-where-did-i-take-that-picture
+guid: 7196
 ---
 
 Every now and then I think of an idea for a cool (aka useless and pointless but fun) app that I think will take me one hour and let me grow my small little empire of demos. Sometimes those "quick little demos" end up turning into multi-hour sessions as I pull my hair out trying to find out why this or that isn't working. That's frustrating as heck <i>while</i> I'm working on it, but in the end it makes me as happy.

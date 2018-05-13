@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/01/12/LOST-Theories-Spoiler-Warning
+guid: 1025
 ---
 
 I have to say - last nights episode of LOST was incredible. The back story for Eco was moving and is the second best one I've seen yet. (My favorite is with Locke and his father.) And just when I thought that there wouldn't be any movement on the main plot...

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/07/Open-Discussion-Separate-content-versus-CSS-for-mobile-sites
+guid: 4422
 ---
 
 This is a topic I've kinda covered here before, and it is <i>certainly</i> a topic I think will have many different opinions (and will change over time), but what do people think about the question below?

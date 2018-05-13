@@ -6,6 +6,7 @@ categories: [coldfusion,flex,mobile]
 tags: []
 banner_image: 
 permalink: /2010/12/14/Automating-and-customizing-your-Android-applications
+guid: 4052
 ---
 
 A few days ago I blogged about the creation of a <a href="http://www.raymondcamden.com/index.cfm/2010/12/8/Simple-RSS-Reader-built-in-AIR-for-Mobile">simple RSS reader</a> for the Android platform. It certainly wasn't complex, but it was good practice to get my feet wet with the Hero SDK and mobile Flex development. I'm a big fan of trying small, simple applications as a way to get experience with a platform. When I built this application though, I have to admit I had something a bit more interesting in mind. Today I'll show you what I built. I think it's pretty cool and it is a testament to the power of the tools Adobe has provided.

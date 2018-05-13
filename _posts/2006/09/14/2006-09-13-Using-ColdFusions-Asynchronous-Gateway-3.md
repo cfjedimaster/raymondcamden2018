@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/14/Using-ColdFusions-Asynchronous-Gateway-3
+guid: 1531
 ---
 
 I had promised a summary page a while ago concerning my two articles on ColdFusion's Asynch Gateways. In case you missed it, here are the older articles:

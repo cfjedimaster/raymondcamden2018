@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/09/Recording-from-ColdFusion-8-Image-Presentation
+guid: 2264
 ---
 
 Here is the recording URL from my presentation last night to the Boston CFUG on ColdFusion 8 Image processing:

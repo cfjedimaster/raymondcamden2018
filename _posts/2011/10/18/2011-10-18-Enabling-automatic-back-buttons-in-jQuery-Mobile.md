@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/18/Enabling-automatic-back-buttons-in-jQuery-Mobile
+guid: 4397
 ---
 
 In earlier versions of jQuery Mobile, your page headers automatically had a back button added to them. This was removed during the development cycle but you can add them back in a <a href="http://jquerymobile.com/demos/1.0rc1/docs/toolbars/docs-headers.html">variety</a> of ways. However, one method, turning it on at a global level, wasn't very clear to me. If you read the docs, you see this:

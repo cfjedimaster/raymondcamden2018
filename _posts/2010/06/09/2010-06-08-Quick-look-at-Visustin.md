@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/09/Quick-look-at-Visustin
+guid: 3841
 ---
 
 Earlier this week Michael Gillespie pointed me to an interesting program, <a href="http://www.aivosto.com/visustin.html">Visustin</a>. This program creates flow charts from source code. It supports 36 different languages with ColdFusion being one of them. It is primarily supported on Windows only, but apparently can also run on the Mac. (I didn't get a chance to test that.) I have to say that I didn't put much faith in this. I can't remember the last time I used a flow chart nor can I remember ever actually <i>creating</i> one, but I gave Visustin a quick try and here is what I saw.

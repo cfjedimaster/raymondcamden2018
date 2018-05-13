@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/27/2-Quick-ColdFusion-8-RichText-Editor-Tips
+guid: 3374
 ---
 
 A reader sent me a question earlier in the week about adding a custom toolbar to ColdFusion 8's implementation of fckEditor. Just in case you haven't seen this before, fckEditor is a richtext editor that allows people to do basic HTML editor within a web form. My personal opinion is that these things are more trouble than they are worth. 9 times out of 10 the client isn't happy with the result. No big surprise really. HTML is a skill. It's like a client asking for medical equipment so they can do 'quick edits' on their body with hiring a surgeon. Ok, maybe not quite <i>that</i> complex, but really, I just don't like em. (I <i>did</i> like the KTML editor, but unfortunately it was killed off. I wish Adobe had just open sourced it.)

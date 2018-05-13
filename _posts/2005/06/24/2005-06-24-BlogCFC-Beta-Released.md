@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/06/24/BlogCFC-Beta-Released
+guid: 604
 ---
 
 The beta of the newest version of BlogCFC has been released. There are some <b>very</b> significant changes in this release so you should only use this if you like living on the edge! (Ok, so that's a bit dramatic, but you get the idea.)

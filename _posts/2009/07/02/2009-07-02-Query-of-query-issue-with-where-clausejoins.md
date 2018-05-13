@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/02/Query-of-query-issue-with-where-clausejoins
+guid: 3418
 ---
 
 A user reported this to me earlier in the week. I was sure he was wrong until I confirmed it myself. Imagine you have 2 queries you want to join using a query of query. Here is a quick sample.

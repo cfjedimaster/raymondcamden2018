@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/08/Quick-Tip-Restarting-ColdFusion-at-an-interval
+guid: 3966
 ---
 
 Had a few quick emails with a reader today I thought I'd share. First, let's start with this question:

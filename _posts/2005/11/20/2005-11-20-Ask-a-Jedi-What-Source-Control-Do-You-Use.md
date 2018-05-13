@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/11/20/Ask-a-Jedi-What-Source-Control-Do-You-Use
+guid: 925
 ---
 
 A reader asks:

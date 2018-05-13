@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/19/ColdFusion-opportunity-at-the-Catholic-University-of-America
+guid: 4501
 ---
 
 Just passing this along...

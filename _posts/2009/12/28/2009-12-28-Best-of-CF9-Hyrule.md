@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/28/Best-of-CF9-Hyrule
+guid: 3667
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 entry is <a href="http://hyrule.riaforge.org">Hyrule</a> from <a href="http://www.danvega.org/blog/">Dan Vega</a>. This entry is - to me - a slight break in the rules. It is an existing project and not something created brand new for the contest. I don't think I was specific in that regards and since the code is ColdFusion 9 specific and therefore pretty much new, I'm letting it slide here. Plus it has a Zelda-based name and therefore it must be cool.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/23/Warning-to-Spry-folks-upgrading-to-15
+guid: 2058
 ---
 
 One of the shortcuts that Spry borrowed from prototype was this:

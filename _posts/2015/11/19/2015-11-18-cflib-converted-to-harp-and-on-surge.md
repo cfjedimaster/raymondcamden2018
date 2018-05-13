@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/11/19/cflib-converted-to-harp-and-on-surge
+guid: 7109
 ---
 
 Every now and then I code something that seems like a really bad idea, but I just do it and don't tell anyone and I'm <i>totally</i> fine with that. I've decided to push my luck and actually blog about what I coded even though I think it is - probably - a pretty bad idea. 

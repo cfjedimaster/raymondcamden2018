@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2010/11/05/Quickie-AIR-for-Mobile-Geolocation-Example
+guid: 4004
 ---
 
 Last night I read over Rich Tretola's excellent <a href="http://blog.everythingflex.com/2010/07/22/air-on-android-geolocation/">Geolocation for AIR/Mobile</a> example. He demonstrates how to a) check and see if Geolocation is available (it may not be) and how to handle the response from the GPS system on the device. I thought it might be interesting to tie that to a change I made to the <a href="http://groups.adobe.com">Adobe Groups</a> remote API last night. I added a method that would return user groups based sorted by distance based on a longitude and latitude. For my testing I had done typed in values (everyone knows their longitude and latitude, right?) but I figured it would be even easier with AIR.

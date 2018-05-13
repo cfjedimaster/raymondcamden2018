@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/27/Ask-a-Jedi-Hack-for-percentage-based-CFCHART
+guid: 4285
 ---
 
 Mike asked: 

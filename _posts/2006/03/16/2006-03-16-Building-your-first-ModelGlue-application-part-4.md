@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/16/Building-your-first-ModelGlue-application-part-4
+guid: 1156
 ---
 
 In the <a href="http://ray.camdenfamily.com/index.cfm/2006/3/16/Building-your-first-ModelGlue-application-part-3">last entry</a>, I spent a lot of time of talking about the User model behind the application. While this was important, it actually didn't have a lot to do with Model-Glue. In fact, our application didn't actually use it. Now it's time to correct that. Let's start by examining what will happen when a user logs on. First, notice the action field from our logon form:

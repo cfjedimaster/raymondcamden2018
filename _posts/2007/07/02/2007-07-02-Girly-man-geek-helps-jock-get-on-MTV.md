@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/07/02/Girly-man-geek-helps-jock-get-on-MTV
+guid: 2165
 ---
 
 I swear - it's like I'm in high school again. Check out the email I got on Sunday:

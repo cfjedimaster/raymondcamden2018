@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/08/Someone-tell-me-what-this-odd-TV-issue-is
+guid: 2697
 ---
 
 So I'm watching cartoons with my kids this morning and the last cartoon only had secondary audio. By that I mean background music. No voices at all. My kids didn't complain, and I explained to them that something was wrong at the cable company probably.

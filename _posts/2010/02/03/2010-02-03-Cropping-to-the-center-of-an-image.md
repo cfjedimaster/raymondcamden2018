@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/03/Cropping-to-the-center-of-an-image
+guid: 3707
 ---
 
 This week a user sent in what I thought was a rather simple request. He needed to find the center of an image. That's pretty trivial math, so I fired back with the following:

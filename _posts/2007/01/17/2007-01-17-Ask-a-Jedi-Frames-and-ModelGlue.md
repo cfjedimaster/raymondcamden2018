@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/17/Ask-a-Jedi-Frames-and-ModelGlue
+guid: 1774
 ---
 
 Yesterday Dan asked the following question about frames and Model-Glue:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/11/11/Friday-Puzzler-The-Quest-for-Foo
+guid: 4429
 ---
 
 My readers know I'm an avid video gamer, and I've been reading the reviews for Skyrim, the latest Elder Scrolls game with great interest. One of the more interesting facts I read this week was that the game would support infinite, randomly generated quests. While these quests will - probably - be somewhat simple - it is an interesting concept and probably something that was fun to code.

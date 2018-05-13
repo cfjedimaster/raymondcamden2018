@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/29/Gotches-with-Queries-in-Script
+guid: 3545
 ---
 
 One of the features of ColdFusion 9 that I've haven't used quite a lot yet is the ability to write queries in script. It seems like everything I've done in CF9 database related used ORM. So when I finally had to revert to using a real query (ok, I know Hibernate uses real queries, but you get my meaning here) I ran into a few interesting issues right away. I've hit two issues I think people should be aware of - one serious - one a bit more subtle. First off, a quick shout out to Ben for his <a href="http://www.bennadel.com/index.cfm?dax=blog:1678.view">excellent blog article</a> on the feature in general. I found that quicker than I found any documentation in the "official" docs.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/29/Another-option-for-trimming-text-in-ColdFusion
+guid: 2847
 ---
 
 Yesterday I wrote a <a href="http://www.raymondcamden.com/index.cfm/2008/5/28/Ask-a-Jedi-Best-way-to-trim-text">blog entry</a> discussing how you can trim text in ColdFusion without cutting words off in the middle. I mainly focused on the handy udf <a href="http://www.cflib.org/udf.cfm/fullleft">FullLeft()</a>, which made the task easier.

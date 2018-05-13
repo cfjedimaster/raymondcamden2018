@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/08/11/Cool-Adobe-resource-for-Chrome-users
+guid: 3908
 ---
 
 Nathan Stanford II sent me a link to a cool resource he released for Chrome: <a href="https://chrome.google.com/extensions/detail/dehobnjngonejggmglbbfmdokhdaifeb">Adobe Community Helper</a>. If you use Chrome, installing the extension will add a new icon to top of your browser:

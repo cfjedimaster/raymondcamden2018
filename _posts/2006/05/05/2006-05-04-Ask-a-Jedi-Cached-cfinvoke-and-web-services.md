@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/05/Ask-a-Jedi-Cached-cfinvoke-and-web-services
+guid: 1249
 ---
 
 Geoff asks:

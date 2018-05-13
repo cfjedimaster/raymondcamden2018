@@ -6,6 +6,7 @@ categories: [adoption]
 tags: []
 banner_image: 
 permalink: /2013/11/10/November-is-National-Adoption-Month
+guid: 5084
 ---
 
 <p>

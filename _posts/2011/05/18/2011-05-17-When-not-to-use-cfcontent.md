@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/18/When-not-to-use-cfcontent
+guid: 4237
 ---
 
 Here's an interesting problem (that most of you will be able to guess the answer to because of the title) a reader ran into. He had a very simple form that took in your input and saved it to an XML file. The problem he had was in how to let the user know the file was generated. Sounds simple enough, but take a look at his code and see if you can figure out the problem.

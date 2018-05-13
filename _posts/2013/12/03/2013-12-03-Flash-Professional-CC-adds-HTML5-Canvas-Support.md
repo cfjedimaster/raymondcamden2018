@@ -6,6 +6,7 @@ categories: [design,development,html5]
 tags: []
 banner_image: 
 permalink: /2013/12/03/Flash-Professional-CC-adds-HTML5-Canvas-Support
+guid: 5091
 ---
 
 <p>

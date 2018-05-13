@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/04/Yes-i-did-make-kinda
+guid: 2000
 ---
 
 So here is my story. Yesterday I woke up at 3:30 AM. Go to the Lafayette airport for 4:30, and was on my plane at 6. (We have a small airport, but I still like to arrive early.) After sitting in the airplane for 30 minutes, the pilot says the parking break is stuck (seriously) and that we have to go back in.

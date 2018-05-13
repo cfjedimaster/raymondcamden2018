@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/22/Verity-Tip-How-to-hide-content-from-anonymous-users
+guid: 718
 ---
 
 Christian sent me a question last week that I thought would be an excellent blog entry. How do you hide certain content from Verity searches? He has a set of content that he wants to hide from users who are not logged in. Or conversely, the total body of content available is limited to anonymous (non-logged in) users. How can you handle this in Verity?

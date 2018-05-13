@@ -6,6 +6,7 @@ categories: [design]
 tags: []
 banner_image: 
 permalink: /2014/01/16/Creative-Cloud-Update-Today
+guid: 5127
 ---
 
 <p>

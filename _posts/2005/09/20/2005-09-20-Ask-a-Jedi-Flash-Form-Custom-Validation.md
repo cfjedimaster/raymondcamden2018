@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/20/Ask-a-Jedi-Flash-Form-Custom-Validation
+guid: 792
 ---
 
 A reader asks:

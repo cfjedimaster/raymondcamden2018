@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/06/20/iOS-Simulator-not-refreshing-with-Cordova-PhoneGap-Read-this
+guid: 5249
 ---
 
 <p>

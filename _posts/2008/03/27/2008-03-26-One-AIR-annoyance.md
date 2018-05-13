@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/27/One-AIR-annoyance
+guid: 2732
 ---
 
 So this is a minor nit - I really do love AIR, but I've noticed something funny. I go to install an application - one that I've installed before, and the installer tells me:

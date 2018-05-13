@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/25/Speaking-in-Boston
+guid: 1058
 ---
 
 So, it is <i>very</i> short notice, but I will be in Boston next week and will be speaking at the Boston CFUG. 

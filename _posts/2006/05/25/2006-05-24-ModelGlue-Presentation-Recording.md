@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/25/ModelGlue-Presentation-Recording
+guid: 1294
 ---
 
 Aaron West has provided the link to the recording of my presentation last night:

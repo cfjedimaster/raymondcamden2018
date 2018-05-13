@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/30/Update-to-RIAForge-Today-and-a-little-secret
+guid: 1805
 ---
 
 Just a quick note about a change I did to RIAForge this morning. Before I go on however, please note that I can't answer any questions about this, so please do not ask.

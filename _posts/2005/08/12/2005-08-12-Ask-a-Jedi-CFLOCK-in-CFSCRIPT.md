@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/12/Ask-a-Jedi-CFLOCK-in-CFSCRIPT
+guid: 696
 ---
 
 Heinz asks:

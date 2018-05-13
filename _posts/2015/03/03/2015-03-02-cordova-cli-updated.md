@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/03/03/cordova-cli-updated
+guid: 5758
 ---
 
 Earlier this morning the Apache Cordova team released a cool update to the CLI (<a href="http://cordova.apache.org/news/2015/03/02/tools-release.html">Tools Release: March 02, 2015</a>). One of the most interesting aspects of this update is a new feature - the ability to save (and naturally restore) platforms and plugins.

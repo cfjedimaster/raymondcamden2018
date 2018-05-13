@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/01/31/Using-jQuery-and-ColdFusion-to-create-an-autolink-for-definition-application
+guid: 3215
 ---
 
 Sean asks:

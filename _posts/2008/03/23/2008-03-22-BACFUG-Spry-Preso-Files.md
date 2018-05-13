@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/23/BACFUG-Spry-Preso-Files
+guid: 2722
 ---
 
 I'm a bit late on this (been vegging out with the kids since I got back home) but attached this to blog entry are the files and slides I used at my BACFUG presentation last week. You can view the recording here: <a href="http://experts.acrobat.com/p24637610/">http://experts.acrobat.com/p24637610/</a>

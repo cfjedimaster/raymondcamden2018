@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/01/03/Did-You-Know-Searching-for-PhoneGapCordova-Plugins
+guid: 5118
 ---
 
 <p>

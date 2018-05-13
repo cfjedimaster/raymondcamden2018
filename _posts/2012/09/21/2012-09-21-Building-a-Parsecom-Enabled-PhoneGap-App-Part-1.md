@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/09/21/Building-a-Parsecom-Enabled-PhoneGap-App-Part-1
+guid: 4736
 ---
 
 It's been a quiet week here on the blog. I apologize for that. Been head deep into presentation preparation and writing along with lots of other fun personal stuff. Things y'all don't care about and that's perfectly fine. ;) Even when I'm not writing blog entries though I'm typically planning some for the future. Last week I wrote a quick <a href="http://www.raymondcamden.com/index.cfm/2012/9/14/Example-of-a-Parsecom-JavaScript-application-with-offline-support">proof of concept</a> demonstrating how to use Parse.com to store data and support offline mode. This came up in a user group meeting I was presenting at and when I described <a href="http://www.parse.com">Parse.com</a> to the attendees there was a <i>huge</i> amount of interest. I first <a href="http://www.raymondcamden.com/index.cfm/2012/1/3/Parsecom--dynamic-data-storage-for-mobile">blogged</a> on Parse.com back in January of this year, but the service has come a long way since then and has some <i>incredible</i> features. I've decided to start a simple blog series that walks through the steps of creating a PhoneGap application making use of Parse.com. It won't necessarily be the most serious of all applications, but it will demonstrate some of the more interesting aspects of the platform and be completely open source.

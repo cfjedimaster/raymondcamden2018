@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/07/02/Firefox-OS-Announcement
+guid: 4977
 ---
 
 I'm a day late for this, but I wanted to ensure my readers saw the <a href="http://www.mozilla.org/en-US/firefox/os/">Firefox OS</a> announcement yesterday: <a href="https://blog.mozilla.org/theden/2013/07/01/5-ways-to-spread-the-word-about-firefox-os/">5 Ways to Spread the Word About Firefox OS</a>. Firefox OS is a mobile operating system created by the Mozilla organization. This has been in development for some time now, but later this month will see the launch of consumer devices. Firefox OS is a completely web-standards based operating system. That means everything from fart apps (do they still even exist?) to the dialer are built with HTML, JavaScript, and CSS.

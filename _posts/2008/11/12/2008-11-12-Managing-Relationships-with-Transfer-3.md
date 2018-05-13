@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/12/Managing-Relationships-with-Transfer-3
+guid: 3099
 ---
 
 Welcome to my third post on managing relationships with Transfer. If you want to get caught up on the earlier ones, or any of the other entries in this series on learning Transfer, please see the Related Blog Entries section below. Previously I talked about ManyToOne relationships (multiple employees were linked to single departments) and ManyToMany relationships (multiple employees linked up with multiple benefits). Today I'll cover the final variety - OneToMany.

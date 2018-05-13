@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/06/ColdFusion-Unconference-2011-call-for-Speakers
+guid: 4259
 ---
 
 Earlier today Adobe announced sessions for MAX 2011. You can see the list of <a href="https://max.adobe.com/schedule/by-session/#Product_Type=ColdFusion">ColdFusion sessions</a> now. Some people remarked that 5 sessions seemed pretty slim. I just want to point out that one of the reasons there are fewer ColdFusion sessions than other products has everything to do with the fact that one of the four Unconferences is in our hands. We look to have 15 sessions this year (still nailing down those details) and hope to have the same level of quality as last year. With that being said, we've already got some great speakers line up. Some are still a maybe, but for now, I can confirm...

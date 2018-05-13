@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/10/More-on-CFLib-update-Transfer-specifics
+guid: 2871
 ---
 
 Yesterday in my blog entry on the <a href="http://www.raymondcamden.com/index.cfm/2008/6/9/CFLib-2008">CFLib relaunch</a> I mentioned that I'd talk a bit more about my experience with Transfer. What follows is my experience, and my mistakes, and also what I learned (with a lot of help from Mark Mandel), but please keep in mind that I'm still quite new to this.

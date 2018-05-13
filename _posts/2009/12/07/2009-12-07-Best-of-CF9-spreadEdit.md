@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/07/Best-of-CF9-spreadEdit
+guid: 3635
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px"/> Welcome to the first (of many) "Best of ColdFusion 9" entry reviews. The first entry is spreadEdit by <a href="http://samfarmer.instantspot.com/blog/">Sam Farmer</a>. This entry was reviewed by Paul Hastings. (I've added a few notes as well.) 

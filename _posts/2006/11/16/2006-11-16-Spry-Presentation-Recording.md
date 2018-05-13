@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/16/Spry-Presentation-Recording
+guid: 1659
 ---
 
 For those of you who missed my Spry presentation, you can watch the recording here:

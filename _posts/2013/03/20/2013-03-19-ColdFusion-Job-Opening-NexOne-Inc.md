@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/03/20/ColdFusion-Job-Opening-NexOne-Inc
+guid: 4885
 ---
 
 ColdFusion/Oracle Web Developer

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/01/02/Speaking-Engagements-in-January
+guid: 4820
 ---
 
 Just an FYI - if you want to catch me live (or virtual in some cases), here is where, and what, I'll be speaking on this month.

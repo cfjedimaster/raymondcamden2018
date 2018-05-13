@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/02/Case-Study-Moving-to-Spry-15-and-JSON-for-Lighthouse-Pro
+guid: 2164
 ---
 
 Yesterday while watching bad TV, I thought I'd go ahead and update <a href="http://lighthousepro.riaforge.org">Lighthouse Pro</a> so that it used JSON instead of XML. I thought others might be interested in what worked well, and what didn't. First and foremost - this is not a ColdFusion 8 story. Lighthouse Pro is supported on ColdFusion 7 and therefore everything I've done was for ColdFusion 7 only (although I run ColdFusion 8 and can confirm this all works in Scorpio as well).

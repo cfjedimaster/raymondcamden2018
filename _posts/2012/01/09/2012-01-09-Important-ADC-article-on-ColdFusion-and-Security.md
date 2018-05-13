@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/09/Important-ADC-article-on-ColdFusion-and-Security
+guid: 4490
 ---
 
 <img src="https://static.raymondcamden.com/images/ScreenClip15.png" style="float:left" /> Just wanted to pass along a link to a newly published article on the <a href="http://www.adobe.com/devnet.html">Adobe Developer Connection</a> related to ColdFusion and security: <a href="http://www.adobe.com/devnet/coldfusion/articles/coldfusion-securing-apps.html">Securing your applications using HttpOnly cookies with ColdFusion</a> by Pete Freitag.

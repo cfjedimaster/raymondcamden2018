@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/06/I-fought-the-meme-and-the-meme-won
+guid: 1193
 ---
 
 Because I cannot fight <a href="http://www.corfield.org/blog/">the</a> <a href="http://www.jeffryhouser.com/index.cfm/2006/4/4/Because-Mer-Tagged-Me">meme</a> spreading around the blog-o-sphere today, I thought I'd chime in as well. Here are 40 things about me you (probably) already knew:

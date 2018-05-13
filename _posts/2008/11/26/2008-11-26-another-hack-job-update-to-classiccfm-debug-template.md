@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/26/another-hack-job-update-to-classiccfm-debug-template
+guid: 3123
 ---
 
 On a private listserv (the first rule of fight club is...) <a href="http://www.carehart.org">Charlie Arehart</a> brought up some interesting ideas he had in regards to the default debugging template in ColdFusion. One of these actually happened to match perfect something that was included in the latest <a href="http://coldfire.riaforge.org">ColdFire</a> release, specifically a way to see what percent of time was spent doing database queries. (ColdFire will also tell you what percent of the total execution time was spent in CFC methods.) On a whim I decided to quickly add the following. Credit goes to Charlie for the ideas.

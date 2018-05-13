@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2009/01/25/New-XBox-Experience-and-Video-Streaming-Problem
+guid: 3207
 ---
 
 Having trouble playing video since the latest XBox360 system upgrade? I was - and was convinced it was a bug with TVersity and transcoding. I was going to try bootcamping my old MacbookPro just so I could try WMP11 (my current Windows machine is Server 2003, hence the TVersity) when I decided to give Connect360 one more shot. Unfortunately, I got the same result with every video that I had tried under TVersity as well. I was told I didn't have the necessary software even though I had downloaded the media update many months ago. 

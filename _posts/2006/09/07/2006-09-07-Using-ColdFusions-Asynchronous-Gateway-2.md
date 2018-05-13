@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/07/Using-ColdFusions-Asynchronous-Gateway-2
+guid: 1520
 ---
 
 Earlier today I <a href="http://ray.camdenfamily.com/index.cfm/2006/9/7/Using-ColdFusions-Asynchronous-Gateway">blogged</a> about ColdFusion's Asynchronous Gateway. I promised a more appropriate example to demonstrate the power of the gateway, and instead of watching the Steelers lose, I figured I'd write code instead.

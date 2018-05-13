@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/15/Warning-to-Ajax-uses-in-ColdFusion-9
+guid: 3564
 ---
 
 I've seen this come up a few times now so I thought I'd whip up a quick blog entry to help spread the word. One of the cooler aspects of ColdFusion 8's Ajax support was that it provided hooks to the underlying frameworks. So for example, when working with CFWINDOW, if you wanted to do something that ColdFusion didn't provide a JS API for, you would use getWindowObject to retrieve the actual Ext object. If you visited the Ext docs, you could then look for the API you wanted to use.

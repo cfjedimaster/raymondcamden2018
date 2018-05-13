@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/28/Potential-Downtime
+guid: 734
 ---
 
 For those who are worried (or just curious), Hurricane Katrina should be a bit to the east of where I live (Lafayette). They are calling for winds around 20-30 MPH with gusts up to 60. Even with that though we are on the "good" site so I'm not too worried.

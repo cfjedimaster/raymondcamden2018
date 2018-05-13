@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/31/Made-it-to-DC-Mostly-Safe
+guid: 1807
 ---
 
 I got in a few hours ago at the <a href="http://www.frameworksconference.com">Frameworks Conference</a> and I'm already seeing a lot of old friends. I did however have yet another crazy trip.

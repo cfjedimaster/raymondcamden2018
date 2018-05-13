@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/19/Ask-a-Jedi-Getting-a-list-of-application-names-in-ColdFusion
+guid: 2552
 ---
 
 Andy asks:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/03/Top-entries-from-2007-and-word-count-fun
+guid: 2572
 ---
 
 A few days ago I wrote up a script to generate the top ten blog articles from 2007. I was a bit surprised to see they were actually all on topic!

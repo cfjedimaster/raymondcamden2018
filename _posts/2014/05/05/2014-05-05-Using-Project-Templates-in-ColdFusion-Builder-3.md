@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/05/05/Using-Project-Templates-in-ColdFusion-Builder-3
+guid: 5217
 ---
 
 <p>

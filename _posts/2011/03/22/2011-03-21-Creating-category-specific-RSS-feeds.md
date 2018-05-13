@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/22/Creating-category-specific-RSS-feeds
+guid: 4166
 ---
 
 As I've worked on populating <a href="http://www.jquerybloggers.com">jQueryBloggers</a>, I've been surprised by how few blogs provide category specific RSS feeds. Almost every blog provides a basic RSS feed. That's pretty much a given. But for sites that cover multiple disparate topics, it's surprising how few will provide a RSS feed specific to one topic. I thought it might be fun to quickly explain how you could add support for category specific RSS feeds in your ColdFusion application. Obviously my implementation will be very specific to the data I'm using, but I still think it might be a useful bit of example code.

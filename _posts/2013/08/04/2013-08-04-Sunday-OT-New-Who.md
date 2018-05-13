@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/08/04/Sunday-OT-New-Who
+guid: 4998
 ---
 
 I don't remember the first time I watched Dr. Who, but I have many fond memories of watching it as a young child. I would set up our VCR to record the show (it aired way late on Sunday night on PBS) and watch the episode Monday morning. I can remember hoping I'd have enough time before I left for school.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/17/Cell-Hell-or-how-Im-going-to-pay-the-Dummy-Tax
+guid: 1217
 ---
 
 Ok, so I'm no dummy. Unlike a lot of people I know, I've not been a huge cell phone user. Probably because I work at home. I've had 2 cell phones my entire life.

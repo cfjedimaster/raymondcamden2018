@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/13/Oops-Blog-go-BOOM
+guid: 769
 ---
 
 As folks know, I like to share mistakes because, I hope (pray) that I'm not the only one who makes them. I also figure if it "saves" someone from repeating it, then I've helped someone else.

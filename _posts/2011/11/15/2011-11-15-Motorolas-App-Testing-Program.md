@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/15/Motorolas-App-Testing-Program
+guid: 4434
 ---
 
 While at MAX this year I got to participate in a very cool service from Motorola - their <a href="http://developer.motorola.com/testing/motoready/">MOTOREADY App Testing Program</a>. The idea was simple - you submit your mobile application to them and they (well, their partner Intertek) perform a battery of tests on your application. If your application passes, there is an opportunity for marketing as well (via another program), and if not, you can at least use the feedback to improve your application.

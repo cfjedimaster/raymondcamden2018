@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/30/ColdFusion-8-Working-with-PDFs-Part-8
+guid: 2236
 ---
 
 Time for the last entry concerning the &lt;CFPDF&gt; tag. This isn't the end of the series - just the last post I'll be writing about the tag. After this we move on to PDFs and Forms which should be pretty darn exciting as well. 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/04/17/Food-for-thought-method-to-block-nonAjax-requests
+guid: 3319
 ---
 
 A user sent in an interesting idea to me earlier in the week and I wanted to share it with my readers. It involves noticing and blocking Ajax-based requests. This kinda dovetails nicely with one of my recent InsideRIA posts (<a href="http://www.insideria.com/2009/04/jqueryserver-side-tip-on-detec.html">jQuery/Server Side Tip on Detecting Ajax Calls</a>, and forgive me for not posting recent InsideRIA links - should I keep doing that?). Rob sent me the following:

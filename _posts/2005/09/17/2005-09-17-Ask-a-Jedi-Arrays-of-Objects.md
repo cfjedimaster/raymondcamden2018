@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/17/Ask-a-Jedi-Arrays-of-Objects
+guid: 786
 ---
 
 Brad sent me the following question today. (Hope he doesn't mind me posting it!)

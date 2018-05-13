@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/19/Ask-a-Jedi-Var-Scoping-Queries
+guid: 1039
 ---
 
 Brian asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/17/Spry-14-documentToObject-makes-XML-handling-easy
+guid: 1718
 ---
 
 In my <a href="http://ray.camdenfamily.com/index.cfm/2006/12/14/Simple-Chat-in-Spry">chat demo post</a> last week, I talked about how I had trouble figuring out how to work with XML in JavaScript. It wasn't terribly hard, it just took me a while to find some decent docs, as well as to find something that worked in both Firefox and the Devil's Browser.

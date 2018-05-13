@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/15/Galleon-134-Released
+guid: 628
 ---
 
 So, after 2 "BS" posts, something relevant: Galleon 1.3.4 is released. This is a minor release, but part of a greater push to Galleon 2.0. Changes include:

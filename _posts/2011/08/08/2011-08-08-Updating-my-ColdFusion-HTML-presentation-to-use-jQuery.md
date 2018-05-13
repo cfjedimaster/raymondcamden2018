@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/08/08/Updating-my-ColdFusion-HTML-presentation-to-use-jQuery
+guid: 4320
 ---
 
 So a few hours ago I <a href="http://www.raymondcamden.com/index.cfm/2011/8/8/cfpresentation-and-HTML-slides">blogged</a> about how you can use the cfpresentation tag to create an HTML-based presentation. As I mentioned in the blog post, the output works, but, is a bit atrocious. It looks like I designed it. Drunk. (To be fair, I'd probably do better design if I was drinking.) I spent a few minutes Googling today to see if I could find a nicer example, one based on jQuery. It didn't take long at all. I turned up this blog entry, <a href="http://www.jay-han.com/2011/07/21/8-html-presentation-plugins-that-you-can-use/">8 HTML presentation plugins that you can use</a>, and decided to play around a bit.

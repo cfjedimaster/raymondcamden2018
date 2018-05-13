@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/24/Ask-a-Jedi-ColdFusion-Pie-chart-with-lots-of-data
+guid: 4092
 ---
 
 A. Stanley asks:

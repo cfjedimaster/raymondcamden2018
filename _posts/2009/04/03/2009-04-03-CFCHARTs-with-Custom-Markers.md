@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/03/CFCHARTs-with-Custom-Markers
+guid: 3304
 ---
 
 Last night I <a href="http://www.raymondcamden.com/index.cfm/2009/4/2/Two-quickies--Cache-Clearer-Admin-Extension-and-CFCHART-Doc-Typo">blogged</a> about a typo in the CF Reference in regards to charts and markers. The docs make reference to a marker style called 'letter', whereas the real setting is 'letterx'. The user I was communicating with about this issue asked if there was someway to use <i>other</i> letters. So for example, letterA or letterB. While you can't do that, I did discover that the Chart Editor has an option to specify a graphic for the marker.

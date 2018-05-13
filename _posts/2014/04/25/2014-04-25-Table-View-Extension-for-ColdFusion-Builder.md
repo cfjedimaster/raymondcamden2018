@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/04/25/Table-View-Extension-for-ColdFusion-Builder
+guid: 5211
 ---
 
 <p>

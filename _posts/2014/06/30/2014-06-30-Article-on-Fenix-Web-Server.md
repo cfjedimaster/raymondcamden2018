@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/06/30/Article-on-Fenix-Web-Server
+guid: 5255
 ---
 
 <p>

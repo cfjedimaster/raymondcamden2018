@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/27/BlogCFC-Updated
+guid: 649
 ---
 
 A very, very minor BlogCFC update has been released. The core CFC will still say version 3.8, but I'm calling this 3.8.1. Anyway - the changes....

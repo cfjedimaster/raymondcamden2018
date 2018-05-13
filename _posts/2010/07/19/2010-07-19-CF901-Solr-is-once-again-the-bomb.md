@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/19/CF901-Solr-is-once-again-the-bomb
+guid: 3883
 ---
 
 Back in January of this year I <a href="http://www.raymondcamden.com/index.cfm/2010/1/26/Some-criticisms-on-Solr-in-ColdFusion-9">wrote</a> a blog entry about just how poorly Solr was integrated into ColdFusion 9. I'll take partial blame for that as I didn't test it during the betas, but at the end of the day, the support for binary files were so poor there was no way I could recommend it. Database content - sure. But for any collection of files the integration failed miserably.

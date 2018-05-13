@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/02/Ask-a-Jedi-How-do-I-insert-Spry-data-into-a-ColdFusion-variable
+guid: 2449
 ---
 
 Rual asks:

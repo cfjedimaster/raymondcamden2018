@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/01/04/ColdFusion-Job-Opening--Luther-Consulting-LLC
+guid: 4823
 ---
 
 Just passing this along...

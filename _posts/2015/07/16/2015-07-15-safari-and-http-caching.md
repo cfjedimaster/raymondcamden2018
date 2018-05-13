@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2015/07/16/safari-and-http-caching
+guid: 6410
 ---
 
 Well, this was a weird one. Yesterday I was working on a project where I made multiple requests to the <a href="https://randomuser.me/">Random User API</a>. It worked perfectly in Chrome, and Android, but in Safari, I noticed something odd. Even though I made multiple requests, every result was the same, not unique. Here is a simplified version of what I built.

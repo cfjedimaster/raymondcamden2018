@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/10/Ask-a-Jedi-Modify-cfchart-to-remove-commas-from-yaxis
+guid: 3904
 ---
 
 This question came to me from Haris:

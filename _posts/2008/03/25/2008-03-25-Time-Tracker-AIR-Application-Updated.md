@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/25/Time-Tracker-AIR-Application-Updated
+guid: 2727
 ---
 
 I spent my lunch time today working more on my Time Tracker application. I added 2 new tabs. The first is an Hour Log tab that lets you see all your hours, not just the ones for today, and you can do filters by client, projects, dates, or descriptions.

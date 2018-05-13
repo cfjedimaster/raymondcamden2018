@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/15/imageUtils-gets-some-Tiff-love
+guid: 2769
 ---
 
 Everyone's favorite image utility CFC (<a href="http://imageutils.riaforge.org">imageUtils</a>) got some really nice Tiff support thanks to Daniel Budde II. New functions include:

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/11/21/First-stab-at-my-Flex-homework
+guid: 1667
 ---
 
 The first version of my <a href="http://ray.camdenfamily.com/index.cfm/2006/11/21/My-Thanksgiving-Flex-Homework">Flex homework</a> is done. You can view it here: 

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/06/10/New-Project-JavaScript-Cookbook
+guid: 4955
 ---
 
 After traveling the last couple of weeks I've got a little break now between conferences and I thought it would be cool to spend some free time on a little project. A few weeks back I purchased javascriptcookbook.com (still can't believe that was available). I'm a <i>huge</i> fan of cookbook-type sites as I find them a much better way to learn about technology than simple "101-style" books. (And I say this as the <i>author</i> of multiple 101-style books.) As I work on client-side development more and more, I find myself hunting down the same type of tricks/techniques/etc multiple times. As an example, "How do I select a random number between two integers?" I figured - why not create a web site so I can collect these things? At worse, I'll learn a few things about Node while I build it, and at best, maybe others will contribute and help build some content. Here is the technology stack I'm using:

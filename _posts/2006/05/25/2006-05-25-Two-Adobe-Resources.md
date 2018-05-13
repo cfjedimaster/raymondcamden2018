@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/05/25/Two-Adobe-Resources
+guid: 1296
 ---
 
 Did you know that Adobe has a crap load of RSS feeds? Crap load may not be the best description, but just check the list of feeds here:

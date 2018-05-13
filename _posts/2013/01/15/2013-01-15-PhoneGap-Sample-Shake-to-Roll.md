@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/01/15/PhoneGap-Sample-Shake-to-Roll
+guid: 4830
 ---
 
 Sorry for being so quiet lately. I've got three presentations this week and two brand new ones in two weeks. Mentally - it has been killing me. As with all things - it will pass. (And I think I'm building some good new presentations as well!) In the meantime, I thought I'd share a simple PhoneGap application I built for my four-hour lab in Ohio a few days back. 

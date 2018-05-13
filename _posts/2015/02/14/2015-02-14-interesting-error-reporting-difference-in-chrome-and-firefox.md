@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2015/02/14/interesting-error-reporting-difference-in-chrome-and-firefox
+guid: 5683
 ---
 
 Ok, perhaps "interesting" is a bit of a stretch, but as I'm doing some work while waiting for new tires to be put on my car, my base level for "interesting" is a bit lower than normal. I'm testing some code that I wrote in a Powerpoint slide - code I was sure worked fine but I wanted to be <i>really</i> sure, and I found that I had a typo. Consider the snippet below - you will probably see it right away.

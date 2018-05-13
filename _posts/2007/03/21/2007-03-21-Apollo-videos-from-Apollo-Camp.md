@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/21/Apollo-videos-from-Apollo-Camp
+guid: 1912
 ---
 
 Some, but not all, of the videos from Apollo Camp have been posted up on Labs:

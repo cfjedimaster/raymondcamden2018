@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/06/05/Case-sensitivity-and-ColdFusion-10-WebSockets
+guid: 4640
 ---
 
 During my presentation yesterday, a user asked about case sensitivity and WebSockets. The short answer is - they are not. Given a ColdFusion application that defines a channel called "news", you can ignore case everywhere. That includes:

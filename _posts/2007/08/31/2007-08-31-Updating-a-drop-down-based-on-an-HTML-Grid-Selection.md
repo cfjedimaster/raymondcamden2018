@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/31/Updating-a-drop-down-based-on-an-HTML-Grid-Selection
+guid: 2319
 ---
 
 A user on cf-talk today asked if you could bind a drop down to an HTML grid. I tried it and got an error. The drop down expects a query or 2d array for it's source. Too bad. But - there is a solution. I blogged a few weeks ago about noting grid changes (<a href="http://www.raymondcamden.com/index.cfm/2007/8/9/Reacting-to-grid-row-selection">Reacting to a grid row selection</a>). This technique uses the CFAJAXPROXY tag to monitor the grid. In my previous blog entry, I just did an alert, but it's trivial to update a drop down as well. Consider the following example:

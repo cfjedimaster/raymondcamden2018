@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/11/20/Friday-Contest-Time-for-the-smack-down
+guid: 3615
 ---
 
 Ok, let me start off by saying that I do <b>not</b> condone knocking other languages. I do it - in jest - mainly because I've had to deal with so much in return. I figure if we ColdFusion developers can take it, we can, from time to time, "vent" a bit and deal it back. As it stands, we get our code down in half the time anyway so we have the opportunity to goof off. A few weeks back I held a "You are CF Dude" contest. Jim Leether won that with this beauty:

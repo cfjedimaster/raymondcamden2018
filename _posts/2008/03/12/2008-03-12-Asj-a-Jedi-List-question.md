@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/12/Asj-a-Jedi-List-question
+guid: 2705
 ---
 
 Kyle asks:

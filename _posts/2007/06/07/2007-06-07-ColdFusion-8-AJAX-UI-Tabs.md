@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/07/ColdFusion-8-AJAX-UI-Tabs
+guid: 2104
 ---
 
 Yesterday I blogged about <a href="http://www.raymondcamden.com/index.cfm/2007/6/6/ColdFusion-8-AJAX-UI-Layouts">layouts</a> in ColdFusion 8. This was accomplished with the handy cflayoutarea and cflayout tags. Today's post will use the same tabs but deal with tabs. (No, not bar tabs.) I'm a big fan of tabs for breaking up complex forms, so I'm happy to see this baked into the product. 

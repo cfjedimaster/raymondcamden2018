@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/28/Using-CFDBINFO-and-CFZIP-for-quick-database-backups
+guid: 2502
 ---
 
 All major database products have tools to let you backup their databases. MySQL makes it super simple with their command line tools. But what if you want to do it with ColdFusion? Doesn't everyone want to do everything with ColdFusion? I know I do! So let's look at a quick example.

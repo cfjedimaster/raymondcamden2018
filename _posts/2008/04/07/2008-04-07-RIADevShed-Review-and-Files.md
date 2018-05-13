@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/04/07/RIADevShed-Review-and-Files
+guid: 2756
 ---
 
 This past Friday I spoke at <a href="http://www.riadevshed.com/">RIA Dev Shed</a>, a one day RIA-oriented conference held in Salt Lake City. It was organized by Matthew Reinbold (with many sponsors as well) who did a great job and really helped make it easier on the speakers. The conference was very small - around 50 people - which made it a very nice, small, intimate event which I think is a great change from the 'mega-conferences' like MAX. The talks were great and very high quality I spoke on Spry and I've included my slides and code in this blog entry.

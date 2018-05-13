@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/01/jQuery-Mobile-Reference-Guide
+guid: 4415
 ---
 
 I've mentioned before that <a href="http://www.andymatthews.net/">Andy Mathews</a> and myself are working on a jQuery Mobile book for Pakt. As I work through the book and carefully re-read the jQuery Mobile <a href="http://jquerymobile.com/demos/1.0rc2/">docs</a> it occurs to me that one of the big things missing (besides, you know, a version you can download ;) is a reference guide. jQuery Mobile makes heavy use of data attributes to enable automatic markup of your content. There's so many options though it is hard to keep track. I decided to open up a Google Doc and start working on such a guide. It lists the data attribute, it's purpose, where it's used, and shows an example. I'm only about 1/3rd of the way through the docs and I'm looking for feedback on the format and possibly some volunteers to help wrap it up. I also added a new sheet for the random CSS classes jQuery Mobile uses from time to time as well.

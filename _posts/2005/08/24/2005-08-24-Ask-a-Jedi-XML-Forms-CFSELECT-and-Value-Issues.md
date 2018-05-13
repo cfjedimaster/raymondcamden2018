@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/24/Ask-a-Jedi-XML-Forms-CFSELECT-and-Value-Issues
+guid: 723
 ---
 
 Kevin Smith (I don't suppose you are the "Clerks" guy?) asked the following question about XML forms and CFSELECT:

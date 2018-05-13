@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/24/ColdFusion-Open-Source-Success-Stories
+guid: 1121
 ---
 
 So while the following concerns <i>my</i> apps, I think it is more relevant as a sign that ColdFusion open source projects can be very successful out there in the wild. When I asked BlogCFC users to <a href="http://ray.camdenfamily.com/index.cfm/2005/10/26/Call-to-BlogCFC-Users">list themselves</a>, I got over 100 responses and I felt pretty good about it. Until I got this email:

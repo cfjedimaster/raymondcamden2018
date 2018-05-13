@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/12/How-to-get-your-ColdFusion-Builder-2-Serial
+guid: 4493
 ---
 
 A few days ago a buddy of mine asked how to get his CFBuilder 2 serial number. Turns out you can't do that from the IDE itself. I reached out to the engineers and Krishna shared the following tips with me:

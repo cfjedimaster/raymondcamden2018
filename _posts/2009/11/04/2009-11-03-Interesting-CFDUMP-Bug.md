@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/04/Interesting-CFDUMP-Bug
+guid: 3589
 ---
 
 I thought I was going crazy for a minute but I've discovered an interesting bug with CFDUMP under ColdFusion9. Create two components, like so:

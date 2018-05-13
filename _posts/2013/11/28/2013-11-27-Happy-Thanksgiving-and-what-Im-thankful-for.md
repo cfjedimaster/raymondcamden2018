@@ -6,6 +6,7 @@ categories: [adoption]
 tags: []
 banner_image: 
 permalink: /2013/11/28/Happy-Thanksgiving-and-what-Im-thankful-for
+guid: 5089
 ---
 
 Hi everyone. First off - for those who celebrate it, I hope today is a wonderful Thanksgiving for you. As I mentioned in my last blog post, I was working on a "project" for the past few weeks and was not able to blog. Now I'm back home and able to share some good news.

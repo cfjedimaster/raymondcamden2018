@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/04/30/Second-issue-of-Appliness-Launches
+guid: 4602
 ---
 
 <img src="https://static.raymondcamden.com/images/ipad-cover-may.jpg" style="float:left;margin-right:5px; margin-bottom:5px" />

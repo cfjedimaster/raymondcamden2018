@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/09/09/What-is-the-optimal-environment-for-trying-Ionic
+guid: 5303
 ---
 
 <p>

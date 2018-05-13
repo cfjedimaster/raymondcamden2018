@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/15/ColdFusion-Ajax-Debugger-Ignores-CFSETTING
+guid: 2280
 ---
 
 I'm not quite sure I'd call this a security risk, but it is something you should be aware of. I typically use this line in my open source applications to ensure that debug information doesn't show up, even if the server has it enabled:

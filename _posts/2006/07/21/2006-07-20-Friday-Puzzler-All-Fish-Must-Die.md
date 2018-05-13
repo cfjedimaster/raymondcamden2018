@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/21/Friday-Puzzler-All-Fish-Must-Die
+guid: 1418
 ---
 
 Last week's <a href="http://ray.camdenfamily.com/index.cfm/2006/7/14/Return-of-the-Friday-Puzzler">puzzler</a> didn't get a lot of traffic, but hopefully this one will be a bit more fun. I've always been interested in simple population/ecological simulations. I thought it might be interesting to build such a tool in ColdFusion. First, let's contrive a situation.

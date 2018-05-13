@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/25/jQuery-Sortable-with-ColdFusion
+guid: 3252
 ---
 
 Earlier today my coworker mentioned the need for a way to easily move items up and down on a web page. In this case the idea was to sort a list of documents. We've probably all done this before. You list out each item and the one on top has a down arrow, the one on the bottom has an up arrow, and all the rest have both up and down controls. Turns out - and no big surprise here - there is actually a cool little jQuery utility to make this a bit simpler - the <a href="http://jqueryui.com/demos/sortable/">Sortable</a> control.

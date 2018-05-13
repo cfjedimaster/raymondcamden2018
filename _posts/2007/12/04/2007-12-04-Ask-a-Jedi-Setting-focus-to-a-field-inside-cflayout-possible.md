@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/04/Ask-a-Jedi-Setting-focus-to-a-field-inside-cflayout-possible
+guid: 2515
 ---
 
 JC asks:

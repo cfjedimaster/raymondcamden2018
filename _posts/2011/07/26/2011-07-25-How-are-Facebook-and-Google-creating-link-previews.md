@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/26/How-are-Facebook-and-Google-creating-link-previews
+guid: 4308
 ---
 
 Last night I noticed something interesting. I had added a link to a Google+ post (I'd post the link here, but it looks like you can't edit a Google+ share setting after it is written) and noticed it used an image from the link in the post. It wasn't a "URL Preview" (ie, a screen shot), but rather one of the images from the page itself. I decided to dig into this a bit and figure out what image it picked and why. Here is what I've found.

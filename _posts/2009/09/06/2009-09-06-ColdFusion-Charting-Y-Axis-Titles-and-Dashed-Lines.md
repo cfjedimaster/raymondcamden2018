@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/06/ColdFusion-Charting-Y-Axis-Titles-and-Dashed-Lines
+guid: 3514
 ---
 
 Joe asks a few questions about ColdFusion Charting:

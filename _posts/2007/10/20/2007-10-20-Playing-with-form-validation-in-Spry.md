@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/20/Playing-with-form-validation-in-Spry
+guid: 2425
 ---
 
 As much as I love working with <a href="http://labs.adobe.com/technologies/spry/">Spry</a>, I haven't spent a lot of time playing with the widgets or effects. Outside of the tabs - I just wasn't that interested. During my Spry presentation to the OC CFUG this week, I decided it was time to take a look at the form validation widgets that ship with Spry. This morning I looked specifically at the <a href="http://labs.adobe.com/technologies/spry/articles/checkbox_overview/index.html">checkbox widget</a>.

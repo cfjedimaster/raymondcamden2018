@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/24/Yahoo-Search-API
+guid: 1551
 ---
 
 This weekend I wanted to play a bit with Yahoo's Search API, so I thought I'd share my results here. Yahoo has a pretty big <a href="http://developer.yahoo.com/">developer network</a>, but unfortunately they have no ColdFusion examples. (Hey, Yahoo, lets fix that!)

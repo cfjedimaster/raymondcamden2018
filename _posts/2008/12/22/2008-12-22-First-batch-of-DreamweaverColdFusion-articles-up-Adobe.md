@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/12/22/First-batch-of-DreamweaverColdFusion-articles-up-Adobe
+guid: 3158
 ---
 
 So none of the articles will probably interest readers here, but the first batch of my article updates for Dreamweaver CS4 and ColdFusion are up at Adobe...

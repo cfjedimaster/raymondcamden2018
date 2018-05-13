@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/24/Lets-go-to-the-movies
+guid: 1291
 ---
 
 So two random bits related to the movies. This past weekend my wife and I saw The Da Vinci Code. I thought it was ok. Fun, but not great. My wife had read the book and said it was pretty faithful. While I don't think I'll see it again, I do think I'll read the book. After seeing the film, I'm pretty surprised at the controversy. I mean, the "radical" points were all pointed out as being radical. Look at all the films out there that involve secret government conspiracies. No one is calling them un-American, so as a Catholic, I don't see how this could be offensive.

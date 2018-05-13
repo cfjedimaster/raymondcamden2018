@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/09/18/Slides-code-etc-from-my-NCDevCon-Presentations
+guid: 4369
 ---
 
 Any questions - let me know! I believe that video recordings will be available later. If so, I'll edit the presentations to include the URL. (Just click the Show Menu link to check.) If the videos aren't released, I'm going to ask Charlie if I can give the "Underused" preso on the meetup.

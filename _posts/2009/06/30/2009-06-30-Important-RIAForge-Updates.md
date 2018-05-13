@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/06/30/Important-RIAForge-Updates
+guid: 3416
 ---
 
 Today I released two important updates to <a href="http://www.riaforge.org">RIAForge</a>, both thanks to <a href="http://www.mischefamily.com/nathan/index.cfm">Nathan Mische</a>.

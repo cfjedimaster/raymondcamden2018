@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/06/11/ColdFusion-Developer-Week-Recordings
+guid: 4646
 ---
 
 Hey folks - if you missed any of the ColdFusion Developer Week recordings, you can watch any of them here:

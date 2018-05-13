@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/27/Want-some-Joost
+guid: 1988
 ---
 
 Kyle Hayes is giving away some <a href="http://www.kylehayes.info/blog/index.cfm/2007/4/27/Another-Batch-of-Joost-Invites">Joost invites</a> over on his blog. All you have to do is answer the oh so serious question: If Paris Hilton were a ColdFusion tag, what would she be? 

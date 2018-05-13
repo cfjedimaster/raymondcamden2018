@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/02/14/Big-new-releases-today-including-Reflow
+guid: 4855
 ---
 
 Today we announced some updates and additions to our <a href="http://html.adobe.com/edge/">Edge Tools</a> lineup. As a reminder, everything here is part of the Creative Cloud lineup, and you can <a href="https://creative.adobe.com/join/starter?promoid=KAMVW">sign up</a> for <b>free</b> to get these tools <b>right now</b>. 

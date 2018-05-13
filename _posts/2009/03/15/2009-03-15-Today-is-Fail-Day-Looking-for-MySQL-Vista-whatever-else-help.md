@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/03/15/Today-is-Fail-Day-Looking-for-MySQL-Vista-whatever-else-help
+guid: 3277
 ---
 
 So my move to a new server hit a major road block. As of this morning I had migrated some smaller sites, ColdFusionBloggers, CFCookbook, to a new VPS running IIS7 under Windows Datacenter Server 2008. Everything was fine. Of the sites I moved, CFB was definitely the "big guy" getting the most traffic and doing the most intense work (RSS parsing). This morning I moved a few more small sites. No problem at all. Then I pushed my luck and moved my blog. My blog, like most of my sites, had used SQL Server. I've been using the MySQL Migration Tool to suck in the data which seemed to work fine.

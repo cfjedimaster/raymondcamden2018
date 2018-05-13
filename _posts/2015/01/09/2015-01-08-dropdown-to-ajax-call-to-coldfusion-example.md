@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2015/01/09/dropdown-to-ajax-call-to-coldfusion-example
+guid: 5538
 ---
 
 A reader pinged me last night with a relatively simple request:

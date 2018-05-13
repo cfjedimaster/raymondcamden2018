@@ -6,6 +6,7 @@ categories: [music]
 tags: []
 banner_image: 
 permalink: /2006/04/14/My-backpack-gots-jetts-Im-Boba-the-Fett
+guid: 1212
 ---
 
 <a href="http://www.mcchris.com"><img src="http://ray.camdenfamily.com/images/fett.jpg" border="0" align="left" hspace="5"></a> So it was the end of the day yesterday when one of my coworkers mentioned <a href="http://www.mcchris.com">MC Chris</a> to me. I had never heard of him, but he said I should head over to his web site and download Fett's Vette. This is - without a doubt - one of the funniest songs I've heard in a long time. You <b>must</b> stop what you are doing and download it now. In fact, his entire album is free, and actually pretty cool I think. As a word of warning, this song throws the F-bomb about 10 times more than your average Sopranos episode, so it may not be work safe. Put the headphones on!

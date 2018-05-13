@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/31/Who-dropped-the-mountain-on-my-blog
+guid: 1442
 ---
 
 So, in case it isn't yet quite obvious, I've changed the UI for the blog, and have upgraded to the latest version of <a href="http://www.blogcfc.com">BlogCFC</a>. I am <i>very</i> about this for a few reasons:

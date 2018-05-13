@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/14/Doing-a-form-POST-in-Spry
+guid: 1765
 ---
 
 I <a href="http://ray.camdenfamily.com/index.cfm/2006/7/12/Sending-Data-with-Spry">blogged</a> about half a year ago on how to send data with Spry. One thing I had not done (until recently) was send a form POST with Spry. Keith, over on the Spry forums, <a href="http://www.adobe.com/cfusion/webforums/forum/messageview.cfm?forumid=72&catid=602&threadid=1229233&enterthread=y?">posted</a> a good example on how to do it. With his permission I'm reposting his example. (With a slight modification or two.)

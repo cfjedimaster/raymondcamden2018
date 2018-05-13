@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/04/04/Ask-a-Jedi-Where-do-you-get-help-for-ActionScript-in-Flash-Forms
+guid: 1186
 ---
 
 Here is a question from someone who has some of the same problems I've had:

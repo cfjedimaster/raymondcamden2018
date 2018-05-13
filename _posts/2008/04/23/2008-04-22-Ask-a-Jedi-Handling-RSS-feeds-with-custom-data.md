@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/23/Ask-a-Jedi-Handling-RSS-feeds-with-custom-data
+guid: 2783
 ---
 
 Neal asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/11/13/ColdFusions-JSON-Prefix-feature-more-than-AJAX
+guid: 4431
 ---
 
 That's a pretty poor title, but hopefully things will make more sense when I explain it. Earlier this week I <a href="http://www.raymondcamden.com/index.cfm/2011/11/8/Handling-JSON-with-prefixes-in-jQuery-and-jQueryUI">blogged</a> about JSON prefixes and how you could handle them in jQuery and jQuery UI. While not specifically a ColdFusion topic, it was easy to test since ColdFusion has a feature where it can automatically prefix your JSON strings. This can be done at the server level, application level, and even the method level if you want. So given a CFC that returns some data, if you enable this feature and use the default prefix of //, your JSON may look like this:

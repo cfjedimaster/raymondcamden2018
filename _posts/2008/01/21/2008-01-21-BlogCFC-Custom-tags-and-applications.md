@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/21/BlogCFC-Custom-tags-and-applications
+guid: 2606
 ---
 
 This really isn't a BlogCFC post, but more a post about custom tags and application scopes. A quick quiz. Given a root folder and Application.cfc/cfm file named AAA, what Application scope is used if you call a custom in folder /test that has it's own Application.cfc/cfm file?

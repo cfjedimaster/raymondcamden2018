@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2011/03/16/Table-not-found-error-when-you-know-it-exists-Check-your-triggers
+guid: 4160
 ---
 
 Credit for this goes to my buddy Lance Staples, who is somewhat of a Luddite when it comes to blogs/social media/etc. I was testing a simple ColdFusion form process that kept throwing a database error saying that a table did not exist. I checked my database and it was there so I wasn't quite sure what the issue was. Then I noticed the error said the table was 1stcomp.dbo.table. In this form, "1stcomp" is the database. In my local copy of the database I had used FirstComp for the name. Easy enough to fix - right? Check the SQL. But I noticed in the error that even the SQL wasn't using a fully qualified name. It just used "table". So what the frack, right?

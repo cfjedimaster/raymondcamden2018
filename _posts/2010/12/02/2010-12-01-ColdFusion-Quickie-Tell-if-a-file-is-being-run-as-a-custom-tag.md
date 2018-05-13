@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/02/ColdFusion-Quickie-Tell-if-a-file-is-being-run-as-a-custom-tag
+guid: 4037
 ---
 
 This just came in via Twitter so I thought I'd share the tip here. @orangeexception asked how you could tell if a file was being run as a custom tag. One quick and dirty way to do this is to just check for the existence of the ThisScope scope:

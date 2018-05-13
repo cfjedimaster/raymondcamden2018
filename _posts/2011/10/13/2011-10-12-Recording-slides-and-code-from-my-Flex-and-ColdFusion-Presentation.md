@@ -6,6 +6,7 @@ categories: [coldfusion,flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/13/Recording-slides-and-code-from-my-Flex-and-ColdFusion-Presentation
+guid: 4390
 ---
 
 As always, I'm making use of the excellent, ColdFusion-powered, <a href="http://www.slidesix.com">SlideSix</a> service for my presentation. You can get the attachment and recording url by clicking the menu. Note - you will have to have an Adobe.com username to get into the recording. That's free and takes 2 seconds (ok, maybe 3), so do not let that deter you from hearing the smooth silky vocal intonations of the Jedi himself, me. (Wow, that was about as egotistical as I can get... ;)

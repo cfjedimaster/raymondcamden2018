@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/12/Day-100-from-the-ColdFusion-war-front-or-whats-going-on-with-RIAForge
+guid: 2969
 ---
 
 I've blogged quite a bit lately about the issues I've been having with RIAForge. A few days back I decided to take another tact and put <a href="http://www.fusion-reactor.com/fr">Fusion-Reactor</a> on the box. I've told folks before that FR is pretty darn impressive, but I was surprised at how quickly it exposed issues on the server, specifically at the database level. 

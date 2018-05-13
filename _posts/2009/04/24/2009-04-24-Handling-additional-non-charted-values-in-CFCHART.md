@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/24/Handling-additional-non-charted-values-in-CFCHART
+guid: 3327
 ---
 
 Here is an interesting scenario that a reader (Mike) and I talked about earlier in the week. He had a query of car data that included make, VIN, and miles. Here is some sample data to give you an idea:

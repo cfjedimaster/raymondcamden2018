@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/21/Ask-a-Jedi-Dealing-with-messy-RSS
+guid: 3949
 ---
 
 Steve asks:

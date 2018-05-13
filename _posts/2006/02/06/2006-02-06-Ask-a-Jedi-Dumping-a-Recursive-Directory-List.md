@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/06/Ask-a-Jedi-Dumping-a-Recursive-Directory-List
+guid: 1078
 ---
 
 A reader (nicely) asked me something before I left for Boston, and I never got around to answering. He had an interesting problem. He wanted to list directories and files, in a recursive fashion, using HTML's unordered list display to handle the directories and their children.

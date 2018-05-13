@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/04/First-draft-of-a-ColdFusion-Spider
+guid: 4001
 ---
 
 From time to time folks ask about spidering a web site in order to search it with Solr. The most common recommendation is to use a tool like <a href="http://nutch.apache.org/">Nutch</a>. This is another Apache open source project (like Solr) and is something I plan on playing with soon. However, I thought it would be kind of interesting to try to build a web site spider in ColdFusion. I had a few ideas of how the <i>final</i> product would look, but I decided to start simple. What follows is my initial implementation. This is a <b>bad</b> implementation. It's got more issues than a meeting of Lindsey Lohan and Mel Gibson. That being said I figured I'd share this version and then begin work on the next revision. So - got your sunglasses on? The suckness of what follows will be epic.

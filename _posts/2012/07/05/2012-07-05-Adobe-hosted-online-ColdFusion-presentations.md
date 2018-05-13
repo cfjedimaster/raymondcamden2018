@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/07/05/Adobe-hosted-online-ColdFusion-presentations
+guid: 4667
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2012/7/4/The-Online-ColdFusion-Meetup-Returns">blogged</a> about the Online ColdFusion Meetup starting up again. I thought it might be worthwhile to remind folks that Adobe also hosts ColdFusion presentations. If you go to our main <a href="http://www.adobe.com/cfusion/event/index.cfm?loc=en_us">online meetings</a> site, you can then filter based on product and drill down to our <a href="http://www.adobe.com/cfusion/event/index.cfm?event=list&loc=en_us&type=&product=ColdFusion&interest=&audience=&monthyear=">upcoming ColdFusion presentations</a>.

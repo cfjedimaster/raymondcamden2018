@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/12/Ask-a-Jedi-Sorting-files-numerically-that-begin-with-strings
+guid: 3523
 ---
 
 Leigh wrote to me with the following problem:

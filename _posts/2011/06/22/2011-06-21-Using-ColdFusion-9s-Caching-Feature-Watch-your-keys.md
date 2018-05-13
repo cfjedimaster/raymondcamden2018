@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/22/Using-ColdFusion-9s-Caching-Feature-Watch-your-keys
+guid: 4277
 ---
 
 About a week or so ago <a href="http://blog.dkferguson.com/index.cfm">Dave Ferguson</a> (who has been leading up development of the mobile version of <a href="http://www.blogcfc.com">BlogCFC</a> did some work to the "version service" used by BlogCFC installs. Whenever you first enter the administrator of BlogCFC the code does a http ping to a central service to check and see if a new version is available. (That by itself is not the point of this blog entry so if folks want an explanation of that, just ask.) Previously the code was static and I had to update it as part of my release cycle. Dave did some nice work to make it completely automated. But afterwards, I began to get an error from it.

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/09/08/Nimers-Log-Viewer
+guid: 1521
 ---
 
 This is old news but as I used it recently I wanted to remind folks. Mike Nimer has created a cool Eclipse plugin called the <a href="http://www.mikenimer.com/eclipse/logviewer/index.cfm">CF Log Viewer</a>. It lets you display a ColdFusion log directly in Eclipse. It isn't a straight text dump but a nicely formatted display.

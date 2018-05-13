@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/23/New-Spry-Preview-Tooltips
+guid: 2146
 ---
 
 The Spry Team launched a new preview today: <a href="http://labs.adobe.com/technologies/spry/preview/">Tooltips</a>. I'm feeling a bit lazy today so I won't go into too much detail, but the link above will show you both examples and documentation. I have to say I really like how they did this. It is fairly simple to setup and I love the use of effects. Here is a quick demo I did:

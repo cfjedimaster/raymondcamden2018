@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/13/Ask-a-Jedi-ColdFusion-8-Ajax-Features-and-JavaScript-Detection
+guid: 2706
 ---
 
 Justin asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/14/Return-of-the-Friday-Puzzler
+guid: 1402
 ---
 
 Sorry for the lack of puzzles. I know you guys are all out there waiting for the next one. Today's puzzle is rather simple, and involves one of my favorite topics, CFC metadata.

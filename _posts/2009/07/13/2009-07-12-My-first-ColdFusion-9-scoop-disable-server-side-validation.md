@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/13/My-first-ColdFusion-9-scoop-disable-server-side-validation
+guid: 3434
 ---
 
 Ok, this isn't a huge deal - it's no ORM or script based CFCs - however, this is something that has bugged me a for a <b>long</b> time and I'm darn happy to see it fixed. As you know, or hopefully know, ColdFusion has long included a simple way to do server side form validation. This was achieved using form fields with certain names. While this feature was.... ok... it wasn't very graceful and no one I knew actually used the feature in production.

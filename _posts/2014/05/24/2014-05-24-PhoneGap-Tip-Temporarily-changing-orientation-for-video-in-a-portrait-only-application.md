@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2014/05/24/phonegap-tip-temporarily-changing-orientation-for-video-in-a-portrait-only-application
+guid: 5230
 ---
 
 <p>

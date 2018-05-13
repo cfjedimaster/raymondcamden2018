@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/19/Winner-of-ColdFusion-Newbie-Contest
+guid: 2131
 ---
 
 Before announcing the winner of my <a href="http://www.raymondcamden.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie contest</a>, I want to thank everyone who participated. I know that it was scary to send in your code and have the world look it over - pick at it - complain - etc. So <b>thank you</b> for submitting. To be honest, I was a bit worried when my last few contests had dwindling responses, so this going to be my last contest ever if the submissions didn't come in. Getting 10 good entries was great and I'm really happy I decided to try another contest. (Hopefully my readers agree.)

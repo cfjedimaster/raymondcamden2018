@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/11/23/Note-from-a-Net-programmer-getting-into-ColdFusion
+guid: 4444
 ---
 
 I had a cool post about jQuery Mobile planned, but realized (right before I saved it) that I was completely wrong and that my post was pretty worthless. Feeling down - I thought it might be nice to share this email I got yesterday:

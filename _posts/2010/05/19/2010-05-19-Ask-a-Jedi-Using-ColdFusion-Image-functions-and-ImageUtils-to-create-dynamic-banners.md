@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/19/Ask-a-Jedi-Using-ColdFusion-Image-functions-and-ImageUtils-to-create-dynamic-banners
+guid: 3822
 ---
 
 Michael asks:

@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2007/03/14/Quick-example-of-JSON-versus-XML
+guid: 1889
 ---
 
 If you haven't heard of <a href="http://en.wikipedia.org/wiki/JSON">JSON (JavaScript Object Notation)</a>, I think the simplest way to think of it is as a serialized form of data. Much like the old CFWDDX that few people use anymore, JSON is a way to take some data, <i>any</i> data, and convert it into a string. Like WDDX, you can both serialize and deserialize JSON data. 

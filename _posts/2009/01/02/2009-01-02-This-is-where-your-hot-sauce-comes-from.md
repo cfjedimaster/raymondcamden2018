@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/02/This-is-where-your-hot-sauce-comes-from
+guid: 3175
 ---
 
 This week the Camdens decided to take a little field trip down to Avery Island, also known as the place where <a href="http://tabasco.com/main.cfm">Tabasco</a> is made. (By the way - do note they are a ColdFusion site!) While there, we did the factory tour, which is really just a long commercial, but pretty darn interesting none the less. I had no idea they used old whiskey barrels to help prepare the peppers.

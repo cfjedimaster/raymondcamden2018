@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/09/25/Quick-tip-for-Android-users-change-your-user-agent
+guid: 4374
 ---
 
 I can't take credit for this - I found this on a few random Google searches - but if you are sick and tired of sites that force you into a mobile version and don't provide a way out (like all of the Gawker sites - and yes, I tried to file a bug report and found it nearly impossible), you can try this trick.

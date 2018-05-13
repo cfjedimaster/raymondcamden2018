@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/05/ModelGlue-SES-URLs-and-Event-Redirection
+guid: 1011
 ---
 
 I ran into an interesting problem this morning when working on the ColdFusion Cookbook site. I was adding some protection in for URL variables. Right now when you link to a category, it looks like so:

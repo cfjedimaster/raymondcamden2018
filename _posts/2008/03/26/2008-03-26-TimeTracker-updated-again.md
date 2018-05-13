@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/03/26/TimeTracker-updated-again
+guid: 2731
 ---
 
 Well I'm done. Mostly anyway. I set out when creating this application to get more familiar with SQLite, and I've certainly done that. Today I think the TimeTracker application is finally complete. A lot of folks helped out with it so I definitely can't take all (or most) of the credit. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/14/Ask-a-Jedi-Advice-on-building-a-remote-API
+guid: 3053
 ---
 
 Joshua asks:

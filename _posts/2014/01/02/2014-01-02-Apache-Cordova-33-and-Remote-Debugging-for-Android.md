@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/01/02/Apache-Cordova-33-and-Remote-Debugging-for-Android
+guid: 5117
 ---
 
 <p>

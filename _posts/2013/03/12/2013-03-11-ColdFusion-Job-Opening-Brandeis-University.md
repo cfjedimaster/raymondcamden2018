@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/03/12/ColdFusion-Job-Opening-Brandeis-University
+guid: 4879
 ---
 
 Passing it on...

@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/05/How-do-you-check-and-update-your-PhoneGap-version-in-30
+guid: 5029
 ---
 
 A tip of the rage wolf to fellow Adobian Brian Leroux for his help with this blog post. And by help, I mean he basically explained it all to me and I'm just making it pretty. 

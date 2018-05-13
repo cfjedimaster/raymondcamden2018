@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/23/ColdFusion-Newbie-Contest-Entry-3
+guid: 2057
 ---
 
 Welcome to the third entry in the <a href="http://ray.camdenfamily.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie Contest</a>. Today's entry is... well, there isn't a name for it, so I'll call it the Thingy Store, after a term the author used. This entry was created by Simeon Cheeseman. This entry is pretty interesting. It is a bit hard to use, but I think Simeon has the beginnings of something pretty cool here.

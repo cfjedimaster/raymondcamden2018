@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/04/15/Example-of-Async-Linting-support-in-Brackets-Sprint-38
+guid: 5202
 ---
 
 <p>

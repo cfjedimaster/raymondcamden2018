@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/31/Using-CF8-Ajax-features-to-solve-the-pick-one-of-thousands-issue-2
+guid: 3169
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2008/12/25/Using-CF8-Ajax-features-to-solve-the-pick-one-of-thousands-issue">posted</a> a blog entry discussing a method to allow someone to browse thousands of records within a form. The blog entry made use of ColdFusion 8 built-in Ajax technology. I promised a jQuery version and I finally got around to it. (<b>Reminder</b> - I'm still rather new to jQuery so this code does not represent best practice. Well, probably not. If it does, I'm unexpectedly brilliant.)

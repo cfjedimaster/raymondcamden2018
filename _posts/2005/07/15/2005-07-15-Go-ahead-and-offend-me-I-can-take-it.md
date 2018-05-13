@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/15/Go-ahead-and-offend-me-I-can-take-it
+guid: 627
 ---
 
 So, those of you who read my blog (and sorry for all the non-ColdFusion entries today, if it bugs you, use the category filters :) know that my wife and I are the proud parents of three adopted children from South Korea. Therefore, every now and then I'll post an adoption-related entry. My wife and I have a subscription to a nice little magazine called <a href="http://www.adoptivefamilies.com">Adoptive Families</a>. The magazine is decent enough, if a bit light on content at times. 

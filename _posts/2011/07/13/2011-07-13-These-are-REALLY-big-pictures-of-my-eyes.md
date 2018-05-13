@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/07/13/These-are-REALLY-big-pictures-of-my-eyes
+guid: 4303
 ---
 
 Be warned - what follows is somewhat gross giant pictures of my eyes. It isn't bloody or anything, but if medical pictures make you sick to your stomach, consider this your only warning...

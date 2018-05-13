@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/02/Ask-a-Jedi-Composite-Dynamic-Views-in-ModelGlue
+guid: 3836
 ---
 
 Frank asks:

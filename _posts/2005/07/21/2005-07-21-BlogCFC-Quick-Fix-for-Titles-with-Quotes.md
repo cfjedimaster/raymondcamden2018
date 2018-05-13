@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/21/BlogCFC-Quick-Fix-for-Titles-with-Quotes
+guid: 635
 ---
 
 A user reported a bug in BlogCFC involving titles with quotes in them. When you edit such an entry, the form field gets broken. Since the 3.8 release is still a few days away I thought I'd post the fix since it is all of one line long. Open up editor.cfm, find the form field for title, and simply add htmlEditFormat() around the value. Here is the modified line:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/15/Ask-a-Jedi-What-is-the-proper-way-to-handle-sessioncgi-variables-in-CFCs
+guid: 2768
 ---
 
 Samer asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/10/CFCHART-and-the-Case-of-the-Disappearing-Labels
+guid: 1092
 ---
 
 A user reported an odd problem today. She was using <a href="http://ray.camdenfamily.com/projects/soundings">Soundings</a>, my ColdFusion survey application, and noticed something odd. She would do a report and the chart would be missing data! Here is an example:

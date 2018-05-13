@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/02/Friday-quickie-Example-of-simple-caching-of-RSS-Items
+guid: 2448
 ---
 
 I'm doing a code review for a client (which I've been doing a lot lately and boy is it fun to find bugs in someone <i>else's</i> code for once ;) and noticed his home page was using CFFEED to put CNN's latest articles. However, he wasn't doing any caching at all. I whipped up a quick mod for him to show a simple example of caching. It doesn't have any fancy way to force a refresh, but quickly sped up his home page. So here is a quick code snippet showing simple caching of CFFEED:

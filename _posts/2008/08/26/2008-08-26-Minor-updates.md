@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/26/Minor-updates
+guid: 2989
 ---
 
 Just a few minutes and a <a href="http://www.riaforge.org">RIAForge</a> update. First off, <a href="http://scopecache.riaforge.org">ScopeCache</a> was updated to support file based caching. That just means you can now cache to the file system and have it persist even more server restarts. The next change was to <a href="http://googlecal.riaforge.org">GoogleCal</a>. A user submitted a nice update to the addEntry code to better support all day events.

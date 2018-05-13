@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/01/14/sunday-ot-post-yes-i-know-it-isnt-sunday
+guid: 4828
 ---
 
 I meant to post this last night, but got rather involved in Guild Wars 2 instead so I completely forgot. For years now I've been meaning to get back into board games. As a teenager I played some war games that I absolutely loved. Now that my eldest is near 13 I've been hoping to get back into it and - obviously - involve him.

@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/04/19/Demo-of-Handlebars-and-why-you-should-consider-a-templating-engine
+guid: 4592
 ---
 
 For a while now I've been thinking I need to pick up, and start using, a JavaScript templating engine. I had used a jQuery-based one a few years back, but that project was abandoned and I've yet to really look what - if any - solution would work good for me. Another reason I've not found the time is that a majority of my JavaScript examples are small little demos built for blog posts. When I blog, I try my best to keep my code as simple as possible. I don't go all MVC just to demonstrate date formatting. It may not be real world, but it also keeps you focused on the topic I'm trying to discuss. 

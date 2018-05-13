@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/01/09/Working-with-Flex-AIR-and-SQL-2
+guid: 2584
 ---
 
 It's been a little while, but I've gotten around to working more on my Time Tracker AIR application, first discussed <a href="http://www.raymondcamden.com/index.cfm/2007/12/31/Working-with-Flex-AIR-and-SQL">here</a>. As a recap, my intention was to build a simple time tracker that would let me enter hours for projects and clients. The real goal was to learn more about SQLite and the AIR connection to it.

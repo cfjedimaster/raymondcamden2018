@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/22/Demo-of-a-multistep-form-in-jQuery-Mobile-Part-2
+guid: 4443
 ---
 
 A few days ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2011/11/18/Demo-of-a-multistep-form-in-jQuery-Mobile">blog entry</a> demonstrating how one could do a multi-step form in a jQuery Mobile application. This worked by simply breaking up the forms into multiple files and having a 'controller' file load in the right one via an include as you progressed through the process. I got some feedback that it would be interesting (and perhaps better) if the process was done completely client-side. Today I worked up a small demo of this as an alternative.

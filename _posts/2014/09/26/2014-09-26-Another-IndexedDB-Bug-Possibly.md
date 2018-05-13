@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/09/26/Another-IndexedDB-Bug-Possibly
+guid: 5318
 ---
 
 <p>

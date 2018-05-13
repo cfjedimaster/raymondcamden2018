@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/30/RIAForge-back-up-and-note-on-what-I-screwed-up
+guid: 2623
 ---
 
 Thanks to everyone for pointing out that RIAForge was down today. Where's all the email when the sites <i>aren't</i> down, eh??? ;)

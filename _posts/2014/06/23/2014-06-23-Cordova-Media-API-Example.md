@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/06/23/Cordova-Media-API-Example
+guid: 5251
 ---
 
 <p>

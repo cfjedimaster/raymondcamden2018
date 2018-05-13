@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/05/14/Forms-not-working-on-your-ColdFusion-server-Size-matters
+guid: 4933
 ---
 
 I've come across multiple people lately who have been bitten by this so I thought a quick blog post would be useful for my readers. If you've recently upgraded your ColdFusion server or patched it, you may find some forms return an error when submitted. Here is an example:

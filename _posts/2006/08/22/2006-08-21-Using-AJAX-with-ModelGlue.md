@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/22/Using-AJAX-with-ModelGlue
+guid: 1486
 ---
 
 I've had to use AJAX (specifically Spry) now with two Model-Glue sites, so I thought I'd share how I've done it. This isn't rocket science per se, but I'm pretty happy with my method and I thought others might like to see it as well. (And the flip side is that if I'm doing something totally stupid, folks will let me know pretty quickly.)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/05/Ask-a-Jedi-What-day-is-Wednesday
+guid: 2092
 ---
 
 The day after Tuesday obviously. All kidding aside, a reader pinged me today with a simple question:

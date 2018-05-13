@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/14/Ask-a-Jedi-Question-about-CFC-Security
+guid: 2652
 ---
 
 Timothy asks:

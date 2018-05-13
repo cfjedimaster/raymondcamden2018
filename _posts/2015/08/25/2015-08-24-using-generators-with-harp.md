@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/08/25/using-generators-with-harp
+guid: 6692
 ---
 
 I've blogged (and presented) on <a href="http://www.harpjs.com">Harp</a> before as well as <a href="http://jekyllrb.com">Jekyll</a>. In general, I think Harp is much simpler to use, but Jekyll is more powerful. One of the ways Jekyll surpasses Harp is with <a href="http://jekyllrb.com/docs/plugins/#generators">generators</a>. This is a script you can write that automates the creation of files during the generation phase. I blogged about this a few months back (<a href="http://www.raymondcamden.com/2015/03/05/my-experience-working-with-jekyll">My experience working with Jekyll</a>), but in case you don't feel like reading the entire blog post, let me explain what problem a generator can solve.

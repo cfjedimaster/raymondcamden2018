@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/04/Ask-a-Jedi-Problem-with-Autosuggest
+guid: 2171
 ---
 
 This email came in yesterday and it was pretty obvious to me what the problem was. It was almost so obvious that I didn't bother to blog it, but with the amount of folks who will be introduced to AJAX via ColdFusion 8, I thought it made sense to share. Jason writes:

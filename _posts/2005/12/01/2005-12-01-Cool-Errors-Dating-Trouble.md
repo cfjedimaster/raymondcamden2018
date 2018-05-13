@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/01/Cool-Errors-Dating-Trouble
+guid: 948
 ---
 
 So - as regular readers of my blog know - I love errors. I love bug hunting. In fact, back when I was on the Spectra team (May it rest in peace...) I used to love dealing with Spectra errors since there were about one million custom tags run on ever request. So today I ran into a bug caused by an intern that I think is just plain awesome. Awesome in that I bet others have made the same mistake.

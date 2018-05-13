@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/06/11/AIR-and-Flex-3-Betas-Launch-Tonight
+guid: 2110
 ---
 
 Adobe is on a roll lately. First a late night launch of ColdFusion 8, now we have new versions (and a new name!) of Adobe AIR (formally Apollo) and Flex 3. 

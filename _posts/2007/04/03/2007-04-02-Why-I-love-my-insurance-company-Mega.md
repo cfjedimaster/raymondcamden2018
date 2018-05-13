@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/03/Why-I-love-my-insurance-company-Mega
+guid: 1937
 ---
 
 So I know that most folks hate their insurance companies, or if not hate, at least despise. I love mine. Why? When I signed up three months ago, I paid extra to get X covered. (I'm saying X to maintain a bit of privacy.) X wasn't normally covered by <a href="https://www.megainsurance.com/Default.aspx">Mega</a> (yes, those guys who advertise on TV), but I was saving so much money compared to Blue Cross that I didn't mind paying more to get X covered.

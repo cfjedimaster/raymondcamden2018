@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/03/10/The-right-and-wrong-way-to-package-a-ColdFusion-Builder-extension
+guid: 4152
 ---
 
 This has tripped up a lot of people, myself included, and impacts both extension writers and extension users. Have you ever tried to install a ColdFusion Builder extension and gotten this error?

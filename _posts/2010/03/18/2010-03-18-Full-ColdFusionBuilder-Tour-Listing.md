@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/03/18/Full-ColdFusionBuilder-Tour-Listing
+guid: 3753
 ---
 
 Looks like Adobe finally got a good list up of the cities for the ColdFusion Builder tour:

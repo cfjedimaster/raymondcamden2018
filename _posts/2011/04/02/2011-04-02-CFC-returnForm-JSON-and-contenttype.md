@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/04/02/CFC-returnForm-JSON-and-contenttype
+guid: 4181
 ---
 
 I could have sworn that in ColdFusion 9, when asking a CFC to return JSON data with returnFormat=json, that ColdFusion used a response type of application/json. However, it looks like this is not the case. Maybe this behavior changed or maybe I just assumed wrong, but I'm definitely seeing an incorrect content type. Here is a quick example and a possible fix.

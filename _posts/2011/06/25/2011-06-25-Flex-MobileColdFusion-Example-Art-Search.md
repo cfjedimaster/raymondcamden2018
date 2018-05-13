@@ -6,6 +6,7 @@ categories: [coldfusion,flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/06/25/Flex-MobileColdFusion-Example-Art-Search
+guid: 4283
 ---
 
 During my <a href="http://www.raymondcamden.com/index.cfm/2011/6/24/Slides-code-and-recording-from-my-Flex-MobileColdFusion-presentation">presentation</a> earlier this week, I showed an example of a Flex Mobile application that spoke to ColdFusion for it's data. It was a simple application (search and detail records for art work), but I thought I'd take the time to explain it a bit more. It shouldn't be considered a 100% complete application (and I'll end with some notes about what I'd consider adding to make it complete), but I hope it can give you an example what it's like to mix Flex and ColdFusion on the mobile platform.

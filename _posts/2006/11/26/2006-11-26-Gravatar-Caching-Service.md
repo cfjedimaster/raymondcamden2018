@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/26/Gravatar-Caching-Service
+guid: 1677
 ---
 
 I've enabled <a href="http://www.gravatar.com">Gravatar</a> support on a few of my applications, and while the idea of the service is great, the actual performance is pretty bad. Very bad actually. (I have it turned off here.) There are a few caching services out there, but I don't think one exists for ColdFusion. I've been sick all weekend, but instead of just sitting around feeling miserable I thought I'd code up a quick application. With that I'm happy to announce the initial release of the <a href="http://gravatarcache.riaforge.org/">Gravatar Cache Service</a> for ColdFusion.

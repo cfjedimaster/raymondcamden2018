@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/24/ColdFusion-Newbie-Contest-Entry-4
+guid: 2062
 ---
 
 <img src="http://ray.camdenfamily.com/images/tamagochi.png" align="left">

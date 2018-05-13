@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/09/Poison-Ivy-2-Ray-0
+guid: 761
 ---
 
 So, I've already <a href="http://ray.camdenfamily.com/index.cfm/2005/9/6/Plants-1-Raymond-0-and-more-musings-on-Dell-Hell">mentioned</a> my run-in with poison ivy. Since I'm slowly turning into <a href="http://image.guardian.co.uk/sys-images/Football/Pix/gallery/2004/05/26/timzaccheo.jpg">Sloth from Goonies</a>, I thought it might be time to get professional help. My eye is swollen; I've got the ivy on both legs and both arms, and my right hand is... scary. I'm not joking. Like my kids run from it.

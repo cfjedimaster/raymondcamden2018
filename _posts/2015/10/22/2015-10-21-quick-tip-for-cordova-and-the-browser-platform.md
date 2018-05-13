@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/10/22/quick-tip-for-cordova-and-the-browser-platform
+guid: 6981
 ---
 
 I'm not regularly using Cordova and the Browser platform because most of the time I'll use <code>ionic serve</code> instead. However, last night I was working on a Cordova project that - shockingly - didn't use Ionic. I needed to run it in a web page to do some quick testing. I quickly discovered that one thing the browser platform does not handle is enabling CORS for all requests. I had set up CORS for the server part of this application a while ago but it required me to use localhost:3333. By default, Cordova will use port 8000 for the port. There wasn't an obvious way to change that so I did some digging.

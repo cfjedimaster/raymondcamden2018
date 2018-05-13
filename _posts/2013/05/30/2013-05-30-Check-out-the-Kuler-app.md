@@ -6,6 +6,7 @@ categories: [design]
 tags: []
 banner_image: 
 permalink: /2013/05/30/Check-out-the-Kuler-app
+guid: 4949
 ---
 
 One of the most interesting surprises at this years MAX was the new Kuler mobile app. <a href="http://kuler.adobe.com">Kuler</a> has been around for a few years now and but I tend to forget how darn cool it is. 

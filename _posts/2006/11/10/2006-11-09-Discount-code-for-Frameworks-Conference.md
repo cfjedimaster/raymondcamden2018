@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/10/Discount-code-for-Frameworks-Conference
+guid: 1644
 ---
 
 One more quick note about the <a href="http://www.frameworksconference.com/">Frameworks Conference</a>, if you use the code below, you can get 50 dollars off the registration price. Just enough to go get Gears of War off of my wishlist!

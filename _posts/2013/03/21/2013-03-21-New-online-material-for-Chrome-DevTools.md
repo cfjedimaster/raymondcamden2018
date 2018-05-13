@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/03/21/New-online-material-for-Chrome-DevTools
+guid: 4887
 ---
 
 I know I sound like a broken record when it comes to Chrome DevTools ("Your page is broken? What did DevTools tell you?"), but I wanted to share a new resource that just launched - <a href="http://discover-devtools.codeschool.com/">Discover DevTools</a>. This is an online video repository of tutorials about Chrome's powerful DevTools feature. I plan on going through them myself just to see what I've been missing. If you have yet to dig into this feature then now is the time!

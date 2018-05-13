@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/18/Ask-a-Jedi-Migrating-from-static-XML-to-CF-for-Spry-development
+guid: 2549
 ---
 
 Patrick asks:

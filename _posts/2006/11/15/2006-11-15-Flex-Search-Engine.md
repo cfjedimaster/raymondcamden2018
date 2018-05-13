@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/11/15/Flex-Search-Engine
+guid: 1657
 ---
 
 Ted Patrick, Flex Evangelist, released the first alpha of his <a href="http://www.onflex.org/ted/2006/11/flex-search-alpha-1.php">Flex Search Engine</a>. What does it search? Flex content of course. Specifically:

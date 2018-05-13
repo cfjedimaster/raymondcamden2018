@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2013/01/11/Chrome-Extension-for-Microdata
+guid: 4827
 ---
 
 A while back I read an interesting blog post on <a href="http://en.wikipedia.org/wiki/Microdata_(HTML)">Microdata</a>. While I encourage you to read the article I just linked to, the basic gist of the feature is that it provides a way to create metadata for your HTML content. By embedding certain properties into your HTML you can create search engine/robot friendly data for your content. I'm not sure how much this is actually being used in the wild (see my resources links at the bottom), but it seemed like a pretty cool thing.

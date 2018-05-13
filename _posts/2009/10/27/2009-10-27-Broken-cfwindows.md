@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/27/Broken-cfwindows
+guid: 3579
 ---
 
 A reader wrote in to say that this code, which worked fine in ColdFusion 8, now refuses to center in ColdFusion 9:

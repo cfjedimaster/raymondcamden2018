@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/05/18/And-now-for-a-question-from-me-Thunderbird-and-Exchange-meeting-invites
+guid: 1275
 ---
 
 So here is an interesting question. I use Thunderbird as my email client since Outlook tends to get "icky" when you have a few too many emails. While Thunderbird has it's own quirks, I've gotten quite used to it and will never switch back to Outlook.

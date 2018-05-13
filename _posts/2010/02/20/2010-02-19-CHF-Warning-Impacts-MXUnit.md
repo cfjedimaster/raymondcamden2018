@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/20/CHF-Warning-Impacts-MXUnit
+guid: 3729
 ---
 
 Just a quick warning about the CHF I just <a href="http://www.raymondcamden.com/index.cfm/2010/2/20/Cumulative-Hot-Fix-for-ColdFusion-9-Released">blogged</a> about. It makes a small change to the LOCAL scope that can impact your code. It definitely breaks <a href="http://mxunit.org">MXUnit's</a> test runner. The change involves code that sets LOCAL variable. Imagine the following UDF:

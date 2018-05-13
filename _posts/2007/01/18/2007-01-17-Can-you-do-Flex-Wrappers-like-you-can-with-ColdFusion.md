@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/01/18/Can-you-do-Flex-Wrappers-like-you-can-with-ColdFusion
+guid: 1777
 ---
 
 Today I ran into an interesting issue. I was trying to wrap a component with a "wrapper", like how you can do with ColdFusion:

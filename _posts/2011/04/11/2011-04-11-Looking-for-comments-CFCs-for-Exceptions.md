@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/11/Looking-for-comments-CFCs-for-Exceptions
+guid: 4191
 ---
 
 This question came in from a reader and it was something I really wanted my readers to weigh in on. Frankly I have no good answer here so I'm hoping others can chime in.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/18/Spry-Tip-Paged-Datasets-Filters-and-Row-Numbering
+guid: 3154
 ---
 
 A reader wrote in asking an interesting question. He was using a Spry PagedView (a nice way to present a 'paged' interface to data loaded in via Ajax) and ran into an issue when trying to display the row number. When he used {% raw %}{ds_RowNumberPlus1}{% endraw %}, the row was relative to the page. So on page 2, he saw 1 instead of 11. I read over the <a href="http://labs.adobe.com/technologies/spry/samples/data_region/SpryPagedViewSample.html">docs</a> a bit and nothing seemed like it would work. I then created the following demo to help me test this.

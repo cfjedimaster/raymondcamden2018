@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/02/Welcome-Blog-Herald-Readers-and-Ask-a-Jedi-Status
+guid: 748
 ---
 
 First off, I'm happy to welcome visitors today from the <a href="http://www.blogherald.com/">Blog Herald</a>. My blog was picked as one of the <a href="http://www.blogherald.com/2005/09/02/100-blogs-in-100-days-day-12-jedi-master/">100 blogs in 100 days</a> campaign. 

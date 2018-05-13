@@ -6,6 +6,7 @@ categories: [books,video games]
 tags: []
 banner_image: 
 permalink: /2011/07/10/sunday-reviews-strange-vocabulary-and-killer-robots
+guid: 4300
 ---
 
 I've recently completed two incredible books I thought I'd review today. As always I'm curious to see what others think so if you have read these as well, definitely chime in. I've also got two super quick video game reviews at the very bottom. Enjoy.

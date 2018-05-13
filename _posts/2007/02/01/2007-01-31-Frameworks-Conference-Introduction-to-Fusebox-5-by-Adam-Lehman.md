@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/01/Frameworks-Conference-Introduction-to-Fusebox-5-by-Adam-Lehman
+guid: 1809
 ---
 
 Introduction to Fusebox 5, by Adam Lehman

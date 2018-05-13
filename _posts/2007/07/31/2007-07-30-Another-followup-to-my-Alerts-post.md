@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/31/Another-followup-to-my-Alerts-post
+guid: 2237
 ---
 
 A few days ago I posted a quick blog entry on <a href="http://www.raymondcamden.com/index.cfm/2007/7/27/More-on-ColdFusion-8-Server-Alerts">server alerts</a> and where they are stored in the file system. This morning I got an email from Hemant Khandelwal of Adobe with some more interesting follow up - specifically about the naming syntax for these files. 

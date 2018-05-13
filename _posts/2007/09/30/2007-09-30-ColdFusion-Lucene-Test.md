@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/30/ColdFusion-Lucene-Test
+guid: 2379
 ---
 
 This morning I woke up rather early (I rarely sleep well away from home), and decided to play a bit more with Lucene. I've learned a few things about the project that I'm going to list out here. If I get them wrong, please correct me. I've only spent a few hours on this so I'm far from being an expert.

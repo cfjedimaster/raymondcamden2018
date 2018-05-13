@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/10/01/some-cool-things-in-lucee
+guid: 6854
 ---
 
 I really haven't spoken much about <a href="http://lucee.org/">Lucee</a> since the initial announcement a few months back. It seems like a lot of "things" are going on, and frankly, I figured I'd just see where things settle down later this year. It just so happened that I ended up on the <a href="http://docs.lucee.org/reference/tags/application.html">cfapplication doc</a> for Lucee and I was pretty surprised by what I saw. Here are some of the cool things Lucee is doing with Applications versus ColdFusion. This probably isn't everything, but here is what I found and what I thought was cool or interesting.

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/07/09/Quick-example-of-jQuery-Templates
+guid: 3873
 ---
 
 Earlier today Rey Bango posted an excellent article about jQuery Templates (<a href="http://blog.reybango.com/2010/07/09/not-using-jquery-javascript-templates-youre-really-missing-out/">Not Using jQuery JavaScript Templates? You're Really Missing Out.</a>) This was something I had meant to look at before but just never got around to it. If you haven't looked at this feature, please stop reading and catch up on <a href="Not Using jQuery JavaScript Templates? You're Really Missing Out.">Rey's post</a>. After reading it, I thought it would be cool to employ the technique to update the demo I posted earlier today (<a href="http://www.raymondcamden.com/index.cfm/2010/7/9/Another-simple-jQueryColdFusion-example">Another simple jQuery/ColdFusion example</a>). It took me a grand total of five minutes. Here is the original code used to render categories:

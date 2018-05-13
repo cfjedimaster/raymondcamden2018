@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/11/ColdFusion-8-AJAX-UI-Pods
+guid: 2113
 ---
 
 Tonight I want to show another new UI control in ColdFusion 8, the Pod. While not the most exciting item in the world, it is a pretty nice and simple to use. The simplest example can be done in three lines:

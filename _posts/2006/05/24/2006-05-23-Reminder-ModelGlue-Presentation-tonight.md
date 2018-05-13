@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/24/Reminder-ModelGlue-Presentation-tonight
+guid: 1289
 ---
 
 Just a reminder that I'll be speaking (virtually) at the <a href="http://www.ncfug.com/">Nashville ColdFusion User Group</a> tonight on Model-Glue. This will be over Breeze, so it is open to folks not in the Nashville area as well. Details may be found <a href="http://www.ncfug.com/index.cfm?fuseaction=dspMeetingInfo">here</a>.    

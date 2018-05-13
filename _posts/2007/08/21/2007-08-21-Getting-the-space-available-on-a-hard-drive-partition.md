@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/21/Getting-the-space-available-on-a-hard-drive-partition
+guid: 2295
 ---
 
 I'm working on a tutorial for a client involving file uploads (which I'll be sharing on the blog). In the tutorial I talk a bit about monitoring the number of uploads and how much space they are taking. I was curious what methods exist for finding out how much space is being used on a drive and how much space is available.

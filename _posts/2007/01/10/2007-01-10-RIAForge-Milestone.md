@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/01/10/RIAForge-Milestone
+guid: 1762
 ---
 
 Just checked the stats for <a href="http://www.riaforge.org">RIAForge</a>:

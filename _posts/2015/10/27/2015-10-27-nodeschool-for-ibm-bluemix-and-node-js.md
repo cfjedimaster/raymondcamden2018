@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [bluemix]
 banner_image: 
 permalink: /2015/10/27/nodeschool-for-ibm-bluemix-and-node-js
+guid: 7001
 ---
 
 Nearly two years ago I <a href="http://www.raymondcamden.com/2013/11/01/Check-out-nodeschoolio">blogged</a> about the cool set of tutorials available at <a href="http://nodeschool.io">NodeSchool</a>. I loved the interface of the system and thought it was an excellent way to learn Node. Since that time, there have been an incredible amount of lessons added to the core package, including WebGL, ES6, and React. I'm happy to say there is also a cool package for working with <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. 

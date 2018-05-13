@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/12/21/Newsletters-You-Need
+guid: 4814
 ---
 
 I apologize for this being a slow blog week. I had hoped for lots of free time to play, I mean experiment, but it turned out I had presentations to do and prepare for.  I wanted to share this as it just came up on Twitter and I recognize that not everyone subscribes to the whole "Let's be distracted all day" thing. Here are email newsletters that I recommend my readers consider. They all come once a week so they won't spam your inbox, and I can say that even with me using Google Reader, Twitter, Google+, etc, that I normally find <i>multiple</i> cool things that I missed. 

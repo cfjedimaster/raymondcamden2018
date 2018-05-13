@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2006/07/25/review-sin-city-monster-house
+guid: 1427
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B000BCKFWK&fc1=000000&IS2=1&lt1=_top&lc1=0000ff&bc1=000000&bg1=ffffff&npa=1&f=ifr" 

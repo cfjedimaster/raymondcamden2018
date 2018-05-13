@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/01/example-of-intents-with-phonegap
+guid: 4604
 ---
 
 This weekend I was reading an email on my phone when I noticed something odd. The link, to a Wikipedia article, prompted me to ask if I wanted to load it in my browser, or in the Wikipedia app. Knowing that the Wikipedia app was built with <a href="http://www.phonegap.com">PhoneGap</a>, I decided to dig into this and see how it was done.

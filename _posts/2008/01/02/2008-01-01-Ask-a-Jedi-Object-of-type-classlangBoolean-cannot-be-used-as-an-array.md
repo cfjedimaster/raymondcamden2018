@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/02/Ask-a-Jedi-Object-of-type-classlangBoolean-cannot-be-used-as-an-array
+guid: 2568
 ---
 
 Darren asks:

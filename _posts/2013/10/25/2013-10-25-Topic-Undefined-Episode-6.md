@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/10/25/Topic-Undefined-Episode-6
+guid: 5068
 ---
 
 Just a quick note that the 6th episode of the Topic Undefined podcast has been released. Grab it via iTunes or listen here:

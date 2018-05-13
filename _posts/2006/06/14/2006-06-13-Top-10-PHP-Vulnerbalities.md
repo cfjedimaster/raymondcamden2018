@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/14/Top-10-PHP-Vulnerbalities
+guid: 1332
 ---
 
 I found an interesting article today via Digg:

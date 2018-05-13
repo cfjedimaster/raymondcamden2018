@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/01/29/Trouble-downloading-from-RIAForge-Read-this
+guid: 3701
 ---
 
 In the past few weeks, I've gotten around 10 or so emails from people having issues downloading projects at <a href="http://www.riaforge.org">RIAForge</a>. Because RIAForge allows folks to point to external download locations, I typically just check to see if that is the issue. However - I've never been able to replicate any of the problems the users are having. They typically report that they get about half way through the download and it then simply stops. 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/05/19/Broadchoice-Web-Platform-Released
+guid: 2835
 ---
 
 A few weeks ago I announced that I had joined <a href="http://www.broadchoice.com">Broadchoice</a>. I'm <i>very</i> pleased to announce the launch of our on-demand web platform. The press release speaks to it better than I can so I'll just link to that:

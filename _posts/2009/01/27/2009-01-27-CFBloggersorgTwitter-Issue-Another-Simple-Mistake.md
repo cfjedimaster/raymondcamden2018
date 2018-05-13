@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/27/CFBloggersorgTwitter-Issue-Another-Simple-Mistake
+guid: 3213
 ---
 
 I made a promise to myself a while ago. Every time I do something stupid, I'd blog it. Not to impress people with the depths of my ineptitude, but to remind my friends that simple mistakes don't stop happening no matter how long you develop. (Well, at least for me.)

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/04/21/Advanced-ColdFusion-Contest-Winner
+guid: 1230
 ---
 
 My last contest has been over for a few weeks now, and I haven't blogged about it since things did not quite turn out the way I had hoped. My previous two contests (<a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">Contest1</a>, <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">Contest 2</a>) were a great success. I had numerous entries, and many of them had what I like to call "great mistakes", or mistakes that we could all look at and learn from. It was also great to just see how people solved problems. I think we can all learn from seeing how people solve problems, and it may even lead to solutions for future problems.

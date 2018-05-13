@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/26/Canvas-2-Beta-Refresh
+guid: 1861
 ---
 
 I've got a new version of the Canvas 2 Beta ready for testing. This update finally fixes the loginpath bug (thanks to a forum user for making it easy to reproduce) and adds security to file uploads. 

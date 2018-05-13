@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/25/INeedIt-in-the-market
+guid: 4248
 ---
 
 You can now download INeedIt from the Google Market. Either by searching for "INeedIt" on your mobile device, or just going to the <a href="https://market.android.com/details?id=air.INeedIt&feature=search_result">web site</a> and installing from there. (If you've set up the Market to 'know' about your device.) 

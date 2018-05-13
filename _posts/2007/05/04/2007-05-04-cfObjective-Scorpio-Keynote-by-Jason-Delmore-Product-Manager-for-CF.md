@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/04/cfObjective-Scorpio-Keynote-by-Jason-Delmore-Product-Manager-for-CF
+guid: 2001
 ---
 
 As with my other conference reviews, please forgive the bad grammar, stilted sentences, etc. I'm writing as I listen...

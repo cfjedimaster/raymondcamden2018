@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/02/06/Using-Ripple-for-PhoneGap-Development
+guid: 4848
 ---
 
 Ripple has been around for a while now, but only recently have I really noticed how freaking cool it is. I thought it might be helpful for my readers if I wrote up an introduction guide to Ripple and how you can more effectively use it. This will be a reflection of the issues and cool things I've run into personally and as always, I'd love to hear your opinions as well.

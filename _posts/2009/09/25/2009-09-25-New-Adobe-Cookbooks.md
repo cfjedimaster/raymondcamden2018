@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/25/New-Adobe-Cookbooks
+guid: 3542
 ---
 
 Many weeks ago I spoke about how I was going to work with Adobe to migrate content off of the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a>. Today the new cookbooks at Adobe have officially launched. The ColdFusion content is still "in progress", but a big thank you goes to Adobe for doing the grunt work. The new cookbook site may be found here:

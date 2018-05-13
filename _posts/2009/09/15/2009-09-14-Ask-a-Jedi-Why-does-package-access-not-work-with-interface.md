@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/15/Ask-a-Jedi-Why-does-package-access-not-work-with-interface
+guid: 3526
 ---
 
 Max wrote in with an interesting question involving ColdFusion Components and Interfaces:

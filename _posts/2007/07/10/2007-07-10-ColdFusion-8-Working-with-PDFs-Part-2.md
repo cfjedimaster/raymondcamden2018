@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/10/ColdFusion-8-Working-with-PDFs-Part-2
+guid: 2185
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2007/7/9/ColdFusion-8-Working-with-PDFs-Part-1">blogged</a> about new PDF functions added in ColdFusion 8: isPDFFile and isPDFObject. Today I'm going to continue my discussion of the new PDF tools in ColdFusion 8 by introducing the CFPDF tag. This is one of the 5 new PDF related tags added to ColdFusion 8. This one tag can do many things:

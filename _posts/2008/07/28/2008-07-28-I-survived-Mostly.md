@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/28/I-survived-Mostly
+guid: 2942
 ---
 
 I'm back home in Louisiana after a week of fun and sun (and a crap load of walking). I've gotten quite a bit of email, some of which will make for excellent blog posts, but give me a few days to catch up. For folks who are <i>really</i> bored and want to hear about the trip...

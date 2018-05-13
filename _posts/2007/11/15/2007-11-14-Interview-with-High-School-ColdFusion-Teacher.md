@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/15/Interview-with-High-School-ColdFusion-Teacher
+guid: 2475
 ---
 
 A few days ago I received an email from a teacher in New Zealand. After answering his technical question, I noticed that he mentioned he was not only a teacher, but a ColdFusion teacher for a high school. I know that folks in the community have discussed how Adobe can make inroads into education, and here was someone actually doing it. I don't do interviews myself very often, and I've never actually interviewed someone myself (that I remember anyway), but I thought I'd talk a bit with him and share it with my readers. So without further adieu, here is my interview with Rob Wood.

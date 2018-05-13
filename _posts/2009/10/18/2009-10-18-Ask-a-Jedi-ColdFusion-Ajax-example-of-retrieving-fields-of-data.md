@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/10/18/Ask-a-Jedi-ColdFusion-Ajax-example-of-retrieving-fields-of-data
+guid: 3565
 ---
 
 I have to apologize for the title of this blog entry. I can't honestly think of a nicer way to say it. But enough of that, let me just get to the question.

@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2005/10/28/And-now-for-something-really-important
+guid: 878
 ---
 
 Target has <a href="http://www.mybiggames.com/index_files/page0007.htm">announced</a> that they will soon be selling life-sized arcade games for less than 500 dollars. Each machine will be 62 inches tall and come with 12 games each. Sample games include Defender, Robotron, Sinistar (drool), but I don't see Galaga in there.

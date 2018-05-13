@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/04/08/ColdFusion-jQuery-and-Search-Example
+guid: 3307
 ---
 
 I wrote a few sample applications for my <a href="http://www.raymondcamden.com/index.cfm/2009/4/7/jQuery-101-Presentation">jQuery presentation</a> yesterday that I wanted to explore a bit deeper in a blog post. I think search is a great place for Ajax to help out. How can we build a search interface using jQuery and ColdFusion? Let's start with a simple example.

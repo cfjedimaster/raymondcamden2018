@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/23/Want-to-learn-ColdFusion-again
+guid: 3286
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2009/3/18/Want-to-learn-ColdFusion">blogged</a> about an announcement from Adobe that they were releasing a free ColdFusion curriculum. This weekend I got an email from Cody asking about learning ColdFusion in general:

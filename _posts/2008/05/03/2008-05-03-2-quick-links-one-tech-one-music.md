@@ -6,6 +6,7 @@ categories: [coldfusion,music]
 tags: []
 banner_image: 
 permalink: /2008/05/03/2-quick-links-one-tech-one-music
+guid: 2807
 ---
 
 First off, Todd Sharp has just released <a href="http://slidesix.com/index.cfm?event=">slidesix</a>, which he describes in more detail <a href="http://cfsilence.com/blog/client/index.cfm/2008/5/3/What-Is-slidesixcom">here</a>. It is a presentation hosting service built in ColdFusion (with Model-Glue FTW!). One of the coolest features is that you can record audio for a slideshow directly on the site.

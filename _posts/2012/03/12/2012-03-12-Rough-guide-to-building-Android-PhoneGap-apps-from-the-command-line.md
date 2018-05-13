@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/12/Rough-guide-to-building-Android-PhoneGap-apps-from-the-command-line
+guid: 4557
 ---
 
 Let me start off this blog entry by saying that I've got no beef with Eclipse. Eclipse is an incredibly powerful IDE and a great platform for a lot of tools. Eclipse is awesome, mkay? That being said, I've been doing a lot of JavaScript, HTML, and, yes, CSS lately, and I've found the existing tools for Eclipse not to my liking. Also, I was looking for a tool that was a bit more, how shall we say, light weight? With that in mind, the primary editor I've been using lately is <a href="http://www.jetbrains.com/webstorm/">WebStorm</a> by JetBrains. While not a free tool, it is relatively cheap, came highly recommended, and so far has been performing well. I've also been trying out <a href="http://www.sublimetext.com/2">Sublime Text 2</a>. 

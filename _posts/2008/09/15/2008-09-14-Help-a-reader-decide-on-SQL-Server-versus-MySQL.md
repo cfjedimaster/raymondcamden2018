@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/09/15/Help-a-reader-decide-on-SQL-Server-versus-MySQL
+guid: 3016
 ---
 
 Andrew asks:

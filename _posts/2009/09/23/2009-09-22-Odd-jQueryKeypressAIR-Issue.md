@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/09/23/Odd-jQueryKeypressAIR-Issue
+guid: 3537
 ---
 
 I'm looking for some help here folks. I'm working on a new blog series for <a href="http://www.insideria.com">InsideRIA</a> (don't forget folks, most of my RIA stuff is there) involving jQuery and AIR. I've done a few entries already on using Aptana to build an application and now I want to dig a bit deeper into jQuery/AIR integration. I've built a simple application that's going to be the starting point for the new series. Right now it is <i>barely</i> AIR. By that I mean it doesn't use any of the APIs at all. Outside of running as an application, it's just a HTML window. That being said, while working on the application I noticed something truly odd I wanted to share with folks.

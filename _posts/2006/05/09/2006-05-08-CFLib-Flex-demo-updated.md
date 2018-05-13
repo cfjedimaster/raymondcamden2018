@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/05/09/CFLib-Flex-demo-updated
+guid: 1257
 ---
 
 Last night I <a href="http://ray.camdenfamily.com/index.cfm/2006/5/8/Flex-2-Beta-3-Released">blogged</a> about the release of Flex 2 Beta 3 and linked to a demo I built that interfaces with CFLib. I refreshed the demo today and added the viewSource property. You can find the demo here:

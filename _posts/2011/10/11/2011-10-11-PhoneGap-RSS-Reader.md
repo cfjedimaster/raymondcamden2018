@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/11/PhoneGap-RSS-Reader
+guid: 4388
 ---
 
 Earlier today I noticed an entry on the PhoneGap <a href="https://groups.google.com/forum/#!topic/phonegap">forums</a> from a user asking about an RSS reader. I thought I'd whip one up using PhoneGap and jQuery Mobile and see what it took. Here's what I came up, and as always, feel free to rip apart the code and write it better. I'll warn folks that I only wrote the code to support RSS2, not ATOM, but in theory, it should be possible without too much additional work. (You would simply look at the metadata, note it, and change how you get data.)

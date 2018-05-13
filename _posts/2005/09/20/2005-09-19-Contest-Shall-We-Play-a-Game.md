@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/20/Contest-Shall-We-Play-a-Game
+guid: 790
 ---
 
 Today I'd like to try something new - a contest. Contests are always a bit tricky. CFDJ ran a few, but the response wasn't all that great. So, I thought I'd test the waters with my own readership and see if it works out. If it does, I'll do it again.

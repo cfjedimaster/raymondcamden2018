@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/12/17/An-example-of-history-management-in-the-browser
+guid: 4811
 ---
 
 What follows is an example I built to help me learn how to manipulate browser history with JavaScript. <b>Do not consider this a tutorial, an example of best practices, or anything more than a personal learning exercise.</b> This is a topic I've been meaning to learn for months and I finally took the time to wrap my head around it today. I wrote some code that seems to work well and wanted to share it, but keep in mind that I'm probably doing it wrong. Want a good explanation? Try one of the links below.

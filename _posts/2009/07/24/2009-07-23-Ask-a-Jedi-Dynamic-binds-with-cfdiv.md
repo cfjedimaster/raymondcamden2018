@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/24/Ask-a-Jedi-Dynamic-binds-with-cfdiv
+guid: 3462
 ---
 
 This was one of those perfect questions - and by perfect I mean that the reader sent the question in, and then figured it out before I even had a chance to reply. I cannot tell you how often that happens to me. It's like magic. You search for an answer - give up - ask a public group (or person) and immediately the answer becomes apparent. Anyway - here was Brian's question:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/26/Ask-a-Jedi-CFIMPORT-Applicationcfc-and-custom-tags
+guid: 2617
 ---
 
 Tony asks two interestin questions:

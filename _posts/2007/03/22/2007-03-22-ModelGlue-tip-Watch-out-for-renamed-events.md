@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/22/ModelGlue-tip-Watch-out-for-renamed-events
+guid: 1917
 ---
 
 So I think everyone knows that if you redesign a web site, you can potentially end up with renamed files and the like which means old URLs will no longer work. There are multiple ways you can handle this. You can use a URL Rewriter. A 404 handler. Etc.

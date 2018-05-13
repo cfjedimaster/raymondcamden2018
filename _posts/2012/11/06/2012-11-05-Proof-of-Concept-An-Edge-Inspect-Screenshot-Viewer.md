@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/11/06/Proof-of-Concept-An-Edge-Inspect-Screenshot-Viewer
+guid: 4776
 ---
 
 This falls into the category of "Possibly Useless", something I thrive on here at the blog, but I thought I'd share in case this actually <i>is</i> useful to someone out there. I've been presenting/tweeting/etc lately on <a href="http://html.adobe.com/edge/inspect/">Adobe Edge Inspect</a>. If you haven't tried it out yet, I encourage you to make the time. Edge Inspect makes it incredibly easy to test your web sites on multiple mobile devices at once. Simply set up your devices and open a web page on your desktop and watch as each device navigates to the same URL in sync with your clicks.

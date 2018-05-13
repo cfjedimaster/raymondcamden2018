@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/15/I-could-be-crazy
+guid: 1267
 ---
 
 Those of you who know me, and know me well, know that I'm not the most exciting guy in the world. In fact, I'm very much an old fuddy-duddy at times, and that is just fine. I like things simple. I like thins consistent. I don't like change. (And yes, I know change is good.) 

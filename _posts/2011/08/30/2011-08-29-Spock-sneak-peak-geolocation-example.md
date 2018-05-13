@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2011/08/30/Spock-sneak-peak-geolocation-example
+guid: 4347
 ---
 
 Spock, the next release of <a href="http://groups.adobe.com">Adobe Groups</a>, is nearing completion. Today I finished work on topic home pages. This is a new feature that let's people find user groups based on a particular topic. User groups will be able to register themselves as belonging to any number of topics. Once they've selected their topics, folks looking for one particular topic will be able to find them.

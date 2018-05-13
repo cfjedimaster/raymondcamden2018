@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/11/22/Check-out-Zoids-custom-Flex-component-example
+guid: 1670
 ---
 
 Boyzoid has a very nice, simple, and direct example of doing a custom component in Flex:

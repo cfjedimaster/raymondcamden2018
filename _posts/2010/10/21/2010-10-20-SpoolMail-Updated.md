@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/21/SpoolMail-Updated
+guid: 3978
 ---
 
 Today I'm happy for a few reasons. One I can't say till later (hopefully). The other is that <a href="http://spoolmail.riaforge.org">SpoolMail</a> has some kick butt updates that I think people happy. Best of all - they were user contributions which means all I had to do was vet the code! If you don't know what SpoolMail is, let me give you a quick introduction.

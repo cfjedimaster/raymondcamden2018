@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/01/ColdFusion-and-Pass-by-Reference-versus-Value
+guid: 3337
 ---
 
 So this is something I've blogged about before, but as it recently burned a friend of mine, and got some pushback from folks on Twitter, I thought I'd raise the issue again.

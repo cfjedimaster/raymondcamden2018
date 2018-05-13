@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2012/08/29/Thoughts-on-Nodejs-and-Express
+guid: 4718
 ---
 
 A while back I <a href="http://www.raymondcamden.com/index.cfm/2012/5/30/Seeing-the-light-at-the-end-of-the-Node">posted</a> about how I had begun to see Node in a new light. (Do folks refer to it as "just" Node or do you always include the JS at the end?) I had some time this week and decided to try building a real, if simple, application. Since I had plenty of data for my blog, I thought a simple blog viewer would be a good application to try building. Here are some random, scattered thoughts on what the process was like.

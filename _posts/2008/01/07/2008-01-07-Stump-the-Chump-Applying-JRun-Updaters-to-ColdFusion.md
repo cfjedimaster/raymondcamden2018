@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/07/Stump-the-Chump-Applying-JRun-Updaters-to-ColdFusion
+guid: 2578
 ---
 
 From time to time I get questions I can't answer (ok, a lot of times) and I like to share them when I'm interested in the question/answer as well. In order to 'flag' it a bit better for my readers, I'm going to try to remember to prefix the title with "Stump the Chump". This is based on something my buddy <a href="http://www.robisen.com/">Robi Sen</a> told me ages ago. Apparently it's a game you play with a presenter when you just <i>know</i> he is talking about something he doesn't truly understand. As a presenter, that sounds evil. As a person who has attended a few boring presentations in the past - it sounds fun as heck. Anyway, on to the question. Paul asks:

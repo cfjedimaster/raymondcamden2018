@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2014/02/13/Two-Harpjs-Recipes-Limiting-a-list-of-blog-entries-by-count-and-by-date
+guid: 5151
 ---
 
 <p>

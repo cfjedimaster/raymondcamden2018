@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/16/Harlan-Ad-Server-Updated
+guid: 1477
 ---
 
 It's been a few months, but I've updated my ColdFusion based ad server, <a href="http://ray.camdenfamily.com/projects/harlan">Harlan</a>. The changes include:

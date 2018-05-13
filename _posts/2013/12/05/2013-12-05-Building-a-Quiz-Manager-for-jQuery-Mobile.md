@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2013/12/05/Building-a-Quiz-Manager-for-jQuery-Mobile
+guid: 5092
 ---
 
 <p>

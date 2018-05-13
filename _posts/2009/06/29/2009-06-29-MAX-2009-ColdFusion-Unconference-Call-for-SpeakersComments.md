@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/29/MAX-2009-ColdFusion-Unconference-Call-for-SpeakersComments
+guid: 3413
 ---
 
 MAX is still a few months away (and I've yet to finish my presentations for <a href="http://www.cfunited.com">CFUNITED</a>), but it's time to begin early planning for the ColdFusion Unconference. Last year I think things went well, but there are some changes I'd like to make.

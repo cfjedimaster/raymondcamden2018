@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/19/Article-on-Developer-Center
+guid: 2661
 ---
 
 Just found out my latest article has been published up on the Adobe Developer Center:

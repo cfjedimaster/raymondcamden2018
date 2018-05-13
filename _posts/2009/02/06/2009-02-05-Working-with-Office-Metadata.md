@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/06/Working-with-Office-Metadata
+guid: 3225
 ---
 
 I've had a chance to play a bit more with the Apache POI project and I thought I'd share a bit of code demonstrating how to read Office document metadata. Unfortunately I was not able to get this working with Office 2007, but maybe I'll get lucky with reader Leah again!

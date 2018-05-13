@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/18/Presentation-to-the-Scottish-CFUG-today-a-2PM-CST-Cool-Standard-Time
+guid: 1776
 ---
 
 I'll be doing a quick presentation today for the Scottish ColdFusion User Group. My presentation will be a quick introduction to Model-Glue. I'll be focusing on 1.1 but will be showing a bit of the 2.0 beta as well.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/04/Bonehead-Custom-Tag-mistake
+guid: 2860
 ---
 
 This one cost me an hour of my time this morning, and most of lunch. I can blame the earlier time on lack of coffee, but, wow, this was a dumb one.

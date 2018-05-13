@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/30/Adding-virtual-data-to-a-Zip-with-ColdFusion
+guid: 2315
 ---
 
 I wrapped up the CFZIP portion of my work on CFWACK last night and I came across a cool feature. Did you know that you can add fake/virtual/you get the idea files to a zip? If you use CFZIP to create a zip you can specify a file or folder. This data has to exist on the file system. However - if you make use of the child cfzipparam tag, you can add a file directly from a variable. Consider the following simple example:

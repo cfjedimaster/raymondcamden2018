@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/12/Heading-back-to-the-bayou
+guid: 1763
 ---
 
 After a week of training in Virginia, I'll be heading home tomorrow morning. Sorry for the extremely light blogging this week (although, come on, I bet at least some of you were happy to get a few less emails ;) and if you sent me an email, give me a few days to get back to you. 

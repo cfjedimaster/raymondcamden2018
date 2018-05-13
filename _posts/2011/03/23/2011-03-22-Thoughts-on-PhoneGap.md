@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/23/Thoughts-on-PhoneGap
+guid: 4167
 ---
 
 Over the past few days I've had a chance to play a bit with <a href="http://www.phonegap.com/">PhoneGap</a>. PhoneGap is a free platform that allows you to use HTML to create mobile native applications for Android, iOS, Blackberry, webOS, Symbian, and Windows 7 (soon). This blog entry will not detail how to work with PhoneGap since they provide excellent documentation  already. Rather I'm going to focus on my experience in getting it running.

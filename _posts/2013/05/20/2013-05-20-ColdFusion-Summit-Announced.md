@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/05/20/ColdFusion-Summit-Announced
+guid: 4938
 ---
 
 I'm totally stealing this content from the <a href="http://blogs.coldfusion.com">official ColdFusion blog</a>, but as it is good news I think I'm allowed. The ColdFusion Summit, a ColdFusion conference organized by Adobe's ColdFusion team, is now officially announced. Details:

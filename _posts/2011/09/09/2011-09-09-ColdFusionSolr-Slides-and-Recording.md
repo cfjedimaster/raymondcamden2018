@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/09/ColdFusionSolr-Slides-and-Recording
+guid: 4358
 ---
 
 Sorry for the delay folks - here is the slides, code, and recording URL for my ColdFusion/Solr presentation yesterday.

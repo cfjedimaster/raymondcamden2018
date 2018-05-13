@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/02/Ask-a-Jedi-ColdFusion-Calendar
+guid: 1313
 ---
 
 I've mentioned before that I'm going to, on an occasional basis, post questions where I don't have a great answer. That is because I have a wonderful audience and I know they can help out. As before, if this bugs people, let me know. 

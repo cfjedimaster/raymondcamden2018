@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/10/01/More-new-releases-on-Labs
+guid: 2382
 ---
 
 I just blogged about <a href="http://labs.adobe.com/technologies/spry/">Spry 1.6</a>, but today there are some <b>very</b> important updates on Labs:

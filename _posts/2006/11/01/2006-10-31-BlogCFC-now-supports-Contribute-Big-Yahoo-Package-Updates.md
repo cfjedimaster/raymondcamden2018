@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/01/BlogCFC-now-supports-Contribute-Big-Yahoo-Package-Updates
+guid: 1627
 ---
 
 The latest release of BlogCFC is now available at <a href="http://blogcfc.riaforge.org">http://blogcfc.riaforge.org</a>.  Normally I don't mention small updates here - but this release now enables Adobe Contribute access. BlogCFC has had XML-RPC for a few releases now - but I've made some improvements to it in order to enable Contribute to work with it. Enjoy.

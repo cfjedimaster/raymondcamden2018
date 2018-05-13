@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/04/jQuery-Mobile-presentation
+guid: 4147
 ---
 
 Ouch. It's been a <i>long</i> time since I've had technical issues at a presentation so I guess I was due, but... ouch. I apologize to everyone in the room who had to suffer through the initial part of the presentation. Thankfully a reboot and a tip from an attendee (thanks Simon Notsureofyourlastname!) I was able to get moving again. I think though that people "got" the message. <b>jQuery Mobile is magic.</b> Seriously. One person told me afterwards that it was "scary" how easy jQuery Mobile is.

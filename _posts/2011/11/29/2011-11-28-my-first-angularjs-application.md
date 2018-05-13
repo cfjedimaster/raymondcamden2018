@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/29/my-first-angularjs-application
+guid: 4449
 ---
 
 Earlier this year I <a href="http://www.raymondcamden.com/index.cfm/2011/6/19/Take-a-look-at-Angular">blogged</a> about the <a href="http://angularjs.org">AngularJS</a> framework. I thought the docs and the tutorial were cool and overall it felt like a real cool way to build a JavaScript "Application" - and yes, with the quotes there I'm talking about something more than a simple one page, Ajaxified file. Unfortunately, I never got the time to play more with AngularJS until this week. Yesterday I reviewed the <a href="http://docs.angularjs.org/#!/tutorial">tutorial</a> again and decided to take a stab at building my own application. I ran into a few hiccups, but in general, the process was straight forward, and after actually <i>building</i> something with the framework, <b>I love it</b>, and can't wait to try more with it. Let's take a look at my application. (And of course, please keep in mind that this is my first AngularJS application. It's probably done completely wrong. Keep that in mind....)

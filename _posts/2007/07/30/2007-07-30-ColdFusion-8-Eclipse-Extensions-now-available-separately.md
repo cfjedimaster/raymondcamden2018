@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/30/ColdFusion-8-Eclipse-Extensions-now-available-separately
+guid: 2234
 ---
 
 Wow, I'm very happy to see that the ColdFusion 8 Extensions for Eclipse (RDS, Log Viewer, Debugger, etc) are now available separately. In the past you could only get them with Flex Builder. You can now download them here:

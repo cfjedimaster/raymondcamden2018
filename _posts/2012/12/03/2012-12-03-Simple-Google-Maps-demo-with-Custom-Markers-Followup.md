@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2012/12/03/Simple-Google-Maps-demo-with-Custom-Markers-Followup
+guid: 4797
 ---
 
 This weekend I blogged (<a href="https://www.raymondcamden.com/2012/12/01/Simple-Google-Maps-demo-with-Custom-Markers">Simple Google Maps demo with Custom Markers</a>) a simple application that made use of Google's JavaScript Maps API to render custom markers. The data was based on a set of static locations and made use of Google's Geocoding API to translate the addresses into longitude/latitude pairs that could be drawn on a map. My demo worked great, but when the reader tried it out with real data (89 locations) he ran into a problem. Google's API was throttling him from making that many requests.

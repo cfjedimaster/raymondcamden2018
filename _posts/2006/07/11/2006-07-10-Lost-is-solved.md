@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/11/Lost-is-solved
+guid: 1390
 ---
 
 So the story behind "Lost" is now solved:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/31/ColdFusion-101-Building-a-Calendar
+guid: 745
 ---
 
 A reader recently asked me how I did the calendar on the right hand side of the blog, and specifically how I highlighted the current day. Then the reader asked if it was PHP. (The horror, the horror!) Building a calendar in ColdFusion is pretty simple, especially with the handy built-in ColdFusion date functions. In fact, the most difficult part of the entire process is laying out the HTML, as I'll explain later.

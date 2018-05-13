@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/05/24/Example-of-jQuery-loading-form-fields
+guid: 3829
 ---
 
 I've exchanged a few emails lately with a reader, Daniel, who was looking at how he could use AJAX to set the value of a large set of form fields. I whipped up the follow jQuery/ColdFusion demo that I hope others may find useful as well.

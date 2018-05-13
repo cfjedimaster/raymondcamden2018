@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/18/ColdFusion-Cookbook-Update
+guid: 3360
 ---
 
 For a few years now I've run (along with Jeremy Petersen) the

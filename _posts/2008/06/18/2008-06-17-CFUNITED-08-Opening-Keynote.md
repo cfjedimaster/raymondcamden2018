@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/18/CFUNITED-08-Opening-Keynote
+guid: 2885
 ---
 
 Welcome to CFUNITED 08. I'm going to be taking notes during the opening keynote, so please be sure to reload this entry for updates. Right now Michael Smith is speaking about the various things we can do to improve our applications. Adobe will be up in a few minutes and I'll do more frequent updates then.

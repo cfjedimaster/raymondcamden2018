@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/20/You-know-youre-a-geek-when
+guid: 1416
 ---
 
 You notice your cable box turned itself off last night, and when you power it up and notice the on screen menu is <i>slightly</i> different, so you spend the next ten minutes going over every single menu to see what is new.

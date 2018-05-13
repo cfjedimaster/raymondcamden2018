@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/05/ColdFusion-Sample-Reading-a-RSS-Feed
+guid: 4257
 ---
 
 Many web sites provide what's called an RSS feed. RSS stands for Really Simple Syndication. In simpler terms, it's a way to create a list of articles in a common XML format. So for example, a blog, like this one, can share it's last 10 articles. RSS is not read by humans typically. Normally another program will read in the feed and work with it. In this blog entry, I'm going to discuss how ColdFusion can work with RSS feeds, specifically how to read them and create usable data from it. ColdFusion also provides a simple way to create feeds as well. I'll discuss that later.

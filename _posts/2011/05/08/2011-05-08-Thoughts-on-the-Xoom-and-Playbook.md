@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/08/Thoughts-on-the-Xoom-and-Playbook
+guid: 4225
 ---
 
 About a month or so I bit the bullet and bought my first tablet, the Motorola Xoom. I was going to review it right away but decided to hold off until I got the Blackberry Playbook. Now that I've got them both, I thought I'd share my thoughts with my readers. For those of you who have either of these devices, please chime in and let me know your thoughts as well. This will be a very random, stream of consciousness type review, so pardon the erratic nature of this blog post. (Then again, if you've read any of my reviews, you're probably used to it. ;)

@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2010/02/11/Two-More-iPhone-development-tips-also-involves-ColdFusion-Components
+guid: 3718
 ---
 
 Earlier in the week I helped a reader with a iPhone issue he was having. From this came two things I'd like to share with folks. Number one - don't use Flash (sorry, couldn't resist!).

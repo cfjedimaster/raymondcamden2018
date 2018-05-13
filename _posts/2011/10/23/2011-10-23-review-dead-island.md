@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2011/10/23/review-dead-island
+guid: 4404
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B004PAGJOC&nou=1&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr"  scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="width:120px;height:240px;float:left;margin-right:10px"></iframe> Many months ago I <a href="http://www.raymondcamden.com/index.cfm/2011/2/16/Offtopic-and-NSFW--blog-post--Dead-Island-Trailer">posted</a> what I consider (still today) to be the best trailer for a video game yet. I'm probably being a bit dramatic, but I thought the trailer was a piece of art. Graceful, haunting, and emotional all at the same time - it was a complete surprise and made me want to add a zombie game to my 'must get' list of games this year. The last zombie game I played, Dead Rising, was fun for a few hours but quickly grew boring. I figured if the game was anywhere near as good as the trailer it was worth picking up. I can tell you right now that this is not the case. But I still <i>strongly</i> recommend picking up Dead Island. Let me explain why.

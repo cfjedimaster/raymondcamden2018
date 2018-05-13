@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/12/15/cfwddx-doesnt-work-in-script-fyi
+guid: 5447
 ---
 
 This will probably impact about three people, but as I ran into it, I thought I'd share. In ColdFusion 11, you were supposed to be able to call pretty much any tag from cfscript. Unfortunately, cfwddx doesn't work. And yeah, I actually need it. (I used it to store some complex data for <a href="http://www.cflib.org">CFLib</a> and I'm working on a migration script to convert it to MongoDB.) Here is the bug report in case anyone wants to vote for it: <a href="https://bugbase.adobe.com/index.cfm?event=bug&id=3909707">https://bugbase.adobe.com/index.cfm?event=bug&id=3909707</a>.

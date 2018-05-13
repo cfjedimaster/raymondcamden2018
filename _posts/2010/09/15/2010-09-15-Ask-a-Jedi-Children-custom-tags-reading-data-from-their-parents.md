@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/15/Ask-a-Jedi-Children-custom-tags-reading-data-from-their-parents
+guid: 3942
 ---
 
 <a href="http://www.cfcode.net">Chris Peterson</a> hit me up on IM today with the following question. (I've simplified it a bit for the blog post.)

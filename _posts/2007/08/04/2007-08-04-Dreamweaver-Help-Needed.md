@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/08/04/Dreamweaver-Help-Needed
+guid: 2251
 ---
 
 For the life of me I can't figure out how to add a web service call to a page in Dreamweaver CS3. The docs say only one thing. Go to your components panel, and select Web Services from the drop down. But when I click here...

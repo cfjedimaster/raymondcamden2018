@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/11/21/Handling-broken-images-in-Flex-2
+guid: 1666
 ---
 
 A friend had a simple question:

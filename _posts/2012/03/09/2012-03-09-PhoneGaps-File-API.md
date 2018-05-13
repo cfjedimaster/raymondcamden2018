@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/09/PhoneGaps-File-API
+guid: 4555
 ---
 
 <strong>Be sure to read the notes at the end of this blog entry!</strong>

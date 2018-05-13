@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/15/Second-example-of-an-HTMLpowered-AIR-application
+guid: 3913
 ---
 
 It's been a few days since the <a href="http://www.raymondcamden.com/index.cfm/2010/8/4/First-example-of-an-HTMLpowered-AIR-Application">last entry</a> in my HTML/Adobe AIR series. If you aren't up to date on the series, please see the links below in the related entries section. The basic idea here is that I'm going over the example applications I created for my <a href="http://www.coldfusionjedi.com/index.cfm/2010/8/12/Recording-from-Adobe-AIRHTMLjQueryColdFusion-Presentation">Building HTML AIR Applications</a> presentation. I'm not putting these applications out as steller examples of AIR - in fact - they are pretty darn simple and quite ugly. But rather - I hope that if you guys see a bunch of simple examples it will inspire you to build your own. Today's example is another file based one, this time focusing on directory operations as well. I'll start off with a few quick screen shots and then I'll show you the code.

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/06/29/A-few-presentation-tips
+guid: 1362
 ---
 
 Note - this is written just to help. I know I'm not a perfect presenter - but I just wanted to share a few tips for other potential speakers out there...

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/06/03/Simple-example-of-accessing-ColdFusion-data-with-Flex
+guid: 3382
 ---
 
 About a week ago I exchanged a few emails with Susan. She was learning Flex, and while she thought she understood the basic UI stuff (layout, widgets), she was having a real hard time grokking the basics of using ColdFusion Components with Flex. I whipped up a quick demo for her that was as simple as possible and I thought I'd share it on the blog. Please note that Flex, like ColdFusion, provides multiple ways of doing things, so this code could probably be done in many other ways.

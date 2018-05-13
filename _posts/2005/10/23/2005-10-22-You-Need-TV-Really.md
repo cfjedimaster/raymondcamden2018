@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/10/23/You-Need-TV-Really
+guid: 864
 ---
 
 The US Senate is <b>so</b> concerned about your ability to watch TV, they want to spend <a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/10/20/AR2005102001979.html">3 billion dollars</a> to ensure your TV still works in 2009 when we switch to digital TV. I suppose 3 billion for schools, shelter, food for the homeless, etc. would have just been insane. 

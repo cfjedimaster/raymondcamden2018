@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2013/11/10/The-Sunday-OT-My-Favorite-Video-Game-Commercials
+guid: 5083
 ---
 
 <p>

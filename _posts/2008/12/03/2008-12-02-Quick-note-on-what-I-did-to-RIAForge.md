@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/03/Quick-note-on-what-I-did-to-RIAForge
+guid: 3129
 ---
 
 I thought I'd give folks an update on what I did to RIAForge yesterday. First, huge thanks to <a href="http://www.jeffcoughlin.com/blog/index.cfm/">Jeff Coughlin</a> for his help. Considering all the crap I give him in regards to FarCry (which is a good CMS, but I do like to tease him about it!) I'm surprised he offered to help anyway! 

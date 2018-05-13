@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/12/Hiding-meta-information-in-ColdFusion-8s-CFDUMP
+guid: 2273
 ---
 
 I love the new information about queries displayed in ColdFusion 8's cfdump tag (you can see the SQL, the parameters, execution time, and cache status), but if you don't want all the extra information, just use the metainfo attribute:

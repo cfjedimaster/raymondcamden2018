@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/16/Interesting-discovery-Chrome-and-Storage
+guid: 5128
 ---
 
 <p>

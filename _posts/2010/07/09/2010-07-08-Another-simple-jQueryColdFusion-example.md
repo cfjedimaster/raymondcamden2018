@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/07/09/Another-simple-jQueryColdFusion-example
+guid: 3872
 ---
 
 Earlier this week I worked with a reader who was having issues using Ajax and ColdFusion. We exchanged quite a few emails and I thought I'd share the end result. This isn't anything new for the blog at all, so forgive the lack of originality, but I figured sharing yet another example couldn't hurt. I do want to spend a quick minute talking about his problem and how I went about solving it.

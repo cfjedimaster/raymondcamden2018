@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/08/Quote-of-the-Day-From-Ben-Forta
+guid: 2965
 ---
 
 Via a <a href="http://www.houseoffusion.com/groups/CF-Talk/message.cfm/messageid:310529">cf-talk thread</a> concerning the jerks doing all the sql injection attacks:

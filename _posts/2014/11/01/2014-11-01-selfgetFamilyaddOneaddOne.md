@@ -6,6 +6,7 @@ categories: [adoption]
 tags: []
 banner_image: 
 permalink: /2014/11/01/selfgetFamilyaddOneaddOne
+guid: 5340
 ---
 
 <p>

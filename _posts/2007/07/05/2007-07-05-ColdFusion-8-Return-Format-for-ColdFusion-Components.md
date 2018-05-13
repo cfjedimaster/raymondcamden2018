@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/05/ColdFusion-8-Return-Format-for-ColdFusion-Components
+guid: 2173
 ---
 
 One of the lesser publicized updates in ColdFusion 8 is the introduction of the returnFormat attribute for the cffunction tag. What does this do? ColdFusion Components, when executed remotely, will return data wrapped in WDDX format. This is a problem if you want to use the result in AJAX or some other non-WDDX form. ColdFusion 7 fixed this partially by making any function that had a returnType of XML return it's data unformatted. 

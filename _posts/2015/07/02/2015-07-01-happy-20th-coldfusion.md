@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/07/02/happy-20th-coldfusion
+guid: 6337
 ---
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/07/cf20.jpg" alt="cf20" width="600" height="809" class="aligncenter size-full wp-image-6338" />

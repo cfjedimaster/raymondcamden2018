@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/11/02/Friday-Puzzler-Sieve-of-Eratosthenes
+guid: 4773
 ---
 
 It's been a <i>long</i> time since I posted a Friday Puzzler, but as I was perusing <a href="http://www.khanacademy.org">Khan's</a> CS courses this morning (which look <b>really</b> cool!) I came across this fascinating discourse on prime numbers: <a href="http://www.khanacademy.org/cs/level-4-sieve-of-eratosthenes/1096543070">Sieve of Eratosthenes</a>. 

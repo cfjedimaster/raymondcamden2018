@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/26/Using-jQuery-to-validate-the-sum-of-form-fields
+guid: 3290
 ---
 
 Christian asked an interesting question yesterday. The solution ended up being rather simple, but I wasted (well, wasted may be a strong term) time trying to solve it in an overly complicated manner. One of the things I've learned when it comes to ColdFusion development is that it almost always makes sense to go for simplicity. While not always possible, it doesn't hurt to stop and ask myself if the route I'm going down to solve some problem could be simplified in some way. Let me share the problem, and then I'll share the complex solutions I tried until I got to a much simpler fix.

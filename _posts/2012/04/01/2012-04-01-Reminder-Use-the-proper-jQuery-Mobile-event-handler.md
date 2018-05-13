@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/04/01/Reminder-Use-the-proper-jQuery-Mobile-event-handler
+guid: 4576
 ---
 
 I feel like I've got a good handle on <a href="http://jquerymobile.com/demos/1.1.0-rc.1/docs/api/events.html">jQuery Mobile event handlers</a>, but I just found myself making a mistake that led to some pretty severe performance issues. Assuming I'm not the only one to screw this up, I thought a good demo of my bug would be helpful.

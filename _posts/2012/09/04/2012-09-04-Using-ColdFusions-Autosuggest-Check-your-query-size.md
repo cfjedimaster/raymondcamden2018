@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/04/Using-ColdFusions-Autosuggest-Check-your-query-size
+guid: 4723
 ---
 
 Here's an interesting issue I ran into tonight while reviewing some code from a friend. He had a complex search form that included multiple uses of ColdFusion's autosuggest feature. If you haven't seen this yet, it is a feature of the cfinput tag that makes it pretty easy to build an autosuggest field. You can point the tag to a CFC, return an array of data, and it gets rendered as a set of suggestions to the user.

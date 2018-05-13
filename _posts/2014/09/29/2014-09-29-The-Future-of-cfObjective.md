@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/09/29/The-Future-of-cfObjective
+guid: 5320
 ---
 
 <p>

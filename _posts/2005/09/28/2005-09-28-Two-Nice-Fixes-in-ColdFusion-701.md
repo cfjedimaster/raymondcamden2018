@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/28/Two-Nice-Fixes-in-ColdFusion-701
+guid: 819
 ---
 
 I double checked the release notes and didn't see a mention of this - but two nice bug fixes are in ColdFusion 7.0.1 that relate to Application.cfc. 

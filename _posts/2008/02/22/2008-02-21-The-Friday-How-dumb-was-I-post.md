@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/22/The-Friday-How-dumb-was-I-post
+guid: 2666
 ---
 
 So I'm going to blame this on my head cold, but yesterday I spent a good hour trying to figure out why my code was failing. The code did (essentially):

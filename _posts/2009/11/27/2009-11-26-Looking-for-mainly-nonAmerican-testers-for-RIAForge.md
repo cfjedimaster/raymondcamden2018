@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/27/Looking-for-mainly-nonAmerican-testers-for-RIAForge
+guid: 3624
 ---
 
 A few months back Mark Mandel wrote me about an odd issue he was having with <a href="http://www.riaforge.org">RIAForge</a>. Every time he tried to visit the site he got an empty page. Not a ColdFusion error, but an empty page. I wasn't aware of any possible thing it could be, so I wasn't able to do anything. A few weeks back I got another email from a user who was in a similar situation. This user was also outside America (although in Switzerland, a bit far away from Australia) so I began to think it may be some kind of network security system at the host level. I checked with the host - but they said nothing like that was in place.

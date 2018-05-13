@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/02/25/ColdFusion-and-Form-Fields-with-the-Same-Name
+guid: 5164
 ---
 
 <p>

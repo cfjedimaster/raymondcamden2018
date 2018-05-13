@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/03/17/Attending-cfObjective-Check-out-Into-The-Box
+guid: 5177
 ---
 
 <p>Just a quick note to suggest that folks attending this years <a href="http://www.cfobjective.com">cfObjective</a> consider coming up a day early for <a href="http://www.intothebox.org/">Into the Box</a>. This is a conference for all things Ortus - ok, maybe you don't recognize that name - but these are the folks behind the ColdBox family of products, which last time I checked had a solution for <i>everything</i>. 

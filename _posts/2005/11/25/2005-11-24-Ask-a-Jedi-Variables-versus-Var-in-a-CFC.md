@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/25/Ask-a-Jedi-Variables-versus-Var-in-a-CFC
+guid: 937
 ---
 
 Nick asks:

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/03/15/Uploading-multiple-files-in-Flex-as-one-unit
+guid: 1894
 ---
 
 I had an interesting problem to fix today in Flex and I thought I'd share my solution. I'm not sure it is the best solution, but maybe someone can suggest an improvement.

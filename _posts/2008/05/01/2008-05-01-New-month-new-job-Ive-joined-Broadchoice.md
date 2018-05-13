@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/05/01/New-month-new-job-Ive-joined-Broadchoice
+guid: 2800
 ---
 
 I hinted around at it the last few days, but this morning I made it official. I've joined <a href="http://www.broadchoice.com/">Broadchoice</a> as the VP of Software Development. I've been working with them for a while now, and frankly, I've developed quite the geek crush on the company, both it's product and the developers. As you know, Sean Corfield <a href="http://corfield.org/blog/index.cfm/do/blog.entry/entry/Sean_Corfield_joins_Broadchoice_Inc">joined</a> a few months ago, and it is an honor to work with him (and the many other <b>extremely</b> talented folks there).

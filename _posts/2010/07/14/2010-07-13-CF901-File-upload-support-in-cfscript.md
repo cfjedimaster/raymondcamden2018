@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/14/CF901-File-upload-support-in-cfscript
+guid: 3877
 ---
 
 Here is another "kinda small, kinda darn useful" update for ColdFusion 901 - support for file uploads in CFScript. CF901 adds both a FileUpload and a FileUploadAll function. FileUpload handles the fairly common process of processing a file upload while FileUploadAll mimics the "uploadAll" action added to ColdFusion 9. I've yet to use that in production yet, but if you have multiple file uploads to process, it probably makes sense to. Here is a quick and simple example I whipped up last night.

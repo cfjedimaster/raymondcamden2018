@@ -6,6 +6,7 @@ categories: [uncategorized]
 tags: []
 banner_image: 
 permalink: /2014/12/10/oops-rss-issue
+guid: 5425
 ---
 
 So while I (believe) I've tackled the uptime issues here, looks like I screwed up my RSS feed a bit. I just fixed it, so <a href="http://www.coldfusionbloggers.org">ColdFusion Bloggers</a> will pick it up and anyone who subscribed to the feed will also get the last set of entries. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/18/ColdFusion-Admin-checks-JVM-Path
+guid: 3320
 ---
 
 This week during CFUNITED Atlanta Express, the topic of upgrading the JVM your ColdFusion server uses came up. We talked about the benefits you could get especially in regards to CFC-heavy sites. One of the things I warned folks about was ensuring you correctly updated the value in the admin. In the past, I've pointed to the wrong folder, restarted ColdFusion, and had a server that wouldn't start up. My fault, but frustrating.

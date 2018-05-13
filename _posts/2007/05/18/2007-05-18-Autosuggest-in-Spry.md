@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/18/Autosuggest-in-Spry
+guid: 2049
 ---
 
 Autosuggest isn't new to Spry 1.5, but I never had a chance to take a look at it till this morning. Surprisingly it wasn't too difficult. Tonight's example will be rather simple, but I'll follow it up with a ColdFusion-based one tomorrow.

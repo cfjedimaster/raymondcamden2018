@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/07/15/saucedb-working-on-the-front-end
+guid: 6397
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb">blogged</a> about a new project I'm building to demonstrate both <a href="http://www.ionicframework.com/">Ionic</a> and <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. I've made some progress on the project so I thought I'd share what I've built so far. My thinking is that as this project goes on I'll continue to share these updates so folks can see how I approach projects. Feel free to comment, criticize and make suggestions!

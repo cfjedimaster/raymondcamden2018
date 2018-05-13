@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/06/20/Great-questions-about-clientside-development-from-a-serverside-developer
+guid: 4969
 ---
 
 This question came in today and I thought it was an excellent one to share with my readers. It is also one of those questions with a <i>lot</i> of different takes so I hope my readers chime in with their own opinions as well. The reader wants to remain anonymous, but I really feel like he is in a similar position as a lot of my other readers as well. So, let's get into it.

@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2015/07/12/review-dave-vs-the-monsters
+guid: 6378
 ---
 
 I've been a fan of John Birmingham since I picked up the first book of his Axis in Time series. It felt like a more sci-fi infused Clancy series. The concept was pure geek day dream - send a fleet of modern day warships back in time and see how they impact history. But Birmingham did a great job of of showing the cultural impact of this transfer as well as the providing epic battle scenes. 

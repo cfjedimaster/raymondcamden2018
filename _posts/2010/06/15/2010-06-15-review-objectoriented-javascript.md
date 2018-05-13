@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2010/06/15/review-objectoriented-javascript
+guid: 3847
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_top&bc1=000000&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=raymondcamden-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=1847194141" style="width:120px;height:240px;margin-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe> I've been slowly making my way through Stoyan Stefanov's book, "Object-Oriented JavaScript", and I'm really torn on how exactly to rate it. It's not that I didn't like the book - I loved it and will explain why - but I feel that the book may be improperly titled. My biggest concern here is that folks will see the title and think the book is something that it is not. Don't get me wrong - this book is gold - but it may not be for you.

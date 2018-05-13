@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/02/22/Yahoo-is-now-officially-the-cool-kid-on-the-blog
+guid: 1853
 ---
 
 I've blogged quite a bit about how happy I've been with the Yahoo APIs (although I can say that they don't seem to respond to bugs well - I found a bug that was reported, and acknowledged, by Yahoo a year ago that still hasn't been fixed), especially in comparison to Google. Today I discovered  <a href="http://pipes.yahoo.com/">Yahoo Pipes</a>. Yahoo Pipes is a graphical tool that lets you build complex mashups between various RSS services. The tool is absolutely amazing and you have to give it a try. 

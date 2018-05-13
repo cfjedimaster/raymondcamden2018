@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/03/Lost-review-for-May-3
+guid: 1246
 ---
 
 Wow. First and foremost - if you download this episode off the internet (from unofficial sources), you may miss the most important thing - the commercial. There was an actual commercial for the Hanso Organization. While it didn't reveal much, it did show a phone number:

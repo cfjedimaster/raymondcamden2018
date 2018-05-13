@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/07/ModelGlue-Short-URLs-on-the-Cheap
+guid: 1638
 ---
 
 I've blogged before about short, SES style URLs and what I use. (To summarize - I'd either recommend URL Rewriting in Apache or <a href="http://cheeso.members.winisp.net/IIRF.aspx">IIRF</a> for IIS.) What if you can't use a web server side solution? You're left with using a solution I used for BlogCFC, namely appending values after the file name and using CGI.PATH_INFO to parse it. Here is a simple example.

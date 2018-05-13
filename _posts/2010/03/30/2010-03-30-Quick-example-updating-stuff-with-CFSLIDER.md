@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/30/Quick-example-updating-stuff-with-CFSLIDER
+guid: 3768
 ---
 
 A reader asked:

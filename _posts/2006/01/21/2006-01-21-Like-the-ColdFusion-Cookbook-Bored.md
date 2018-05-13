@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/21/Like-the-ColdFusion-Cookbook-Bored
+guid: 1044
 ---
 
 Do you like the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> site? Are you bored to tears and want something only marginally less boring to do?

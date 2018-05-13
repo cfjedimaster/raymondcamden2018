@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/27/The-last-ColdFusion-Builder-Extension-you-will-install
+guid: 3697
 ---
 
 I have to begin by apologizing. ColdFusion Builder is - already - a pretty darn cool tool. While it still has warts (and to be fair, it is still in beta), it has been my day to day programming tool for a few months now. One of the cooler features of CFB is how easy it is to extend it with custom extensions. You can find a bunch on <a href="http://www.riaforge.org/index.cfm?event=page.category&id=14">RIAForge</a> now. Unfortunately for them, though, I'm releasing an extension today that makes all of them pointless. (Warning, the size of this SWF is rather large - I recorded it on a large screen.)

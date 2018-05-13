@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/24/No-CFADMIN-access-means-no-logging-right
+guid: 3463
 ---
 
 This week seems to be 'Mr Obvious' week for me, and I apologize for that, but hopefully some of these entries are useful to folks. I was looking over email from a reader who commented that she couldn't use CFLOG because she didn't have admin access. While that is technically true, it certainly does not mean you can't use logging style features. 

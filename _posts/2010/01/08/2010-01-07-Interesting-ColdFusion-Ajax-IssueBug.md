@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/01/08/Interesting-ColdFusion-Ajax-IssueBug
+guid: 3677
 ---
 
 Yesterday a reader wrote me with an interesting question. He was using ColdFusion's Ajax controls to load content into a cfdiv. Within the content loaded via Ajax, he had a simple form with some checkboxes. He wanted to use jQuery to support a "Check All" button. For some reason though the event handler he used never worked. Let's take a look at his initial code.

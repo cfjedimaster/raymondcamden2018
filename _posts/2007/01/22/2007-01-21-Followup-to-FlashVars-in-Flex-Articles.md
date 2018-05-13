@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/22/Followup-to-FlashVars-in-Flex-Articles
+guid: 1786
 ---
 
 Last month I wrote an <a href="http://ray.camdenfamily.com/index.cfm/2006/12/11/FlashVars-in-Flex">article</a> about how to use FlashVars in a Flex application. FlashVars are simple values passed in to the Flash movie from the HTML/JavaScript that embeds the SWF. I thought I'd follow it up with a practical example on an application I'm working on right now.

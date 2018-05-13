@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/18/Looking-for-a-Facecom-API-replacement-Try-ReKognition
+guid: 4733
 ---
 
 Many moons ago I <a href="http://www.raymondcamden.com/index.cfm/2011/11/7/Facecom-API-released">blogged</a> about a cool API that provided facial recognition. Unfortunately, Facebook bought them and their API is shutting down. A few services have sprung up in its place, one of them being the <a href="http://rekognition.com/">ReKognition API</a>.

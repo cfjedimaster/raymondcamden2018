@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/05/01/Why-cant-stats-be-in-English
+guid: 1242
 ---
 
 So I was originally going to start an entry on a cool new "toy" that <a href="http://www.majornelson.com/archive/2006/04/29/Now-your-Xbox-360-can-blog.aspx">translates your XBOX 360 playing habits into a blog</a>. This by itself is fun and kinda cool, but not very useful, but it got me thinking. All this toy is doing is translating your stats into a blog about what you are up to. Why can't we do that with stats in general?

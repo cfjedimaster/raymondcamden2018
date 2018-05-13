@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/16/Ask-a-Jedi-Encrypting-ColdFusion-Templates
+guid: 974
 ---
 
 Here is a great question:

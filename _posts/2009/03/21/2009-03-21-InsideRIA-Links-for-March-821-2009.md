@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/03/21/InsideRIA-Links-for-March-821-2009
+guid: 3285
 ---
 
 I forgot to blog this last weekend, so here are the articles I've published over on InsideRIA from the past two weeks. 

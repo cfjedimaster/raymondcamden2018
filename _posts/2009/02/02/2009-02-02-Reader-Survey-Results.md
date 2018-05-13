@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/02/02/Reader-Survey-Results
+guid: 3218
 ---
 
 I want to thank everyone (all 269 of you) who answered my 2008 reader survey. It was definitely appreciated. I thought I'd share the results, both the numbers, my thoughts, and my plans for the rest of the year. (Holy smokes, one whole month is gone already?)

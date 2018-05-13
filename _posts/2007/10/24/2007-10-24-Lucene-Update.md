@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/24/Lucene-Update
+guid: 2432
 ---
 
 I had to spend a few minutes on hold today waiting for a client, so I decided to spend a bit more time working on the ColdFusion Lucene code. One of the things I found about Lucene was it had no support for binary files. Basically you are responsible for finding your own plugins to get the text out of various file formats.

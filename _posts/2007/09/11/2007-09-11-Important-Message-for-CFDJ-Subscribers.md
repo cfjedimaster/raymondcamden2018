@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/09/11/Important-Message-for-CFDJ-Subscribers
+guid: 2336
 ---
 
 Sys-Con is "offering" a digital subscription to their Flex or Silverlight magazine to all existing CFDJ subscribers.

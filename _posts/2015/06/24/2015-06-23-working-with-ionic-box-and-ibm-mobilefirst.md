@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova,ionic,mobilefirst]
 banner_image: 
 permalink: /2015/06/24/working-with-ionic-box-and-ibm-mobilefirst
+guid: 6303
 ---
 
 Earlier today IBM <a href="http://www-03.ibm.com/press/us/en/pressrelease/47185.wss">announced</a> a new partnership with Box. Box is a cloud storage provider much like Dropbox, OneDrive, and other services, but also provides some pretty cool workflow features as well. While it is still early, you'll soon see some interesting collaborations between IBM and Box. I decided to see how easy it would be to integrate Box into a hybrid mobile application using both <a href="http://ionicframework.com">Ionic</a> and <a href="https://ibm.biz/MobileFirst-Platform">IBM MobileFirst</a>. This is just a simple proof of concept, but it demonstrates how you can use all these different pieces together in one application.

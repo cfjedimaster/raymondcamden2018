@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/09/Code-to-Avoid-cfoutput-over-a-query-with-one-row
+guid: 1830
 ---
 
 I've seen this a few times in the past, but I just ran into it so I thought I'd share my feelings on it. 

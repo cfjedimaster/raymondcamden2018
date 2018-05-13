@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/09/11/CommandBox-CLI-and-Package-Manager-for-ColdFusion
+guid: 5305
 ---
 
 <p>

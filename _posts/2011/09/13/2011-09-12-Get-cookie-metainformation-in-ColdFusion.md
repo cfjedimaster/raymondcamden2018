@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/13/Get-cookie-metainformation-in-ColdFusion
+guid: 4362
 ---
 
 <b>EDIT: Unfortunately, I was wrong about this! Please see Jason's comment below.</b>

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/03/27/Yet-Another-Waste-of-time
+guid: 1171
 ---
 
 I launched a new blog last week and was going to stay quiet about it, but figured it won't ever get any traffic unless I actually mention it. Just to be clear, this isn't a tech blog and it would be nice to say it was a complete waste of time, but even that is a bit too much probably. ;) 

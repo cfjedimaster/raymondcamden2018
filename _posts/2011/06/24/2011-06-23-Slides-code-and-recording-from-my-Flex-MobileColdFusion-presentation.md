@@ -6,6 +6,7 @@ categories: [coldfusion,flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/06/24/Slides-code-and-recording-from-my-Flex-MobileColdFusion-presentation
+guid: 4280
 ---
 
 Embedded below you will find my slide, code, and recording url from my presentation last night. Enjoy. Note that the recording URL will require you to have an Adobe.com login (if you don't have one already - it's free, open to all, etc). 

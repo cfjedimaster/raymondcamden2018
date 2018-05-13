@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/16/Vimeo-ColdFusion-wrapper
+guid: 2935
 ---
 
 Last night at our local <a href="http://www.acadiana-aug.org">user group</a> I was introduced to <a href="http://www.vimeo.com">Vimeo</a>. It looks to be a slicker looking clone of YouTube. The video controls are nicer and you can get a HD version of the video as well. (If the submitter provides one of course.) For a good example, ok, a crazy example, check out this video:

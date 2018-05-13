@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/28/Some-tipes-for-using-Brackets-and-Theseus
+guid: 5023
 ---
 
 I've blogged before about the <a href="https://github.com/adobe-research/theseus">Theseus</a> project, a way to debug client-side and server-side JavaScript, but I never got around to actually testing it. Today the Bracket's blog <a href="http://blog.brackets.io/2013/08/28/theseus-javascript-debugger-for-chrome-and-nodejs/">discussed</a> the most recent 0.4 release and how it works within Brackets. I ran into a few issues (part my misunderstanding and part simple issues) so I thought I'd share some tips and examples of how Theseus works. My thanks go to both Thomas Lieber and Joel Brandt for being helpful!

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/10/24/Simple-Example-Sound-effects-for-an-HTMLAdobe-AIR-Application
+guid: 3982
 ---
 
 This morning when I couldn't sleep (I'm sorry PST, but I'm a CST guy and always will be) I thought that it might be kind of fun to look into added sound effects to an Adobe AIR application. I've worked with sound before. I've got a sample application that lets you drag a MP3 file onto it and the code will then parse the ID3 info and find the lyrics for you. But I wanted to add something simpler to an application - like a button click sound. The code for playing a song versus a sound effect isn't really any different, but here is a simple example to give you an idea of how you can do it.

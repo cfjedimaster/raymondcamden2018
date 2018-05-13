@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/04/06/Face-detection-with-getUserMedia
+guid: 4584
 ---
 
 There are quite a few interesting APIs evolving in the "modern web", but not all of them are going to be things you would use in most projects. I've been very public about my feelings concerning canvas for example. Great for games and charting - but not much else. That doesn't make it a bad feature. It just makes it one I won't use terribly often. Whenever I read about some new cool feature being developed, my mind starts trying to figure out what they could be used for in a <i>practical</i> sense. Obviously what's practical to you may not be practical to me, but figuring out how I would actually use a feature is part of how I learn it.

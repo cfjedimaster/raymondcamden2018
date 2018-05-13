@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/12/Lost-review-for-April-11
+guid: 1954
 ---
 
 Well it is about darn time. The past few episodes have been ... ok ... but tonight's episode really got me back into Lost again. Juliette's back story was pretty interesting, and definitely taught us quite a few things:

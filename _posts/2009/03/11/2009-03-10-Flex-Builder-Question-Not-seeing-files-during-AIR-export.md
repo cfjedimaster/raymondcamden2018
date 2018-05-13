@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2009/03/11/Flex-Builder-Question-Not-seeing-files-during-AIR-export
+guid: 3271
 ---
 
 I've got a weird Flex Builder question I hope my readers can help me with. I'm working with an open source Flex project (<a href="http://www.sharefirereader.com/">ShareFire</a>) and need to build the code myself. I created a new project in FB and then manually copied the files over from ShareFire's SVN drop.

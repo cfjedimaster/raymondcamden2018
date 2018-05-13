@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/27/Spry-Presentation-RecordingZip
+guid: 1434
 ---
 
 My Spry presentation from last night is now available. You can watch it here:

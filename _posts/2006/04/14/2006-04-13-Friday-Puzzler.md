@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/14/Friday-Puzzler
+guid: 1213
 ---
 
 I thought the last puzzler was kind of fun, so I figured why not do it again. I'm not around much today to comment on the entries, but if you are bored, here is a small coding challenge: Madlibs. Your code will take a hard coded string like so:

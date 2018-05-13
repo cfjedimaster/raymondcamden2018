@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/16/Intermediate-Contest-Entry-1
+guid: 919
 ---
 
 Our first entry comes from Steve Gustafson. Before reading on, please check his application <a href="http://ray.camdenfamily.com/demos/contest2/sgustafson/blackjack">here</a>. Now that you have played with it a bit, let's take a look at selected portions of the code. Let's start with his Application.cfc file:

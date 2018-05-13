@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/11/30/Lost-Spoilers
+guid: 946
 ---
 
 The following entry containers spoilers - although not of the normal sense. These are secrets that have been uncovered on some of the various fake web sites (well, real sites built for fake companies) that surround the show. First off is this letter:

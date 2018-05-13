@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2006/12/07/MySQL-administration-via-ColdFusion
+guid: 1699
 ---
 
 A user asked me if it was possible to backup and restore a MySQL database from ColdFusion. There are multiple ways of doing this, but the basic answer is that you can do this very easily. MySQL ships with a set of utilities that ColdFusion can run via CFEXECUTE to perform various tasks.

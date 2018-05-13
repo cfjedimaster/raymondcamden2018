@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/27/Galleon-Forums-161
+guid: 1433
 ---
 
 Today I released version 1.6.1 of <a href="http://ray.camdenfamily.com/projects/galleon">Galleon Forums</a>. The changes are:

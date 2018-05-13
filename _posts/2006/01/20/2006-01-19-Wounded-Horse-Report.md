@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/01/20/Wounded-Horse-Report
+guid: 1040
 ---
 
 "Wounded Horse" almost sounds like a name I'd get from an Indian chief. Anyway - I thought folks might be bored enough to want to know how my arm was doing. Since I <a href="http://ray.camdenfamily.com/index.cfm/2006/1/17/If-I-was-a-horse-they-would-shoot-me">reported</a> on it Tuesday, it hadn't really changed much. I was popping the hydrocodone as fast as I could (following the directions of course), but in general, nothing was improving. However, yesterday after my morning pill, the pain seemed to really go away. So much so that I didn't take another pill all day.

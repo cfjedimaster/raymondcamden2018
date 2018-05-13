@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2013/03/24/sunday-ot-post-tomb-raider
+guid: 4889
 ---
 
 I've been a gamer for a long time (Atari 2600 anyone?) but I've never played Tomb Raider. For a series that has been around for as long as it has, I've avoided it (outside of trying a demo once) for two reasons. First, the puzzles always seemed to be a bit too complex. Second, I'm not a big fan of games that require absolute precise actions. I had a copy of Assassin's Creed a few years back and I kid you not - after 30 minutes I popped it out and never played it again. (I ended up giving it to someone else though so it wasn't wasted.) I like my action games to be more "run and dumb" since I've got enough stress in my life without video games adding to it.

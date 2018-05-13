@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/23/Ask-a-Jedi-Controlling-where-ColdFusion-looks-to-run-a-custom-tag
+guid: 1973
 ---
 
 Eric asks this question regarding custom tags and a move from ColdFusion 5 to MX:

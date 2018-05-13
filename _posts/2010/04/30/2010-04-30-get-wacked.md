@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/30/get-wacked
+guid: 3798
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cfwack9.jpg" title="OMG this was a lot of work to write" align="left" style="margin-right:10px;margin-bottom:10px" />

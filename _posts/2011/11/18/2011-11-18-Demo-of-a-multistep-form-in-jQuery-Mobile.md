@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/18/Demo-of-a-multistep-form-in-jQuery-Mobile
+guid: 4439
 ---
 
 While perusing questions over on <a href="http://www.stackoverflow.com">Stack Overflow</a> I came across a <a href="http://stackoverflow.com/questions/8036588/jquery-mobile-multipage-submit">question</a> concerning jQuery Mobile and multi-step forms. I thought I'd take a stab and building one. This is - of course - just one way to do it. At the end of the blog entry I'll discuss some alternatives to consider, and as always, I'd love to hear from my readers about how <i>they</i> would do it.

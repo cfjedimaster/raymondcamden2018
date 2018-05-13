@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/06/18/SciFi-BOF-Members-Post-Here
+guid: 2887
 ---
 
 Just a quick note to say <b>thank you</b> to everyone who showed up for the SciFi Birds of a Feather. I know it was quite a ways away from the conference center, and literally quite deep in the Earth, so I really appreciate you making the trek.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/06/Building-your-first-ModelGlue-application-part-10
+guid: 1192
 ---
 
 <img src="http://ray.camdenfamily.com/images/mg.jpg" align="left" border="1" hspace="5"> Welcome to the tenth installment of "Building your first Model-Glue application." This is the final entry dealing with actually building the site, and will be followed by an entry that talks about what I did  right, what I did wrong, what I didn't do, etc. Today's entry will deal with the gallery security problem. If you remember, our photo galleries had three different types of access:

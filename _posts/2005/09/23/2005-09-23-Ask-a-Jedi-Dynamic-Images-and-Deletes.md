@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/23/Ask-a-Jedi-Dynamic-Images-and-Deletes
+guid: 800
 ---
 
 Here is an interesting question:

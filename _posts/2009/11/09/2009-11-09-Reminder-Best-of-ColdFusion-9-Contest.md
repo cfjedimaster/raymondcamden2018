@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/09/Reminder-Best-of-ColdFusion-9-Contest
+guid: 3596
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="You must enter. Tron Guy says so." align="left" style="margin-right:10px">

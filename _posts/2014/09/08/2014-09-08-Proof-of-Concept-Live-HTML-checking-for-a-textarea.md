@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/09/08/Proof-of-Concept-Live-HTML-checking-for-a-textarea
+guid: 5302
 ---
 
 <p>

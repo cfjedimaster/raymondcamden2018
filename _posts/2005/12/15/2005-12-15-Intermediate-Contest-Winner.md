@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/15/Intermediate-Contest-Winner
+guid: 972
 ---
 
 The <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">Intermediate  ColdFusion Contest</a> is now over. We had 11 great entries. I want to thank  everyone who submitted code. I <i>know</i> it was scary for you. But these entries were <b>very</b> helpful. Not only did you show people how to solve a problem, but your mistakes were useful in educating others. Thank you again. I also want to thank all my readers who commented - and did so in a respectful way. Ok, so enough with the that, let's just get to the winner(s).

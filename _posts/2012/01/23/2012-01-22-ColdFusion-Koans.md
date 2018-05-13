@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2012/01/23/ColdFusion-Koans
+guid: 4504
 ---
 
 I'm a bit late to blog on this, almost three months late, but folks may want to check out Ryan Anklam's <a href="http://blog.bittersweetryan.com/2011/10/introducing-coldfusion-koans-learn.html">ColdFusion Koans</a>. What are ColdFusion Koans? (Stealing this from his site...)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/15/Preconference-classes-for-CFUNITED-Posted
+guid: 1892
 ---
 
 If you want to learn even more at CFUNITED, please check the <a href="http://cfunited.com/blog/index.cfm/2007/3/14/CFUnited-Preconference-classes-posted">list</a> of pre-conference classes</a>. 

@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2006/12/08/JavaScript-Opening-a-new-window-with-little-to-no-chrome
+guid: 1702
 ---
 
 This is an old question, covered in hundreds of FAQs, but a reader asked me this today and I'm nothing if not responsive. (Especially when I know the answer. ;) The question was - how do you open a new window in JavaScript with as little chrome as possible. JavaScript makes this rather simple. The syntax to open a new window is:

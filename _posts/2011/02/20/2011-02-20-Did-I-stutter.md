@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/02/20/Did-I-stutter
+guid: 4130
 ---
 
 A few days ago I tweeted an article (that unfortunately I forgot to bookmark) about the move, "The King's Speech." I've yet to see this movie myself, but I'm very interested in checking it out as it focuses on a topic near to my heart - stuttering. I mentioned this when I sent my tweet out and a few minutes later I got an email from JG:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/12/ColdFusion-Yahoo-Package-Second-Release
+guid: 1585
 ---
 
 I've attached the second release of the ColdFusion Yahoo Package. It now includes APIs for Traffic and Weather data. Here is a few examples.

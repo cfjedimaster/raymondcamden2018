@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/04/02/Remember-this-special-little-rule-about-ColdFusion-Components
+guid: 4898
 ---
 
 I just spent some time helping a person debug an issue that turned out to be one small little problem. He had a form that posted to a CFM page. On that CFM page he had quite a bit of processing going on, but the result was always the same - a blank white page.

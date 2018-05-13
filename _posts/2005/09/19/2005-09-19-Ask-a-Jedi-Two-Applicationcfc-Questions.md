@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/19/Ask-a-Jedi-Two-Applicationcfc-Questions
+guid: 788
 ---
 
 Two questions today regarding Application.cfc. Here is the first one:

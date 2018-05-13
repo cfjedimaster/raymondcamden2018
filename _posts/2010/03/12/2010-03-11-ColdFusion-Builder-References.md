@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/12/ColdFusion-Builder-References
+guid: 3745
 ---
 
 In my <a href="http://www.raymondcamden.com/index.cfm/2010/3/10/ColdFusion-Builder--Refactoring">last blog entry</a>, I talked about how you can use ColdFusion Builder to perform code refactoring - essentially - supporting the updating of your APIs through the rest of your code base. You change some method from doX to performX, and ColdFusion Builder can help you update any scripts that make use of that code. Today I'm going to talk about the obvious related feature to this - references. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/16/ColdFusion-INI-files-and-comments
+guid: 4125
 ---
 
 Today I got a comment on a blog entry from close to 6 years ago: <a href="http://www.raymondcamden.com/index.cfm/2005/8/26/ColdFusion-101-Config-Files-AGoGo">ColdFusion 101: Config Files A-Go-Go</a> (what was I thinking with when I picked that title??). The blog entry discusses ColdFusion native INI file processing. I use an INI file to config <a href="http://blogcfc.riaforge.org">BlogCFC</a> and have used it elsewhere in the past as a simple form of configuration. I'm not one of the anti-XML folks but you can't deny that an INI file is pretty simple to use. I've moved away from this type of configuration though due to the issues that ColdFusion's INI functions have with internationalization inside ini files. That being said, I was a bit surprised today Cori pointed out a bug with ColdFusion's getProfileString function.

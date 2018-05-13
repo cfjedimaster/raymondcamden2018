@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2012/05/29/New-ColdFusion-Builder-Extension-GistCreator
+guid: 4633
 ---
 
 A few months back I switched to using Gists (<a href="https://gist.github.com/">https://gist.github.com/</a>) for my code samples. For the most part it just worked fine. I did have to do a bit of <a href="http://www.raymondcamden.com/index.cfm/2012/4/14/Dynamically-replacing-Gists-with-raw-content-for-jQuery-Mobile">work</a> to get it right under jQuery Mobile, but outside of that I'm happy with the change. 

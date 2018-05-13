@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/22/ColdFusion-Counting-to-a-number-and-repeating
+guid: 4133
 ---
 
 Ok, this is something I've done a thousand times before, but last night when I tried to get it working, it took me a few hours to get it right. I'm sure the first comment on this entry will be a comment showing how much of a bonehead I was, but darnit, I <b>had</b> to get this working or give up programming forever. So what's the problem? Given a set of records, I want to number them from 1 to 5 so that after 5 I go back to 1 again. Or, given 12 records, I want to see: 1,2,3,4,5,1,2,3,4,5,1,2. Simple, right?

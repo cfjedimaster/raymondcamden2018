@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/15/Outputting-a-ColdFusion-query-dynamically
+guid: 4158
 ---
 
 I've covered this topic a few times before, in various ways, but a reader wrote in today with a related question so I thought I'd write a quick "guide" to this topic. Basically - given any ColdFusion query - how would you loop over the data dynamically? Here is how I do it.

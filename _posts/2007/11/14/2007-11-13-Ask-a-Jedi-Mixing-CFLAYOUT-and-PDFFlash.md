@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/14/Ask-a-Jedi-Mixing-CFLAYOUT-and-PDFFlash
+guid: 2473
 ---
 
 Michael Brennan-White asks:

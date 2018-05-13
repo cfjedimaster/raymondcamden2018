@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/25/Metadata-properties-for-CFFEED-Atom
+guid: 3251
 ---
 
 Many, many moons ago (August 07 to be precise), I wrote a blog entry on <a href="http://www.raymondcamden.com/index.cfm/2007/8/22/Metadata-properties-for-CFFEED">metadata properties</a> for created feeds when using the CFFEED tag. I mentioned how the docs only cover a few of the possible items and mentioned <i>nothing</i> about metadata for Atom feeds. I said I'd follow up with an Atom example never got around to it. A reader graciously reminded me of this so I took a look earlier this week. Here is what I found.

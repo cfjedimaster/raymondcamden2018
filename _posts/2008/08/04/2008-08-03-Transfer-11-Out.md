@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/04/Transfer-11-Out
+guid: 2954
 ---
 
 The title says it all, the latest release of <a href="http://www.transfer-orm.com/">Transfer</a> has been released to the intertubes. While a lot was updated, the main focus of the release was related to performance, which is always a good thing. Mark goes into more detail here:

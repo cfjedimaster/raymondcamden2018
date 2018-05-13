@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/01/RecordingFiles-from-Last-Nights-Presentation
+guid: 1873
 ---
 
 For those who didn't want to stay up till Midnight to hear me present on Spry (what's wrong with you!), David of the Auckland CFUG has sent me the recording URL:

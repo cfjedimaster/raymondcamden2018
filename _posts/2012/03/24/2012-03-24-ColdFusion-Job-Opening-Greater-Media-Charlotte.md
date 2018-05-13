@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/24/ColdFusion-Job-Opening-Greater-Media-Charlotte
+guid: 4568
 ---
 
 Just passing it along...

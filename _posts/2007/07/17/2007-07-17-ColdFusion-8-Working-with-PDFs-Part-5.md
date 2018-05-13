@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/17/ColdFusion-8-Working-with-PDFs-Part-5
+guid: 2198
 ---
 
 Today's PDF entry is all about merging. ColdFusion 8 allows us to merge any number of PDFs, whether from files or directly in memory. What are some usage examples? Your site could have a standard disclaimer that you want added to the front of each PDF you create. You may have a standard credits page you want to add to the end. Whatever the need - ColdFusion makes it pretty simple, so let's take a look.

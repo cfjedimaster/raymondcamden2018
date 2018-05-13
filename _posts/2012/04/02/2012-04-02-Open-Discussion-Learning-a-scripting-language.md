@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2012/04/02/Open-Discussion-Learning-a-scripting-language
+guid: 4578
 ---
 
 Late last week Dan Fredericks emailed an interesting question. I honestly had no idea how to even begin to answer it, so I thought I'd share it here and get advice from my incredibly intelligent (and good looking) readers. His question was:

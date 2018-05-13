@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/17/ColdFusion-in-the-Cloud
+guid: 3109
 ---
 
 Kevin Hoyt is presenting at the Unconference now and has brought up an interesting subject - ColdFusion in the Cloud. (I'll be blogging while he speaks for forgive the grammar.) Says he just got permission to demo this! 

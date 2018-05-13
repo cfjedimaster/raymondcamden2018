@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/07/02/Converting-ColdFusion-data-for-jQuery-Plugins-An-example
+guid: 3419
 ---
 
 Kerrie asks:

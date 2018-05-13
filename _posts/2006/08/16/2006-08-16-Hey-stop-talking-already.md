@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/16/Hey-stop-talking-already
+guid: 1476
 ---
 
 So the last 4 or 5 posts have been about me talking, and I swear, in real life, I'm quiet like heck. I wanted to point out that I have also scheduled another user group meeting, this one in November for the Hartford, CT group. This will be a repeat of my Spry presentation, obviously updated to handle 1.3 features. (Or 1.4 if they have it out by then.)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/20/Seeker-updated-to-support-Word-docs-and-Excel-files
+guid: 2891
 ---
 
 I just pushed up an update to <a href="http://seeker.riaforge.org">Seeker</a>, my ColdFusion Lucene project. I added support for MS Word documents and MS Excel files. This was incredibly easy using <a href="http://javaloader.riaforge.org">JavaLoader</a> from Mark Mandel and the POI project.

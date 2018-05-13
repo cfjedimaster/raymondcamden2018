@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/29/Ask-a-Jedi-Problem-with-CFGRID-and-Edit-Action
+guid: 2994
 ---
 
 Patrice asks:

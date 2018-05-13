@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/23/An-example-of-Cordovas-Camera-PopoverOptions
+guid: 5273
 ---
 
 <p>

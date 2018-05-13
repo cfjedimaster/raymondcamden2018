@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/27/ColdFusion-10-Admin-Audit-Log
+guid: 4539
 ---
 
 Here's a little gem I just discovered this weekend. ColdFusion 10 now has an administrator audit log. As you can probably guess, this is a log of administrator actions. You can find it the usual log location (and via the CF Admin Logs page). Here's a sample:

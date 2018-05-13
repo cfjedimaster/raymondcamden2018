@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/18/Mobile-version-of-ColdFusion-Bloggers-updated
+guid: 4162
 ---
 
 Last night I updated the mobile version of <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a>. If you aren't on a mobile device, you can view it in your desktop by going to <a href="http://www.coldfusionbloggers.org/mobile">http://www.coldfusionbloggers.org/mobile</a>. I'm using the 3rd Alpha of <a href="http://www.jquerymobile.com">jQuery Mobile</a> and what you see represents approximately 30 minutes of work. That certainly isn't a testament to my awesomeness, but more a testament to the power of jQuery Mobile, jQuery, and of course, ColdFusion. It isn't quite perfect yet. On the home screen you may notice this icon to the right...

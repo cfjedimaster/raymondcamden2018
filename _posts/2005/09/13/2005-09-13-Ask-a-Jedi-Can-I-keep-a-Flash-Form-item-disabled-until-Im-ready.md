@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/13/Ask-a-Jedi-Can-I-keep-a-Flash-Form-item-disabled-until-Im-ready
+guid: 770
 ---
 
 Rich asks:

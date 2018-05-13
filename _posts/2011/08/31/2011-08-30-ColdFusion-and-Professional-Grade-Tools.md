@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/31/ColdFusion-and-Professional-Grade-Tools
+guid: 4348
 ---
 
 Robby sent this to me this morning and I thought it would be something that folks much smarter than I could help discuss:

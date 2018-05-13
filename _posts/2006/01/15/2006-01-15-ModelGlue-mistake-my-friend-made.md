@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/15/ModelGlue-mistake-my-friend-made
+guid: 1029
 ---
 
 So - there was this friend of mine. Let's call him "Bob." Bob really loves <a href="http://www.model-glue.com">Model-Glue</a>. He thinks its the bees knees. However - he ran into a weird problem this morning. He would hit Model-Glue site A, and it would work. He would hit Model-Glue site B, and it would work. (This was all on his local machine.) He would then hit A again but see the content from B!

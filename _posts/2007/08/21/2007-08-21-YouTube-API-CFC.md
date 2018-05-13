@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/21/YouTube-API-CFC
+guid: 2296
 ---
 
 Yesterday one of my clients (<a href="http://www.roundpeg.com">roundpeg</a>) asked for a ColdFusion interface to the <a href="http://www.youtube.com/dev_docs">YouTube API</a>. This turned out to be rather simple since they made use of a REST API. From this work I was able to build a CFC to work with all the functions defined in the API. This lets you get video information, profile information, search for videos etc. Best of all - roundpeg, Inc was cool with me releasing the code. You can download the CFC below. 

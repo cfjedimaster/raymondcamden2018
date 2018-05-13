@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2005/08/18/Need-for-Speed-Underground-Rivals-PSP-Review
+guid: 713
 ---
 
 About a month ago I picked up <a href="http://www.eagames.com/redesign/games/psp/nfsur/home.jsp">Need for Speed: Underground Rivals</a> for the PSP. The Need for Speed series has been around for a while, but this was my first time playing any NFS-type game, so I didn't really know what to expect. The game focuses on the underground "tuner" scene. If you ever saw <a href="http://www.imdb.com/title/tt0232500/">The Fast and the Furious</a>, then you have a basic idea of the concept: Take normal stock, or import cars, and tune the heck out of it them for maximum speed. Oh, and adds lot of disgusting neon to them. 

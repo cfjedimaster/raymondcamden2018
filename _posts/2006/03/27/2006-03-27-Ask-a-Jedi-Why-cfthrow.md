@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/27/Ask-a-Jedi-Why-cfthrow
+guid: 1172
 ---
 
 An anonymous user (hey why <i>not</i> share your name?) asked this today:

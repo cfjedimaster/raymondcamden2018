@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/11/Delicious-little-problem-with-Applicationcfc
+guid: 3522
 ---
 
 Yes, I'm calling a bug delicious. Not that I like bugs of course - but sometimes there is no better feeling than working with someone on a problem, going through numerous rounds of tests, and then finally finding the solution. Shoot - I think I probably enjoy that feeling more than actually completing a project. It's like a mystery. Why is my application spewing out X when it should return Y? I don't know - maybe I'm just too much of a dork. Either way - sit back and let me tell you a little story.

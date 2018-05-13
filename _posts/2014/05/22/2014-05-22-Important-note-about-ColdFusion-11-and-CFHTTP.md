@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/05/22/Important-note-about-ColdFusion-11-and-CFHTTP
+guid: 5229
 ---
 
 <p>

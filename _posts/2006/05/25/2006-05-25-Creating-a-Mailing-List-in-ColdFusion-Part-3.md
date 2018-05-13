@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/25/Creating-a-Mailing-List-in-ColdFusion-Part-3
+guid: 1295
 ---
 
 Welcome to the third entry on my series about creating a mailing list application in ColdFusion. The previous entries are linked to at the bottom of this article. In this entry I'm going to talk about the actual mail tool (and it's about time). In general, this is a pretty simple tool, but I do have one neat trick in it I think you will like. As with the <a href="http://ray.camdenfamily.com/index.cfm/2006/5/23/Creating-a-Mailing-List-in-ColdFusion-Part-2">previous entry</a>, this script should be considered an "Admin Only" tool and should be placed behind a protected folder. Here is the script:

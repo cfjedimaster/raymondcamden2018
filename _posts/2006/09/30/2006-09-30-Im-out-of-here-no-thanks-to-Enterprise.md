@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/30/Im-out-of-here-no-thanks-to-Enterprise
+guid: 1566
 ---
 
 This is my last post before heading out for vacation. I'll be checking email at night, but not really posting. Oh, let me give a big thanks to Enterprise Rent-A-Car. My wife and I made a "reservation" two weeks ago. When I called today, I was told the car we wanted wasn't there, and that it would possible show up any day now.

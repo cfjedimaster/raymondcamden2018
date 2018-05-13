@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/18/Centaur-and-Bolt-are
+guid: 3400
 ---
 
 In case you don't use Twitter, you may have missed the announcement last night that we now have official names for Centaur and Bolt. Bolt, the new ColdFusion editor, will be called ColdFusion Builder. Not as fun as Bolt, but, code names are always more fun. It meshes well with Flash Builder too. Centaur will be called.... wait for it.... wait for it.... ColdFusion 9. Yeah, no big surprise there, but at least now we have real names to go along with the products.

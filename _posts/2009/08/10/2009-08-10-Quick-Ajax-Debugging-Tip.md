@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/10/Quick-Ajax-Debugging-Tip
+guid: 3480
 ---
 
 Ok, so this has been bugging me for the past few hours so I thought I'd share a quick hack. I've got a prototype I'm working on for a client that has a bit of Ajax in it. My Application.cfc code comes from a snippet I have in ColdFusion Builder and has the following onError:

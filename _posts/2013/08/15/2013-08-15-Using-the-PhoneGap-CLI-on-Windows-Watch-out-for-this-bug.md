@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/08/15/Using-the-PhoneGap-CLI-on-Windows-Watch-out-for-this-bug
+guid: 5007
 ---
 
 I've recently spoken to more and more people who are working with PhoneGap on Windows, so I'm trying to get my own environment (well, my own <i>virtual</i> environment) up to shape. I even have an application I'd like to put out on the Windows app store. I ran into some significant issues with it (the app, not PhoneGap in general) with 2.9 but decided to try it again with 3. I ran into an interesting issue and I want to share it in case others run into it as well.

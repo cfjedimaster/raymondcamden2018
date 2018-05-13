@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/22/Ask-a-Jedi-Making-use-of-ColdSpringModelGlue-and-Remote-Proxies
+guid: 2985
 ---
 
 Dean asks:

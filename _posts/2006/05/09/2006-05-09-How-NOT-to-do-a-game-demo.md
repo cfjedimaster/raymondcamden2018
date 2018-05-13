@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/05/09/How-NOT-to-do-a-game-demo
+guid: 1259
 ---
 
 Ok, so I'm just a simple game player and not "in the industry", but I hope no one minds if I make a few simple suggestions. I'm really enjoying the fact that I can download demos on my XBOX 360, but I've noticed a few interesting "trends" that I hope will die out soon. In no particular order, here they are:

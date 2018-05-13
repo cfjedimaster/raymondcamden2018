@@ -6,6 +6,7 @@ categories: [html5,mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/16/Open-PhoneGapCordova-Session-next-week
+guid: 5203
 ---
 
 <p>

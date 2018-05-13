@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/30/Ask-a-Jedi-Encapsulation-101
+guid: 1303
 ---
 
 Marco asks:

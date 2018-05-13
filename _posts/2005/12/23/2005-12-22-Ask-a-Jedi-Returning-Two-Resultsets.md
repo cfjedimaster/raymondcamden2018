@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/23/Ask-a-Jedi-Returning-Two-Resultsets
+guid: 990
 ---
 
 A reader asks:

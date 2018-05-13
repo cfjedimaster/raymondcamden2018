@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/03/27/Startup-Weekend-New-Orleans
+guid: 4892
 ---
 
 Just a quick note to let my local folks (well, local being relative, New Orleans is about 2.5 hours away) about an upcoming event - <a href="http://swneworleans.eventbrite.com/">Startup Weekend New Orleans</a>. From the description:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/05/13/ColdFusion-Builder-2-View-bug
+guid: 4230
 ---
 
 Credit for this find goes to Adobe. I was recently working with an extension that created views and ran into a frustrating issue. Even though I was using toolbars, the toolbars would not show up. I dropped that extension for a while and later tried working on another extension. Once again I ran into an issue - this time with the icon attribute. (This creates a little icon to the left of your view title.)

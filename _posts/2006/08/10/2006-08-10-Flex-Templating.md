@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/08/10/Flex-Templating
+guid: 1460
 ---
 
 For the past week or so Ted Patrick (Adobe's Flex Evangelist) has been sharing a cool little project with me. Today it went live: 

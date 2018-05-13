@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/31/Reminder-Speaking-at-Boston-CFUG-on-Friday
+guid: 1070
 ---
 
 Just a reminder - but I will be speaking at the Bustom CFUG this week on Friday. 

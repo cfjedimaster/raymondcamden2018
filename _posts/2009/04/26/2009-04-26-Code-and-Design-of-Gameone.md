@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/04/26/Code-and-Design-of-Gameone
+guid: 3330
 ---
 
 So now that I'm done enjoying <a href="http://www.festivalinternational.com/site47.php">Festival International</a>, I thought I'd do a quick write up about the code behind Gameone, the POC (proof of concept) AIR/Flex/Blaze/ColdFusion multiplayer game I released last week. I want to be sure folks remember that this is probably quite far away from 'Best Practice'. It was a learning experience for me, so please keep that in mind while reviewing the code and reading my comments. I've attached the full source code to both the front end and the server side. Note that the ColdFusion code was written very quickly and would benefit from ColdSpring. Anyway, enough with the foreplay, let's get down to it.

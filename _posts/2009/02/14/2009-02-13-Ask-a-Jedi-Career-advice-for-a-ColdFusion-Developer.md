@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2009/02/14/Ask-a-Jedi-Career-advice-for-a-ColdFusion-Developer
+guid: 3238
 ---
 
 Asoka asks:

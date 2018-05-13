@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/12/ColdFusion-Puzzler-Inspect-It
+guid: 3011
 ---
 
 Today's ColdFusion Puzzler is based on a cool Groovy feature. I was surprised to discover that Groovy supports a Dump function. While I don't find it as pretty as ColdFusion's version, it's nice to have when debugging. But Groovy takes it a bit further and adds something similar called the inspect() function. The inspect function will take any arbitrary object and return a string that could be used to create it. Here is an example:

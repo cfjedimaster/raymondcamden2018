@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/04/12/Join-me-at-Adobe-MAX
+guid: 4908
 ---
 
 Still not sure if you're going to Adobe MAX this year? Check out my sessions below:

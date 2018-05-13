@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/29/CFBL-Update-Week-3
+guid: 2619
 ---
 
 Thank you to everyone who continues to check in. More than one person has had a bad week, or has had setbacks, but I'm happy to see so many people still sticking to it. (From the original bunch, we still have a bit over 20 left.) Here are the stats:

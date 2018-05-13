@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/07/12/Windows-7-version-of-PhoneGapCordova
+guid: 4675
 ---
 
 This is interesting - Intel has created a Windows 7 port of PhoneGap (AKA Cordova). You can grab the bits at the Github project: 

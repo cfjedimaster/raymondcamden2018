@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/02/11/Quick-example-of-Chrome-JavaScript-Hotswapping
+guid: 4852
 ---
 
 This morning I read a nice blog entry about Chrome JavaScript hot swapping: <a href="http://smotko.si/using-chrome-as-a-javascript-editor/">The Chrome Javascript editor can do hot swapping</a>. I liked the article but wanted to try it myself to see it in action.

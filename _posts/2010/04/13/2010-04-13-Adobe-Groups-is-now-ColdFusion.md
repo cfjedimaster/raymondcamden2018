@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/04/13/Adobe-Groups-is-now-ColdFusion
+guid: 3780
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/adobegroups.png" title="Adobe Groups, the new hotness. Cooler than the iPad." align="left" style="margin-right:10px" /> For many months now I've been tweeting about a project called Picard. Today, it finally went live. Picard was the code name for the new version of <a href="http://groups.adobe.com">Adobe Groups</a>. For folks who don't know, Adobe Groups is a site that helps Adobe User Group managers communicate with their user group members. It supports blogs, forums, event calendars, and other resources. I was approached by Adobe last fall to recreate the site. Previously it was a hosted CMS system built on PHP. Before being approached by Adobe, I had not really dug deep into Groups. As I researched and built - I became pretty darn impressed by the older system. It is a quite complex CMS and it took quite a bit of work to build it from scratch. It was also a pretty intense "trial by fire" in terms of ORM. I made use of many ColdFusion 9 features while building it and I hope to blog more later on about the details behind what I did. (And you better believe I added quite a bit of jQuery sugar to the mix as well!)

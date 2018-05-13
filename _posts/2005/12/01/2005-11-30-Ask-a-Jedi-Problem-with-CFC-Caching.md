@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/01/Ask-a-Jedi-Problem-with-CFC-Caching
+guid: 947
 ---
 
 A reader asks:

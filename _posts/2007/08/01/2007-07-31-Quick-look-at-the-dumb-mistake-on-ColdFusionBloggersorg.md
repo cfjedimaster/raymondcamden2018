@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/01/Quick-look-at-the-dumb-mistake-on-ColdFusionBloggersorg
+guid: 2242
 ---
 
 Thanks to Todd Sharp, I discovered I made a pretty dumb mistake on <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>. I almost didn't blog this as it is so much a beginners type mistake, but if I forgot, I figured other people can to. (That's me - making dumb mistakes so you guys look smarter. You're welcome! ;)

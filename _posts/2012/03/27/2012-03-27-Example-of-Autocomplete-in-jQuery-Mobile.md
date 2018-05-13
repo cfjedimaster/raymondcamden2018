@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/27/Example-of-Autocomplete-in-jQuery-Mobile
+guid: 4570
 ---
 
 A while back a reader (Bobby Tuck) asked me about how to do autocomplete in a jQuery Mobile application. He tried using jQuery UI's <a href="http://jqueryui.com/demos/autocomplete/">autocomplete</a> control but found it didn't integrate well on a mobile device with the keyboard popped up. I suggested an alternative and (finally!) got around to building a mockup. Here's my take on it - feel free to rip it apart and suggest alternatives and improvements.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/11/My-Mile-High-OOO-Notice-for-CFUNITED
+guid: 3482
 ---
 
 I'm blogging from a plane. Seriously. Ok, so it's not new - Wifi has been on a few planes now for a few months at least, but it's my first time. I met a fellow CFUNITED attendee and he shared a free pass, so not only if it Wifi in the Sky, but free wifi at that. 

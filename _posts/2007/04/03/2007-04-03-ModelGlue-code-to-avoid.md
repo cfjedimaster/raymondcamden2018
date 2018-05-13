@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/03/ModelGlue-code-to-avoid
+guid: 1938
 ---
 
 Joe just <a href="http://www.firemoss.com/blog/index.cfm?mode=entry&entry=B7D4972F-3048-55C9-43EBC879822F7947">posted</a> an interesting blog concerning ways to get rendered data into the controller. While I don't agree 100% with his solution, I don't have a better idea right now. ;) 

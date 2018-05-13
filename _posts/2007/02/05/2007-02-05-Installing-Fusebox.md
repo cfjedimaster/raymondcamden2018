@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/05/Installing-Fusebox
+guid: 1820
 ---
 
 A quick editorial note. I mentioned last week that I would be playing with Fusebox and trying to learn the basics. In case anyone comes in via Google I wanted to be clear that these are my experiences as I learn. So please be sure to read the comments. 

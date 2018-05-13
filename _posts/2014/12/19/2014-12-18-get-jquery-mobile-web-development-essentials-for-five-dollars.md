@@ -6,6 +6,7 @@ categories: [development,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2014/12/19/get-jquery-mobile-web-development-essentials-for-five-dollars
+guid: 5468
 ---
 
 <a href="http://www.raymondcamden.com/wp-content/uploads/2014/12/5-dollar-promo.jpg"><img src="https://static.raymondcamden.com/images/wp-content/uploads/2014/12/5-dollar-promo.jpg" alt="5-dollar-promo" width="600" height="475" class="alignnone size-full wp-image-5469" /></a> 

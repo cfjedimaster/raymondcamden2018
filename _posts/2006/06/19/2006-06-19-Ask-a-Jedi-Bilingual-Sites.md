@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/19/Ask-a-Jedi-Bilingual-Sites
+guid: 1344
 ---
 
 A reader had a short and sweet question for me:

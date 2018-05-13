@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/15/Two-Cool-Event-Gateway-Articles-by-Forta
+guid: 779
 ---
 
 I don't normally waste an entry just pointing to another blog, but I thought I'd point out two cool entries by Ben Forta:

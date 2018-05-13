@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/11/06/Sprys-HTML-Panel-2
+guid: 2456
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2007/11/4/Sprys-HTML-Panel">blogged</a> about Spry's HTML panel. This is a rather cool, and simple, way to load content into a region of your web page via Ajax. Kin Blas of the Spry team pointed out that I missed one of the cooler features - States. Spry's Data Set feature includes a simple way to handle error and loading states. You can use some specially named DIVs and Spry will handle hiding/showing what it needs to. Turns out - the HTML panel system supports the same thing! Let's look at an example.

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/11/05/ModelGlues-new-Flex-Integration
+guid: 2453
 ---
 
 Just a quick note to recommend Model-Glue users (or folks who have been interested in picking up Model-Glue) take a look at Joe Rinehart's latest post:

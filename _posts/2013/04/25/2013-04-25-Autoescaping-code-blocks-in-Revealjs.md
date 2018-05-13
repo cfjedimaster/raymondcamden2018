@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2013/04/25/Autoescaping-code-blocks-in-Revealjs
+guid: 4919
 ---
 
 Warning - this falls into the "Cool, but may not be a good idea category." I'm a huge fan of the <a href="https://github.com/hakimel/reveal.js/">Reveal.js</a> framework for HTML-based presentations and I've already posted a few of my utilities/tips/etc for making it work better (or at least better for me). One issue I've run into a few times lately is escaping HTML for code slides.

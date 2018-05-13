@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2011/02/15/Ask-a-Jedi-Strategies-for-minimizingcustomizing-resources-loaded-by-a-template
+guid: 4123
 ---
 
 Wow, that's a horribly complex title. Hopefully it makes sense. Anyway, here is the question from reader Doug:

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/04/10/jQuery-Quickie-Using-a-checkbox-to-enabledisable-a-row-of-checkboxes
+guid: 3778
 ---
 
 I ran into an interesting UI issue today. My solution may not be the best, but I thought others might be interested in it and be able to comment. First, let me describe the problem I was trying to solve. I'm working with a system that has Resource Types and Resources. A Resource Type is a high level definition of a group of content, like a Blog or a Forum. It contains various bits of a metadata that includes a name, description, types of content within it, and security settings. To keep things simple, imagine security is limited to logged in users and the general public. You can define then, for example, that the general public can read any content in the blog, but only logged in users can post content.

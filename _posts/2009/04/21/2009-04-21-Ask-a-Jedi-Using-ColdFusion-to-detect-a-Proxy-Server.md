@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/21/Ask-a-Jedi-Using-ColdFusion-to-detect-a-Proxy-Server
+guid: 3324
 ---
 
 This week I had a nice (email) conversation with Dave Dugdale. His question was:

@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/04/13/Tracking-application-usage-with-PhoneGap
+guid: 4588
 ---
 
 Last September I wrote a <a href="http://www.raymondcamden.com/index.cfm/2011/9/24/Tracking-application-usage-with-Flex-Mobile">blog entry</a> discussing how you could track basic application usage within a Flex Mobile application. I thought I'd take a look at this today with a PhoneGap application. I took an entirely different approach than the earlier example and I'd love to hear what people think.

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/06/05/Use-cgiservername-Be-careful
+guid: 2864
 ---
 
 So I just had a random, stray thought. One thing I've done in the past is sniff the current server to determine behavior aspects of my site. So for example, my error handler may do something like this:

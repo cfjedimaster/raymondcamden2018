@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/10/31/Adding-Parsecom-User-support-to-your-PhoneGap-application
+guid: 4771
 ---
 
 A few days ago I wrapped up my <a href="http://www.raymondcamden.com/index.cfm/2012/10/24/Building-a-Parsecom-Enabled-PhoneGap-App--Part-5">series</a> on integrating <a href="http://www.parse.com">Parse.com</a> support with <a href="http://www.phonegap.com">PhoneGap</a>. Now that I've got a good handle on the basics, I thought I'd begin exploring some of the other features. Today I'm going to share an example of adding User support.

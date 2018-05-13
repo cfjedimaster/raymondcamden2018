@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2010/10/21/My-First-Android-Application
+guid: 3980
 ---
 
 Earlier this week I finally found the time to get my hands on Adobe's new tools to enable AIR development for mobile, specifically the Android platform. I have to be a bit vague about the details as things are still under NDA but I thought I'd share some quick thoughts, and the actual results of my first Android application.

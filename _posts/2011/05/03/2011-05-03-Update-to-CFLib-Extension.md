@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/03/Update-to-CFLib-Extension
+guid: 4218
 ---
 
 Many moons ago I wrote a simple (and ugly) ColdFusion Builder extension that allows you to download and install UDFs from <a href="http://www.cflib.org">CFLib</a>. I rewrote it last night into a view for ColdFusion Builder 2. Here's a quick example:

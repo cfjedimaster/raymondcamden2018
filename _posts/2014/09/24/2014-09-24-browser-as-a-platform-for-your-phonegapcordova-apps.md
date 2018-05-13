@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/09/24/browser-as-a-platform-for-your-phonegapcordova-apps
+guid: 5316
 ---
 
 <strong>Over a year later and this blog post is still highly popular. If you like this content, be sure to <a href="https://feedburner.google.com/fb/a/mailverify?uri=RaymondCamdensBlog&loc=en_US">subscribe</a> to the blog to get the latest updates. You may also want to check out my <a href="http://www.manning.com/camden">Apache Cordova book</a> and the <a href="/about-me">JavaScript videos</a> I have available.</strong>

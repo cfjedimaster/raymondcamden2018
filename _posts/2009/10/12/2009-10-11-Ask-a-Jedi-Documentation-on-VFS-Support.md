@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/12/Ask-a-Jedi-Documentation-on-VFS-Support
+guid: 3561
 ---
 
 Steve asks:

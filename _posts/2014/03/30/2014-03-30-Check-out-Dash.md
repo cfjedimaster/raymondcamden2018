@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/03/30/Check-out-Dash
+guid: 5188
 ---
 
 <p>While at <a href="http://www.raymondcamden.com/index.cfm/2014/3/22/I-survived-Big-Nerd-Ranch-training">iOS training</a> a few weeks ago one of the instructors mentioned an OSX program called <a href="http://kapeli.com/dash">Dash</a>. Dash is an offline documentation viewer, which sounds kinda boring, but I'm <strong>incredibly</strong> pleased with it. 

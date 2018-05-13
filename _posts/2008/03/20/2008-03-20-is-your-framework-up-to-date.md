@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/03/20/is-your-framework-up-to-date
+guid: 2720
 ---
 
 I was helping a buddy debug an issue this morning with his Model-Glue web site. The error was being thrown from Model-Glue itself, not his own application code, but he naturally assumed the issue was with his site.

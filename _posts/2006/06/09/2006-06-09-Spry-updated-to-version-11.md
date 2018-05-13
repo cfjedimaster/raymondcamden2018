@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/09/Spry-updated-to-version-11
+guid: 1324
 ---
 
 I <a href="http://ray.camdenfamily.com/index.cfm/2006/6/2/I-heart-Spry">blogged</a> a few days ago about <a href="http://labs.adobe.com/technologies/spry/">Spry</a>, Adobe's AJAX framework. While I was in Detroit, they dared to release a new version (1.1) without telling me. (Those jerks!) For information on what was updated, here is a very good <a href="http://www.adobe.com/cfusion/webforums/forum/messageview.cfm?catid=602&threadid=1161459&enterthread=y">summary</a> from one of the creators. 

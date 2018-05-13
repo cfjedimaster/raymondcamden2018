@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/07/When-does-ColdFusions-Trim-function-not-trim
+guid: 4109
 ---
 
 Here is a fun little quiz for you. Given a variable S (a number) that you output to screen with dashes like so:

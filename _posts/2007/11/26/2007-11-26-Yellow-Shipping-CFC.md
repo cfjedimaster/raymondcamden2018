@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/26/Yellow-Shipping-CFC
+guid: 2496
 ---
 
 Use <a href="http://www.myyellow.com/dynamic/services/content/index.jsp">Yellow</a> for shipping? I'm working with a client who wants to use Yellow for shipping. They were interested in cutting costs a bit - so I wrote the Yellow integration for free in exchange for being able to open source it. Personally I've never even heard of Yellow before this project, so I don't think many people will use this, but I've attached the CFC I created to this blog entry. No docs or anything fancy like that. The CFC basically just pings their service and parses the response into a simple structure. 

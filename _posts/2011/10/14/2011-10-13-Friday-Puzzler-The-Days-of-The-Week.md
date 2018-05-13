@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/14/Friday-Puzzler-The-Days-of-The-Week
+guid: 4392
 ---
 
 Here is a little puzzler that I think will be fun, and hopefully much simpler than my last one. For today's puzzler, you must use ColdFusion to create a function that returns the day of the week (numerical) for a date. I know what you're thinking - doesn't ColdFusion have that built in? It does. But your task is to recreate it. I have absolutely no guidelines for how you recreate it - except that you can't - obviously - use the same logic that someone else does. While the winner of these things are pretty much always picked arbitrarily, today's is going to be even more crazy. I want to see the most weird, stupid, insane, etc, ways to solve this problem. Go crazy. The only restriction is that you have to run your code via a test harness to ensure it works right. I've written one for you. It allows you to pass in your UDF and it confirms it works for a large sample of dates.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/04/Friday-Puzzler-ColdFusion-Trivia
+guid: 1449
 ---
 
 So, today's puzzle isn't really a code challenge, but more of a trivia contest. The first person to both answer my question, and explain the answer, wins, um, respect and Kudo(tm) points, but nothing else. Ready? 

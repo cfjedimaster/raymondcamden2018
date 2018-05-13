@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/06/27/Best-of-ColdFusion-10-MightySpec
+guid: 4660
 ---
 
 Welcome to the final entry in the <a href="http://www.raymondcamden.com/index.cfm/2012/2/29/Best-of-Adobe-ColdFusion-10-Beta-Contest">Best of ColdFusion 10</a> contest. I apologize for taking so long to "wrap" this (and technically it isn't wrapped till I announce the winners), but hopefully the utter and complete coolness of today's entry will make you forget how long it took me to actually get it posted. Our last entry comes from <a href="http://blog.mxunit.org/">Marc Esher</a> :  <a href="https://github.com/mxunit/mxunit/tree/mightyspec">MightySpec</a>

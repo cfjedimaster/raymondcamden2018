@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/19/Session-metrics-with-Applicationcfc
+guid: 1724
 ---
 
 A few months ago I blogged (<a href="http://ray.camdenfamily.com/index.cfm/2006/10/20/How-ColdFusion-can-save-you-business">How ColdFusion can save your business</a>) about how you can use the onSessionEnd feature of Application.cfc to track the success of your ecommerce site. Today I thought I'd follow up with another example that can be useful for measuring the success of your web site.

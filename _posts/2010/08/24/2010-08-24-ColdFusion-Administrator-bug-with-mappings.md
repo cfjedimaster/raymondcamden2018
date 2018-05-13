@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/24/ColdFusion-Administrator-bug-with-mappings
+guid: 3922
 ---
 
 Watch out for this one - I almost didn't notice it. Today I went to add a new mapping. It just so happened that the mapping I added was one that already existed. The administrator correctly noticed this and gave me an error:

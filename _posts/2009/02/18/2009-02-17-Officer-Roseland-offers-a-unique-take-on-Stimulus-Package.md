@@ -6,6 +6,7 @@ categories: [music]
 tags: []
 banner_image: 
 permalink: /2009/02/18/Officer-Roseland-offers-a-unique-take-on-Stimulus-Package
+guid: 3243
 ---
 
 I don't blog about music too often here, but I figured this was a special case. I first heard of Officer Roseland when Brian Jones pinged me. He was using BlogCFC for their <a href="http://www.officerroseland.com/blog/">band blog</a> so I asked for a sample of his music. He gladly obliged, and I was pretty impressed. Very much an indie band, reminding me a bit of the 80s, but more Pixies than synth pop. As a sample:

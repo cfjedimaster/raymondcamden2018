@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/05/30/RIAForge-Update
+guid: 2848
 ---
 
 I continue to monitor and - if not work on - at least think about - the issues RIAForge is dealing with. Today I woke up to 5000 (yes, really) errors messages. The errors mentioned the inability to write a temp file related to SQL. I thought maybe my drive was full, but it wasn't even close. I opened up MySQL administrator where I discovered that I could no longer open up a database. I forgot the error unfortunately (just having my coffee now), but MySQL wasn't able to get information about any database.

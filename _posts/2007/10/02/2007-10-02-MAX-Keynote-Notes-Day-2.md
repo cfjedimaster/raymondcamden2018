@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/02/MAX-Keynote-Notes-Day-2
+guid: 2386
 ---
 
 Notes from Tuesday's Keynote

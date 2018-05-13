@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/01/11/Initial-360-Review
+guid: 1021
 ---
 
 So, I've had the XBox 360 for less than 24 hours now and so far I'm really loving it. Here are my thoughts in no particular order...

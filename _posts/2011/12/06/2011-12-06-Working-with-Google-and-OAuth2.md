@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/06/Working-with-Google-and-OAuth2
+guid: 4456
 ---
 
 <b>Warning: What follows should NOT be considered a guide. What follows is what <i>worked</i> for me after struggling to get things right. I do not understand this 100%. My only hope is that it may help others. Please take with large portion of salt.</b>

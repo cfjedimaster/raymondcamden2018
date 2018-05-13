@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/05/Ask-a-Jedi-Sorting-a-2D-Array
+guid: 2916
 ---
 
 Pat asks:

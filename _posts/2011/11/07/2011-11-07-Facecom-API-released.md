@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2011/11/07/Facecom-API-released
+guid: 4423
 ---
 
 Wow, another cool API was just released today. <a href="http://face.com">Face.com</a> has released an API for facial recognition. Not only will it do facial recognition, it will also do training (so it can help learn people) and integration with Facebook and Twitter. I played around with the API today and it's easy to use. You can see the <a href="http://developers.face.com/docs/api/">docs</a> for yourself, and that's <i>without</i> having to register. (Sorry, I get ticked off at API providers that require you to give over your personal information before deigning to tell you what their API looks like.) I whipped up a super quick ColdFusion sample to show you how it works. (And again, this is just an example of their facial recognition, they do more.)

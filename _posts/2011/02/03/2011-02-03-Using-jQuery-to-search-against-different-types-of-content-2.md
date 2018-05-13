@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/02/03/Using-jQuery-to-search-against-different-types-of-content-2
+guid: 4106
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2011/2/1/Using-jQuery-to-search-against-different-types-of-content">blogged</a> an example of "search as you type" implemented with jQuery and multiple types of data. ColdFusion was used to serve up data based on searches against two types of data. The front end client was rather simple. Because ColdFusion returned an array of results for one data type and another array for the second, it wasn't too difficult to render that out. I wanted to build upon that demo and work with data that was a bit more complex. In this example I'll show how you can work with data that comes back in one main "chunk" but contains different types of results.

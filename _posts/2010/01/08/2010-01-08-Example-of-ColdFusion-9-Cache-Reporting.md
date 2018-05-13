@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/08/Example-of-ColdFusion-9-Cache-Reporting
+guid: 3678
 ---
 
 About two nights ago I moved <a href="http://www.coldfusionbloggers.org">CFBloggers</a> to my new host. Later that night I noticed a pretty severe performance issue at the database tier. I was reasonably confident I knew what the issue was, but I was also freaking tired as heck. Given that my body was going to overrule my brain in terms of what solution to apply, I decided to apply a quick bit of caching to the code in question.

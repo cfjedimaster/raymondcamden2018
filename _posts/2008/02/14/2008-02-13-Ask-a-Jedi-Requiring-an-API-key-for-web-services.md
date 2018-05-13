@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/14/Ask-a-Jedi-Requiring-an-API-key-for-web-services
+guid: 2650
 ---
 
 Jacob asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/27/Ask-a-Jedi-How-do-you-set-the-remote-IPs-for-ColdFusion-Developer-Edition
+guid: 2499
 ---
 
 Brendan asks:

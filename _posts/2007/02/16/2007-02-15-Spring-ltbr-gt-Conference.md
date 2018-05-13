@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/02/16/Spring-ltbr-gt-Conference
+guid: 1841
 ---
 
 Just a quick note to remind people about an upcoming conference that may be of interest to readers. <a href="http://www.sbconference.com/">Spring &lt;br /&gt;</a> will be held March 22 in Athens, OH. This is a one day conference covering a variety of topics. The price (35 bucks) is pretty cheap too. More information from the organizers:

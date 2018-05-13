@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/22/Determining-the-HTTP-request-method-in-ColdFusion
+guid: 4530
 ---
 
 I was talking to someone recently about REST and ColdFusion 10 (something I'd like to demo here soon) and the question of HTTP methods came up. One of the interesting things ColdFusion 10's REST support allows for is CFC methods locked down to a particular HTTP request type. This allows you to ensure a method is run only for a GET request, or PUT, or whatever makes sense for your business logic. 

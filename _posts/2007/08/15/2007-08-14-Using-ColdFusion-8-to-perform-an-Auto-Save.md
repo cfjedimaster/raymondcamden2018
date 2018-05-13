@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/15/Using-ColdFusion-8-to-perform-an-Auto-Save
+guid: 2281
 ---
 
 Sam Farmer has written a cool blog article on how to use ColdFusion 8 to perform automatic saves of form data, much like GMail:

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/01/Interesting-PhoneGapAndroid-crash
+guid: 4547
 ---
 
 I've been hanging out in the jQuery Mobile IRC chat room lately and a user came in with a rather odd issue. He had a jQuery Mobile based page run via the PhoneGap wrapper that would crash (a bad SIGSEGV) when users entered a 7 in a form field. Yes, a 7.

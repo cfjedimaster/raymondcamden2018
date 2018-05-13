@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/27/Are-you-going-to-CF-Objective
+guid: 1865
 ---
 
 If not - why not? <a href="http://www.cfobjective.com/conference/">CF Objective</a> is an excellent conference. I will be honest and say that I have not attended one, but folks I know and trust have raved about it, and it's run by one of the smarter (and tallest, is it a coincidence?) guys I know, Jared. CF Objective is being held May 3-6 in beautiful Minneapolis, Minnesota. (I hear in May there is only 2-3 feet of snow.) 

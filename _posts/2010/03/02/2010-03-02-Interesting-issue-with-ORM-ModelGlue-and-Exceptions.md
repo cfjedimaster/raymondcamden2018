@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/02/Interesting-issue-with-ORM-ModelGlue-and-Exceptions
+guid: 3738
 ---
 
 I'm still digging into this so please forgive me if I completely change my mind later on, but I believe I've found something odd going on with ORM, Model-Glue, and Exceptions. I've noticed this for a little while now but didn't really get a chance to dig until today. I had noticed that when I made a simple mistake while working with ORM (almost always a typo on the column), my Model-Glue application would churn for a while and eventually just return a white screen. Back in my logs I noticed this: 

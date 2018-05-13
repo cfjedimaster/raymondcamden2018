@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/09/30/Two-Cool-Adobe-MAX-Updates
+guid: 3547
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/MAX09_D125x125.jpg" align="left" style="margin-right:10px" />

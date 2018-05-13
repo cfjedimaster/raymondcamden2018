@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/28/Modifying-the-ColdFusion-8-Administrator-Menu
+guid: 2157
 ---
 
 About a year ago I <a href="http://www.raymondcamden.com/index.cfm/2006/11/13/Adding-your-own-links-in-the-ColdFusion-Administrator">blogged</a> about how you can add your own links to the ColdFusion Administrator. While this isn't something you often need to do - it is handy for integrating third party applications into the Administrator. (<a href="http://spoolmail.riaforge.org">Spoolmail</a> and <a href="http://flogr.riaforge.org">Flogr</a> are two examples of this.)

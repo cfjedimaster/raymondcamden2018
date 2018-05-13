@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/06/10/Date-Fields-JavaScript-and-the-things-that-make-me-go-crazy
+guid: 5242
 ---
 
 <p>

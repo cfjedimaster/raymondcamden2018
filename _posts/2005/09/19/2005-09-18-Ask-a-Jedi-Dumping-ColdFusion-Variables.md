@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/19/Ask-a-Jedi-Dumping-ColdFusion-Variables
+guid: 787
 ---
 
 Here is an interesting question:

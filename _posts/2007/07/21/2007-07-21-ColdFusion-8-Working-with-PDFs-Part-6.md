@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/21/ColdFusion-8-Working-with-PDFs-Part-6
+guid: 2210
 ---
 
 Welcome to another installment in my series covering changes to PDF management in ColdFusion 8. If you haven't read the earlier stories, please see the links below in the Related Entries section. Todays entry is about security. This will just be a high level overview of what you can do. Check the documents for more specific information.

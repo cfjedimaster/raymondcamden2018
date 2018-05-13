@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/05/Dont-forget-to-validate-those-checkboxesradio-buttonsmulti-selectsetc
+guid: 3176
 ---
 
 Ok, so I know "Validate Your Form Fields" is one of the ten commandments of web development, but even Jedis can screw this up at times. Here is a great, and maybe a bit subtle, example of something I screwed up in <a href="http://blogcfc.riaforge.org">BlogCFC</a>.

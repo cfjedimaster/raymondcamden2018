@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/05/15/suggestions-for-database-syncing-with-phonegapcordova
+guid: 6146
 ---
 
 Shai asked me an interesting question that I thought would be good to discuss here, and get feedback from my audience. Their question was:

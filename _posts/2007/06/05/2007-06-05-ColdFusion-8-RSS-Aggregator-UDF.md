@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/05/ColdFusion-8-RSS-Aggregator-UDF
+guid: 2093
 ---
 
 As you know (or hopefully know), ColdFusion 8 supports both RSS parsing and creating. I was curious how difficult it would be to create an RSS aggregator in ColdFusion. Turns out it was rather easy - and with the use of CFTHREAD it actually performs quite here. I'll show the code then talk about the parts of it.

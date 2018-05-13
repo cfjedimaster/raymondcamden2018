@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/27/Using-jQuery-to-validate-the-sum-of-form-fields-2
+guid: 3292
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2009/3/26/Using-jQuery-to-validate-the-sum-of-form-fields">blogged</a> about how you can use jQuery to validate the sum of a set of form fields. I had some great feedback, including a comment by <a href="http://flexoop.com/">Gareth Arch</a>. He raised the point that - if you had 2 form fields that need to sum to 100, why not simply just let the user edit one field and automatically set the value of the other?

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/10/Managing-Relationships-with-Transfer-2
+guid: 3094
 ---
 
 In my <a href="http://www.raymondcamden.com/index.cfm/2008/11/7/Managing-relationships-with-Transfer-or-the-ORM-meets-Dr-Phil">last post</a> on relationships in Transfer, I talked about the ManyToOne relationship. I defined the Department object and associated employees with a department. 

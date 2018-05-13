@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/24/This-weeks-winner-for-the-Bug-you-will-never-run-into-a-million-years-award
+guid: 4282
 ---
 
 Here's a weird one for ya. I don't think I've used arrayResize() once in my life. It allows you to dynamically expand an array to a new size and is - apparently - more performant than just increasing the size of an array one by one. The docs specifically mention 500 elements as an example, so I think for most of us this is a non-issue. But of course, on the day I decide to use it I run into an odd little bug. When you use CFWDDX to convert a WDDX string into an array, all (*) the array functions work <i>except</i> arrayResize. Here's an example:

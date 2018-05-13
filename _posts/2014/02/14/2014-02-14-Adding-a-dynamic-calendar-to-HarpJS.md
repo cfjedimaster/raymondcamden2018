@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/14/Adding-a-dynamic-calendar-to-HarpJS
+guid: 5152
 ---
 
 <p>

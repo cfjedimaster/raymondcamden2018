@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/11/Shortening-a-string-by-removing-text-in-the-middle
+guid: 4522
 ---
 
 That as to be most exciting blog title ever. If you are still reading this, I congratulate you. While checking my email on my phone yesterday, I took note of how GMail will shorted labels in the top level display. Instead of using the full label, which wouldn't fit, they include part of the left side of the string and part of the right side of the string. So for example, a label, "Important Stuff / From People Who Think They Are Important" would be shorted to something like, "Important Stuff...They Are Important." Most of the time the shortening is very understandable.

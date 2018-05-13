@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/09/ModelGlue-3-Example-of-Custom-Event-Types
+guid: 2818
 ---
 
 Now that Model-Glue 3 has been announced and available for folks to play with, it's time to start working up some demos so folks can see stuff in action. Joe has included a few demos in the zip, but if I don't play with it myself, I don't learn. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/06/Ben-announces-ColdFusion-Debugger-for-Eclipse
+guid: 2013
 ---
 
 The subject says it all. There will be a debugger for ColdFusion in Eclipse. Includes step through debugging, access to variables, and breakpoints. (As before, I'm posting now and will be editing as he speaks. Email subscribers please visit the live site.)

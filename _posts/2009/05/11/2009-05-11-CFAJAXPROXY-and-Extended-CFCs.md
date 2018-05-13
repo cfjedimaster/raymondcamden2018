@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/11/CFAJAXPROXY-and-Extended-CFCs
+guid: 3352
 ---
 
 Well here is something I didn't expect. Thanks go to a <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=2E564431-D8BE-C2ED-80870BBF594376E6&#top">forum poster</a> for bringing this to my attention. When you use cfajaxproxy to proxy a CFC, and that CFC extends another CFC, you don't get access to the remote methods defined in the base CFC. Consider the following example.

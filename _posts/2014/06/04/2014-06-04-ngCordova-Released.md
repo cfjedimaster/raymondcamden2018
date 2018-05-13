@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/06/04/ngCordova-Released
+guid: 5237
 ---
 
 <p>

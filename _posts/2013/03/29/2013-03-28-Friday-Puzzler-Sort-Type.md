@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2013/03/29/Friday-Puzzler-Sort-Type
+guid: 4894
 ---
 
 Today's Friday Puzzler should be one of the simpler ones I've posted. While having a random Facebook discussion (as if there are any other sort), the topic of sorting came up. I thought it might be an interesting challenge to write code that determines if a list of data is sorted and report back on what <i>type</i> of sort was being used. While there are probably more, I can think of the following sort types:

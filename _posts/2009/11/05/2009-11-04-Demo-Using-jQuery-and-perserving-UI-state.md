@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/11/05/Demo-Using-jQuery-and-perserving-UI-state
+guid: 3591
 ---
 
 This week I had an interesting (email) conversation with a reader. Jason is a .Net developer using jQuery to build a simple form. On his page he had a UI feature where one of two DIVs were displayed. He had no problem with handling the logic of showing one div or another on the client side, but he was interested in how he could persist that change when he submitted his form. I worked up a simple demo of one way that this could be handled.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/01/Happy-Canvas-Day-CanvasWiki-Released
+guid: 1127
 ---
 
 Today I am happy to announce the public release of <a href="http://ray.camdenfamily.com/projects/canvas">CanvasWiki</a>, a ColdFusion-based wiki implementation. License information may be found in the readme.txt, and as always, if you find this application useful, drop by the <a href="http://www.amazon.com/o/registry/2TCL1D08EZEYE">wishlist</a>.

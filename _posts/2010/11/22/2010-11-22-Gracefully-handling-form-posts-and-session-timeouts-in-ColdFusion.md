@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/22/Gracefully-handling-form-posts-and-session-timeouts-in-ColdFusion
+guid: 4024
 ---
 
 Last week a follower on Twitter let me know that <a href="http://www.riaforge.org">RIAForge</a> doesn't nicely handle session time outs and forms. He had been working on a new project submission and had let his session time out. When he submitted the form he lost what he had typed in. While I haven't quite fixed that yet - I did work on a small demo at lunch time that both demonstrates this problem and shows one way of working around it. Let's begin by looking at the application in it's current "dumb" form.

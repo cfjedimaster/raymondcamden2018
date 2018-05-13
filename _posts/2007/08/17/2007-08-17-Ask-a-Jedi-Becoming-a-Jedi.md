@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2007/08/17/Ask-a-Jedi-Becoming-a-Jedi
+guid: 2288
 ---
 
 While that's not <i>exactly</i> what Matt asked - read on:

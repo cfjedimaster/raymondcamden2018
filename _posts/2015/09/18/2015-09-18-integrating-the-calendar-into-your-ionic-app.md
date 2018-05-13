@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/09/18/integrating-the-calendar-into-your-ionic-app
+guid: 6783
 ---
 
 For today's demo, I decided to try something I've been meaning to make time for - integrating with the calendar on the mobile device. Luckily there is a great plugin for this - <a href="https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin">Calendar-PhoneGap-Plugin</a>. This plugin provides all types of hooks into the local calendar including the ability to search and add events. With that plugin in place, I whipped up a quick demo.

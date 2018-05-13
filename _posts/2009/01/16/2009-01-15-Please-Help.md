@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/16/Please-Help
+guid: 3196
 ---
 
 I'll keep this short and sweet. If you do not know Joe Rinehart, he is the creator the Model-Glue framework and one of the most important members of our community. Along with being a pillar in the ColdFusion world, he is a darn good nice guy. 

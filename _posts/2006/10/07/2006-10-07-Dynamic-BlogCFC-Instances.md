@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/07/Dynamic-BlogCFC-Instances
+guid: 1570
 ---
 
 This may be better off at <a href="http://www.blogcfc.com">BlogCFC.com</a>, but I've had a few requests for this lately so I thought I'd post it here.

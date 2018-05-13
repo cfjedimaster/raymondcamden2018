@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/05/01/I-Heart-Amazon-Referrals
+guid: 3338
 ---
 
 So last night I blogged an Amazon Affiliate link (<a href="http://snurl.com/h4kux">http://snurl.com/h4kux</a>) for the very excellent Learning jQuery 1.3. (I'll try to get my review up this week.) I decided to take a quick look at my Amazon stats to see if anyone had purchased it. Turns out someone had, which is cool. I now have (or will have) 2.13 in my pocket. I think Amazon has a pretty good deal here for bloggers (or actually, Twitters, emailers, whatever, it works!)

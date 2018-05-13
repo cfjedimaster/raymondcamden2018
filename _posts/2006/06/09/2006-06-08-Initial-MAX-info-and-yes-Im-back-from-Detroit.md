@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/09/Initial-MAX-info-and-yes-Im-back-from-Detroit
+guid: 1322
 ---
 
 Adobe has released some initial <a href="http://www.adobe.com/events/max/">MAX</a> info. If by some chance you have no idea what MAX it - it was Macromedia/Allaire's main development conference. Adobe is running things now so it should be interesting to see how it works this year. Only a few details are known now:

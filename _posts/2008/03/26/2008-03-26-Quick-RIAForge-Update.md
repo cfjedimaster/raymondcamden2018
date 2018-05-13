@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/26/Quick-RIAForge-Update
+guid: 2730
 ---
 
 I just spent five minutes on RIAForge changing the <a href="http://www.riaforge.org/index.cfm?event=page.search">search</a> page to use JSON instead of XML. I know I've said this before, but you got to love the size differences. Before the change, the size of the XML packet downloaded was 152KB. With JSON it's down to 72KB. 

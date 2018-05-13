@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/30/Ask-a-Jedi-Doing-arithmetic-with-Spry-data
+guid: 2945
 ---
 
 Rey asks:

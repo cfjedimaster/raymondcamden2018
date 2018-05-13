@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/04/Lighthouse-Pro-Update
+guid: 1008
 ---
 
 Another minor update to <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a>:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/07/Transfer-Presentation-Files-Recording-URL
+guid: 3346
 ---
 
 You can now watch my presentation at your leisure. Enjoy. The embedded presentation below (via <a href="http://www.slidesix.com">SlideSix</a>) contains the slides, a link to the recording URL, and the code as an attachment. I forgot to post the MySQL db, so if you need that, give me a holler.

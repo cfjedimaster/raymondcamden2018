@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/18/Per-request-debugging-in-ModelGlue
+guid: 1537
 ---
 
 A few weeks ago I spoke about how I use <a href="http://ray.camdenfamily.com/index.cfm/2006/8/22/Using-AJAX-with-ModelGlue">AJAX with Model-Glue</a>. A reader, Jan Jannek, asked how she could use debugging without it breaking the XML results being returned by Model-Glue. Before I even had a chance to find the answer, she was able to dig it up:

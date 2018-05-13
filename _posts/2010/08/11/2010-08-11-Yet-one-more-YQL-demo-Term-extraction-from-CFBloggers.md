@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/11/Yet-one-more-YQL-demo-Term-extraction-from-CFBloggers
+guid: 3907
 ---
 
 I continue to be amazed at just how kick ass YQL (<a href="http://developer.yahoo.com/yql/">Yahoo Query Language</a>) is for building mashups. I think it is one of the most innovative things I've seen on the Net in years. Earlier this week I was directed to the <a href="http://isithackday.com/rockyourdata/">Rock Your Data</a> YQL demos. Each shows a pretty darn cool example of what can be done with the technology.

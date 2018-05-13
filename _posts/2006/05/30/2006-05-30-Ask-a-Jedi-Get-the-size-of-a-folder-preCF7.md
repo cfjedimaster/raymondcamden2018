@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/30/Ask-a-Jedi-Get-the-size-of-a-folder-preCF7
+guid: 1304
 ---
 
 Blaine the Train asks:

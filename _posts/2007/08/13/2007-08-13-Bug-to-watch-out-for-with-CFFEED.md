@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/13/Bug-to-watch-out-for-with-CFFEED
+guid: 2276
 ---
 
 So I've blogged before about how xmlFormat() is a bit buggy. While it will remove most characters, including "high ascii" characters in the range of 128-255, it will gleefully ignore other high ascii characters, for example, character 8220 which is the funky Microsoft Word quote. Unfortunately it looks like the same code used for xmlFormat is used to escape text when you create feeds with CFFEED. Consider the following example:

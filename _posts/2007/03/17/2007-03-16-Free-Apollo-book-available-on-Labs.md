@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/17/Free-Apollo-book-available-on-Labs
+guid: 1899
 ---
 
 Adobe Labs has released a free Apollo book, 

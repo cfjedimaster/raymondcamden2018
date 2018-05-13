@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/06/19/ColdFusion-UI-The-Right-Way-HTML-version
+guid: 5248
 ---
 
 <p>

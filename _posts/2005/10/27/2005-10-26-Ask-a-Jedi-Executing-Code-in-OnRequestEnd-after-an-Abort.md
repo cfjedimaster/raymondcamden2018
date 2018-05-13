@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/27/Ask-a-Jedi-Executing-Code-in-OnRequestEnd-after-an-Abort
+guid: 874
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2009/06/01/Flash-Builder-4-and-Flash-Catalyst-hit-Labs
+guid: 3378
 ---
 
 The title says it all. The public betas of <strike>Flex</strike>Flash Builder 4 and Flash Catalyst have just hit <a href="http://labs.adobe.com/">Adobe Labs</a>. You can download them right now!

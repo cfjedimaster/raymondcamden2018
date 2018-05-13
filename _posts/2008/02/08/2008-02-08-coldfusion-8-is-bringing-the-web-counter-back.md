@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/08/coldfusion-8-is-bringing-the-web-counter-back
+guid: 2641
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/jt.jpg" align="left" style="margin-right: 10px;margin-bottom: 10px"> Justin Timberlake may be a <i>little</i> more popular than ColdFusion for bringing sexy back, but let me share how ColdFusion 8 is bringing the web counter back. What's the web counter?

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/07/31/Linting-your-ColdFusion-code
+guid: 5278
 ---
 
 <p>

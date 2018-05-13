@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/04/Announcement-Throwing-my-hat-in-the-ring
+guid: 1691
 ---
 
 I have a rather big announcement to make. For the upcoming new year I've decided to make a rather drastic life change. I'm more than a little bit scared - but this is something I've wanted to do for a <i>long</i> time now. I feel like if I don't do it now - I won't do it ever.

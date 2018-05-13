@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/04/30/Check-out-Brackets-Sprint-24
+guid: 4921
 ---
 
 I don't normally do a blog post for new <a href="http://brackets.io">Brackets</a> releases, but I wanted to specifically call out the most recent release, Sprint 24. From the web site, this release includes:

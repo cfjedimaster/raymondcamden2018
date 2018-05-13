@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/03/11/ColdFusion-Random-Numbers-and-Time
+guid: 5172
 ---
 
 <p>

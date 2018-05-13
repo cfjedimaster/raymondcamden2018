@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/28/Building-an-AJAX-Based-RSS-Pod
+guid: 1438
 ---
 
 So by now everyone knows that I love <a href="http://labs.adobe.com/technologies/spry/">Spry</a>, but I thought I'd build another cool little example for folks to look at. First, take a look at the <a href="http://ray.camdenfamily.com/demos/spryrsspod/test2.html">example</a>. What you are seeing is a pod based on the RSS feed from <a href="http://weblogs.macromedia.com/mxna/">MXNA</a>. If you sit there for a few minutes, you may notice something. The pod automatically updates. How is this done? You can view source, but let me break it down for you:

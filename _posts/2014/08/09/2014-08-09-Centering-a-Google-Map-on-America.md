@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/08/09/Centering-a-Google-Map-on-America
+guid: 5284
 ---
 
 <p>

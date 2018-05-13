@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/01/Linking-dynamic-content-to-Wikipedia
+guid: 3835
 ---
 
 This morning while in the shower (don't ask - I don't know why these things come up when they do) I thought it might be interesting to write up a quick demo of hyperlinking dynamic content to Wikipedia pages. I've seen a few sites that will link certain keywords to Wikipedia so folks can get more information about a particular concept or idea. I'm not sure if this is going to be actual useful, but here is what I came up with.

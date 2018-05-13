@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/07/Configuring-the-date-mask-for-ColdFusion-Logs
+guid: 3003
 ---
 
 Just a quick link to a good blog article by Jochem van Dieten:

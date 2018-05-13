@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/10/24/PIcture-Our-Lady-of-the-Ghouls
+guid: 3068
 ---
 
 I spent last night in Baton Rouge at a haunted house - my first haunted house ever actually. (If you are bored, this is the web site: <a href="http://www.midnightproduction.com/the13thgate.htm">http://www.midnightproduction.com/the13thgate.htm</a>.) With horror on the mind, I'd thought I'd share this cool picture from fellow user group manager James Edmunds:

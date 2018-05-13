@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/08/10/Tell-me-you-dont-dream-like-this
+guid: 3479
 ---
 
 So I don't typically get <i>too</i> personal on this blog (outside of my Star Wars and video game obsession), but I had to share this. About once a month or so I have what I call a "stress-mare." These aren't nightmares in the typical sense, but a session of what feels like 100% pure stress. I typically wake up from these dreams feeling like I've been through battle. It's almost worse than a traditional nightmare as there never seems to be a climax of any sort. It's pure "lead up", like a scene in a horror film that you know is going to lead to a brutal death.

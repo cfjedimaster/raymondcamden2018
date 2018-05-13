@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/18/CF101-Adding-an-API-to-your-site
+guid: 4498
 ---
 
 Have you ever wanted to create an API for your web site? Many sites do so now - using their API as a way to share their information with others. This allows other web sites, desktop apps, and mobile applications a way to work with and repackage your data. In this blog entry, I'm going to demonstrate how you can use ColdFusion to build a simple API for your site.

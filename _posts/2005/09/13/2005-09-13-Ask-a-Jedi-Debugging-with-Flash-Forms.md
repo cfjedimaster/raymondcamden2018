@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/13/Ask-a-Jedi-Debugging-with-Flash-Forms
+guid: 771
 ---
 
 This one came in today, and since I just answered a Flash Form question, I tghought I'd add it:

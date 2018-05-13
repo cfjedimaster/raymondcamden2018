@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/20/ColdFusion-Image-Processing-Shrinking-an-image-but-not-the-canvas
+guid: 2836
 ---
 
 After my presentation yesterday, someone in the audience asked an interesting question. He wanted to shrink an image, but keep the original size. So imagine taking a large image, shrinking down the visual part of it, but keeping the image at the same size with some form of background now. This is relatively easy to do. First we can read in our source image:

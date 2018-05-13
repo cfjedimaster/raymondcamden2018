@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/29/Advanced-ColdFusion-Contest-Entry-1-BruteForce
+guid: 1502
 ---
 
 Welcome to the second entry review for my <a href="http://ray.camdenfamily.com/index.cfm/2006/6/11/Advanced-ColdFusion-Contest-Announced">Advanced ColdFusion</a> contest. This entry is from Bastian Konetzny.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/08/03/Building-your-first-HTMLAdobe-AIR-Application-Using-Aptana
+guid: 3896
 ---
 
 In my <a href="http://www.raymondcamden.com/index.cfm/2010/7/31/Building-your-first-HTMLAdobe-AIR-Application">last blog entry</a>, I covered some of the basics for getting started with HTML-based Adobe AIR applications. The intent was to give you a starting place for beginning to develop AIR applications. In today's entry I'm going to talk a bit more about Aptana and how you can use it to create HTML based AIR applications. After this I'll start getting into the demos I created for cfUnited and talking about the various features they demonstrate.

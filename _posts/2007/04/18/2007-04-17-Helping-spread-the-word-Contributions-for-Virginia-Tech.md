@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/18/Helping-spread-the-word-Contributions-for-Virginia-Tech
+guid: 1966
 ---
 
 My buddy Jim Collins sent this to me last night and I thought I'd help spread the word:

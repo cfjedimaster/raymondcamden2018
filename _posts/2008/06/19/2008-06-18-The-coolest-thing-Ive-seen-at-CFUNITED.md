@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/06/19/The-coolest-thing-Ive-seen-at-CFUNITED
+guid: 2888
 ---
 
 Unfortunately I don't have any screen shots, but the coolest thing I've seen so far at CFUNITED is the new product coming out from the <a href="http://www.fusion-reactor.com">Fusion Reactor</a> guys. The product is called (and I should stress that as I don't have the product in front of me I will probably get some details wrong) Fusion Analytics. It offers a better way to work with your servers. It can parse any log as well as work with the Server Monitor API. It can then bring all of these various services together into one tool.

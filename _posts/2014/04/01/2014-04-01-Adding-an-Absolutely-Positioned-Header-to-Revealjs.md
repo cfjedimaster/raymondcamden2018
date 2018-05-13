@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2014/04/01/Adding-an-Absolutely-Positioned-Header-to-Revealjs
+guid: 5190
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/18/CFTHREAD-When-to-join
+guid: 3359
 ---
 
 Earlier today I wrote a quick blog entry (<a href="http://www.raymondcamden.com/index.cfm/2009/5/18/CFTHREAD-Names-and-Commas">CFTHREAD, Names, and Commas</a>) about a bug I had with cfthread names. I mentioned that commas were not allowed in the thread name and that - probably - this was due to the use of the JOIN action allowing for a list of thead names to join together. Tony asked me why someone would use the JOIN action at all.

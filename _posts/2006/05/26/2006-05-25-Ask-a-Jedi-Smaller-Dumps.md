@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/26/Ask-a-Jedi-Smaller-Dumps
+guid: 1297
 ---
 
 Ok, I swear this is the last childish entry title (for this week). A few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2006/5/23/Ask-a-Jedi-Saving-a-Dump-for-Later">blogged</a> about how you can save the result of a cfdump for later use. It occurred to me that I bet many folks aren't aware of the very useful attributes of the cfdump tag. Here is a quick run down:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/01/Ask-a-Jedi-ColdFusion-support-for-CALS-Tables
+guid: 3548
 ---
 
 Aaron asked:

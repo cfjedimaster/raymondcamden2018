@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/04/13/Interesting-Internet-ExplorerAjaxColdFusion-issue
+guid: 4194
 ---
 
 I was just talking to John Ramon about an odd issue he was having with Internet Explorer and Ajax. His code was <i>incredibly</i> simple and worked fine in Chrome but not IE. Here's a quick example of how simple his code was:

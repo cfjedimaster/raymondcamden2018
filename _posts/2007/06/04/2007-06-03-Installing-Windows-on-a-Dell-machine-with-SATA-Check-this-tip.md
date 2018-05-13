@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/04/Installing-Windows-on-a-Dell-machine-with-SATA-Check-this-tip
+guid: 2087
 ---
 
 Just a quick post to point out a link to tech spot:

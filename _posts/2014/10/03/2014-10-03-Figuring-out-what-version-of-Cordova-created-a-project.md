@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/10/03/Figuring-out-what-version-of-Cordova-created-a-project
+guid: 5324
 ---
 
 <p>

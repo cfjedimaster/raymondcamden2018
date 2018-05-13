@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2009/10/27/Ask-a-Jedi-Formatting-times-client-side
+guid: 3578
 ---
 
 Patricks asks:

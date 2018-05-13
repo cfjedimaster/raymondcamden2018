@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2015/11/03/in-defense-of-the-reset-button
+guid: 7052
 ---
 
 Earlier this morning, in a fit of intense silliness - I tweeted an observation about reset buttons and forms:

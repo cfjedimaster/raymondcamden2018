@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/08/CFLOG-and-Permissions
+guid: 2815
 ---
 
 Here is an issue I've run into a few times in the recent months and I've never figured it out till now. Thanks go to cfconcepts@twitter for pointing me in the right direction.

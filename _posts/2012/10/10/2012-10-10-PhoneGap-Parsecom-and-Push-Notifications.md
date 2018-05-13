@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/10/10/PhoneGap-Parsecom-and-Push-Notifications
+guid: 4755
 ---
 
 <b>Edit on March 7, 2013: Please read this <a href="http://www.raymondcamden.com/index.cfm/2013/3/7/Testing-PhoneGap-Parse-and-Push-Read-This">blog entry</a>.</b> 

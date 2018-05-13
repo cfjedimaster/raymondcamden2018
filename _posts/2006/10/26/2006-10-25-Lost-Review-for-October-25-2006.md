@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/26/Lost-Review-for-October-25-2006
+guid: 1614
 ---
 
 Forgive both the lateness and the shortness of this review, but as I was up late at the Palms last night (doesn't that make me sound cool?) I wasn't able to watch Lost until this morning.

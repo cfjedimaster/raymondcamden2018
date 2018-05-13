@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/11/Determining-the-location-of-ColdFusions-log-files
+guid: 3234
 ---
 
 This was asked on cf-talk yesterday but figured it would be a good tip to share here. Is there a way - via code - to determine the location of ColdFusion log files? Yes, via the Admin API:

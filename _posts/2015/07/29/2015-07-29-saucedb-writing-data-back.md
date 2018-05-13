@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix,cordova,ionic]
 banner_image: 
 permalink: /2015/07/29/saucedb-writing-data-back
+guid: 6547
 ---
 
 Welcome to another post on my ongoing series exploring building an <a href="http://www.ionicframework.com/">Ionic</a> hybrid mobile app making use of Node.js running on <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. Today I'm going to talk about writing data back to the server. Spoiler - this won't be quite as cool as bringing sexy back. In my <a href="http://www.raymondcamden.com/2015/07/24/saucedb-handling-the-sauce-view">last post</a>, I described a few minor updates to help flesh out the views of the mobile app. This included building the "Sauce view" (sauce plus reviews) for the application. Today I built another major aspect of the application - actual review writing.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/19/onServerStart-and-handling-a-bad-startup
+guid: 3495
 ---
 
 I spoke with Hemant at CFUNITED about onServerStart and what should happen if something goes wrong in the method. Currently if an error occurs, it gets logged, but the server just carries on. I made the argument that the server should stop loading as something has gone wrong. I also made the argument that it should act like onApplicationStart - where if you intentionally return false, the application will not load. 

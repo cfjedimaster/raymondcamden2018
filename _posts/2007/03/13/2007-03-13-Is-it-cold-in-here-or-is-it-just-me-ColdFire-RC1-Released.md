@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2007/03/13/Is-it-cold-in-here-or-is-it-just-me-ColdFire-RC1-Released
+guid: 1886
 ---
 
 The title says it all. Get the bits from RIAForge:

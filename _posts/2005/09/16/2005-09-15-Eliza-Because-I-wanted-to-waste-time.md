@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/16/Eliza-Because-I-wanted-to-waste-time
+guid: 782
 ---
 
 Those old timers out there will remember an old computer program called <a href="http://en.wikipedia.org/wiki/Eliza">Eliza</a>. Eliza was basically a dumb, but sometimes effective, AI type program. You could ask it questions and Eliza would parrot them back. Eliza has been around since 1966 if you can believe it. Anyway, for a long time now I've been wanting to port it to ColdFusion. However, most of the example source code programs I found were extremely hard to read. (Or maybe ColdFusion is making me spoiled. ;) Last night I finally got around to writing a simple implementation.

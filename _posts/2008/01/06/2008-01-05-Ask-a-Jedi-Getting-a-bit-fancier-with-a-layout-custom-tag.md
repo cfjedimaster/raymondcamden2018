@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/06/Ask-a-Jedi-Getting-a-bit-fancier-with-a-layout-custom-tag
+guid: 2575
 ---
 
 John asks:

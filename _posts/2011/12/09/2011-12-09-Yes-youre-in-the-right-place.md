@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/12/09/Yes-youre-in-the-right-place
+guid: 4457
 ---
 
 After many years of running ColdFusionJedi.com, today I've launched a new version of my blog and a new name as well. Welcome to RaymondCamden.com. I wanted this change for a few reasons.

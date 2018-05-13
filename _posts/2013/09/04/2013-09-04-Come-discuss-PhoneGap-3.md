@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/04/Come-discuss-PhoneGap-3
+guid: 5027
 ---
 
 I've seen a lot of people (including myself!) have some issues with PhoneGap 3. It is definitely a big change from previous versions. I thought it might be good to have an open meeting over Connect (this is our online meeting solution, all you need is a browser) later this week to talk about it. This won't be a formal presentation per se (although I've got a few slides in mind just to help outline the discussion), but rather a chance for me to explain how things have changed from earlier versions and talk about some things you can to make the process easier. It is also a chance for you to ask questions and share your thoughts about PhoneGap 3.0.

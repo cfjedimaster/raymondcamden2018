@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/06/17/ColdFusion-Job-Opening-State-College-PA
+guid: 4964
 ---
 
 As always - just passing it on...

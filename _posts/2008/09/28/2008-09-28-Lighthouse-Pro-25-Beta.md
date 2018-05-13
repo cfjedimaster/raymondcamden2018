@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/28/Lighthouse-Pro-25-Beta
+guid: 3033
 ---
 
 Tonight I'm happy to release the beta of Lighthouse 2.5. There are a lot of major changes here, so I thought I'd release it as a beta and let folks play with it a bit first. So what's different?

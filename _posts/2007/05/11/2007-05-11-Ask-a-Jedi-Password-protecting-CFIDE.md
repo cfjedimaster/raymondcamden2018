@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/11/Ask-a-Jedi-Password-protecting-CFIDE
+guid: 2025
 ---
 
 Andy asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/09/Galleon-ColdFusion-Forums-137-Released
+guid: 685
 ---
 
 This is a pretty minor update, but the changes are listed below:

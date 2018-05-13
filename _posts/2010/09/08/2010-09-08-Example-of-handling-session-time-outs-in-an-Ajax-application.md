@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/09/08/Example-of-handling-session-time-outs-in-an-Ajax-application
+guid: 3935
 ---
 
 Earlier today a user on cf-talk asked about handling session time outs in an Ajax based application. I'm happy he asked this because I'm been worrying about this myself for a while now. One of my applications, <a href="http://lighthousepro.riaforge.org">Lighthouse Pro</a>, makes heavy use of Ajax. The main issue display is entirely Ajax driven. If your session times out though you get... nothing. <b>That sucks.</b> So I used this as an excuse to get off my butt and fix it once and for all. I also whipped up a quick simple example that I'll use for the blog entry. I'd love to get people's opinions on it and start a discussion about how others have solved this issue as well. (I'll also say that there will be a follow up later talking about handling ColdFusion errors in general.)

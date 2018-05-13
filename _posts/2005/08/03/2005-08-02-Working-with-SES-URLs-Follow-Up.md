@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/08/03/Working-with-SES-URLs-Follow-Up
+guid: 665
 ---
 
 One of the things I didn't mention in yesterday's <a href="http://ray.camdenfamily.com/index.cfm/2005/8/2/Ask-a-Jedi-Working-with-SES-URLs-and-ColdFusion">entry</a> was that there is an alternative to working with the CGI path_info variable. I didn't bring it up because it is web server dependant which means your code becomes a bit less portable, but at the same time, it does make SES URLs even easier. The other option is URL rewriting. What this means is - we take a URL like so:

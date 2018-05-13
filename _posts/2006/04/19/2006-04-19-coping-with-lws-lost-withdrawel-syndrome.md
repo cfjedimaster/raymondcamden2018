@@ -6,6 +6,7 @@ categories: [uncategorized]
 tags: []
 banner_image: 
 permalink: /2006/04/19/coping-with-lws-lost-withdrawel-syndrome
+guid: 1223
 ---
 
 So I won't be making my weekly Lost review post tonight since, well, there isn't a new episode of Lost. Being the addicted person I am though I thought I'd at least share a few Lost-related URLs since, well, I can't stop thinking about it even though it isn't on tonight.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/29/And-then-there-was-one
+guid: 2505
 ---
 
 Guess what Fedex just dropped off?

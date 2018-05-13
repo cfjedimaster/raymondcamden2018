@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/08/17/Prey-Review-XBox-360
+guid: 1478
 ---
 
 A few weeks ago I picked up the Prey demo for the XBOX 360. I loved it. While it wasn't terribly original, it did had a few cool gimmicks and I thought the beginning of the game was pretty darn cool. I actually stopped playing the demo and waited till I got the actual game. (Which, by the way, was from a supporter, so thank you!)

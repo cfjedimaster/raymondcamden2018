@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/15/CFUNITED-Demo-Derby-Code
+guid: 3488
 ---
 
 Yesterday at CFUNITED I presented some more (useless) code concerning mazes and ColdFusion. I've blogged on this a few times already, but I decided to play around with it a bit more. For the derby, I demonstrated code that generated mazes in a slightly different way than I've had before. I've shown outputting mazes with text. I've shown outputting mazes with graphics. But this version puts one more little spin on it - old school style:

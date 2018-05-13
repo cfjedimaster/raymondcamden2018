@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/14/Spell-checking-in-ColdFusion
+guid: 3846
 ---
 
 Last week a reader asked me about spell checking and ColdFusion. To be honest, I haven't really thought about it much. Firefox has provided support for spell checking for a good year now (probably more?) and I just kinda got used to it always being there. However, as a computer user I may be more tuned to it then the casual visitor. Also, the browser doesn't really provide any additional capabilities above simply adding the red squiggly lines to your text boxes. There may be times when you want a completely non-interactive spell check. Perhaps after importing a PDF for example. I did a tiny bit of Googling around to see what options were out there.

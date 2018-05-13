@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/20/Ask-a-Jedi-Is-Form-more-secure-than-URL
+guid: 1227
 ---
 
 Luis asks:

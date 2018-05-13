@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/04/21/Small-but-nice-ColdFusion-Builder-201-Update
+guid: 4594
 ---
 
 One of the most critical features of ColdFusion Builder, in my opinion, has been its extension API. ColdFusion Builder 2.0.1, currently in <a href="http://labs.adobe.com/technologies/coldfusion10/#coldfusion_builder">beta</a>, adds some very nice updates to the API, including...

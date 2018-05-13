@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [mobilefirst]
 banner_image: 
 permalink: /2015/05/06/working-with-mp3s-id3-and-phonegapcordova-adding-ibm-mobilefirst
+guid: 6113
 ---
 
 Welcome to the fourth and final entry in my series on using an ID3 reader for MP3s in a Cordova application. If you missed the initial entries (and I highly recommend reading these in order), they are:

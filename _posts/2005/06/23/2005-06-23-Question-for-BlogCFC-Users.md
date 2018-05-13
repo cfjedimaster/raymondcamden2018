@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/06/23/Question-for-BlogCFC-Users
+guid: 603
 ---
 
 In my last <a href="http://ray.camdenfamily.com/index.cfm?mode=entry&entry=A9DD4434-E9B2-6491-A9B9CABBB23F20E2">post</a>, Mike D brings up some additional points about what I could do to make BlogCFC more search engine friendly.

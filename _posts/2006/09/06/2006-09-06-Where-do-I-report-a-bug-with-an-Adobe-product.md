@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/06/Where-do-I-report-a-bug-with-an-Adobe-product
+guid: 1516
 ---
 
 I talked about this a few months ago, but it came up again today in conversation so I thought I'd remind folks. As we all know, ColdFusion is perfect and has no bugs and is the best programming language on the planet. If, however, you do not agree with that and think you have a bug (inconceivable!), you can report a bug here:

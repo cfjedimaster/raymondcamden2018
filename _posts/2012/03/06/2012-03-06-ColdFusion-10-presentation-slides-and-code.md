@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/06/ColdFusion-10-presentation-slides-and-code
+guid: 4551
 ---
 
 Thank you to everyone who attended my presentation today. I've attached the code and slides below. I <b>will</b> be getting a recording URL, and as soon as I do, I'll update the post with a comment. (Not sure how long it will take, but it will come up.)

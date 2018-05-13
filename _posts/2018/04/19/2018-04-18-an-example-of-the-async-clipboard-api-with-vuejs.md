@@ -39,7 +39,7 @@ I feel bad missing that, but it's not like this is the first time I saw code and
 
 So - want to see an example using Vue.js? Of course you do! Imagine a scenario where we have generated a code for our user. We want to make it easier to use so when we can, we'll provide a button to copy it into their clipboard. First, the HTML:
 
-```html
+```markup
 <div id="app" v-cloak>
   Your cool code:
   <input v-model="code">

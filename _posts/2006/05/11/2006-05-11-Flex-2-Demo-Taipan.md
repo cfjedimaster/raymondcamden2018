@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/05/11/Flex-2-Demo-Taipan
+guid: 1263
 ---
 
 I've uploaded a new Flex 2 demo, <a href="http://ray.camdenfamily.com/taipan/output/Taipan.html">Taipan</a>. Taipan was an old Apple IIe game (well, that's where I played it) that let you carry cargo between various Asian cities while fighting pirates and expanding your ship. My version is um... limited. It is about as close to the original as MS Vista shipping on it's original scheduled ship date. 

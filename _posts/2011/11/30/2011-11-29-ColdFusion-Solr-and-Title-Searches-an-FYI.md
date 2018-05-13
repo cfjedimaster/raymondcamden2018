@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/11/30/ColdFusion-Solr-and-Title-Searches-an-FYI
+guid: 4450
 ---
 
 This week I worked with a user who was having an interesting issue with Solr-based searches under ColdFusion. He was trying to make use of "boosting", which is a way of saying that a match found in one field should be considered more important than another. So for example, imagine you have a collection of articles. The user searches for N and you want to ensure that if the title includes N it is rated higher. Normally Solr is going to use it's own judgement. It may say, for example, that if N occurs a crap load in the body then it should be rated higher than an article with N in the title. While that logic makes sense, Solr does allow you to weigh different fields higher if you want. Normally the syntax should be something like this:

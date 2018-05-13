@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/07/SpoolMail-Updated-Version-102
+guid: 1381
 ---
 
 I released a small update to <a href="http://ray.camdenfamily.com/projects/spoolmail">SpoolMail</a> this morning. I was working on a project this morning (at 5AM, now that I'm not sick anymore it's back to 5 or so hours of sleep at night) and realized that I couldn't use SpoolMail to check the CC or BCC values of mails. That is now done. I also added a simple Refresh button to the top frame.

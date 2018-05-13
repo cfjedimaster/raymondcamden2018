@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/04/27/Linking-Two-or-more-jQuery-Autocompletes
+guid: 3792
 ---
 
 A few weeks ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2010/4/12/Playing-with-jQuery-UIs-Autocomplete-Control">blog post</a> on jQuery UI's <a href="http://jqueryui.com/demos/autocomplete/">autocomplete</a> control. I found it to be simple and powerful - both pretty typical for jQuery.

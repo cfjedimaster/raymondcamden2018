@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/11/16/Pretty-Dates-with-jQuery-ColdFusion-example
+guid: 3606
 ---
 
 Just a quick note here to share a jQuery plugin that <a href="http://www.cfsilence.com/">Todd Sharp</a> shared with me: <a href="http://bassistance.de/jquery-plugins/jquery-plugin-prettydate/">Prettydate</a>. Prettydate takes dates (which you would hide within your DOM) and formats them in a more generic "time since.." form. So for example, a date within a few seconds will post as "just now", whereas an entry a few minutes old will display as "5 minutes old." The plugin supports dates up to one month old and will automatically update while your users look at a page. This creates a cool effect. They may initially see:

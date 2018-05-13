@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/23/Intermediate-Contest-Entry-4
+guid: 935
 ---
 
 Welcome to the fifth entry in the <a href="http://ray.camdenfamily.com/index.cfm/2005/10/30/Intermediate-ColdFusion-Contest">Intermediate ColdFusion Contest</a>. The earlier entries may be found at the end of this post. Today's entry is from Behrang Noroozinia. Before reading on, please check his application <a href="http://ray.camdenfamily.com/demos/contest2/noroozinia/">here</a>. You can download his code from the download link at the bottom. Please respect the copyright of the creator.

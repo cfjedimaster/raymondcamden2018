@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/08/06/Quick-demo-of-jQuery-and-Google-Maps
+guid: 4318
 ---
 
 So this is old news to folks already, but it's the first time I played with it. You can use Google Maps under jQuery Mobile. Not only can you use it, but the maps work <i>real</i> well. It isn't as responsive as the desktop version but it's darn close, and it isn't too hard to use if you follow a few tips.

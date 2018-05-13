@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/10/Two-SQLite-tool-recommendations
+guid: 2585
 ---
 
 In regards to my <a href="http://www.raymondcamden.com/index.cfm/2008/1/9/Working-with-Flex-AIR-and-SQL-2">post</a> yesterday on AIR and SQLite I thought I'd share two tools that can help developers.

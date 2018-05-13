@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/04/17/ColdFusion-Query-to-Flex-DataGrid
+guid: 1963
 ---
 
 Kyle Hayes has posted an <b>excellent</b> captivate demo that walks you through hooking up a Flex DataGrid to a ColdFusion query. He covers the complete process from Flex Project creation to writing the ColdFusion CFC. This is an excellent demonstration for folks who are having a hard time wrapping their head around the process.

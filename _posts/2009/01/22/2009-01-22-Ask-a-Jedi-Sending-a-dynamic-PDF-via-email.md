@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/22/Ask-a-Jedi-Sending-a-dynamic-PDF-via-email
+guid: 3204
 ---
 
 Chas asked:

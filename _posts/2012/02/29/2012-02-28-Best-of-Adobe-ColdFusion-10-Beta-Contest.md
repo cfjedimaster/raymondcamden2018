@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/29/Best-of-Adobe-ColdFusion-10-Beta-Contest
+guid: 4544
 ---
 
 I'm happy to announce that we are running another "Best of ColdFusion" contest to celebrate the public beta release of the next version of <a href="http://labs.adobe.com/technologies/coldfusion10/">Adobe ColdFusion 10 (Beta)</a>.

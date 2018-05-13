@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2011/03/27/review-homefront-and-bad-company-2
+guid: 4173
 ---
 
 I recently finished two <i>very</i> different shooters (for the XBox 360) and thought I'd share a quick review on both. It's kinda sad that I seem to only finish shooters lately. I grew up on RPGs but lately I find it real difficult to actually finish them. I've had the latest Final Fantasy for a while now and haven't put more than an hour in it. I've had Fable 3 for a while as well, and while I've played it a bit I just don't feel very motivated to finish it. (And let me say again - it pisses me off that the unnecessary adult content on Fable 3 prevents me from playing it with the kids. It's stupid, out of place, and adds nothing worthwhile to the game.) Anyway - the games in question are Homefront and Battlefield: Bad Company 2.

@@ -6,6 +6,7 @@ categories: [coldfusion,development,html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/04/03/adding-database-synchronization-to-your-phonegap-project
+guid: 4579
 ---
 
 For the past few days I've been working on a proof of concept PhoneGap application that demonstrates an example of database synchronization. This is a fairly complex topic and I'm only going to demonstrate one version of this, but I hope the concepts, code, and example application are useful to people hoping to tackle the same problem.

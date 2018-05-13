@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/05/17/jQuery-Autocomplete-and-HTML
+guid: 3818
 ---
 
 I've blogged recently (see related entries below) on <a href="http://jqueryui.com/demos/autocomplete/">jQuery UI's Autocomplete</a> control. It's a cool control and has something inherit that I really wish ColdFusion's built in control had - the ability to return complex data back to the form. As an example, this lets us return a label and an ID value. You can store the ID in a hidden field and display a name to the user. Even better, you can also a label value. This means you can have both a unique display in the drop down of suggestions that is different from what actually gets shown in the text field. This label can include HTML, which means you can do all kinds of cool stuff. You could - for example, have an autocomplete that uses colors to convey information (perhaps highlighting results that other customers have selected). I whipped up a quick example that shows a cool example of this.

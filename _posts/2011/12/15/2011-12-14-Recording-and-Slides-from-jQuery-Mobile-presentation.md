@@ -6,6 +6,7 @@ categories: [html5,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/12/15/Recording-and-Slides-from-jQuery-Mobile-presentation
+guid: 4462
 ---
 
 If you were not able to attend my presentation yesterday, you can now watch the recording URL below.

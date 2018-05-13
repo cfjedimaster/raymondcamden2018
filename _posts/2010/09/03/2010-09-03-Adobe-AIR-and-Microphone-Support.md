@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/09/03/Adobe-AIR-and-Microphone-Support
+guid: 3932
 ---
 
 So one of the cooler features of Adobe AIR is it's ability to work with the user's microphone. I whipped up a quick sample of this feature today that demonstrates this. In this first entry we are simply going to <i>monitor</i> the user's audio and in the next entry I'll discuss how you can actually save the recording.

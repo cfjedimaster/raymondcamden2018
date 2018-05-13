@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/26/Attending-my-ColdFusion-session-at-RIAUnleashed
+guid: 4409
 ---
 
 For those of you attending my <a href="http://www.fitc.ca/events/presentations/presentation.cfm?event=121&presentation_id=1709">Extending ColdFusion</a> presentation at RIAUnleashed tomorrow, please note that I've made the code available for the session now.

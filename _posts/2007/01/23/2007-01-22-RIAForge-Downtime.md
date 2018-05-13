@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/23/RIAForge-Downtime
+guid: 1790
 ---
 
 <a href="http://www.riaforge.org">RIAForge</a> will be down this morning from around 9CST till 10 or 11CST.

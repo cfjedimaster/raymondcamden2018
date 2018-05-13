@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/12/10/Review-Nook
+guid: 4050
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/screen53.png" align="left" /> About a week or so I was lucky enough to be given a NOOKcolor (thanks Ted!) and I thought I'd give my opinion on it. I started using the Nook with some initial assumptions.

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/01/19/FlexColdFusion-Mystery-with-a-very-simple-answer
+guid: 1781
 ---
 
 Yesterday I was working on a Flex project when I hit a brick wall. I had a very simple form. Flex was using remoting to send the form information to ColdFusion. ColdFusion was doing <i>nothing</i> with the data. It was just an empty method. However, every time I'd try to send the data I'd get an error.

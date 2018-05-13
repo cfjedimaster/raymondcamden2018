@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/19/ColdFusion-Position-in-Lafayette-LA
+guid: 2132
 ---
 
 Winters too cold? Want to live in a warm (ok, <i>very</i> warm) environment with festivals almost every other weekend? <a href="http://www.graham-group.com/">Graham Group Interactive</a> is hiring a ColdFusion developer for their Lafayette location. Please send all questions/inquiries to jobs@graham-group.com. 

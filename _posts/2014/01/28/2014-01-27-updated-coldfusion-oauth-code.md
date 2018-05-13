@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/01/28/updated-coldfusion-oauth-code
+guid: 5138
 ---
 
 <p>

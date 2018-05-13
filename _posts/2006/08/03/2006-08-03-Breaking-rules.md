@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/03/Breaking-rules
+guid: 1447
 ---
 
 If you read my blog regularly, you know that I have certain "rules" I tend to harp on. Always var scope. Always check your input scopes. Etc. However, one thing to keep in mind is that there <i>are</i> perfectly good times to break the rules. Development rules and processes are there to ensure your code works well, is secure, and can be easily updated. When the rules get in the way of those things, it's time to reconsider.

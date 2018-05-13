@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2010/07/17/Show-me-a-better-way-Inserting-datetime-strings-into-SQLite-via-HTML-and-Adobe-AIR
+guid: 3881
 ---
 
 I'm working on my presentation for CFUN which involves jQuery and HTML based AIR applications. (Oh, and ColdFusion too. :) I was working on a sample application that made use of SQLite to create a simple Note application. (If this sounds familiar, it is based on the Flex application I did for my <a href="http://www.raymondcamden.com/index.cfm/2010/6/11/Recording-and-Slides-from-SQLite-presentation">cfObjective SQLite presentation</a>.) Here is the code I tried to insert a new note record into my database.

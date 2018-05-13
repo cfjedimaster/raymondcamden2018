@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2015/01/05/cflib-moves-to-node-js
+guid: 5515
 ---
 
 This isn't necessarily <i>new</i> per se, but as I just completed some small tweaks I figured I'd share that I've migrated <a href="http://www.cflib.org">CFLib</a> to Node.js. For the most part the conversion was fairly simple, but I thought I'd share some of the highlights (and issues) of the new code base. 

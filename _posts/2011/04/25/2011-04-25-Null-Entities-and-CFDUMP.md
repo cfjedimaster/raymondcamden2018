@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/25/Null-Entities-and-CFDUMP
+guid: 4207
 ---
 
 Earlier today I was working with an ORM entity that threw an error when I tried to persist it. Unfortunately it was a very vague error about an empty string trying to be cast as an integer. I've already logged a bug report on this. ColdFusion knows what property is wrong it just doesn't report it in the error. That being said I still had a problem. My entity had close to 60 properties. That's a crap load. (Technical term.) I quickly added code to cfdump the entity to the file system and opened it up in my browser and noticed that many values which should have been null were reported as empty strings. I could have sworn cfdump supported nulls so I decided to write up a quick test.

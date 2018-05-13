@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/07/Ask-a-Jedi-Multiple-Questions
+guid: 756
 ---
 
 I've gotten numerous questions from the Ask a Jedi pod to the right. Here are a bunch of short questions answered in one post.

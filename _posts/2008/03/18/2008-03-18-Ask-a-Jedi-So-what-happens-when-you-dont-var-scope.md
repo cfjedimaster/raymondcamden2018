@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/18/Ask-a-Jedi-So-what-happens-when-you-dont-var-scope
+guid: 2715
 ---
 
 So I got a good follow up question today on var scoping (Did someone decide today was Var Scope day? What do I give?) based on my <a href="http://www.raymondcamden.com/index.cfm/2008/3/18/Ask-a-Jedi-CFC-Scope-Question">earlier post</a>. Matt asks:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/14/Frameworks-Conference-Speaker-Feedback
+guid: 1834
 ---
 
 I want to send a big thank you to everyone who filled out the forms for my presentation at the Frameworks Conference (and for those not attending - thanks for your comments on the blog). 

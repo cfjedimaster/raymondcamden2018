@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/03/03/Storm-weather-ColdFusion-Builder-2-on-Labs
+guid: 4143
 ---
 
 Woot! I'm a bit late for this but I'll blame it on me being halfway around the world. Last night (this morning?) Adobe released the public beta of ColdFusion Builder 2, AKA Storm: <a href="http://labs.adobe.com/technologies/coldfusionbuilder2/">Adobe ColdFusion Builder 2</a>. You can download it now for Windows and Mac.

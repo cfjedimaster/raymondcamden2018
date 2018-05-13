@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/01/13/HTML5-Input-Patterns-and-Invalid-Regex
+guid: 5122
 ---
 
 <p>

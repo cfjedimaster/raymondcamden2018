@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/08/24/My-weekend-experiment-PebbleJS
+guid: 5294
 ---
 
 <p>

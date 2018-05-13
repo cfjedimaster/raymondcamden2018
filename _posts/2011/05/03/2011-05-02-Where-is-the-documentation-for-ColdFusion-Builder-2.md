@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/05/03/Where-is-the-documentation-for-ColdFusion-Builder-2
+guid: 4217
 ---
 
 Looking for the docs for the new ColdFusion Builder 2? Yeah - me too. I've always found that a bit difficult to find on Adobe.com. From the <a href="http://www.adobe.com/products/coldfusion-builder.html">main product page</a> click <a href="http://www.adobe.com/support/coldfusion/">Customer Support</a> to land on the main ColdFusion and ColdFusion Builder support page. In the right hand nav, click to expand Developer Documentation:

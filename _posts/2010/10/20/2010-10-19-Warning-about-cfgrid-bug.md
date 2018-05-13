@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/20/Warning-about-cfgrid-bug
+guid: 3976
 ---
 
 This week I was working on a cfgrid example for a reader. He needed some help understanding the FORM data on the server side when you've done multiple edits to a grid (and if folks want me to pass along what I told him, just say). It's a bit complex so I wrote up a quick demo and explained how the form data related to what was done on the client side.

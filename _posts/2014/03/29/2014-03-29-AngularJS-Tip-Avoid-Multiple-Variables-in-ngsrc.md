@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/03/29/AngularJS-Tip-Avoid-Multiple-Variables-in-ngsrc
+guid: 5187
 ---
 
 <p>

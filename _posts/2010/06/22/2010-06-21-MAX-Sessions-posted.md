@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/06/22/MAX-Sessions-posted
+guid: 3857
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/maxsmall.png" align="left" style="margin-right: 5px" title="MAX 2010" /> Just a quick note to let you know that MAX 2010 sessions are now posted. You can view them here: <a href="http://max.adobe.com/schedule/by-session/">http://max.adobe.com/schedule/by-session/</a>. The site makes use of Ajax (although not jQuery - boo ;) for the catalog. Oddly though they don't allow for any type of deep linking. I can tell you that I'll be speaking this year, but I'll have to cut and paste the info here.

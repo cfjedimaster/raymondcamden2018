@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2012/10/17/Enable-CORS-for-ColdFusion-Services
+guid: 4760
 ---
 
 Just a quick tip. CORS is a way to allow remote JavaScript clients to use your fancy APIs. Only the best APIs support it now, but usage is growing. For a good introduction to the topic, see Brian Rinaldi's excellent blog post here: <a href="http://www.remotesynthesis.com/post.cfm/getting-html5-ready-cors">Getting HTML5 Ready - CORS</a>. Enabling CORS may be done at the web server level, but if you don't have access to that, or if you want to specifically provide access to one particular CFC file (or method), here is how you can do it.

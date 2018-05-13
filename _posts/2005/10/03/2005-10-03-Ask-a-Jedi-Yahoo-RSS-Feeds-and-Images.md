@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/10/03/Ask-a-Jedi-Yahoo-RSS-Feeds-and-Images
+guid: 826
 ---
 
 A reader asks:

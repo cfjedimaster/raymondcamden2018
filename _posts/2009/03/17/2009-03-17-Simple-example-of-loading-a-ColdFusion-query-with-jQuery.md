@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/17/Simple-example-of-loading-a-ColdFusion-query-with-jQuery
+guid: 3279
 ---
 
 Earlier last week a reader (and forgive me, I wrote down your idea, not your name) asked for a simple demonstration of how to use jQuery to load in a ColdFusion query via Ajax. I whipped up a quick, and hopefully simple, set of demos to help show how easy this is.

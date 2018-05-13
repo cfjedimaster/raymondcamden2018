@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/24/Quickie-ColdFusion-Image-Viewer
+guid: 1424
 ---
 
 Need a quick way to add a slide show to a directory of images? I have many times in the past. Here is a simple block of code. It needs to be dropped in the same folder as the images, and it doesn't do anything fancy like thumbnails, but it does let you quickly add an image browser. This is much easier than giving someone an index of images and asking them to go back and forth to view all the images. Comments are inline with the code, but let me know if you have any questions. And yes, obviously, it could be done a lot more fancier. Remember KISS.

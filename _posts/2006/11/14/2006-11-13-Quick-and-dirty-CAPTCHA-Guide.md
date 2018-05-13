@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/14/Quick-and-dirty-CAPTCHA-Guide
+guid: 1653
 ---
 
 A reader recently sent me a note saying he was trying to add CAPTCHA to his site. He had been trying to see how I used it in BlogCFC, and was just confused by what he saw. I thought I'd write a quick and simple guide for getting CAPTCHA on a form.

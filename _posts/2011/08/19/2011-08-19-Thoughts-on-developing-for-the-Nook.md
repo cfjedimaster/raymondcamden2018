@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/08/19/Thoughts-on-developing-for-the-Nook
+guid: 4332
 ---
 
 The Nook (<a href="http://www.barnesandnoble.com/nookcolor/index.asp">NookColor</a> to be precise) is a pretty nice device. I <a href="http://www.raymondcamden.com/index.cfm/2010/12/10/Review-Nook">reviewed</a> it almost a year ago and since that time it's grown more powerful with the support of an app marketplace. I've worked through the process of getting an app on their market and I thought I'd share a bit of what that experience was like for me. If any of my readers have experience with their app market I'd love to hear their thoughts as well.

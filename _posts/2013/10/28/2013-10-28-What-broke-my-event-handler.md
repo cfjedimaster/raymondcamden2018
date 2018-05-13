@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/10/28/What-broke-my-event-handler
+guid: 5071
 ---
 
 <p>

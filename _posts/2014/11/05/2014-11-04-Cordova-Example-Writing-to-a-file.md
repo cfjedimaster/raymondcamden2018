@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/11/05/Cordova-Example-Writing-to-a-file
+guid: 5343
 ---
 
 <p>

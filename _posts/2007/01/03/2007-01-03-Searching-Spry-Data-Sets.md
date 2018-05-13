@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/03/Searching-Spry-Data-Sets
+guid: 1747
 ---
 
 Need to quickly search through a Spry data set? Sam Mitchell shared this little gem with me: findRowsWithColumnValues. It allows you to search a dataset for a matching set of column, or columns. So for example, to return all boys from a set that has a gender column:

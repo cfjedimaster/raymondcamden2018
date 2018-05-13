@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/09/SysCon-announces-end-of-CFDJ
+guid: 2330
 ---
 
 So I'm a bit late today, but various people have reported the death of CFDJ:

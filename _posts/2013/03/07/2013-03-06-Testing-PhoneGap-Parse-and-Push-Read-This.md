@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/03/07/Testing-PhoneGap-Parse-and-Push-Read-This
+guid: 4875
 ---
 
 Back in October of last year I wrote a <a href="http://www.raymondcamden.com/index.cfm/2012/10/10/PhoneGap-Parsecom-and-Push-Notifications">guide</a> to integrating PhoneGap, <a href="http://www.parse.com">Parse</a>, and push notifications. Recently a reader noticed that my guide no longer worked and asked me to dig into it. I did today and have found the root of the issue.

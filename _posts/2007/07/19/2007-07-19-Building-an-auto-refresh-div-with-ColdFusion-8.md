@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/19/Building-an-auto-refresh-div-with-ColdFusion-8
+guid: 2204
 ---
 
 I was wondering what I could do to improve the AJAXyness (yes, it is word, because I said so) of <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>, and I came up with a cool trick. On the right hand side of the site is a stats pod. While the number of feeds won't change, and the number of entries won't change often, the number of users will go up and down. I wanted the information to update without user action and this is what I came up with. (As a note, the code attached to the zip is now old.) 

@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/04/25/How-to-handle-setup-logic-with-indexedDB
+guid: 4597
 ---
 
 So - as much as I'd like to pretend I don't have to, I'm beginning to wrap my head around the joy that is <a href="http://www.w3.org/TR/IndexedDB/">IndexedDB</a>. WebSQL, which is pretty easy to understand if you've done SQL, is unfortunately deprecated and the future is IndexedDB. I like NoSQL/ObjectStore solutions in general. But the implementation of them in the browser is pretty confusing to me. (Quick note - if you've <i>never</i> seen IndexedDB, check out the links at the bottom.)  One of the most confusing aspects I've run into so far is the basic idea of dynamically creating an object store. In a WebSQL solution, it is pretty simple. You execute SQL that runs CREATE TABLE IF NOT EXISTS. On the first execution it creates a table. On any other execution it doesn't do anything. (Ok, technically it takes a tiny amount of time to execute, but the end result is no action.) Under IndexedDB this process is a bit weirder. Why?

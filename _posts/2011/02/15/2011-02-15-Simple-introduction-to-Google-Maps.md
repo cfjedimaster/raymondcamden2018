@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2011/02/15/Simple-introduction-to-Google-Maps
+guid: 4124
 ---
 
 I've done quite a few blog entries on cfmap, ColdFusion's wrapper to the Google Map API. While cfmap makes using the API as easy as possible, there may be cases where you want to use the map API natively. For example, ColdFusion's use of the API is tied to version 2 of Google's API. The current version is 3. I decided to take a quick look at what's involved with working with Google's Map API by itself. Here are some examples and notes. Please note that there are multiple wrappers out there to make this process easier - including support for doing maps via a jQuery plugin. I'm intentionally avoiding these as I want a 100% pure solution.

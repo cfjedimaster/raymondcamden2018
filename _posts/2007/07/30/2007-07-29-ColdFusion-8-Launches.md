@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/30/ColdFusion-8-Launches
+guid: 2231
 ---
 
 While I was blissfully asleep under the power of a Melatonin pill, Adobe decided to go ahead and release <a href="http://www.adobe.com/products/coldfusion/">ColdFusion 8</a>. I think folks know already how strongly I feel about this release. I can honestly say this is the <b>most</b> exciting release I've seen in my entire history with the product. Here are a few links that may be of interest.

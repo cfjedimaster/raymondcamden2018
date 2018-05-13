@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/27/Yahoo-Weather-Example
+guid: 1561
 ---
 
 Yet another example, this time I'm playing with the <a href="http://developer.yahoo.com/weather/">Yahoo Weather</a> service. Unlike the other ones I blogged about - this service doesn't require a appid so you can use it pretty quickly. It also has a pretty intensive result set. Check the <a href="http://developer.yahoo.com/weather/">API</a> for a full set of what it returns, but my code barely scratches the surface of what is available. (One thing in particular that is kind of nice - the result of a zip code search returns you a longitude and latitude for your zip. That can be useful for completely non-weather related reasons.)

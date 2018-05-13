@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/08/ColdFusion-901-Sneak
+guid: 3839
 ---
 
 Here is a quick video of the ColdFusion 9.0.1 sneak I gave in Europe two weeks ago. Please do not ask any specific questions as I probably will not be able to answer. Vague questions and accusations are welcome.

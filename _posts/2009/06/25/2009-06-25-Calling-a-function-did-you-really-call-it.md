@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/25/Calling-a-function-did-you-really-call-it
+guid: 3407
 ---
 
 Just ran across an interesting bug in some code I'm reviewing. I've done this myself a few times so I certainly don't blame the original developer. Read this real quick and tell me what the output is:

@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/21/Building-a-Twitter-Search-that-highlights-important-people
+guid: 4441
 ---
 
 After spending some time arguing with an "expert" who made a comment about my favorite language without actually trying it, I thought it might be interesting to build a Twitter search tool that helps highlight "important" Tweets. I put "important" in quotes since there are many factors that might make one tweet more important compared to another. (And yes - I'm sure this has been done. But darnit, when has that ever stopped me from coding before?) I decided to whip up a quick prototype and see how it works.

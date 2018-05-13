@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/12/19/Quick-note-about-HTML5-Form-validity-and-browser-differences
+guid: 5106
 ---
 
 <p>

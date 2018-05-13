@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/09/17/creating-a-custom-display-for-googles-analytics-embed-library
+guid: 6777
 ---
 
 I've blogged a few times now about Google's <a href="https://developers.google.com/analytics/devguides/reporting/embed/v1/">Analytics Embed</a> library. I really dig it as it makes working with their Analytics API pretty darn simple. It really opens up the ability to create interesting mashups and <a href="http://www.raymondcamden.com/2015/07/07/using-the-google-analytics-embed-api-to-build-a-dashboard">custom dashboards</a> on your sites with just plain JavaScript. Recently, a reader asked me a question about how he could have more control over the data displayed by the library.

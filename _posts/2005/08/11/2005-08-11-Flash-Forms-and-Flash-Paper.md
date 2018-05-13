@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/11/Flash-Forms-and-Flash-Paper
+guid: 692
 ---
 
 This morning I posted about using <a href="http://ray.camdenfamily.com/index.cfm/2005/8/11/Ask-a-Jedi-Can-I-Use-a-PDF-in-a-Flash-Form">PDFs in Flash Forms</a>. The short answer was that it was not possible. On the entry, Simeon mentioned he was working on a way to get Flash Paper into Flash Forms. That was enough to distract me and see if I could build it as well. What's nice is that you can use the same technique I talked about during my series on <a href="http://ray.camdenfamily.com/index.cfm/2005/7/23/Embedded-CFCHART-in-Flash-Forms--Part-3">embedding charts in Flash Forms</a>. Consider the following code sample:

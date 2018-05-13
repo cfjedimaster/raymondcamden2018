@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/01/Query-of-Query-bug-involving-numbers
+guid: 4315
 ---
 
 Thanks for this find comes to me from Victor Yelizarov. He reported to me an odd issue with sorting and query of queries. Consider the following code sample:

@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2007/10/11/ColdFusion-Code-Beautifiers
+guid: 2403
 ---
 
 David asks:

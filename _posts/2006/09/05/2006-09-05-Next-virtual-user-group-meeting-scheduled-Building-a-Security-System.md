@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/05/Next-virtual-user-group-meeting-scheduled-Building-a-Security-System
+guid: 1515
 ---
 
 My next presentation in what I am (tentatively) calling the ColdFusion Jedi User Group will be on September 27 at 6 PM Central. This is a class for beginners who know the basics of CFML, and are now looking to add basic security to your applications. So for example - you have a form to add, edit, and delete press releases for your site, but want the form to require an administrator username and password. I'll walk you through the basics of this starting from having nothing to having a simple logon system. 

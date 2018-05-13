@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/11/Using-the-Directoryserving-middleware-in-Express
+guid: 5005
 ---
 
 If you peruse the docs for ExpressJS (as I do every Sunday), you might notice this little gem called <a href="http://expressjs.com/api.html#directory">Directory</a>:

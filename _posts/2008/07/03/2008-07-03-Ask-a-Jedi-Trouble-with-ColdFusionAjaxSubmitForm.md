@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2008/07/03/Ask-a-Jedi-Trouble-with-ColdFusionAjaxSubmitForm
+guid: 2913
 ---
 
 Andy asks:

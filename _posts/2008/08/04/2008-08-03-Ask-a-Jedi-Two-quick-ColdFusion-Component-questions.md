@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/04/Ask-a-Jedi-Two-quick-ColdFusion-Component-questions
+guid: 2953
 ---
 
 Esmeralda (what a cool name) asks:

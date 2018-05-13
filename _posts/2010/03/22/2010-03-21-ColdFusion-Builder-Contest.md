@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/03/22/ColdFusion-Builder-Contest
+guid: 3759
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Today I'm happy to announce the beginning of a new contest. This contest specifically targets Adobe's new ColdFusion IDE, <a href="http://www.adobe.com/products/coldfusion/cfbuilder/features/">ColdFusion Builder</a>. The contest officially begins March 22nd and runs for 30 days. Submissions will be judged starting May 1st. As before, Adobe is stepping up to provide some nice prizes (details below). This contest will be a bit different than the previous "Best of ColdFusion 9" contest. Since we are talking about a desktop program as opposed to a web page, we are going to be a bit more loose in what types of submissions will be accepted. The main theme of this contest is "Educate and Expand". Entries should either help people introduce ColdFusion Builder to their day to day development or help them expand the basic functionalities of the IDE itself. Therefore we will be having two "Grand Prize" winners - one for a "Educate" track and one for an "Extend" category. Entries could be videos or tutorials for the user unfamiliar with the Eclipse platform. Entries could be extensions that add functionality you think is missing from the IDE today. Anything that helps people either learn or make use of ColdFusion Builder is fair game. 

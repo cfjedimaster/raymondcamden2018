@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/26/Using-ColdFusion-to-estimate-the-number-of-seconds-a-user-spends-on-a-page
+guid: 3210
 ---
 
 This weekend a user <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=0ED97496-19B9-E658-9D38816867345019">posted</a> an interesting question to my forums. He wanted to know if there was a way (in ColdFusion of course) to determine how many seconds a user spent on a page. I decided to give this a try myself to see what I could come up with. Before we look at the code though, there are two things you should consider.

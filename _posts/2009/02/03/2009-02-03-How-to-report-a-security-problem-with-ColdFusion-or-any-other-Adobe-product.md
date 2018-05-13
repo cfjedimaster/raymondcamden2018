@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/03/How-to-report-a-security-problem-with-ColdFusion-or-any-other-Adobe-product
+guid: 3221
 ---
 
 I've mentioned before about the go/wish form at Adobe for reporting bugs and making enhancements requests: <a href="http://www.adobe.com/go/wish">http://www.adobe.com/go/wish</a>

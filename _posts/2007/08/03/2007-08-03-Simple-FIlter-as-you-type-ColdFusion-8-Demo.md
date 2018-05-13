@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/03/Simple-FIlter-as-you-type-ColdFusion-8-Demo
+guid: 2249
 ---
 
 I was writing some samples for the new CFWACK and built something short and cute that I thought was worth sharing now. If you look at the search form on <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> you will see that it does a dynamic replacement on the main content area when you perform a search (if you are on the home page). This is handy but I was curious about other ways of doing it. Consider this simple example:

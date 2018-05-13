@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/05/10/Missed-MAX-2013-How-to-catch-up
+guid: 4930
 ---
 
 <img src="https://static.raymondcamden.com/images/2013-05-06 08.00.172.jpg" style="float:left;margin-right:10px;margin-bottom:10px" />

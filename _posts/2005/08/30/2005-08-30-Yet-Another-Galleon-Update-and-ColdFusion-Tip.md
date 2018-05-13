@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/30/Yet-Another-Galleon-Update-and-ColdFusion-Tip
+guid: 743
 ---
 
 I've updated <a href="http://ray.camdenfamily.com/downloads/forums.zip">Galleon ColdFusion Forums</a> again, this time to fix an issue with BlueDragon. Well, not an issue per se, but BlueDragon doesn't support CFCHART. I only used it in the admin, so BD users could simply ignore it, but I knew I'd get a lot of bug reports so I simply fixed it. 

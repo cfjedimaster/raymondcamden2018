@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/29/coldfusion-8-and-ajaxbased-login
+guid: 2504
 ---
 
 Some of the new, cool, hip sites out there have done something rather neat with their login system. If you take a look at <a href="http://www.technorati.com/">Technorati</a>, notice that when you click the Sign In link, a modal window pops up. This lets you login no matter where you in the site. No need to go to another page (thank goodness, since Technorati is slow) and be sent back (hopefully) when done. Can ColdFusion 8 do this? Of course! Let's look at an example.

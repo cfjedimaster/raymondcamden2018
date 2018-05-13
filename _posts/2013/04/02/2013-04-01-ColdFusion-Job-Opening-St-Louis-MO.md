@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/04/02/ColdFusion-Job-Opening-St-Louis-MO
+guid: 4897
 ---
 
 Fast growing company looking for ColdFusion developer.

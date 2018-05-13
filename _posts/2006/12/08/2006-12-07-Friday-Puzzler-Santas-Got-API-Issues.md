@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/08/Friday-Puzzler-Santas-Got-API-Issues
+guid: 1701
 ---
 
 In <a href="http://ray.camdenfamily.com/index.cfm/2006/12/1/Friday-Puzzle--Welcome-to-Santas-IT-Department">last weeks puzzler</a> you started your new job as Head IT Geek/Elf of Santa's workshop. Your initial task was simple, but now things are getting complex, and with Christmas fast approaching, you don't have much time to finish the task. (Gee, thank goodness this is just pretend and not like real life.) 

@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/04/19/jQuery-Mobile-Google-Analytics-proof-of-concept
+guid: 4199
 ---
 
 Here is my first experiment in integrating Google Analytics and jQuery Mobile. I've been trying to get this working off and on the last week or so, but I finally figured out my mistake this morning. <i>Please</i> consider this a proof of concept. It seems to be working ok now, but I bet there are about ten different ways to do this better. That being said - let's look at the code.

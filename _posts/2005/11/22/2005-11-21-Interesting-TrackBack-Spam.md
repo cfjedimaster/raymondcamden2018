@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/11/22/Interesting-TrackBack-Spam
+guid: 931
 ---
 
 So today I've gotten two trackback pings from one blog, mainbud.blogspot.com. (I'm not using real links for this guy.) What makes this spam interesting is that it seems like he is copying my content. Consider this url: http://mainbud.blogspot.com/2005/11/trackback-support.html 

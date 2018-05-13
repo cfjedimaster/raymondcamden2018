@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/06/16/Best-way-to-handle-history-autocomplete-in-a-form
+guid: 4269
 ---
 
 This was an interesting question sent to me by Joel:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/13/ColdFusion-901-Released
+guid: 3875
 ---
 
 The title says it all. You can now download ColdFusion 901 <a href="http://www.adobe.com/go/getcf901">here</a>. Release notes may be read <a href="http://www.adobe.com/support/documentation/en/coldfusion/releasenotes.html ">here</a>. A detailed list of new features may be found <a href="http://www.adobe.com/support/documentation/en/coldfusion/901/cf901features.pdf ">here (PDF)</a>. This is <b>not</b> some small "point" release. In fact, I'm rather surprised by how much Adobe managed to sneak into this without calling it a 9.5 release. Over the next week I'll be discussing 901 in detail, but at a high level, here are some of the updates 901 adds, for free, to your ColdFusion 9 install. (<b>Note - if any of the links don't work - give it a minute.</b>)

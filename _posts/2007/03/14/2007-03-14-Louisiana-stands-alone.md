@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/14/Louisiana-stands-alone
+guid: 1890
 ---
 
 So I'm a day or two late on this, but with New Mexico banning cock fighting, Louisiana is now the only state in the Union to allow cock fighting. Lovely. I was sent a few good articles on the subject, and I'll list them here.

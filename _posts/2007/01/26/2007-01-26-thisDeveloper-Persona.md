@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/26/thisDeveloper-Persona
+guid: 1800
 ---
 
 Following the meme that <a href="http://www.buntel.com/blog/index.cfm?mode=entry&entry=54DB3FFD-4E22-1671-5BDCF74737695F12">Tim</a> started, I thought I'd answer the Developer Persona as well:

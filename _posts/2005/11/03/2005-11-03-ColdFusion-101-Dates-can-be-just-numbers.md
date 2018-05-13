@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/03/ColdFusion-101-Dates-can-be-just-numbers
+guid: 896
 ---
 
 I got an interesting email a little while ago. Here was the problem the reader was having:

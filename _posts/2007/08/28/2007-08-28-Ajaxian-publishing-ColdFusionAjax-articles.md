@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/28/Ajaxian-publishing-ColdFusionAjax-articles
+guid: 2308
 ---
 
 Rey informed this morning that one of my articles on ColdFusion and Ajax was mentioned over on <a href="http://www.ajaxian.com">Ajaxian</a>, an aggregation/news type site concerning, of course, Ajax. The article is:

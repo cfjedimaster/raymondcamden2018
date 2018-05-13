@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/01/Applicationcfc-Presentation-Files-Recording-URL-Next-Meeting
+guid: 1510
 ---
 
 Sorry for the delay on this folks, but here is the URL for my Application.cfc presentation. I was delayed as I was waiting to see if this was the <b>official</b> URL. There is a chance this URL may change though. 

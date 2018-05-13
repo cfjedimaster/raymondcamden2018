@@ -6,6 +6,7 @@ categories: [books,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/11/25/Early-Access-to-My-Next-Book-Apache-Cordova-in-Action
+guid: 5358
 ---
 
 <p>

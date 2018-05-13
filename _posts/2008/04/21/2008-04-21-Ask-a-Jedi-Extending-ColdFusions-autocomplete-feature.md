@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/21/Ask-a-Jedi-Extending-ColdFusions-autocomplete-feature
+guid: 2780
 ---
 
 David asks what I think is a pretty interesting question concerning ColdFusion, Ajax, and auto-complete style functionality.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/02/Skipping-labels-in-a-ColdFusion-Chart
+guid: 3301
 ---
 
 Earlier this week I <a href="http://www.raymondcamden.com/index.cfm/2009/3/30/Ask-a-Jedi-CFCHART-and-Scaling-to-Decimal-Points">blogged</a> about an issue with ColdFusion charting and scaling to decimal points. While working on the solution, I did a small tweak to the x-axis to the turn the labels vertical. Why? Look what happens when there isn't enough room for the x-axis labels:

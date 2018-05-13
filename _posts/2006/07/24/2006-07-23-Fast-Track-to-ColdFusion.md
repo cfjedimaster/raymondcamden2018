@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/24/Fast-Track-to-ColdFusion
+guid: 1423
 ---
 
 Sorry for all the blog posts - but since folks won't be getting subscription emails, I almost feel like I should write more. Over on cf-talk there was a thread discussing <a href="http://www.houseoffusion.com/cf_lists/message.cfm/forumid:4/messageid:247183">ColdFusion training</a>. I thought I'd chime in on the topic. 

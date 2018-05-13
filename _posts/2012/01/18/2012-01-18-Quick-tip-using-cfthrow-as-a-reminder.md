@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/18/Quick-tip-using-cfthrow-as-a-reminder
+guid: 4499
 ---
 
 I just typed this code in and I thought I'd share it to see if I was the only one who did this.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/03/Ask-a-Jedi-Whacking-the-CFC
+guid: 895
 ---
 
 John asks:

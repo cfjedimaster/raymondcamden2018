@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/04/05/Collapsible-content-and-Ajax-loading-with-jQuery-Mobile
+guid: 4186
 ---
 
 John sent me an interesting question. He wants to make use of jQuery Mobile but needed a way to get sets of content on a page that would load only when requested. He tried using a list view but this failed to render properly for his needs. Turns out - there are all kinds of nice gems within jQuery Mobile, one of them being <a href="http://jquerymobile.com/demos/1.0a4/#docs/content/content-collapsible.html">collapsible content</a> items. 

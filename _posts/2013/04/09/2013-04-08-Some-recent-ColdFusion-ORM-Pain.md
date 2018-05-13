@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/04/09/Some-recent-ColdFusion-ORM-Pain
+guid: 4906
 ---
 
 I'm working on a relatively simple ColdFusion ORM application. It is focused around a core entity type called Content. This entity type is rather large, around 50 or so properties. As you can imagine, some of the properties are simple, some are many-to-one, and some are many-to-many. I ran into some <b>very</b> frustrating issues though and I thought I'd share them.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/10/First-ColdFusion-8-Cumulative-Hot-Fix-Released
+guid: 2335
 ---
 
 I just read on <a href="http://www.sargeway.com/blog/index.cfm/2007/9/10/ColdFusion-CF8-CHF1-and-CFMX702-CHF3-released">Sarge's blog</a> that the first cumulative hot fix for ColdFusion 8 has been released:

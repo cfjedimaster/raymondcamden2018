@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/03/The-ColdFusion-Cookbook-is-on-its-way
+guid: 1006
 ---
 
 A few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2006/1/1/Coldfusion-MX7-Cookbook">posted</a> about the idea of having a ColdFusion cookbook. The response was overwhelmingly positive, so I have begun the project. I've purchased www.coldfusioncookbook.com (which doesn't point to anything yet) and have begun the initial development. My goal is to have something up by the end of the week. 

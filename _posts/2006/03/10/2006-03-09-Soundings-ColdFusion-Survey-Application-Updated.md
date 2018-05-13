@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/10/Soundings-ColdFusion-Survey-Application-Updated
+guid: 1144
 ---
 
 I've updated Soundings, my ColdFusion Survey application. Changes include:

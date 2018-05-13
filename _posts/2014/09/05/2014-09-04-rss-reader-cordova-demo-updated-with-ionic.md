@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/09/05/rss-reader-cordova-demo-updated-with-ionic
+guid: 5301
 ---
 
 <p>

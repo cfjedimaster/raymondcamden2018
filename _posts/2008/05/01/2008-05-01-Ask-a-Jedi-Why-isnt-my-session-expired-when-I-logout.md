@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/01/Ask-a-Jedi-Why-isnt-my-session-expired-when-I-logout
+guid: 2799
 ---
 
 Mark asks a question which I think touches on a basic misunderstanding many people have with ColdFusion and sessions:

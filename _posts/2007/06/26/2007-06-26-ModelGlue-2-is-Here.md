@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/06/26/ModelGlue-2-is-Here
+guid: 2151
 ---
 
 The title says it all. You can now grab the 2.0 version of Model-Glue from the new shiny website at:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/19/KTML-Tip-Getting-the-Latest-Version
+guid: 631
 ---
 
 My company used to employ the <a href="http://www.siteobjects.com/pages/soeditor.cfm">SiteObjects Editor</a> inside our CMS, <a href="http://www.mindseyeelement.com">Element</a>. This product had a number of issues, and the development has been stuck at 2.5 for quite some time. A client asked us to look at <a href="http://www.interaktonline.com/Products/KTML/Overview/">KTML</a>, and we were so impressed with it we decided to use it as the primary rich text editor for our CMS.

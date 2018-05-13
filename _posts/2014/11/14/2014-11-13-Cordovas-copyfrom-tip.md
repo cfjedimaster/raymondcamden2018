@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/11/14/Cordovas-copyfrom-tip
+guid: 5350
 ---
 
 <p>

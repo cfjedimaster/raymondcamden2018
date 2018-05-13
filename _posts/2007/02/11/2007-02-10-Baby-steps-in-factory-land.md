@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/11/Baby-steps-in-factory-land
+guid: 1831
 ---
 
 About a week or so ago I attend a <a href="http://ray.camdenfamily.com/index.cfm/2007/2/2/Frameworks-Conference-Intro-to-Object-Factories--Rob-Gonda">presentation</a> on object factories by Rob Gonda. Object factories were something I had heard about and read about, but didn't quite get. The presentation really helped a lot, and I thought I'd share my thoughts on how I understand this concept, and then quickly show a practical example of how I applied this to the new beta of <a href="http://canvas.riaforge.org">Canvas</a>.

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2009/06/01/Flex4FlashBuilder4Flash-Catalyst-Links
+guid: 3379
 ---
 
 It's been a busy day. I've twittered/re-tweeted a bunch of these links, but thought I'd do a quick blog entry concerning some links that I think may be important for folks taking a look at the new goodness released today on <a href="http://labs.adobe.com">Adobe Labs</a>. Most likely some of these links repeat the same content, but I hope folks find it helpful.

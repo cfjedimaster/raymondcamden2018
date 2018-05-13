@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/11/A-few-random-911-Thoughts
+guid: 1524
 ---
 
 I just wanted to share a few things that are in my mind today. Nothing deep or meaningful - just - well - stuff. I remember everything about 9/11, and it often occurred to me since then if this is just like my parent's generation and Kennedy. They always said they remembered what they were doing when he was shot.

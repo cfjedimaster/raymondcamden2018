@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/19/Follow-up-on-creating-ATOM-Feeds-with-RSS
+guid: 3402
 ---
 
 A few months ago I posted a quick blog entry on <a href="http://www.raymondcamden.com/index.cfm/2009/2/25/Metadata-properties-for-CFFEED--Atom">metadata properties</a> for creating Atom feeds in ColdFusion. This is not well documented in the ColdFusion docs, so I had to spend time reading the spec to get what I needed to pass to ColdFusion.

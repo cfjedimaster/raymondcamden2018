@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/07/29/Check-out-CodeSchools-Angular-course
+guid: 5277
 ---
 
 <p>

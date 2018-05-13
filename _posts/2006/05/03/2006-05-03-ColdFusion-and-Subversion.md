@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/03/ColdFusion-and-Subversion
+guid: 1245
 ---
 
 A few days ago I asked on the <a href="http://www.blogcfc.com/index.cfm/2006/4/29/Changes-on-Saturday-Morning">BlogCFC blog</a> about a way to display a report from Subversion. I knew how to get a report of the latest updates for one file, but not for a project as a whole. A few people recommended Trac, but being the kind of guy I am, I wanted to build something myself. 

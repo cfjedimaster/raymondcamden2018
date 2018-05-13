@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/13/Slides-code-recording-beer-from-my-ColdFusion-Components-presentation
+guid: 4363
 ---
 
 Title says it all. But the beer is a lie. Sorry. Note - for the recording url, you must be a registered Adobe.com user to view it. This is free and a one time process. 

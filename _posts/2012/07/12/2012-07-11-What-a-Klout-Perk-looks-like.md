@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/07/12/What-a-Klout-Perk-looks-like
+guid: 4674
 ---
 
 Warning - I try to hold off on my non-technical blog posts till the weekend, but I thought this was kinda cool so I figured I'd share it now. I signed into <a href="http://www.klout.com">Klout</a> about a year or so ago. It purports to rank your social influence with a score from 1 to 100. (You can read more about it <a href="http://klout.com/corp/kscore">here</a>.) Frankly, it seemed fun, and I like numbers and charts, but I didn't really think more about it. In some regards it seems dead on - I'm considered influential in ColdFusion and jQuery. In others it seems a bit... off. Apparently I'm also influential in design. Yeah, design.

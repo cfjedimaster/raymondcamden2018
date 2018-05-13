@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/16/Gotta-Love-that-Typeless-ColdFusion-Goodness
+guid: 702
 ---
 
 So, I was looking into a possible <a href="http://www.houseoffusion.com/lists.cfm/link=i:4:215182">CFINDEX</a> bug reported on the cf-talk list. The user reported something odd when indexing a query that had duplicate keys in it. In case you don't know - when passing data to Verity to index, each record must have a unique key. This could be the primary key field for your database table. Whatever it is - it needs to be unique. I suggested the user try the status attribute. This is a neat new tool in CFMX7 that allows you to see <i>exactly</i> what happens after an index operation. It can tell you, for example, that even though you passed in 9 records, only 7 were indexed. Further investigation of the data would turn up the duplicate keys.

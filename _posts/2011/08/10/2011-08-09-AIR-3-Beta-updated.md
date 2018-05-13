@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/08/10/AIR-3-Beta-updated
+guid: 4322
 ---
 
 I'm a bit late on this, but Labs has an update for the <a href="http://labs.adobe.com/technologies/flashplatformruntimes/air3/">Adobe AIR 3 Beta</a>. Some interesting new features in this update are...

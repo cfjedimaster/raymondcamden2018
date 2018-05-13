@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/12/31/My-personal-little-JavaScript-WTF
+guid: 5114
 ---
 
 <p>

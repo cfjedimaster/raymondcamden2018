@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/12/Link-SES-URLs-in-ModelGlue-3
+guid: 2820
 ---
 
 Doug Hughes posted a good article today on SES URLs within the new version of Model-Glue:

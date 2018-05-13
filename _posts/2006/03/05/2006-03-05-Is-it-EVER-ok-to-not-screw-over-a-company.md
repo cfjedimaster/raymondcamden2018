@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/03/05/Is-it-EVER-ok-to-not-screw-over-a-company
+guid: 1138
 ---
 
 I recently started frequenting a site called <a href="http://www.digg.com/">digg</a>. It is a news site - a bit like <a href="http://www.slashdot.org">slashdot</a>, but I find the articles to be much more interesting. Today it linked to a <a href="http://www.ipodbank.com/showthread.php?t=201">story</a> concerning how to get a free iTunes song. All you have to do is fill out a simple survey.

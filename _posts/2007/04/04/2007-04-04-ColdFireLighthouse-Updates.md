@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/04/ColdFireLighthouse-Updates
+guid: 1942
 ---
 
 ColdFire v 0.0.4 was released today. It contains a few bug fixes and support for CFTIMER. Next will be exception handling. Download it here: <a href="http://coldfire.riaforge.org">http://coldfire.riaforge.org</a>

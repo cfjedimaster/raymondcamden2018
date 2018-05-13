@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/12/Counting-Sessions-with-Applicationcfm
+guid: 1883
 ---
 
 A reader pinged me this weekend asking about tracking sessions. I thought I'd whip up a quick blog entry demonstrating how one can <i>count</i> sessions with Application.cfm. (By the way, it is a lot easier with Application.cfc. I'll cover that later.) Note the stress on count. This code will only give you a count of the sessions, not data about the sessions.

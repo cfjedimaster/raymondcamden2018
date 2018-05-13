@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/11/01/Ask-a-Jedi-How-do-you-start-an-Adobe-User-Group
+guid: 2446
 ---
 
 I just got an email from a reader who is interested in starting a CFUG (ColdFusion User Group). Surprisingly, this information was pretty easy to find on the Adobe site:

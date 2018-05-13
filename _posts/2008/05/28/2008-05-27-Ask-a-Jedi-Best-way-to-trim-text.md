@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/28/Ask-a-Jedi-Best-way-to-trim-text
+guid: 2844
 ---
 
 Sal asks:

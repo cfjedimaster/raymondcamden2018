@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/11/01/Check-out-nodeschoolio
+guid: 5074
 ---
 
 <p>

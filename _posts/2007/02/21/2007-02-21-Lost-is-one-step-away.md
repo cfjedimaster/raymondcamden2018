@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/21/Lost-is-one-step-away
+guid: 1851
 ---
 
 I don't know about you guys - but Lost is about one step away from becoming a "Must watch right now" to a "Will DVR and watch when I have time." Tonight's episode just bugged me. The whole lead up to tonight's episode was that we would learn the answer to 3 questions.

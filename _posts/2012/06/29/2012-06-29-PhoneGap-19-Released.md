@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/06/29/PhoneGap-19-Released
+guid: 4662
 ---
 
 A few minutes ago (although according to the blog post this happened tomorrow), <a href="http://phonegap.com/2012/06/30/phonegap-1-9-0-released/">PhoneGap 1.9.0</a> was released. The post details the fixes and updates and I encourage you to read it for the full list. One thing in particular stood out for me - build scripts. Back when I used Eclipse, I had an additional plugin that would handle the proper inclusion of PhoneGap files and mods in a stock Android application. When I stopped using Eclipse, I resorted to the manual process, which isn't difficult but I had hoped someone would get around to creating a simple script to handle it for me. And the PhoneGap guys did. They rock. 

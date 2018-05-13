@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/25/Review-Effective-JavaScript
+guid: 5018
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0321812182&nou=1&ref=qf_sp_asin_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;float:left;margin-right:15px;margin-bottom:15px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> I just wrapped up "Effective JavaScript" by David Herman. Subtitled, "68 Specific Ways to Harness the Power of JavaScript", the book covers nearly seventy different very specific tips focusing on:

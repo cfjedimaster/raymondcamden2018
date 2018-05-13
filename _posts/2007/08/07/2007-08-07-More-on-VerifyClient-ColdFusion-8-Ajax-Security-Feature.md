@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/07/More-on-VerifyClient-ColdFusion-8-Ajax-Security-Feature
+guid: 2257
 ---
 
 A couple of days ago I wrote a blog entry on ColdFusion 8's Ajax security features:

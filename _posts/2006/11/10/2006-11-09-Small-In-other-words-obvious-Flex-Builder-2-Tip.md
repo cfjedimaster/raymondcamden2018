@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/11/10/Small-In-other-words-obvious-Flex-Builder-2-Tip
+guid: 1645
 ---
 
 One of the things that bugged me about Flex development was the fact that when I wanted to test CSS changes, I had to rebuild the complete application and run it again in the browser. For a large app, that can take a <i>very</i> long if you are just changing a font size attribute.

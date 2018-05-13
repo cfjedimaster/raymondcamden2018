@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/24/Two-new-ColdFusion-901-Gems
+guid: 3828
 ---
 
 Terry Ryan just gave his keynote at Scotch on the Rocks (and folks, I should say, my net access has been limited, so please forgive me if I'm slow to blog/tweet/respond). He showed some pretty cool demos - but at the end also gave us two new bits of information about upcoming (Second Half 2010) release of ColdFusion 9.0.1. 

@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/06/01/Examples-of-authentication-and-ColdFusion-10-WebSockets
+guid: 4638
 ---
 
 I've blogged quite a bit about ColdFusion 10 WebSockets, but one topic I haven't touched on yet is authentication. I want to be clear that authentication is one part of a "security process" (does that sound overly dramatic?) in terms of your entire application. I've already blogged about how you need to lock down your WebSocket broadcasts and what you can to secure messages. This post then will focus on just the authentication aspect.

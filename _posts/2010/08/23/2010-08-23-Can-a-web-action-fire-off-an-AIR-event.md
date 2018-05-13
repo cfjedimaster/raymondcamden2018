@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/23/Can-a-web-action-fire-off-an-AIR-event
+guid: 3921
 ---
 
 This was a great question that came in via a reader last week. Because of the nature of his business I have to be a bit vague. Basically he wanted to know if there was some way where a click on a web page could have some type of response within an AIR application. As with most things there are a few ways this could be handled. Here is what I came up with (and consider this a call out for more ideas and suggestions please!).

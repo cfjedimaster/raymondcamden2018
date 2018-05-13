@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/12/26/Ask-a-Jedi-Keeping-it-Together
+guid: 996
 ---
 
 This is the second question I've gotten like this, so I thought I'd take the time to answer it:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/31/Ask-a-Jedi-Why-isnt-my-form-reloading-the-whole-page
+guid: 2445
 ---
 
 This blog entry actually covers something I've covered a few times, but as I keep getting questions, I figure it can't hurt to cover it again. Rual asks:

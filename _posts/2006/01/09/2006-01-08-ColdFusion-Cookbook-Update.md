@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/09/ColdFusion-Cookbook-Update
+guid: 1015
 ---
 
 I released an update to the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> site this morning. Comments are now enabled. So - please - comment away! Thanks go to Doug Hughes and <a href="http://www.alagad.com">Alagad</a> for the Captcha component. I'm typically anti-captcha - but most of my sites get pretty swamped by spam - so if this stops even a bit of it - it is well worth the effort.

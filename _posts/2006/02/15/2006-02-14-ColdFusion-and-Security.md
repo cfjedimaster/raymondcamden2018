@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/15/ColdFusion-and-Security
+guid: 1101
 ---
 
 This morning I got an email from someone asking about ColdFusion and security. There were looking for a general overview of tips, best practices, and other resources. It occured to me that I couldn't name a resource off the top of my head. I asked on the ever-so-friendly IRC channel and Daniel mentioned this excellent resource: 

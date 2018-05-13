@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/20/Interesting-little-bug-with-query-columns
+guid: 2292
 ---
 
 An interesting bug (not a ColdFusion bug, but a user bug) cropped up in a discussion last week in the ColdFusion IRC channel. Unfortunately I don't remember his IRC name (<b>Edited:</b> It was Baz!), but after we worked together on this for an hour or so, he was kind enough to send me a real nice and simple code sample to replicate the issue.

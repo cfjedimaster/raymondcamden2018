@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/28/BlogCFC-56-Released
+guid: 1872
 ---
 
 So I already announced this over at <a href="http://www.blogcfc.com">BlogCFC.com</a>, but it's been a while so I thought I'd mention it here as well. Tonight I released <a href="http://blogcfc.riaforge.org">BlogCFC 5.6</a> to RIAForge, both in zip format and in Subversion. (Although the SVN is being hosted elsewhere for now.) 

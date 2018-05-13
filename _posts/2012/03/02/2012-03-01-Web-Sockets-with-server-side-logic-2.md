@@ -6,6 +6,7 @@ categories: [coldfusion,html5]
 tags: []
 banner_image: 
 permalink: /2012/03/02/Web-Sockets-with-server-side-logic-2
+guid: 4548
 ---
 
 A few days ago I posted an <a href="http://www.raymondcamden.com/index.cfm/2012/2/29/Web-Sockets-with-server-side-logic">update</a> to my websocket chat demo that talked about associating a CFC with the web socket to perform server side operations. While testing the chat, a user (hope he reads this and chimes in to take credit) noted another security issue with the code. I had <a href="http://www.raymondcamden.com/index.cfm/2012/2/23/Your-security-lesson-for-the-day--Console-is-the-MCP">blogged</a> on this topic already, specifically how my chat handler was escaping HTML but could be bypassed easily enough. The user found another hole though. Let's examine it, and then I'll demonstrate the fix.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/10/Ask-a-Jedi-Spry-Database-and-XML-Question
+guid: 2700
 ---
 
 Michael asks:

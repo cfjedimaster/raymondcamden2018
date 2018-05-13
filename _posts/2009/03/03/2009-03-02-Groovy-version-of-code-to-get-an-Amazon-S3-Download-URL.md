@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/03/03/Groovy-version-of-code-to-get-an-Amazon-S3-Download-URL
+guid: 3260
 ---
 
 Recently I had need of some Groovy code to integrate with Amazon S3. I searched around, but it seemed as if they only code out there was set up for Grails. I couldn't find a simple class that I could drop into our code at work and run with that. Now maybe I didn't search long enough, and maybe the Grails-related stuff would have worked, but it just didn't feel right.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/02/Ask-a-Jedi-Issue-with-datefield-and-mask
+guid: 2909
 ---
 
 Mathew asks:

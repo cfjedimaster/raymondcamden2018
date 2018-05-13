@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/16/ColdFusion-901-CHF-2-Released
+guid: 4368
 ---
 
 Subject says it all. Our second CHF for ColdFusion 9.0.1 has been released. You can find details here:

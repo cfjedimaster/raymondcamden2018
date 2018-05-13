@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/15/Mac-Goodness
+guid: 700
 ---
 
 This morning, the Mac arrived. For a bunch of silly pictures that has no real benefit for anyone - follow the More link...

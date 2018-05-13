@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/07/10/Unexpected-behavior-with-Axis2-web-services-in-ColdFusion
+guid: 5263
 ---
 
 <p>

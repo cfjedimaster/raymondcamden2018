@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/27/Why-must-cfexecute-be-closed
+guid: 2498
 ---
 
 Simple question - but does anyone know why CFEXECUTE tags <i>must</i> be closed? In other words, you can't do this:

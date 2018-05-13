@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/06/BlogCFC-Beta-2-Released
+guid: 1252
 ---
 
 The second beta of BlogCFC5 is now released. Changes include:

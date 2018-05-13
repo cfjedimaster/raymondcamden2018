@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/07/Speaking-at-MAX-2011-Whats-Next-in-ColdFusion
+guid: 4261
 ---
 
 I'm very proud (and a bit relieved - I'll admit that) to announce I'm speaking at MAX 2011. My topic is: <a href="https://max.adobe.com/schedule/by-session/whats-next-in-coldfusion-/S2260">What's Next in ColdFusion</a>. From the description:

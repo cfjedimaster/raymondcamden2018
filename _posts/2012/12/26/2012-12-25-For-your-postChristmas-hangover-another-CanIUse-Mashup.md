@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/12/26/For-your-postChristmas-hangover-another-CanIUse-Mashup
+guid: 4815
 ---
 
 This will be short and quick as I've got to hit level 24 on Guild Wars 2. A while back I <a href="http://www.raymondcamden.com/index.cfm/2012/9/4/Mashups-of-CanIUsecom-data">posted</a> a few demos that made use of <a href="http://www.caniuse.com">CanIUse.com</a> data. These demos were kinda nice I think, although not the most prettiest examples of what you could do with CSS. Based on a suggestion from one of the commenters I created something a bit simpler and more direct.

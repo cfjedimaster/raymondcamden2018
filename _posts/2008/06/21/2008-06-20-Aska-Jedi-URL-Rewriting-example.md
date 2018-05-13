@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/21/Aska-Jedi-URL-Rewriting-example
+guid: 2893
 ---
 
 Shane asks:

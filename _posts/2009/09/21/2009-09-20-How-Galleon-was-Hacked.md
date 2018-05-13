@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/21/How-Galleon-was-Hacked
+guid: 3534
 ---
 
 Ben provided some <a href="http://forta.com/blog/index.cfm/2009/9/20/Yes-I-Was-Hacked">details</a> morning on what happened to his server and I thought I'd follow that up with some precise details on how Galleon was hacked. As an open source developer whose work is used by many organizations, I take security risks with my software <i>very</i> seriously. When this hack was pointed out to me (more on that in a second), I got a quick fix up within about 20 minutes. I then followed that up with a more detailed fix later. 

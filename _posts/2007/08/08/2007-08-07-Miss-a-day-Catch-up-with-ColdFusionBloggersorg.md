@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/08/Miss-a-day-Catch-up-with-ColdFusionBloggersorg
+guid: 2259
 ---
 
 Tonight I added a big new feature to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a> - email subscriptions. You can now register for the site and subscribe to:

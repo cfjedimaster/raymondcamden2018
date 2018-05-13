@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2008/02/25/Ask-a-Jedi-Flex-released-where-do-I-go-next
+guid: 2673
 ---
 
 Jason asked a very interesting question considering last night's releases by Adobe.

@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/04/08/using-mobilefirst-http-adapters-with-an-ionic-application
+guid: 5981
 ---
 
 Last week I <a href="http://www.raymondcamden.com/2015/04/02/using-mobilefirst-sql-adapters-with-an-ionic-application">blogged</a> about how to use <a href="http://www.ibm.com/mobilefirst/us/en/">MobileFirst</a> with <a href="http://ionicframework.com">Ionic</a>. Today I'm going to show another example of an adapter - the HTTP adapter.

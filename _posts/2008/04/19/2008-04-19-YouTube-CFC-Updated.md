@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/19/YouTube-CFC-Updated
+guid: 2778
 ---
 
 I've "formally" released the new version of my YouTube CFC to <a href="http://youtubecfc.riaforge.org">it's RIAForge home</a>. This new version doesn't have a one to one relation to the older API so I've included the old code in the zip as well. Right now it supports:

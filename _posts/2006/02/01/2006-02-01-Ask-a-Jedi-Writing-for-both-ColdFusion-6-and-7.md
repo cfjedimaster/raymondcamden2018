@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/01/Ask-a-Jedi-Writing-for-both-ColdFusion-6-and-7
+guid: 1072
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/16/Ask-a-Jedi-Add-an-edit-button-to-a-ColdFusion-8-Ajax-Grid
+guid: 2832
 ---
 
 Kyle asks:

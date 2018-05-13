@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/07/Flash-Forms-are-the-New-Layer-Tag
+guid: 1825
 ---
 
 Ok, so I'll admit. I loved Flash Forms. I built applications with them and I really dug them. But now that Flex 2 is free, I'm completely dropping them. 

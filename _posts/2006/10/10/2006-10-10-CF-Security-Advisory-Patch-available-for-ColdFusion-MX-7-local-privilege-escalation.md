@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/10/CF-Security-Advisory-Patch-available-for-ColdFusion-MX-7-local-privilege-escalation
+guid: 1579
 ---
 
 See the Adobe page for more info:

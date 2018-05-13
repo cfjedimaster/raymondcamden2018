@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/23/SpoolMail-Updated-Version-1
+guid: 1050
 ---
 
 SpoolMail has been updated to version 1(it makes sense, really, I released it at version 0). What's new? Well now I actually include the CF Admin Application.cfm file. This means that the application will now be password protected like the rest of the admin. (Duh.) I also had some good fixes sent in by users, including:

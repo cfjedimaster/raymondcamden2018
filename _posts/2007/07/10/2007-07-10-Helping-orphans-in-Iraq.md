@@ -6,6 +6,7 @@ categories: [adoption]
 tags: []
 banner_image: 
 permalink: /2007/07/10/Helping-orphans-in-Iraq
+guid: 2184
 ---
 
 I watched a pretty disturbing report last night on the state of orphans in Iraq. More information on the story may be found here:

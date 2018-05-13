@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/13/ColdFusion-8-Working-with-PDFs-Part-4
+guid: 2195
 ---
 
 So far I've covered getting info with PDFs and adding watermarks. In this entry I'll talk about removing pages from a PDF. It will be a short entry as the syntax is rather simple. Why would you want to remove pages? You may want to remove legal junk or other fluff. You may want to take a source PDF and delete most of the PDF to create a preview. Whatever you have in mind, ColdFusion makes it simple to do. Let's take a look at an example.

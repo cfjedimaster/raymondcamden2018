@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/20/Custom-grid-renderers-with-CFGRID-2
+guid: 3885
 ---
 
 Almost three years ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2007/8/20/Custom-grid-renderers-with-CFGRID">blog entry</a> on doing custom grid renderers with CFGRID and the Ext grid for ColdFusion 8. This week a reader and I went back and forth in the comments concerning how to build a renderer that would modify a column but check <i>other</i> column values for the logic. So for example, in that previous blog entry my logic for a custom product column was to check to see if the product was "Product 4". What if I wanted to check the price for example? Here is an updated version that works with ColdFusion 9 and does just that.

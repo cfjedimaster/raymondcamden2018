@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/12/Ask-a-Jedi-Opening-a-new-window-from-a-Flash-Form
+guid: 768
 ---
 
 Tim asks: 

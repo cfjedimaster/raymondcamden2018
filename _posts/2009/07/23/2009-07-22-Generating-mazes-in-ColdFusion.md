@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/23/Generating-mazes-in-ColdFusion
+guid: 3460
 ---
 
 People like Ben Forta may rave about so called "important" ColdFusion features like Excel generation, .Net integration, and PDF Manipulation, but honestly, how important are those features in comparison to something <i>really</i> in demand in today's enterprise market: Maze Generation. I can't tell you how many times clients have asked me to generate mazes for them - sometimes even removing less critical items from the contract like performance tuning and security reviews. So with that in mind, last night I wrote a ColdFusion port of Emanuele Feronato's PHP code to generate mazes. You can find her blog entry <a href="http://www.emanueleferonato.com/2008/12/06/perfect-maze-generation-tile-based-version/">here</a>.

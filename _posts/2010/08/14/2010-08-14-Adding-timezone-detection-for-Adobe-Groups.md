@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/14/Adding-timezone-detection-for-Adobe-Groups
+guid: 3912
 ---
 
 I mentioned this earlier on Twitter and thought I'd follow up with a quick blog post. This morning I added support for client-side timezone detection in JavaScript. This is specifically built for User Group Managers adding new events to <a href="http://groups.adobe.com">Adobe Groups</a>. The technique is certainly not mine. I read this excellent blog post by Josh Fraser and he deserves all the credit: <a href="http://www.onlineaspect.com/2007/06/08/auto-detect-a-time-zone-with-javascript/">Auto detect a time zone with JavaScript</a>. I've read his entry twice now and I understand it enough to say I'm darn glad I didn't have to figure it out myself. The rest of this entry will simply focus on how I modified his code to work within the Adobe Group's site.

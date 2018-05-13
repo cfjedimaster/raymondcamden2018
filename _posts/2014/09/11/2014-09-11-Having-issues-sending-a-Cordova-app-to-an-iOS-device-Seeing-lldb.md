@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/09/11/Having-issues-sending-a-Cordova-app-to-an-iOS-device-Seeing-lldb
+guid: 5306
 ---
 
 <p>

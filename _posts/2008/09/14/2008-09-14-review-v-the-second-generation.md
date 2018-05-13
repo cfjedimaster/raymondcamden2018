@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2008/09/14/review-v-the-second-generation
+guid: 3014
 ---
 
 Please consider yourself warned. This review will contain spoilers. If you had any plans on reading this book, you may want to stop reading now. On the other hand, since this book reads like it was written by a high school creative writing wanna-be fan boy, you may not really care. Ok, you have been warned...

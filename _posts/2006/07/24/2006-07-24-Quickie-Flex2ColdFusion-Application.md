@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/07/24/Quickie-Flex2ColdFusion-Application
+guid: 1426
 ---
 
 This morning I demonstrated a quick way to add a simple image browser to a ColdFusion site. Someone suggested Flash Forms, but I thought Flex 2 would make a better example. So with that in mind, here is a simple Flex 2 version of the slide show:

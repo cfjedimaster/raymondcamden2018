@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/01/25/Job-Opening-Multiple
+guid: 4840
 ---
 
 My alma mater, the University of Louisiana at Lafayette, has multiple web related positions available. They are looking for developers with preferred experience (2+ years) in SharePoint, Dynamics, or ASP .NET MVC and will also strongly consider those with knowledge of CF, Ruby, PHP, etc. You can find a full list here:

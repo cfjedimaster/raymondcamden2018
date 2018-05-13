@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/05/Quick-little-regex-example-Youtube-video-from-URL
+guid: 4295
 ---
 
 I'm almost scared to post this. Every time I post a regex example I typically get about 200 comments showing sexier, smaller, faster examples, but at the same time, I like good (and practical) examples like this. This is why regex was built! So - what's the example? Given a simple URL with a Youtube video ID in it, how do you extract just the ID? Here's the URL:

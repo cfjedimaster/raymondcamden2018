@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/12/15/Two-followup-jQuery-Mobile-questions
+guid: 4463
 ---
 
 An attendee from my <a href="http://www.raymondcamden.com/index.cfm/2011/12/15/Recording-and-Slides-from-jQuery-Mobile-presentation">jQuery Mobile presentation</a> yesterday had some followup questions that I thought would be good to share with everyone. These kind of fall into the part tech/part opinion area so please feel free to argue with me.

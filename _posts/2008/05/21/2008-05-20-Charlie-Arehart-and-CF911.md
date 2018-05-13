@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/21/Charlie-Arehart-and-CF911
+guid: 2838
 ---
 
 I was speaking with Charlie Arehart last night and he told me about the class he is giving before CFUNITED:

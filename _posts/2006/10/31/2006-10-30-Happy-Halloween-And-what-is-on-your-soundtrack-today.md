@@ -6,6 +6,7 @@ categories: [music]
 tags: []
 banner_image: 
 permalink: /2006/10/31/Happy-Halloween-And-what-is-on-your-soundtrack-today
+guid: 1623
 ---
 
 What's going to be on your playlist today to help celebrate Halloween? For me its:

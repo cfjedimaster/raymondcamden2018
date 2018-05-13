@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/30/MGDoc-a-ModelGlue-documentor
+guid: 1180
 ---
 
 <img src="http://ray.camdenfamily.com/images/mg.jpg" align="left" border="1" hspace="5"> If you haven't guessed it yet, I'm all about the <a href="http://www.model-glue.com">Model-Glue</a>. If I wasn't married, I'd ask Model-Glue to marry me. We would settle down in a small, ranch style house in the mid-west. I'd gladly stay at home so Model-Glue could go out into the work place, quickly and efficiently helping ColdFusion developers create better applications. Alas, it is a forbidden love...

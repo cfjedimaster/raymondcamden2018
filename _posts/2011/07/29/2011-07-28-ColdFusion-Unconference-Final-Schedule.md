@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/29/ColdFusion-Unconference-Final-Schedule
+guid: 4312
 ---
 
 I just published the final scheduled for this years ColdFusion Unconference at MAX:

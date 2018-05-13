@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/14/How-to-give-dynamic-driving-directions-to-your-customers
+guid: 4432
 ---
 
 <b>Quick Note: I added a quick edit just now to show a message while the browser tries to get your location. This was simple to do and I'm embarrassed to say I didn't remember it. Thanks go to Gregory Macke for reminding me.</b>

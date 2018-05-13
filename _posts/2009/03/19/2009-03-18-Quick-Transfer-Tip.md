@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/19/Quick-Transfer-Tip
+guid: 3282
 ---
 
 Using an ORM means never having to write SQL. Well, ok, maybe not. As much as I love Transfer (and am beginning to love Hibernate), there are still times when you have to resort to writing SQL. Here is a quick tip.

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/06/16/Flex-Question-How-do-I-render-a-grid-row-differently-based-on-data
+guid: 3397
 ---
 
 Wow. So this is one of those questions that I would have sworn would be easy in Flex. The Flex Datagrid has really nice support for handling custom display of cells. But while Flex makes it easy to say, "Do this to a cell when rendering", doing something for an entire row was definitely <i>not</i> as easy. I want to thank <a href="http://www.infoaccelerator.net/blog/">Andrew Powell</a> for a lot of help with this blog entry. Any mistakes you see are entirely my fault though, not his.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/17/Grabbing-the-Bull-by-the-Horns
+guid: 1033
 ---
 
 Wow. So today has been a busy day. I'm not really sure where to begin. I'm way high now on drugs so I'm not exactly what I would call clear headed, but I will try to respond to some of the points Mr. Horn made on his <a href="http://rayhorn.contentopia.net/blog/index.cfm?mode=entry&entry=D9785B08-1026-0A9F-F324959EDA631487">blog posting</a>.

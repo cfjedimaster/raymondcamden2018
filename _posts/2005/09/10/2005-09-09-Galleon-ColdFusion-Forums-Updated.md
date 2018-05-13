@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/10/Galleon-ColdFusion-Forums-Updated
+guid: 763
 ---
 
 I'm happy to announce version 1.4.2 of Galleon ColdFusion Forums. Not a huge update, but here are the changes:

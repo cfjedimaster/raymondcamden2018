@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/30/New-ORM-Related-session-MAX
+guid: 3075
 ---
 
 Jason Delmore just <a href="http://www.cfinsider.com/index.cfm/2008/10/30/Object-Relational-Mapping-with-ColdFusion-9">blogged</a> about a new session @ MAX concerning ColdFusion 9 and ORM (Object Relational Mapping). 

@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/22/Creating-watermarked-images-in-PhoneGap
+guid: 4624
 ---
 
 A reader asked me if it was possible to watermark images (like those taken with a camera) in PhoneGap. This is rather trivial using Canvas (hey, it <i>does</i> have a use!) so I whipped up the following example to demonstrate it in action.

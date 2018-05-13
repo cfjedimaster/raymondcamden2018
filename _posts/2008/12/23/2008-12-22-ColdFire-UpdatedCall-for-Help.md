@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/12/23/ColdFire-UpdatedCall-for-Help
+guid: 3159
 ---
 
 Nathan pinged me to let me know that <a href="http://coldfire.riaforge.org">ColdFire</a> has been updated. The readme states that...

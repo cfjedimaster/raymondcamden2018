@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/08/02/My-Dont-try-this-at-home-experiment-with-jQuery-UI
+guid: 4316
 ---
 
 It's been a little while since I've played with <a href="http://jqueryui.com/">jQuery UI</a>. I kinda got infatuated with <a href="http://jquerymobile.com">jQuery Mobile</a> and forgot everything else. But it's my love of jQuery Mobile that drove me to try a little experiment. If you've read any of the docs on jQuery Mobile or seen my presentation, you know that it is entirely HTML driven. (That isn't entirely accurate - you do need to write JavaScript for most production apps, but for prototypes, quick tests, etc, you can do a <i>heck</i> of a lot with just HTML.) So for example, this will generate a mobile friendly list:

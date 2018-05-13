@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/03/ColdFusion-and-Transfer-And-that-3-letter-O-word
+guid: 3080
 ---
 
 It's been an interesting few days (in the blogs at least) in terms of ORMs and ColdFusion. A few days ago Jason <a href="http://www.cfinsider.com/index.cfm/2008/10/30/Object-Relational-Mapping-with-ColdFusion-9">blogged</a> about a MAX session involving ColdFusion 9 and ORMs. Then today Joe Rinehart posted a great article on the current state of ColdFusion and ORMs: <a href="http://firemoss.com/post.cfm/does-coldfusion-have-no-real-orm-frameworks">Does ColdFusion have no real ORM frameworks?</a> This was followed up by another: <a href="http://www.firemoss.com/post.cfm/what-makes-a-framework-an-orm">What makes a framework an ORM?</a> (I'll also point out Brian's take as well: <a href="http://www.briankotek.com/blog/index.cfm/2008/11/3/Joe-Rinehart-Stirs-the-ObjectRelational-Mapping-ORM-Frameworks-Pot">Joe Rinehart Stirs the Object-Relational Mapping (ORM) Frameworks Pot</a>)

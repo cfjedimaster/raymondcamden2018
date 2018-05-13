@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2007/09/20/Quick-and-Dirty-JSONQuery-Example
+guid: 2359
 ---
 
 Yesterday in the ColdFusion chat room someone asked a question (a technical question at that - guess how rare that is?) about how they could use a JSON-encoded query. I whipped up a quick example that I thought others might like as well. This example does <b>not</b> use Ajax to load the JSON data - which is also pretty rare - but I wanted something that I could run all in one file. So here we go...

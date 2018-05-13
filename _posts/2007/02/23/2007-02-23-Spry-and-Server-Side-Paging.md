@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/23/Spry-and-Server-Side-Paging
+guid: 1857
 ---
 
 A while ago I promised a demo showing how to use Spry's new PagedView feature to combine client and server side paging. Taking the "walk before you run" lesson to heart - I decided to first show a demo of how to do server side paging with Spry. This would be useful for huge datasets.

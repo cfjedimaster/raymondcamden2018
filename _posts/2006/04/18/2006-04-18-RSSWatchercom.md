@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/18/RSSWatchercom
+guid: 1218
 ---
 
 Every now and then I get an email from someone who discovers <a href="http://www.rsswatcher.com">RSSWatcher.com</a>. This is a site I made quite a while ago. The purpose of the site is to search RSS feeds. So for example, I've put in profiles for flex, the PSP, and my name. (Yes, its an <a href="http://www.egoaddict.com">ego tool</a>.) You can associate multiple RSS feeds with a search term so it's a good way to monitor feeds when you are on vacation. 

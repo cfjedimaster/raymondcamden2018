@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2009/08/31/ColdFusion-Builder-Tip-Finding-a-file
+guid: 3504
 ---
 
 I'm working with a new client that has a rather large and complex code base. Since I'm still kinda new to the project I don't know where everything exists. I needed to find a particular file name within the project and discovered that ColdFusion Builder (Eclipse really!) provides a simple way to do it.

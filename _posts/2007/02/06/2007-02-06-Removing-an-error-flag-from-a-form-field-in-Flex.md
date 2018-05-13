@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/02/06/Removing-an-error-flag-from-a-form-field-in-Flex
+guid: 1821
 ---
 
 Today I ran into a situation where I needed to clear the error flag from a form field in Flex. My code uses a datagrid to present a list of items to edit. You could click to edit an item, or click an Add button to add a new item.

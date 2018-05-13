@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/03/ColdFusion-101-Day-of-the-Week-Formatting
+guid: 1446
 ---
 
 So it has been a while since I've done a CF 101 post, but for those who do not remember, these are entries specifically targeting people brand new to ColdFusion. For most of my readers, this will probably be something you already know, but on the other hand, I've never been surprised by own my lack of knowledge, so maybe it will be helpful as well. 

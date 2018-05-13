@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/27/Ask-a-Jedi-Excluding-Pages-from-Applicationcfmcfc
+guid: 876
 ---
 
 A reader asks:

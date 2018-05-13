@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/20/Ask-a-Jedi-Showing-Every-Nth-Record
+guid: 3246
 ---
 
 <a href="http://www.revolutionwebdesign.com/blog/">Tony "I Suck at Math" Weeg</a> asked me this over IM and I thought it would be fun to share. (And I know Tony, so don't think I'm giving him too much crap - my math is pretty rusty as well!) Basically, he had a large query (cue that's what she said joke) and wanted to show every nth row. This can be done easily enough using a simple MOD operation. The MOD operation does division on two numbers and returns the remainder. So if you want to show every 5 rows, you want to know when: Current Row divided by 5 has a remainder of 0. Here is a quick example:

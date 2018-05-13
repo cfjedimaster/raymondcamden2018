@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/08/10/You-know-youre-an-old-techie-when
+guid: 1461
 ---
 
 You click the Start menu, look away, look back, and have no idea what application you were about to run.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/07/Newest-member-of-the-family
+guid: 1827
 ---
 
 Today my wife surprised me with an early birthday present - a new dog. Phyllis (yes, thats her name), is a Golden Retriever puppy that is 9 weeks old. I'm a sucker for dogs and now we have 2 (along with 5 cats that live outside). 

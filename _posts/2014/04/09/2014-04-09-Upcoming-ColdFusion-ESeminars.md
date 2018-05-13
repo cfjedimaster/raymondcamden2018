@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/04/09/Upcoming-ColdFusion-ESeminars
+guid: 5195
 ---
 
 <p>

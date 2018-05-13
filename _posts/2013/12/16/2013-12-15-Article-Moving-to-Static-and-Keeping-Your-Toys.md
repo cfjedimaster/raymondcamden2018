@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/12/16/Article-Moving-to-Static-and-Keeping-Your-Toys
+guid: 5102
 ---
 
 <p>

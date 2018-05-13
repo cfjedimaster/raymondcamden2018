@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2005/09/13/Book-Review-Perdido-Street-Station-by-China-Mieville
+guid: 772
 ---
 
 This week I had the pleasure to finish one of the best books I've read in a long time: <a href="http://www.amazon.com/exec/obidos/redirect?link_code=ur2&amp;camp=1789&amp;tag=raymondcamd06-20&amp;creative=9325&amp;path=tg/detail/-/0345459407/qid=1126647340/sr=8-1/ref=pd_bbs_1?v=glance{% raw %}%26s=books%{% endraw %}26n=507846">Perdido Street Station</a>. To be frank, I'm not even sure how to begin this review. I haven't been excited about an author so much since I started reading Snow Crash. China Mi&eacute;ville's story is easily one of the best books I've read. I won't say it is one of the best Fantasy or SciFi books, since any good book is more than it's genre. 

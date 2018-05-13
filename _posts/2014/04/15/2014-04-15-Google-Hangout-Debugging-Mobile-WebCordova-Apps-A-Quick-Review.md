@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/15/Google-Hangout-Debugging-Mobile-WebCordova-Apps-A-Quick-Review
+guid: 5201
 ---
 
 <p>

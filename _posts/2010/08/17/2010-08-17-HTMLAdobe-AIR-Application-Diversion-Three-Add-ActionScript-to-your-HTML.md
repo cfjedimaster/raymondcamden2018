@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/17/HTMLAdobe-AIR-Application-Diversion-Three-Add-ActionScript-to-your-HTML
+guid: 3915
 ---
 
 So time for another diversion, once again care of Hatem who suggested it to me today. This is a feature I talked about briefly during my last presentation but didn't have a chance to actually play with. Today at lunch I did so and I'm completely blown away. The feature I'm talking about is the ability for your HTML application to include ActionScript libraries via the SCRIPT tag. This is discussed in the documentation <a href="http://help.adobe.com/en_US/air/html/dev/WS5b3ccc516d4fbf351e63e3d118666ade46-7ed9.html">here</a>, but let me demonstrate two examples that I think really bring home the power of this feature. It's got to be one of the coolest things yet I've seen for HTML/AIR applications.

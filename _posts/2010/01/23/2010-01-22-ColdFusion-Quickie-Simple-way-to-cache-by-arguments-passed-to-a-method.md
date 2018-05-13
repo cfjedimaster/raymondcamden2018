@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/23/ColdFusion-Quickie-Simple-way-to-cache-by-arguments-passed-to-a-method
+guid: 3694
 ---
 
 Just a quick tip for folks using ColdFusion 9's new caching system. Whenever you add something to the cache you must use a unique key. For a simple method, that's relatively easy:

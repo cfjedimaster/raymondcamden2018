@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/08/04/Welcome-Brian
+guid: 2955
 ---
 
 Remember a few days ago when I mentioned <a href="http://www.raymondcamden.com/index.cfm/2008/7/24/Welcome-Joe">Joe Rinehart</a> had joined us at <a href="http://www.broadchoice.com">Broadchoice</a>? Remember when I said:

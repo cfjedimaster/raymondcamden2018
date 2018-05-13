@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/07/ColdFusion-S3-Implementation-bug-with-metadata-and-ACLs
+guid: 4110
 ---
 
 This find comes to me by J. J. Blodgett. He found the bug, asked me to confirm it, and I've been able to. It is - from what I can tell - pretty serious if you make use of Amazon S3 support in ColdFusion 9.0.1. The gist is this: Any call to storeSetMetadata on a file stored in S3 will <b>remove</b> ACL information about the file. Here is an example that demonstrates the issue. Note that I've removed my security tokens.

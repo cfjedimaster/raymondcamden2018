@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/10/03/Missed-NCDevCon-Watch-the-entire-thing-online-now-in-your-underwear
+guid: 4750
 ---
 
 One more reason <a href="http://www.ncdevcon.com">NCDevCon</a> is a cool conference is that they record, and share, <i>all</i> of the content online. If you missed the conference, or couldn't attend a session because another cool one was at the same time, now is your chance to catch up.

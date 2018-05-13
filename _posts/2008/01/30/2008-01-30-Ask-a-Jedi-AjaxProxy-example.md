@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/30/Ask-a-Jedi-AjaxProxy-example
+guid: 2624
 ---
 
 Mike asks:

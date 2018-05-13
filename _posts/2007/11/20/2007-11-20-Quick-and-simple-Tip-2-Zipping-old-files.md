@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/20/Quick-and-simple-Tip-2-Zipping-old-files
+guid: 2488
 ---
 
 As a follow up to my <a href="http://www.raymondcamden.com/index.cfm/2007/11/20/Quick-and-simple-Tip-Deleting-old-files">earlier post</a> on cleaning up old files, here is a modified version that zips and deletes. This would be very handy for log directories.

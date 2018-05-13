@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/11/Seeker-update
+guid: 2874
 ---
 
 Last night I released an update to <a href="http://seeker.riaforge.org">Seeker</a>, my ColdFusion Lucene wrapper. A user, Casey, of <a href="http://www.dealtree.com">Dealtree.com</a>, contacted me about a possible speed improvement to help with larger indexes. I tried his suggestion, and now the search API should be a bit quicker. I also added support for pagination (you can get from N to M results) and metadata results (how many matches exist). Lastly, there is an optimize custom tag now as well.

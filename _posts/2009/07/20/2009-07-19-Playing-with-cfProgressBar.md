@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/07/20/Playing-with-cfProgressBar
+guid: 3452
 ---
 
 I haven't played much with ColdFusion 9's new Ajax UI tags, mainly because I'm kind of a jQuery UI fan boy now, but this morning I took a look at cfProgressBar. It's a nice little utility and has some interesting uses. Here are a few examples to help you learn the tag. (And hopefully avoid some of the documentation issues I ran into!)

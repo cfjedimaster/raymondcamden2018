@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/10/Proof-of-Concept-Working-with-Remote-PDF-Data
+guid: 4458
 ---
 
 I'm not sure how useful this will be to others, but it was an interesting question from a reader so I thought I'd share the result. Michael works with a remote service that returns PDF data as base64 encoded text. He wanted to know if it was possible to add a watermark to the PDF before serving it to the user. Here's what I came up with.

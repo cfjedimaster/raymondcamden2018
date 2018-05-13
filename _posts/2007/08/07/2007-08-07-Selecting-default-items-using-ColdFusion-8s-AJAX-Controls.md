@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/07/Selecting-default-items-using-ColdFusion-8s-AJAX-Controls
+guid: 2258
 ---
 
 So here is an interesting question. Take a look at Ben's post on <a href="http://www.forta.com/blog/index.cfm/2007/5/31/ColdFusion-Ajax-Tutorial-2-Related-Selects">related selects</a> in ColdFusion 8 (and don't forget it is even <a href="http://www.forta.com/blog/index.cfm/2007/7/17/Last-Minute-ColdFusion-Ajax-Enhancements">easier</a> now). Pretty simple, right? Well how do you set a control to use Ajax <i>and</i> have a default selected item? Turns out this isn't so easy. 

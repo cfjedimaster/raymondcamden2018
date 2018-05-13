@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/25/Friday-Puzzler-Joes-Car-Wash-and-the-Cheap-Employee-Problem
+guid: 4171
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/sleazy_guy.jpg" title="Joe, probably a PHP developer" align="left" style="margin-right:10px;margin-bottom:10px" /> Meet Joe. Joe runs a local car wash and is notorious for having an odd smell and being notoriously cheap. So cheap in fact that he pays his employees the littlest possible and therefore has the laziest employees in existence. This causes many problems for Joe as he has to ensure each and every task he gives them is as simple and as direct as possible. No critical thinking allowed here. You're going to write a program for Joe (in exchange for 2 free car washes, except on days that end in Y) to help Joe with a particular problem: Signage.

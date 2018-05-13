@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/11/ModelGlue-CFlib-Update
+guid: 689
 ---
 
 I've updated the Model-Glue version of CFLib. You can find it here: <a href="http://mg.cflib.org">http://mg.cflib.org</a>

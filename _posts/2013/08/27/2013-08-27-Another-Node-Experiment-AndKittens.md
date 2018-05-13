@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/27/Another-Node-Experiment-AndKittens
+guid: 5021
 ---
 
 So, I know I've said this before, but I like to build completely useless, but fun, toys. Frankly if I let practicality be my guide I'd probably never build anything and I'm not sure how I'd learn. Please keep that in mind as you read the following. I built what follows as an excuse to practice my Node chops more, not to bring anything actually worthwhile into the Internets. Unless you like kittens. If so, this is epic.

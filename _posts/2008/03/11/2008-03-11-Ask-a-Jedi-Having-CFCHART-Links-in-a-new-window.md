@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/11/Ask-a-Jedi-Having-CFCHART-Links-in-a-new-window
+guid: 2702
 ---
 
 Dez asks:

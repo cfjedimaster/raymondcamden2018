@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/04/27/testing-camera-quality-settings-and-phonegapcordova
+guid: 6064
 ---
 
 As you know, when using the <a href="http://plugins.cordova.io/#/package/org.apache.cordova.camera">Camera plugin</a> with PhoneGap/Cordova, you have an optional quality setting. It accepts values from 0 to 100 with 50 being the default. I was curious as to how much of an impact this setting had on the final result. Obviously quality can be subjective, but I thought it would be interesting to build a simple tool that would let me test the settings and compare the results.

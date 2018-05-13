@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/08/29/Holy-RIAForge-Milestone-Batman
+guid: 2311
 ---
 
 Just thought I'd brag a bit about another milestone over at <a href="http://www.riaforge.org">RIAForge.org</a>. I just approved project number 300. Thank you again to everyone who has supported the site! 

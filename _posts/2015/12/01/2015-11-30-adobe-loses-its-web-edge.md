@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/12/01/adobe-loses-its-web-edge
+guid: 7179
 ---
 
 Well, consider me not surprised: <a href="http://blogs.adobe.com/edge/2015/11/30/update-about-edge-tools-services/">Update about Edge Tools and Services</a>. If you have no idea what this is about, then I'm not surprised. A few years ago, Adobe released an <i>incredible</i> set of web tools called the Edge suite. This included a responsive design tool (Edge Reflow), a web animation tool (Edge Animate), a mobile testing tool (Edge Inspect), and an editor (Edge Code), a 'branded' version of Brackets. Brackets was already on life support<sup>*</sup> (<a href="http://blog.brackets.io/2015/10/05/update-from-the-adobe-brackets-team/">Update from the Adobe Brackets Team</a>) so it isn't too surprising to see the rest of the web related stuff get killed off as a well.

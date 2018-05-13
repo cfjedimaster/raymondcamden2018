@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/29/Adobe-releases-public-release-candidate-of-ColdFusion-8-AKA-Scorpio
+guid: 2071
 ---
 
 The title says it all. Sorry for all the vague entries earlier. If you have been dying to get your hands on the newest version of ColdFusion, now is your chance:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/24/Lost-review-for-May-24-2006
+guid: 1292
 ---
 
 So much happened tonight I'm not even really sure where to start. So please don't expect this review to be exactly in order. I want to start with what is probably the oddest moment of the entire show: the foot. At one point during the show, Sayid and the Koreans are sailing across the Island and come across a foot from what must have been an extremely large statue. Even odder, the foot only had four toes.

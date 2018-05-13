@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/01/03/ColdFusion-Quickie-Turning-a-set-of-XML-nodes-into-a-string
+guid: 4821
 ---
 
 Yesterday a reader sent me a question concerning XML handling and ColdFusion, and while it was rather simple, I thought others might like to see a quick demo of it as well. Imagine for a minute this simple XML data.

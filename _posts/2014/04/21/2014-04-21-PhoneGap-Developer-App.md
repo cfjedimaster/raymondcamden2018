@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/21/PhoneGap-Developer-App
+guid: 5207
 ---
 
 <p>

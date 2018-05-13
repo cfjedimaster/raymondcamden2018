@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/18/BlogCFC-Questions
+guid: 1037
 ---
 
 This is just a reminder - but every now and then I get an Ask a Jedi question concerning BlogCFC. BlogCFC has it's own <a href="http://ray.camdenfamily.com/forums/forums.cfm?conferenceid=CBD210FD-AB88-8875-EBDE545BF7B67269">forum</a> set up for support questions. You can also just send me email directly. The question this time was:

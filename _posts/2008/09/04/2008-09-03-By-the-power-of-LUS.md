@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/09/04/By-the-power-of-LUS
+guid: 2998
 ---
 
 Pretend I was He-Man for a second there while I said it - and if that doesn't make sense, then just ignore me. After a bit over 2 days, we finally got power back last night around 7:45. We were in the "lucky" 10 percent of Lafayette that didn't have power Wednesday. (This is now <a href="http://www.lus.org/site.php?pageID=229">down to 2%</a> according to our utility provider.) 

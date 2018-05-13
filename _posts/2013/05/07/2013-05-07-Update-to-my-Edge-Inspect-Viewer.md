@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/05/07/Update-to-my-Edge-Inspect-Viewer
+guid: 4927
 ---
 
 Many moons ago I <a href="http://www.raymondcamden.com/index.cfm/2012/11/6/Proof-of-Concept--An-Edge-Inspect-Screenshot-Viewer">blogged</a> about a proof of concept I built that allowed you to view Edge Inspect screen shots via a nice web interface. This was built in Node using the Express framework. I've finally gotten around to doing some updates to it as well as pushing it up to Github.

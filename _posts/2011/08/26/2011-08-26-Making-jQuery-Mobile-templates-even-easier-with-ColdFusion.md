@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/08/26/Making-jQuery-Mobile-templates-even-easier-with-ColdFusion
+guid: 4342
 ---
 
 Earlier today I read an interesting blog entry on <a href="http://metaskills.net/2011/08/24/jquery-mobile-and-rails/">jQuery Mobile and Rails</a>. Now - let me start off with saying I'm not a huge fan of Ruby's syntax. I've got nothing against it and Rails. I did notice though that some of the template examples in the post seemed unnecessarily complex and verbose when it came to HTML. A few folks on Twitter informed me that was more his use of HAML than Ruby. Fair enough. That being said, the author did some very interesting things with his templates and I thought I'd work on a ColdFusion version. Credit for the coolness though goes squarely to the original author, Ken Collins. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/19/Ask-a-Jedi-Ajaxbound-requests-and-onRequest
+guid: 2717
 ---
 
 So this is <i>definitely</i> something I've covered more than once, but as the questions keep coming in, I'm going to keep blogging it. My <b>real</b> hope is that Adobe listens in here as I think this is something that really needs changing in ColdFusion. Anyway, the question, from Samer:

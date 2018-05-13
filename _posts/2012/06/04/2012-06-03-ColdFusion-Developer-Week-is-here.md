@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/06/04/ColdFusion-Developer-Week-is-here
+guid: 4639
 ---
 
 Welcome to ColdFusion Developer Week. It is not too late to register (which is free and required to get the Connect URLs) so get to it!

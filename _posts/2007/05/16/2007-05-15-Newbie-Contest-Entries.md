@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/16/Newbie-Contest-Entries
+guid: 2038
 ---
 
 Just to ensure I didn't miss anyone due to a spam filter or the chaos of switching platforms, here are the people that have sent me contest entries. If your name is not on this list and you sent me a file, please post a comment here, don't email.

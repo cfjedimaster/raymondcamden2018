@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/09/06/Thunderbird-Tip-Rewrap
+guid: 2326
 ---
 
 For a long time I've been bugged by something in Thunderbird. I'd hit reply to someone, and the previous email, when quoted, would turned into long lines. In other words - it wouldn't wrap.

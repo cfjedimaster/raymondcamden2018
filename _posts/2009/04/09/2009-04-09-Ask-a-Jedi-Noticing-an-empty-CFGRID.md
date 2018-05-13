@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/09/Ask-a-Jedi-Noticing-an-empty-CFGRID
+guid: 3309
 ---
 
 Brett asked:

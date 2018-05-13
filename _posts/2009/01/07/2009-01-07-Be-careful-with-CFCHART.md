@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/07/Be-careful-with-CFCHART
+guid: 3181
 ---
 
 A while ago I <a href="http://www.raymondcamden.com/index.cfm/2008/1/18/Coolest-CFCHART-Trick-Ever">blogged</a> about a cool cfchart trick that made use of the Java API to the webcharts3d engine. This allowed for customization not possible with the style xml method that I've recommended numerous times in the past. 

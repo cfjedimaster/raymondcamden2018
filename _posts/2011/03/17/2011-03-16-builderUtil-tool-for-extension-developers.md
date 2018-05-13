@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/03/17/builderUtil-tool-for-extension-developers
+guid: 4161
 ---
 
 I've made no secret of my love for ColdFusion Builder extensions. To me - this is the single most important feature of ColdFusion Builder. Version 2, currently in <a href="http://labs.adobe.com/technologies/coldfusionbuilder2/">public beta</a>, adds additional features to extension developers, including support for views (woot!) as well as other miscellaneous features. I've developed a few public extensions myself (you can see mine and many others on the <a href="http://www.riaforge.org/index.cfm?event=page.category&id=14">RIAForge category</a> page) and have developed various libraries/utilities to help my development. I finally decided to formalize this with a library I'm calling <a href="http://builderhelper.riaforge.org/">builderHelper</a>.

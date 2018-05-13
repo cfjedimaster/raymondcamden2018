@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/28/Using-the-Page-Visibility-API
+guid: 4945
 ---
 
 A few weeks ago at MAX I had the pleasure of giving half a presentation with Greg Wilson on "Cutting Edge HTML". One of the APIs I demonstrated to the audience was the <a href="http://www.w3.org/TR/page-visibility/">Page Visibility API</a>. As you can probably guess, this is a basic API to let you know if your page is visible to the end user. It doesn't have complete support yet, but it is (yet again) another great example of something you can add to your code with relative ease to enhance the experience for your end users.

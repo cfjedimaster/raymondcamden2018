@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/12/First-draft-of-UPS-Package-Released
+guid: 1707
 ---
 
 Yesterday I <a href="http://ray.camdenfamily.com/index.cfm/2006/12/11/What-can-Brown-do-for-me-How-about-a-provide-an-easy-to-use-service">complained</a> about how much of a pain it was to get access to UPS's API service. Once I did get in - the docs weren't terribly helpful either. I was able to eventually find what I needed though early this morning. With that I'm happy to announce the initial release of the UPS Package (get it, UPS Package! I kill me). 

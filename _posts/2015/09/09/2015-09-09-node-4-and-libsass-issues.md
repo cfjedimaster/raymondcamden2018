@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/09/09/node-4-and-libsass-issues
+guid: 6748
 ---
 
 Yesterday I updated to <a href="https://nodejs.org/en/">Node.js 4</a> and today I noticed problems with two apps, <a href="http://harpjs.com">Harp</a> and <a href="http://ionicframework.com">Ionic</a>. Harp was totally broken but Ionic only had issues with the Gulp script. I tried various things, like uninstalling and reinstalling node-sass and Harp itself, but nothing worked. Finally, I found this bug report:

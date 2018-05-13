@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/03/04/Thank-you-OOO-Notice
+guid: 1137
 ---
 
 Whoever got me Gun from my wishlist, thank you. Once again Amazon didn't share the details. 

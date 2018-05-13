@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/04/ColdFusin-9-AIR-Session-MAX
+guid: 3082
 ---
 
 Rakshith of Adobe sent me a note about the updated session description for his class at MAX: <a href="http://max.adobe.com/na/sessions/browser/#572">ColdFusion Powered AIR</a>

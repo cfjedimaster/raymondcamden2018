@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/05/14/Adding-Filter-as-you-type-support-to-IndexedDB
+guid: 4616
 ---
 
 One truly disappointing aspect of IndexedDB is that there is no (simple) support for search across your data. It is very much based on the idea of knowing your keys and fetching data based on those keys. You can easily retrieve the "Ray" user object, but you can't search for user objects that have an age within a certain range and a skill property of so and so. That's not to imply you can't do some sorting and filtering though.

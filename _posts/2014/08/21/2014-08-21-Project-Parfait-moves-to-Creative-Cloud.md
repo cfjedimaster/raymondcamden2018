@@ -6,6 +6,7 @@ categories: [design,development]
 tags: []
 banner_image: 
 permalink: /2014/08/21/Project-Parfait-moves-to-Creative-Cloud
+guid: 5292
 ---
 
 <p>

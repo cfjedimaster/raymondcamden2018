@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/12/14/Lamest-command-line-tool-ever
+guid: 1712
 ---
 
 Today I needed to add Subversion as a Windows service. The docs pointed me to the "sc" tool. This seemed like a simple tool but for the life of me I couldn't get it to work. Every time I ran the tool I would get a help message back. Here is an example of what I was trying to run:

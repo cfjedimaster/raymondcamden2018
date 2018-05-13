@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/09/13/Mean-People-Suck
+guid: 2346
 ---
 
 I probably shouldn't blog this. I'm mad. I had a <a href="http://www.raymondcamden.com/index.cfm/2007/9/13/CS3-doesnt-like-me--can-anyone-help">frustrating</a> day. This is probably the worst time to blog. 

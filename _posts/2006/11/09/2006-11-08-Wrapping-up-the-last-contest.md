@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/09/Wrapping-up-the-last-contest
+guid: 1642
 ---
 
 I admit it. I dropped the ball. My last contest, the <a href="http://ray.camdenfamily.com/index.cfm/2006/6/11/Advanced-ColdFusion-Contest-Announced">Advanced ColdFusion Contest</a>, kind of went off without much fanfare. Mainly because I just let life kinda overly occupy me. That and a new job made it a bit easy to get forgetful. For that - I apologize. In case you forgot, the contest was to design an application that would scan code and look for best practices, code style issues, etc.

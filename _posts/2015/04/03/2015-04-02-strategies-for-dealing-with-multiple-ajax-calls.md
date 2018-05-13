@@ -6,6 +6,7 @@ categories: [development,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2015/04/03/strategies-for-dealing-with-multiple-ajax-calls
+guid: 5949
 ---
 
 Let's consider a fairly trivial, but probably typical, Ajax-based application. I've got a series of buttons:

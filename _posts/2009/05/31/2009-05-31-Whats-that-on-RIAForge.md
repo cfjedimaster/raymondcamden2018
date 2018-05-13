@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2009/05/31/Whats-that-on-RIAForge
+guid: 3377
 ---
 
 First off - sorry for the downtime at <a href="http://www.riaforge.org">RIAForge</a> this weekend. I was out of town until yesterday afternoon, and just got time to work on it today. Turned out to be kind of a silly issue. The host had contacted the account owners (other people at Adobe) about a required IP update, and I never got the news. I've made sure they know to contact me from now on so something like this shouldn't happen again.

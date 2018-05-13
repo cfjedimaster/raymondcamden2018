@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/08/ORM-Entity-not-available-Check-your-logs
+guid: 3712
 ---
 
 This afternoon I was working on a set of persistent entities called event, eventtype, eventstatus, and eventpriority. Event is the "core" entity with hooks to status, type, and priority. When everything was done I whipped up a quick test:

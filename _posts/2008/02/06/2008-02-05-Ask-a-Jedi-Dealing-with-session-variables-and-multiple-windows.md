@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/06/Ask-a-Jedi-Dealing-with-session-variables-and-multiple-windows
+guid: 2633
 ---
 
 Michael asks an interesting question about a conflict he is having with multiple windows and session data:

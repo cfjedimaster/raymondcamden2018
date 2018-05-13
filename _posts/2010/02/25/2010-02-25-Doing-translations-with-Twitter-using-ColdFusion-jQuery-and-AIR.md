@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/02/25/Doing-translations-with-Twitter-using-ColdFusion-jQuery-and-AIR
+guid: 3734
 ---
 
 Earlier today I saw Adobe blogger <a href="http://blogs.adobe.com/jd/">John Dowdell</a> retweet a request from a user looking for a way to do translations of tweets. Now - I know that some of my readers are <b>strongly</b> against machine translation. I get why. But - when I saw this the first thing I thought of was Google's excellent API for doing translations. I've <a href="http://www.raymondcamden.com/index.cfm/2009/10/26/Quick-ColdFusionjQuery-Google-Ajax-Language-Example">blogged</a> about this before. It is fairly simple to take some text, tell Google to translate it, and then work with the result. 

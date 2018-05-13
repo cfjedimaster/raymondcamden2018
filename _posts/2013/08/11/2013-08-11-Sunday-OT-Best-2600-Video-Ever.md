@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2013/08/11/Sunday-OT-Best-2600-Video-Ever
+guid: 5004
 ---
 
 As someone who grew up with a 2600, I can say this is the best video on the system ever. I love the River Raid segment. 

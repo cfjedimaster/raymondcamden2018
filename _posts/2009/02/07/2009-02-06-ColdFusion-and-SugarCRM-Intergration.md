@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/07/ColdFusion-and-SugarCRM-Intergration
+guid: 3227
 ---
 
 If you would like to integrate your ColdFusion site with SugarCRM, please see the new <a href="http://coldsugar.riaforge.org/">ColdSugar</a> project at RIAForge. This is a simple CFC that allows for complete integration with a SugarCRM account. You can get any kind of data and perform updates as well. I wish I could say there was something sexy about this code, but their API was relatively simple to work with.

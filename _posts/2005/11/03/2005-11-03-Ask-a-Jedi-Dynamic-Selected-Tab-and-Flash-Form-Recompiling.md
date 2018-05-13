@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/03/Ask-a-Jedi-Dynamic-Selected-Tab-and-Flash-Form-Recompiling
+guid: 897
 ---
 
 Gerald asks, 

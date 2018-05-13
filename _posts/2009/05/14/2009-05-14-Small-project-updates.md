@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/14/Small-project-updates
+guid: 3355
 ---
 
 First off, sorry for the short amount of blogging this week. I've got some personal matters tomorrow so I've been working hard all week to take most of tomorrow off, <i>and</i> I've got jury duty coming up on Monday which is putting me in a slight panic mode as well. As an independent contractor, jury duty is going to be pretty tough if I can't get out of it. I did do a few small updates this week to my open source projects. (And by "I" I mean reviewed and uploaded, which is the way good projects should work, right? :)

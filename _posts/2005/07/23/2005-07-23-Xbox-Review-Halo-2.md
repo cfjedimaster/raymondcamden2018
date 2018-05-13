@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2005/07/23/Xbox-Review-Halo-2
+guid: 642
 ---
 
 This afternoon I finally finished Halo 2 for XBox. I had played almost all of Halo 1 for the PC, and while I was impressed by the game in general, it got to be extremely repetitive towards the end. The story was interesting – but not enough of a "hook" for me to actually finish it. Multiplayer was <i>very</i> fun, however, and was a frequent method of relaxing at my company after development meetings.

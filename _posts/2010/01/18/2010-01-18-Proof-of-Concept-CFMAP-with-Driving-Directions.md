@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/01/18/Proof-of-Concept-CFMAP-with-Driving-Directions
+guid: 3685
 ---
 
 Earlier today a <a href="http://www.raymondcamden.com/index.cfm/2009/12/27/CFMAP-and-Centering#c95CCD361-B715-20D5-A375B11FE73D1255">reader asked</a> about driving directions and CFMAP. At lunch I worked on a quick proof of concept. Please note that this could be done better, cleaner, etc, but it works, and is kinda cool, so hopefully it is enough to get people started.

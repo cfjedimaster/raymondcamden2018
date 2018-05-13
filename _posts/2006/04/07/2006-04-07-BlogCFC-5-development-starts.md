@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/07/BlogCFC-5-development-starts
+guid: 1195
 ---
 
 So it's been quite a long time since the last release of BlogCFC. I've finally started development of version 5. Last night I started on the administrator. The blog uses what is called "designmode" to allow you to edit on the page. This was based off Spectra (may it rest in peace). While this is handy for simply popping up a window and writing a quick article, it really isn't great for administration. As my blog has grown, I've really felt constrained by the decision to not have a "real" admin and now I'm finally doing something about it. 

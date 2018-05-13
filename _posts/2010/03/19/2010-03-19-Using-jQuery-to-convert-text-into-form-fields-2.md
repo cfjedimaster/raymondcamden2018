@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/03/19/Using-jQuery-to-convert-text-into-form-fields-2
+guid: 3756
 ---
 
 Many months ago I <a href="http://www.raymondcamden.com/index.cfm/2009/9/18/Using-jQuery-to-convert-text-into-form-fields#c10564176-B748-CDC1-1EA6C99B367722E5">posted</a> a blog entry describing how to use jQuery to turn a text item into a drop down. Read the older entry for more information on what I mean, but the basic gist is - you click an edit link and a piece of text turns into a drop down. This worked fine but a user asked about converting the drop down back into plain text. I worked on it a bit and it turns out it isn't that difficult.

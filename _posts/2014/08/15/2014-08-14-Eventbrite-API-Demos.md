@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/08/15/Eventbrite-API-Demos
+guid: 5287
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/06/23/PhoneGapCordova-File-System-questions
+guid: 5252
 ---
 
 <p>

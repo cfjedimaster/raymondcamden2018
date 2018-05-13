@@ -6,6 +6,7 @@ categories: [development]
 tags: [harpjs]
 banner_image: 
 permalink: /2015/09/11/working-with-directories-and-harpjs
+guid: 6751
 ---
 
 First off - a quick apology. The blogging here has been <i>extremely</i> slow over the past few weeks. Two weeks ago I was in Australia and New Zealand. This week I've been in Malaysia, Singapore, and Manila. I'm writing this post in Hong Kong as I wait to board my 14 hour flight back to Texas. (Yes, I'm looking forward to Texas, imagine that.) I don't normally travel this much so I've been pretty much exhausted for the past three weeks. It has been an incredible experience, and I got to really work on some presentations too, but I'm definitely ready to go home and stay home for a while. 

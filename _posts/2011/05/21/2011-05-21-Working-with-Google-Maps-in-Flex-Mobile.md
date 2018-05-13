@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/21/Working-with-Google-Maps-in-Flex-Mobile
+guid: 4242
 ---
 
 So - I wasn't sure if I should post this blog entry. Why? What I'm describing is a bit of a failure. But the more I thought about it the more I figured that the experience I went through could be useful for others. Plus - there's always the chance that I made a simple mistake and someone will point it out. I then get to pretend that it was a test and quickly fix my code! That being said - what I'm about to describe should not be something you should try yourself. At least not in the same way I did. Ok - so enough preamble!

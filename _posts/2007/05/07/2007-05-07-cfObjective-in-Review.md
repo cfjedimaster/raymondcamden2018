@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/07/cfObjective-in-Review
+guid: 2015
 ---
 
 I arrived back from cfObjective late last night(*) and I have to say that I was <b>extremely</b> impressed by it. Here are a few thoughts in no particular order.

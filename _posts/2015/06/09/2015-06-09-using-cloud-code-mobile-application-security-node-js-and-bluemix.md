@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix,cordova,mobilefirst]
 banner_image: 
 permalink: /2015/06/09/using-cloud-code-mobile-application-security-node-js-and-bluemix
+guid: 6275
 ---
 
 So, first off, forgive the somewhat long, rambly title. I'm working on a new project that involves quite a few moving parts - many of which are new to me. I ran into some trouble along the way (well, a lot of trouble), and this morning I finally broke through and got things working. I want to give huge thanks to my coworker David Cariello for helping me out and not losing patience with me. 

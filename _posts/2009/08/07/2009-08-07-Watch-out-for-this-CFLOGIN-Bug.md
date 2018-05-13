@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/07/Watch-out-for-this-CFLOGIN-Bug
+guid: 3478
 ---
 
 My readers know I'm not a fan of the CFLOGIN feature in ColdFusion. It's one of the few areas where I've had continuous frustration and disappointment. Since just about everything else in ColdFusion is absolutely dreamy and gives me butterflies in the stomach, I don't mind that much. But I had to share this finding that was sent to me by Tony. His problem was this that users were unable to login even though he knew they were using a proper username and password. He did a bit of debugging and noticed something odd.

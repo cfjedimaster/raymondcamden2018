@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/26/Off-to-CFUNITED-And-a-few-random-notes
+guid: 2152
 ---
 
 Once again I'm sitting in the airport in Lafayette about to fly off. This time though it is to CFUNITED and I'm giddy with excitement. Ok, maybe not giddy per se. But I'm grinning like the Cheshire Cat and can't wait to arrive. So far everything is on time, but with Delta, who knows what will happen.

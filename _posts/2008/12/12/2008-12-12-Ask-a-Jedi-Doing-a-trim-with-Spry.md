@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/12/Ask-a-Jedi-Doing-a-trim-with-Spry
+guid: 3145
 ---
 
 OJ asks:

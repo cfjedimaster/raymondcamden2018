@@ -6,6 +6,7 @@ categories: [books,coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/08/amazon-shows-new-wacks
+guid: 2262
 ---
 
 I love that title - for those who don't get it - WACK = Web Application Construction Kit. The blog Philosophy Me just released an <a href="http://www.philosophyme.com/index.cfm?blog=64">entry</a> talking about the new books, so I thought I'd link it up here as well. I think the cover design is pretty darn cool.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/28/Avoid-those-hidden-features
+guid: 2307
 ---
 
 I've said more than once that folks should avoid using hidden, undocumented features in ColdFusion. This warning applies especially to the ServiceFactory. Did you know that in ColdFusion 8 you can restrict access to the factory? In the settings page there is a new option: 

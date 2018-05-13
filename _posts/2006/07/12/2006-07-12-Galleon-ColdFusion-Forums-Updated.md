@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/12/Galleon-ColdFusion-Forums-Updated
+guid: 1396
 ---
 
 After a good 9 or so months, I've finally updated <a href="http://ray.camdenfamily.com/projects/galleon">Galleon ColdFusion Forums</a>. Version 1.6 contains the following changes:

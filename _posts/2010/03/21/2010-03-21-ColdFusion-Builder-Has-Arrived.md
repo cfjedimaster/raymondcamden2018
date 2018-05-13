@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/03/21/ColdFusion-Builder-Has-Arrived
+guid: 3758
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Something tells me this may be a bit early, so if you don't see it quite yet, give it a few minutes. It looks like Adobe's newest product, ColdFusion Builder, has officially arrived. I'm seeing it highlighted <a href="http://www.adobe.com/products/coldfusion/?promoid=FCRSO">here</a> along with ColdFusion. You can download the <a href="http://www.adobe.com/cfusion/tdrc/index.cfm?product=coldfusion_builder">trial</a> here (note, that link will probably require you to register/sign in first). 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/04/16/My-current-least-favorite-Mac-feature
+guid: 2772
 ---
 
 Time for a quick rant. In general, I love that I've left the Windows world behind. I love OSX. But - like my own software, it isn't perfect. Today I want to complain about something that has bugged me since I first switched.

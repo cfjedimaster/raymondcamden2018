@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/01/21/drag-and-drop-on-file-inputs-in-html
+guid: 5575
 ---
 
 A big thank you to <a href="http://sarasoueidan.com/">Sara Soueidan</a> for sharing this on Twitter. I've worked with a few web apps that allow for drag and drop file uploads and when it works well, it is really handy. In fact, being able to drag and drop an image onto my Wordpress editor is one of the things I'm most happy about since my migration. But did you know that you can drag and drop a file onto a regular HTML input file field?

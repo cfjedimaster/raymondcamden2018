@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/16/Ask-a-Jedi-Using-UDFs-with-an-Applicationcfc-Framework
+guid: 851
 ---
 
 Talk about timing. I'm at MAX and will be presenting on Application.cfc. Today this question comes in:

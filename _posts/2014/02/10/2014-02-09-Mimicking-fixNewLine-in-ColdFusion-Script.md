@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/02/10/Mimicking-fixNewLine-in-ColdFusion-Script
+guid: 5149
 ---
 
 <p>

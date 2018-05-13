@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/02/Interesting-CFTIMER-Behavior
+guid: 1936
 ---
 
 A few days ago I was working on an update to <a href="http://coldfire.riaforge.org">ColdFire</a> (mainly support for CFTIMER), when I ran into an interesting problem. When you use <a href="http://www.cfquickdocs.com/?getDoc=cftimer">CFTIMER</a>, you have a few options for how to display the timer information. Those options are inline, outline, comment, and debug. I wanted to ensure that ColdFire only picked up on timer information that used type=debug. Turned out I didn't need to worry about it. Internally - ColdFusion didn't record any cftimer call that wasn't type=debug. But I kept my inline cftimer test in so I could be sure it was acting like I thought it would.

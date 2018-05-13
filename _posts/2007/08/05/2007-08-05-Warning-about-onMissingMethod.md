@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/05/Warning-about-onMissingMethod
+guid: 2253
 ---
 
 Tonight I played around with onMissingMethod, a cool new feature in ColdFusion 8. See Ben Nadel's <a href="http://www.bennadel.com/index.cfm?dax=blog:868.view">entry</a> on it for more detail. I knew that the method took two arguments - the name of the method invoked and a struct of the arguments that was passed.

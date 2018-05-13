@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/08/02/Using-jQuery-to-load-HTML-and-filter-it-by-N-selectors
+guid: 4692
 ---
 
 Forgive the somewhat awkward title. Hopefully an explanation will make things a bit clearer. I was working on an application yesterday that needed to load in a HTML file via AJAX and display it on screen. The HTML happened to be documentation so I was going to simply display it as is on screen. Since I wasn't doing any processing, my code was very simple:

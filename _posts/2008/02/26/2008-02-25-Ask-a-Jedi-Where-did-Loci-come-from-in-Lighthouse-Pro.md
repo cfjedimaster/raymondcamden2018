@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/26/Ask-a-Jedi-Where-did-Loci-come-from-in-Lighthouse-Pro
+guid: 2675
 ---
 
 This really isn't a ColdFusion question, but I thought others may find it interesting. Jeff asks:

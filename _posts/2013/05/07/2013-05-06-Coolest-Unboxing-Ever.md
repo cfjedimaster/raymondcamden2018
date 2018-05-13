@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/05/07/Coolest-Unboxing-Ever
+guid: 4926
 ---
 
 I've never understood the appeal of "unboxing videos". Don't get me wrong - I love to get new tech and I love the open it up and play with it. But watching someone else do that? Lame. But I just had to share my own personal experience with this. After my first MAX presentation today (demo assets will be posted tomorrow, sorry, this was far cooler), a woman walked up to me and handed me her "business card". Here is what she gave me:

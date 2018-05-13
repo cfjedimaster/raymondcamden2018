@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/11/28/Firefox-3-and-Firebug
+guid: 2501
 ---
 
 I've been using Firefox 3 for a few days now and so far it's worked <i>very</i> well. To be honest, I never knew why folks thought FF2 on the Mac was ugly. I didn't get it. But now that I've been running FF3, I see that it is a bit nicer in form fields. That by itself is <b>not</b> enough reason to get FF3, at least not in my opinion, but other aspects are nice as well.

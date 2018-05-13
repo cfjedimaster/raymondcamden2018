@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/14/Working-with-RARs-in-ColdFusion-Why-I-did-it
+guid: 4196
 ---
 
 A few months ago I wrote a <a href="http://www.raymondcamden.com/index.cfm/2011/2/21/Working-with-RARs-in-ColdFusion">blog post</a> about working with RAR files in ColdFusion. The short story is that RAR, a file archive format, is not supported by cfzip. Surprisingly there doesn't seem to be in Java packages out there that provide full integration with the format. I ended up writing a wrapper around the free 7-Zip command line program. I mentioned this in passing but the real reason I wanted to build this was to do something with the CBR files (Comic Book files) I had on my hard drive. I thought  it would be interesting to write code to extract the cover image from the files. You could imagine many uses for this. Perhaps simply creating a nice HTML page of covers would be neat. Whatever. To be honest, it's kind of pointless - but that hasn't stopped me before so why now. Here is what I built.

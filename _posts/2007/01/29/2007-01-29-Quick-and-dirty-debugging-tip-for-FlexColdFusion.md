@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/01/29/Quick-and-dirty-debugging-tip-for-FlexColdFusion
+guid: 1802
 ---
 
 There are multiple methods of debugging applications, including the very cool <a href="http://www.fusion-reactor.com/fusiondebug/">FusionDebug</a>, log files, <a href="http://kevinlangdon.com/serviceCapture/">ServiceCapture</a>, and the debugging rolled into Flex Builder 2 itself. Here is a quick tip for another method to use. It's ugly - but effective.

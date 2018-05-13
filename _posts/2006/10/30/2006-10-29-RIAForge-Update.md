@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/10/30/RIAForge-Update
+guid: 1621
 ---
 
 Just a quick note to publicly thank everyone who has posted their project to <a href="http://www.riaforge.org">RIAForge</a>. How are we doing? Check out these stats:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/02/14/Tell-MS-Word-to-stop-pasting-in-styles
+guid: 4524
 ---
 
 This is something that probably everyone knows, and frankly, if I had taken the time to actually look it would have been obvious, but credit goes to <a href="http://remotesynthesis.com/">Brian Rinaldi</a> for letting me know about it.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/29/Dynamic-debug-templates-in-ColdFusion
+guid: 4215
 ---
 
 Robby asked:

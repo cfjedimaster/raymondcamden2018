@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/12/31/Working-with-Flex-AIR-and-SQL
+guid: 2566
 ---
 
 I decided to give myself a new AIR/Flex project, one that would specifically use the built-in database. My project was a simple one - a time tracker.

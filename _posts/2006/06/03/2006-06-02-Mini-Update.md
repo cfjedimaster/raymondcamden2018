@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/03/Mini-Update
+guid: 1316
 ---
 
 So I know people are just waiting on baited breath to hear the latest on my Mini Cooper, so I thought I'd give an update. About a week ago I sent in a very brief summary of my issues on the <a href="http://www.mini.com">Mini</a> web site. I did not expect to hear back. 

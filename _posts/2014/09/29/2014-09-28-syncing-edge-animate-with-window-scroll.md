@@ -6,6 +6,7 @@ categories: [design,development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/09/29/syncing-edge-animate-with-window-scroll
+guid: 5319
 ---
 
 <p>

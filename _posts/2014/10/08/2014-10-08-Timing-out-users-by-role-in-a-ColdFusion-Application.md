@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/10/08/Timing-out-users-by-role-in-a-ColdFusion-Application
+guid: 5328
 ---
 
 <p>

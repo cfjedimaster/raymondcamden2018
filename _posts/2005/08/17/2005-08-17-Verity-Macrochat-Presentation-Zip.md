@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/17/Verity-Macrochat-Presentation-Zip
+guid: 705
 ---
 
 For those who attended my presentation today, here is the promised <a href="http://ray.camdenfamily.com/downloads/verity_macro.zip">download</a>. This contains the Powerpoint plus all the code files, including some code not showed in the presenation. Enjoy.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/19/Lighthouse-Pro-Update
+guid: 1222
 ---
 
 I've got a minor update to my ColdFusion based bug tracker, <a href="http://ray.camdenfamily.com/projects/lhp">Lighthouse Pro</a>. The update corrects a bug reported this morning involving bad characters in the issue fields. I can't stand bad characters. They make me angry. And hungry. Hungry and angry and a little nervous.

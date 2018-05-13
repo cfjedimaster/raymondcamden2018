@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2007/05/07/Ask-a-Jedi-Sizing-a-window-with-ColdFusion
+guid: 2016
 ---
 
 Jay asks:

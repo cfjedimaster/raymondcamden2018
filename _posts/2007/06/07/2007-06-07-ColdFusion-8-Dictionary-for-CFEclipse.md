@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/07/ColdFusion-8-Dictionary-for-CFEclipse
+guid: 2101
 ---
 
 Mark Drew just announced an earlier version of the <a href="http://www.markdrew.co.uk/blog/index.cfm/2007/6/7/CF8-Syntax-Dictionaries-for-CFEclipse">ColdFusion 8 dictionary</a> for CFEclipse. Grab it now.

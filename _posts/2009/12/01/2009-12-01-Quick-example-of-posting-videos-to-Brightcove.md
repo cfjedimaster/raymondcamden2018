@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/01/Quick-example-of-posting-videos-to-Brightcove
+guid: 3628
 ---
 
 A reader asked for help using <a href="http://www.brightcove.com">Brightcove</a>'s API to upload a video using ColdFusion. While I do not plan on writing a full wrapper, or going into great detail, I thought a quick blog post on what he tried, and why it failed, could help others who plan on using the service.

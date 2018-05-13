@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/11/12/ColdFusion-Example-Using-jQuery-UI-Accordion-with-a-ColdFusion-query
+guid: 5348
 ---
 
 <p>

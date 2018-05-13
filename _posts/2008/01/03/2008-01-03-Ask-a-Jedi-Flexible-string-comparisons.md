@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/03/Ask-a-Jedi-Flexible-string-comparisons
+guid: 2573
 ---
 
 Martin asks a pretty interesting question about comparing strings:

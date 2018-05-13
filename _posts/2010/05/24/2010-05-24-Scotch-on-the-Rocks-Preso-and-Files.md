@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/24/Scotch-on-the-Rocks-Preso-and-Files
+guid: 3830
 ---
 
 I've embedded my Scotch on the Rocks presentation below. Remember you can download the attachment (presentation plus all sample code) in the Flash embed. I'm going to do a separate blog post on the Mirror and Zip/Email extensions I mentioned tomorrow.

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/16/What-do-you-need-to-get-for-mobile-development
+guid: 4496
 ---
 
 Nerudo asked me:

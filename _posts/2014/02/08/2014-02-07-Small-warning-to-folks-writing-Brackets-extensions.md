@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/02/08/Small-warning-to-folks-writing-Brackets-extensions
+guid: 5148
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/07/05/DS-Lite-Review
+guid: 1375
 ---
 
 Is it DSLite? DSlite? No idea. Anyway, before my trip to CFUNITED, I decided to pick up a DS Lite. I never purchased the DS as it seemed like a waste of time. I mean, yes, Nintendo knows how to make a handheld, but they seemed very... coy about the DS. It was <b>not</b> their "new" handheld to replace the Gameboy. Rather, it was "another" handheld. Sure it played the same games, but from a marketing perspective it really gave me the heebie-jeebies. One company working on two different handhelds at the same time seems risky, even if that company has a proven track record in the area.

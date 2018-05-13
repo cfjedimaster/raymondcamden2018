@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/11/20/ColdFusion-Job-Opening-Infinite-Web-Design
+guid: 4786
 ---
 
 Passing this along...

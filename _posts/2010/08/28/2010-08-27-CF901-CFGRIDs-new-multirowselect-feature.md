@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/28/CF901-CFGRIDs-new-multirowselect-feature
+guid: 3926
 ---
 
 Earlier this week a user asked me to look into something odd with CF901's new multirowselect feature for cfgrid. If you haven't played with this yet, it is a way to enable multiple row selections in a grid. Unfortunately it doesn't quite work as advertised, but in this blog entry I'll tell you how to <i>make</i> it work.

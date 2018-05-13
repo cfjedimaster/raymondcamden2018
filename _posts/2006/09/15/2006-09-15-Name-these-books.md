@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2006/09/15/Name-these-books
+guid: 1533
 ---
 
 Ok, so this is off topic, which is something I rarely do (ahem), but I'm trying to remember the name of a book series I read back in high school. Here are a few random facts about the book, and some may not be 100% right.

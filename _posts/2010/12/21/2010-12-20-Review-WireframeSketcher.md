@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2010/12/21/Review-WireframeSketcher
+guid: 4062
 ---
 
 This may come as a shock to some people, but when it comes to design, I'm not exactly the most skilled developer. My idea of design is make stuff as ugly as possible so that it comes off as some kind of intentionally retro theme. While I don't expect to be making color choices soon, I have found myself looking for a good way to mock up basic wireframes. Not so much for my ColdFusion development but for my AIR applications. I've tried some solutions in the past but nothing really worked for me. So when Peter Severin contacted me a few days ago and told me to check out his product, <a href="http://wireframesketcher.com/">WireframeSketcher</a>, I warned him that I was probably not going to care for it. But after playing with it for a few days I'm really beginning to dig it.

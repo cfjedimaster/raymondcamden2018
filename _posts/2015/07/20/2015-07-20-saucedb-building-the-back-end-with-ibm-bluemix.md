@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: [bluemix,cordova,ionic]
 banner_image: 
 permalink: /2015/07/20/saucedb-building-the-back-end-with-ibm-bluemix
+guid: 6428
 ---
 
 Welcome to another post detailing my efforts to build an <a href="http://ionicframework.com">Ionic</a>-based mobile app backed by Node.js and Cloudant on <a href="https://ibm.biz/IBM-Bluemix">IBM Bluemix</a>. In my <a href="http://www.raymondcamden.com/2015/07/15/saucedb-working-on-the-front-end">last post</a>, I focused on the front end of the application. I talked about the various screens I built and how my service layer used mock data to generate data. In today's post, I'm going to setup, design, and connect a back end server to start replacing some of that mock data with real information. As a reminder, you can find the initial post in this series <a href="http://www.raymondcamden.com/2015/07/14/new-demo-project-saucedb">here</a>,

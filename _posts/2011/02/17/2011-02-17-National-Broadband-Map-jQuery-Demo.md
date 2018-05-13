@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/02/17/National-Broadband-Map-jQuery-Demo
+guid: 4129
 ---
 
 Earlier today an anonymous reader (not sure why they didn't share their name) shared a cool site with me - the <a href="http://www.broadbandmap.gov/">National Broadband Map (www.broadbandmap.gov)</a>. The site is a collection of data related to geography, education, age, income factors compared to broadband access. It has multiple ways to parse the data. For example, just entering your zip (here is <a href="http://www.broadbandmap.gov/internet-service-providers/70508/lat=30.1471824/long=-92.033638/">mine</a>) returns a report showing local providers and their advertised speeds. You can also use a "Google-Map-ish" type interface (<a href="http://www.broadbandmap.gov/technology">here</a>) to see factors broadly across the country. But the coolest of all is that there is a <b>large</b> list of APIs available on their <a href="http://www.broadbandmap.gov/developer">developer</a> page. Multiple APIs are offered in both JSON and XML flavors. As of my testing tonight their JSONP format is <i>not</i> working for me. I've sent an email to them but it could certainly be my fault. I thought it would be kind of fun to build a demo with their data. While my demo isn't as pretty as theirs, it highlights some interesting things that I've never had a chance to play with before in jQuery. Let's take a look.

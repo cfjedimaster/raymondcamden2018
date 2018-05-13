@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/06/30/CFUNITED-Update
+guid: 612
 ---
 
 So, I haven't been blogging much about the conference since I've spent so much time on the phone dealing with Delta, or "Idiots with Wings." The conference this year is simply amazing.  It's always been good - but this year is even better. The quality of sessions - the keynotes - the facility - are all top notch. I know everyone is saying this, but this is, without a doubt, the best ColdFusion conference around.

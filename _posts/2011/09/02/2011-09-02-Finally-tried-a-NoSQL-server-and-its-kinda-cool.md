@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/02/Finally-tried-a-NoSQL-server-and-its-kinda-cool
+guid: 4351
 ---
 
 About a year or so ago I was lucky enough to catch a presentation from Marc Esher where he discussed NoSQL and <a href="http://www.mongodb.org/">MongoDB</a> in particular. I found it interesting - but I filed it away as one of those cool technologies that I probably wouldn't ever have a good reason to actually use. Fast forward a year or so and I found myself thinking more about <a href="http://www.openamplify.com/">OpenAmplify</a> and their API. Readers here know I've done a few blog posts on their text analysis API. One of the things I normally mention in my posts is that their API could be critical for a site that contains a lot of user generated content. It occurred to me that I know a site like that... this one.

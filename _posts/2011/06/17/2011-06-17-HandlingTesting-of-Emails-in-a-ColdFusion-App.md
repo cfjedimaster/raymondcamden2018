@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/17/HandlingTesting-of-Emails-in-a-ColdFusion-App
+guid: 4271
 ---
 
 prims asked me:

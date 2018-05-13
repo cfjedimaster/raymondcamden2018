@@ -6,6 +6,7 @@ categories: [design,development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/09/19/CSS-Animation-Workshop
+guid: 5043
 ---
 
 <p>

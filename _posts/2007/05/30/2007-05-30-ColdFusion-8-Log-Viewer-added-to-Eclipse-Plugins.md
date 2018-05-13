@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/30/ColdFusion-8-Log-Viewer-added-to-Eclipse-Plugins
+guid: 2075
 ---
 
 When grabbing the new ColdFusion 8 server, don't forget to pick up the plugins for Eclipse. Adobe has had CFML plugins for Eclipse for a little while now (although you had to download Flex Builder 2 to get them). But this new version adds some new cool new tools. One of them is the Log Viewer.

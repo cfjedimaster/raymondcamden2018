@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/31/ColdFusion-Sample-Upload-and-Parse-an-Excel-File
+guid: 4252
 ---
 
 In this ColdFusion sample I'm going to demonstrate how to allow users to upload Excel files and use ColdFusion to both validate and read the content within. Let's begin by designing a simple upload form.

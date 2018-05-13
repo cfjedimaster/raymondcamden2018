@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/04/Even-More-On-URL-Rewriting
+guid: 670
 ---
 
 I thought it might be helpful if I shared the URL Rewriting rules I built for the <a href="http://mg.cflib.org">Model-Glue version of CFLib</a>. Right now, only two events work, showLibraries and showLibrary. Here are the rules as defined in Apache:

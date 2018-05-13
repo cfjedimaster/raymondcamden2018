@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/05/Building-CRUD-with-Transfer
+guid: 3085
 ---
 
 I decided to not wait till late night for my next Transfer post and instead write during lunch. Young and the Restless is a good one today so hopefully I won't get distracted!

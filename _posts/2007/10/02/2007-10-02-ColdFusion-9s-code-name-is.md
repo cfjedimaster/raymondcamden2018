@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/02/ColdFusion-9s-code-name-is
+guid: 2388
 ---
 
 I'm a bit late blogging this - but the code name for ColdFusion 9 is Jedi.

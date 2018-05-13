@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/06/ColdFusion-9-fixes-arrayIsDefined
+guid: 3772
 ---
 
 I coulda sworn I had blogged this earlier but it didn't show up on my search. This just came up in a meeting at work so I thought I'd share. ColdFusion 8 added the arrayIsDefined function. As you can probably guess it let's you check to see if an array has a value at a certain position. However, it had one pretty silly drawback. If your array was had a size of 10 and you checked position 11, you would get an error. Therefore to <i>really</i> check to see if a certain array position existed, you had to use this:

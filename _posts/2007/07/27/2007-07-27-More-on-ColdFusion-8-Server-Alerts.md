@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/27/More-on-ColdFusion-8-Server-Alerts
+guid: 2227
 ---
 
 A few days ago I blogged about <a href="http://www.raymondcamden.com/index.cfm/2007/7/25/Server-Monitor-Alerts-in-ColdFusion-8">server monitor alerts</a> in ColdFusion 8. I wanted to share a bit more information about them that I discovered this morning. Thanks to Tom Jordhal of Adobe for the help. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/19/FilesSlides-from-CFUNITED-Presentations
+guid: 2889
 ---
 
 Sorry for the delay in getting this out, but here are the slides and code from my presentations yesterday. My Saturday presentation is a repeat so I won't be reposting.

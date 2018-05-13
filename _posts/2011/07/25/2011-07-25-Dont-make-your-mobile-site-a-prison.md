@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/07/25/Dont-make-your-mobile-site-a-prison
+guid: 4307
 ---
 
 I've recently been doing a bit of complaining about Gawker and their network of blogs. I'm not talking about their big redesign (which I hated too but you can at least get out of), but rather their mobile versions. Every time I hit one of their sites on my Inspire or Xoom, I get pushed to their mobile site. I'm ok with that, and my own software does that as well. However, they do not offer any way out of the mobile site. My Xoom is a large tablet. It can handle a "real" desktop web site. Yet Gawker has decided that they know what view is best for my device and refuse to allow me to get out of it. As you can imagine, this bugs me to no end. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/05/31/Best-of-ColdFusion-10-PDF-Protector
+guid: 4636
 ---
 
 Welcome to the second entry in the <a href="http://www.raymondcamden.com/index.cfm/2012/2/29/Best-of-Adobe-ColdFusion-10-Beta-Contest">Best of ColdFusion 10</a> contest: The PDF Protector by <a href="http://lagaffe.be/blog/my-blog/">Guust Nieuwenhuis</a>. PDF Protector is a simple application that provides a quick way to add watermarks and copyright notices to PDF files. Due to the fact that it works with file uploads, I will not be hosting an online version of this application. Please download the bits at the <a href="https://github.com/Lagaffe/PDFProtector">GitHub repo</a> to play with it. 

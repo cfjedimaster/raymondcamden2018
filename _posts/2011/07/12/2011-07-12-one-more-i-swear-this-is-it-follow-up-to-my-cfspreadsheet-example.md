@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/12/one-more-i-swear-this-is-it-follow-up-to-my-cfspreadsheet-example
+guid: 4302
 ---
 
 Ok, I promise, pinky swear, etc, that this is the last version of the little Excel generator I've now mentioned in two blog posts. Yesterday's <a href="http://www.raymondcamden.com/index.cfm/2011/7/11/Quick-followup-to-my-CFSpreadSheet-Samples">blog post</a> demonstrated a modification to the application that dynamically generated the Excel data instead of saving it to a hard coded file. This worked great - but than a reader asked for one more slight modification - a preview.

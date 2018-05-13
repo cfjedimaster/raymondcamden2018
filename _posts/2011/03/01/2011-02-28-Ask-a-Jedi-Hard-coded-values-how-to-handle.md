@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/01/Ask-a-Jedi-Hard-coded-values-how-to-handle
+guid: 4142
 ---
 
 Chris asked:

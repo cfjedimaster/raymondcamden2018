@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/26/Spry-demo-check-for-a-valid-URL
+guid: 1862
 ---
 
 There has been a UDF released for a while now that would check to see if a URL is valid. Ben wrote <a href="http://www.cflib.org/udf.cfm?ID=1385">urlExists</a> over a year ago. Along with isValid(), you can check both the form and existence of a URL.

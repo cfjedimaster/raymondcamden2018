@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/23/Splitting-up-your-ColdSpringxml-file-in-a-ModelGlue-Application
+guid: 3538
 ---
 
 While I've used <a href="http://www.model-glue.com">Model-Glue</a> for many years now, I've only recently begun to seriously drink the <a href="http://www.coldspringframework.org">ColdSpring</a> kool-aid. The more I use ColdSpring, the more I appreciate how well it works with Model-Glue. I'm writing up some recommendations for Model-Glue application design, and one of the things that occurred to me is that while I typically recommend breaking up the ModelGlue.xml file into multiple files, it might also make sense to break up the ColdSpring.xml file. Right now this file contains the settings for your Model-Glue application (reload, debug, etc) <b>and</b> any custom beans you want defined. 

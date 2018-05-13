@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/01/21/My-biggest-regret-in-code
+guid: 4089
 ---
 
 I think it's perfectly natural (and expected!) to look back at the code you wrote last year (or last week even) and find things you would do better. If you can't do that then you are either not looking at your code with a critical eye or you aren't moving forward as a developer. That being said, I was thinking about something in the shower (sad, I know) and I thought I'd write about my biggest regret in terms of the code I've written. I've put out a lot of code as open source and I'm proud of that. If I look at the various "products" I've released I can see a definite change in my development skills over the years. But there is one mistake that I've made ever since the beginning and I <i>really</i> wish I could go back in time and change it. So what am I being so hard on myself about?

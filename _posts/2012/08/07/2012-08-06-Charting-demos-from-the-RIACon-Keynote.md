@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/08/07/Charting-demos-from-the-RIACon-Keynote
+guid: 4697
 ---
 
 Continuing with my <a href="http://www.raymondcamden.com/index.cfm/2012/8/6/WebSocket-example-with-keyword-highlighting">blog post</a> from yesterday, here are the three chart examples I shared demonstrating the updates in ColdFusion 10. These are <b>not</b> meant to represent everything you can do. I just thought they were kinda cool and demonstrated some of the extensibility of the new charting engine.

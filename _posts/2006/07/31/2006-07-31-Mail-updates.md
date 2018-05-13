@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/31/Mail-updates
+guid: 1440
 ---
 
 I got the mail server running early this morning, and while I'm not 100% sure things are ok, I think they are almost there.

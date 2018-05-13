@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/07/AngularJS-IndexedDB-Demo
+guid: 5147
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/08/07/My-Wife-Kicks-Butt
+guid: 2963
 ---
 
 And I'm not just saying that because she reads my blog. ;) Since Todd <a href="http://cfsilence.com/blog/client/index.cfm/2008/8/5/A-Major-Milestone-In-My-Marriage">bragged</a> on his wife a few days ago, I thought I'd do the same. While this isn't tech related, it means a heck of a lot to me and I'm incredibly proud of her. 

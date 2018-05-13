@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2013/10/22/Moving-from-dynamic-to-static-with-Harp
+guid: 5065
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/06/ColdFusionJedicom-lives-hopefully
+guid: 2096
 ---
 
 This is just a quick note to point out the new url for my site:

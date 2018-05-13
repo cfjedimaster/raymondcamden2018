@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/04/My-XMLProxycfm
+guid: 1450
 ---
 
 In my article, <a href="http://ray.camdenfamily.com/index.cfm/2006/7/28/Building-an-AJAX-Based-RSS-Pod">Building an AJAX Based RSS Pod</a>, I talked about using ColdFusion as a proxy to retrieve remote XML feeds in order to feed to Spry. Charlie suggested that it may be a good idea to actually show off this file. Let me show it - and then talk about how it could be done better.

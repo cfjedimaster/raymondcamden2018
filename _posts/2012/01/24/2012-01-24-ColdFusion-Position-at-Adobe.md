@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/24/ColdFusion-Position-at-Adobe
+guid: 4506
 ---
 
 Passing on this job notice from Adobe. It is a contract position with the possibility of converting to full time.

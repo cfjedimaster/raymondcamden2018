@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/05/Ask-a-Jedi-CFDOCUMENT-and-formatting
+guid: 3474
 ---
 
 Saul contacted me with an interesting little problem. He was using a simple textarea form field as a way to generate PDFs. So a user could enter some text, hit a button, and generate a PDF. For example:

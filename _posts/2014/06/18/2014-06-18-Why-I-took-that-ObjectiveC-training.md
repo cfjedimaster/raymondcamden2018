@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/06/18/Why-I-took-that-ObjectiveC-training
+guid: 5247
 ---
 
 <p>

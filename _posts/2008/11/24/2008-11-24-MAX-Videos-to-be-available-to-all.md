@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/11/24/MAX-Videos-to-be-available-to-all
+guid: 3118
 ---
 
 Wow, just read this over on Ted Patrick's blog:

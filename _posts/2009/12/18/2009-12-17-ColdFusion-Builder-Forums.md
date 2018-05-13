@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/12/18/ColdFusion-Builder-Forums
+guid: 3655
 ---
 
 Have a question about the new ColdFusion Builder beta? Want to help others learn how to use ColdFusion Builder? Be sure to visit the Lab's forums setup just for ColdFusion Builder:

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/06/16/Quick-example-of-RSS-URL-checking-with-jQuery-and-ColdFusion
+guid: 3848
 ---
 
 I'm working on a web site that allows people to enter RSS urls. These urls get parsed (via CFFEED) and displayed on a custom page. While I have support for handling bad RSS feeds, I wanted to create a quick demo where I'd use jQuery and ColdFusion to handle checking the RSS feeds while the user is working on the form. Here is what I came up with.

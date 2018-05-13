@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/19/My-cheesy-nondatabase-ColdFusion-Code-for-ModelGluecom
+guid: 2483
 ---
 
 I've already had a few requests to update the list of <a href="http://www.model-glue.com/sites.cfm">sites</a> over on the Model-Glue site. I thought I'd share the Super Cool code I used to build the page. I didn't want to use the database, so I whipped up the following precious bit of code:

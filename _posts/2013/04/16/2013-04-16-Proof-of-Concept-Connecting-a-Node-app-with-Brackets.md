@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/04/16/Proof-of-Concept-Connecting-a-Node-app-with-Brackets
+guid: 4910
 ---
 
 In one of the more recent <a href="http://brackets.io">Brackets</a> sprints, Node.js was added to the core of Brackets. If you read my blog you know I've been playing a bit with Node.js lately. I've yet to deploy any "real" web site/app using Node, but I've built a few applications and demos as a way to help learn the platform. In a recent Twitter conversation the idea of using Node.js within an extension came up and I had a good idea I thought I'd try out.

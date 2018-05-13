@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/26/Using-a-CFC-to-drive-content-to-cftooltip
+guid: 2988
 ---
 
 An AJAX quickie for you this morning. A user asked if it was possible to use a CFC to drive content to cftooltip. He had noticed that unlike other AJAX UI items, the cftooltip doesn't let you use a bind to point to a CFC/JavaScript/URL source. It only provides one argument - sourceForTooltip. 

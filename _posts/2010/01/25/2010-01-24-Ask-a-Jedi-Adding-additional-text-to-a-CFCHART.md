@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/25/Ask-a-Jedi-Adding-additional-text-to-a-CFCHART
+guid: 3695
 ---
 
 Alison asks:

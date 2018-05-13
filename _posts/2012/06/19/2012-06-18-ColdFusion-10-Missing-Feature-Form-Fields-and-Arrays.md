@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/06/19/ColdFusion-10-Missing-Feature-Form-Fields-and-Arrays
+guid: 4651
 ---
 
 Here is a feature that was missed from the docs that I think folks will be happy about. Credit for this find goes to Joe Zack and I'd like to thank Adam Cameron for bringing it to my attention. (And the proper people have been notified about the doc issue so hopefully the online versions will be updated soon to reflect this.) When posting form fields to a ColdFusion page, any form field with the same name will have its values combined into one variable. So consider the following simple script:

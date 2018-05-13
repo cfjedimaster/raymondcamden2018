@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/19/ColdFusion-Ajax-Bindings-Form-Fields-only
+guid: 2977
 ---
 
 Jose asks:

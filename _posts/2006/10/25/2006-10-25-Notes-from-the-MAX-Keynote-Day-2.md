@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/25/Notes-from-the-MAX-Keynote-Day-2
+guid: 1612
 ---
 
 Kevin Lynch is showing some cool stuff you can do read Acrobat 8, including sticky notes on PDFs and sending a PDF for review. Now showing how to do collaboration. John Womack(sp) is available via Breeze (he founded Adobe). He is talking in general about how the tools are getting better (true) and how our jobs are safe (whew!). Heh - Kevin said Breeze instead of Connect. 

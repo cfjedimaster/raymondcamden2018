@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/19/Ask-a-Jedi-Sharing-variables-between-different-ColdFusion-applications
+guid: 1221
 ---
 
 A reader asks:

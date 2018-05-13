@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/19/Edge-article-by-Brian-Rinaldi
+guid: 1904
 ---
 
 I thought I'd point out this Adobe Edge article by Brian Rinaldi:

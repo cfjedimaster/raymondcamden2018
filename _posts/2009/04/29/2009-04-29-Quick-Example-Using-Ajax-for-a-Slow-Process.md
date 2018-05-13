@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/04/29/Quick-Example-Using-Ajax-for-a-Slow-Process
+guid: 3334
 ---
 
 A reader sent me a question earlier today about handling a slow process. He had a page where a particular CFC call was taking 2-3 seconds to run. He needed the output of the CFC to be in the middle of the page. He used cfflush above the call to at least present something to the user, but this wasn't optimal. They saw half a page load, then a delay, and finally the rest of the page. I suggested simply switching to an Ajax based solution and offered to create a quick demo so he could see it in action. As I'm an expert at writing slow code, I thought this would be a fun way to spend lunch. Let's start with the non-Ajax version first.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/08/ColdFire-Update
+guid: 2760
 ---
 
 While not the most <a href="http://www.raymondcamden.com/index.cfm/2008/4/8/I-hit-level-35-today-IRL">important news</a> today, Nathan has released a new update to <a href="http://coldfire.riaforge.org">ColdFire</a>. He talks about the update here:

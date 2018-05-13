@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2011/08/29/New-content-for-Adobe-Developer-Connection
+guid: 4346
 ---
 
 Folks, I've long praised the <a href="http://www.adobe.com/devnet.html">Adobe Developer Connection</a> as one of the best underutilized sites on the net. I discovered that they put out (internally) a list of new content every week. I'm going to start publishing that here to help spread the word. Enjoy.

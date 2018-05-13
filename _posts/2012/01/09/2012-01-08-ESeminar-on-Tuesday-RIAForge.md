@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/01/09/ESeminar-on-Tuesday-RIAForge
+guid: 4488
 ---
 
 Tomorrow, at 11AM CST, I'll be giving an online presentation on RIAForge. I'll discuss how it was created, why it was created, and will dig a bit into the code. I don't imagine this is something of interest to most of my readers - but all are welcome. Note that you have to register for the event to get the Connect URL.

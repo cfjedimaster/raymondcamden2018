@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/05/08/Liked-GameOne-Want-to-learn-more-about-BlazeDSColdFusionFlexAIR
+guid: 3348
 ---
 
 Just wanted to give a quick shout out to Aaron West and his <a href="http://www.trajiklyhip.com/blog/index.cfm/2009/5/8/Announcing-My-AIR-BlazeDS-and-ColdFusion-Talk-at-CFUnited-2009">blog entry</a> on a class he will be giving at <a href="http://www.cfunited.com">CFUNITED</a> this year: 

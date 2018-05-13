@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/30/ColdFusion-8-Checking-to-see-if-a-file-upload-is-an-image
+guid: 2072
 ---
 
 Welcome to the very first of my ColdFusion 8 blog postings. (Well, the first since the public release.) My goal for these entries is to look at features, big and small, and show some practical examples. For my first entry, I'm going to talk about something simple - validating that a file uploaded is an image.

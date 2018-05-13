@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/07/Ask-a-Jedi-CFLOGIN-and-duplicate-logins
+guid: 3089
 ---
 
 Robert Palmer (Yes, THE <a href="http://en.wikipedia.org/wiki/Robert_Palmer_(singer)">Robert Palmer</a>), asks:

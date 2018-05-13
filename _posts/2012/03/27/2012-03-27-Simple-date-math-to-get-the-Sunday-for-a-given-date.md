@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/27/Simple-date-math-to-get-the-Sunday-for-a-given-date
+guid: 4571
 ---
 
 This is something that I struggled with that I guarantee could have been done a lot simpler. I can't figure out what the simpler solution is - but I'm convinced it exists. Given an arbitrary date, like March 27, how would you get the Sunday for that week? Why would you even want to do that? You may want to collapse data points for items in the same week to one value specified by that week's Sunday. You could then display it as: Week of March 25.

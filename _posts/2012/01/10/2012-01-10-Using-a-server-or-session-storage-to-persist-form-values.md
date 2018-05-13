@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/01/10/Using-a-server-or-session-storage-to-persist-form-values
+guid: 4491
 ---
 
 Yesterday on Twitter <a href="https://twitter.com/#!/docwisdom">docwisdom</a> asked me about using AJAX to persist form values while you edited data. This is something I've talked about before. I thought though it would be a great example to a) blog it again (I'm a believer in multiple examples, and worse case, the more I work on the client side the more comfortable I get) and b) a great time to compare a server based example versus a completely client side version using HTML5 technology.

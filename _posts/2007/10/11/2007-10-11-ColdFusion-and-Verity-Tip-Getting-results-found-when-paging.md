@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/11/ColdFusion-and-Verity-Tip-Getting-results-found-when-paging
+guid: 2405
 ---
 
 I was doing a code review this morning when I found this little gem:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/12/ColdFusion-Contest-Entry-Examined-Part-5
+guid: 846
 ---
 
 ColdFusion Contest Entry Examined - Part 5

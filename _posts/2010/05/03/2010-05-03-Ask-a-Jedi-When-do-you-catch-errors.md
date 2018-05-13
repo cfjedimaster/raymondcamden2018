@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2010/05/03/Ask-a-Jedi-When-do-you-catch-errors
+guid: 3801
 ---
 
 Grant asks:

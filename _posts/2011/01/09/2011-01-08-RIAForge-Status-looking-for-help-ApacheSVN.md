@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/01/09/RIAForge-Status-looking-for-help-ApacheSVN
+guid: 4077
 ---
 
 So I've tweeted about this a few times this weekend but just as an FYI, <a href="http://www.riaforge.org">RIAForge</a> has moved to a new server. Basic web pages are running fine. SVN is not working yet. Here is what I'm seeing - and if anyone has an idea, let me know.

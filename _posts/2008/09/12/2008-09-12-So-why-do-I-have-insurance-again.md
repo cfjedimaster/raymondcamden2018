@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/09/12/So-why-do-I-have-insurance-again
+guid: 3012
 ---
 
 Allstate just came out to process my claims. The house damage (so far) was just around 750 bucks. The roof damage will probably be less than 500. The food loss (with medicine) was pretty high, probably around 1k. I wasn't sure how much I'd get, but I was hoping for something.

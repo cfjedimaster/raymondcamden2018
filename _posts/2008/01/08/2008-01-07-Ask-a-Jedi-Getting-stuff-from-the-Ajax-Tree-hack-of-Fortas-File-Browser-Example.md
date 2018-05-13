@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/08/Ask-a-Jedi-Getting-stuff-from-the-Ajax-Tree-hack-of-Fortas-File-Browser-Example
+guid: 2580
 ---
 
 Forgive the humongous title there. Cyril asks:

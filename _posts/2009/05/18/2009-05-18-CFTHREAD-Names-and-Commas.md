@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/18/CFTHREAD-Names-and-Commas
+guid: 3358
 ---
 
 Just a quick note to warn folks. When using cfthread with a dynamic name, don't forget that commas are not allowed. Outside of that, you can use any name you want to for the thread, as long as it is non-empty. Here is a quick example:

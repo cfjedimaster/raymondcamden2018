@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/20/Spry-15s-new-Session-Expired-Support
+guid: 1908
 ---
 
 I <a href="http://ray.camdenfamily.com/index.cfm/2007/3/15/Spry-15-Preview">blogged</a> about the Spry 1.5 preview a few days ago and finally made time to whip up a quick demo of one of the new features - <a href="http://labs.adobe.com/technologies/spry/preview/samples/session_handling/">Session Handling</a>

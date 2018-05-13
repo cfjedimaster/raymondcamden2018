@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/02/Friday-Puzzler-SelfPrint-Challenge
+guid: 1312
 ---
 
 First off, sorry for the lack of a challenge last Friday. I don't even remember why I didn't have one, but hopefully today's will make up for it.

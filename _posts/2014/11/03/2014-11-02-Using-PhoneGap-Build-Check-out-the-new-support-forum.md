@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/11/03/Using-PhoneGap-Build-Check-out-the-new-support-forum
+guid: 5341
 ---
 
 <p>

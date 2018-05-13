@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/10/Ask-a-Jedi-CFCs-and-Cross-Referencing-Tables
+guid: 1459
 ---
 
 Andrew asks, 

@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/08/22/IndexedDB-On-the-move
+guid: 5293
 ---
 
 <p>

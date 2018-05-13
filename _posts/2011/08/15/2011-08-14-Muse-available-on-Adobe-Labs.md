@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/08/15/Muse-available-on-Adobe-Labs
+guid: 4328
 ---
 
 Today we've released another new beta to Adobe Labs, <a href="http://labs.adobe.com/technologies/muse/">Muse</a>. What is Muse? To quote labs:

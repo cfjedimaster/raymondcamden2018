@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/12/ColdFusion-Job-Opening--Senior-ColdFusion-Developer
+guid: 4558
 ---
 
 Red Hand, LLC, purveyor of the Electronic Tenant® Solutions software, is seeking an energetic and capable individual for a Senior Level ColdFusion Developer position.

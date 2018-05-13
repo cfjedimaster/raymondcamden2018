@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/20/jQuery-Thickbox-and-ColdFusion-Dynamic-Image-Resizing-With-Bookmarks
+guid: 3247
 ---
 
 Earlier this week I did a blog entry <a href="http://www.raymondcamden.com/index.cfm/2009/2/17/jQuery-Thickbox-and-ColdFusion-Dynamic-Image-Resizing">jQuery Thickbox and ColdFusion</a>. In the entry I described how I used ColdFusion to automatically list images, and create thumbnails, to be used with the jQuery <a href="http://jquery.com/demo/thickbox/">Thickbox</a> plugin. I began my entry with a bit of a mini-rant about how I'm tired of image gallery that <i>aren't</i> AJAX based. Reader Bilgehan made the <a href="http://www.coldfusionjedi.com/index.cfm/2009/2/17/jQuery-Thickbox-and-ColdFusion-Dynamic-Image-Resizing#c8FF40626-19B9-E658-9D173F0A354DE386">comment</a> that one thing lacking from my AJAX-based gallery was the ability to bookmark one particular image. I took that as a challenge to see if it was possible to allow for directly linking to one image within the gallery. Turns out that - yet again - jQuery made this trivial. Here is how I attacked the problem.

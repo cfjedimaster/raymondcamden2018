@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/01/10/Question-for-readers-Site-Map-of-a-ColdFusion-site
+guid: 5121
 ---
 
 <p>

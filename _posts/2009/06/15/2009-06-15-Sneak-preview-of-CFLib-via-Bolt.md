@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2009/06/15/Sneak-preview-of-CFLib-via-Bolt
+guid: 3395
 ---
 
 I uploaded this to RIAForge this weekend, but for folks who are not yet on the pre-release, I thought I'd share a few screens from my CFLib Bolt Extension. I've given it the cool name of: CFLibExtension. Yes, my imagination was at an all time low. You can download the bits from the <a href="http://cflibextension.riaforge.org/">RIAForge project</a>, and if you <i>did</i> have Bolt installed, here is how it would work.

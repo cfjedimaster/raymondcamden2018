@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/03/Another-Seeker-Update
+guid: 2856
 ---
 
 I just pushed up another update to <a href="http://seeker.riaforge.org">Seeker</a>. I've begun to clean things up a bit. If you download the bits now you will actually see folders for the custom tags, docs, and demos. I've begun the docs, but right now it's just an intro paragraph. But the important thing is that the application is getting a bit more organized. 

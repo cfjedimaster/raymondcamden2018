@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/19/Embedded-CFCHART-in-Flash-Forms
+guid: 632
 ---
 
 One question often is if you can embed a CFCHART inside a CFFORM Flash Form. The short answer is no. However, various people have gotten it working. After seeing a wonderful demo of this at CFUNITED, I decided to look into it a bit more. I spoke with Amit, the developer who showed off the impressive Flash Form demo during one of the keynotes. He told me how he was embedding CFCHART and gave me the ideas I needed to push it further.

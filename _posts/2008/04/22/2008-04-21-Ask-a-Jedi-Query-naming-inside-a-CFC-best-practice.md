@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/22/Ask-a-Jedi-Query-naming-inside-a-CFC-best-practice
+guid: 2781
 ---
 
 Gary asks:

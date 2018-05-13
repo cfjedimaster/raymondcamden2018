@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/04/01/ColdFusion-and-OAuth-Part-1-Facebook
+guid: 4896
 ---
 
 Last week, for some reason, I had multiple requests for an example of ColdFusion and OAuth integration. I ended up creating quick demos for Facebook, LinkedIn, and Google. This week I'll be blogging each in turn in the hopes that these entries can help others. Today, I'm going to share the Facebook code.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/25/Spry-Example-Check-it-user-exists
+guid: 1497
 ---
 
 Here is a something cool you can add to your web site. You have a registration form that asks for a username. In order to save the user time and a trip to the server, you want to see if the username exists as they type it in. Let's look at how Spry could handle this. 

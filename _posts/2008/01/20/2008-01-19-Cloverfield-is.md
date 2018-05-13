@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2008/01/20/Cloverfield-is
+guid: 2603
 ---
 
 Amazing. Simply amazing. I'm going to keep this super short and sweet. Why? Going into the film, I had read next to nothing about it. I knew it was from Lost creator JJ Abrams. I knew it was a "monster" film. But that was it. I avoided any spoilers and I'm very happy I did so. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/24/Ask-a-Jedi-Remembering-a-search
+guid: 2614
 ---
 
 Alan asks:

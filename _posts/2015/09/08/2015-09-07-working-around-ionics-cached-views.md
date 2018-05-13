@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/09/08/working-around-ionics-cached-views
+guid: 6740
 ---
 
 Just a quick tip here as it came up in the presentation I did today - how do you handle running code when a particular view runs in Ionic? Let me begin with an example so you get what I'm talking about. Given a new Ionic application using the default tabs application, I'm going to modify the Account controller to add a random number to the scope:

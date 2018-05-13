@@ -6,6 +6,7 @@ categories: [coldfusion,development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/09/03/Speaking-at-NCDevCon-2014
+guid: 5298
 ---
 
 <p>

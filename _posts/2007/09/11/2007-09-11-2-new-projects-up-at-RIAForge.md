@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/11/2-new-projects-up-at-RIAForge
+guid: 2339
 ---
 
 I finally got around to uploading two projects to RIAForge.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/20/The-book-is-here
+guid: 2361
 ---
 
 Pardon me for a moment while I jump up and down in joy... the first CFWACK arrived today via Fedex...

@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/12/08/parsing-rss-feeds-in-javascript-options
+guid: 7228
 ---
 
 For a while now I've used the <a href="https://developers.google.com/feed/?hl=en">Google Feed API</a> to parse RSS feeds in JavaScript. It did a good job of converting various RSS flavors into a simple array of entries you could easily work with. Unfortunately, Google has deprecated the API and while it still worked the last time I used it, I would strongly recommend folks migrate their apps away from it as soon as possible. While this makes me sad, you have to move on.

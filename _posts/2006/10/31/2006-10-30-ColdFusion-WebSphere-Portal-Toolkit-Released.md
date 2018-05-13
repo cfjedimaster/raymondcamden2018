@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/31/ColdFusion-WebSphere-Portal-Toolkit-Released
+guid: 1624
 ---
 
 Once again Adobe is using the <a href="http://labs.adobe.com">Labs</a> site to release new software in development - this time a ColdFusion toolkit that integrates with WebSphere Portal Server. From the site:

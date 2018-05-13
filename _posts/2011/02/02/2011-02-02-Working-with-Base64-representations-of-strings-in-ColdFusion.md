@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/02/Working-with-Base64-representations-of-strings-in-ColdFusion
+guid: 4104
 ---
 
 Kevin pinged me earlier today with an interesting issue. He had a Base64 representation of data. Base64 is usually used to create a string representation of binary data. But did you know that you can also Base64 encode string data? In his case it was being used in some PHP code to encode layout for a blog theme. He needed to get to the original code but wasn't sure how to do that in ColdFusion. Here is what I came up with. First, start off with your Base64 string. (Note - in the code template below I'm going to add a few spaces just to make it wrap better. )

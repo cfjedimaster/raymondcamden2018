@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/23/Are-you-No-Name
+guid: 2611
 ---
 
 A few minutes ago I got an interesting question from a reader. However - the question has <i>very</i> different meanings depending on what the intent was. 

@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/02/24/Creating-a-data-backup-of-a-WebSQL-database
+guid: 5163
 ---
 
 <p>

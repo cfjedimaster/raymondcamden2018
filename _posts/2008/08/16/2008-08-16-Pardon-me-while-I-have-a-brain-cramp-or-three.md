@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/08/16/Pardon-me-while-I-have-a-brain-cramp-or-three
+guid: 2973
 ---
 
 If you have followed me this week on <a href="http://twitter.com/cfjedimaster">twitter</a>, you saw me mention that I was working on quite a few new technologies this week. This has easily been a week of both pure joy and pain. Over the past 5 days I worked with:

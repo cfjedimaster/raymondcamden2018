@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/02/05/Choose-Your-Own-Application
+guid: 4846
 ---
 
 This morning I spent some time using <a href="http://chooseyourownapplication.com/">ChooseYourOwnApplication</a>. The web site describes it as:

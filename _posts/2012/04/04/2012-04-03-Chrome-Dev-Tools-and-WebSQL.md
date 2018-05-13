@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/04/04/Chrome-Dev-Tools-and-WebSQL
+guid: 4580
 ---
 
 In my <a href="http://www.raymondcamden.com/index.cfm/2012/4/3/Adding-database-synchronization-to-your-PhoneGap-project">blog post</a> yesterday I talked about database synchronization and PhoneGap. One thing I didn't mention was that almost all of my code runs just fine in the desktop. The only thing that didn't work was the network check. While I worked on this demo, I found Chrome Dev Tools to be incredibly helpful. Did you know that it includes a way to see what databases are in use at a website?

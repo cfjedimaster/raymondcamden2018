@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/02/26/Comic-Cover-Muzei
+guid: 5165
 ---
 
 <p>

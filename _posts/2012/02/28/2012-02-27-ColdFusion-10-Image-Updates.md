@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/28/ColdFusion-10-Image-Updates
+guid: 4542
 ---
 
 ColdFusion 10 provides a few updates to image handling that may be useful to folks. Here's a brief run down of what's new in ColdFusion 10 and image handling.

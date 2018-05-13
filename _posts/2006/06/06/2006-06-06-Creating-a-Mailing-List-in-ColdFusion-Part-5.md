@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/06/Creating-a-Mailing-List-in-ColdFusion-Part-5
+guid: 1320
 ---
 
 Welcome to the final entry in the "Mailing List" series. To be honest, all the previous entries covered what you absolutely need. This entry isn't exactly required, but comes highly recommended. Why? The previous code let anyone subscribe an email address. This is nice and simple, but it also means that I could enter your email address and you would never know it until you began to get email from my site. I did build a simple way to unsubscribe, but that isn't good enough. What I really need to add is a simple verification service. This is how I will do that:

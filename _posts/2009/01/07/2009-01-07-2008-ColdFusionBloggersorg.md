@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/01/07/2008-ColdFusionBloggersorg
+guid: 3182
 ---
 
 Earlier today someone suggested adding a tag cloud to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a>. I'm just enough of a nerd to think that would be something fun to do Friday night. In the meantime, I whipped up a quick SQL statement and dumped the results into a structure and sorted it:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/02/No-hurricane-will-stop-my-blog-Details-on-Free-ColdFusion-for-Education
+guid: 2997
 ---
 
 Ever since it was announced at CFUNITED, folks have been hungry for more details concerning the free edition of ColdFusion for educators. Today Kristen Schofield blogged the details about this offer:

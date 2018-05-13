@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/03/02/MMORPGs-The-next-level
+guid: 1132
 ---
 
 So by now, I assume everyone has heard of how successful MMORPG's (massively  multiplayer online role playing games) have been. I've heard various stats from the real world wealth of games eclipsing real world countries, and today one of my best friends told me that the population of World of Warcraft is now higher than Norway and Denmark.

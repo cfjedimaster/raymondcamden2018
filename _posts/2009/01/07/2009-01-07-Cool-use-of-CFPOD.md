@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/07/Cool-use-of-CFPOD
+guid: 3183
 ---
 
 Earlier today I <a href="http://www.raymondcamden.com/index.cfm/2009/1/7/2008--ColdFusionBloggersorg">blogged</a> about ColdFusionBloggers and the category stats for 2008. I made a passing reference to how it would be nice to have a simple scrollable table for the stats. CFGRID would work, but I just wasn't in the mood for it. Andy Sandefer <a href="http://www.coldfusionjedi.com/index.cfm/2009/1/7/2008--ColdFusionBloggersorg#cB41A4954-19B9-E658-9D6586C5958C01D6">suggested</a> cfpod and cflayout.

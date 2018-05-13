@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/06/24/Newbies-can-share-too
+guid: 1352
 ---
 
 Imagine my surprise when I opened up this month's CFDJ and see myself mentioned in the <a href="http://coldfusion.sys-con.com/read/235964.htm">editorial</a> by Simon. In this editorial, Simon takes issue with my statement that you do not have to be a guru to contribute code to the community. He goes to talk about some ways in which new ColdFusion developers can grow their skills and travel down the road to GURU-dom. 

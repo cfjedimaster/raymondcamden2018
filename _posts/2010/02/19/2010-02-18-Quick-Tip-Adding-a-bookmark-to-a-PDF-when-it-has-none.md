@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/19/Quick-Tip-Adding-a-bookmark-to-a-PDF-when-it-has-none
+guid: 3726
 ---
 
 A reader wrote in to me with an interesting question yesterday. He was using ColdFusion 9's nice new ability to work with Office documents to create a merged PDF of various sources. His application let people drag and drop different documents into the browser (using HTML5) and then make use of cfdocument to convert them all into PDFs. Once done, all the PDFs would then be merged into one PDF.

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/07/31/Building-your-first-HTMLAdobe-AIR-Application
+guid: 3894
 ---
 
 This week I gave my first ever presentation on building HTML-based AIR applications. You can find the slides and code from that presentation <a href="http://www.raymondcamden.com/index.cfm/2010/7/29/Slides--Code-from-CFUNITED10">here</a>. I thought it would be nice to spend a bit of time talking about this topic on the blog in a slower, more verbose manner than I had time for at CFUNITED. This will also allow us to go in different directions, try new things, etc. I'm looking to you guys for feedback on what is covered and to provide direction on where to go next. I thought it would be great to simply start off with some basic links and resources to get you started. So enough preamble - lets get started.

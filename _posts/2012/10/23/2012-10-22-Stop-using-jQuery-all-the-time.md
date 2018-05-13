@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/10/23/Stop-using-jQuery-all-the-time
+guid: 4765
 ---
 
 I apologize for the link bait. I feel bad doing it. But - at least you know I'm not a slimy SEO person and there is something useful in this article. ;)

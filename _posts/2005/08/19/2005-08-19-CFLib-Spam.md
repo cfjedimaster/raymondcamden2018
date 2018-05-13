@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/19/CFLib-Spam
+guid: 714
 ---
 
 So, yesterday, an errant program accidently triggered the CFLib weekly email to go out early. It also seemed to trigger it a few times. Since I have over four thousand subscribers, this created a huge glut on my mail server. I didn't realize anything was wrong until my wife noticed she hadn't gotten her daily emails.

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [ionic,mobilefirst]
 banner_image: 
 permalink: /2015/12/15/using-ionic-creator-with-mobilefirst-7-1
+guid: 7223
 ---
 
 A few months ago I wrote a post discussing how to use <a href="https://ibm.biz/BluemixMobileFirst">IBM MobileFirst</a> 7.1 with Ionic (<a href="http://www.raymondcamden.com/2015/08/19/developing-ionic-apps-with-mobilefirst-7-1">Developing Ionic Apps with MobileFirst 7.1</a>). Recently, the Ionic folks have done some darn good improvements to <a href="https://creator.ionic.com">Ionic Creator</a>. Not only is the app more powerful to use, but more importantly, the <i>output</i> of Ionic Creator is, in my not so humble opinion, a heck of lot better. I'm still struggling to become "Angular-literate" so I'm not sure if I'm the best judge of Angular code, but I find the output from Creator to be a lot easier to work with, and more importantly, closer to the default code you get when you create Ionic applications with the CLI. So in this post, I thought I'd quickly demonstrate how to go from an app designed and created in Ionic Creator to a MobileFirst-enabled hybrid application. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/17/Return-of-the-Friday-Puzzler-Build-a-Regex-Tester
+guid: 1661
 ---
 
 A few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2006/11/7/Regex-Coach">talked </a> about how I normally did quick regex tests: I would write up some code in a CFM page and run it in my browser. Obviously a dedicated tool is better and more efficient. But pretend for a moment that you didn't have such a tool. Or perhaps you are not at your own machine and just want to quickly test something.

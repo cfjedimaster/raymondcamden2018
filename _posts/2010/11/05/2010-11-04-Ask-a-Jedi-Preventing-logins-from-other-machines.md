@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/05/Ask-a-Jedi-Preventing-logins-from-other-machines
+guid: 4002
 ---
 
 Brad Newman (any relation to Victor?) asks:

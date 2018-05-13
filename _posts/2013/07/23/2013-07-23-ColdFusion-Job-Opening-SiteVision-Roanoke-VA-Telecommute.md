@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/07/23/ColdFusion-Job-Opening-SiteVision-Roanoke-VA-Telecommute
+guid: 4990
 ---
 
 <p>

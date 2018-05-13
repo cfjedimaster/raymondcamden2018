@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/10/14/Ask-a-Jedi-Counting-words-in-a-textarea
+guid: 3563
 ---
 
 Pema asks:

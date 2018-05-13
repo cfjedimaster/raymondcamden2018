@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/28/Yahoo-Traffic-Example
+guid: 1562
 ---
 
 That's it. I'm officially boycotting Yahoo. They are an evil corporation and must be stopped. Why do I say that? Today I decided to look at their <a href="http://developer.yahoo.com/traffic/">Traffic API</a>, and while it was <i>dang</i> cool - they angered me by not supporting the sprawling metropolis known as <a href="http://en.wikipedia.org/wiki/Lafayette%2C_la">Lafayette, LA</a>. So that's it. No more examples. Well, ok, maybe just one more. (And you know, the Map API look pretty darn cool too.)

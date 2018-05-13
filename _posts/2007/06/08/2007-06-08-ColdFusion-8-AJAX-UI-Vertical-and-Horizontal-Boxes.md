@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/08/ColdFusion-8-AJAX-UI-Vertical-and-Horizontal-Boxes
+guid: 2108
 ---
 
 Tonight I'm blogging again about ColdFusion, AJAX, and the new layout controls in ColdFusion 8. Tonight's entry is once again  talking about cflayout and cflayoutarea. This entry will discuss the VBox and HBox type.

@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2009/01/22/Why-you-should-and-should-not-break-encapsulation-in-methods
+guid: 3203
 ---
 
 There was an interesting blog post this morning on Ben Nadel's site (<a href="http://www.bennadel.com/index.cfm?dax=blog:1468.view">A Serious CFThread Bug in ColdFusion?</a>) that lead to a discussion about CFC methods and encapsulation. This is a topic I've covered before but I think it bears repeating with some good examples. We all know that we shouldn't break encapsulation in methods, but why? And is there ever a good reason <i>to</i> break encapsulation?

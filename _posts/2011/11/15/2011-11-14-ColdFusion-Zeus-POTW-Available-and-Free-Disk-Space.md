@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/11/15/ColdFusion-Zeus-POTW-Available-and-Free-Disk-Space
+guid: 4433
 ---
 
 Continuing on with my ColdFusion Zeus previews, today is yet another small, but useful addition - getTotalSpace and getFreeSpace. Together these functions can tell you how much space you have on a drive versus how much space is actually available. Not exactly rocket science, and it's been possible before via UDFs, but it's nice to see it baked into the language. It also bears repeating something I've said at a few conferences lately - if your site allows for uploads (images, PDFs, etc), are you currently keeping track of your disk space? Sure you may have 50 gigs of space free now, but in a month, how much will be left? Using these functions you could easily create a scheduled task that simply sees if the free space is below a certain threshold. If it is, an email could be fired off to warn you to either clean up old files or find a bigger drive. (Or even better - move to Amazon S3, since ColdFusion 9.0.1 makes that pretty trivial as well.)

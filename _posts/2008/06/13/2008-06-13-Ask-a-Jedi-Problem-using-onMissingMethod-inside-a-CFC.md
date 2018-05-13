@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/13/Ask-a-Jedi-Problem-using-onMissingMethod-inside-a-CFC
+guid: 2881
 ---
 
 Matthew writes in with an interesting problem:

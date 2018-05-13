@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/17/Postmark-release-free-Spam-API
+guid: 4395
 ---
 
 Earlier today Postmark released a free (*) API to perform SpamAssasin checks. This means you can now integrate a free spam check into your application. The API, documented <a href="http://spamcheck.postmarkapp.com/doc">here</a>, is very easy to use. You simply pass in your email and get either a score back or a score and a full report on how the score was generated. The only real difficult part fo the API is that you are intended to send a full email document. By that I mean the text file that represents what an email looks like "raw". Here's how I built a checker in ColdFusion. I did this all in about twenty minutes so please feel free to do this better/faster/quicker.

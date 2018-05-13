@@ -6,6 +6,7 @@ categories: [books,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/26/jQuery-Mobile-Web-Development-Essentials-Second-Edition
+guid: 5047
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/01/ColdFusion-Cookbook-Update
+guid: 2952
 ---
 
 Just some quick update on the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a>. First off, thank you to everyone who responded to my <a href="http://www.raymondcamden.com/index.cfm/2008/7/1/Bribery-for-the-ColdFusion-Cookbook-and-looking-for-a-grunt-or-two">last call</a> for help. We got more content online and updated the code highlighter thanks to your help. Please keep the submissions coming. 

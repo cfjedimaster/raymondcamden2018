@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/10/01/PhoneGap-Build-and-PhoneGap-30
+guid: 5052
 ---
 
 <p>

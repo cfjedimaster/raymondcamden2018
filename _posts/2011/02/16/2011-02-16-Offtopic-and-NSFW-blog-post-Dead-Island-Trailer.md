@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2011/02/16/Offtopic-and-NSFW-blog-post-Dead-Island-Trailer
+guid: 4126
 ---
 
 I typically try to save my video game/movie/off topic stuff until the weekend, but when I saw this video today I had to share it. As a warning, this video is incredibly NSWF for violence reasons. I consider us all adults here so if zombie level violence turns you off, please stop now. Anyway, watch the video, then I'm going to chime in with some thoughts.

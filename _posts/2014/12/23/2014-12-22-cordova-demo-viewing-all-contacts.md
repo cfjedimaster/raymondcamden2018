@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/12/23/cordova-demo-viewing-all-contacts
+guid: 5477
 ---
 
 A quick demo of something I've wanted to see myself for a while now - a user on Stackoverflow asked if it was possible to <a href="http://stackoverflow.com/questions/27468762/retrieve-mobile-all-phone-numbers-or-contacts-using-phonegap">view all the contacts</a> on a device using PhoneGap/Cordova. It is rather trivial to do so. Simply perform a search and skip providing an actual filter. Here is an example.

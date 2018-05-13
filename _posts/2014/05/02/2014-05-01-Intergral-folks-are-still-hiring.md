@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/05/02/Intergral-folks-are-still-hiring
+guid: 5216
 ---
 
 <p>

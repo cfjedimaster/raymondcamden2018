@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/02/27/quick-cordova-tip-preventing-multiple-sounds-at-once
+guid: 5740
 ---
 
 I'm working on a simple application that acts - a bit - like a sound board. You select an item, click a button, and you hear an MP3. While letting one of my kids play with it, they quickly discovered that if they hit the button multiple times in a row, the sound would play multiple times, overlapping each other. While not the end of the world (this is the kind of bug that would only occur if the user was <i>trying</i> to do exactly that), I thought I should probably prevent this from happening.

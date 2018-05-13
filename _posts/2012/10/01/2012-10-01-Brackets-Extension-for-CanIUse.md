@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/10/01/Brackets-Extension-for-CanIUse
+guid: 4748
 ---
 
 I blogged on this earlier and have been tweeting about it over the weekend, but I think I'm ready to "formally" release my Brackets extension for CanIUse.com:

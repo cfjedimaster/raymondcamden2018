@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/24/Ask-a-Jedi-Question-on-Application-based-CFCs
+guid: 2725
 ---
 
 David asks a good question about what he thinks may be a possible negative side effect of using Application-based CFCs:

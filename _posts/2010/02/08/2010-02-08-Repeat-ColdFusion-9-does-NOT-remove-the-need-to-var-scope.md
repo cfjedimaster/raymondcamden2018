@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/08/Repeat-ColdFusion-9-does-NOT-remove-the-need-to-var-scope
+guid: 3711
 ---
 
 Sorry to yell (well, we don't have to assume all exclamation marks are equivalent to yelling) but this email came in to me this morning and it is very troubling for me:

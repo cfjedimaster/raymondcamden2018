@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/11/Look-what-Todd-did
+guid: 2532
 ---
 
 Todd is being a bit coy - but if this is what I think it is - it is pretty cool:

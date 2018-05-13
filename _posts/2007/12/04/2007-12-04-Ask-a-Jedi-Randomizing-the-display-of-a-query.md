@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/04/Ask-a-Jedi-Randomizing-the-display-of-a-query
+guid: 2514
 ---
 
 Charles asks a pretty common question about randomizing the result of a query:

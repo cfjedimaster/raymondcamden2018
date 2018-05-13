@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/31/Ask-a-Jedi-Scheduled-tasks-and-usernamepasswords
+guid: 1307
 ---
 
 Chris asks:

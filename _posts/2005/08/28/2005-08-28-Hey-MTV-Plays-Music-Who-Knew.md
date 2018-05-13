@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/28/Hey-MTV-Plays-Music-Who-Knew
+guid: 735
 ---
 
 So, I'm watching the MTV Video Music Awards. Well, not really. I DVRed it and I'm fast forwarding through about 95% of it. Frankly, the whole "Diddy" thing is so ridiculous that I just can't stand it. Really the only good thing about the show is the Beavis and Butthead clips.

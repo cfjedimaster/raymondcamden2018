@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/02/Did-you-know-Flex-and-ID3-tags
+guid: 1744
 ---
 
 Ok, so this will elicit a "duh" out of my Flex 2 experienced readers, but I was pleasantly surprised to find that Flex 2 (to be clear, ActionScript 3) can read the ID3 tags out of MP3 files. I knew that I could play MP3s in Flex, but I didn't realize I could also dig out the ID3 information.

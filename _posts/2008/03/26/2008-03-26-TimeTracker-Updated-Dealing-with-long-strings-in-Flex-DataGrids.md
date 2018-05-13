@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/03/26/TimeTracker-Updated-Dealing-with-long-strings-in-Flex-DataGrids
+guid: 2729
 ---
 
 I've updated TimeTracker again. This version includes the code fixes by Sid Wing (thanks!) which was part cleanup and a fix to the mx:Legend. I agree with Sid's <a href="http://www.raymondcamden.com/index.cfm/2008/3/25/Time-Tracker-AIR-Application-Updated#cE8C92552-19B9-E658-9D7D44FCBB65C571">comment</a> that the docs could certainly be clearer.

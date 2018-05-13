@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2011/04/18/My-first-jQuery-Conference
+guid: 4198
 ---
 
 I'm currently sitting in San Jose waiting for my flight back home (when I say it like that it almost sounds like it will be one hop instead of three and nearly 12 hours *sigh*) so I thought I'd take a few minutes to share my experiences of attending my first jQuery conference. I honestly did not know what to expect. It seems like I've been attending the same three conferences (cfunited, cfobjective, MAX) for the past decade or so and while they are certainly great conferences (or were in regards to cfunited), I really didn't know what to expect outside of our community. 

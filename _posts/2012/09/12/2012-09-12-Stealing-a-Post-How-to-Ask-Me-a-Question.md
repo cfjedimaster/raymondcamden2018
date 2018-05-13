@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/09/12/Stealing-a-Post-How-to-Ask-Me-a-Question
+guid: 4729
 ---
 
 <a href="http://simonmacdonald.blogspot.com">Simon MacDonald</a> is one of the core PhoneGap contributors. He's also a great all around guy and has been one of my "go-to" people when I need help. Today he posted a great blog entry that I've decided to completely steal. (I checked - he was cool with that.) You can read his original post here:

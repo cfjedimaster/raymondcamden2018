@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/13/BlogCFC5-Update
+guid: 1210
 ---
 
 I've decided I'm going to give a weekly report on the status of BlogCFC5. Since I'm off tomorrow, this entry will be a day early. So, what's going on?

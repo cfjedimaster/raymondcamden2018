@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/03/Got-cookies-in-your-logs
+guid: 2914
 ---
 
 I recently noticed a large of odd messages in my coldfusion-event.log. They all looked something like so:

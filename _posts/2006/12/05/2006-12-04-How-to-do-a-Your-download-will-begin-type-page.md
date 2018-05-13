@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/05/How-to-do-a-Your-download-will-begin-type-page
+guid: 1694
 ---
 
 A user recently asked me how I did the, "Your download will begin..." page at <a href="http://www.riaforge.org">RIAForge</a>. For an example, click the big download button at the <a href="http://galleon.riaforge.org">Galleon project page</a>. (Note it was updated this morning!)

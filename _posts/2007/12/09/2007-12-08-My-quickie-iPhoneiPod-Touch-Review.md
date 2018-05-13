@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/12/09/My-quickie-iPhoneiPod-Touch-Review
+guid: 2525
 ---
 
 Thanks to grateful client and a user of some of my applications. this week I got both the iPhone and the iPod Touch. Even though I love high tech stuff, I've never been a big cell phone guy. I spend most of my time at home, so cell phones just don't do a lot for me. But I spent a lot of time traveling this year and I'm definitely using my cell more. When the iPhone came in on Thursday, I plugged it in. iTunes launched and the set up process began. Now I was already an ATT customer so it may have been easier for me, but I have to say, the setup was the absolute coolest thing I've seen in a long time. I basically entered my phone number, answered a few questions, and five minutes later it was done. My Razor reported that it was unregistered and my iPhone was working - all with my old number. I had no idea it worked that easily. (Again though - I assume it isn't quite as easy if you don't have ATT already.)

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/02/27/CFBloggers-CFLib-updates
+guid: 4140
 ---
 
 Just a quick note to point out some updates to my sites.

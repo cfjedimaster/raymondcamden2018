@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2015/03/14/quick-handlebars-tip-concerning-precompilation
+guid: 5832
 ---
 
 So, I'm not sure I can say <i>why</i> I'm playing with <a href="http://www.handlebarsjs.com">Handlebars</a> today (just asked if I could talk about it), but I ran into an interesting issue with it today that I thought I'd share.

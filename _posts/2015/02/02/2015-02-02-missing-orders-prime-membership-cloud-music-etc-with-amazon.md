@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2015/02/02/missing-orders-prime-membership-cloud-music-etc-with-amazon
+guid: 5633
 ---
 
 So, here's a scary incident. I logged into Amazon to access my Cloud Music library (big fan of the service) and noticed it was empty. I checked my profile and noticed that my past orders were also empty. Even more scary, I had somehow lost Prime membership. I saw this for the first time a few weeks back but never figured out how I fixed it. Not knowing what to do, I contacted Amazon via their email support, and, kudos to them, got a response in less than five minutes. But the response... oh my god:

@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2008/07/06/review-world-war-z
+guid: 2917
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=0307346617&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&nou=1" style="width:120px;height:240px;padding-right:10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>

@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/07/30/Example-of-form-validation-in-a-jQuery-Mobile-Application
+guid: 4688
 ---
 
 Over the weekend I decided to write up a quick example of form validation in jQuery Mobile. Obviously there are many ways you can accomplish this and I just wanted to take my own little spin with it. Here's what I came up with and I'd love to hear how other jQuery Mobile users are doing validation.

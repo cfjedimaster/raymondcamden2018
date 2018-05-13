@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/09/Real-life-Var-scope-screw-up
+guid: 2180
 ---
 
 I'm a big fan of sharing mistakes as I figure any mistake I make I'm sure others have as well. If you read my blog or have attended any presentation I do on ColdFusion Components, you know I get pretty anal about var scoping. One of the things I mention is how if you <i>don't</i> var scope - some day - some where - a bug is going to bite you in the rear and it may takes days to track it down. Well guess what? It happened to me.

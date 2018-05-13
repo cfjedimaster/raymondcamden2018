@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/07/Automatically-pushing-to-a-new-URL-and-how-ColdFusion-8-makes-this-a-bit-simpler
+guid: 2102
 ---
 
 When I was preparing to move my site from http://ray.camdenfamily.com to http://www.raymondcamden.com, I certainly didn't want all of my old URLs to stop working. I wrote some quick code (literally, I forgot to write the code before hand so I wrote it live on the old server) to handle this. Here is what I did...

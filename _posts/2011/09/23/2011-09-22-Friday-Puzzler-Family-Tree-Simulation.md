@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/23/Friday-Puzzler-Family-Tree-Simulation
+guid: 4371
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/Family_Tree_img.jpg" align="left" style="margin-right:10px;margin-bottom:10px" /> Ok, so it's been a while (too long) since I ran a Friday Puzzler. As a reminder, these are meant to be very small, very quick code puzzles that you can solve in (hopefully!) five minutes or so. You have to use ColdFusion. But outside of that, you are welcome to solve the puzzle as you see fit. These puzzlers tend to be hit and miss. Sometimes I get a lot of people responding, sometimes, not so much. But I had this idea while exercising this morning and I thought it would be fun to see what you guys do with it. Don't forget. This is for fun. That means you can totally disobey the "rules" and just go crazy. I'm going to try to dig up a prize perhaps (who knows...), but the point is to have fun. Remember - do not post your code in the comment. Post a PasteBin link and a description of what you did. Since the puzzle involves output, you can also link to your demo.

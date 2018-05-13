@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/01/19/Friday-Night-Links
+guid: 1782
 ---
 
 Two quick links I thought I'd share. First Kevin Schmidt has a blog now: <a href="http://flexinabox.com/">&lt;blog:FlexInABox&gt;</a>. He  describes his blog as covering Flex and ColdFusion, which as you can guess is a favorite topic of mine so I'd definitely recommend it.

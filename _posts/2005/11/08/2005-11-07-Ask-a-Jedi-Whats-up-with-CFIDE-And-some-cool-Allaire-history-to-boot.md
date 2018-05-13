@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/08/Ask-a-Jedi-Whats-up-with-CFIDE-And-some-cool-Allaire-history-to-boot
+guid: 905
 ---
 
 So here is a fun question:

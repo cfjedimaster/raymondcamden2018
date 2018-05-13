@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/18/Friday-Puzzler-Mail-Alerts
+guid: 1480
 ---
 
 This one is rather simple, but as it involves string manipulation, I thought it might be fun.

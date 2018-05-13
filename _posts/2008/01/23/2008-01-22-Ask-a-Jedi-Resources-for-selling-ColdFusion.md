@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/23/Ask-a-Jedi-Resources-for-selling-ColdFusion
+guid: 2610
 ---
 
 Camilo asks:

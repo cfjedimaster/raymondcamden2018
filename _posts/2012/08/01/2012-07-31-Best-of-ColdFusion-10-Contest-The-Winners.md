@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/08/01/Best-of-ColdFusion-10-Contest-The-Winners
+guid: 4690
 ---
 
 Earlier this year the ColdFusion team and I launched the <a href="http://www.raymondcamden.com/index.cfm/2012/2/29/Best-of-Adobe-ColdFusion-10-Beta-Contest">Best of ColdFusion 10 Contest</a>. The idea was to see what kind of crazy/cool things folks could build with ColdFusion 10. I've run many contests over the years and I've always enjoyed them. This contest had limited participation, but the entries were interesting and really showcased some of the neat cool things in the latest version of ColdFusion. For your enjoyment, here are the entries and my reviews:

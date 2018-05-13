@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [strongloop]
 banner_image: 
 permalink: /2015/10/15/working-with-strongloop-part-three
+guid: 6948
 ---
 
 So this week I'm continuing my look into <a href="https://strongloop.com/">StrongLoop</a>. If you missed my previous entries, I'll include them in a list at the bottom. I'm kinda hopping around the technology picking and choosing what seems interesting to me so these posts may not be the best introduction to the platform, but I hope folks are finding it interesting. As a reminder, you can access the core documentation <a href="https://docs.strongloop.com/display/SL/Installing+StrongLoop">here</a> to start learning about it yourself. As I mentioned in the very first post, StrongLoop's Arc product runs on top of the open source <a href="http://loopback.io/">LoopBack</a> framework. Today's post is pretty much entirely based on that. 

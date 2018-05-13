@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/11/10/Good-post-on-Cordova-PhoneGap-and-versioning
+guid: 5347
 ---
 
 <p>

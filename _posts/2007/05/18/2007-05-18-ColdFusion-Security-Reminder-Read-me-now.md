@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/18/ColdFusion-Security-Reminder-Read-me-now
+guid: 2047
 ---
 
 I know I've blogged this before, and it's covered in my <a href="http://ray.camdenfamily.com/coldfusionsecuritychecklist.cfm">security checklist</a>, but folks, stop what you are doing and make these changes <b>right now</b> on your production server:

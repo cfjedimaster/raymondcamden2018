@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/10/Did-you-know-previousCriteria-and-cfsearch
+guid: 4190
 ---
 
 Here is a little feature I don't see folks use too often, and it wasn't actually working right for Solr in ColdFusion 9.0 (but corrected in 9.0.1), but did you know that it was possible to perform a search within the results of a previous search using ColdFusion's Solr integration? (Technically this is also possible with Verity, but it's best we ignore this as it doesn't have much a life expectancy anymore in ColdFusion.)

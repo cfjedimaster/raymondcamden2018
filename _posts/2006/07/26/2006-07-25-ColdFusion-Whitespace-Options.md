@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/26/ColdFusion-Whitespace-Options
+guid: 1429
 ---
 
 <i>Somewhere - there is a country - starving - begging - screaming for whitespace. ColdFusion is there for that country.</i> Ok, I've made that joke a few too many times, but it never gets old. (To me.) I was talking with a friend earlier today about ColdFusion and whitespace, and I thought it would be nice to write a quick blog post to cover the main ways to cut down on whitespace. With that, I present the following...

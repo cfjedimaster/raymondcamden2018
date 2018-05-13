@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/28/Excellent-ColdFusionAjax-Demo-by-James-Edmunds
+guid: 2309
 ---
 
 James Edmunds, a fellow Cajun ColdFusion programmer, sent me a link today to his newest demo:

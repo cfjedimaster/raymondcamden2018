@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/05/31/There-is-a-new-ColdFusion-Builder-right
+guid: 4637
 ---
 
 After speaking to a few other people in the community, it seems like there is a bit of confusion about the update to ColdFusion Builder. We (Adobe) can probably do a better job on the web site making this clear, but in the interim, let's clear up a few things.

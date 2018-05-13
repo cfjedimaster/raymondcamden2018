@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/18/Ask-a-Jedi-Accessing-Application-Variables-set-in-Applicationcfc
+guid: 709
 ---
 
 Tim asks:

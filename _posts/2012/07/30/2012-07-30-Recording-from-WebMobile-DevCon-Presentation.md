@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/07/30/Recording-from-WebMobile-DevCon-Presentation
+guid: 4689
 ---
 
 Just in case you don't tire of hearing my silky smooth voice, here is a recording of my presentation from earlier in the month in San Francisco.

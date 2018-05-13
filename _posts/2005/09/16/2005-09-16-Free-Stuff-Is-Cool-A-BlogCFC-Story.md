@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/16/Free-Stuff-Is-Cool-A-BlogCFC-Story
+guid: 784
 ---
 
 I got an IM from <a href="http://www.web-relevant.com/blogs/cfobjective/index.cfm">Jared</a> a few days ago and I'm just now getting around to blogging about it. Jared was able to score a small contract job doing a BlogCFC upgrade for <a href="http://www.flir.com/">FLIR Systems</a>. Flir builds thermal imaging and stabilized camera systems for things like helicoptors and search and resue operations. I believe the blog is just being used internally at the moment.

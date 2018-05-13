@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/10/ColdFusion-Security-Hotfix-Released
+guid: 3905
 ---
 
 The title says it all, please read now and take action:

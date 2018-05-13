@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/12/Update-3-Galleon-2
+guid: 2410
 ---
 
 <p><img src="https://static.raymondcamden.com/images/glogo.png" align="left"></p>

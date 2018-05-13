@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/16/Ask-a-Jedi-Different-Session-Timeouts
+guid: 973
 ---
 
 Alan asks an interesting question about sessions:

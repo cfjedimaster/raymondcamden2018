@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/01/New-pricing-plans-for-my-products
+guid: 1934
 ---
 
 As of today, April 1, 2007, I am proud to announce new pricing plans for all of my major products, including <a href="http://blogcfc.riaforge.org">BlogCFC</a>, <a href="http://galleon.riaforge.org">Galleon</a>, and <a href="http://canvas.riaforge.org">Canvas Wiki</a>. These plans are simple and are now 100% retroactive.

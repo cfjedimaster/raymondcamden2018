@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/18/Verity-Tip-THESAURUS-Searching
+guid: 712
 ---
 
 One of the cooler features of Verity and ColdFusion is the THESAURUS tool. This lets you search for documents and match words that have the same meaning as your original word.

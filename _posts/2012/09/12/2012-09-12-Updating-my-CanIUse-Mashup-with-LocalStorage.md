@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/12/Updating-my-CanIUse-Mashup-with-LocalStorage
+guid: 4730
 ---
 
 Last week I <a href="http://www.raymondcamden.com/index.cfm/2012/9/4/Mashups-of-CanIUsecom-data">blogged</a> a mashup I built. It took <a href="http://caniuse.com">CanIUse.com</a> data and allowed you to select multiple features at once to see how well - at an aggregate - browsers supported those features. This mashup was possible because CanIUse.com shares their data as a JSON file. This file is a good 200K big. That's a sizable chunk of data to load on every request. I thought it might be cool to update the code to make use of LocalStorage to keep a copy of the data on the user's browser.

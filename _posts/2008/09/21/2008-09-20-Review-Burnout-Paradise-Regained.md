@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2008/09/21/Review-Burnout-Paradise-Regained
+guid: 3025
 ---
 
 Way back in February I did a quick review <a href="http://www.raymondcamden.com/index.cfm/2008/2/16/Review-Burnout-Paradise-Lost">Burnout Paradise</a>, the first <i>real</i> Burnout for the next gen systems. I talked about how disappointing the races were due to the open sandbox approach of the game. Burnout has always been about speed, and once you do something to make you want to slow down, you lose something what makes Burnout fun. The further lack of a reset for races just made me want to give up - which I did.

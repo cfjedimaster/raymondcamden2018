@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/11/Ask-a-Jedi-UDFs-and-CFCs
+guid: 1262
 ---
 
 Sorry for the light ColdFusion content this week. As you can tell, I'm really getting into Flex 2. Anyway, here is an interesting question from Todd:

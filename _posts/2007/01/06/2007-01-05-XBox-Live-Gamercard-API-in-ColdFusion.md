@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/06/XBox-Live-Gamercard-API-in-ColdFusion
+guid: 1757
 ---
 
 There isn't a real API for XBox Live, but I thought it would be fun to whip one up. This UDF is a bit ugly and needs to be cleaned. I'll release to <a href="http://www.cflib.org">CFlib</a> once I've made it nicer. Right now it returns gamescore (nerd score!), a link to your gamer image, your last five games played, your XBox Live level, and a link to your XBox Live URL. 

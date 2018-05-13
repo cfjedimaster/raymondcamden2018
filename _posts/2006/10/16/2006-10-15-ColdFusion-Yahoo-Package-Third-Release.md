@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/16/ColdFusion-Yahoo-Package-Third-Release
+guid: 1588
 ---
 
 This release adds the Map API to the package. Need to add a map to your next user group meeting? Is this simple enough:

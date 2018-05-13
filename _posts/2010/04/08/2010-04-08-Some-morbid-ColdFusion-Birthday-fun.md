@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/04/08/Some-morbid-ColdFusion-Birthday-fun
+guid: 3775
 ---
 
 So, many, many, <i>many</i> years ago I built a little web app called the <a href="http://www.deathclock.com">Death Clock</a>. I wrote it in Perl (which is what I began my web dev career in) and dropped it on my free university web space and promptly got kicked off in a week when it "spiked" at about 1000 hits per day. (This was back when web counters were big. I can't describe the excitement I got from reloading my page and seeing the little graphical counter - also a Perl script - incrementing by 5-10 hits.) I rewrote the code in pure JavaScript and then - a few years later - rewrote the site in ColdFusion. I sold that web site close to 6 or 7 years ago, but the code behind it is simple - and fun - so I thought I'd share a quick example today.

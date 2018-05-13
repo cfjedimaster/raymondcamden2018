@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/29/Scotch-on-the-Road-2009
+guid: 3333
 ---
 
 I really, <i>really</i> wish I could make this conference. I heard a lot of good things about Scotch last year and had promised myself I'd go this year, but unfortunately, the economy put a wack on that. Anyway, I hope folks consider giving it a shot. Here is some basic information about the conference. Enjoy. (P.S. Anyone know if the TigerTiger location in Manchester was named after the Duran Duran song?)

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/05/22/OSX-Outlook-keeps-asking-for-a-password
+guid: 4941
 ---
 
 Ever since day one at Adobe I've had an odd issue with Outlook on my Mac. About 3-4 times a day it would 'forget' my password. As soon as I entered my password it worked, but it bugged me that I had to keep re-entering it. I Googled but never found the right answer. I deleted and recreated my profile numerous times, but it never helped.

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/14/Verified-plugins-site-for-Cordova-applications
+guid: 5266
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/30/Scotch-on-the-Rocks-2010-and-other-random-ramblings
+guid: 3834
 ---
 
 After a week away from home and a few thousand miles of travel, I'm finally back in my Lazy Boy, drinking coffee and enjoying being with my wife and kids. I thought I'd share some thoughts about Scotch on the Rocks (and other random things) with you guys. For those who want to skip the boring bits, you can stop here: Scotch on the Rocks == Great. Ok, now for the details.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/19/Spry-Apollo-and-Remote-XML-Sources
+guid: 2051
 ---
 
 So this is probably a 'Duh' type post, but I was curious how Apollo and it's "open" web browser would handle remote AJAX requests. As you know (or hopefully know), when doing AJAX requests your browser can only request AJAX data from the same server. So consider a typical Spry dataset:

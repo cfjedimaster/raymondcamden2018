@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/04/ColdFusion-Quickie-Finding-all-the-credit-card-numbers-in-a-string
+guid: 4184
 ---
 
 My coworker just asked for a quick way to find all the credit cards in a string. Here is a script I wrote up for it. This does <i>not</i> apply the Luhn algorithm on the results. It simply looks for 16 numbers in a row or 4 sets of 4 digits separated by a space. One nice thing you might like - and might not have seen before - is the use of reMatch, which finds, and returns, all the matches of a regex in a string. I'm sure someone is going to come around and write this 10x better, so consider it a challenge. ;)

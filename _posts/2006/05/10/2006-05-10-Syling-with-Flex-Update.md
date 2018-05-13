@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/05/10/Syling-with-Flex-Update
+guid: 1260
 ---
 
 Yesterday I <a href="http://ray.camdenfamily.com/index.cfm/2006/5/9/Ask-a-Jedi-Stylin-with-Flex#comments">answered</a> a question about Flex and styles. Mike Chambers <a href="http://weblogs.macromedia.com/mesh/archives/2006/05/example_styling.html">posted</a> a good entry on the same topic. Of special note is a link to the Flex2 docs style chapter:

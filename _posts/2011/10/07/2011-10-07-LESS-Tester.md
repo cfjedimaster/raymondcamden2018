@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/10/07/LESS-Tester
+guid: 4383
 ---
 
 This past week I had the pleasure of seeing Nathan Strutz present on <a href="http://lesscss.org/">LESS</a>, a CSS 'language' that allows you to do simple things like variables, functions, and other time saving tricks with your CSS files. It looked pretty cool and I thought I'd like to play with it a bit. I decided to quickly write a desktop application that would let me do quick tests with LESS. Here's the result:

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/09/02/ripple-is-reborn-again
+guid: 6718
 ---
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/09/ripple-logo-square.png" alt="ripple-logo-square" width="150" height="150" class="alignleft size-full wp-image-6719" />  Almost two years ago I blogged (<a href="http://www.raymondcamden.com/2013/11/05/Ripple-is-Reborn">Ripple is Reborn</a>) about the relaunch of the Ripple emulator. Ripple lets you test Apache Cordova applications in the browser. It mocks many of the built in plugins (device, geolocation, accelerometer and more) and can be a good way of debugging your hybrid mobile applications. Unfortunately, about a year or so ago something on the Cordova side changed that had a negative impact on Ripple. Whenever I would use it, I'd get an infinite loop in the console that would effectively kill the browser tab. 

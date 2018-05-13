@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/12/Battlestar-Galactica-to-continue
+guid: 2028
 ---
 
 Batllestar Galactica (also known as the best show on tv) was recently rumored to be ending its run after the 4th season. Now Sci Fi Wire is <a href="http://www.scifi.com/scifiwire/index.php?category=2&id=41457">reporting otherwise</a>. Not only is the 4th season not the last (well, not now anyway), but the original report had said that there would only be 13 episodes. Now they are saying it will be a full 22. 

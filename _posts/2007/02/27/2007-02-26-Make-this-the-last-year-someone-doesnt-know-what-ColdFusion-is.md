@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/27/Make-this-the-last-year-someone-doesnt-know-what-ColdFusion-is
+guid: 1864
 ---
 
 After the recent trouble I had with <a href="http://www.thepeoplestoolbox.com/programmers/">The People's Toolbox</a>, I'm going to keep an eye out for any and every chance possible to help spread the gospel of ColdFusion. 

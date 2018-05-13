@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/20/A-use-for-structFind
+guid: 2360
 ---
 
 While in general I would not think any ColdFusion function is useless, I've never really thought much of <a href="http://www.cfquickdocs.com/?getDoc=StructFind">structFind()</a>. StructFind simply returned value of a structure's key. To me - this seemed silly. If you wanted the value of the key - why wouldn't you just get it?

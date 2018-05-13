@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/12/Presenting-to-Detroit-CFUG-Tonight
+guid: 2340
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//robocop2.jpg" align="left">

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2008/07/07/jQuery-API-Browser-Another-cool-AIR-Example
+guid: 2919
 ---
 
 Remy Sharp has posted a nice AIR jQuery API browser. You can find it here:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/19/Why-dont-bookmarks-display-in-Adobe-Reader-8
+guid: 1846
 ---
 
 So - I think I may be a bit slow. For some reason I find the newest Adobe Reader <i>really</i> hard to use. I just spent about 10 minutes trying to figure out why on my Mac I could see bookmarks for a PDF but not on a PC. I kept clicking the Bookmarks icon but nothing happened. 

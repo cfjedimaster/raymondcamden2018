@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/13/Reading-MP3-ID3-tags-with-ColdFusion
+guid: 1328
 ---
 
 You may have heard of a file format called MP3. It is an audio format that is small and compact and easy to share. If you don't have any MP3s, you can contact that RIAA. They seem to be pretty good at finding them. If you do have a few MP3s, you may know that some programs, like iTunes, will show you information about the MP3, like song title, artist, duration, etc. This information is stored in the MP3 file itself and is called ID3. ID3 is a format to embed information in the MP3 file itself. (For more information, see the <a href="http://www.id3.org/intro.html">site</a>.) Since I have a few MP3s on my hard drive, I decided to see how hard it would be to get ColdFusion to read and parse these tags. It's been done before. Christian Cantrell released code on one of the first DRKs that did this. Since this isn't public domain though, let's start from scratch and see how hard it is.

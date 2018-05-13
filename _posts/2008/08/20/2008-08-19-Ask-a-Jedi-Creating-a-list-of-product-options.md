@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/08/20/Ask-a-Jedi-Creating-a-list-of-product-options
+guid: 2979
 ---
 
 Andrew asks:

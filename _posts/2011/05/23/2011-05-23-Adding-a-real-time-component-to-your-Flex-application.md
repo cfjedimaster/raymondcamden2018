@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/23/Adding-a-real-time-component-to-your-Flex-application
+guid: 4245
 ---
 
 For a long time now I've had something of a mildly addictive personality when it comes to computer simulations. One of the first games I played - and hacked - was Lemonade Stand on the Apple 2e. Later on I spent many hours playing Taipan. Now I'm really into a little game called Farmville. You may have heard of it. One of the things that interest me most about Farmville is that it has a real time component to it. You may do some planting in the morning and while you are away your crops will grow. Later that night you can log back in and see a change to your farm. It makes the simulation seem more realistic and - let's face it - encourages you to come back. A lot. So I've been giving some thought about how this could be done with a mobile application. I've been playing <a href="https://market.android.com/details?id=com.seventeenbullets.android.island&feature=search_result">Paradise Island</a> on my phone - a simple economic/Sim City clone - but it also has a "over time" aspect to it. I figured - I could build something like that - right?

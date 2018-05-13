@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/21/Nodejs-Quickie-checking-the-current-domain-name
+guid: 5014
 ---
 
 I'm working on a quick proof of concept (for a killer idea, honest, I <strong>swear</strong>) that needs to rely on a subdomain name to determine how the application responds. So as an example, I want to see something different for foo.app.com versus goo.app.com, and obviously support www.app.com and app.com. Here is a quick way to handle that.

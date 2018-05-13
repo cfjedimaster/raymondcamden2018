@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/27/Ask-a-Jedi-Send-email-on-long-running-process
+guid: 1064
 ---
 
 Steve asks:

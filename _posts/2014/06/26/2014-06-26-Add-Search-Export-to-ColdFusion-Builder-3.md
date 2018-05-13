@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/06/26/Add-Search-Export-to-ColdFusion-Builder-3
+guid: 5254
 ---
 
 <p>

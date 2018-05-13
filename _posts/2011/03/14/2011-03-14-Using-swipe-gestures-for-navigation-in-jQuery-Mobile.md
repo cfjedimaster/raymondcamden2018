@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/14/Using-swipe-gestures-for-navigation-in-jQuery-Mobile
+guid: 4156
 ---
 
 A few weeks back I posted a simple jQuery Mobile demo that demonstrated <a href="http://www.raymondcamden.com/index.cfm/2011/2/25/jQuery-Mobile-Example--Paged-Search-Results">paged search results</a>. The idea was simple - present an input field to the user to search against a database of art and allow for paged results. Be sure to review that <a href="http://www.coldfusionjedi.com/index.cfm/2011/2/25/jQuery-Mobile-Example--Paged-Search-Results">entry</a> on the particulars. I thought it would be interesting to look into a cooler way of paging through the results - using swipe gestures.

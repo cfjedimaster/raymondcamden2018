@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/01/Ask-a-Jedi-Building-a-ColdFusion-site-to-support-dynamic-subdomains
+guid: 3380
 ---
 
 Rick asks:

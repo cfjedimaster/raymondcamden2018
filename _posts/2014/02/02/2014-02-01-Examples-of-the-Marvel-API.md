@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/02/Examples-of-the-Marvel-API
+guid: 5143
 ---
 
 <p>

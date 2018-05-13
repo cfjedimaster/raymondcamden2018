@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/01/02/Quick-tips-on-Sprys-new-PagedView-feature
+guid: 1746
 ---
 
 Here are a few quick tips if you want to use the new <a href="http://labs.adobe.com/technologies/spry/samples/data_region/SpryPagedViewSample.html">PagedView</a> support in Spry (remember, this code isn't yet in the "released" version). 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/29/ColdFusion-Newbie-Contest-Entry-6
+guid: 2070
 ---
 
 Welcome to the 6th entry in my <a href="http://ray.camdenfamily.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">newbie ColdFusion contest</a>. Today's entry is by Joe Zhou. His entry didn't have a name, but referred to the Monster so that's what I'm calling it. His entry has a few graphics in it that are copyrighted, so as with the last few entries I'm not putting a demo online. I do encourage you to download it (use the Download link below), and check it out.

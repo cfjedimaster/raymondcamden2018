@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/01/ColdFusion-8-Image-Resize-options
+guid: 3077
 ---
 
 From time to time people will ask (either here, or cf-talk, or wherever) about the speed of ColdFusion 8's image resizing. Typically they are asking because the speed can be a bit slow. My normal response is to remind people that Adobe provided numerous ways to resize, ranging from very slow and high quality options to much quicker and less quality options. I've been meaning to write a script that would compare these resize options and I finally got a chance too this morning.

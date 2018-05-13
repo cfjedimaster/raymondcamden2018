@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [bluemix,strongloop]
 banner_image: 
 permalink: /2015/10/12/working-with-strongloop-part-one
+guid: 6893
 ---
 
 A few weeks back when I was shuttling back and forth between this side of the planet and the other, IBM purchased <a href="http://www.strongloop.com">StrongLoop</a>. I'll be honest and say that before this purchase, I had never heard of them. A quick perusal of their home page will tell you this:

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/09/28/Ask-a-Jedi-followup-updating-multiple-records-at-once
+guid: 3544
 ---
 
 Here is a quick follow up to a blog entry I did back in February: <a href="http://www.raymondcamden.com/index.cfm/2009/2/10/Ask-a-Jedi-Updating-multiple-records-at-once">Ask a Jedi: Updating multiple records at once</a>. I had more than one person ask me to modify the code from that example to handle multiple fields per record. The template I had created only allowed you to edit the name. Here is a simple example that builds upon the first version and allows you to edit the description and price as well.

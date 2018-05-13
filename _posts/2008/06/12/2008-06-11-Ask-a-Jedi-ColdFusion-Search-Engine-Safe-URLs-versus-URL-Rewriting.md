@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/12/Ask-a-Jedi-ColdFusion-Search-Engine-Safe-URLs-versus-URL-Rewriting
+guid: 2877
 ---
 
 Dan the Man asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/30/Ask-a-Jedi-Getting-the-SQL-from-a-Query
+guid: 2850
 ---
 
 This is a dupe, but as it comes up kind of often, I thought I'd blog it anyway. Doug asks:

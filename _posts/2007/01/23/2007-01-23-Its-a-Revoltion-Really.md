@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2007/01/23/Its-a-Revoltion-Really
+guid: 1793
 ---
 
 Many months ago I <a href="http://ray.camdenfamily.com/index.cfm/2005/9/16/Its-a-Revolution-No-Really">blogged</a> about my impressions about what was then called the Nintendo Revolution, now known as the Wii. I expressed same grave doubt about the platform. In fact, I said:

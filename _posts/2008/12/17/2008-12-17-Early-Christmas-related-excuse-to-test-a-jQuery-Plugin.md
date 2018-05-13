@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2008/12/17/Early-Christmas-related-excuse-to-test-a-jQuery-Plugin
+guid: 3153
 ---
 
 Warning, this post is nothing more than a) a chance to show off a new picture of the kids (or as I call them, the North American branch of the South Korean Army) and b) quickly test a jQuery Lightbox plugin (which may be found <a href="http://jquery.com/demo/thickbox/">here</a>):

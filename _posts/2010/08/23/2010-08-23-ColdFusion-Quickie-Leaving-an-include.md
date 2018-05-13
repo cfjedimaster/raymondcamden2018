@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/23/ColdFusion-Quickie-Leaving-an-include
+guid: 3919
 ---
 
 Did you know that you can "leave" a cfinclude and return to a calling template? This may be useful in cases where you realize you no longer need to run the rest of the cfinclude and simply with ColdFusion to carry on back in the calling document. Consider the following simple example:

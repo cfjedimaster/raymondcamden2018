@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/05/Ask-a-Jedi-Issue-with-single-quotes-in-a-query
+guid: 2393
 ---
 
 Alex had a problem with his SQL. This is actually a frequently asked question and I've covered it here before (I think so anyway), but I thought I'd mention it again. It comes up from time to time as people forget. Anyway - his question:

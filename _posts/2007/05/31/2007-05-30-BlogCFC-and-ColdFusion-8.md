@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/31/BlogCFC-and-ColdFusion-8
+guid: 2077
 ---
 
 So I thought I'd write a quick note to talk about my plans for BlogCFC and ColdFusion 8. First off - there is a bug that prevents BlogCFC from running under CF8. This was due to me writing some code that worked right but should not have under CF7. I've fixed this bug and have checked into into the Subversion repository. The file in question is /org/camden/render/render.cfc. Grab it if you plan on running  BlogCFC under ColdFusion 8.

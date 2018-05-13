@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/07/Ask-a-Jedi-Enhancing-the-Flash-Form-Grid-2
+guid: 678
 ---
 
 In my last <a href="http://ray.camdenfamily.com/index.cfm/2005/8/6/Ask-a-Jedi-Enhancing-the-Flash-Form-Grid">entry</a>, I talked about how the cfgrid control could be enhanced to make it a bit more powerful. The basic idea is to use a detail panel to show items that won't quite fit in the grid, or won't work in the grid. My example code was a bit too simple, however, and didn't really show a good example of binding a truly dynamic select. The example I gave actually had a static select. (On a side note, I left "bind" code in the cfselect that doesn't actually work.) 

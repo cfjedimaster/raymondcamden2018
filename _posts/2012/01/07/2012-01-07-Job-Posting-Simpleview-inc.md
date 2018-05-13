@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/07/Job-Posting-Simpleview-inc
+guid: 4486
 ---
 
 Just passing this along...

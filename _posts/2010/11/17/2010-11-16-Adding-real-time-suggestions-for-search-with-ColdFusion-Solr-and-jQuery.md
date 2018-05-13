@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/11/17/Adding-real-time-suggestions-for-search-with-ColdFusion-Solr-and-jQuery
+guid: 4016
 ---
 
 This week I read an interesting article on <a href="http://solr.pl/2010/10/18/solr-and-autocomplete-part-1/?lang=en">Solr and autocomplete</a>. It got me thinking about similar behavior with Solr under ColdFusion. Without going into too much detail, a real autocomplete wasn't feasible with the Solr collections ColdFusion creates, but we could do something similar. Instead of providing a list of auto complete options on your search, I'm going to use Ajax to provide a suggestion based on what you type. Here is what I came up with.

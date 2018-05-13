@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/09/18/Topic-Undefined-Episode-5
+guid: 5042
 ---
 
 <p>

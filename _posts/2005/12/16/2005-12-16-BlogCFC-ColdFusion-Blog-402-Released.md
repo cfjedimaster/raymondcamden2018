@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/16/BlogCFC-ColdFusion-Blog-402-Released
+guid: 975
 ---
 
 Woohoo! Another Friday, and another update. Today's update includes the following changes:

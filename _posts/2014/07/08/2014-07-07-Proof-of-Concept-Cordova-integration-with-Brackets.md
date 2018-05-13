@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/08/Proof-of-Concept-Cordova-integration-with-Brackets
+guid: 5260
 ---
 
 <p>

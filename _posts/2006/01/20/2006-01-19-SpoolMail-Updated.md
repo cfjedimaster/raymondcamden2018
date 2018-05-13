@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/20/SpoolMail-Updated
+guid: 1041
 ---
 
 I made two minor updates to <a href="http://ray.camdenfamily.com/projects/spoolmail">SpoolMail</a>. First off - I got rid of the Application.cfc file and changed it to a Application.cfm file provided by Phillip Duba. Now - let me be clear. Application.cfc is <i>much</i> better than Application.cfm. But since this was the only thing preventing the application from working in CFMX6 (and 5 most likely), it seemed like a good call.

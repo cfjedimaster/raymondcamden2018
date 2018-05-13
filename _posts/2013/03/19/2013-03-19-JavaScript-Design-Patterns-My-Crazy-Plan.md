@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/03/19/JavaScript-Design-Patterns-My-Crazy-Plan
+guid: 4884
 ---
 
 I've been toying with an idea for a while now, and I kinda figured if I <i>blogged</i> it, I'd be more motivated to actually <i>do</i> it. I'm currently reading "Learning JavaScript Design Patterns" (associate link below!) by Addy Osmani. I plan on posting a review of it once done. In the meantime though, I'd like to work up some examples of the patterns in "real" applications. Obviously I don't mean client work per se, but, something a bit more concrete than a sample in the book. I'm not sure I can accomplish this for every pattern in the book, but I think it might be fun to try. I don't make any assumptions about how good these examples will be. To be honest, I mainly want to do this to just help me learn the concepts a bit better. But my hope is that it can help others as well.

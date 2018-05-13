@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/13/Ask-a-Jedi-Various-Quickies
+guid: 848
 ---
 
 Once again I'm going to try to cover a few Ask a Jedi questions at once. Here is the first one:

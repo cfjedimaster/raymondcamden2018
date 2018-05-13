@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/25/ColdFusionSlideShare-integration-tip
+guid: 2789
 ---
 
 I'm doing some work integrating <a href="http://www.slideshare.net/">SlideShare</a> with ColdFusion. SlideShare has a rather simple API, but no matter what I did, I kept getting an API failed validation. Turns out the error was rather simple. 

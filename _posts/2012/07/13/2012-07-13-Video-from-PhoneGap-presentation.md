@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/07/13/Video-from-PhoneGap-presentation
+guid: 4676
 ---
 
 Miss my presentation this week in Nashville? You can now watch a video of it:

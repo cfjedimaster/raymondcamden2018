@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/01/16/Quick-Tip-Running-WebSQL-commands-in-Chrome-Dev-Tools
+guid: 4831
 ---
 
 I'm a big fan of WebSQL, which is, unfortunately, going the way of the Dodo since it was apparently just too easy to use. One of the nice things about the feature is that Chrome Dev Tools make it real easy to use. As an example, here is what you can see on a page making use of WebSQL.

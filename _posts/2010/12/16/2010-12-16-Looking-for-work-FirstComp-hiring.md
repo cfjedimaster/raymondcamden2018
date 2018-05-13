@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/16/Looking-for-work-FirstComp-hiring
+guid: 4056
 ---
 
 Just passing on the news that FirstComp, my employer, has two positions open for Application Developers. These are <i>not</i> remote positions - you have to either be in the area or be willing to relocate - but if you are - check out the job descriptions:

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/10/24/Curious-about-Edge-Inspect
+guid: 4767
 ---
 
 <img src="https://static.raymondcamden.com/images/inspect.png" style="float:left;margin-right: 10px" /> Want to learn more about Edge Inspect? Check out a free online "Ask a Pro" session this Friday. The session is free, but you need to register ahead of time to get the URL to the meeting for Friday. 

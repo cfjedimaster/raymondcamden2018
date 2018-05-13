@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/05/03/Official-release-of-ColdFusion-Builder-2-Creative-Suite-55-Flash-Builder-55
+guid: 4216
 ---
 
 The title says it all, but last night marked the official releases of <a href="http://www.adobe.com/products/coldfusion-builder.html">ColdFusion Builder 2</a>, <a href="http://www.adobe.com/products/flash-builder.html">Flash Builder 4.5</a>, and <a href="http://www.adobe.com/products/creativesuite.html">Creative Suite 5.5</a>. I've blogged quite extensively about ColdFusion Builder 2 and I'm very excited to see the final release. I'll be talking about it at cfObjective (both in the keynote and in my session), and it looks like I'll be covering for Josh Adams on the ColdFusion Meetup tomorrow. (Need to nail down the details with Charlie.)

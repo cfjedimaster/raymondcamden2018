@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/14/Adding-click-support-in-ColdFusion-10-Charting
+guid: 4561
 ---
 
 If you read the release notes for the new charting support in ColdFusion 10, you may come across this little gem:

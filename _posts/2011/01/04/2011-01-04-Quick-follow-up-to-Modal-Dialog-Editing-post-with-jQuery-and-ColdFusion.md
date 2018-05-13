@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/04/Quick-follow-up-to-Modal-Dialog-Editing-post-with-jQuery-and-ColdFusion
+guid: 4073
 ---
 
 This weekend I wrote up a <a href="http://www.raymondcamden.com/index.cfm/2011/1/2/Ask-a-Jedi-Example-of-modal-dialog-editing-with-jQuery">quick blog post</a> that demonstrated using jQuery and jQuery UI for front end editing of database content. ColdFusion was used to store changes made via a jQuery dialog and jQuery did all the handling of data back and forth. Alex asked if it was possible to demonstrate the code using a table instead of the lovely green divs I had created. Here is what I came up with. I'm going to focus on the changes so please be sure to read the <a href="http://www.coldfusionjedi.com/index.cfm/2011/1/2/Ask-a-Jedi-Example-of-modal-dialog-editing-with-jQuery">previous entry</a> for details on how this all works together. Ok, so first, the template.

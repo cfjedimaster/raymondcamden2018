@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/26/Bring-the-Misery-Hammer-down-on-your-trolls
+guid: 4210
 ---
 
 Earlier today a buddy of mine tweeted about an interesting Drupal plugin he found - <a href="http://drupal.org/project/misery">Misery</a>. I'm not a Drupal user but anything named Misery sounds pretty cool. Turns out the plugin is an interesting way to to fight against trolls. Anyone who runs a site that allows for user content will know what kind of trouble a bad troll can cause. Worse than a spammer, they can slip by undetected from your conventional blocking methods and slowly poison a site. While I'm not sure you can accurately detect a troll automatically, if you did have a way of flagging a troll then a plugin like this could be kind of cool. And if it can be done in PHP, then certainly we can build it in ColdFusion.

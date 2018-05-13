@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/25/query-dump-query-dump-is-this-better
+guid: 4341
 ---
 
 I'm working on an application where I don't (yet) have access to the database schema. It's a complex application with lots of data and isn't the most... how shall I say it.. well structured set of data I've even seen. To help me dig into the database and figure out what's going where, I'm doing a bunch of cfquery calls followed up by a cfdump. 

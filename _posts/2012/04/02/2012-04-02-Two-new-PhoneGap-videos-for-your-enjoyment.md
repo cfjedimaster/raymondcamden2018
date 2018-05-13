@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2012/04/02/Two-new-PhoneGap-videos-for-your-enjoyment
+guid: 4577
 ---
 
 On my last trip to San Francisco I filmed a few PhoneGap videos. I hope these are helpful. At minimum you can laugh at how much I need a hair cut. Enjoy.

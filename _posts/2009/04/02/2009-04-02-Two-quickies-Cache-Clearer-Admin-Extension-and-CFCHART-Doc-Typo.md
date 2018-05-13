@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/02/Two-quickies-Cache-Clearer-Admin-Extension-and-CFCHART-Doc-Typo
+guid: 3303
 ---
 
 Two quick notes. First, the Cache Clearer code I released a long, long time ago (it uses the ColdFusion 8 Admin API to refresh items from the file cache) has been released as a 'formal' RIAForge project: <a href="http://cacheclearer.riaforge.org">http://cacheclearer.riaforge.org</a> I added some user submitted updates, wrote a quick readme file, and packaged it up. 

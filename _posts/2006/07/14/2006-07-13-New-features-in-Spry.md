@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/14/New-features-in-Spry
+guid: 1401
 ---
 
 Here is a quick look at some new features in Spry. I modified my older <a href="http://www.cflib.org/spry/index.cfm">CFLib Spry</a> demo to show off a few new things. You can find the new demo here:

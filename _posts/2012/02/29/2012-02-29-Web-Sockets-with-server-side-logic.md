@@ -6,6 +6,7 @@ categories: [coldfusion,html5]
 tags: []
 banner_image: 
 permalink: /2012/02/29/Web-Sockets-with-server-side-logic
+guid: 4545
 ---
 
 <b>Edit on March 2nd: Note that I've found that I had a misunderstanding of web sockets. Instead of beforeSendMessage, this code should be using beforePublish. See <a href="http://www.raymondcamden.com/index.cfm/2012/3/2/Web-Sockets-with-server-side-logic-2">this blog entry</a> for details.</b>

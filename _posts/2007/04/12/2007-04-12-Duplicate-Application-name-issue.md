@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/12/Duplicate-Application-name-issue
+guid: 1955
 ---
 
 A friend of mine was tearing his hair out trying to solve a problem that occurred randomly. For some reason he would get an error about a certain application variable not existing. He showed me the code - and we both agreed that this was simply not possible. The variable was clearly being defined in the application.

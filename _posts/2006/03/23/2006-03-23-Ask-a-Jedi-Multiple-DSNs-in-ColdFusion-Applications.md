@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/23/Ask-a-Jedi-Multiple-DSNs-in-ColdFusion-Applications
+guid: 1166
 ---
 
 I was a bit surprised by this question as it never occurred to me it that someone would even ask it, but heck, that was the reason for the Ask a Jedi series so maybe others are wondering as well. Audra asks:

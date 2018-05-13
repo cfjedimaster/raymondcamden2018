@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/05/23/ColdFusion-Developer-Week-and-graphics
+guid: 4626
 ---
 
 As announced on the <a href="http://blogs.coldfusion.com/post.cfm/coldfusion-developer-week-is-back-4th-and-8th-june-2012">Adobe ColdFusion</a> blog, ColdFusion Developer Week is back. This is an entire week of online ColdFusion presentations from experts in our community. The best part? It's entirely free! Sign up via the link above. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/09/Proposals-for-ColdFusion-9-From-the-Enemys-Camp
+guid: 2816
 ---
 
 Yesterday I was reading an interesting article (from <a href="http://www.dzone.com">Dzone</a>): 

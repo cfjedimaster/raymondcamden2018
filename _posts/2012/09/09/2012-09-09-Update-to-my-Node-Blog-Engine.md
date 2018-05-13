@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/09/Update-to-my-Node-Blog-Engine
+guid: 4726
 ---
 
 Just a quick Sunday post (mainly so I can avoid stressing over my Saints). A week or so I <a href="http://www.raymondcamden.com/index.cfm/2012/8/29/Thoughts-on-Nodejs-and-Express">posted</a> about my first attempt to build a "real" Node.js app with Express. My goal was to build a simple front end to my blog database. This gave me a simple enough application to learn Node/Express as well as plenty of data. I've been able to update the application quite a bit and I thought I'd share what I've done. As before, please do not consider this <b>best pratice</b> Node.js/Express development. I'm still <i>very</i> early in my Node education.

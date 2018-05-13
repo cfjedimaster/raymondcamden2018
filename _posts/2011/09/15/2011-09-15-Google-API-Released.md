@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/15/Google-API-Released
+guid: 4366
 ---
 
 Today Google+ released their "API" - <a href="http://developers.google.com/+/overview">Google+ Platform</a>. I put that in quotes because their API now is only three methods, but it's a start at least. The API allows you to get a user profile, get a user's post stream, and fetch one particular post (what they call activities). OAuth is supported, but you can fetch public data as long as you get an API key. Since the results are all in JSON, using the API is disappointingly trivial. (Heh, ok, so I'm being sarcastic.) Here's an incredibly trivial example using my person ID.

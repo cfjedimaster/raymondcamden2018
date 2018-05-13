@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/02/21/Friday-Puzzler-Rolling-the-die
+guid: 5159
 ---
 
 <p>

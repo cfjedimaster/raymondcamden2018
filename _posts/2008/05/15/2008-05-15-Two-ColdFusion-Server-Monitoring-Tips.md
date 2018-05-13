@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/15/Two-ColdFusion-Server-Monitoring-Tips
+guid: 2830
 ---
 
 These are probably well know, but as I'm working on <a href="http://www.riaforge.org">RIAForge</a> a bit today I thought I'd share. Both are thanks to <a href="http://tjordahl.blogspot.com/">Tom Jordhal</a> who, along with <a href="http://www.cfinsider.com">Jason Delmore</a>, is helping debug the issues on the box.

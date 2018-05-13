@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/14/Ask-a-Jedi-Emailing-CFCHART
+guid: 3194
 ---
 
 Abhishek asks:

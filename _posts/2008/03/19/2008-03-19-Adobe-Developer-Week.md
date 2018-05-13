@@ -6,6 +6,7 @@ categories: [coldfusion,development,flex]
 tags: []
 banner_image: 
 permalink: /2008/03/19/Adobe-Developer-Week
+guid: 2718
 ---
 
 Wow, I just found this out myself, but it may be old news. Next week Adobe is hosting a <b>week</b> full of developer sessions you can attend via Connect. 

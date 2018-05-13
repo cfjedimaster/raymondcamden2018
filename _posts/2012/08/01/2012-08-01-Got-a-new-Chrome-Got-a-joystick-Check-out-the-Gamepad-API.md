@@ -6,6 +6,7 @@ categories: [html5,javascript,video games]
 tags: []
 banner_image: 
 permalink: /2012/08/01/Got-a-new-Chrome-Got-a-joystick-Check-out-the-Gamepad-API
+guid: 4691
 ---
 
 The latest release of Chrome (21.0.1180.57, you know, one of the fifty or so updates that were released over the past week) includes preliminary support for two very cool APIs: WebRTC, the Audio/Video one I've blogged about before, and the <a href="https://dvcs.w3.org/hg/gamepad/raw-file/default/gamepad.html">Gamepad API</a>, which gives you access to game controllers via JavaScript. Roll that around a bit in your game for a second and think about how cool that is. When I built a demo with this API a few weeks back and showed my son, he immediately declared that I was the coolest person he knew and that I should sell the app for money. Luckily he isn't reading this blog so he won't see how uncool I am.

@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/08/Sharing-ColdFusion-WebSockets-among-different-applications
+guid: 5001
 ---
 
 This question came in today and I thought it was pretty interesting:

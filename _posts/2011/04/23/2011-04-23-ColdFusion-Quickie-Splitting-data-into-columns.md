@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/23/ColdFusion-Quickie-Splitting-data-into-columns
+guid: 4204
 ---
 
 This is something I've done many times in the past, but I thought I'd whip up a quick example and share it. Imagine you have a set of data you need to display in columns. With a table it's trivial. You loop and simply begin a new TR every two cells. But what if you aren't using tables? Imagine a CSS based layout with two columns side by side. The contents of the left column need to be every other item, starting with the first one. The contents of the right column need to be every other item, starting with the second one. Here is a quick snippet of code that demonstrates this.

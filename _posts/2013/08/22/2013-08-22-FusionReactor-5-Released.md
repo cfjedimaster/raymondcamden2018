@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/08/22/FusionReactor-5-Released
+guid: 5016
 ---
 
 One of my favorite tools has just been updated - <a href="http://www.fusion-reactor.com/">FusionReactor 5</a>.  If you haven't heard of it, FusionReactor is an <strong>incredibly</strong> deep server monitor for ColdFusion servers. There's some incredibly cool new stuff in the release including a new responsive UI, support for Hibernate and MongoDB, improved alerts, simpler JDBC testing, and extended support for other J2EE platforms.

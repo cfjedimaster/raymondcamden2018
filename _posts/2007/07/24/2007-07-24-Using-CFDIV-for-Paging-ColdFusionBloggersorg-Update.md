@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/24/Using-CFDIV-for-Paging-ColdFusionBloggersorg-Update
+guid: 2218
 ---
 
 So once again I'm messing with <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> to show off some ColdFusion 8 AJAX goodness. This time the idea came from <a href="http://cfsilence.com/blog/client/">Todd Sharp</a>. He suggested making the paging AJAX based. That way when you move from page to page, only the content is loaded. Turns out the change was rather simple. 

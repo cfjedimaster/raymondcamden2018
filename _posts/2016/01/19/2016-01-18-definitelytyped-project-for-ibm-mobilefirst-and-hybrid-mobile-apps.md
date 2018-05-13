@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [mobilefirst]
 banner_image: 
 permalink: /2016/01/19/definitelytyped-project-for-ibm-mobilefirst-and-hybrid-mobile-apps
+guid: 7403
 ---
 
 I've blogged before about the client-side API for hybrid mobile apps built on <a href="

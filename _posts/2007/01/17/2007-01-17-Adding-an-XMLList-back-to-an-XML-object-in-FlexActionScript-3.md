@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/17/Adding-an-XMLList-back-to-an-XML-object-in-FlexActionScript-3
+guid: 1773
 ---
 
 ActionScript 3 (and if this was in 2, please correct me) really makes working with XML easy. However, yesterday I ran into a problem that I couldn't find the answer to. It wasn't in the (extremely excellent) ActionScript 3.0 Cookbook nor was it in the docs. Let me back up a bit and talk about what an XMLList is. Consider XML that looks like so:

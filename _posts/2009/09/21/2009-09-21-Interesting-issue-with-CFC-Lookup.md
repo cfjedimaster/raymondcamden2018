@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/21/Interesting-issue-with-CFC-Lookup
+guid: 3535
 ---
 
 I'm currently working on two Model-Glue projects that run on ColdFusion 9. One for Picard, on my Mac, and one for <a href="http://www.firstcomp.com">FirstComp</a>, where I'm doing some contracting with the team there. One thing I've run into with Model-Glue, ever since I began using it, is the magical "tipping point", the point where keeping reload set to true ends up adding too much time to the request. Typically this is a day or two into the project when I've got multiple controllers, lots of events, etc. I then turn off reloading and dedicate a tab in Firefox just to handle reloading the Model-Glue framework.

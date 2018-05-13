@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/16/Followup-to-CFGRID-MultiRow-Post
+guid: 3944
 ---
 
 A few weeks back I <a href="http://www.raymondcamden.com/index.cfm/2010/8/28/CF901-CFGRIDs-new-multirowselect-feature">blogged</a> about how you would make use of ColdFusion 901's new ability to have a multi-select cfgrid. As described in that post you need to make use of JavaScript to get the values selected. A reader asked me if I could "complete" the demo a bit and show actually performing database updates. Here is what I came up with.

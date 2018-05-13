@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/18/Two-project-updates-Lighthouse-ProtoXMLCanvas
+guid: 1539
 ---
 
 Lighthouse Pro had a very minor update, a fix to one of the new files that let you edit statuses. You can download Lighthouse Pro from the <a href="http://ray.camdenfamily.com/projects/lhp">project page</a>.

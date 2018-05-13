@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/14/Another-Adobe-ColdFusion-Survey
+guid: 2592
 ---
 
 Just a quick note to make sure folks read Damon Cooper's latest blog entry:

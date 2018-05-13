@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/14/Enabling-features-in-ColdFusions-Rich-Text-Editor
+guid: 2541
 ---
 
 A common question is - how can I enable file upload (among other things) in ColdFusion 8's rich text editor? FCKEditor, which the code is based on, has it, so why not CF? Rakshith of the CF team has an excellent blog article demonstrating how to do this:

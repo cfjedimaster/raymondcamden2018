@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/11/30/The-Wisdom-of-Chuck
+guid: 2508
 ---
 
 A little while ago Andrew Powell of Universal Mind released the <a href="http://www.infoaccelerator.net/chuckFacts/">Chuck Norris Fact Web Service</a>. This is a critical feature that has been missing from the Internet for some time. Frankly, I do not know how we have survived without the wisdom of Chuck Norris.

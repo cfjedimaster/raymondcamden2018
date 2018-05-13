@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/03/Adding-an-ADD-button-for-cfgrid
+guid: 2686
 ---
 
 Here is a question forwarded to me from Ben Forta. He thought I could take a stab at it so here is my answer.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/20/Happy-Release-Day
+guid: 1972
 ---
 
 Hey, buddy. Yeah, you. You wanna some new releases? How about...

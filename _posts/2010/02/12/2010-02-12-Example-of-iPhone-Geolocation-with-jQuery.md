@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/02/12/Example-of-iPhone-Geolocation-with-jQuery
+guid: 3721
 ---
 
 At lunch today I took a quick look at how Safari on the iPhone handles Geolocation. If you have an iPhone (you know, that device that doesn't play Flash?) then you've probably seen applications that ask permission to locate your position. The hardware supports it both for applications but web pages as well. I was curious to see a) how difficult it would be to use and b) if it could degrade nicely for other clients.

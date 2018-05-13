@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/25/Online-ColdFusion-Meetup-very-active-this-week-with-3-meetings
+guid: 1980
 ---
 
 The <a href="http://coldfusion.meetup.com/17/">Online ColdFusion Meetup</a> group will be very active this week (unlike this blog). 

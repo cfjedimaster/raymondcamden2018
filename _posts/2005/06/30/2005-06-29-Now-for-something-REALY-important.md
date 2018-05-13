@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/06/30/Now-for-something-REALY-important
+guid: 611
 ---
 
 So I know everyone is waiting anxiously to find out when my luggage will actually arrive. For those who don't know the full story, when I arrived here in D.C. on Tuesday my luggage did not arrive with me. I was told that, most likely, it would be on the next flight out from Atlanta and I would have it that night. 

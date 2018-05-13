@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/21/Ask-a-Jedi-Dynamic-math
+guid: 3826
 ---
 
 Jim asks: 

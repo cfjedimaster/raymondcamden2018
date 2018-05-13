@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/03/08/warning-about-ionic-live-reload-and-the-phonegap-developer-app
+guid: 5787
 ---
 
 This morning I ran into an odd issue with what should have been relatively simple code. I'm working on a set of demos using <a href="http://www.ionicframework.com">Ionic</a> and <a href="http://cordova.apache.org">Cordova</a> that demonstrate a particular use case of the camera. While testing, I noticed that I couldn't see an image I had selected from the gallery.

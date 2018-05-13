@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/20/Quick-and-simple-Tip-Deleting-old-files
+guid: 2487
 ---
 
 Got a log directory that gets stuffed with files? Want a quick and simple way to clean out old files? Here is a simple code snippet. It will scan one directory and remove any file more than 30 days old.

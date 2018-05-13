@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/18/Watch-out-for-Disable-CFC-Type-Check
+guid: 3724
 ---
 
 Ok, I know this sounds crazy, but yesterday I encountered a bug. What makes this more crazy is that the code worked locally on a development machine but not production. Now I know that hasn't happened to any of my readers, but it actually  happened to me twice in the past 24 hours, and in both cases it was the same issue - although expressed in slightly different ways. 

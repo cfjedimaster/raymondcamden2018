@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/26/ColdFusion-Newbie-Contest-Entry-5
+guid: 2064
 ---
 
 Welcome to the 5th entry in the <a href="http://ray.camdenfamily.com/index.cfm/2007/4/16/ColdFusion-Newbie-Contest-Announced--Monster-Maker">ColdFusion Newbie Contest</a>. Today's entry is "Monsta" (is that like Gansta?) from Jay Cunnington. This entry will run online so I've set up a demo here:

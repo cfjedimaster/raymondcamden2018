@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/02/Ask-a-Jedi-Working-with-SES-URLs-and-ColdFusion
+guid: 664
 ---
 
 Joe asks:

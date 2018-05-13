@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/08/Ask-a-Jedi-Learning-CFScript
+guid: 2017
 ---
 
 Brad asks:

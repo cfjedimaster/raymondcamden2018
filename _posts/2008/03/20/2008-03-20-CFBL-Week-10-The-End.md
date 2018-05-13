@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/20/CFBL-Week-10-The-End
+guid: 2719
 ---
 
 10 weeks (or so) ago I started the <a href="http://www.raymondcamden.com/index.cfm/2008/1/14/Wildly-off-topic--Hey-you-fatso">ColdFusion Biggest Losers Club</a>. The idea was to simply see how much weight we could lose over a 10 week period. While participation went up and down, there was a good core set of folks who stuck it out through the end (I'd say through thick and thin, but that's too obvious). The CFBL is now officially over, and here are the final stats.

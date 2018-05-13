@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/21/Fixing-the-Facebook-Problem-and-why-one-ColdFusion-feature-needs-to-die
+guid: 2365
 ---
 
 I spent some time today working with Anthony Webb and <a href="http://www.bennadel.com/blog/recent-blog-entries.htm">Ben Nadel</a> on a rather interesting problem. Anthony was trying to build a Facebook application. (More info may be found at the <a href="http://www.houseoffusion.com/groups/cf-talk/thread.cfm/threadid:53506">cftalk thread</a>.) Facebook's test application sends a form POST to the file you want to respond to it's request. This form POST includes a set of form variables. Here are two of the variables:

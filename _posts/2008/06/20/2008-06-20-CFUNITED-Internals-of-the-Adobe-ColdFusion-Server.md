@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/20/CFUNITED-Internals-of-the-Adobe-ColdFusion-Server
+guid: 2892
 ---
 
 I just sat through "Internals of the Adobe ColdFusion Server" by Eliot Sprehn. This was probably the most fascinating class I've taken at cfunited. Eliot talked about - well - everything behind the scenes of your ColdFusion code. This included some rather interesting information about why certain operations are slow. I'll also say that he has convinced me that 'cheating' (ie, using hidden methods of these internal CF objects) is not as bad as I had thought. He made the point that as long as all your code uses one utility method that had the 'cheat', if CF upgrades to a new version where the cheat isn't needed, you can just replace the cheat with the proper code.

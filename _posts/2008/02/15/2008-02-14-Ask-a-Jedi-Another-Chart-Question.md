@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/15/Ask-a-Jedi-Another-Chart-Question
+guid: 2653
 ---
 
 Woohoo! I love these chart questions. I guess I'm a chart geek. Randy asks:

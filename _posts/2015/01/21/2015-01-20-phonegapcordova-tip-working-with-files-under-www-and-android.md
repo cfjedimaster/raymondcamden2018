@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2015/01/21/phonegapcordova-tip-working-with-files-under-www-and-android
+guid: 5573
 ---
 
 This is a topic that has come up a few times in comments recently but I wanted to post something a bit more explicit. First and foremost, you cannot use the File system APIs to work with files under the www folder. The <a href="http://plugins.cordova.io/#/package/org.apache.cordova.file">docs</a> for the File plugin incorrectly states that you have Read access to the application directory (which would contain www) but that is incorrect. 

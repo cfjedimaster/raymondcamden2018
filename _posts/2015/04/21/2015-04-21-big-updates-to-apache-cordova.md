@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2015/04/21/big-updates-to-apache-cordova
+guid: 6046
 ---
 
 Over the past few days, there have been some pretty big updates to <a href="http://cordova.apache.org">Apache Cordova</a>. If you haven't been following their blog (they don't have a "subscribe" feature so I use a IFTTT email rule), then you may have missed out on the announcements. Here is a quick review of what's new:

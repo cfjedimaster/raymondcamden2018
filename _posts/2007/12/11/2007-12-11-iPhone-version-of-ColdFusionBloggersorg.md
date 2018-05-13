@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/11/iPhone-version-of-ColdFusionBloggersorg
+guid: 2531
 ---
 
 The <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> aggregator now automatically detects the iPhone browser and sends it to a special URL:

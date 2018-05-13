@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/02/18/traffic-on-coldfusion-bloggers
+guid: 5700
 ---
 
 So a reader of mine pinged me today with this question:

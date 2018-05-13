@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/03/18/Please-read-this-plea-for-help-from-a-reader
+guid: 4564
 ---
 
 A reader contacted me a few days ago looking for work. When I found out <i>why</i> he needed work, I was shocked, and asked him if I could post the details here. From what he told me, it sounded like something a lawyer could help him with, but obviously I have no definitive idea if that is true or not. I'm hoping one of my readers may have some advice for him. 

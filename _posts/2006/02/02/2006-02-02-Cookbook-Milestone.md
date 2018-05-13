@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/02/Cookbook-Milestone
+guid: 1073
 ---
 
 Today we crossed 50 entries on the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a>. The project has been up for a bit less than a month now, but in my (not so humble) opinion, I think it is quite a success. Big thanks should go to the contributors below:

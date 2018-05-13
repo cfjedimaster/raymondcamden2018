@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/17/How-do-you-do-X-in-CFScript
+guid: 3752
 ---
 
 With ColdFusion 9 allowing for script-based CFCs, a lot more people (I assume!) are making use of CFScript. Adobe expanded support for many (but not yet all) of ColdFusion tags into script. You may, however, forget exactly how things are implemented. For example, the cfdump tag is writeDump in CFScript. If you want a handy reference to this, you need to use the ColdFusion Developer's Guide, not the CFML Reference. In the chapter/section, "The CFML Programming Language / Extending ColdFusion Pages with CFML Scripting" you will find the following table:

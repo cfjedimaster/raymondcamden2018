@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2012/06/09/Spoiler-Talk-on-Prometheus
+guid: 4645
 ---
 
 I saw Prometheus last night. It was cool. Stop reading now if you haven't seen it. Seriously - this is your last warning...

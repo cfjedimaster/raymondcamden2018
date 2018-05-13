@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/01/Generate-a-tag-cloud-from-an-RSS-feed-with-ColdFusion
+guid: 4515
 ---
 
 Earlier today <a href="http://henke.ws/">Mike Henke</a> asked if there was a way to generate a tag cloud from an RSS feed. While he was able to find a solution quick enough (<a href="http://www.wordle.net">Wordle</a>), I thought it would be kind of fun to try this myself. I knew that Pete Freitag had already blogged on <a href="http://www.petefreitag.com/item/396.cfm">tag clouds and ColdFusion</a>, so all I had to do was generate my word data and pass it to his code. Here's what I came up with.

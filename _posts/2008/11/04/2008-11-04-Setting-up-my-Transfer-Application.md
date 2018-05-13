@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/04/Setting-up-my-Transfer-Application
+guid: 3083
 ---
 
 Following up on my <a href="http://www.raymondcamden.com/index.cfm/2008/11/3/ColdFusion-and-Transfer-And-that-3-letter-O-word">blog entry</a> from yesterday, today I'm going to talk about how to install Transfer and what my simple little application is going to look like.

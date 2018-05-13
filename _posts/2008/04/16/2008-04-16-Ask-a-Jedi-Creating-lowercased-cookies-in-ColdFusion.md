@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2008/04/16/Ask-a-Jedi-Creating-lowercased-cookies-in-ColdFusion
+guid: 2773
 ---
 
 Chris asks:

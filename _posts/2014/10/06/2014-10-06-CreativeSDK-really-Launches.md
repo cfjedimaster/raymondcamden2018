@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/10/06/CreativeSDK-really-Launches
+guid: 5326
 ---
 
 <p>

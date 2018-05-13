@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/21/ColdFusion-9-ORM-error-String-index-out-of-range-0
+guid: 4132
 ---
 
 I just ran into an interesting little issue with my ORM-based ColdFusion 9 site and the explanation was completely surprising to me. I figured I better blog it as I'll probably forget in 3 weeks and Google it to find the answer. The issue cropped up after I had just added some content (a panel) that was saved into a parent object (a page). After the panel was saved and I went to a script that worked with the page object, I began to get this error:

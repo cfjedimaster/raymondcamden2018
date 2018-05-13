@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/04/02/Recording-from-my-PhoneGap-Build-Ask-a-Pro-Session
+guid: 4899
 ---
 
 Miss my presentation last week? You can watch the recording below. If you would like the slide deck or any code samples from what I demonstrated, just ask.

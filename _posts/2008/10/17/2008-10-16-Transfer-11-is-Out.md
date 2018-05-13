@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/17/Transfer-11-is-Out
+guid: 3057
 ---
 
 Just a quick note to let people know that Mark Mandel has released Transfer 1.1. You can get full details on his <a href="http://www.transfer-orm.com/?action=displayPost&ID=372">blog entry</a>. There is a list of new features, but what impresses me most are the new TQL custom tags. I'm stealing from his blog post, but you can now do queries like so:

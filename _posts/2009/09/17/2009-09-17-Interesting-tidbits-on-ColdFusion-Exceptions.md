@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/17/Interesting-tidbits-on-ColdFusion-Exceptions
+guid: 3529
 ---
 
 A reader posted an interesting comment to my <a href="http://www.raymondcamden.com/index.cfm/2007/12/5/The-Complete-Guide-to-Adding-Error-Handling-to-Your-ColdFusion-Application">ColdFusion Exception Handling Guide</a>. He had modified his error handling to store the errors in a database. This allowed him to look at history exception information, do trending, etc. But he ran into trouble trying to remove the stack trace from the exception object. Here is an example of that.

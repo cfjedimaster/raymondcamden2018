@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/30/Rita-Pictures
+guid: 824
 ---
 
 So, only a week later, and I'm finally getting around to posting  my pictures from Rita. Unfortunately, I don't have anything really cool. I was tempted to take some video during the worst parts, but to be honest, I was a big fat chicken. Each of the pictures below links to a bigger version.

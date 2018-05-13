@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/22/Fridays-Random-Media-Post
+guid: 1548
 ---
 
 <img src="http://ray.camdenfamily.com/images/jericho.jpg" align="left" hspace="5"> I've posted before about my fondness for the <a href="http://ray.camdenfamily.com/index.cfm/2006/8/21/TEOTWAWKI-A-good-Monday-post">end of the world</a>, so I decided to tune into <a href="http://www.cbs.com/primetime/jericho/">Jericho</a> this week. How could I not? It had nukes!

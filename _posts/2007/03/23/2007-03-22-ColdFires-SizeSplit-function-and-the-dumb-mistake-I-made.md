@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/23/ColdFires-SizeSplit-function-and-the-dumb-mistake-I-made
+guid: 1919
 ---
 
 When working on <a href="http://coldfire.riaforge.org">ColdFire 0.0.3</a>, I added a new UDF that would take a string and split it into an array. This was used to split the header strings up into more manageable size items. The UDF worked fine (as far as I knew), but then Adam reported he had issues using the values on his side. Check out the UDF and see if you can spot the problem. (No fair looking at the code in the released version.)

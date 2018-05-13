@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2014/02/26/Creating-NextPrevious-Links-in-HarpJS
+guid: 5166
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/06/28/Generate-Random-Data-CFBuilder-Extension
+guid: 3861
 ---
 
 I just released (at RIAForge naturally: <a href="http://randomdatagenerator.riaforge.org/">http://randomdatagenerator.riaforge.org/</a>) a new ColdFusion Builder Extension: Generate Random Data. The idea behind the extension is simple. Many times I have need of a ColdFusion query, but don't have the actual data itself. I may be building a service component, or perhaps writing a simple test for a blog entry. I typically do something like so:

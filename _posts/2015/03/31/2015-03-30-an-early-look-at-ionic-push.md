@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/03/31/an-early-look-at-ionic-push
+guid: 5916
 ---
 
 Before I begin - please, please, <i>please</i> make note of the date of this post (March 30, 2015). As the title says, this is an <strong>early</strong> look at a new feature <a href="http://ionicframework.com">Ionic</a> is adding. The feature is changing quite rapidly (it has already changed a bit since I wrote my demo!) so be sure to check the docs for the latest information. With that out of the way, let's take a look at Ionic Push.

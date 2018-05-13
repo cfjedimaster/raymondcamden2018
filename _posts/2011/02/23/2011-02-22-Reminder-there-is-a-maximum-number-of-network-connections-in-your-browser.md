@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/02/23/Reminder-there-is-a-maximum-number-of-network-connections-in-your-browser
+guid: 4134
 ---
 
 This is something I've known for a while but tend to forget until it slaps me across the face. A reader wrote in with something odd she saw on her web site. She had a basic search site where some of the content was a bit slow to render. Instead of delaying the search results she simply used an Ajax call to update the results in real time. I think this is a great idea. Even if the "total" time remains the same (or close to it), the "perceived" time is <b>much</b> lower for the end user. However, in her testing she noticed something odd. She thought she was running N ajax based calls all at once but in her network tools they appeared to come in "chained", ie one after another. She had expected that if each call took about 1 second and she made 30 of them, they should run asynchronously and completely run within 1 second. (Or within a second or two given network latency randomness.) I whipped up a quick example of this so I could see this in action.

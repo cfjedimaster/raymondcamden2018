@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/02/11/Quick-Google-Analytics-Tip
+guid: 2646
 ---
 
 This weekend David Eckman of <a href="http://www.vkistudios.com/">VKI Studios</a> sent me an email about <a href="http://www.riaforge.org">RIAForge</a>. His company makes frequent use of RIAForge, and as a provider of Google Analytic implementation services, he wanted to let me know about a problem with the way I had set up the code.

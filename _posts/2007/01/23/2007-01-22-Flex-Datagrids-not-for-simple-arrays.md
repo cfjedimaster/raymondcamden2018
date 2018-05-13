@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2007/01/23/Flex-Datagrids-not-for-simple-arrays
+guid: 1791
 ---
 
 Ok, so time for yet another "duh" moment in my Flex learning. Let me describe the situation I ran into a few days ago. I was working with a ColdFusion Component method that returned an array of objects. This array was being used in a datagrid. So far so good.

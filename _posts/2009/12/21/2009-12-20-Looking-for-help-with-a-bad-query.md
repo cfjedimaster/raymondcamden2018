@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2009/12/21/Looking-for-help-with-a-bad-query
+guid: 3658
 ---
 
 Did you know I have the smartest readers in the world? I'm not just saying that. You guys are truly intelligent. And beautiful too. Did I say that? All of my readers are intelligent <b>and</b> strikingly beautiful as well. I'm not just saying that because I <i>really</i> want some help with a query. Honest. Ok, maybe I am. 

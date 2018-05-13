@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/12/22/Ask-a-Jedi-Figuring-out-how-many-rows-of-data-to-use-with-Spry
+guid: 1730
 ---
 
 Bob sent in an interesting email to me this morning:

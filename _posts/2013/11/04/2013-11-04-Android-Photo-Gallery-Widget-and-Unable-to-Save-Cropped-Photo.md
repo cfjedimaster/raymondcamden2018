@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/11/04/Android-Photo-Gallery-Widget-and-Unable-to-Save-Cropped-Photo
+guid: 5077
 ---
 
 <p>

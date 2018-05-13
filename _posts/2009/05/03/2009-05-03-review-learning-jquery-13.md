@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/05/03/review-learning-jquery-13
+guid: 3340
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=1847196705&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&nou=1" style="width:120px;height:240px;margin-right:5px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe> My readers (and Twitter followers) know that I've been learning jQuery over the past few months. While I absolutely love it now, I wasn't terribly happy with it at first. Coming from the simplicity of Adobe's Spry framework (which, by the way, I still recommend for folks who aren't very comfortable with JavaScript/Ajax), I found jQuery to be confusing and hard to get into. I also had some trouble with the documentation. I just... didn't get it. But I kept at it. And slowly, at least for me, I began to greatly appreciate the features and power of jQuery. 

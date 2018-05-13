@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/22/Using-jQuery-to-add-form-fields-with-validation
+guid: 3248
 ---
 
 A few days back I posted a <a href="http://www.raymondcamden.com/index.cfm/2009/2/19/Using-jQuery-to-add-form-fields">blog entry</a> on using jQuery to dynamically add form fields to a form. The example I gave was a form that asked you to enter information about a person and then had a simple way to add new people to the form. I asked for - and got - a lot of feedback on other (better!) ways to write the code. I've taken one of the <a href="http://www.coldfusionjedi.com/index.cfm/2009/2/19/Using-jQuery-to-add-form-fields#c90BBF0C2-19B9-E658-9D653A9820F0D3BB">suggestions</a> from Brian Swartzfager (see his demo <a href="http://www.swartzfager.org/blog/demoFiles/clonedFields/">here</a>) and used it for my next task - adding validation to the form, including validation on the new fields. Definitely view source on his demo as I'll be assuming you have read it.

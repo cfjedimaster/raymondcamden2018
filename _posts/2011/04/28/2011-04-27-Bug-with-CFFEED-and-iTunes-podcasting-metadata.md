@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/04/28/Bug-with-CFFEED-and-iTunes-podcasting-metadata
+guid: 4213
 ---
 
 Yesterday morning I tweeted about a CFFEED issue I had run into. I thought at first it was VFS related, but instead it turned out to be related to iTunes-related podcasting XML tags. I was able to figure this out when I took a closer look at the exception:

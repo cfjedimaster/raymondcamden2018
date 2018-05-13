@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2011/06/19/Take-a-look-at-Angular
+guid: 4273
 ---
 
 Earlier this year I had the opportunity to hear <a href="http://www.elliottsprehn.com/blog/">Elliott Sprehn</a> talk about <a href="http://angularjs.org/#/">Angular</a> at cfObjective. I found the session fascinating and promised myself I'd play around with it a bit more later. I've finally gotten around to doing so and I thought I'd share a few thoughts on why folks may want to check it out.

@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/03/24/having-trouble-with-splash-screens-cordova-and-android
+guid: 5873
 ---
 
 Yesterday I struggled to get - what I thought - was a simple thing working in Cordova - adding a splash screen to Android. According to the <a href="http://cordova.apache.org/docs/en/4.0.0/config_ref_images.md.html#Icons{% raw %}%20and%{% endraw %}20Splash%20Screens">docs</a>, at minimum, you should be able to do this:

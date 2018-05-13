@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/28/Ask-a-Jedi-CFIMAGE-performance-concerns
+guid: 2737
 ---
 
 James asks:

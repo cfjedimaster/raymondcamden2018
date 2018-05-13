@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/12/18/Help-me-help-you
+guid: 5105
 ---
 
 <p>

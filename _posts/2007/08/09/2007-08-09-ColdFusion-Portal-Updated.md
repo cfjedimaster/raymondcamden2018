@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/09/ColdFusion-Portal-Updated
+guid: 2268
 ---
 
 Just a quick note to let folks know that I've updated the <a href="http://www.coldfusionportal.org/index.cfm">ColdFusion Portal</a>. The main change was in the left hand links. A lot of the documentation has changed around and many of the links needed updating. In case folks are curious as to <i>why</i> I built this - the point was to create a simple way to find ColdFusion resources, with a focus on the basics like downloaders and documentation. The Adobe site is pretty... but... sometimes I just can't find anything on it. I don't know if it is just me - but I have a heck of a time finding stuff there. Especially things like updaters and hot fixes.

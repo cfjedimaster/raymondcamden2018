@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2007/09/10/Bug-with-JavaScript-bind-and-textareas
+guid: 2334
 ---
 
 I was playing around with a little something today when I ran across a bug. If you try to use cfajaxproxy and bind a textarea to a JavaScript function, you will get an error if the textarea contains a newline. Consider:

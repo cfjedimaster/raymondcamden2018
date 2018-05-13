@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/09/15/Friday-Puzzler-Automatic-CFC-Method-Tester
+guid: 1532
 ---
 
 One of the cooler features of ColdFusion components is their metadata. This lets you dig into the CFC via CFML and can enable some pretty powerful features. (See <a href="http://ray.camdenfamily.com/projects/canvas">Canvas</a> or the new rendering engine in <a href="http://www.blogcfc.com">BlogCFC 5.5</a> for examples.) Building on the fact that CF lets you grab this metadata easily, let me see how you build the following:

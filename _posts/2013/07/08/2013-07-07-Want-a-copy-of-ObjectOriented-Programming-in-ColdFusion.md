@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/07/08/Want-a-copy-of-ObjectOriented-Programming-in-ColdFusion
+guid: 4978
 ---
 
 A few weeks ago I read, and reviewed, a book for Packt. As my reward I was given the choice of any book I'd like. At the time, there wasn't anything that interested me. So I asked if I could give away a copy of Matt Gifford's <a href="http://www.packtpub.com/object-oriented-programming-coldfusion/book">OO Programming in ColdFusion</a> book and was told that would be fine. 

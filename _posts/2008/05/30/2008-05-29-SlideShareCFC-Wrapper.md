@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/30/SlideShareCFC-Wrapper
+guid: 2849
 ---
 
 I just <a href="http://slidesharecfc.riaforge.org/">released</a> a wrapper for <a href="http://www.slideshare.net">SlideShare</a>, a slide show hosting service. (Although I'm hoping folks use <a href="http://slidesix.com">slidesix.com</a>!) The CFC wraps all the 'read' style actions and is just missing the upload command.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/02/xmlFormat-and-Microsofts-Funky-Characters
+guid: 1631
 ---
 
 Did you know that xmlFormat, which is supposed to make a string safe for XML, doesn't always work? Specifically it will ignore the funky Microsoft Word characters like smart quotes. If you are delivering dynamic content via XML, you cannot rely on xmlFormat alone. This is what I'm using now in <a href="http://ray.camdenfamily.com/projects/toxml">toXML</a>:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/25/Quick-Example-Locking-in-ColdFusion-9
+guid: 3543
 ---
 
 A reader just added a comment to a blog entry I had completely forgotten about I had written: <a href="http://www.raymondcamden.com/index.cfm/2005/8/12/Ask-a-Jedi-CFLOCK-in-CFSCRIPT">Ask a Jedi: CFLOCK in CFSCRIPT</a>. The blog entry details two UDFs I wrote so I could both read and write in a locked fashion via cfscript. I thought I'd quickly show an example of how you can lock now in ColdFusion 9. I had to do this for the first time in Picard a few days ago.

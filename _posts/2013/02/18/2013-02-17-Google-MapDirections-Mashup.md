@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2013/02/18/Google-MapDirections-Mashup
+guid: 4857
 ---
 
 A while back I ran into an interesting problem with Google Maps. I was booking travel for a conference and needing to find the closest Marriott to the conference location. I didn't know the area very well so seeing a few addresses meant nothing to me. I figured Google Maps would be able to help me, but I could only plot one location at a time. (To be clear, I bet there is a way to plot multiple addresses, I just couldn't find it.) I then tried the Directions service. That too was only able to work with two addresses. I ended up entering 4 or 5 Marriott addresses and just trying to remember which one seemed shorter. To get around this, I built a simple application that lets you enter up to five starting addresses and a destination. It then plots driving directions and reports on the total distances for each. It also reports on which starting address is the best.

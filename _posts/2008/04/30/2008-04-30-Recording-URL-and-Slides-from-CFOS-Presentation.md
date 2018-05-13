@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/04/30/Recording-URL-and-Slides-from-CFOS-Presentation
+guid: 2797
 ---
 
 For those who missed my presentation last night on open source and ColdFusion, you can watch it here:

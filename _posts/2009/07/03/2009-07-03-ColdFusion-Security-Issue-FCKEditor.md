@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/03/ColdFusion-Security-Issue-FCKEditor
+guid: 3420
 ---
 
 Many blogs are reporting this, and frankly I don't have more to add to the already good reports out there, but be <b>sure you read and respond</b> to this new issue involving FCKEditor. Details:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/23/Apollo-isnt-just-FlashFlex
+guid: 1921
 ---
 
 Want to play with Apollo but don't want to use/learn Flash or Flex? Check out the demo, Fresh on the <a href="http://labs.adobe.com/wiki/index.php/Apollo:Applications:Samples">Apollo samples</a> page. This thing is amazing. It is a 100% HTML/JS/AJAX Apollo application with not a lick of Flash in it. A <i>very</i> good example of what can be done with the platform. I must find more time to play with Apollo.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/25/Quick-test-post
+guid: 2435
 ---
 
 Please ignore - just for Technorati.

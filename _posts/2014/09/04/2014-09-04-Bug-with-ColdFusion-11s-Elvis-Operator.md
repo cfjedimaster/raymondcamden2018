@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/09/04/Bug-with-ColdFusion-11s-Elvis-Operator
+guid: 5300
 ---
 
 <p>

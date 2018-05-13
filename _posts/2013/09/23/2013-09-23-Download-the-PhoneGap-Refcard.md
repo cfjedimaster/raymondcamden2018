@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/23/Download-the-PhoneGap-Refcard
+guid: 5045
 ---
 
 <img src="https://static.raymondcamden.com/images/thumb.png" style="float:left;margin-right:10px" /> <p>

@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/02/GapDebug-a-new-mobile-debugging-tool
+guid: 5257
 ---
 
 <p>

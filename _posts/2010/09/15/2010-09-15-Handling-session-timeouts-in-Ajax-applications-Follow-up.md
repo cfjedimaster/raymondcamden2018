@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/15/Handling-session-timeouts-in-Ajax-applications-Follow-up
+guid: 3943
 ---
 
 A few days ago I posted a simple article discussing how you could handle session timeouts in an Ajax application (<a href="http://www.raymondcamden.com/index.cfm/2010/9/8/Example-of-handling-session-time-outs-in-an-Ajax-application">Example of handling session time outs in an Ajax application</a>). If you haven't yet read that entry, please do so. The basic gist of the article was to make use of a custom exception that your Ajax application could pick up on. This worked - but only because I had tested on my development server where <b>Robust Exception Info</b> was turned on. Reader Jason <a href="http://www.coldfusionjedi.com/index.cfm/2010/9/8/Example-of-handling-session-time-outs-in-an-Ajax-application#c73CC9AE6-C699-4CBE-E42555C4B392E03C">pointed out</a> that in production, where this is turned off (everyone does have it turned off, right?) the code didn't work.

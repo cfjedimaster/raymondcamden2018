@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/12/21/CFeMmy-Winners-Announced
+guid: 2556
 ---
 
 Todd just released the <a href="http://cfsilence.com/blog/client/index.cfm/2007/12/21/2007-CFeMmys--And-The-Winners-Are">winners</a> for the 2007 CFeMmy winners. Yours truly won for:

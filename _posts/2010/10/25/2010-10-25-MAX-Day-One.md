@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/10/25/MAX-Day-One
+guid: 3983
 ---
 
 Let's start with the <b>Good:</b>

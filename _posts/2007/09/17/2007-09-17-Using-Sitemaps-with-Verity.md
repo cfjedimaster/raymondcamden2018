@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/17/Using-Sitemaps-with-Verity
+guid: 2352
 ---
 
 Not many people know that ColdFusion ships with a HTTP spider that integrates with Verity. Unfortunately, this spider will only work with localhost as a server. This means if you want to spider multiple sites, you can't. Well, not without playing with your host headers. (More information on the Verity Spider and ColdFusion may be found <a href="http://livedocs.adobe.com/coldfusion/8/htmldocs/help.html?content=vspider_01.html">here</a>.)

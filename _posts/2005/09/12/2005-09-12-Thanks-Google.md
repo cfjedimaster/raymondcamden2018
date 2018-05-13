@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/12/Thanks-Google
+guid: 767
 ---
 
 Last week I got the following email from the Google AdSense folks. I thought it was pretty nice, so I asked if they minded if I shared it. (Too many folks, including myself, are the first to complain when a company does wrong, but is silent when a company does a really nice thing.)

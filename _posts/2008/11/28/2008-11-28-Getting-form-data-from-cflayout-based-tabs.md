@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/28/Getting-form-data-from-cflayout-based-tabs
+guid: 3125
 ---
 
 This was a question sent in almost a week ago that I didn't chance to look at till tonight. The reader, Joe, had set up a cflayoutarea based tab display of forms. However, he noticed that when the forms were inline, there was a quick 'flash' on display where the items in the second and latter tabs were shown briefly on screen. When he switched to source= for the tabs, things worked fine, but he wasn't sure how to set the form up. 

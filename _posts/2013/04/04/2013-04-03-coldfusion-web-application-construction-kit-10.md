@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/04/04/coldfusion-web-application-construction-kit-10
+guid: 4902
 ---
 
 I'm happy to announce that you can now purchase the latest edition of the CFWACK, volume 10. The link below gives me a small kick back so if you do plan on buying, I'd appreciate you using the link. CFWACK10 was written by a host of ColdFusion super stars including Ben Forta, Charlie Arehart, Rob Brooks-Bilson, Kenneth Fricklas, Hemant Khandelwal, Chandan Kumar, and yours truly. Technically it isn't shipping for 9 more days, but order now. Multiple copies! One for your mother!

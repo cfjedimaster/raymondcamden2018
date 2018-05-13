@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/13/Tracking-data-views-accurately
+guid: 1885
 ---
 
 A user posted an interesting <a href="http://ray.camdenfamily.com/forums/messages.cfm?threadid=4BC348E3-D7F9-BF32-B2AB5FF22B84E764&#top">question</a> over on my forums that I thought I'd share with others. I answered there but I'd like to get other opinions as well. Here is the question:

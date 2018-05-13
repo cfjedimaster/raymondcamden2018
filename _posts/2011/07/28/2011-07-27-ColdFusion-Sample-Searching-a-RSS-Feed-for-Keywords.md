@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/07/28/ColdFusion-Sample-Searching-a-RSS-Feed-for-Keywords
+guid: 4310
 ---
 
 A while back I wrote a ColdFusion Sample that dealt with <a href="http://www.raymondcamden.com/index.cfm/2011/6/5/ColdFusion-Sample--Reading-a-RSS-Feed">reading RSS feeds</a>. In today's sample, I'm going to expand on that a bit and create an application that reads a RSS feed and searches for keywords. This also ties nicely in with my ColdFusion sample on <a href="http://www.coldfusionjedi.com/index.cfm/2011/6/12/ColdFusion-Sample--Building-a-daily-scheduled-report">scheduled tasks</a>. The code I show here is meant to be used as a scheduled task that can run nightly, or hourly depending on how active the RSS feed is.

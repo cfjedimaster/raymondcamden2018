@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/07/CrossDomain-AJAX-calls-using-ColdFusion
+guid: 2695
 ---
 
 This is something I've mentioned in the past, but earlier in the week I was reading an article from <a href="http://www.dzone.com">DZone</a> (which by the way is a <b>darn</b> good tech aggregator and even includes a <a href="http://coldfusion.dzone.com/">ColdFusion Zone</a>) about doing <a href="http://www.phpfour.com/blog/2008/03/06/cross-domain-ajax-using-php/">cross-domain AJAX calls in PHP</a>. It was a good article, and I thought it would be nice to quickly summarize the issue for ColdFusion developers as well. (And take this as a friendly hint for someone to submit the URL to Dzone. :)

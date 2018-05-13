@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/08/06/What-tags-does-your-browser-support-2012
+guid: 4696
 ---
 
 A year ago I <a href="http://www.raymondcamden.com/index.cfm/2011/2/17/What-tags-does-your-browser-support">posted</a> a blog entry detailing my search to find documentation on what HTML (and related web specs) are supported in browsers. There are plenty of good HTML resources out there, but I had not ever looked at what the browser makers themselves came up with in terms of documentation. I've updated the text of that blog entry and posted it below. Most likely I'll post another update in 2013 as well. Enjoy - and as always - comments and suggestions for improvement are welcome.

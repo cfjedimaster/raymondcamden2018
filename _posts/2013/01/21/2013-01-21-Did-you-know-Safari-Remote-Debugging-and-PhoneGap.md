@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/01/21/Did-you-know-Safari-Remote-Debugging-and-PhoneGap
+guid: 4835
 ---
 
 I assume - but maybe I'm wrong - that you are aware of the "Remote Debugger" feature available both for <a href="https://developers.google.com/chrome/mobile/docs/debugging">Chrome</a> and <a href="http://moduscreate.com/enable-remote-web-inspector-in-ios-6/">Safari</a>. These features give you the ability to use dev tools (Chrome Dev Tools and Safari's version) on your desktop while running a web page on your mobile device. I've only tested this with iOS and Safari so far, but it works great. Not only that, it works just fine with the simulator or a 'real' device connected via USB.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/16/CFLive-Presentation
+guid: 1155
 ---
 
 Thanks to everyone who showed up at my presentation today. I've attached a zip of the slides and code to this blog entry. There were a few things I didn't have time to get to, so you will see a few extra files.

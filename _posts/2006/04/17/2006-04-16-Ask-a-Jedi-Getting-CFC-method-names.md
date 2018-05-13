@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/17/Ask-a-Jedi-Getting-CFC-method-names
+guid: 1216
 ---
 
 Justice (which sounds like a superhero name) asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/03/ColdFusion-custom-tag-for-layout-example
+guid: 2321
 ---
 
 Last week or so a reader asked if I would quickly demonstrate how I use custom tags for layout. This is something I've done for many years now and is typically how I how handle ensuring a web site can easily maintain a consistent look. The idea is simple - use the fact that custom tags can "wrap" other content. How is this done? Consider this code block:

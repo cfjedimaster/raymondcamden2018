@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/09/01/Using-ColdFusion-and-Ajax-to-check-for-an-existing-database-record-with-jQuery
+guid: 4350
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2011/8/31/Using-ColdFusion-and-Ajax-to-check-for-an-existing-database-record">blogged</a> about using ColdFusion's built in Ajax tools to add server-side database checking to a form. This worked, but I wanted to repeat the process using jQuery on the front end. What's nice is that while the front end may change, the ColdFusion Component I wrote on the back end doesn't have to change at all. Let's look at the new version - and as always - keep in mind that this could be rewritten many different ways.

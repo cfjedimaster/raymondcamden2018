@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/15/Doing-HTTP-Conditional-Gets-in-ColdFusion
+guid: 2414
 ---
 
 I've been working on performance updates to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> over the past week or so - and the primary area I'm working on is the aggregator. One item that has been recommended to me by  multiple people is to take a look at HTTP Conditional Gets. What in the heck is that?

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/04/01/A-new-month-a-new-beginning
+guid: 3299
 ---
 
 Every day is a chance to start anew. Every day is a new beginning. While trite, the previous sayings are quite true, and on this first day of April I have decided to take them to heart. I have looked at my life and have come to the realization that I'm making some pretty big mistakes. These mistakes don't just impact me, but others. I have a small following here on this blog, and my other sites, and frankly, I worry I may have led folks astray. I <b>must</b> do something about it or I will never forgive myself. It is, as I said above, time to begin anew. It is time <b>to get SERIOUS</b> and stop joking around. With that in mind, I promise to...

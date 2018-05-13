@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/28/CFUNITED-Reviews
+guid: 1359
 ---
 
 I just sat through the keynote at CFUNITED and thought I'd share some of the highlights. There was a good section on Flex 2, focusing on the application wizards you can now get in Flex Builder 2. (By the way, you can also use these outside of Flex Builder 2 since they are just an Eclipse plugin.) What I think most people want to hear is what was revealed about ColdFusion 8. First, the new CF product manager, Jason Delmore, took the stage and introduced himself. He said that CF8 would be focused on innovation. Over 200 engineering weeks have already been put into CF8. He then showed two demos.

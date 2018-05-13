@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/14/ColdFusion-Portal
+guid: 1469
 ---
 
 If you haven't yet seen <a href="http://www.flex.org">Flex.org</a>, you should check it out. It is a great idea. All the Flex resources in one nice web page. It is such a good idea I thought I'd pull a Microsoft and "innovate" a version for ColdFusion. I don't have a fancy short URL for it, but here is my version:

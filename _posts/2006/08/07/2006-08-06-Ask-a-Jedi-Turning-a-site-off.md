@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/07/Ask-a-Jedi-Turning-a-site-off
+guid: 1451
 ---
 
 Ryan asks:

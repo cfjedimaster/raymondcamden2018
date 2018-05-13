@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/10/Googles-Charting-API
+guid: 2527
 ---
 
 A few blogs have reported this over the weekend, but the Big G (as I like to call Google) has released a new <a href="http://code.google.com/apis/chart/">charting API</a>. The API lets you create charts simply by constructing a URL. Why bother when we have charts in ColdFusion already?

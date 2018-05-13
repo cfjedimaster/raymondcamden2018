@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/04/26/Sample-of-IndexedDB-with-Autogenerating-Keys
+guid: 4598
 ---
 
 I'm still struggling my way through learning IndexedDB. I'm going to post examples as I learn - but as a warning - please consider anything I post as potentially wrong, misleading, and dangerous to the fabric of the universe.

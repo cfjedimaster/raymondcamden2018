@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/17/ColdFusion-Custom-Tag-Tips
+guid: 1479
 ---
 
 Now a days it seems like every one talks about CFCs, or UDFs, and almost no one talks about custom tags. While they are a bit slower than CFCs or UDFs, custom tags are still pretty darn handy. Here are a few tips for people writing custom tags. 

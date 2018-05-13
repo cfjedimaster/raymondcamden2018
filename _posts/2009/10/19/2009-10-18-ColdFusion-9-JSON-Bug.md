@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/19/ColdFusion-9-JSON-Bug
+guid: 3567
 ---
 
 This one is a doozy. I hope it gets fixed by a hot fix rather than the next "dot" update. Bjorn Jensen gets credit for finding it. I ran into it myself yesterday when working on my blog entry. If you have a CFC that returns numeric data and uses a returnType of numeric, then ColdFusion will throw an error. Here is one example of code that will throw the error:

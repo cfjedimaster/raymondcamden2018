@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/22/Ask-a-Jedi-ColdFusion-Autosuggest-on-2-Columns
+guid: 3618
 ---
 
 Mike asks:

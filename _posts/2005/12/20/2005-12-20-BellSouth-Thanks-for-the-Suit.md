@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/12/20/BellSouth-Thanks-for-the-Suit
+guid: 984
 ---
 
 So, a while ago I <a href="http://ray.camdenfamily.com/index.cfm/2005/7/18/Lafayette-got-Slashdotted">blogged</a> about how our city voted to approve a bond to pay for fiber to the home. This would let the city offer phone/video/net service via fiber optics to the home. BellSouth and Cox were... slightly upset at the city for daring to attack their monopolies and fought very hard. They did things like sponsoring polls that led people to believe that television from the city would not be allowed to watch religious programs. 

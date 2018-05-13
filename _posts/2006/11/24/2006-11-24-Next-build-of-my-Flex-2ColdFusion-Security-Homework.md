@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/11/24/Next-build-of-my-Flex-2ColdFusion-Security-Homework
+guid: 1674
 ---
 
 If you don't know what I'm talking about, check this <a href="http://ray.camdenfamily.com/index.cfm/2006/11/21/My-Thanksgiving-Flex-Homework">post</a>. Essentially - I'm trying to wrap my brain around how to best get Flex 2 talking to ColdFusion in a secure manner. My earlier posts showed how to graphically start up with a login screen, require you to login, and then switch to the main view.

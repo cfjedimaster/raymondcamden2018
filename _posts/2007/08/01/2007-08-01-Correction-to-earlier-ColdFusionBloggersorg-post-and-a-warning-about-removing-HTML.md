@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/01/Correction-to-earlier-ColdFusionBloggersorg-post-and-a-warning-about-removing-HTML
+guid: 2244
 ---
 
 You know that old joke where the person says something to the affect of, "I don't make mistakes. I thought I made a mistake once, but I was wrong." That's what happened to me today. Earlier I <a href="http://www.raymondcamden.com/index.cfm/2007/8/1/Quick--look-at-the-dumb-mistake-on-ColdFusionBloggersorg">posted</a> about how I had forgotten a HTMLEditFormat in my display. Turns out there was a reason I had forgotten it. I had made the decision not to <i>escape</i> HTML, but to simply remove it. I was using this code:

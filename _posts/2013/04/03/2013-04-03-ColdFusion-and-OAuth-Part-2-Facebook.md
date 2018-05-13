@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/04/03/ColdFusion-and-OAuth-Part-2-Facebook
+guid: 4901
 ---
 
 Earlier this week I discussed how to <a href="http://www.raymondcamden.com/index.cfm/2013/4/1/ColdFusion-and-OAuth-Part-1--Facebook">integrate ColdFusion and Facebook</a> using OAuth2. I mentioned that this was part of a set of examples I had done involving Facebook, LinkedIn, and Google. In today's entry, I'm going to discuss the LinkedIn API.

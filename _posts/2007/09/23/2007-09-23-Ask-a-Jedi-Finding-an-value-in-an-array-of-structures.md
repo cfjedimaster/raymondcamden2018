@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/23/Ask-a-Jedi-Finding-an-value-in-an-array-of-structures
+guid: 2367
 ---
 
 David asked an interesting question about searching an array of structures:

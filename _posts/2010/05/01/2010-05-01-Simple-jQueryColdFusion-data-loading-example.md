@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/05/01/Simple-jQueryColdFusion-data-loading-example
+guid: 3800
 ---
 
 A reader, Andy, was looking for a very simple example of how jQuery can be used to load data from ColdFusion. I've done this many times before, but he wanted the bare bones, simplest demo I could muster. I covered this before, but I thought I'd share the code in case others were looking for simple examples as well.

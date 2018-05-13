@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/12/19/introduction-to-jquery
+guid: 5474
 ---
 
 I'm happy to announce that today I'm releasing a new video series, <a href="https://www.youtube.com/playlist?list=PL_z-rqJYNijrtVAc5qQbkzHnDELANGiOn">Introduction to jQuery</a>. It may seem a bit odd to be introducing something that most people already know, but in my day to day conversations (ok, emails) with folks and my experience helping people on Stack Overflow, it seems like it is a topic that folks still need help on. I used to present on this topic quite a bit a few years ago, but I started thinking a few months ago about how I'd present it now. 

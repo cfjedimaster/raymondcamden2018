@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/13/Transfer-deep-relationshiporder-bug
+guid: 2880
 ---
 
 Ok, maybe I'm a bit too geeky, but sometimes I love bugs that take hours of debugging and head scratching to solve. I discovered (and reported to Mark) a simple bug in Transfer.

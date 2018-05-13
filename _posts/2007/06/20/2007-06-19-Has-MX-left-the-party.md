@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/20/Has-MX-left-the-party
+guid: 2135
 ---
 
 I don't think I've seen anyone comment on this - but it seems like ColdFusion 8 drops the "MX" from the title. Prior to CF8 we have ColdFusion MX and ColdFusion MX 7. I would have expected ColdFusion MX 8, but all signs point to a simple ColdFusion 8. 

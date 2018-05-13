@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/11/Ask-a-Jedi-jQuery-or-ColdFusion-8-Ajax-Or-both
+guid: 3233
 ---
 
 Andy asks:

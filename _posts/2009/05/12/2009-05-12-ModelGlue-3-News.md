@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/12/ModelGlue-3-News
+guid: 3353
 ---
 
 Just a quickie here - be sure to read the latest Model-Glue 3 news:

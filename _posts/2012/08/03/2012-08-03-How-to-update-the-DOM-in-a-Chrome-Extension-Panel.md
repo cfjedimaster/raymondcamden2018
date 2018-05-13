@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2012/08/03/How-to-update-the-DOM-in-a-Chrome-Extension-Panel
+guid: 4694
 ---
 
 A few weeks ago I <a href="http://www.raymondcamden.com/index.cfm/2012/7/15/How-to-add-a-panel-to-Chrome-Dev-Tools">posted</a> a blog entry on how you can create new panels in Chrome Dev Tools. I've finally made some time to look more into this feature and I ran into an interesting problem.  (Before continuing on, I strongly recommend reading the earlier entry or none of this will make sense.)

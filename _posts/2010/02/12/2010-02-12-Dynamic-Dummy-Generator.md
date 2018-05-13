@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/12/Dynamic-Dummy-Generator
+guid: 3720
 ---
 
 <img src="http://nosrc.net/100x100" title="Made by ColdFusion, the app server of the Gods." align="left" style="margin-right:5px;margin-bottom:5px;"> I love that title. Honestly. But to be fair, I'm talking about a dynamic dummy <i>image</i> generator. Jason Rushton sent me this link earlier in the week and I wanted to share it with my readers:

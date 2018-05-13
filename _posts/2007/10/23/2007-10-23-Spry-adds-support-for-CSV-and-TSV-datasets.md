@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/23/Spry-adds-support-for-CSV-and-TSV-datasets
+guid: 2431
 ---
 
 When preparing for my last Spry presentation, I noticed two new files that weren't documented: SpryCSVDataSet.js and SpryTSVDataSet.js. I pinged the Spry team and discovered that 1.6 added support for both comma separated value files and tab separated files. They just didn't have time to document it - but the cool thing is that - just like JSON support, once you make the dataset your work is done. Everything else is the same. Consider this example:

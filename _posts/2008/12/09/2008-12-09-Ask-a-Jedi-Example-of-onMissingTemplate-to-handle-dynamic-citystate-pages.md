@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/09/Ask-a-Jedi-Example-of-onMissingTemplate-to-handle-dynamic-citystate-pages
+guid: 3141
 ---
 
 Dave asks:

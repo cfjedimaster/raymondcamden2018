@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/29/Ask-a-Jedi-Concerns-about-CFGRID-performance
+guid: 4099
 ---
 
 Brad asked:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/09/17/Quick-AIR-Tip-including-an-icon-with-your-application
+guid: 3021
 ---
 
 A few nights ago I was working on a personal AIR project and wanted to include an icon with it. This was - so I thought - rather easy. I found a nice icon, saved it into an assets folder, and then edited mything-app.xml:

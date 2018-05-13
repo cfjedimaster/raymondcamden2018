@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/10/Ask-a-Jedi-Filtering-Verity-Data
+guid: 1018
 ---
 
 A reader asks:

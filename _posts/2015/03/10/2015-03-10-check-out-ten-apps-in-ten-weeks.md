@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2015/03/10/check-out-ten-apps-in-ten-weeks
+guid: 5810
 ---
 
 A conference or so ago I met Mark Lassoff. I sat in on his PhoneGap presentation and at the end, I did that annoying "So, I liked your preso, but here were a few things you did wrong" type thing that presenters <i>just love</i>. In my defense, I did it <i>after</i> he was done and I had him one on one, but luckily he didn't hold it against me. A few weeks ago he released a new online course, <a href="https://learntoprogram.tv/courses/mobile-development-bundle-10-apps-in-10-weeks-and-mobile-app-development-with-html5">Ten Apps in Ten Weeks</a>, and he sent me a pass to take a look through the material.

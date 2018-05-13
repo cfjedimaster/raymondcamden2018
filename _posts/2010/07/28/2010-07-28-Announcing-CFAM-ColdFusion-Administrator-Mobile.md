@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/28/Announcing-CFAM-ColdFusion-Administrator-Mobile
+guid: 3891
 ---
 
 So <a href="http://www.cfsilence.com">Todd Sharp</a> and I have been dropping hints over Twitter the last few days about a secret project. Today at CFUNITED I showed it off for the first time. CFAM, or ColdFusion Administrator Mobile, is a mobile optimized version of the ColdFusion Administrator. Imagine that you're at a bar. Your client calls to tell you the site is down. You open the site with your mobile device and confirm that - yes - the site is down. It would be helpful to be able to hit up the CF Admin and check various things to diagnose what the problem is. CFAM provides a nice mobile optimized version of the CF Administrator focused on the more common tasks you may do while debugging. Features include:

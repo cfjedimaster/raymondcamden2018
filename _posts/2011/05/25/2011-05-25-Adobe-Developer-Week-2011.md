@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2011/05/25/Adobe-Developer-Week-2011
+guid: 4247
 ---
 
 Adobe is holding another (the second I believe?) "Developer Week" in June. The dates are June 20-24. This is a 100{% raw %}% free, 100%{% endraw %} Adobe Connect based set of sessions that anyone can sign up for. Details, and registration, may be found here: <a href="http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=1489921&loc=en_us">Developer Week 2011</a>

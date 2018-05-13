@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/05/12/ColdFusion-UI-The-Right-Way-An-Update-and-Thanks
+guid: 5221
 ---
 
 <p>

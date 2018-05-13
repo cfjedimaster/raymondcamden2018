@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/01/Introduction-to-ColdFusion-10-Next-Tuesday
+guid: 4546
 ---
 
 Next Tuesday I'll be giving an Adobe E-Seminar on ColdFusion 10. This is mainly an updated version of my MAX presentation, but since that video was mysteriously cut in half (I blame the <a href="http://en.wikipedia.org/wiki/Grey_alien">Greys</a>), this will serve as another opportunity to take a tour of what's new in ColdFusion 10. I'd be willing to bet that most of my audience here probably doesn't need such a presentation, but you may want to share it with others, management, friends, family, pets, etc, who want a look at the new hotness in ColdFusion.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/31/Ask-a-Jedi-Sending-emails-out-over-time
+guid: 2741
 ---
 
 A user wrote in with an interesting issue. He has to send emails out, but is limited by his host to no more than 250 emails per hour. How can he switch from "immediate" emails to a throttled limit?

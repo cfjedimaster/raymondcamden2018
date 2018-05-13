@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/18/Ask-a-Jedi-Restricting-CFAJAXProxy-to-certain-methods
+guid: 2423
 ---
 
 A user asked this about the cfajaxproxy tag:

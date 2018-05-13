@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/10/Lost-review-for-May-10-2006
+guid: 1261
 ---
 
 Wow. So much went on tonight I know I'm going to forget something. The episode begins with the aftermath of the shooting. Libby did survive, but is very close to the death. Henry is gone, and Michael, of course, says it was Henry who did the shooting. 

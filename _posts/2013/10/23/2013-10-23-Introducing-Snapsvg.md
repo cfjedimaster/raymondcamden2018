@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/10/23/Introducing-Snapsvg
+guid: 5066
 ---
 
 <p>

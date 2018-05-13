@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/26/Flex-45-List-control-springing-to-top
+guid: 4249
 ---
 
 When I first began playing with Flex 4.5 mobile controls, I noticed something odd with the Spark List control. If the amount of data was bigger than the screen, it would "spring" back when your finger left the control. You could scroll down - sure - but the second you let go of the control it scrolled back to the top. I have no idea why this fixes it, but if you simply add height="100%" to your list, it corrects the issue. It doesn't seem to do anything visually to the output at all, but it corrects it immediately. Here is a simple example. First, my top level file will define a list that two sub views will use:

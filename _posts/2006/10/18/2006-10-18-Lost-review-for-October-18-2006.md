@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/18/Lost-review-for-October-18-2006
+guid: 1595
 ---
 
 Now <b>that</b> is what I'm talking about. This wasn't a great episode over all - but the interaction between Charlie and Locke was wonderful, <i>especially</i> while Locke couldn't speak.

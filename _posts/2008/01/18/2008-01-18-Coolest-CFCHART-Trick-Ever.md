@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/18/Coolest-CFCHART-Trick-Ever
+guid: 2601
 ---
 
 Ok, maybe not ever, but interesting nonetheless. A few days ago a reader pinged me to ask about gauge charts. Those are charts that act like speedometers. I knew it wasn't supported by ColdFusion out of the box, but I recommended he take a look at the WebCharts design tool that ships with ColdFusion. When I did so - I saw right off the bat that it was supported, and there were quite a few of them.

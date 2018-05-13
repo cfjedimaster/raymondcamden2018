@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/03/05/Speaking-Engagements-for-March-2013
+guid: 4873
 ---
 
 A bit late for this entry, but here we go anyway. My speaking engagements for this month are...

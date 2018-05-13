@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/12/11/Quick-Sample-Appending-URL-data-to-a-Form-post-with-JavaScript
+guid: 5097
 ---
 
 <p>

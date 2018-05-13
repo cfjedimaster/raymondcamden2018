@@ -6,6 +6,7 @@ categories: [design,html5,mobile]
 tags: []
 banner_image: 
 permalink: /2013/06/18/Edge-Reflow-CC
+guid: 4966
 ---
 
 <img src="https://static.raymondcamden.com/images/edge_reflow_mnemonic.png" style="float:left;margin-right:10px" /> One of the many products updated last night as part of the <a href="http://creative.adobe.com">Creative Cloud</a> was a new version of <a href="http://html.adobe.com/edge/reflow/">Edge Reflow</a>. Edge Reflow is a powerful prototyping tool for creating responsive designs. There are many updates  but in this blog post I'm going to demonstrate just a few of them that related specifically to typography.

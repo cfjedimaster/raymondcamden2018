@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/05/ColdFusion-9-Multifile-Uploader-Complete-Example
+guid: 3740
 ---
 
 I've done a few blog entries on ColdFusion 9's new multi file uploader. But for a while now I've wanted to build, and share, a complete example. As I've said before, putting a multi file uploader on your page is simple. Incredibly simple. Unfortunately, <i>using</i> the uploader is non-trivial. You've got multiple things going on at once that you have to manage. It is doable (I wrote up this demo in approximately 30 minutes), but you certainly need to do your planning ahead of time. So what will my little application do?

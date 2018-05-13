@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/01/Word-of-the-Day-Query-Anxiety
+guid: 2630
 ---
 
 Word: Query Anxiety

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/10/Yes-Virginia-you-can-put-HTML-into-a-CFGRID
+guid: 2270
 ---
 
 This is pretty good - I didn't realize till I tried but you <b>can</b> put HTML into a CFGRID. Consider the following:

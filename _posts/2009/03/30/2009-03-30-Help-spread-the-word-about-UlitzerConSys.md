@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/03/30/Help-spread-the-word-about-UlitzerConSys
+guid: 3297
 ---
 
 The title says it all. You've seen me, and others, in the ColdFusion world blog about Con-Sys before. Well now they are going after the Flash world as well. Help spread the word. Please Digg:

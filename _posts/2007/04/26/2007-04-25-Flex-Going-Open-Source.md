@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/04/26/Flex-Going-Open-Source
+guid: 1982
 ---
 
 Last night while the world slept (ok, most American timezones), Adobe announced that they were <a href="http://www.adobe.com/aboutadobe/pressroom/pressreleases/200704/042607Flex.html">open sourcing Flex</a>. Once again the Labs site is being used to host information:

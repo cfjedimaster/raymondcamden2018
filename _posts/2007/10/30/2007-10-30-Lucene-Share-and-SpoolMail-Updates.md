@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/30/Lucene-Share-and-SpoolMail-Updates
+guid: 2443
 ---
 
 Today was kind of a bad day. For some reason all of my projects all seemed to be in "pause" mode so my earnings took a dip. But having down time meant I could finally get around to packing up some code and releasing up on <a href="http://www.riaforge.org">RIAForge</a>. In no particular order, here is what is new:

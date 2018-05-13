@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/17/Still-Looking-for-a-ColdFusion-job
+guid: 4497
 ---
 
 A few weeks back I <a href="http://www.raymondcamden.com/index.cfm/2012/1/4/Looking-for-a-ColdFusion-job">posted</a> a job notice from my former employers, REX Technologies. Turns out this worked great for them, and they are now looking for QA resources as well:

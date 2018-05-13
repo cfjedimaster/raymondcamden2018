@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/11/Flash-HTML-and-the-Nonbreaking-Space
+guid: 619
 ---
 
 My project manager discovered an interesting issue while I was gone. <a href="http://www.mindseye.com">We</a> are currently working on a project now for a site that uses a Flash application to browse content. The Flash SWF calls a CFC to get the content. The back end is our ColdFusion based CMS <a href="http://www.mindseyeelement.com">Element</a>, which uses a rich text editor. The client was instructed that Flash does not understand all HTML tags, so they needed to keep things simple. That worked fine until the PM noticed something odd. Some sentences were running together. As an example:

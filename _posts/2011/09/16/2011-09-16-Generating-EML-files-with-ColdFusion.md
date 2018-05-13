@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/09/16/Generating-EML-files-with-ColdFusion
+guid: 4367
 ---
 
 A few weeks back, a reader came to me with an interesting question. He knew how to use ColdFusion to work with email, cfpop and cfmail make that easy enough. But he also wanted the ability to download mail to the user's desktop. That should be easy, right? Take the text and just stream it to the user. But that's not what he meant. He wanted the ability to download a .eml file. This would be supported in the end user's desktop mail client like Outlook or Thunderbird. I did some research into this and found out something interesting. Java itself has the ability to generate dynamic eml files. Here's a quick demo I created. It isn't fully feature (and doesn't support attachments at all), but works well.

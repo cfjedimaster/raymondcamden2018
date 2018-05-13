@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/08/26/The-Half-Million-Dollar-Video-Game-Bill
+guid: 1498
 ---
 
 A while ago I blogged about how we can't seem to ban cock fighting, but have no trouble attempting to ban sales of violent video games to minors. Now that colossal waste of time has cost Louisiana over <a href="http://news.yahoo.com/s/ap/20060826/ap_on_hi_te/louisiana_video_games">half a million dollars</a> when a federal judge ruled against the state.

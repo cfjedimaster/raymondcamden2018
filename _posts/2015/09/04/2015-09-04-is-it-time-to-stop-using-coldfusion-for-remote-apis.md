@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/09/04/is-it-time-to-stop-using-coldfusion-for-remote-apis
+guid: 6734
 ---
 
 So, let me begin by saying I'm a bit frustrated, and so this blog post may be one I regret later on, but, I try to be as honest as possible here and right now, I'm kinda ticked off about something and I want to get it off my chest. For a long time now I've had an incredible amount of respect for how ColdFusion makes it easy to access data from client-side code (or remote servers). As much as I'm digging Node.js these days, the fact that I can write up a CFC and get an API that can be used by JavaScript is pretty darn powerful. This feature has come a long way. When it first came out, the only option for output was WDDX. You can now output anything, from WDDX, to SOAP, to XML, plain strings, and of course, JSON.

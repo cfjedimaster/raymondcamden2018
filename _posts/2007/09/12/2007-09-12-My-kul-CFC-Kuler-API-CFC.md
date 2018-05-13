@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/12/My-kul-CFC-Kuler-API-CFC
+guid: 2342
 ---
 
 <img hspace="10" src="http://kuler.adobe.com/kuler/API/rss/png/generateThemePng.cfm?themeid=11" align="left"> Most of the folks I hang out with <strike>are pretty scary</strike>are code geeks so we rarely talk about design or design related issues. As someone interested in technology in general though I find it interesting. Some time ago Adobe released <a href="http://kuler.adobe.com">kuler</a>, a site that lets people create and share color swatches. I'm not sure what a swatch is - I think it has something to do with putting colors together nicely. For me 'putting colors together nicely' means getting dressed and checking out the face my wife makes. The kuler site is pretty fun to look at and play with - and it turns out it has a pretty nice <a href="http://labs.adobe.com/wiki/index.php/Kuler">API</a> as well.

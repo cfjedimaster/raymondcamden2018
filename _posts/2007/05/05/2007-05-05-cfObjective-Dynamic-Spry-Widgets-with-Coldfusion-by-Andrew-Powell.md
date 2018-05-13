@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/05/cfObjective-Dynamic-Spry-Widgets-with-Coldfusion-by-Andrew-Powell
+guid: 2007
 ---
 
 Editorial disclaimer here - I have my own Spry/CF framework (<a href="http://cfspry.riaforge.org">cfspry</a>), so I fully admit I came here looking for good ideas to improve my own code!

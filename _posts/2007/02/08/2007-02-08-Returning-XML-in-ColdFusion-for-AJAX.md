@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/08/Returning-XML-in-ColdFusion-for-AJAX
+guid: 1829
 ---
 
 I've blogged this before, but only as a side point. Since the question came in to me this morning I thought I'd mention it again in a new post. The question is simple - how do you return XML data in ColdFusion to be consumed by AJAX? (Or really any source.)

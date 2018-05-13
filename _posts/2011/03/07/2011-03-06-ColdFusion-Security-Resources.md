@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/07/ColdFusion-Security-Resources
+guid: 4148
 ---
 
 This morning I received an email from Nadia asking the following:

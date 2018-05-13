@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/28/One-example-of-dealing-with-JSON-deserialization-issues
+guid: 3700
 ---
 
 There have been a few blog posts recently about issues with JSON and ColdFusion. Specifically issues concerning data being "transformed" into other data types. While there are a variety of ways to solve this issue, I thought I'd share one particular example, and one particular solution, I shared with a reader earlier today.

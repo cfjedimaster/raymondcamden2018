@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/12/BlogCFC-38-RC-Released
+guid: 623
 ---
 
 Some more changes in this release:

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2011/02/09/Updating-an-HTMLAdobe-AIR-Application-Title
+guid: 4114
 ---
 
 So this falls into the pretty obvious category, but as I had not tried it before I wanted to confirm it would work. Yesterday I noticed that my FTP program (<a href="http://filezilla-project.org/">FileZilla</a> - has both a client and a server and is free - very recommended!) changed the application title based on what server I was connected to. This gave me a bit of context about what the application was up to. As an example, here is what FileZilla looks like in my task bar after I've connected to my web server.

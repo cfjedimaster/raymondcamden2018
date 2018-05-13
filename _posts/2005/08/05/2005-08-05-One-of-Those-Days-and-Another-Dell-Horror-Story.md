@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/05/One-of-Those-Days-and-Another-Dell-Horror-Story
+guid: 672
 ---
 
 Today has just been horrible. Absolutely freaking horrible. In general, I love Dell. I've spent maybe 10k there in the last few years. In general, everything runs fine. About a year ago I bought a XPS laptop. A gamers laptop. This laptop was awesome. It was even better than my desktop (until I upgraded two months ago). The only thing lacking a bit was the battery. If I had known then what I knew now - I'd have bought another system. It's not that the system is bad, I just don't play as many PC games as I used too. That being said - I would have gone lighter with a longer battery life.

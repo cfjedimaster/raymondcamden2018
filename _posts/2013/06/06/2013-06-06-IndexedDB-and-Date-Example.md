@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/06/06/IndexedDB-and-Date-Example
+guid: 4954
 ---
 
 About an hour ago I gave a presentation on IndexedDB. One of the attendees asked about dates and being able to filter based on a date range. I told him that my assumption was that you would need to convert the dates into numbers and use a number-based range. Turns out I was wrong. Here is an example.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/01/ColdFusion-Podcast-Explosion
+guid: 887
 ---
 
 Ok, so maybe it isn't an "explosion", but we now have not one, but two sites offering podcasts of interest to ColdFusion developers.

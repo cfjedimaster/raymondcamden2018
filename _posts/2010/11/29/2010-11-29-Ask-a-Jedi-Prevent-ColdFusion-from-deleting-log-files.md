@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/29/Ask-a-Jedi-Prevent-ColdFusion-from-deleting-log-files
+guid: 4030
 ---
 
 Grant asks:

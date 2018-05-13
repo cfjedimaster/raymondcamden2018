@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/09/How-To-ColdFusion-Chart-with-No-Numbers
+guid: 3270
 ---
 
 This question came in via my <a href="http://www.raymondcamden.com/forums">forums</a>, but I thought it would make a nice blog post. wolfee asks:

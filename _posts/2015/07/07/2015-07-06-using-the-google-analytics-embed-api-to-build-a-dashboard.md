@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2015/07/07/using-the-google-analytics-embed-api-to-build-a-dashboard
+guid: 6359
 ---
 
 About a year and a half ago I created a demo (<a href="http://www.raymondcamden.com/2014/01/24/Proof-of-Concept-Dashboard-for-Google-Analytics">Proof of Concept – Dashboard for Google Analytics</a>) of a Google Analytics Dashboard. This demo was entirely client-side based and made use of the API libraries Google created. For the most part, the process was fairly simple. After I figured out how to authenticate the user and query the data, I spent more time making it look pretty than actually working with the API, which is a good thing. More recently I discovered the new <a href="https://developers.google.com/analytics/devguides/reporting/embed/v1/">Analytics Embed API</a>. The cool thing about the Embed API is that it greatly simplifies the authentication/authorization aspect of getting analytics data and even provides built in charting capabilities. I blogged an example (<a href="http://www.raymondcamden.com/2015/06/10/quick-example-of-the-google-analytics-embed-api">Quick example of the Google Analytics Embed API</a>) and I thought it might be fun to revisit my dashboard concept using this simpler API.

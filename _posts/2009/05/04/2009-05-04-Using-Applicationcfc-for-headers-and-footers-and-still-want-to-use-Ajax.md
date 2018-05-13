@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/05/04/Using-Applicationcfc-for-headers-and-footers-and-still-want-to-use-Ajax
+guid: 3341
 ---
 
 It must be something in the water. While I do not recommend using Application.cfc for header and footer layout, I've had two people in the last week ask me about this in terms of using Ajax. What they both found was that when they used Application.cfc to include a header and footer, this messed up their Ajax calls. Let's look at an example and show how we can quickly work around it.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/07/23/Adding-a-background-image-to-a-revealjs-presentation
+guid: 4683
 ---
 
 <b>Edit on August 1, 2013:</b> Since the time I wrote this blog post, Reveal.js has added a much easier way to add background images to slide. You should <b>not</b> do what I described below in the original blog entry, but instead, use the new method. You can now use data-background="rgb color or file" as well as data-background-repeat and data-background-size. 

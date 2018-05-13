@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/06/08/Simple-example-of-accessing-ColdFusion-data-with-Flex-now-with-Flash-Builder-4
+guid: 3388
 ---
 
 Last week I wrote up a quick <a href="http://www.raymondcamden.com/index.cfm/2009/6/3/Simple-example-of-accessing-ColdFusion-data-with-Flex">blog entry</a> demonstrating how to talk to ColdFusion via Flex. It wasn't meant to be the complete guide to Flex/ColdFusion development, but more a simple example to demonstrate how easy it is. Tonight I took a look at Flash Builder 4 and the support it has for working with data services. Here is what I found (and once again, I'll remind folks that I'm learning Flash Builder 4 and Flex 4 so please forgive any dumb mistakes). 

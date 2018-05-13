@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/09/Cordova-Plugin-update-and-new-Contacts-demo
+guid: 5261
 ---
 
 <p>

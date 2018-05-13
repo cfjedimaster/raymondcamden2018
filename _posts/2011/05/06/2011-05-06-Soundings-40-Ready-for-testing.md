@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/06/Soundings-40-Ready-for-testing
+guid: 4223
 ---
 
 Soundings, available at <a href="http://soundings.riaforge.org">http://soundings.riaforge.org</a>, is a ColdFusion-based open source survey application. I'm proud to announce the 4.0 release is ready for testing. Grab the latest bits from SVN and be sure to read the readme.txt file for notes on the database change you will need to make. While I fixed a few small issues, Soundings 4 comes down to main big features.

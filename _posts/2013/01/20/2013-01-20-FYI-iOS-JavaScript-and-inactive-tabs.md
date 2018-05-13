@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/01/20/FYI-iOS-JavaScript-and-inactive-tabs
+guid: 4834
 ---
 
 This is something I had heard before, but didn't really think about it until a reader I was helping ran into it. It involves Safari on iOS (and I believe just iOS 5 and higher). If you have a web page using timed JavaScript (for example, a setInterval), and switch to another tab (or another app), then the operating system will pause the JavaScript environment. Here is an incredibly simple way to see this in action.

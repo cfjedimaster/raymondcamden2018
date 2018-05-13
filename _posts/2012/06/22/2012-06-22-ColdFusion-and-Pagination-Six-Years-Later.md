@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/06/22/ColdFusion-and-Pagination-Six-Years-Later
+guid: 4655
 ---
 
 A little over six years ago I wrote a little blog post on how to do simple pagination in ColdFusion: <a href="http://www.raymondcamden.com/index.cfm/2006/4/24/ColdFusion-and-Pagination">ColdFusion and Pagination</a> The post walked you through the simple step of iterating over a 'page' (or limited set) of data and providing links to navigate the data. For whatever reason, the post has gotten a few comments lately so I thought I'd post a quick update.

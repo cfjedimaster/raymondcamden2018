@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/20/Session-metrics-with-Applicationcfc-2
+guid: 1726
 ---
 
 This is just a quick follow up to <a href="http://ray.camdenfamily.com/index.cfm/2006/12/19/Session-metrics-with-Applicationcfc">yesterday's post</a> on the session logging demo I showed. 

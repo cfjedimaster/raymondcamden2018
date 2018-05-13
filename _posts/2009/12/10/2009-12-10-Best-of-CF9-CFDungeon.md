@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/10/Best-of-CF9-CFDungeon
+guid: 3641
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Time for the next Best of ColdFusion 9 Entry - CFDungeon by Budd Wright. When I saw this entry came in, I decided to be selfish and keep it to myself. I love building games and I knew this entry would be cool. I wasn't prepared for just <i>how</i> cool it is. Ok - so what is it exactly? CFDungeon is an old school text based game. By that I mean everything in the game is textual. To play the game, you enter more commands. So for example, to walk from one place to another you type "north". If you can move north, then the game will tell you about the new location. Text-based games have a long history in computer entertainment, and I played <b>many</b> of them growing up. Some even approached art. (If you ever get a chance to play "A Mind Forever Voyaging" then you will see what I mean.) These games made up for their lack of fancy graphics with prose that was descriptive, engaging, and sometimes downright hilarious. Budd Wright has managed to recreate this in ColdFusion. And wait - this is where it really gets cool. Not only did he build a text-based game in ColdFusion 9 - he built it so you can easily write your own adventures, easily extend the parser, and oh yeah, he did it using <b>freaking Excel files</b> for data. That's stupid.... stupid cool. 

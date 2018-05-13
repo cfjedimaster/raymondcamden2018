@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/21/Anyone-used-the-lemon-law
+guid: 1283
 ---
 
 Various states, including <a href="http://autopedia.com/html/LemonLaw/LA_lemonlaw2.html">Louisiana</a>, have lemon laws to help protect consumers when purchasing cars. Has anyone actually used one of these laws? Let me explain why I'm asking, and why I'll never buy a Mini again.

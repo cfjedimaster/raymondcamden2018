@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/21/New-Project-QuickPoll
+guid: 1115
 ---
 
 Hey, did you see my <a href="http://ray.camdenfamily.com/index.cfm/2006/2/21/Reader-Survey">post</a> about the reader survey? Guess what - the form was all built on the fly using a new project I released today, <a href="http://ray.camdenfamily.com/projects/quickpollcfc">QuickPoll CFC</a>. "Project" may be too strong of a word - it's really just a nice CFC. Think of it like a "lite" version of <a href="http://ray.camdenfamily.com/projects/soundings">Soundings</a>.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/06/10/Adobe-AIR-2-Flash-Player-101-Released
+guid: 3843
 ---
 
 The title says it all. Adobe AIR 2 (2.0.2) and Flash Player 10.1 have been released. Adobe AIR 2 adds some kick butt new features, all of which have been discussed before, so I'm just going to share the links for now.

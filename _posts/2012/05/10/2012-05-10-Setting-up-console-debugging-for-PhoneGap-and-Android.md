@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/10/Setting-up-console-debugging-for-PhoneGap-and-Android
+guid: 4613
 ---
 
 In case you haven't figured it out yet, debugging in mobile is "sub-optimal". (Whatever you do - don't do a Google Images search on <a href="https://www.google.com/search?tbm=isch&hl=en&source=hp&biw=1719&bih=1242&q=suboptimal&gbv=2&oq=sub-opt&aq=0sC&aqi=g-sC2g-sS1g-S2g-sS3g-S2&aql=&gs_l=img.3.0.0i10i33l2j0i10i24j0i24l2j0i10i24l3j0i24l2.1144.3207.0.4758.11.8.2.1.0.0.85.429.8.8.0...0.0.Q_mVeB240w4">sub-optimal</a>.) Brian Leroux has an <a href="http://westcoastlogic.com/slides/debug-mobile/">epic presentation</a> on the topic and I highly encourage taking a look through it. I thought I'd share how I'm debugging in PhoneGap and Android right now. 

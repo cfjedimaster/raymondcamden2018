@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/02/23/Advanced-Contest-Clarifications
+guid: 1119
 ---
 
 After the <a href="http://ray.camdenfamily.com/index.cfm/2006/2/22/Advanced-Contest-Announced">announcement</a> of the new contest last night, I thought it might help if I add some clarifications.

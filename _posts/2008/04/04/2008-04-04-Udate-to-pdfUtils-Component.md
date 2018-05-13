@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/04/Udate-to-pdfUtils-Component
+guid: 2754
 ---
 
 I'm happy to announce an update to my <a href="http://pdfutils.riaforge.org">pdfUtils</a> component. For folks who don't remember, the pdfUtils component was simply meant to help folks further build upon the awesome PDF support in ColdFusion 8. Todays update comes from Edward EG. Griffiths. He added a new method, readXMP. This allows you to read the XMP data from a PDF. He is currently working on writeXMP.

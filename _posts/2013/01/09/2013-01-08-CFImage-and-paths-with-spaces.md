@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/01/09/CFImage-and-paths-with-spaces
+guid: 4825
 ---
 
 A reader ran into an interesting issue:

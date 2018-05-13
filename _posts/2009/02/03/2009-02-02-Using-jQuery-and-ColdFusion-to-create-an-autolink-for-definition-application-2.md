@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/03/Using-jQuery-and-ColdFusion-to-create-an-autolink-for-definition-application-2
+guid: 3219
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2009/1/31/Using-jQuery-and-ColdFusion-to-create-an-autolink-for-definition-application">blogged</a> an experiment where I used jQuery and ColdFusion to dynamically hot link certain words on a web page to a definition. At the end of the article I talked about how I had trouble using jQuery UI and decided to use cfwindow instead. Later in the week I dug deeper into jQuery UI (see related articles below) and got things working nicely. I thought it would be nice to return to the original application and update it to use the jQuery Dialog widget.

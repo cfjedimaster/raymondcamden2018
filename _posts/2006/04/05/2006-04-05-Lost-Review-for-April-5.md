@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/05/Lost-Review-for-April-5
+guid: 1191
 ---
 
 Ok, another amazing episode. If this show ends I'm going to have withdrawal like a crack addict. Anyway, let's cover what happened. This was a Hurley episode, and we find out that he was put in a mental hospital. He was the cause of a deck collapse that killed two people. He goes so nuts that he actually creates an imaginary friend, Dave. Dave shows up on the island, and in a very physical way, leaving behind a slipper that Hurley can grasp. 

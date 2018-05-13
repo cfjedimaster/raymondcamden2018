@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/20/Ouch-this-cookie-bug-has-teeth
+guid: 3786
 ---
 
 Thanks to my buddy Nick Hill for finding this and <a href="http://www.12robots.com/">Jason Dean</a> for making an even simpler demo. Looks like there is a pretty serious bug with the Cookie scope in CF9. If you attempt to use structClear to remove cookies, ala:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/26/Two-Coldfusion-Cookbook-Questions
+guid: 1059
 ---
 
 I've got two questions for those who use the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a>:

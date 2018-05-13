@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/31/Ask-a-Jedi-CFC-Resources
+guid: 1181
 ---
 
 Abhishek (I get a lot of cool names for some reason) wanted to know about CFCs:

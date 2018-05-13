@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/18/Ask-a-Jedi-Abstract-date-ranges-and-search
+guid: 3023
 ---
 
 For privacy reasons, when folks send a question to me and I respond on the blog, I only use the first name. I'm getting bored with that so I think may start providing completely made up last names. If this offends anyone, speak up. I won't use this an excuse for unbridled frivolity or anything else unbecoming a Jedi developer.

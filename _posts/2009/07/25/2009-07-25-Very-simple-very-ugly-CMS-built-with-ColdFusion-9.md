@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/25/Very-simple-very-ugly-CMS-built-with-ColdFusion-9
+guid: 3465
 ---
 
 Earlier on in the ColdFusion 9 beta, I worked on a simple CMS (Content Management System) that made use of ORM. I've messed with it every now and then over the past few months and spent some time today making it a bit nicer so I could share the code with others. I <i>may</i>, stress <i>may</i> turn this into a real project, but I have no real intention of trying to compete with Mura or Farcry. This was just for fun, and just to get some experience with ORM. Let me also add that as it's been worked on for a few months now, you may see some code that doesn't quite make sense. So for example, earlier on in the ColdFusion 9 alpha, there was no isNull. Today I replaced code like this:

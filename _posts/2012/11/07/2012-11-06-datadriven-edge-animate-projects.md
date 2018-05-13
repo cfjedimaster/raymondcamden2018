@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/11/07/datadriven-edge-animate-projects
+guid: 4777
 ---
 
 This week I demonstrated <a href="http://html.adobe.com/edge/animate/">Edge Animate</a> to two cities in Texas as part of the Create the Web tour. Animations are not something I typically spend a lot of time thinking about, but I was grateful for an opportunity to show off what I think is a pretty cool program. At my first presentation, an attendee asked if Edge Animate supported data-driven animations. Hear is what I told him, and a look at a simple proof of concept.

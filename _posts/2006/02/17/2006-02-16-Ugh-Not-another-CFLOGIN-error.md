@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/17/Ugh-Not-another-CFLOGIN-error
+guid: 1107
 ---
 
 This morning I woke up to discover about 150 error reports in my mail box. They were all from the blog and all had the same error:

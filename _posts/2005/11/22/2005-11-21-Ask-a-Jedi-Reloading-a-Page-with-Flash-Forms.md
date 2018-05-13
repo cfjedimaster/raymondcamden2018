@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/22/Ask-a-Jedi-Reloading-a-Page-with-Flash-Forms
+guid: 932
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/11/Soundings-2-Update-Request-for-Logo
+guid: 2186
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2007/7/6/Soundings-2-Preview-Release">released</a> a preview update for Soundings 2. This update focused on new pagination features for surveys. Today I'm releasing an update with the following changes:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/29/Ask-a-Jedi-How-do-I-learn-ModelGlue
+guid: 652
 ---
 
 Marcos asks:

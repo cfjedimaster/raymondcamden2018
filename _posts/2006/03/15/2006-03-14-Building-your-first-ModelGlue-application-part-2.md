@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/15/Building-your-first-ModelGlue-application-part-2
+guid: 1150
 ---
 
 In my <a href="http://ray.camdenfamily.com/index.cfm/2006/3/13/Building-your-first-ModelGlue-application-part-1">last entry</a>, I walked us through the basic set up and design for the photo gallery application. In this entry we will start talking about the security and registration system. To be honest, this is something that I had trouble with when I was creating my first Model-Glue application. I'm not convinced I have the best answer for this, but this is what has worked for me so far, so I'm going to share it with others.

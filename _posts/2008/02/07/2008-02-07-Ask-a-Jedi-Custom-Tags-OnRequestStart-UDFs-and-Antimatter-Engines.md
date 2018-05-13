@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/07/Ask-a-Jedi-Custom-Tags-OnRequestStart-UDFs-and-Antimatter-Engines
+guid: 2638
 ---
 
 Asa asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/20/ColdFusion-8-AJAX-UI-Windows
+guid: 2134
 ---
 
 I've been blogging about new ColdFusion UI controls in ColdFusion 8 and today I'm discussing CFWINDOW. First - CFWINDOW does not - as you might guess - create a popup window. Which is probably a good thing. The last thing this world needs is another popup window. Instead the tag creates a "virtual" window that appears on top of your page. Let's take a look at a few examples.

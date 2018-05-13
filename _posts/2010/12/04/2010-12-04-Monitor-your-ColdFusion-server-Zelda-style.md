@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2010/12/04/Monitor-your-ColdFusion-server-Zelda-style
+guid: 4041
 ---
 
 Last week I had the idea that it might be kind of cool to port the <a href="http://cfam.riaforge.org">CFAM</a> project to the Blackberry Playbook. While that would be a lot of work (technically it wouldn't be if we just used a web view, but I'm talking about a proper conversion to Flex), I had the idea of a somewhat... simpler way to monitor ColdFusion on a mobile device - in this case my droid. To be honest, only video would do this justice.

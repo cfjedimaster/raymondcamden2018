@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/10/Ask-a-Jedi-Checking-Spry-data-for-duplicates-and-Spry-17-News
+guid: 3142
 ---
 
 Deli asked an interesting question. He wanted to know if there was a way to compare form data to data loaded in via Spry. My initial reaction was to show him this <a href="http://www.raymondcamden.com/index.cfm/2006/8/25/Spry-Example-Check-it-user-exists">old blog entry</a> that performs an AJAX request to see if a username exists. He wanted something that would work with a dataset though. Here is what I came up with.

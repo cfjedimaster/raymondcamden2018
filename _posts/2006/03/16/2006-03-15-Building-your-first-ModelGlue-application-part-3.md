@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/16/Building-your-first-ModelGlue-application-part-3
+guid: 1153
 ---
 
 In my <a href="http://ray.camdenfamily.com/index.cfm/2006/3/15/Building-your-first-ModelGlue-application-part-2">last entry</a>, I walked us through the basic security setup for the application. We modified the Home event so that it broadcasted an event. This event checked to see if we were logged in, and if not, set a result back to our Home event that would force us to a Logon event. However, I hard coded this so that it always thought we needed to logon. Today we will start building the user system so that you can really logon. You may ask - don't we need the registration system first? Yes - but I find the logon to be simpler so I typically start with that. At the end of this process (in tomorrow's entry) I'll place some temporary data in the database so we can test.

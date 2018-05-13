@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/21/Specifying-tag-attributes-in-a-structure
+guid: 3405
 ---
 
 Yesterday I was reading an article on Ben Forta's blog, <a href="http://forta.com/blog/index.cfm/2009/6/20/Look-No-Datasource">Look, No Datasource</a>, where he described how in ColdFusion 9, we can specify a default datasource at the application level that can then be used with all tags that use a datasource attribute. So instead of doing:

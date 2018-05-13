@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/02/Do-you-have-to-use-a-remote-source-for-Spry-datasets
+guid: 1875
 ---
 
 A user on cf-talk today <a href="http://www.houseoffusion.com/groups/CF-Talk/message.cfm/messageid:271337">posted</a> about a problem he was having with Spry. He had tested with an XML file, but then he switched to passing an XML string directly to Spry:

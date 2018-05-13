@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/12/17/a-quick-example-of-the-ionic-loading-widget
+guid: 7267
 ---
 
 One of the things I love most about <a href="http://www.ionicframework.com">Ionic</a> is how rapidly you can build applications. Many of the cooler features are simple things that can be quickly implemented for an easy win. I like easy wins. Here is a great example of that - the <a href="http://ionicframework.com/docs/api/service/$ionicLoading/">Ionic Loading</a> widget.

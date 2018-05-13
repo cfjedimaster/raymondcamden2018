@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/09/30/new-coldfusion-docs-and-some-tips-for-handling-it
+guid: 6831
 ---
 
 Yesterday, the Adobe CF team announced an update to the ColdFusion docs: <a href="http://blogs.coldfusion.com/post.cfm/coldfusion-documentation-update#comments">ColdFusion documentation update</a>. The summary is that the wiki we have used for a while now is gone and the docs are back in a non-editable, and non-commentable (not really a word, sorry) form. Apparently this isn't a permanent change and in the future sometime it will move to something that allows for more collaboration. You may also run into an SSL issue while browsing the docs (yes, seriously), and if you want to know how to get around that, Adobe as posted a blog entry on that as well (although personally I think they could have fixed it in the time it took to write the blog entry) - <a href="http://blogs.coldfusion.com/post.cfm/ssl-certification-issue-with-wikidocs-link">SSL certification issue with wikidocs link</a>.

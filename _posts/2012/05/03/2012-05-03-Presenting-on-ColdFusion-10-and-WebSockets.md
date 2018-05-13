@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/05/03/Presenting-on-ColdFusion-10-and-WebSockets
+guid: 4606
 ---
 
 Next week (Wednesday night) I'll be doing a presentation on ColdFusion 10 and WebSockets for the Salt Lake City ColdFusion User Group. This meeting is open to the public. Details (along with Connect URL) are available here:

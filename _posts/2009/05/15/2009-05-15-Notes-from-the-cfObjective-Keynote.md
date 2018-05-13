@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/15/Notes-from-the-cfObjective-Keynote
+guid: 3357
 ---
 
 Yes, I know I'm not at cfObjective, but I've got some notes anyway. Don't ask how - I'd have to kill you - but here is a quick overview of what was revealed yesterday at the Adobe keynote. Some of this is old, some of this is new. I'm <i>not</i> going to comment heavily on stuff, not until

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/21/Friday-Puzzler-My-URL-is-smarter-than-your-URL
+guid: 1229
 ---
 
 Here is today's puzzler. (With thanks to Alejandro, aka Brenda on the weekends, for the idea.)

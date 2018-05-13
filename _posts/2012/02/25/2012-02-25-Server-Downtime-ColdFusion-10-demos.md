@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/02/25/Server-Downtime-ColdFusion-10-demos
+guid: 4537
 ---
 
 So, I knew I was taking a risk when upgrading my server to the ColdFusion 10 beta, but, I went ahead and did it anyway. The bad news is that I seemed to have a found a bug with connectors and the server. The good news is that I found a bug. ;) 

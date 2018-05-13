@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/26/Announcing-the-ColdFusion-Unconference-at-MAX
+guid: 2901
 ---
 
 So yesterday I hinted at an announcement regarding MAX. Unfortunately I wasn't 100% sure after I blogged if it was truly ok to talk about it. I just got formal approval so here we go. 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/05/13/Hear-me-wax-poetic-on-Nerd-Radio
+guid: 4932
 ---
 
 Ok, maybe "poetic" is a bit much... but you can listen to my Nerd Radio interview here:

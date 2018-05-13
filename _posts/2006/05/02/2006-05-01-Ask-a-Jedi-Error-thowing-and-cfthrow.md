@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/02/Ask-a-Jedi-Error-thowing-and-cfthrow
+guid: 1243
 ---
 
 Mike asks, 

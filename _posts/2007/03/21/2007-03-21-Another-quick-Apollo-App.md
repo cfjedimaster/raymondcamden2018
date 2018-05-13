@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/21/Another-quick-Apollo-App
+guid: 1910
 ---
 
 I'm just loving Apollo. This morning I built a quick regex tester. It only does global style matches, but it is a good first draft. Download it by clicking the Download link below.

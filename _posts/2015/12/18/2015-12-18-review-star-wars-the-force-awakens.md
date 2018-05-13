@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2015/12/18/review-star-wars-the-force-awakens
+guid: 7269
 ---
 
 <img src="https://static.raymondcamden.com/images/wp-content/uploads/2015/12/tfa.jpg" alt="tfa" width="270" height="400" class="alignleft size-full wp-image-7270" style="margin-right:10px" /> Normally I wait till Sunday to do non-tech posts, but with the memory of the film still burning bright in my mind from last night, I thought I'd write it up today. The first of this review will be <strong>spoiler-free</strong> and I'll clearly mark the beginnings of spoilers. Also, the comments are fair game for spoilers too, so stop reading where it makes sense for you. This will be long winded and emotional, so if you want the tl;dr - it rocked. See it now.

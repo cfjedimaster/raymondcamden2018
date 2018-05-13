@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/09/Variable-Type-Gotchas-ColdFusion-Arrays-and-Missing-Indexes
+guid: 2020
 ---
 
 Following up on my series of blog entries from last week, here is another gotcha you want to look out for when using ColdFusion arrays. When defining an array in ColdFusion, you typically set them starting with 1 and ending with some number:

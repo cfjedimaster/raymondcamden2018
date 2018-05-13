@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/30/Best-of-CF9-Applicationcfc-Script-Template
+guid: 3669
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> <b>Note from the Editor, AKA Ray:</b> Well obviously the contest is taking a bit longer to review than I thought. Sorry folks! But so far the entries have been great and I'm happy we have too <b>many</b> entries versus not enough! Anyway, this is, most likely, the last review for 2009. They will continue in 2010. This review was written by <a href="http://www.cfsilence.com">Todd Sharp</a>.

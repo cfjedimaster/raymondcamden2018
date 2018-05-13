@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/10/Ask-a-Jedi-ColdFusion-Administration
+guid: 845
 ---
 
 A reader asks:

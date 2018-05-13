@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/02/I-heart-Spry
+guid: 1314
 ---
 
 I'm a bit late to the party, but I finally took some time to check out the <a href="http://labs.adobe.com/technologies/spry/">Spry framework</a>, Adobe's answer to the AJAX craze. I haven't been that impressed with AJAX. I mean, it's useful, yes. Very useful. But it's also kind of old and so it isn't really new to me. I've been thinking about learning a bit of AJAX for use in the back end of BlogCFC. I took some time early this morning to look at Spry.

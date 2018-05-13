@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2007/12/24/Review-Puzzle-Quest-Challenge-of-the-Warlords
+guid: 2560
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/pglogoa.jpg">

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/01/Spry-16-Released
+guid: 2381
 ---
 
 Today <a href="http://labs.adobe.com/technologies/spry/">Spry 1.6</a> was released. Along with the new build is a new <a href="http://labs.adobe.com/technologies/spry/home.html">website/portal</a>   which contains links to demos, docs and more. Also, the Spry Team has an updated blog entry on the 1.6 release:

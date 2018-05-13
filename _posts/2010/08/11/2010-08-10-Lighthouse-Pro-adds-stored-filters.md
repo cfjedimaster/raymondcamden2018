@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/08/11/Lighthouse-Pro-adds-stored-filters
+guid: 3906
 ---
 
 This is something I've wanted to add for a long, long time. When working with a project now you have the ability to save the current set of drop downs as a filter. 

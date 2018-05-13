@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/09/07/HDC12-Presentation-and-Demo-Assets
+guid: 4725
 ---
 
 Thanks to everyone who attended my HDC12 presentation (and who sat through my quickly set up presentation today when a speaker didn't show up). As always, any feedback (including criticisms) would be greatly appreciated.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/08/16/Quick-note-on-Google-for-Domains-and-other-misc-personalboring-stuff
+guid: 2285
 ---
 
 I'm running a bit behind today. I had to wake up at 5 (*) and run to New Orleans for - I kid you not - all of 10 minutes - and then drive back home. So while I try to catch up (and consume more coffee) I thought I'd share a tip. <a href="http://www.boyzoid.com/blog/index.cfm">Scott</a> had told me a few weeks ago about his move to <a href="http://www.google.com/a/">Google For Domains</a> (or is it called Google Apps? Not sure...) for his email server. He mentioned the spam filtering along was worth the trouble. I moved a secondary domain last week and had a lot of trouble. This week I moved my primary email and it went a lot better. The main thing is to RTFM - and read it carefully. My problems were all due to simply skimping when reading the docs. 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/05/27/Complex-data-in-an-autosuggest
+guid: 2842
 ---
 
 This is a question I get about once a month. Is it possible to use an autosuggest that returns complex data? What I mean is - I want to be able to start typing into a text field, see a list of matching names come up, but when I pick one, I need to know both the name value and the ID related to the name. So for example, imagine this data:

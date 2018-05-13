@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/07/26/Getting-a-page-from-a-PDF-Document-in-ColdFusion-8
+guid: 2222
 ---
 
 Every needed to extract a page from a PDF document? Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2007/7/25/Reading-text-from-a-PDF-in-ColdFusion-8">blogged</a> my new little CFC called PDFUtils. The idea was to take the power of CFPDF and wrap up some utility functions. The first function contained a simple getText() utility that would return all the text in a PDF.

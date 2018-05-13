@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/06/06/Waiting-for-CFUNITED
+guid: 2865
 ---
 
 As this has become something of a meme, I thought I'd chime in with my answers to Liz's <a href="http://cfunited.com/blog/index.cfm/2008/6/4/Count-down-begins--Questions-for-CFUnited-Attendees">CFUNITED Blog Post</a> questions as well.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/05/Spry-Dates-and-how-we-will-make-you-conform
+guid: 2692
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/Bush030307.jpg" align="left" style="margin-right: 10px;margin-bottom:10px;"> A reader wrote me today about an interesting issue he was having with Spry. His dataset included dates, and whenever he would sort the dates, they would sort incorrectly.

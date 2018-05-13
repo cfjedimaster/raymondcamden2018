@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2012/12/01/Simple-Google-Maps-demo-with-Custom-Markers
+guid: 4795
 ---
 
 This isn't anything special, but a reader today asked if I could modify some code I did for an earlier blog post: <a href="https://www.raymondcamden.com/2011/04/13/Simple-introduction-to-Google-Maps-Part-2-Markers/">Simple introduction to Google Maps - Part 2 - Markers</a>. This was a blog post I had done as part of a series introducing folks to using the Google Maps SDK. While partially focused on ColdFusion (and replacing &lt;cfmap&gt;), it was applicable to anyone who wanted to try out the SDK on their web site.

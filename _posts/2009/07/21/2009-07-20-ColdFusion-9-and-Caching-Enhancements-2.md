@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/21/ColdFusion-9-and-Caching-Enhancements-2
+guid: 3454
 ---
 
 As a follow up to my first <a href="http://www.raymondcamden.com/index.cfm/2009/7/18/ColdFusion-9-and-Caching-Enhancements">first CF9 caching post</a>, today I want to share a simple example that addresses the issue of using the session scope and caching. 

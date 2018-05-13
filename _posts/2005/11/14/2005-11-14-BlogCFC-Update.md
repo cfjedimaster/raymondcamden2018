@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/14/BlogCFC-Update
+guid: 915
 ---
 
 A small update, but with one important fix. Here are the changes:

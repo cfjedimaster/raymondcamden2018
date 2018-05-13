@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/10/26/Notes-from-MAX-Keynote-Day-3
+guid: 1615
 ---
 
 Keynote day 3

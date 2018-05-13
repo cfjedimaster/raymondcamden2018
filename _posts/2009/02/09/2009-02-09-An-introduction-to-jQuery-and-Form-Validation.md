@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/09/An-introduction-to-jQuery-and-Form-Validation
+guid: 3230
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//Picture 139.png" align="left" style="margin-right: 5px"> Last week I was performing a security review on a charity's web site (because that's how I roll, I'm nice like that) when I noticed they were using a jQuery plugin for forms validation. This was something I had not yet looked at in the jQuery world so I decided I'd take a closer look this weekend. I have to admit that I'm in awe over what I've found. I've avoided client side form validation for a long time (and I'll talk more about why in a minute) but I see no reason to do so anymore. What follows is a brief introduction into what I've learned. I'll be blogging a bit more on this topic later in the week with some more advanced examples.

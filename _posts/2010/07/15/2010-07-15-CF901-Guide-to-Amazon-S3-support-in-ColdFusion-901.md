@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/15/CF901-Guide-to-Amazon-S3-support-in-ColdFusion-901
+guid: 3878
 ---
 
 One of the most exciting parts of ColdFusion 9.0.1 is Amazon S3 support. If you've never heard of S3, here is the marketing copy. I'll follow this up with my take on it.

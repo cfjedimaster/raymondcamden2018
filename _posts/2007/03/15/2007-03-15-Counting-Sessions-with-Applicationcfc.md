@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/15/Counting-Sessions-with-Applicationcfc
+guid: 1893
 ---
 
 A few days ago I <a href="http://ray.camdenfamily.com/index.cfm/2007/3/12/Counting-Sessions-with-Applicationcfm">posted</a> about how you could use ColdFusion to track the number of sessions in an application. One of themes of that post was how much easier Application.cfc makes this process. If you haven't read the first <a href="http://ray.camdenfamily.com/index.cfm/2007/3/12/Counting-Sessions-with-Applicationcfm">post</a>, please do so now. I'll wait.

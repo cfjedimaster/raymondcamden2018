@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2007/12/07/Ask-a-Jedi-Building-a-JavaScript-Widget-with-ColdFusion
+guid: 2521
 ---
 
 Shimju asks:

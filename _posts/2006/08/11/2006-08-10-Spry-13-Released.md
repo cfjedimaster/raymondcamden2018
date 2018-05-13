@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/08/11/Spry-13-Released
+guid: 1464
 ---
 
 The title says it all. You can now get <a href="http://labs.adobe.com/technologies/spry/">Spry 1.3</a> from the Adobe Labs site. I'll blog a bit more about it later in the day when I get a chance to play with it. One main change seems to be the effects library. Check the demo <a href="http://labs.adobe.com/technologies/spry/demos/effects/#">here</a>.

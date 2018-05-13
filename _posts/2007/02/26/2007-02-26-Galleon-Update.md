@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/26/Galleon-Update
+guid: 1863
 ---
 
 I got the new update to <a href="http://galleon.riaforge.org">Galleon</a> up on RIAForge. I'm happy that's up after all the hullabaloo from last week. (Do you have any idea how long I've waited to use hullabaloo in a blog post??) Thanks to Rob Gonda for his help. This new addition has (along with changes to the back end to support an object factory) the following updates:

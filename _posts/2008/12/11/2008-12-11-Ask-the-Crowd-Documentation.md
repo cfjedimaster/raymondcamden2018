@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/11/Ask-the-Crowd-Documentation
+guid: 3144
 ---
 
 Brian asked:

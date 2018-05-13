@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/09/21/ColdFusion-Job-Opening-Lincoln-Investment-Planning-Inc
+guid: 4737
 ---
 
 Just passing this along - Lincoln Investment Planning is looking to hire  a senior web applications developer. More details at the DICE listing:

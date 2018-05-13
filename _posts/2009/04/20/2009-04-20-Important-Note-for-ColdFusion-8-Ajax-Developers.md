@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/04/20/Important-Note-for-ColdFusion-8-Ajax-Developers
+guid: 3323
 ---
 
 Credit for this article goes to a discovery by <a href="http://www.raymondcamden.com/index.cfm/2008/2/27/Can-you-do-file-uploads-with-ColdFusion-8s-Ajax-features#cAABFE754-91DF-1F43-6FD5FB1D947239F6">Martin Franklin</a>. Thanks to a comment from him, I discovered something that may be of major importance to folks doing Ajax development on ColdFusion 8 boxes. If you do any work on a ColdFusion 8 box and do not have control over the Administrator settings, beware of the Secure Prefix setting.

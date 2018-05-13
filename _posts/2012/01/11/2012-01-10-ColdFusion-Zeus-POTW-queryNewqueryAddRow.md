@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/01/11/ColdFusion-Zeus-POTW-queryNewqueryAddRow
+guid: 4492
 ---
 
 Time for another ColdFusion Zeus preview - this one being simply a modification to two functions but one I've wanted for a while. One of the nicest datatypes in ColdFusion is the query. I'd be willing to bet that the cfquery/cfoutput query="..." combo are the most important features of ColdFusion. Query variables are used in many places, not just database calls. The cfdirectory tag, for example, returns a query object. Queries are so handy, you can actually create your own on the fly using a combination of queryNew, queryAddRow, and querySetCell. As a blogger, I tend to make use of this quite a bit. It allows me to quickly create fake queries without having to setup a database and populate it with data. It's also handy for times when you may not have access to a database and need to mock something up. I once worked on a project where the DBA was out for a few days due to illness and couldn't give us access to their system. We made use of queryNew in our components and carried on. When the DBA returned, we replaced the fake queries with real ones and everything was kosher.

@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/10/15/Nunjucks-templating-by-Mozilla
+guid: 5334
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/24/Computerworld-Journalist-and-the-Death-of-ColdFusion
+guid: 2061
 ---
 
 -sigh- Do we really have to go through this again? Do computer journalists actually - you know - work with computers? Mary Brandel of Computerword posted this interesting article:

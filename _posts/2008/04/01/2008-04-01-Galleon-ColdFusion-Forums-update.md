@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/01/Galleon-ColdFusion-Forums-update
+guid: 2746
 ---
 
 I just released version 2.012 of <a href="http://galleon.riaforge.org">Galleon</a>. This update adds <a href="http://markitup.jaysalvat.com/home/">markitup</a> support. This is a very cool editor that makes it easy to build support for different languages, including BBML which Galleon supports.

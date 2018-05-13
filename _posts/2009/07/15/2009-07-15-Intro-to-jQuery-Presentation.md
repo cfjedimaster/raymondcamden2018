@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/07/15/Intro-to-jQuery-Presentation
+guid: 3442
 ---
 
 Here is the <a href="http://www.slidesix.com">SlideSix</a> version of my presentation. From this embed you can go to the recorded version and get the code to download as well. Enjoy. I'll be giving a much shorter version of this at CFUNITED.

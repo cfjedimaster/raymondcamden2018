@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/08/02/Web-Stats-Recommendations
+guid: 662
 ---
 
 Can anyone recommend a good program for analyzing web stats? Let me tell you what I'm looking for first:

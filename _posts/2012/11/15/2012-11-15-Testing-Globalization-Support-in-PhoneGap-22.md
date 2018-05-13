@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/11/15/Testing-Globalization-Support-in-PhoneGap-22
+guid: 4783
 ---
 
 One of the more interesting new features in PhoneGap 2.2 iss the inclusion of a globalization plugin into the core of the SDK itself. This plugin has many features, but basically boils down to the ability to get the user's locale and language as well as being able to format numbers and dates. You can read the <a href="http://docs.phonegap.com/en/2.2.0/cordova_globalization_globalization.md.html#Globalization">full API docs</a> for a complete guide, but I thought it would be interesting to build a simple proof of concept application that tested out this feature.

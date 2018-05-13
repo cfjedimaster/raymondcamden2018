@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/27/Ask-a-Jedi-Dealing-with-Recursion
+guid: 877
 ---
 
 This question came in today and I just had to answer it quickly: (Sorry to the 200 other people who have email in my queue!)

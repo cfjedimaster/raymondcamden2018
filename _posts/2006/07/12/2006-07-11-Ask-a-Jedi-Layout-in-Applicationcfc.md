@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/12/Ask-a-Jedi-Layout-in-Applicationcfc
+guid: 1394
 ---
 
 Douglas asked the following question this morning:

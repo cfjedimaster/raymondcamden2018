@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/17/Ask-a-Jedi-ColdFusion-8-and-Ext
+guid: 2480
 ---
 
 Johansen asks what I think is a common question now with ColdFusion 8 and it's Ajax features:

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/11/17/And-so-it-begins-first-MAX-Announcements
+guid: 3106
 ---
 
 The conference hasn't even started yet (well, registration has, pre-events,etc) and we already have some news out there in the wild. First, it looks like AIR 1.5 has been released. You can get it here: <a href="http://get.adobe.com/air/">http://get.adobe.com/air/</a>. You can learn more about AIR 1.5 in this DevNet article: <a href="http://www.adobe.com/devnet/logged_in/rchristensen_lpolanco_air_1.5.html">Introducing Adobe AIR 1.5</a>. Thanks goes to <a href="http://flashthusiast.com">Flashthusiast</a> for sharing the news.

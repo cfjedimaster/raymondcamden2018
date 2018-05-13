@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/12/21/ColdFusion-jQuery-example
+guid: 4468
 ---
 
 As my last act before heading out for vacation (ok, I lie, you know I'm going to blog again, at least 5-6 times), here is an incredibly simple jQuery example involving ColdFusion on the back end. <b>This is not new.</b> But I had a reader write in looking for a very specific example, and I couldn't find a simple blog entry of mine to meet his needs. Basically:

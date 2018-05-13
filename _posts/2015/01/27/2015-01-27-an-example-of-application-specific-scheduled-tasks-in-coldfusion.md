@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/01/27/an-example-of-application-specific-scheduled-tasks-in-coldfusion
+guid: 5593
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/2015/01/26/coldfusion-bloggers-migrated-to-node-js">blogged</a> about my migration of <a href="http://www.coldfusionbloggers.org">ColdFusion Bloggers</a> from ColdFusion to Node. During that conversion, I was impressed by how easy it was to set up a scheduled task. (Once I got past the vagaries of the CRON syntax.) I remembered that ColdFusion 10 had added some dramatic improvements to scheduled tasks. You can read a high level review of that here: <a href="https://wikidocs.adobe.com/wiki/display/coldfusionen/Using+Scheduler">Using Scheduler</a>. While I knew about these improvements, I never actually got around to playing with them. Last night I did - and here's what I found.

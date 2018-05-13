@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2014/09/24/Safari-Remote-Debug-and-IndexedDB
+guid: 5315
 ---
 
 <p>

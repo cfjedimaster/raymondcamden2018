@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/20/Some-PhoneGap-samples
+guid: 4440
 ---
 
 Yesterday I gave a presentation on PhoneGap. In that presentation I had a few samples that I'd like to share. This isn't anything too exciting, and doesn't cover as much as <a href="https://github.com/cfjedimaster/PhoneGapMega">"Mega"</a> project, but if you are looking for some small samples to play with, these may be of use. The examples cover:

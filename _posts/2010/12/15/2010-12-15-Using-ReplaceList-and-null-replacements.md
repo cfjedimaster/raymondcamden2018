@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/15/Using-ReplaceList-and-null-replacements
+guid: 4054
 ---
 
 I had an interesting conversation (well, set of emails) with a reader today who had an interesting problem. Given an input string, he needed to remove some special characters and change spaces to underscores. He knew he could do it with a few Replace calls but wasn't sure if he could do it in one quick function call. I recommend <a href="http://help.adobe.com/en_US/ColdFusion/9.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-6e17.html">replaceList</a>. Let's look at an example of this and then I'll demonstrate what I found with null replacements.

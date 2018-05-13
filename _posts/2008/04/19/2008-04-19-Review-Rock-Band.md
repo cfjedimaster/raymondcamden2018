@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2008/04/19/Review-Rock-Band
+guid: 2777
 ---
 
 So folks know I'm a big fan of the Guitar Hero series. When I first heard of Rock Band, I was pretty interested. For those who don't know - Rock Band expands upon the Guitar Hero concept by letting up to 4 people play at once. Two guys play guitar, one does drums, and another sings. I got Rock Band (thank you, you know who you are!) a few weeks ago and I've finally had time to play it a bit and share my experiences.

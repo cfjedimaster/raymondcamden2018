@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/08/04/The-Dark-Side-of-the-iPhone
+guid: 2956
 ---
 
 So this is just a quick link, but in case you are an iPhone user and somehow didn't know about this, please read:

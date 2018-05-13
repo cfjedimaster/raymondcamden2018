@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/14/CFBL-Update-Week-9
+guid: 2707
 ---
 
 Well, we are almost there folks. Here are the stats for the second to last week:

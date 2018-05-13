@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2011/04/04/Presentation-on-Thursday-A-Gentle-Introduction-to-HTML5
+guid: 4183
 ---
 
 This Thursday, April 7th, at 11CST (Cool Standard Time), I'll be giving a presentation to the Online ColdFusion Meetup on HTML5: 

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/04/10/ModelGlue-3-Preview
+guid: 2763
 ---
 
 I'm a bit late in posting this, but Joe has done a <a href="http://www.firemoss.com/blog/index.cfm/2008/4/9/MG3-Video-Sneak-Peak--Event-Generation">video preview</a> of Model-Glue 3. The video shows off:

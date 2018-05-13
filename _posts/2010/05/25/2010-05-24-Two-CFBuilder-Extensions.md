@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/25/Two-CFBuilder-Extensions
+guid: 3831
 ---
 
 Yesterday at my <a href="http://www.raymondcamden.com/index.cfm/2010/5/24/Scotch-on-the-Rocks-Preso-and-Files">Scotch on the Rocks presentation</a> I talked about two new CFBuilder Extensions I had created. 

@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2011/03/11/Better-handling-of-missing-files-with-your-web-application
+guid: 4154
 ---
 
 John sent in an interesting topic to me:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/12/06/ColdFusion-10-REST-and-SelfDocumentation
+guid: 4802
 ---
 
 Big thanks to <a href="http://henrylearnstorock.blogspot.com/">Henry Ho</a> for asking about this during my REST presentation earlier this week. Apparently, it is common for REST services to notice an OPTIONS request (by that I mean a request made with the HTTP verb OPTIONS) and return an XML-descriptor of the service. I don't believe our docs cover this, but the feature works quite well actually. Here's a few examples.

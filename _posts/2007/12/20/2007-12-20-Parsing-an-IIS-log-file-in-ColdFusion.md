@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/20/Parsing-an-IIS-log-file-in-ColdFusion
+guid: 2555
 ---
 
 Today I wanted to take a look at the logs for <a href="http://www.cfbloggers.org">CFBloggers</a>. I normally just use Google Analytics, but with CFBloggers being so Ajax-heavy, I was curious what the IIS logs would be like compared to Google. I downloaded the logs from the last two months and then realized I had no idea how to parse them. I used to have some decent tools for Windows, but didn't know of anything for OSX.

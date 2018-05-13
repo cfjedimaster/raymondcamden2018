@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/26/Google-Geocode-CFC
+guid: 1801
 ---
 
 So - I have a real cool client. This client had a request for code that would integrate with Google's <a href="http://www.google.com/apis/maps/documentation/index.html#Geocoding_API">Geocode API</a>. This same client also had no problem with me making a nice CFC out of the code <i>and</i> sharing it with the world. This client wants to remain anonymous, but he has my thanks.

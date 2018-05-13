@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/12/iAftermath-and-how-ColdFusion-held-up
+guid: 2928
 ---
 
 Yesterday I wrote a little <a href="http://www.raymondcamden.com/index.cfm/2008/7/11/So-far-iPhone-20-is-DOA">blog entry</a> on how the upgrade experience for my iPhone didn't go so well (by the way, it's all good now and I'll have another blog entry about the 2.0 firmware later today). Little did I know that a few other people were having issues with their upgrades as well. All of a sudden I began to get a regular flood of comment emails. I started watching the stats for the entry and couldn't believe what I was seeing.

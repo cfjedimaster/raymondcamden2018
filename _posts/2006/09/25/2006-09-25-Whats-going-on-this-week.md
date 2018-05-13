@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/25/Whats-going-on-this-week
+guid: 1552
 ---
 
 On Wednesday night of this week I'll be doing my presentation on adding a simple security system to your web sites. Wednesday morning I'll post the URL. I'm sick (again), but with just a cold, so be sure to show up and ask me complex questions and watch how slowly I respond. :)

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/03/07/Adobe-Shadow
+guid: 4553
 ---
 
 A few weeks back I got a preview of a product that was incredible, and I'm happy to see that a public preview was launched last night. <a href="http://labs.adobe.com/technologies/shadow/">Adobe Shadow</a> is a tool that lets you preview and inspect web sites on multiple mobile devices at once. You can use your desktop to drive the web browser on your iOS <i>and</i> Android devices. That by itself would be useful. But you can then also use a Chrome Dev Tools like inspection and editing feature to tweak the DOM of individual devices. None of this probably sounds nearly as cool as it looks, so take a look at the short video below:

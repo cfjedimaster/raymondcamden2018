@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/22/SFU-Everyones-Waiting
+guid: 719
 ---
 
 What follows is a slightly spoiler-ish comment on the finale of <a href="http://www.hbo.com/sixfeetunder/">Six Feet Under</a>. I have to say the final "montage" was one of the most powerful things I've seen done on TV. I've blogged about various TV shows in the past. If you look carefully you can find some darn good shows in the mounds of crap out there. (Specifically Dr. Who, Battlestar Galactica, Lost, and most of the dramas on HBO.) 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/29/What-Folks-arent-using-cfqueryparam
+guid: 2944
 ---
 
 It seems that while I was gone there was some noise about CF and SQL Injection. I find this a bit surprising as I thought <i>everyone</i> was using cfqueryparam now, aren't they? In all seriousness, here are some few links to consider:

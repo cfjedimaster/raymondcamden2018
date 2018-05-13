@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/04/phonegap-orientation-example
+guid: 4420
 ---
 
 This morning I read a post on the Phonegap Google group asking about their support for orientation changes. While PhoneGap has good <a href="http://docs.phonegap.com/en/1.1.0/phonegap_events_events.md.html#Events">event support</a> it doesn't support orientation changes. Why? Because there is no need - turns out the mobile browsers support this themselves. It is probably a good idea to remember that your mobile browsers can do quite a bit themselves. If you find something missing from PhoneGap that you think should be included, ensure the browsers just don't support it already. (And if not, check out the excellent <a href="https://github.com/phonegap/phonegap-plugins">list of plugins</a>.)

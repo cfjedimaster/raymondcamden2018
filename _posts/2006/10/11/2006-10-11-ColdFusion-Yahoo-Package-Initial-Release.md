@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/11/ColdFusion-Yahoo-Package-Initial-Release
+guid: 1580
 ---
 
 Ok, "ColdFusion Yahoo Package" is kind of a dumb name, but I'm sharing my initial release of the API I've built for Yahoo's various web services. Right now I only support Search and Answers. Here is an example of using the Search API:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/17/CFThread-Example-Creating-and-merging-PDFs
+guid: 3399
 ---
 
 Josh K. sent in an interesting problem today. He was generating 10 PDFs in a request, all running via cfthread, and he was trying to create one main PDF by merging the 10 he created. This turned out to be a bit difficult at first, but here is the code I ended up with that worked. Let's break it down line by line.

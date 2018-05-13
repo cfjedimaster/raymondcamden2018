@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/28/ColdFusion-WebSocket-Tip-saving-custom-client-metadata
+guid: 4744
 ---
 
 With the help of ColdFusion engineer Awdhesh Kumar, I've discovered an important tip with ColdFusion 10 WebSockets I'd like to share. I will admit that I'm still trying to wrap my brain around the details somewhat, but this tip works well and may be useful for others.

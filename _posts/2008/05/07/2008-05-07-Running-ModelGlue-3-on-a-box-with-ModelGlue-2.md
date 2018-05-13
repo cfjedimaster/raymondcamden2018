@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/07/Running-ModelGlue-3-on-a-box-with-ModelGlue-2
+guid: 2812
 ---
 
 Just a quick tip. If your box is setup to run Model-Glue2 already, you probably have a ColdFusion mapping set up for ModelGlue that points to the V2 framework. If you want to play with V3 but not mess up your V2 sites (not to imply Joe is anything less than perfect), then consider this simple tip.

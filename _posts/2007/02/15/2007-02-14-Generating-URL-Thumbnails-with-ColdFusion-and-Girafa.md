@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/15/Generating-URL-Thumbnails-with-ColdFusion-and-Girafa
+guid: 1839
 ---
 
 So this is yet another blog entry related to something I saw on <a href="http://www.dzone.com">Dzone</a>. Olaf, a developer from the Netherlands, created a simple <a href="http://www.web-development-blog.com/archives/dynamic-thumbnails-from-websites/">PHP script</a> that would integrate with <a href="http://www.girafa.com">Girafa.com</a> to create URL thumbnails. Girafa has a free account for people who will generate less than 2000 thumbnails per day.

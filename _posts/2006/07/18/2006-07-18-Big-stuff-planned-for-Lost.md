@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/18/Big-stuff-planned-for-Lost
+guid: 1410
 ---
 
 Gee, I bet you thought that since the season was over I'd stop blogging about Lost? Sucker! Tom Mollerus sent me a link over at EW about some possible big changes coming up for Lost:

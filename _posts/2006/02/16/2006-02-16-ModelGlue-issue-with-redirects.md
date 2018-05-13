@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/16/ModelGlue-issue-with-redirects
+guid: 1105
 ---
 
 I ran into an interesting issue with Model-Glue this morning, and since it is something I've seen now on multiple sites, I thought it was time to dig into it. There are two issues I want to talk about.

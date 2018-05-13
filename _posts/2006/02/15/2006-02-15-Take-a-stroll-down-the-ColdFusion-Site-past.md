@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/15/Take-a-stroll-down-the-ColdFusion-Site-past
+guid: 1102
 ---
 
 <p align="right">

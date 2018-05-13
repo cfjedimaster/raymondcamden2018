@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/19/Stump-the-Chump-Rounding-Errors-in-ColdFusion
+guid: 978
 ---
 
 David sent in a question that I wasn't able to resolve, so I thought I'd share it with everyone else:

@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App-Part-4
+guid: 4751
 ---
 
 Welcome to the fourth part of my blog series on building a <a href="http://www.parse.com">Parse.com</a> enabled <a href="http://www.phonegap.com">PhoneGap</a> application. If you haven't yet read the earlier entries in this series, please see the links at the bottom for background and the story so far. In today's entry we're going to add geolocation to the application. This will be supported both in the tip reporting mechanism as well as in the page that fetches tips.

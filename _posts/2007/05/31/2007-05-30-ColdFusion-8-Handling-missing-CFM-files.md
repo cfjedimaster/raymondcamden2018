@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/31/ColdFusion-8-Handling-missing-CFM-files
+guid: 2076
 ---
 
 One of the more interesting new features in ColdFusion 8 is an update to the Application.cfc file. You can now add a method called: onMissingTemplate. As you can imagine, it fires off when a request comes in for a CFM file that doesn't exist.

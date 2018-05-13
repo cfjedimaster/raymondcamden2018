@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/02/QuickPoll-CFC-Updated
+guid: 1134
 ---
 
 I got some <i>darn</i> nice improvements sent in by Mark Mazelin. These improvements include:

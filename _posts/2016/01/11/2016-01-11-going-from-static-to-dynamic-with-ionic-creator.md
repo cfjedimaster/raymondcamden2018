@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2016/01/11/going-from-static-to-dynamic-with-ionic-creator
+guid: 7286
 ---
 
 As I've mentioned more than once now, I'm <i>really</i> happy with how much <a href="http://creator.ionic.io">Ionic Creator</a> has improved recently. For this blog post, I thought it might be useful to demonstrate how you could go from a "static" Ionic Creator proof of concept to a dynamic one that made use of a real API. For hard core developers, this is probably not going to be very helpful. But I imagine Creator will attract folks who may not have a lot of experience working with JavaScript and APIs so I thought a concrete example would be helpful. As always, if anything doesn't make sense, leave me a comment and I'll try my best to help out.

@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/31/Two-more-MAX-Videos-CuttingEdge-HTML-and-Debugging-Your-Web-Apps
+guid: 4950
 ---
 
 The Adobe TV folks got my last two MAX sessions online. As always, any feedback, suggestions, or questions are welcome. Enjoy the silky smooth sound of my voice...

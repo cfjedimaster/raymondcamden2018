@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/12/CFJUG-October-MeetingLast-Recording
+guid: 1583
 ---
 
 So - it looks like I screwed the pooch on the recording for my last ColdFusion Jedi User Group. I left the record button on and it created a huge 5 hour recording which seems to have bombed out Breeze. Adobe worked hard to help me fix it - but I think it is a lost cause.

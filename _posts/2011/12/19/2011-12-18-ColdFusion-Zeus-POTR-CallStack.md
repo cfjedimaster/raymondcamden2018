@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/19/ColdFusion-Zeus-POTR-CallStack
+guid: 4464
 ---
 
 One of the new language additions to ColdFusion Zeus is the ability to get the current callstack. If that sounds Greek to you, it's simply the ability for a function to know who call it, who called that guy, and so on. It sounds confusing, but a few quick examples will help.

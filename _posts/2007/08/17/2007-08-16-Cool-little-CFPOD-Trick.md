@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/17/Cool-little-CFPOD-Trick
+guid: 2287
 ---
 
 During my <a href="http://www.raymondcamden.com/index.cfm/2007/8/15/Ajax-Presentation-Recording-and-Files">presentation</a> on Wednesday concerning Ajax and ColdFusion 8, someone asked about degradation when JavaScript was turned off. What I had said was that I had not tested it, but I assumed that while stuff would render, anything dynamic would not work, including remote content. So for a text I showed this:

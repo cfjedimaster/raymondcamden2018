@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2012/08/24/First-release-of-ColdFire-for-Chrome
+guid: 4714
 ---
 
 Over the past month or so I've been working on a Chrome extension that makes use of dev tools. My goal was to learn more about building Chrome extensions in general. My plan of attack was a Chrome port of <a href="http://coldfire.riaforge.org">ColdFire</a>.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/24/Ask-a-Jedi-How-secure-are-the-usernamepassword-values-of-a-ColdFusion-Scheduled-Task
+guid: 3288
 ---
 
 Kay asks:

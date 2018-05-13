@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/22/Picking-randomly-but-not-from-the-last-few-choices
+guid: 4090
 ---
 
 A few nights ago I was playing Call of Duty Black Ops with some friends of mine. (And despite what they say - I'm a darn good player and always come out with a positive Kill to Death ratio. Honest.) For those of you who haven't done an online game like Black Ops, the basic idea is that you play a round with your friends against a random "room" of people. Each match lasts a few minutes and in the next round a different map will be chosen for you to play with. I greatly simplified that but hopefully those of you who have managed to escape the addiction will get the basics.

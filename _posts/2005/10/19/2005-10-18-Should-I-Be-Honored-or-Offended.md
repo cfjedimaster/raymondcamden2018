@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/10/19/Should-I-Be-Honored-or-Offended
+guid: 858
 ---
 
 So, like every other red-blooded American, I am extremely egotistical and have an intense need to know what others think of me. (Or maybe it's just me. ;) To help track that, I use <a href="http://www.rsswatcher.com">RSSWatcher</a> to monitor <a href="http://www.fullasagoog.com">FullAsAGoog</a> for the keyword, "Camden." Yesterday this hit came in:

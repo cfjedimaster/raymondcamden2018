@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2005/07/22/How-NOT-To-Do-Directory-Security
+guid: 641
 ---
 
 Recently a coworker noticed a web site where the owners had forgotten to secure their administration folder. (He was able to get to the folder by guessing.) He immidiately emailed them to let them know about the problem.

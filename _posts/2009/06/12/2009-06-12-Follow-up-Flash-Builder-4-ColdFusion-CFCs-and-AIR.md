@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/06/12/Follow-up-Flash-Builder-4-ColdFusion-CFCs-and-AIR
+guid: 3392
 ---
 
 I've done a few blog entries recently showing simple examples of connecting to a ColdFusion CFC via Flex. My <a href="http://www.raymondcamden.com/index.cfm/2009/6/8/Simple-example-of-accessing-ColdFusion-data-with-Flex-now-with-Flash-Builder-4">last blog entry</a> demonstrated this using Flash Builder 4. A reader there asked me to create an example of this in AIR. It just took a few minutes, so let me walk you through the process (and please forgive me but let me give the normal disclaimer, I'm new to Flex, blah blah blah).

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/07/30/Welcome-to-the-Nielsen-Family-and-1960
+guid: 4994
 ---
 
 Sorry folks - slow blog week. A few weeks ago I got a letter saying our household had been selected to be a Nielsen Family. For my readers who are international, this is a private company that for half a century now has been surveying the American public and what TV shows they watch. I've never known anyone who was part of the system, so to be honest, I thought it was kind of cool to be selected. About a week or so I got a small package from them and then promptly forgot about it. I just opened it now and - wow - talk about a company living in the past.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/21/Ask-a-Jedi-Understanding-Dereferencing-Bug
+guid: 862
 ---
 
 Annabella asks:

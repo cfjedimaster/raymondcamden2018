@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/20/WebManiacs-ColdFusion-Images-Presentation-LectureHands-On
+guid: 2837
 ---
 
 Attached to this blog entry is the PDF and code from my ColdFusion 8 Images presentation. You can preview the slides here:

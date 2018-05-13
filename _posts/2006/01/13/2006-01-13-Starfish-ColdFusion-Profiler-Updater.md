@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/13/Starfish-ColdFusion-Profiler-Updater
+guid: 1027
 ---
 
 It's been a while, but this morning I updated my <a href="http://www.raymondcamden.com/projects/starfish">Starfish ColdFusion Profiler</a> project. I still consider it very beta. (Hey, Google does it, why can't I?) I finally added something that I should have had in the beginning - basic Application support. So when you view templates, CFCs, and queries now, you can filter by applications. This also applies to the PDF/Excel export. I also made the PDF a bit prettier. (A bit - they still a bit like a mix between un-masked Darth Vader and a tater-tot.)

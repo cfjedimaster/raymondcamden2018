@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/21/Best-of-CF9-easyImages
+guid: 3660
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px;margin-bottom:5px"/> Today's Best of ColdFusion 9 contest entry is easyImages by Simon Romanski. It was judged by Francisco Paulino-Tofinha. This entry also has a rather large download. Therefore I recommend folks use the URL set up by Simon: <a href="http://www.simonit.com/easyImages">http://www.simonit.com/easyImages</a>

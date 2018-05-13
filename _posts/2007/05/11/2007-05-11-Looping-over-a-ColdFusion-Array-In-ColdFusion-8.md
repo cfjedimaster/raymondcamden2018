@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/11/Looping-over-a-ColdFusion-Array-In-ColdFusion-8
+guid: 2026
 ---
 
 Wednesday I <a href="http://ray.camdenfamily.com/index.cfm/2007/5/9/Variable-Type-Gotchas--ColdFusion-Arrays-and-Missing-Indexes">blogged </a> about ColdFusion arrays and today I got permission to mention another new feature in ColdFusion 8 - Array-based CFLOOP. In the past you would loop over an array like so:

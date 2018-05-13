@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/21/DRK12-Released
+guid: 639
 ---
 
 DRK12 has been released for those of you who are in DevNet. I have (yet another) application on it - Harlan. Harlan is an ad server, a bit like Google Adsense. You can use it to create ad campaigns for your sites and track impressions and click throughs. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/30/Changing-in-debugging-with-CFCs-in-ColdFusion-9
+guid: 4291
 ---
 
 Just a quick little post here. A reader contacted me a few days ago with an observation about a change to debugging in ColdFusion 9. In earlier versions of ColdFusion, if debugging was turned on and you ran a CFC (for example, making an AJAX call to a CFC method), debugging text was returned along with your result. This was almost always a bad thing as it tended to break AJAX applications. However, this reader actually used the debugging information to check how well their CFC was performing. Also - tools like <a href="http://coldfire.riaforge.org">ColdFire</a> could make use of this data.

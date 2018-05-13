@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/12/Ask-a-Jedi-SQL-showing-up-in-Verity-indexes
+guid: 4120
 ---
 
 Simon asked:

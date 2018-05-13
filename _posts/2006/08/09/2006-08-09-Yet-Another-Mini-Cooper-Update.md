@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/08/09/Yet-Another-Mini-Cooper-Update
+guid: 1457
 ---
 
 I have a few minutes between meetings so I thought I'd give folks a quick update on my Mini Cooper. If you remember, I had constant difficulties with the machine over the past year. Before that - it was perfect (and fun), but now the car fills me with a sense of dread whenever I look at it.

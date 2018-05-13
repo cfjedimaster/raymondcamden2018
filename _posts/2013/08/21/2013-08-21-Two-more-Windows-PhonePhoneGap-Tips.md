@@ -6,6 +6,7 @@ categories: [html5,mobile]
 tags: []
 banner_image: 
 permalink: /2013/08/21/Two-more-Windows-PhonePhoneGap-Tips
+guid: 5015
 ---
 
 Please note the date of this posting (Aug 21, 2013) - what you are seeing here should be fixed rather soon and is probably not an issue at the time you're reading this. I ran into this last week and wanted to blog it in case others hit the same hurdles.

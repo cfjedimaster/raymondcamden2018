@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/09/Applicationcfc-Methods-and-Example-Uses
+guid: 2464
 ---
 
 A reader commented yesterday that my <a href="http://www.raymondcamden.com/downloads/application.cfc.txt">Application.cfc reference</a> doesn't really say <i>how</i> to use the various methods. Since my reference is intended to be a simple code skeleton, I thought I'd quickly explain each of the methods and possible uses for them. Using my skeleton as a guide, let's cover the methods in order.

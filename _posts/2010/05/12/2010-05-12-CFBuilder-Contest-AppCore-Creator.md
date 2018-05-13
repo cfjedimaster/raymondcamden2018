@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/12/CFBuilder-Contest-AppCore-Creator
+guid: 3816
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> It's been a few days since the last entry, and for that, I apologize. I'm in Rhode Island now in the middle of some big meetings, so I've been pretty much brain dead since Monday. Today's entry is a simple one - but I think it shows some promise and it's a good beginning. The entry was sent in by Akbarsait (aka Akbar, but not <i>that</i> one) and is called AppCore Creator.

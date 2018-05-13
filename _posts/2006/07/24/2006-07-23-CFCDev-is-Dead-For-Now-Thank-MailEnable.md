@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/24/CFCDev-is-Dead-For-Now-Thank-MailEnable
+guid: 1421
 ---
 
 Folks, I'm very sorry to say this, but after repeated cleanings of the queue, MailEnable is still creating thousand of thousands of emails and dropping the server. I'm shutting down the listserv so as to not pound folks. I know some list subscribers got hundreds of emails, and for that, I greatly apologize. MailEnable has done this once or twice in the past,  but my previous fixes do not appear to be working now. 

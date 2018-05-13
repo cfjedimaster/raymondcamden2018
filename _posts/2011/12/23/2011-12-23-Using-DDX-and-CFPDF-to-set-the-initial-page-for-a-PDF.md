@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/23/Using-DDX-and-CFPDF-to-set-the-initial-page-for-a-PDF
+guid: 4471
 ---
 
 Earlier this morning a reader asked about how to send a user a PDF that opened at a particular page. Apparently it is possible to <i>link</i> to a PDF and pass a URL parameter for the page you want to open to, but in his case, he was serving up the PDF via cfcontent. I thought it might be possible to do via DDX, and after searching, I found that this use case is actually documented in the ColdFusion docs, but unfortunately, the XML isn't complete and I had to struggle a bit to get it work. Here's how our docs show it:

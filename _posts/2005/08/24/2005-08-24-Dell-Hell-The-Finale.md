@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/24/Dell-Hell-The-Finale
+guid: 724
 ---
 
 So it occured to me that I never got around to wrapping up the thread I started with <a href="http://ray.camdenfamily.com/index.cfm/2005/8/5/My-Day-In-HDell">My Day in H(D)ell</a>, <a href="http://ray.camdenfamily.com/index.cfm/2005/8/6/Dell-Update-Number-2432940">Dell Update Number 2,432,9400</a>, and <a href="http://ray.camdenfamily.com/index.cfm/2005/8/12/Dell-Update-Inifinity">Dell Update Infinity</a>.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/06/Ask-a-Jedi-Showing-the-values-on-a-chart
+guid: 3267
 ---
 
 Misha asks:

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/16/Another-Flex-conference-announced-FlexManiacs
+guid: 1770
 ---
 
 Ok - so I know I blogged like 10 minutes ago (I'm making up for last week), but a few moments ago <a href="http://www.figleaf.com">Figleaf</a> announced that they are running a new Flex 2 conference as well: <a href="http://flex2conference.figleaf.com/">FlexManiacs</a>. (I <b>love</b> that name!) 

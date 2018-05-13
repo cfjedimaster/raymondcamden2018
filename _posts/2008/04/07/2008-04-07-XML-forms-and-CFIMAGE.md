@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/07/XML-forms-and-CFIMAGE
+guid: 2757
 ---
 
 I was working with Dan Plesse on an odd issue he had with CF8 Image Captcha's and CFFORM. No matter what he did, he couldn't get the captcha to show up in the form. My first though was a broken CFIDE or some other 'special' folder, but that wasn't the case. If we viewed source on his page, there was no IMG tag at all. I finally got it down to one very simple example:

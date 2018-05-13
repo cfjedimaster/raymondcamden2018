@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/04/30/Full-sample-of-IndexedDB-in-action
+guid: 4601
 ---
 
 After a bit more sweat and tears, I've now got a "full" (if ugly) example of an IndexedDB application. It allows you to create and delete simple notes. You can view this demo here:

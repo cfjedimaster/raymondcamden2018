@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/30/Ask-a-Jedi-Help-in-preserving-user-input
+guid: 1068
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/02/Presenting-to-New-Zealand-CFUG
+guid: 2854
 ---
 
 Thursday morning at 1 AM CST (also known as 'holy crap thats late' oclock) I'll be presenting to the New Zealand CFUG. This presentation will (obviously) be over Connect. If anyone in the states is up at that insane hour, please feel free to join me:

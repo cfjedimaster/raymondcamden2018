@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/14/Possible-Answer-to-slow-image-resizes-in-ColdFusion-8
+guid: 3354
 ---
 
 For a while now I've seen an odd issue with image resizing on the Mac (and then Windows as well). Sometimes when I would resize an image, it would take an extremely long time to finish. I'm not talking about <i>expected</i> slowness for a large image/high quality resize. I'm talking about some images take a few seconds, and others taking well over 2 minutes while my CPU went thermonuclear.

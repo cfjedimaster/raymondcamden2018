@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/21/Deep-dive-into-CFCs-and-Requests
+guid: 4276
 ---
 
 Last week I had an interesting discussion with Jaana G., a ColdFusion developer, who wasn't very clear on how CFCs operate over the wire. She had used CFCs as web services but didn't quite get how to use them in other ways - like for Ajax applications. I did a quick check of the docs and found this page: <a href="http://help.adobe.com/en_US/ColdFusion/9.0/Developing/WSc3ff6d0ea77859461172e0811cbec0ac4a-7fd9.html#WSc3ff6d0ea77859461172e0811cbec22c24-7db0">Invoking component methods by using a URL</a>. While this explains some of the feature, it completely skips over the returnFormat portion and therefore wouldn't be too useful for Ajax developers. I thought then it might be a good idea to wrote up a guide that covers exactly what happens when you work with CFCs via HTTP requests. Any comments or corrections would be greatly appreciated.

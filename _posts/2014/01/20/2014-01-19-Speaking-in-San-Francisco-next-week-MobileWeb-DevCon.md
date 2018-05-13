@@ -6,6 +6,7 @@ categories: [development,html5]
 tags: []
 banner_image: 
 permalink: /2014/01/20/Speaking-in-San-Francisco-next-week-MobileWeb-DevCon
+guid: 5131
 ---
 
 <p>

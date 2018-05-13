@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/05/17/Whats-an-expert-ColdFusion-developer
+guid: 4235
 ---
 
 Nicci wrote to me last night with the following question:

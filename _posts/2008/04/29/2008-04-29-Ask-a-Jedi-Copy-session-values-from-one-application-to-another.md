@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/29/Ask-a-Jedi-Copy-session-values-from-one-application-to-another
+guid: 2795
 ---
 
 Chong asks:

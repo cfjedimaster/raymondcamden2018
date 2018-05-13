@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/01/Ask-a-Jedi-Ramping-Up-to-CFMX-N1
+guid: 661
 ---
 
 paakay asks:

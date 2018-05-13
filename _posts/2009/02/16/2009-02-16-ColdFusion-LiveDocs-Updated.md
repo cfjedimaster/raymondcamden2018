@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/16/ColdFusion-LiveDocs-Updated
+guid: 3241
 ---
 
 On Friday I <a href="http://www.raymondcamden.com/index.cfm/2009/2/13/ColdFusion-added-to-Adobe-Community-Help">mentioned</a> that the <a href="http://www.adobe.com/support/coldfusion">ColdFusion support site</a> had been updated. Today LiveDocs was updated as well. Randy Nielsen goes into detail here:

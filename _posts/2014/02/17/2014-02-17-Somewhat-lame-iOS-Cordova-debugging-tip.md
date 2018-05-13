@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/02/17/Somewhat-lame-iOS-Cordova-debugging-tip
+guid: 5154
 ---
 
 <p>

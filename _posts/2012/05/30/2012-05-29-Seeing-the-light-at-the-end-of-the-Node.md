@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/05/30/Seeing-the-light-at-the-end-of-the-Node
+guid: 4634
 ---
 
 For some time now I've complained that I couldn't quite get why <a href="http://nodejs.org/">node.js</a> was so popular. Don't get me wrong - I like JavaScript. But every time I saw a demo it was the same damn thing again and again. A web server. This put me off and made me much less inclined to look deeper at the language. You see - one of the things I don't get about some of the other "cool kids" compared to ColdFusion is that they don't seem to have great support for web applications. The languages seem cool. I played some with Ruby and found it to be <i>very</i> neat. But what I didn't get is why web stuff was a) either an afterthought or b) left to various other open source frameworks that you were supposed to just know about. To me - ColdFusion has always been a great platform for both the language and what it did outside of the language. Application support. Simple sessions. Sure, I can't use it to build a desktop application or a native mobile site - but I could certainly use it to build a data layer for it. Fair or not - that was the perspective by which I judged other languages like Node and Ruby.

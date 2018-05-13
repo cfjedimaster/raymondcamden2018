@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/11/21/Friday-Insanity
+guid: 3116
 ---
 
 First off, sorry for my lack of postings (and replying to emails). I went straight from MAX to meetings at <a href="http://broadchoice.com">Broadchoice</a>. I had to share this story though and I think you guys might enjoy it.

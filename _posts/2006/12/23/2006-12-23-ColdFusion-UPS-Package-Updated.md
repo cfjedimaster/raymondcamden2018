@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/23/ColdFusion-UPS-Package-Updated
+guid: 1734
 ---
 
 I've updated my <a href="http://cfups.riaforge.org/">ColdFusion UPS Package</a> code today to include the first draft of a service that will return shipping rates. This is not yet feature complete, but for basic (I have a 10 pound package) tasks, it will tell you the rates for various services.

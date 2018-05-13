@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/17/The-news-lied-to-me
+guid: 1535
 ---
 
 I just watched a very interesting video on youtube (and no, it didn't involve unicorns):

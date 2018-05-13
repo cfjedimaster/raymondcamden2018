@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/23/Ask-a-Jedi-Saving-a-Dump-for-Later
+guid: 1287
 ---
 
 Ok, I have to admit - the four year old in me wrote that title. The cfdump is the single most useful tag in ColdFusion. But what if you want to use it and store the result for later? Don't forget one of the other extremely useful ColdFusion tags: cfsavecontent. For example:

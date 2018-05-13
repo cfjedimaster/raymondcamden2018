@@ -6,6 +6,7 @@ categories: [development,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/04/05/Using-jQuery-to-conditionally-load-requests
+guid: 4582
 ---
 
 Here's an interesting question - what if you wanted to fetch a resource using Ajax, let's say a large zip file - but you only wanted to do it if the zip has been updated since the user last requested it. How would you do that?

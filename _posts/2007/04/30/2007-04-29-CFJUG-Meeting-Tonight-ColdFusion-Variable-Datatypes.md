@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/30/CFJUG-Meeting-Tonight-ColdFusion-Variable-Datatypes
+guid: 1990
 ---
 
 Tonight I'll be presenting (over Connect) a meeting on ColdFusion variable datatypes. I'll be talking about the various forms of datatypes available to ColdFusion, specifically focusing on the things that may be confusing to newbies. (And to be clear, this is a presentation for folks new to ColdFusion.) 

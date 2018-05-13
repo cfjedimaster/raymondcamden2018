@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/08/21/Follow-up-to-ColdFusion-Axis2-Web-Service-Issue
+guid: 5291
 ---
 
 <p>

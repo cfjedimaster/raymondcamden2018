@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/11/cfcache-user-Watch-out-for-this-mistake
+guid: 4323
 ---
 
 I was talking with <a href="http://www.cfgothchic.com/blog/">Daria Norris</a> this morning about an odd cfcache issue she was seeing when I discovered a simple mistake that could completely break cfcache in your application. This isn't a bug, but it could be considered a backwards compatibility issue you want to look out for. For fun, I'll post her code, and you see if you can find the issue. You don't need to save it to your file system, just know that the the result is a page that never seems to cache.

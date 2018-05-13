@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/02/15/Adding-InternationalizationLocalization-Support-to-Web-Applications
+guid: 4525
 ---
 
 I thought I'd spend some time this week looking at how to add localization support to web applications, specifically client-side heavy web applications. The original intent for this article was to look at the subject matter in terms of PhoneGap applications, but there's no reason why this can't be applied to desktop sites as well.

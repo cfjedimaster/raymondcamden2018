@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/02/18/A-Simple-Class-SchedulingConflict-Handler-built-with-ColdFusion-and-jQuery
+guid: 3723
 ---
 
 Reader X emailed me earlier this week with an interesting problem. He was looking into building a class scheduling system but wanted a way to hande time conflicts on the client. He was currently making use of Flash Forms (which I strongly urge everyone to avoid) but wanted to switch to a pure HTML/JavaScript solution instead. I built up the following demo as one possible way to solve the problem. As always, comments and suggestions are welcome, but remember that this is mainly a proof of concept.

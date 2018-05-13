@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/08/13/Share-Your-Code-Pride
+guid: 3910
 ---
 
 I've been thinking about this for a few days now and I thought it would be good for a Friday morning post. I'm a bit hazy on the exact date, but I have a very clear memory of the first program I ever wrote. (AppleSoft Basic FTW!) I've been writing code for almost 30 years now. I've written a lot of good code. I've written a lot of - um - not so good code. But over all that time, there are certain things that I'm pretty darn proud of. I thought I'd share the code (well, the concept at least) that I'm most proud of and open the discussion to anyone else who wants to share as well.

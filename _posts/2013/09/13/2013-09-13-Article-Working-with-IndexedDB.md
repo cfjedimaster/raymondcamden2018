@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2013/09/13/Article-Working-with-IndexedDB
+guid: 5036
 ---
 
 <p>

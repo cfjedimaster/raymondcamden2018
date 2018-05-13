@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/07/01/Recording-slides-and-bits-from-todays-presentation-on-CFBuilder
+guid: 3867
 ---
 
 You can view a streaming version of today's presentation here:

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2010/07/27/Three-ways-to-sign-URLs-for-the-Amazon
+guid: 3889
 ---
 
 Last week I was doing some experiments with the <a href="http://aws.amazon.com/">Amazon web service API.</a> For the most part it is pretty self explanatory. The part that was difficult was figuring out how to construct the URL so it can authenticate with Amazon. In researching this issue I found three different solutions. I'm writing them down here mainly for my own needs so I can find it later.

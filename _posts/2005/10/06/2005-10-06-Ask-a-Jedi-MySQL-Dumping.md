@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/06/Ask-a-Jedi-MySQL-Dumping
+guid: 833
 ---
 
 A user asks:

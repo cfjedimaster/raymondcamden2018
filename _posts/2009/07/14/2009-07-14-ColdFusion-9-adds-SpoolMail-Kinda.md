@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/14/ColdFusion-9-adds-SpoolMail-Kinda
+guid: 3439
 ---
 
 One of the new features in ColdFusion 9 was inspired (I think so anyway) by my <a href="http://spoolmail.riaforge.org">SpoolMail</a> project. If you go to the mail settings in your ColdFusion 9 Administrator, you will see:

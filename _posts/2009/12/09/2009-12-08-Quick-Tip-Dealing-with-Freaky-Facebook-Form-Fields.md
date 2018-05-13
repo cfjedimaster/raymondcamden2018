@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/09/Quick-Tip-Dealing-with-Freaky-Facebook-Form-Fields
+guid: 3639
 ---
 
 A user working on a Facebook application ran into an interesting problem this morning. Form data was being sent to his server with field names that included a bracket. So instead of a simple form.foo variable, he was sent form.foo[]. When he attempted to make use of the field...

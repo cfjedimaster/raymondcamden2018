@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/07/26/Loading-widgets-galore
+guid: 1430
 ---
 
 Andrew over at the <a href="http://blog.universalmind.com/">Universal Mind</a> blog linked to a pretty cool resource:

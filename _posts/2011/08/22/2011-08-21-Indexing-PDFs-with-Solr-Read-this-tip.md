@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/22/Indexing-PDFs-with-Solr-Read-this-tip
+guid: 4334
 ---
 
 Have you noticed that indexed PDFs don't seem to contain all the content they should? Turns out this is a performance setting in Solr. The tip below is credit Uday Ogra of Adobe:

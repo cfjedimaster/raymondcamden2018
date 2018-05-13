@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/19/Ask-a-Jedi-Preventing-direct-access-to-a-CFC
+guid: 2202
 ---
 
 Chad asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/08/Reminder-on-duping-CFCs
+guid: 1141
 ---
 
 No, I'm not talking stealing from innocent CFCs, but rather about the use of duplicate() on CFC instances. I know I've blogged about it before (although I didn't find it in a quick search), but you must remember to not call duplicate() on a CFC. Here is a Ask a Jedi question I got earlier in the week:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/03/Quick-example-of-serving-up-cached-XML-with-CF8-and-CF9
+guid: 3471
 ---
 
 A user on Twitter asked me about how to use cached data to serve up XML files. He had tried to use cfcache along with cfcontent and ran into trouble. I thought I'd whip up a quick example of how you could manually cache the data yourself, and I created a quick ColdFusion 9 version as well. Ok, so let's look at some sample code.

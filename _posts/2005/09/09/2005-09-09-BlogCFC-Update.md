@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/09/BlogCFC-Update
+guid: 762
 ---
 
 A big thank you goes out to Martin Baur for finding a bug with enclosures. I'm not going to tell you what the bug is - but rather leave it for a ColdFusion 101-style test. First person who can explain the bug (and not laugh at me for making it) will win... um.... well nothing... but hey, it's fun, right?

@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/08/Handling-JSON-with-prefixes-in-jQuery-and-jQueryUI
+guid: 4424
 ---
 
 William asked:

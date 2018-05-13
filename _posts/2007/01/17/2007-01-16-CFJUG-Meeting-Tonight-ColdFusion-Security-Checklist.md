@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/17/CFJUG-Meeting-Tonight-ColdFusion-Security-Checklist
+guid: 1771
 ---
 
 Tonight, at 6PM Central (or as I call it, normal time), I'll be presenting on the <a href="http://ray.camdenfamily.com/coldfusionsecuritychecklist.cfm">ColdFusion Security Checklist</a>. I'll be talking about the list and showing real examples of it in action. This meeting will last for one hour (approximately) and will excite both your mind and senses! (Ok, that last part may not be <i>exactly</i> true.)

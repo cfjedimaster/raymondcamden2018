@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/15/Ask-a-Jedi-Coding-for-Review
+guid: 1336
 ---
 
 John asks:

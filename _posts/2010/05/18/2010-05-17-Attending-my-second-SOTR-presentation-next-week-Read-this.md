@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/18/Attending-my-second-SOTR-presentation-next-week-Read-this
+guid: 3819
 ---
 
 I'll be giving two presentations this year at <a href="http://www.scotch-on-the-rocks.co.uk/index.cfm">Scotch on the Rocks</a> (volcano permitting) and while my first presentation (on extensions in ColdFusion Builder) is a somewhat traditional one, I wanted to make sure folks attending my second presentation (with the incredibly long title of "AJAX is the answer to everything and we never need to worry again and life is full of unicorns!") understood what I had in mind.

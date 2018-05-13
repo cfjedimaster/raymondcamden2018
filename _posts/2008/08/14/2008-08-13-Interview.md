@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/08/14/Interview
+guid: 2971
 ---
 
 Just a quick note to say that my interview with the <a href="http://www.cfconversations.com">CFConversations</a> team (Brian Meloche and Adam Haskell) has just been released:

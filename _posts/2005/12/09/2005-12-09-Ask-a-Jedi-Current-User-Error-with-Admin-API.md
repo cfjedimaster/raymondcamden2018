@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/09/Ask-a-Jedi-Current-User-Error-with-Admin-API
+guid: 964
 ---
 
 Talk about timing. I decided to hit up a few old Ask a Jedi questions and came across this:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/06/09/ColdFusion-Trusted-Cache-and-Deleted-Files
+guid: 5241
 ---
 
 <p>

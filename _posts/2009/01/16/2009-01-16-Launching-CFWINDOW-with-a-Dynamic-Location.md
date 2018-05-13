@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/16/Launching-CFWINDOW-with-a-Dynamic-Location
+guid: 3197
 ---
 
 Over on cf-talk, a user asked if it was possible to use cfwindow without either centering the window or using a hard coded x, y position. Instead they wanted it relative to where the user clicked. This was rather easy to do so I thought I'd share the code.

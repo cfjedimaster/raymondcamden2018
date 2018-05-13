@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/20/Finding-dates-in-a-string-using-ColdFusion
+guid: 4333
 ---
 
 A reader of mine had an interesting question. Is it possible to find all the dates in a string? In theory you could parse all the words and attempt to turn each into a date. You would need to check each word and a "reasonable" amount of words after it. Perhaps up to 4. I decided to take an initial stab at a simpler solution - looking just for dates in the form of mm/dd/yyyy. (Note to all of my readers outside of America. The code I'm showing here would actually work fine in your locales as well.)

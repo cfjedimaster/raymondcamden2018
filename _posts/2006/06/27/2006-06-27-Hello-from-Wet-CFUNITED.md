@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/27/Hello-from-Wet-CFUNITED
+guid: 1357
 ---
 
 Let me start off and say - yes - my luggage did arrive this time. Thanks Delta for not screwing it up (again). I've seen a lot of people already but can't wait for the real start tomorrow. As I said before, please come up and say hi. In fact, let's have a bit of fun. The first person to come up to me and tell me my favorite movie (no, it's not Star Wars) will get a free copy of the CFWACK book. 

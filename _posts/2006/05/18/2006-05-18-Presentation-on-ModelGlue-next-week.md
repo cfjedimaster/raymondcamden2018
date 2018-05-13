@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/18/Presentation-on-ModelGlue-next-week
+guid: 1276
 ---
 
 Aaron West of the <a href="http://www.ncfug.com/">Nashville ColdFusion User Group</a> has asked me to present next week at their meeting. This will be over Breeze, so it is open to folks not in the Nashville area as well. Details may be found <a href="http://www.ncfug.com/index.cfm?fuseaction=dspMeetingInfo">here</a>.

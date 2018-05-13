@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/23/Sessions-Expiring-and-Too-Many-Cookies
+guid: 722
 ---
 
 I'm completely brain-dead right now. I spent the last few hours trying to track down a very odd issue. In IE (why is it always IE??), and not Firefox, an error would occur when someone would login to the members area of the site I'm working on. The error was being thrown because certain session variables didn't exist. 

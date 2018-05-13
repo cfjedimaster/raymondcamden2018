@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/05/09/Ask-a-Jedi-Stylin-with-Flex
+guid: 1258
 ---
 
 Today is Flex day, can you tell? Jeff asks:

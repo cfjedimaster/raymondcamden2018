@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/01/31/IE7-Beta-2-Ready
+guid: 1071
 ---
 
 So, Microsoft released the <a href="http://www.microsoft.com/windows/IE/ie7/ie7betaredirect.mspx">second beta</a> of IE7 today, with some innovative new features like tabs. (Heh.) 

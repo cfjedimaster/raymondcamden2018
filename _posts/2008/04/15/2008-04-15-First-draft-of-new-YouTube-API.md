@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/15/First-draft-of-new-YouTube-API
+guid: 2771
 ---
 
 So not long after I had released my <a href="http://youtubecfc.riaforge.org">YouTubeCFC</a> wrapper, Google dared to update the API to match the rest of their services. I didn't bother updating my code as I wanted to wait till upload support was done. YouTube now officially allows you to upload (and even update) videos. 

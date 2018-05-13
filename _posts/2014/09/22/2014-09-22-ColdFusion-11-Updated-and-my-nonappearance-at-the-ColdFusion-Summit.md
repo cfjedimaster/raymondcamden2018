@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/09/22/ColdFusion-11-Updated-and-my-nonappearance-at-the-ColdFusion-Summit
+guid: 5312
 ---
 
 <p>

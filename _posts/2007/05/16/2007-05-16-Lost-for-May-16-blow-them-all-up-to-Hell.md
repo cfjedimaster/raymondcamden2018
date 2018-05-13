@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/05/16/Lost-for-May-16-blow-them-all-up-to-Hell
+guid: 2042
 ---
 
 Ok, so I know I said I wouldn't do a quote again, but I'm pretty sure this was in the previews from last week anyway. As it stands - this is going to be a pretty darn short review as this was, almost entirely, a lead up to the season finale next week (which I do <b>not</b> get to watch on my nice HDTV as I'll be in Vegas). 

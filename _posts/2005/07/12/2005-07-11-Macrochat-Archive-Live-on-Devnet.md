@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/12/Macrochat-Archive-Live-on-Devnet
+guid: 620
 ---
 
 For those who missed my Macrochat a few months back, it is now live on Devnet:

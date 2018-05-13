@@ -6,6 +6,7 @@ categories: [design,development,html5]
 tags: []
 banner_image: 
 permalink: /2013/08/16/Using-Topcoat-and-Brackets-Check-out-these-Snippets
+guid: 5010
 ---
 
 I'm a huge fan of the <a href="https://github.com/jrowny/brackets-snippets">Snippets</a> extension for Brackets. As my memory seems to get worse with old age, I find that having a quick way to include code bits into my document a huge time saver. As an example, I've never been able to remember the right syntax for the link tag for CSS. Ditto for the stupid argument you have to add to form tags for file uploads. I've got some weird mental block for some reason and just rely on my snippets to help me remember.

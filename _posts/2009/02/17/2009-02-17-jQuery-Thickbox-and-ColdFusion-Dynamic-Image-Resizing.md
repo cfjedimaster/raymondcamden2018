@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/17/jQuery-Thickbox-and-ColdFusion-Dynamic-Image-Resizing
+guid: 3242
 ---
 
 Ok, is it just me, or has JavaScript spoiled me? It seems like almost daily I come across a web page with a long list of image thumbnails. I click on one and the entire page reloads. I click back and get a whole other large page load. I click on another image, and, well, you get the idea. I <b>hate</b> this. I've <a href="http://www.raymondcamden.com/index.cfm/2008/12/17/Early-Christmas-related-excuse-to-test-a-jQuery-Plugin">blogged</a> before about the jQuery <a href="http://jquery.com/demo/thickbox/">Thickbox</a> plugin. It is a great solution to this problem, especially when you team it up with ColdFusion. Here is a great example.

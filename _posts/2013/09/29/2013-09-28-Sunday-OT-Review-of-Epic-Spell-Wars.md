@@ -6,6 +6,7 @@ categories: [games]
 tags: []
 banner_image: 
 permalink: /2013/09/29/Sunday-OT-Review-of-Epic-Spell-Wars
+guid: 5049
 ---
 
 <p>

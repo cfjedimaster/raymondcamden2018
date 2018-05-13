@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/01/17/If-I-was-a-horse-they-would-shoot-me
+guid: 1032
 ---
 
 So for the last 2 weeks or so, I've had some slight pain in my left arm. Normally it only hurt when I would move it like a chicken flapping its wing. Since I don't usually do that - I wasn't so concerned, Yesterday, however, the pain began to spread throughout my entire arm and neck, even when I was standing still. (Something I do quite well.)

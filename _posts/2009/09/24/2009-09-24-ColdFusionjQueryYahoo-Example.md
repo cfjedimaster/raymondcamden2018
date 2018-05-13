@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/09/24/ColdFusionjQueryYahoo-Example
+guid: 3541
 ---
 
 So after releasing an updated version of my <a href="http://cfyahoo.riaforge.org">CFYahoo</a> project at lunch, I thought I'd whip up a super quick demo that made use of it. While researching some of the API changes last night, I came across <a href="http://www.ooer.com/yahoobattle/index.php">YahooBattle!</a>. With a name like that, how could I <i>not</i> click? The idea is simple - provide two search terms and it tells you which term has the most results. I decided to quickly whip up an example that would allow you to compare multiple keywords.

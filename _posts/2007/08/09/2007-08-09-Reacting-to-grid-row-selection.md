@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/09/Reacting-to-grid-row-selection
+guid: 2267
 ---
 
 This week must be grid week. First we have Bruce Phillips' <a href="http://www.brucephillips.name/blog/index.cfm/2007/8/8/Updating-and-Adding-Records-Being-Displayed-In-ColdFusion-8s-cfgrid">post on cfgrid</a> last night, and today Todd Sharp <a href="http://cfsilence.com/blog/client/index.cfm/2007/8/9/Filtering-Records-In-An-Ajax-Grid">posted</a> on it as well. I thought I'd follow the crowd and share a tip as well. How do you do something (anything) when a user clicks on a grid, specifically when using the new HTML cfgrid in ColdFusion 8?

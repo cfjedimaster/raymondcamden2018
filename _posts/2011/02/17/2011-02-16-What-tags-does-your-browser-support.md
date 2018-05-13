@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2011/02/17/What-tags-does-your-browser-support
+guid: 4127
 ---
 
 It seems like a simple enough question, right? If you are developing a web site and want to know the specifics of language support for a particular HTML tag, there should be a way to find out <b>exactly</b> what your browser supports. A few days ago I was thinking about this (at around 5AM actually - no idea why I was up that early) and decided to actually <i>test</i> this theory and see how easy this was in practice. This is especially important with the rise of HTML5. (It's got a logo now so we can start using it.)  I've read numerous blog posts about sexy cool new HTML5 features and they typically do an ok job of saying what's supported where, but I figured that I should be able to bookmark a nice reference and always be able to quickly check an "official" guide for the final word. I decided to focus on Chrome (my preferred browser), Internet Explorer, Firefox, and Safari. I've yet to meet anyone who uses Opera but if any of my readers want to chime in on that browser be my guest. To be clear - I know there are other web sites out there offering HTML reference information. But I feel that the browser makers should be stepping up to the plate to make it easier for their developers.

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/06/HTMLAdobe-AIR-Application-Diversion-Two-Data-Layout
+guid: 3901
 ---
 
 The same reader who prompted my last diversion (<a href="http://www.raymondcamden.com/index.cfm/2010/8/5/HTMLAdobe-AIR-Application-Diversion-One--User-Login">HTML/Adobe AIR Application Diversion One - User Login</a>) also spurred me into another late night of coding. This time his question involved how you could display data loaded via Ajax. While certainly not just an AIR concern (any Ajax application has to worry about this), my experiments focused on the AIR side. Before going any further, let me discuss how I handle this issue now.

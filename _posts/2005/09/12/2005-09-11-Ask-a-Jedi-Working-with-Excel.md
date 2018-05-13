@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/12/Ask-a-Jedi-Working-with-Excel
+guid: 766
 ---
 
 A reader asks:

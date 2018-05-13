@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/27/Interesting-bug-to-watch-out-for-involving-cfqueryparam-and-sql
+guid: 3890
 ---
 
 Credit for this find goes to Lance Staples, a coworker of mine who is apparently too cool to blog. He noticed an error today in a ColdFusion script. See if you can spot what the problem is:

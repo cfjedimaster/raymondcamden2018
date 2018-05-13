@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/18/CFUPS-in-the-Wild
+guid: 1722
 ---
 
 Will pointed me to the first use (that I know of) of <a href="http://cfups.riaforge.org/">CFUPS</a> (my ColdFusion UPS package) in the wild:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/31/Ask-a-Jedi-Another-CF8-Ajax-question-Running-code-when-stuff-loads
+guid: 2627
 ---
 
 This is another question that I've covered before, but I think it makes sense to bring it up again. Matt asks:

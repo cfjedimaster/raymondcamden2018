@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/26/ModelGlue-Tip-Marking-an-event-private
+guid: 1860
 ---
 
 Here is a little something I tend to forget that Model-Glue supports. If you mark an event as private, it cannot be accessed via the URL. So consider:

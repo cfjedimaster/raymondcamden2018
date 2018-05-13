@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/10/ColdFusion-Quickie-Moving-a-file-to-a-daybased-folder
+guid: 3389
 ---
 
 Here is a quick ColdFusion tip I hope people find useful. Let's say you have a site where users upload files. You may store all these files in one main assets folder. Doing so though could lead to a very large folder, and after time could actually impact performance. What about creating dynamic folders based on the date? So if a user uploads a file today, it would be moved to assetroot/2009/6/10. Here is a quick example of that.

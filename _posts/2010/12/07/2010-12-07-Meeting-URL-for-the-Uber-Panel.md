@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/07/Meeting-URL-for-the-Uber-Panel
+guid: 4045
 ---
 
 For tomorrow's Uber Panel of ColdFusion Awesomeness (I just love that name), please use the following URL:

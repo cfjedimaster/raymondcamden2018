@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/18/CFJUG-Repeat-meeting
+guid: 1593
 ---
 
 The repeat of my last CFJUG meeting will be tonight at 5PM CST. The URL is:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/07/27/Check-out-Happy-Metrix
+guid: 4993
 ---
 
 I've got something of a soft spot for dashboards. That's why I was pleasantly surprised recently to discover <a href="http://www.happymetrix.com/">Happy Metrix</a>. Happy Metrix, currently in beta, is an Adobe AIR based desktop application that lets you build dashboard reports for a variety of different datasources. As an example, you can integrate with Google Analytics, Twitter, and YouTube to see how your content is performing. Here's my main dashboard (click for a larger size picture):

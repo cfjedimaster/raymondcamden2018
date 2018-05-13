@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/04/10/Something-to-remember-when-working-with-inline-components-in-Flex
+guid: 1950
 ---
 
 Last night I ran into an issue I just couldn't understand with some Flex development I was doing. Let me show the code that wasn't working:

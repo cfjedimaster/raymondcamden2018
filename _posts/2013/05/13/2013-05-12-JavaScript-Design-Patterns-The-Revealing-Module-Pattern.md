@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/05/13/JavaScript-Design-Patterns-The-Revealing-Module-Pattern
+guid: 4931
 ---
 
 It has been a few weeks (ok, a few months) since my last blog post on JavaScript design patterns. I'd apologize, but frankly, it will probably be a few more weeks until I blog on this subject again, so hopefully people aren't expecting a <i>fast</i> series here (grin). As a reminder, the idea behind this series is to create real, <strong>practical</strong> examples of various JavaScript design patterns based on the book, "Learning JavaScript Design Patterns" by Addy Osmani. (See my review <a href="http://www.raymondcamden.com/index.cfm/2013/4/14/Review-Learning-JavaScript-Design-Patterns">here</a>.) In this blog entry I'll be discussing the Revealing Module pattern.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/12/Lighthouse-Pro-24-Released-ColdFusion-Bugtracker
+guid: 2027
 ---
 
 A semi-big update today. <a href="http://lighthousepro.riaforge.org">Lighthouse Pro</a> now has the follow enhancements/updates:

@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/10/An-Introduction-to-jQuery-and-Form-Validation-2
+guid: 3231
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//Picture 139.png" align="left" style="margin-right: 5px"> Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2009/2/9/An-introduction-to-jQuery-and-Form-Validation">blogged</a> about jQuery and form validation using the excellent <a href="http://bassistance.de/jquery-plugins/jquery-plugin-validation/">Validation</a> plugin by Joern Zaefferer. I demonstrated simple validation techniques using simple additions to your HTML and one line of JavaScript. In today's blog post I'm going to dig a bit deeper into the JavaScript API for the plugin and show more advanced examples of forms validation. As always, please remember that I'm still new to jQuery (and especially this plugin) so comments are welcome!

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/05/04/Getting-file-information-in-ColdFusion-Builder-or-Eclipse-in-general
+guid: 4219
 ---
 
 Jim asked:

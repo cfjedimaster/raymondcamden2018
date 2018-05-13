@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/07/14/Follow-ColdFusion-Bloggers-on-Twitter
+guid: 2933
 ---
 
 For those who like to twit (or who may be a twit), you can now follow <a href="http://www.coldfusionbloggers.org">CFBloggers</a> via Twitter:

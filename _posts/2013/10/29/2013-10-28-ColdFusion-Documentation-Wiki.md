@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/10/29/ColdFusion-Documentation-Wiki
+guid: 5072
 ---
 
 <p>

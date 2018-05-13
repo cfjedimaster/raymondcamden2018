@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/01/Sometimes-its-the-small-mistakes
+guid: 3672
 ---
 
 I recently released an <a href="http://www.blogcfc.com/index.cfm/2010/1/1/BlogCFC-Update--First-in-2010">update to BlogCFC</a>. One of the fixes includes a performance update that I'd like to detail. It isn't that big of a deal. In fact, I assume most folks will consider it quite obvious when they see it. But I missed it for years and figured it would be good to share. To give you a clue - the issue only came about when I updated to the latest <a href="http://coldfish.riaforge.org">ColdFish</a> and also involved the large number of subscribers I have at the blog here. I had noticed for a while now that whenever I published a blog entry, it took a good 10-15 seconds to go through. Let me show you the code and tell me if you can see the issue:

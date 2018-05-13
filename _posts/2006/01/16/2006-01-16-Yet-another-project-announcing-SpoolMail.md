@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/16/Yet-another-project-announcing-SpoolMail
+guid: 1031
 ---
 
 So - here is a problem. You use &lt;cfmail&gt; to generate some mail on your dev box. Since you aren't hooked up to a "real" mail server, to check the mail you need to dig down to your undelivered folder. Wait for it to show up. Open the file, and then ignore all the mail header junk and see if the mail came out ok. This works - but is a pain. Especially now that I run multiple ColdFusion servers under JRun. Sure I could add a shortcut to my desktop, but then I'd have to minimize my desktop, and that's just too much work. 

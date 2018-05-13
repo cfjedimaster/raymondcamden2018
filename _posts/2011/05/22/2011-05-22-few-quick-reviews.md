@@ -6,6 +6,7 @@ categories: [books,video games]
 tags: []
 banner_image: 
 permalink: /2011/05/22/few-quick-reviews
+guid: 4243
 ---
 
 As it is a lazy Sunday morning I thought I'd share a few quick reviews on some games, books, comics I'm consuming lately. If you purchase any of these via the links provided I get a small kickback. (Just an FYI, not sure if I should 'warn' people about that or not. ;) 

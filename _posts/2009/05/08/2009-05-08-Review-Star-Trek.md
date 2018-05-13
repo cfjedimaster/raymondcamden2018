@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2009/05/08/Review-Star-Trek
+guid: 3349
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//st.jpg" align="left" style="margin-right:10px;margin-bottom:10px"> Before I get into my thoughts about the Star Trek reboot, let me be clear. Any and all spoilers will be marked as such, and will be at the end of the blog entry. So if you just want to know what I thought, you can read the blog entry up until the warning block and turn away. As for comments, I say anything goes.

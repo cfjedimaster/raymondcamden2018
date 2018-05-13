@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2010/12/16/Blackberry-version-of-Hangman
+guid: 4055
 ---
 
 Many months ago, I wrote a simple version of <a href="http://insideria.com/2009/11/jquery-and-air---moving-from-w-2.html">Hangman</a> as a desktop Adobe AIR application. It was built using HTML and jQuery and supported a one thousand word database of word choices. This week I looked into porting the application to the Blackberry Playbook. This is what I came up with.

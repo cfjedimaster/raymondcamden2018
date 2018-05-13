@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/21/Targetting-a-device-type-with-Cordova-Emulate
+guid: 5271
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/11/29/Broken-CFC-outline-in-ColdFusion-Builder-Check-your-HTML
+guid: 4029
 ---
 
 From time to time I'll encounter a CFC that is 'broken' in the outline. By broken I mean the method listing goes up to a certain point and just plain stops. I don't encounter this very often, but when I do, it's normally a case of needing to find some method <i>after</i> the mysterious stopping point. I brought this up with Adobe, and used a specific file as an example, and today Ramchandra (Adobe engineer) shared with me what the issue was - invalid HTML.

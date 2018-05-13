@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/02/Counting-Word-Instances-in-a-String
+guid: 2246
 ---
 
 Yesterday in the IRC channel someone asked if there was a way to count the number of times each unique word appears in a string. While it was obvious that this could be done manually (see below), no one knew of a more elegant solution. Can anyone think of one? Here is the solution I used and it definitely falls into the "manual" (and probably slow) category.

@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2015/01/26/coldfusion-bloggers-migrated-to-node-js
+guid: 5583
 ---
 
 Yes, I did it again. If Adobe ever kills ColdFusion you can blame me. ;) This is just an FYI to let folks know I've rewritten <a href="http://www.coldfusionbloggers.org">ColdFusion Bloggers</a> as a Node.js site running on the AppFog platform. To be clear, no, I'm not trying to kill ColdFusion! I'm migrated off my old ColdFusion server and setting up my old sites in a simpler form because - well - I want my life to be simpler. My only real "server" will be this blog, and as I'm still adjusting the settings a bit and tuning WordPress, I want every other thing I run to be as simple and low-maintenance as possible. Plus - I also kinda want to get better at Node.js! 

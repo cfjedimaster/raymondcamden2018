@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2007/09/08/Shall-we-play-a-game
+guid: 2329
 ---
 
 I've long wished for a screen saver that would recreate that awesome scene towards the end of War Games where WOPR (the intelligent computer trying to start World War 3) runs a crap load of nuclear war simulations. I figured something that simple should have been created. I would have loved to - but my design skills aren't enough to do something like that.

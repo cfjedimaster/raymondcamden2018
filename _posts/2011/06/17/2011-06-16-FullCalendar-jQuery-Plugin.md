@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/06/17/FullCalendar-jQuery-Plugin
+guid: 4270
 ---
 
 This isn't going to be a real deep post - more of a "Cool, take a look" type thing. A while back I found the <a href="http://arshaw.com/fullcalendar/">FullCalendar</a> jQuery plugin. As you can probably guess, it's a plugin that provides a full calendar view for dates. I finally made myself take some time to play with it and I'm pretty darn impressed. Some of the features include:

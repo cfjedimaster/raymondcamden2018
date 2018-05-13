@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/07/13/Knowing-when-to-call-it-a-day
+guid: 2193
 ---
 
 Have you ever spent a day where you worked so hard that by 2 or 3 - you just <i>knew</i> that your productive output was done. That it was time to just give it up for the day and return fresh tomorrow?

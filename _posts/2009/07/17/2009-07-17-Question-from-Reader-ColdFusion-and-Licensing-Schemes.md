@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/17/Question-from-Reader-ColdFusion-and-Licensing-Schemes
+guid: 3446
 ---
 
 Kevin asked:

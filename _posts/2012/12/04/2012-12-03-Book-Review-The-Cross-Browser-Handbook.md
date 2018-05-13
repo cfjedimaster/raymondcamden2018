@@ -6,6 +6,7 @@ categories: [html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/12/04/Book-Review-The-Cross-Browser-Handbook
+guid: 4798
 ---
 
 Last night I finished reading <a href="http://crossbrowserbook.com/">The Cross Browser Handbook</a> by Daniel Herken and I thought I'd share some thoughts on it. The book is available in PDF form only and costs 29 dollars. He also offers a more expensive version that includes the code templates and workshops.

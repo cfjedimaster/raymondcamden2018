@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/10/12/Displaying-iCal-data-in-PhoneGap
+guid: 4757
 ---
 
 Yesterday a reader sent the following:

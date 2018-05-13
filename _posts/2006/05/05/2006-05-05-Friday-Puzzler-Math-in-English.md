@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/05/Friday-Puzzler-Math-in-English
+guid: 1250
 ---
 
 For today's puzzler, I thought of a simple little thing that would make you work your string parsing part of the brain. I started out in Perl and absolutely love mucking around with strings, so I thought, why not share this love with everyone else? (Remind me to tell you about the contract work I did for Netscape back in 98 or so that was - basically - one big perl script to update their web site.)

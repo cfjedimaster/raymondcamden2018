@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix,cordova,ionic]
 banner_image: 
 permalink: /2015/08/05/a-real-world-app-with-ibm-bluemix-node-cordova-and-ionic
+guid: 6587
 ---
 
 I'm still working on my <a href="https://github.com/cfjedimaster/SauceDB">large SauceDB project</a>, but during a meeting at work earlier this week my coworkers and I came up with a simple project that may be a nicer introduction to working with <a href="https://ibm.biz/IBM-Bluemix">Bluemix</a> and <a href="http://www.ionicframework.com">Ionic</a>. What follows is a complete application (both back and front end) that is also somewhat simple. There's multiple moving parts here so it does require some setup, but I think this guide would be a good introduction for developers. Of course, the entire thing is also up on GitHub (<a href="https://github.com/cfjedimaster/IonicBluemixDemo">https://github.com/cfjedimaster/IonicBluemixDemo</a>) with the instructions mirrored there as well. Alright, let's get started!

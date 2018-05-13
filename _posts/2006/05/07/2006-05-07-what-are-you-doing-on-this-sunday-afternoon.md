@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/07/what-are-you-doing-on-this-sunday-afternoon
+guid: 1253
 ---
 
 Me - I'm being 100% completely lazy. I'd like to do some yard work (yeah, um, really) but it has been raining, or threatening to rain off and on all day. 

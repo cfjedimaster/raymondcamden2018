@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/26/ColdFusion-and-Unscoped-Variables
+guid: 4095
 ---
 
 Chris asked:

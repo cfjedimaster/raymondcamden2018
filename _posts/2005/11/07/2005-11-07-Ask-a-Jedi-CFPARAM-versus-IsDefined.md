@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/07/Ask-a-Jedi-CFPARAM-versus-IsDefined
+guid: 901
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2015/04/19/some-games-to-pick-up
+guid: 6024
 ---
 
 As it is Sunday and I'm sitting in a hotel in a San Francisco killing time till dinner, I thought I'd catch folks up on the games I've been playing recently. There's three in particular that are somewhat related so I thought why not share with my readers. These are in no more particular order than whatever comes to mind first.

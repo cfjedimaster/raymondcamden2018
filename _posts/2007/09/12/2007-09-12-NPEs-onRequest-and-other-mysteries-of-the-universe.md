@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/12/NPEs-onRequest-and-other-mysteries-of-the-universe
+guid: 2341
 ---
 
 A friend wrote to me this morning with an interesting problem. He recently moved his site (hosted at CrystalTech) from ColdFusion 7 to ColdFusion 8. Then he began to get NPEs (Null Pointer Exceptions) in regards to cfquery tags. He would get these about once per 1-2k hits.

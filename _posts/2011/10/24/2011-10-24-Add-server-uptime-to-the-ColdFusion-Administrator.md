@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/24/Add-server-uptime-to-the-ColdFusion-Administrator
+guid: 4406
 ---
 
 On a private list, Ryan Guill asked if it was possible to get the ColdFusion's server uptime in the administrator. You can see this now in the Server Monitor as well as the Server Manager. Here's a quick screen shot of a few of my servers.

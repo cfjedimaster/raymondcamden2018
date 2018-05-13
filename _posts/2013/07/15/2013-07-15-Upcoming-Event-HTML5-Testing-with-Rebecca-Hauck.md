@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2013/07/15/Upcoming-Event-HTML5-Testing-with-Rebecca-Hauck
+guid: 4983
 ---
 
 <p>

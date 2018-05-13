@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/21/CFTHREADCFJOIN-Proof-of-Concept
+guid: 1419
 ---
 
 Damon Cooper of Adobe has <a href="http://www.dcooper.org/blog/client/index.cfm?mode=entry&entry=916FEFD9-4E22-1671-57A23859C50FFF47">posted</a> a proof of concept for two new tags for the ColdFusion language: CFTHREAD and CFJOIN. These tags let you fire off events and simply forget about them. Right now there is an issue where you can't "completely" forget about them, but you can still run a large set of events asynchronously. Consider this example:

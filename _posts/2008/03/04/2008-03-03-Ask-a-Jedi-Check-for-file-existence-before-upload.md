@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/04/Ask-a-Jedi-Check-for-file-existence-before-upload
+guid: 2689
 ---
 
 Jay asks:

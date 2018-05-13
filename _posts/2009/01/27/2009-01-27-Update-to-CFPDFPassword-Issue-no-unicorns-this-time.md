@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/27/Update-to-CFPDFPassword-Issue-no-unicorns-this-time
+guid: 3212
 ---
 
 A few days ago I blogged (<a href="http://www.raymondcamden.com/index.cfm/2009/1/23/How-to-remove-a-password-from-a-PDF-using-ColdFusion">How to remove a password from a PDF using ColdFusion</a>) about the difficulty in using CFPDF to remove a password from a protected PDF. It turned out that if you only supplied a userpassword setting and not an ownerpassword setting, the only solution was to use DDX. Myself, Jochem van Dieten, and others, discussed this in depth with Adobe on another listserv to see what was going on here. There were a few open questions. Is a PDF with just a userpassword valid? If not, does that mean cfdocument is broken? If it is valid, is something wrong with CFPDF (ignoring DDX) in that it would not let me remove the password?

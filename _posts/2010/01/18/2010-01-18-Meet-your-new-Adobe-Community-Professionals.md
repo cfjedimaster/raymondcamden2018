@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/01/18/Meet-your-new-Adobe-Community-Professionals
+guid: 3686
 ---
 
 Today Liz Frederick <a href="http://lizfrederick.blogspot.com/2010/01/new-acps-for-2010.html">released</a> the latest list of community members added to the Adobe Community Professionals roster. Gone is the day of the Adobe Community Expert (or ACE, which was frowned upon because it interfered with another Adobe group) and so with a new year comes not only a new name, but an updated group as well. I'm very honored to be asked back, especially considering some of the new faces that were added. (Although I want to know who let that Boyzoid guy in - watch out for him and lock up your beer!) 

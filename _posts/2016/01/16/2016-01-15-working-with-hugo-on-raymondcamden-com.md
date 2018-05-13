@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2016/01/16/working-with-hugo-on-raymondcamden-com
+guid: 7389
 ---
 
 I've mentioned before that I'm considering moving my blog from a Wordpress install to purely static. I've made some progress on this effort and while I'm not 100% sure I'm going to pull the plug, I'm <i>real</i> close to it. 

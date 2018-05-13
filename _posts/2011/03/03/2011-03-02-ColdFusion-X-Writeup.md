@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/03/03/ColdFusion-X-Writeup
+guid: 4145
 ---
 
 Today at Scotch on the Rocks, Adam Lehman released some tidbits about the upcoming new release of ColdFusion, ColdFusion X. I tweeted as much as possible, but for those who don't use Twitter, and for those who want a general one page summary they can comment on, here is what he said and my opinion where applicable. Please note that anything announced today could easily change between now and the real release. Also remember these notes are based on my memory of what Adam said. Any mistakes are my fault.

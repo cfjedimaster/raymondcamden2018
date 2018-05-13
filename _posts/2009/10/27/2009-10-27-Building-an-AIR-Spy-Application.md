@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2009/10/27/Building-an-AIR-Spy-Application
+guid: 3580
 ---
 
 Earlier today I twittered that I wanted to build a simple AIR application. The idea would be to use the web cam on my Macbook Pro and snap a picture every minute or so. I thought this would be relatively easily in AIR and I wasn't surprised at all. Let me be honest - I did <b>not</b> do heavy research into this. I found two really good web sites and built my application from what I saw there. There is - <b>most definitely</b> - probably much cleaner ways of doing this. I built this for fun - nothing more. That being said, let's take a look.

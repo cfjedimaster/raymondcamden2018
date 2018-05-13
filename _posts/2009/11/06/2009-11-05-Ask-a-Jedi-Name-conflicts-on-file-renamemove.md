@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/06/Ask-a-Jedi-Name-conflicts-on-file-renamemove
+guid: 3593
 ---
 
 Matt asks:

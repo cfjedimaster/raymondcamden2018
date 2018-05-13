@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/08/13/Back-to-the-Big-Easy
+guid: 1467
 ---
 
 Last year, about two to three weeks before Katrina, my wife and I, along with the kids and my wife's parents, went to New Orleans for the weekend. We did the normal touristy type things, had a good time, and came back home. Little did we know what was going to happen in a few weeks.

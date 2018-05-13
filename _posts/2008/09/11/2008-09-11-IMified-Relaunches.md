@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/11/IMified-Relaunches
+guid: 3010
 ---
 
 Via <a href="http://www.corfield.org/blog">Sean</a>, IMified has relaunched their IM integration service as a web based application. More information can be found here: <a href="http://blog.imified.com/index.php/2008/09/11/reintroducing-imified/">(Re)introducing IMified</a>

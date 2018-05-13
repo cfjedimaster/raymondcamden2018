@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/10/07/Cordova-and-Large-Asset-Downloads-An-Abstract
+guid: 5327
 ---
 
 <p>

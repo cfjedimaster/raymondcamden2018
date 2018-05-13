@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/08/24/Using-a-background-with-a-Flex-Mobile-project
+guid: 4338
 ---
 
 Earlier this week I started work on a new NookColor app (already done and submitted). One of the minor design elements I wanted was a simple background using a graphic. I had assumed this would be a simple matter. It's already easy to set a background color. However this turned out to be slightly more complex than I imagined. What follows is an example of how it can be done. Credit for this goes to <a href="http://blogs.adobe.com/jasonsj/">Jason San Jose</a> and <a href="http://devgirl.org/">Holly Schinsky</a>. Please note that part of this blog entry is my understanding of what's going on and there is a strong possibility I could be wrong. Any mistakes - blame me. If it's perfect - thank them. ;)

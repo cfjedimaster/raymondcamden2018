@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2010/10/01/Dealing-with-remote-resources-in-ColdFusion-and-HTMLJS
+guid: 3957
 ---
 
 Christian asks:

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2011/07/08/Some-thoughts-on-working-with-CFCs-remotely
+guid: 4299
 ---
 
 Last night my boss pinged me with a few questions concerning ColdFusion Components (CFCs) and Flex. His questions led to a long discussion about working with remote CFCs (and to be clear, this would apply to Flex or Ajax) and what some of the best/recommended practices are. He also asked for a demo of what I was talking about so I whipped up some code this morning to illustrate the concepts. If any of this blog entry does not make sense, I'll be moderating an open chat room later today (4PM CST) on Connect: 

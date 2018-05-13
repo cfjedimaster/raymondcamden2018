@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/04/cfObjective-Mark-Mandel-and-Transfer-ORM-Object-Relational-Mapping
+guid: 2002
 ---
 
 (As before please pardon the writing.)

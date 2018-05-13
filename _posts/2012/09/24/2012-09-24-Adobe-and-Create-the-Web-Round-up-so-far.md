@@ -6,6 +6,7 @@ categories: [development,html5,mobile]
 tags: []
 banner_image: 
 permalink: /2012/09/24/Adobe-and-Create-the-Web-Round-up-so-far
+guid: 4740
 ---
 
 I just got done watching the Create the Web live stream of the keynote. (Unfortunately I couldn't be in SF this week so I had to watch it remotely.) We will soon be posting a link to the recording for those who missed it. I thought I'd take some time to write up some of the links and announcements from today as well as my thoughts. If I miss anything, or if you have comments and questions, please let me know. I'll try to make this as sensible and organized as possible.

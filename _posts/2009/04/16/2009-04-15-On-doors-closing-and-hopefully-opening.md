@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/04/16/On-doors-closing-and-hopefully-opening
+guid: 3317
 ---
 
 Sean <a href="http://corfield.org/blog/index.cfm/do/blog.entry/entry/As_one_door_closes_another_opens">blogged</a> last night about the end of his time at Broadchoice. Unfortunately, I too have to make the same announcement. Yesterday was my last day as a Broadchoice employee. 

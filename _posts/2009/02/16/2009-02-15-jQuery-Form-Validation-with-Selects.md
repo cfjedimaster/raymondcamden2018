@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/16/jQuery-Form-Validation-with-Selects
+guid: 3240
 ---
 
 A reader on my <a href="http://www.raymondcamden.com/index.cfm/2009/2/9/An-introduction-to-jQuery-and-Form-Validation">first post on jQuery Form Validation</a> asked an interesting question - how do you validate select form fields? Specifically, given that a drop down may have a 'Other' option, how do mark a text field required if the drop down is set to Other?

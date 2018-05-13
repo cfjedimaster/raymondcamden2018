@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/18/Not-Enough-Pink-Shoes
+guid: 630
 ---
 
 I got an email today from a presenter at CFUNITED who spoke after one of my sessions. Apparently a few of my reviews accidently got stuck in his pile. One of the comments was... and I kid you note:

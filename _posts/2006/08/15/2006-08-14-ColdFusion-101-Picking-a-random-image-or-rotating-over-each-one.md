@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/15/ColdFusion-101-Picking-a-random-image-or-rotating-over-each-one
+guid: 1471
 ---
 
 A reader asked me how he could show a random image to visitors. This is simple enough, so I thought I'd show an example of that along with an example of how you could rotate over a set of images and ensure the user sees each one.

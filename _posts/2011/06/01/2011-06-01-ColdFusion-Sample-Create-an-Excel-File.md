@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/01/ColdFusion-Sample-Create-an-Excel-File
+guid: 4253
 ---
 
 In this ColdFusion sample, I'll demonstrate a simple way to take form input and generate an Excel spreadsheet file. This is a simple example with a very basic form, but hopefully it will give you enough to go by to create your own similar application.

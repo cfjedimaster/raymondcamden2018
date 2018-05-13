@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/06/27/Finding-the-username-in-an-AIR-app-and-a-quick-binding-tip
+guid: 3409
 ---
 
 Gary asked me an interesting question relating to AIR applications. He wanted to know if there was a way for an AIR application to know the username of the current user. I would have guessed that this would be part of the AIR API, but after a bit of searching and asking around, it turns out that this is not the case.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2015/02/17/reminder-get-this-blog-via-email
+guid: 5698
 ---
 
 Just a quick reminder that if you previously subscribed to my blog to get new posts by email, that feature went away when I changed to Wordpress. I'm using Feedburner for my RSS feed now and they allow you to subscribe. Just follow this <a href="https://feedburner.google.com/fb/a/mailverify?uri=RaymondCamdensBlog&loc=en_US">link</a> and you're good to go.

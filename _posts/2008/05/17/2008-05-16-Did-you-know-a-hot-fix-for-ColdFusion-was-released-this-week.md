@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/17/Did-you-know-a-hot-fix-for-ColdFusion-was-released-this-week
+guid: 2834
 ---
 
 I didn't. I <i>really</i> wish there was some type of service (perhaps using a web application - anyone know how to build those?) where I could ask Adobe to email on each and every ColdFusion update. I definitely get that some hot fixes are not for everyone. Adobe recommends you only get a hot fix typically if it applies to an issue you are having, but this weeks release was a cumulative hot fix - something most folks probably want to install. You can find it here:

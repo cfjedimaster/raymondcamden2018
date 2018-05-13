@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/10/17/Share-API-Updated
+guid: 2419
 ---
 
 I've updated my Share API code. This is a CFC that integrates with the new Adobe <a href="http://labs.adobe.com/technologies/share/">Share</a> service. My CFC now includes the ability to create and update shares. What doesn't work?

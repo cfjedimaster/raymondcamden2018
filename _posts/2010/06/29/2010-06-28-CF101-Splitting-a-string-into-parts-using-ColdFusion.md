@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/29/CF101-Splitting-a-string-into-parts-using-ColdFusion
+guid: 3862
 ---
 
 Stveve Wonderpets asked:

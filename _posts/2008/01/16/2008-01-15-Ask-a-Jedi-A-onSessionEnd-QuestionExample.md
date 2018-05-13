@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/16/Ask-a-Jedi-A-onSessionEnd-QuestionExample
+guid: 2596
 ---
 
 Pat asks:

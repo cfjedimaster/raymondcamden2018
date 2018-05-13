@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/08/14/Updating-PhoneGap-Databases
+guid: 5006
 ---
 
 Before we get started, I should point out that today's blog entry isn't really PhoneGap specific. Any browser that supports <a href="http://www.w3.org/TR/webdatabase/">WebSQL</a> can make use of this entry. As WebSQL is a dead standard, I pretty much only use it in PhoneGap.

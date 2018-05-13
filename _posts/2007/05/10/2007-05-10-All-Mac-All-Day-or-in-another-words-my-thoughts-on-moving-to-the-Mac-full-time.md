@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/05/10/All-Mac-All-Day-or-in-another-words-my-thoughts-on-moving-to-the-Mac-full-time
+guid: 2024
 ---
 
 So on Tuesday my new MacPro arrived, completing my move to the Mac platform. I've been using a MacBookPro for almost a year now so OSX wasn't new to me, but this marks my compete move to the Mac platform. And I love it. Absolutely love it. Let me point out a few complaints first.

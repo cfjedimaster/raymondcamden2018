@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/08/04/Video-of-CFUN-Presentation-on-Adobe-AIR-HTML-Applications
+guid: 3897
 ---
 
 A <b>huge</b> thank you to Tim Cunningham for posting a recording of my CFUNITED presentation on Adobe AIR, HTML applications, and jQuery. You can find it here:

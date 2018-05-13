@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/02/03/Job-Opening-for-Sr-ColdFusion-Developer-in-CA-San-Fernando-Valley
+guid: 4518
 ---
 
 Just passing it on...

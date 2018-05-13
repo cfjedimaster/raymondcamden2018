@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/12/Using-ColdFusion-to-get-the-end-of-a-file
+guid: 3313
 ---
 
 A week or so ago I wrote a blog entry on converting ColdFusion logs to RSS feeds (<a href="http://www.raymondcamden.com/index.cfm/2009/3/28/ColdFusion-Logs-to-RSS-with-a-quick-sidetrack-into-zombies">ColdFusion Logs to RSS</a>). In the article I converted lines of a log file into an RSS feed. I mentioned that it was a bit silly to convert the beginning of a log file into RSS since new data is added to the end of a file. How can we grab the end of a file?

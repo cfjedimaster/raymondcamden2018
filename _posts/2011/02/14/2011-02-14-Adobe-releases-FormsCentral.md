@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/02/14/Adobe-releases-FormsCentral
+guid: 4121
 ---
 
 Interesting news out of Adobe today with the announcement of <a href="https://formscentral.adobe.com/">FormsCentral</a>, an online form processing service. Adobe has been making a few moves in the SaaS space the last year or so and this seems like a natural fit. I spent a little bit of time looking at the service and its... interesting. What follows are some thoughts based on my quick look. 

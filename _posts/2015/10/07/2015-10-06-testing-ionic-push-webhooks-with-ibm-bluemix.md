@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix,ionic]
 banner_image: 
 permalink: /2015/10/07/testing-ionic-push-webhooks-with-ibm-bluemix
+guid: 6882
 ---
 
 <strong>Disclaimer: Ionic Services are currently in Alpha status. While the feature I'm talking about will surely exist when Ionic's Push service goes Gold, the <i>details</i> of what I'm covering today will surely change. Please keep that in mind.</strong>

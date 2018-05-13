@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/12/21/Question-for-Lighthouse-Pro-Users
+guid: 987
 ---
 
 I know I've asked this before - but I'm on the edge now and want a "sanity" check before I jump. Lighthouse Pro makes extensive use of Flash Forms. In some cases, it does so for simply stuff like the editing of project loci (this just means the bug area). The only time where it makes <i>great</i> use of it is the project view. However, I'm running into trouble trying to make some simple changes to it. For example - if you filter by Open, then edit a bug, then submit, the grid comes back with all items selected. The guys over at <a href="http://www.asfusion.com">ASFusion</a> sent me a nice example of how to get around that, but it is becoming problematic. 

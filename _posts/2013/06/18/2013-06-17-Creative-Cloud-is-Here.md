@@ -6,6 +6,7 @@ categories: [design,development]
 tags: []
 banner_image: 
 permalink: /2013/06/18/Creative-Cloud-is-Here
+guid: 4965
 ---
 
 <img src="https://static.raymondcamden.com/images/CreativeCloud_Logo4-300x3001.jpg" style="float:left;margin-right:10px" /> Good morning, folks. I know a few of you are tired (as I am) after staying up last night for the launch of <a href="http://creative.adobe.com">Creative Cloud</a>. If you haven't kept up to date, the Creative Cloud (CC) is the new version of our Creative Suite. Creative Cloud gives you access to over thirty different applications and services, including <i>hundreds</i> of new features to products like Photoshop, Illustrator, Dreamweaver, and the Edge tools.

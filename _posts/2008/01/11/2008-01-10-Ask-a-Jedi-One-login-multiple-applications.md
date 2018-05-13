@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/11/Ask-a-Jedi-One-login-multiple-applications
+guid: 2586
 ---
 
 William asks:

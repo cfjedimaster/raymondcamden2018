@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/03/10/ColdFusion-Builder-Refactoring
+guid: 3744
 ---
 
 I don't know about you - but every time I hear about refactoring in an IDE, I break out in a case of the cold sweats. It's the same way I feel about multi-file search and replace. Sure it's a great feature, but the idea of updating hundreds of files at one time and <i>not</i> screwing up just freaks me out. That being said, I decided to just get over my fears and take a quick look at <a href="http://help.adobe.com/en_US/ColdFusionBuilder/Using/WS0ef8c004658c1089-554789f8121af8f0c8c-7fe9.html">refactoring</a> in ColdFusion Builder. To be honest, I would not have played with this feature at all if I hadn't discovered that it has a preview function. So if the thought of accidentally spreading a typo across a thousand files worries you as well - at least know that you can see exactly what changes will be made before committing to actually modifying your files.

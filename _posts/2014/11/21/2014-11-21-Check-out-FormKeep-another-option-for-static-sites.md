@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/11/21/Check-out-FormKeep-another-option-for-static-sites
+guid: 5356
 ---
 
 <img src="https://static.raymondcamden.com/images/keep1.png" class="bthumb" align="left" style="margin-right:10px" />

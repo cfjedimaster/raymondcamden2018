@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/19/Why-you-will-never-read-my-blog-again
+guid: 1968
 ---
 
 I was cleaning up my "testingzone" folder today when I ran across some pretty darn old code. (My testingzone folder is where I put all my random tests. My thinking was that it would keep the rest of my web root clean. Of course now my testingzone folder is almost unreadable.) This application was created in 1998, back when IE was the best browser (well in my opinion Netscape had really begun to slip) and ColdFusion was still at version 4.

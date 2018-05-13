@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/05/18/fascinating-cftrycfcatchcfoutput-bug-with-coldfusion
+guid: 6154
 ---
 
 This was reported to me by Brian Paulson and I have to admit I was pretty surprised when I saw it. Consider the following code block:

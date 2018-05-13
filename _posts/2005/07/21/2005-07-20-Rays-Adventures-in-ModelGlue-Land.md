@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/21/Rays-Adventures-in-ModelGlue-Land
+guid: 634
 ---
 
 I've been interested in <a href="http://www.model-glue.com">Model-Glue</a> since it was first release, and I'm finally starting my first site on it - a complete rewrite of <a href="http://www.cflib.org">CFLib.org</a>. I thought it might be helpful to others if I share my development process along with the problems I run into. Bear in mind - I'm a MG newbie so I will probably do things the 'wrong' way, but I figured it might be helpful to other MG noobs if I shared. I'm also going to put the site online while it is in dev mode - but that may take a little while.

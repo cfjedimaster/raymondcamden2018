@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/24/Todd-gets-the-funk-on-with-Spry-and-ColdFusion-8
+guid: 2216
 ---
 
 Todd just shot me over a link to a new article on his blog:

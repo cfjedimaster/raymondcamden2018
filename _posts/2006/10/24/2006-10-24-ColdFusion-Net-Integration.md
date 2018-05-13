@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/10/24/ColdFusion-Net-Integration
+guid: 1608
 ---
 
 Again - forgive the haphazard nature of the notes.

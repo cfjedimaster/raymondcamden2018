@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/11/First-release-of-Cordova-Brackets-extension
+guid: 5265
 ---
 
 <p>

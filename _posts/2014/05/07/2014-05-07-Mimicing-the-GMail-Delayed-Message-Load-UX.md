@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/05/07/Mimicing-the-GMail-Delayed-Message-Load-UX
+guid: 5218
 ---
 
 <p>

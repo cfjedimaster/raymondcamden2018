@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/14/One-more-item-for-the-ColdFusion-Security-Checklist-AJAX-Debugging
+guid: 2123
 ---
 
 I've had a <a href="http://www.raymondcamden.com/coldfusionsecuritychecklist.cfm">ColdFusion Security Checklist</a> for a while now, but there is an item I will have to add once ColdFusion 8 finally ships.

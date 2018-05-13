@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/20/From-the-Obvious-Department-Read-the-Release-Notes
+guid: 3570
 ---
 
 So I know that everyone knows this, but have you read the release notes for ColdFusion 9 yet? You can find them here:

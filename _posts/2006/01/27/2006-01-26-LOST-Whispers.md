@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/01/27/LOST-Whispers
+guid: 1063
 ---
 
 (Yes, I know, I do plan on blogging about ColdFusion, at some point, really, but I'm just a tiny bit addicted to LOST. Just a reminder to my readers - if the OT stuff bugs you, you can filter by category when you view the blog. :)

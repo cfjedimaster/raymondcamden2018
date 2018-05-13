@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/03/Ask-a-Jedi-Using-Robust-Exception-Information-on-a-shared-host
+guid: 2510
 ---
 
 I was recently contacted by a possible client who was looking for a code review. As part of my standard "playing around" I noticed that his site was throwing errors with the full path information revealed. As folks know, I always recommend you turn off <b>Show Robust Exception Information</b> on a production machine. There is <b>no</b> reason to use it in production and no reason you need if you use proper error handling. I informed the client of this (possible client, hope I get the job :) and he spoke with host. I was shocked by the response:

@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2010/12/08/Simple-RSS-Reader-built-in-AIR-for-Mobile
+guid: 4047
 ---
 
 Tonight I whipped up a quick port of Mike Chamber's code that <a href="http://www.mikechambers.com/blog/2008/01/22/parsing-rss-20-feeds-in-actionscript-3/">demonstrates RSS parsing in ActionScript</a>. I took his code and built a simple native AIR for Mobile application from it. The more I work with <a href="http://labs.adobe.com/technologies/flashbuilder_burrito/">Flash Builder "Burrito"</a> and <a href="http://labs.adobe.com/technologies/flexsdk_hero/">Flex SDK "Hero"</a> (the new AIR framework with mobile support), the more I <i>really</i> appreciate how easy Adobe has made mobile development. I've got a full application here that downloads a RSS feed, displays it nicely, and allows you to read the entry text. While this isn't that special, what impresses me is that steps done to make it easy to create the application. For example, it's trivial to tell the application to move from one screen to another. It's trivial to pass data from one view to another. These are all things that aren't terribly complex in a traditional AIR application - but frankly there is nothing at all wrong with making things even simpler. Let's take a look at the code - and again - credit goes to Mike Chambers for the original.

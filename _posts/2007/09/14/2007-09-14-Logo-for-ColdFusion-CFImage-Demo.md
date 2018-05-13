@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/14/Logo-for-ColdFusion-CFImage-Demo
+guid: 2348
 ---
 
 A long time ago - in a place far, far away (sorry, couldn't resist), I remember seeing a cool little program on the Apple 2c that taught kids programming by having them move a little turtle around a screen. This was based on the <a href="http://en.wikipedia.org/wiki/Logo_{% raw %}%28programming_language%{% endraw %}29">Logo</a> programming language. Someone mentioned it on a thread yesterday in CF-TALK, and me being the crazy person I am I decided - what the heck - let me try to recreate this in ColdFusion.

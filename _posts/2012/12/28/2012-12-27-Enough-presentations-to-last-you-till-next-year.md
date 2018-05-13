@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/12/28/Enough-presentations-to-last-you-till-next-year
+guid: 4816
 ---
 
 I'm posting this mainly as a reminder to myself on things I need to check, but here are two very large lists of front-end presentations that you may want to check out.

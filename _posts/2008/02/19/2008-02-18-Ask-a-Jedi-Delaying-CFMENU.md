@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/19/Ask-a-Jedi-Delaying-CFMENU
+guid: 2658
 ---
 
 Ronald asks:

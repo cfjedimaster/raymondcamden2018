@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/13/ColdFusion-8-URL-Thumbnails
+guid: 2119
 ---
 
 A reader asked me this morning if ColdFusion 8 can create images from URLs. This is often used to provide a snap shot of a remote site. Turns out this is relatively easy. Damon Cooper of Adobe showed an example of this a few weeks ago. It takes all of two tags:

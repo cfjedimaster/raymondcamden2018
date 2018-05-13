@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/14/Can-you-manually-run-your-ColdFusions-onServerStart-CFC
+guid: 4265
 ---
 
 Yes. Done. End of post. See ya. Ok - bad joke. Let me be a bit more verbose. Earlier today a user on Twitter asked if it was possible to manually run your ColdFusion's OnServerStart component. This is the component you register within your CF Admin to run on server startup, as I've done here:

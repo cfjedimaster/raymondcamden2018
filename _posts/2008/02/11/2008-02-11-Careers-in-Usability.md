@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/02/11/Careers-in-Usability
+guid: 2647
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/coffeetalk.jpg" style="margin-right: 10px" align="left">A friend recently came to me and mentioned his wife was interested in picking up some work at home. She isn't a programmer, but is interested in doing work in usability. I've little experience with this myself, outside of some exposure I've gotten over the years working on web sites.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/03/This-is-ColdFusion-this-is-ColdFusion-100-in-Script-on-Bolt
+guid: 3220
 ---
 
 Just sharing a little picture Adam Lehman (aka adrocknaphobia on Twitter) just shared via twitter:

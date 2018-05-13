@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/07/08/Forcing-ColdFusion-to-recognize-changes-made-to-data-used-for-Ajax-bindings
+guid: 3426
 ---
 
 While I'm definitely a jQuery fanboy to the extreme, I still have quite a bit of respect for the Ajax stuff that ships out of the box with ColdFusion 8. One of the slickest features is bindings. I love how you can simply say, "This form element monitors another and loads this URL for data." I mean look at this example:

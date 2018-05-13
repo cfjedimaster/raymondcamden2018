@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/03/27/Interesting-CFCHART-Trick
+guid: 3294
 ---
 
 A reader, Asaf, and I exchanged a few emails earlier this week about an interesting little cfchart trick. It relates to a blog entry I did earlier in the month: <a href="http://www.raymondcamden.com/index.cfm/2009/3/6/Ask-a-Jedi-Showing-the-values-on-a-chart">Ask a Jedi: Showing the Values on a Chart</a>. Specifically - controlling the labels on your chart. I definitely recommend reading that article first as some of the following won't make sense without it.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/13/Determining-the-ColdFusion-Default-and-Max-Session-timeouts-with-code
+guid: 4391
 ---
 
 How do you determine the current server's default and max session timeouts via code? This question came up on Twitter today and I thought I'd whip up a quick example. The answer is relatively simple - make use of the Admin API. Here's a quick example.

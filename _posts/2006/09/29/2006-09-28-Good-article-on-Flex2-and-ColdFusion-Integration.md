@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2006/09/29/Good-article-on-Flex2-and-ColdFusion-Integration
+guid: 1564
 ---
 
 Steve House has written an excellent article on connecting Flex 2's Tree component with a CFC back end:

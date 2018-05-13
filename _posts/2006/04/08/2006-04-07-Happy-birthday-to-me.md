@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/08/Happy-birthday-to-me
+guid: 1196
 ---
 
 I look like a monkey and I smell like one too!

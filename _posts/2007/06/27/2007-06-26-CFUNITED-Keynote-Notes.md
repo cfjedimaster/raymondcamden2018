@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/27/CFUNITED-Keynote-Notes
+guid: 2153
 ---
 
 Here are my notes from the keynote. I'll be saving/updating as it goes on, so please reload.

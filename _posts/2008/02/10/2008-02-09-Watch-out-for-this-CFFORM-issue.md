@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/10/Watch-out-for-this-CFFORM-issue
+guid: 2643
 ---
 
 I'm working on converting a site to Model-Glue. During the conversion I was copying over a page that had two forms on it. One made use of CFFORM, the other was really just a button to let you link to another page. 

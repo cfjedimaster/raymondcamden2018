@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/01/21/InsideRIA-Launches
+guid: 2605
 ---
 
 Today, Adobe and O'Reilly launched <a href="http://www.insideria.com/">InsideRIA</a>. What is it? I'm going to steal from Rich Tretola's <a href="http://blog.everythingflex.com/2008/01/21/introducing-insideria/">excellent introduction</a>:

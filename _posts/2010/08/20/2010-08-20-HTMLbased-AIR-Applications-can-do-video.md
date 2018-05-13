@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/08/20/HTMLbased-AIR-Applications-can-do-video
+guid: 3918
 ---
 
 Thanks, and good night. I'm done.

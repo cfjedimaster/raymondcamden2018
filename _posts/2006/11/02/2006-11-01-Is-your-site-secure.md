@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/11/02/Is-your-site-secure
+guid: 1630
 ---
 
 I hate to cross post - but Pete posted a good entry today everone should read:

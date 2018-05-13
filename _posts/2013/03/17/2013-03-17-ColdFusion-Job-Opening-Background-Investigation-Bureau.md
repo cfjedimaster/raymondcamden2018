@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/03/17/ColdFusion-Job-Opening-Background-Investigation-Bureau
+guid: 4882
 ---
 
 Position: ColdFusion Developer

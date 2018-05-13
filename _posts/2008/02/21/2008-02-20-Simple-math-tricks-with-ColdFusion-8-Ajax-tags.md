@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/21/Simple-math-tricks-with-ColdFusion-8-Ajax-tags
+guid: 2664
 ---
 
 A reader yesterday asked me an interesting question. Using ColdFusion 8 and bindings, is it possible to do simple mathematics? For example, he wanted something like this:

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2013/02/08/jQuery-Example-Related-hidden-selects
+guid: 4851
 ---
 
 This request came in from a reader and I thought I'd share it. I'm not sure how re-usable it is for others, nor will I promise that it is The Best jQuery Code ever. (Far from it.) But on the off chance the example helps others, I wanted to post it.

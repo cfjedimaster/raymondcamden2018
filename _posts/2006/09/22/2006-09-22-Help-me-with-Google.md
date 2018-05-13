@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/22/Help-me-with-Google
+guid: 1549
 ---
 
 Over the past few days I've noticed something very odd. My pages, at times, will load the header, the right nav, but not the body. Sometimes for up to 30 seconds. In Firefox I see a status message saying that it is trying to hit the google ad server. 

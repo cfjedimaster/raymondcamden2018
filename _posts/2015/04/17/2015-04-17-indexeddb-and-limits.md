@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2015/04/17/indexeddb-and-limits
+guid: 6018
 ---
 
 Earlier this week I posted about hitting the limits of LocalStorage (<a href="http://www.raymondcamden.com/2015/04/14/blowing-up-localstorage-or-what-happens-when-you-exceed-quota">Blowing up LocalStorage</a>) and today I thought I'd do a bit of testing around IndexedDB. Unfortunately, I don't really have a simple "if you do this, X happens" type story to tell, but I did find out some interesting things about storage limits. I want to thank the following people for help in writing this post: <a href="https://blog.wanderview.com/">Ben Kelly of Mozilla</a>, <a href="http://www.calormen.com/">Joshua Bell of Google</a>,  <a href="http://addyosmani.com/blog/">Addy Osmani</a> of Google</a>, and <a href="http://www.paulirish.com/">Paul Irish of Google</a>.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/06/25/MAX-Website-up-Sessions-Listed-including-mine
+guid: 2899
 ---
 
 A new site for MAX has been launched: <a href="http://max.adobe.com/na/experience">http://max.adobe.com/na/experience</a>. The stuff in the background is a bit too cute for me, and frankly, I'm <i>really</i> tired of auto-play video. It's so fun when you load a site while you are on the phone and have to scramble for the mic. (But I'm an oldie, so I'll stop complaining... one day.)

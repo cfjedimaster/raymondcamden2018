@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/03/Be-careful-with-returnFormat-and-JSON
+guid: 2855
 ---
 
 A user pinged me earlier this morning with an interesting issue. His Ajax application wasn't working as expected. He was using jQuery to hit a CFC. Instead of showing you his code, I simplified it a bit which should make the problem a bit simpler to see. Try and figure it out before reading on:

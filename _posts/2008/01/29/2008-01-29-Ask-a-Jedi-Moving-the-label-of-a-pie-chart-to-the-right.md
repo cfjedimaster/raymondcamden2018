@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/29/Ask-a-Jedi-Moving-the-label-of-a-pie-chart-to-the-right
+guid: 2621
 ---
 
 Andy asks:

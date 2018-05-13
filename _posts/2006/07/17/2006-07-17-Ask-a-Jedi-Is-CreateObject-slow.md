@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/17/Ask-a-Jedi-Is-CreateObject-slow
+guid: 1406
 ---
 
 Ronan asked the following question:

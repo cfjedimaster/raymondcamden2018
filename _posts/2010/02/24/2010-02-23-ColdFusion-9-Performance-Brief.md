@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/24/ColdFusion-9-Performance-Brief
+guid: 3732
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/pbp1.png" title="Performance Brief - the sexiest brief you will read today." style="float:left;margin-right:5px" />I just twittered this, but figured I'd share it here as well. Adobe has released a ColdFusion 9 Performance Brief. You can download the PDF here:

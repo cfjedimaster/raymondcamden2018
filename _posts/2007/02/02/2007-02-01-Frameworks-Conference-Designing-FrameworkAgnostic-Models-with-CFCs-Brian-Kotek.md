@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/02/Frameworks-Conference-Designing-FrameworkAgnostic-Models-with-CFCs-Brian-Kotek
+guid: 1813
 ---
 
 I was pretty intrigued by this session title as I always thought the model was separated from the framework by default. He began the presentation by showing a few examples of the model leaking into the controller. His first example showed a query inside the controller that should have been in the model. (Makes sense.) He then flipped it and showed an example where the event object (his example was in Mach-II but could have been applied to Model-Glue) was passed to the model, ie:

@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [strongloop]
 banner_image: 
 permalink: /2015/10/21/working-with-strongloop-part-four-locking-down-the-api
+guid: 6972
 ---
 
 Welcome to the latest in my series of blog posts on the <a href="https://strongloop.com/">StrongLoop</a> platform. The last few blog posts have been focused on the API composer (part of StrongLoop Arc) built on top of <a href="http://loopback.io/">LoopBack</a>. As I've mentioned, there is a lot more to StrongLoop then just the API stuff and I plan on moving to those other topics soon. For today I'm going to discuss how you can lock down your API. Out of the box, all your models (and APIs) are 100{% raw %}% open. That makes it incredibly easy to quickly prototype and test adding, editing, and deleting data. But in a real application, you'll obviously want to lock down how folks can use your API. As before, the StrongLoop folks do a good job documenting this area: <a href="https://docs.strongloop.com/display/public/LB/Authentication%{% endraw %}2C+authorization%2C+and+permissions">Authentication, authorization, and permissions</a>. The focus of this entry is to summarize those docs and discuss some of the things that confused me personally.

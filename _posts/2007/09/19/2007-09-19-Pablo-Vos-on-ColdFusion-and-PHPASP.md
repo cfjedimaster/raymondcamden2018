@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/19/Pablo-Vos-on-ColdFusion-and-PHPASP
+guid: 2356
 ---
 
 I'm a bit late to find this - but Pablo Vos has written an interesting article:

@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/30/Check-out-GeoNames
+guid: 4451
 ---
 
 While looking at <a href="http://www.kendoui.com/">Kendo UI</a> earlier this morning, I noticed one of their demos made use of <a href="http://www.geonames.org/">GeoNames</a>. I think I had heard of this site before but I had no idea the amount of cool stuff they had there. GeoNames provides a wealth of free geographical information. For example, countries, cities, states, time zones, etc. Again, all free. But on top of the pure data dumps they have some <i>really</i> cool <a href="http://www.geonames.org/export/ws-overview.html">web services</a>. These services are free, but metered. You have to register and get a username, but once you do, it's pretty simple to use. What I found truly cool though was some of their more unique services. The neatest was <a href="http://www.geonames.org/export/wikipedia-webservice.html#findNearbyWikipedia">findNearByWikipedia</a>. Basically, if you provide a longitude and latitude, the API will find wikipedia articles of items that are near by that location. You can use this to return information about (possibly) interesting things near by the user. Here's a simple example.

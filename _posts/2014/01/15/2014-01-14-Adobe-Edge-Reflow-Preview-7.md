@@ -6,6 +6,7 @@ categories: [design,development,mobile]
 tags: []
 banner_image: 
 permalink: /2014/01/15/Adobe-Edge-Reflow-Preview-7
+guid: 5125
 ---
 
 <p>

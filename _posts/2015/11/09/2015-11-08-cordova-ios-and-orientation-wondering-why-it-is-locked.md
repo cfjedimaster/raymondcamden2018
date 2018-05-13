@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/11/09/cordova-ios-and-orientation-wondering-why-it-is-locked
+guid: 7076
 ---
 
 I'm not sure if this is new behavior, but if it isn't, I haven't run into this till last week. I was working on a project with Ionic (<a href="http://www.raymondcamden.com/2015/11/05/cordova-demo-apple-tv-hd-video-viewer">Cordova Demo – Apple TV HD Video Viewer</a>) and ran into something odd. When I rotated the device, the orientation did not change. I quickly made a virgin Cordova project to see if I could confirm it there as well - and I did.

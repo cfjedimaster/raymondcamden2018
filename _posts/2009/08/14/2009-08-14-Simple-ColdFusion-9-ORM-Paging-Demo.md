@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/14/Simple-ColdFusion-9-ORM-Paging-Demo
+guid: 3487
 ---
 
 I whipped up a quick demo today of how you can do simple paging with ColdFusion 9 ORM code. It isn't incredibly pretty, but hopefully it will be useful for folks to see an example. Let me begin with my model. Yesterday I was doing some speed test on CFC creation time with ORM entities. I made a slightly 'fat' CFC for the model. It isn't really related to this demo itself so I'm going to chop some of the lines out, but when you download the zip, don't be too surprised if it doesn't match exactly with the CFC you see here. Ok, so with that out of the day, here is a simple Person CFC I created for my model.

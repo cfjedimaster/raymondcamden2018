@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/20/ColdFusion-101-Take-your-blanketyblank-darn-freaking-text-elsewhere
+guid: 791
 ---
 
 You've just launched your latest site. It is a smashing success, especially amongst your target audience, teenagers and young adults. You built a community section where your visitors could participate in the site by posting comments, starting conversations, hooking up with friends, and generally just chatting away.

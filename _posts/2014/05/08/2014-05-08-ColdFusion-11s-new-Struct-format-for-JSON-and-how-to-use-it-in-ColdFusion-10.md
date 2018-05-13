@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2014/05/08/ColdFusion-11s-new-Struct-format-for-JSON-and-how-to-use-it-in-ColdFusion-10
+guid: 5219
 ---
 
 <p>

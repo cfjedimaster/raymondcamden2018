@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/21/Interesting-WDDX-Bug-with-nulls
+guid: 2490
 ---
 
 This is probably an old issue, but I thought I'd share it. I'm writing code to support exporting BlogCFC data into WDDX packets. The flip side of this is code to import the WDDX packets.

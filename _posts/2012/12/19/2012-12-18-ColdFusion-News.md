@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/12/19/ColdFusion-News
+guid: 4813
 ---
 
 I try to avoid "go see this link" posts, but when it comes to important news, I like to ensure my blog readers are in the know. (I don't want to assume everyone is on Twitter!) A few days ago Rakshith, ColdFusion Product Manager, posted some important news about ColdFusion:

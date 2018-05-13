@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/06/17/Building-a-Car-Safety-Inspection-finder-the-good-ugly-and-more-ugly
+guid: 5246
 ---
 
 <p>

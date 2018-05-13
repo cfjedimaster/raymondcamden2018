@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2014/01/01/My-2014-Resolutions
+guid: 5115
 ---
 
 <p>

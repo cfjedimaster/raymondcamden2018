@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/11/CFCs-and-the-Base-Component
+guid: 1392
 ---
 
 So I totally dropped the ball during my <a href="http://ray.camdenfamily.com/index.cfm/2006/6/28/CFC-Presentation-Posted">CFC presentation</a> at CFUNITED and forgot to mention one of the features of ColdFusion components. I didn't mention it as I rarely have a use for it.

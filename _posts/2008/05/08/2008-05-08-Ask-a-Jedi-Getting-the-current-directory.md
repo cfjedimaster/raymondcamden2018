@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/08/Ask-a-Jedi-Getting-the-current-directory
+guid: 2814
 ---
 
 I sometimes like to start the morning off with an easy question. Makes me feel all smarty-pants and stuff. Here is a quickie from Patrick that may actually be news to some folks, so hopefully it will be easy for me - helpful for others.

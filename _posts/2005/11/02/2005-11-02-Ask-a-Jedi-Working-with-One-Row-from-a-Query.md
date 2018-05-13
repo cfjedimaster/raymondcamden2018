@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/02/Ask-a-Jedi-Working-with-One-Row-from-a-Query
+guid: 891
 ---
 
 A reader asks:

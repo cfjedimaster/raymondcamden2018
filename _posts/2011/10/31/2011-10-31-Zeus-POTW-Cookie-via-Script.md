@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/10/31/Zeus-POTW-Cookie-via-Script
+guid: 4414
 ---
 
 In my last Zeus preview, I discussed what I thought was a minor, but nice, language enhancement. Turns out the "minor" feature got quite a few replies from my readers. So in that vein, I'm posting another "minor but good" improvement this week. In current versions of ColdFusion, you have two ways to set cookies:

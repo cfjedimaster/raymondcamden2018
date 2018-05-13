@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/22/Couple-of-new-ColdFusion-conferences-coming-up
+guid: 3456
 ---
 
 Just helping spread the word here, but in case you had not heard....

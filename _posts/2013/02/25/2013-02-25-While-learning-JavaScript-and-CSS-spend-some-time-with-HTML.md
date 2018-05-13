@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/02/25/While-learning-JavaScript-and-CSS-spend-some-time-with-HTML
+guid: 4865
 ---
 
 <img src="https://static.raymondcamden.com/images/logo-html.png" style="float:left" /> Please forgive this short little sermon. I've been spending most of my time over the past few years getting myself reacquainted with client-side development. A majority of that time has been spent focused on JavaScript. I've spent some time getting better at CSS as well, but honestly, it really isn't something that interests me much. Plus, I already work with people doing <a href="http://html.adobe.com/webstandards/">amazing things with CSS</a>. 

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/04/Mobile-developer-Check-out-Dreamweaver-CS-55
+guid: 4220
 ---
 
 Yesterday, as part of the CS 5.5 launch, <a href="http://www.adobe.com/products/dreamweaver.html">Dreamweaver CS 5.5</a> was released to the masses. I don't really know how many of my readers are Dreamweaver users. I've gone from thinking of Dreamweaver as a giant bloated piece of poo (sorry) to a very cool tool but not for me (much like how I can appreciate Photoshop but don't see me using it) to now having it in my start menu and beginning to migrate my HTML/jQuery development to it. I thought I'd share some thoughts and impressions. I am certainly <i>not</i> a Dreamweaver user (not yet), so if I point out something cool that's been in the product for a while, be sure to let me know.

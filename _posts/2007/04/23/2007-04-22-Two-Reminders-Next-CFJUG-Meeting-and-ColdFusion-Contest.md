@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/23/Two-Reminders-Next-CFJUG-Meeting-and-ColdFusion-Contest
+guid: 1974
 ---
 
 Next Monday I'll be presenting on ColdFusion Data Structures. This is a free meeting over <strike>Breeze</strike>Connect. It will be held at 5pm. I'll post the meeting URL the day of the meeting.

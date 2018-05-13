@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/26/ColdFire-Updated-Supports-Variable
+guid: 2221
 ---
 
 Today Nathan Mische and I released ColdFire 0.0.802. This update adds basic support for variables. What do I mean by that? ColdFusion's classic debug view lets you turn on various scopes. When you view a page, that entire scope is dumped out. I never cared for that as it typically displayed a lot more information than I needed. While you could get around that by using cftrace, I wanted something a bit better.

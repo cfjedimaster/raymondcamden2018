@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/12/Ask-a-Jedi-Verity-and-file-modification-dates
+guid: 1205
 ---
 
 I'm slowly going through old Ask a Jedi questions and found this one. (And just a reminder, <i>please</i> don't use me for serious, super-critical, urgent matters, I'm only human and can't respond to everything nor can I respond quickly. This question was from mid December.)

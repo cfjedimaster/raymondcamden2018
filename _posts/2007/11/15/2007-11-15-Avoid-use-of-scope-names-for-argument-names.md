@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/15/Avoid-use-of-scope-names-for-argument-names
+guid: 2477
 ---
 
 This falls under the category of "I knew better..." I'm working with a client who is using my <a href="http://youtubecfc.riaforge.org/">YouTube CFC</a> product. They were encountering some problems and wanted me to work on modifications to their page to handle cases where YouTube was down, or simply not returning proper information for whatever reason. (In our case it ended up being a network issues. ColdFusion couldn't hit any remote site due to a network change.)

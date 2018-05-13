@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/27/Using-the-CFTHREAD-Scope
+guid: 2224
 ---
 
 Did you know that ColdFusion 8 has a new scope? The CFTHREAD scope is a special scope that contains information about threads in the current request. Consider this simple example:

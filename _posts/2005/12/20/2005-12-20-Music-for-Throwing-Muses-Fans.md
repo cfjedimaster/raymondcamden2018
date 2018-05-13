@@ -6,6 +6,7 @@ categories: [music]
 tags: []
 banner_image: 
 permalink: /2005/12/20/Music-for-Throwing-Muses-Fans
+guid: 982
 ---
 
 I've always been a big fan of Throwing Muses, so it was quite a delight to here a track from the new band by Kristin Hersh on <a href="http://www.woxy.com">WOXY</a> a few days ago. (If you like alternative/indie music, WOXY is a gift from God.) I was even happier to find out that her new band, 50Footwave, has an entire EP for <b>free</b> download. You can find the tracks <a href="http://www.throwingmusic.com/freemusic/">here</a>. The tracks are pretty good I think and you can't beat the price.

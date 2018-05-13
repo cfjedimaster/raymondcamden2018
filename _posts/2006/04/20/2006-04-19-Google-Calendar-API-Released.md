@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/20/Google-Calendar-API-Released
+guid: 1224
 ---
 
 The <a href="http://code.google.com/apis/gdata/calendar.html">API</a> for Google Calendar has been released, and after a quick initial skimming of the document, I think a CFC could be built to interact with the system. I'm going to start work on a simple reader for now to allow for something like this:

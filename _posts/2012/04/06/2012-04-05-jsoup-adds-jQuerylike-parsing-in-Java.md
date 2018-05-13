@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2012/04/06/jsoup-adds-jQuerylike-parsing-in-Java
+guid: 4583
 ---
 
 Earlier this week <a href="https://twitter.com/#!/gamesover">James Moberg</a> introduced me to a cool little Java utility - <a href="http://jsoup.org/">jsoup</a>. jsoup provides jQuery-like HTML manipulation to your server. Given a string, or a URL, you can do things like, find all the images, look for links to a PDF, and so on. Basically - jQuery for the server. I thought I'd whip up a quick ColdFusion-based demo of this so I could see how well it works.

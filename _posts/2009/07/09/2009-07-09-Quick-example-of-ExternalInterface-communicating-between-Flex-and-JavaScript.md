@@ -6,6 +6,7 @@ categories: [flex,javascript]
 tags: []
 banner_image: 
 permalink: /2009/07/09/Quick-example-of-ExternalInterface-communicating-between-Flex-and-JavaScript
+guid: 3428
 ---
 
 A few days ago I did some mentoring with a ColdFusion developer in Baton Rouge. He was also doing some Flex and I got to take a look at some of his work. He was making use of a feature I had not seen before, ExternalInterface. This is a rather interesting little feature. It lets you create a bridge between your Flex code and JavaScript code on the page. This is <b>not</b> the same as the <a href="http://livedocs.adobe.com/flex/3/html/help.html?content=ajaxbridge_1.html">Flex Ajax Bridge</a> (which apparently was a Labs product and then moved into core Flex 3). I plan on looking at that more later, but here is some basic info about ExternalInterface.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/20/CF901-Logging-enhancements
+guid: 3884
 ---
 
 In the ColdFusion 901 <a href="http://www.adobe.com/support/documentation/en/coldfusion/901/cf901features.pdf">new features guide (pdf)</a>, there are mention of two logging updates. The first concerns log files for "services", and the second is the ability to enable or disable logging "for a particular log type". Those descriptions are about as vague as you can get so I thought a blog entry might help clear things up.

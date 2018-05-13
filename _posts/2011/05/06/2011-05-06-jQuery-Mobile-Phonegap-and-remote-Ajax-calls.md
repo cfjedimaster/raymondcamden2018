@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/06/jQuery-Mobile-Phonegap-and-remote-Ajax-calls
+guid: 4224
 ---
 
 Here's something I knew wouldn't be a problem but I wanted to confirm. As you know, an HTML page cannot make an Ajax request to a remote server. There are ways around this (a proxy on your server or JSONP), but for the most part, it's a hard and fast rule. But what about for Android apps? Specifically - what if i use Phonegap and jQuery Mobile to build a "real" native application, will the same restrictions hold true? As I expected - they do not - and that's awesome news for folks wanting to make use of remote services. Here is a trivial example I built using Dreamweaver CS 5.5.

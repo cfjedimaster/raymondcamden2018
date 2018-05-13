@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2012/09/13/Microsoft-WebMatrix-a-quick-review
+guid: 4731
 ---
 
 For a while now I've known that Microsoft builds good tools. But I've never really been a MS developer. I've done a bit with VB in the past (the far, far distant past) and have some minor experience with Visual Studio in general, but for the most part I don't tend to look at their tools as they don't typically involve my day to day work. Yesterday I discovered a Microsoft editor I had never heard of - <a href="http://www.microsoft.com/web/webmatrix/">WebMatrix</a>.

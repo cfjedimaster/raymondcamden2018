@@ -6,6 +6,7 @@ categories: [development,html5,javascript,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/04/13/chaining-multiple-cordova-file-transfers-with-ngcordova
+guid: 5996
 ---
 
 One issue you may run into with the <a href="http://plugins.cordova.io/#/package/org.apache.cordova.file-transfer">FileTransfer</a> plugin is that it only lets you do one transfer at a time. You can get around this by using XHR2 (for uploads anyway), but I thought it would be nice to demonstrate how to work with multiple transfers using promises. The FileTransfer plugin does not use promises by default, but luckily you can simply use <a href="http://ngcordova.com/">ngCordova</a> and use the promisified (that's a word) version of the plugin.

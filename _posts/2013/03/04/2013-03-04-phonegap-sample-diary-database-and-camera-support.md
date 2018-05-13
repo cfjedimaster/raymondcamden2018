@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2013/03/04/phonegap-sample-diary-database-and-camera-support
+guid: 4871
 ---
 
 Last week a reader wrote in with an interesting problem. They had a simple application that made use of PhoneGap's <a href="http://docs.phonegap.com/en/2.5.0/cordova_storage_storage.md.html#Storage">database</a> support. They wanted to add <a href="http://docs.phonegap.com/en/2.5.0/cordova_camera_camera.md.html#Camera">camera</a> support as well. Their idea was that a picture could be associated with their content. But then they ran into this issue:

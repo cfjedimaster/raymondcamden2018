@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/18/ModelGlue-Sample-Cookbook
+guid: 1035
 ---
 
 My readers know by now that I'm trully smitten by <a href="http://www.model-glue.com">Model-Glue</a>, so I try to push/evangelize it whenever I can. I thought I'd share some MG code to see if it would help others. The <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> site is a MG site and I've attached the source to this entry. 

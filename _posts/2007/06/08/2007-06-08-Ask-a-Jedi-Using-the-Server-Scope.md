@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/08/Ask-a-Jedi-Using-the-Server-Scope
+guid: 2107
 ---
 
 Todd had an interesting question regarding the user of the server scope:

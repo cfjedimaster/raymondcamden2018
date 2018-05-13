@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2008/10/22/Todays-Weird-JavaScript-Issue
+guid: 3065
 ---
 
 I ran into an interesting JavaScript issue yesterday. A user reported a bug with <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers</a> and searching. If he searched for one word, like 'object', then he could navigate through multiple pages of results just fine. If he search for two words, 'object oriented', then as soon as he clicked next the page would break.

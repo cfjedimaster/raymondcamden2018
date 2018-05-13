@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/04/01/ColdFusion-Job-Opening-JB-AnacostiaBolling-DC-JBAB
+guid: 4895
 ---
 
 Job Title:      Senior Data Analyst Specializing in ColdFusion and SQL Server<br/>

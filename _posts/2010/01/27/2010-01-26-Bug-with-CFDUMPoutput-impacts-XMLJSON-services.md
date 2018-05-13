@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/27/Bug-with-CFDUMPoutput-impacts-XMLJSON-services
+guid: 3698
 ---
 
 While working on a ColdFusion Builder extension (no, not <a href="http://www.raymondcamden.com/index.cfm/2010/1/27/The-last-ColdFusion-Builder-Extension-you-will-install">that one</a>) I ran into a bug that caused the response dialog to constantly return an 'invalid XML' error. An Adobe engineer discovered that the issue was with the cfdump tag I had in the extension code, but didn't explain <i>why</i> that was the cause. I did a quick test and saw what the problem was.

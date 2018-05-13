@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/12/11/This-works-and-it-freaks-me-out
+guid: 5098
 ---
 
 <p>

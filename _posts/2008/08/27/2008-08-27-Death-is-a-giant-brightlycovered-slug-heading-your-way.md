@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/08/27/Death-is-a-giant-brightlycovered-slug-heading-your-way
+guid: 2990
 ---
 
 A picture is worth a thousand words...

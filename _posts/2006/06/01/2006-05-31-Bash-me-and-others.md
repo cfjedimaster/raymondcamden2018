@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/01/Bash-me-and-others
+guid: 1309
 ---
 
 The folks at <a href="http://www.cfunited.com">CFUNITED</a> have released a bash the guru game:

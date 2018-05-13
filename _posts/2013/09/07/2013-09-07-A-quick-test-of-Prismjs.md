@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/09/07/A-quick-test-of-Prismjs
+guid: 5031
 ---
 
 <p>

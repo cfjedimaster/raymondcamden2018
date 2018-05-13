@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/16/Update-from-the-CFML-Advisory-Group
+guid: 2936
 ---
 
 Just a quick note to let folks know that Sean has blogged an update on what the CFML Advisory Group has been up to:

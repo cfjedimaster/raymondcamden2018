@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/05/Reminder-about-forms-and-ColdFusion-8-Ajax-Containers
+guid: 2252
 ---
 
 While this is covered in the docs, it can be a bit surprising. When working with ColdFusion 8 Ajax-based containers (cfdiv, cflayoutarea, cfpod, and cfwindow), any form inside the area will be posted to the area itself. What that means is - the entire page won't reload, just the container. However - this is only true for cfform, not form. Consider this code example:

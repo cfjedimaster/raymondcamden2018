@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/09/CanvasWiki-Updated-Version-14
+guid: 1458
 ---
 
 I've updated <a href="http://ray.camdenfamily.com/projects/canvas">CanvasWiki</a> tonight with a few small changes. The big change is a simple modification to how I display titles. The wiki asks you to name pages like so:

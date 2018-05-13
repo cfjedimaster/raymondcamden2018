@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/02/17/Cordova-File-System-Important-Update
+guid: 5153
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/05/More-on-the-Flex-201
+guid: 1755
 ---
 
 Just a quick note here to point to the <a href="http://www.adobe.com/support/documentation/en/flex/2/releasenotes_flex201_sdk.html">release notes</a> for Flex 2.0.1. What interests me most is the Module support - something I need to look into soon.

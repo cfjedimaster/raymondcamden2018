@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/01/24/Help-create-Flex-3
+guid: 1794
 ---
 
 Adobe is running a survey to find developers who can help decide what Flex 3 will look like. The full text of their invite is below:

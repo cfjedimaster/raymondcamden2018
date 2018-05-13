@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2009/05/20/CFTHREAD-with-a-loading-message
+guid: 3364
 ---
 
 As yet another followup to my <a href="http://www.raymondcamden.com/index.cfm/2009/5/18/CFTHREAD--When-to-join">blog entry</a> on CFTHREAD, a user asked about how to present a 'Please stand by' type message while the threads were running. This is fairly trivial with JavaScript and CFFLUSH:

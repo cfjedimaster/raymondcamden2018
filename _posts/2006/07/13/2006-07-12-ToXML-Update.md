@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/07/13/ToXML-Update
+guid: 1398
 ---
 
 I'm currently working on the 5.1 version of <a href="http://www.blogcfc.com">BlogCFC</a>. As part of my set of updates, I'm changing the entry editor to use Spry to handle selecting related entries. This worked fine, but I noticed that the speed improvement wasn't what I thought it would be.

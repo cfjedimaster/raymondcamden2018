@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/03/28/ColdFusion-Example-Upload-a-zip-of-images-for-processing
+guid: 5186
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/29/CFUNITED-Review-ColdFusion-Application-Security
+guid: 1364
 ---
 
 This session was presented by Adam Lehman. This was easily one of the best presentations I've seen in a long time. Forgive the haphazard list of

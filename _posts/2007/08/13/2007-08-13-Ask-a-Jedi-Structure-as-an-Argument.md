@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/13/Ask-a-Jedi-Structure-as-an-Argument
+guid: 2275
 ---
 
 Joel asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/08/Ask-a-Jedi-Abstracting-ColdFusion-Queries
+guid: 681
 ---
 
 Brian asks:

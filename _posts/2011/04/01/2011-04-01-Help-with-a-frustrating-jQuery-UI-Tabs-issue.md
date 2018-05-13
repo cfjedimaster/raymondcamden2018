@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2011/04/01/Help-with-a-frustrating-jQuery-UI-Tabs-issue
+guid: 4180
 ---
 
 Earlier today John Ramon asked me a simple jQuery UI question: How do I keep links in tabs to load in the tab itself? I smugly answered, "That's easy" and directed him to the <a href="http://jqueryui.com/demos/tabs/#...open_links_in_the_current_tab_instead_of_leaving_the_page">answer</a> which is on the jQuery UI Tabs page. It's a common request for obvious reasons. I assumed that was the end of it until John threw something crazy into the works. A <i>second</i> link.

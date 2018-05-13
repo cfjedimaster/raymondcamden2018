@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/14/Some-notes-on-CFFILEUploadAll
+guid: 3604
 ---
 
 Earlier this week I <a href="http://www.raymondcamden.com/index.cfm/2009/11/11/Important-notes-about-ColdFusion-9s-new-multi-file-uploader">blogged</a> about the new multi-file uploader in ColdFusion 9. While that control handles the front end support for handling multiple uploads, it works hand in hand with a new update to the cffile tag to support multiple file uploads. I did some digging into this and discovered some interesting tidbits.

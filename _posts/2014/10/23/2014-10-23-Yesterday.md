@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2014/10/23/Yesterday
+guid: 5337
 ---
 
 <p>

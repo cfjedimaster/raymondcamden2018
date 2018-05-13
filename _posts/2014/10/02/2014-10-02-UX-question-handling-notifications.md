@@ -6,6 +6,7 @@ categories: [design,development]
 tags: []
 banner_image: 
 permalink: /2014/10/02/UX-question-handling-notifications
+guid: 5322
 ---
 
 <p>

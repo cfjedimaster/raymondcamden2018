@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/09/Open-Question-ColdFusion-and-Reports
+guid: 3229
 ---
 
 Alex has the following question he would like to share with my readers:

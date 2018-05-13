@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/20/CFBuilder-Contest-Final-Thoughts
+guid: 3825
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Another contest has come to an end. I love running these things. It's a lot of work - but in the end - the results are always worth it. We didn't get many entries this time - but the ones we got were interesting, unique, and I think they go a long way to really demonstrating what a powerful platform ColdFusion Builder is. Speaking for myself - I definitely think I learned a few things:

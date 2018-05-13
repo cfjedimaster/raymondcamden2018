@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/10/09/Bug-with-queryExecute-use-with-caution
+guid: 5329
 ---
 
 <p>

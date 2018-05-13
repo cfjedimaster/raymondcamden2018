@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/12/IncrementingDecrementing-with-
+guid: 3393
 ---
 
 One of the handier recent additions to ColdFusion was the ability to use ++ and -- operators. For example, to add one to x you can either do: x=x+1. Or the quicker: x++. However, don't forget that you can also do ++x. What's the difference? Well it's pretty important. 

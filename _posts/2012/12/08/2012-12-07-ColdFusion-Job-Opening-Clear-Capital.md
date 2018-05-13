@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/12/08/ColdFusion-Job-Opening-Clear-Capital
+guid: 4804
 ---
 
 <b>ColdFusion Application Developer</b>

@@ -6,6 +6,7 @@ categories: [uncategorized]
 tags: []
 banner_image: 
 permalink: /2014/11/13/test-with-extract
+guid: 5
 ---
 
 This is just a test of my stuff.<!--more-->

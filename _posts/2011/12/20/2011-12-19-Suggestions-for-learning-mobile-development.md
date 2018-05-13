@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2011/12/20/Suggestions-for-learning-mobile-development
+guid: 4466
 ---
 
 This question came in via Twitter and I didn't have a great answer. Thought it would be nice to open it to my readers and get some good suggestions. The question is:

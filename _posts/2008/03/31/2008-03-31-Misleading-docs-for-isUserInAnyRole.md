@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/31/Misleading-docs-for-isUserInAnyRole
+guid: 2742
 ---
 
 I just helped someone out on the BACFUG list concerning a misleading doc page for <a href="http://livedocs.adobe.com/coldfusion/8/htmldocs/functions_in-k_34.html">isUserInAnyRole()</a>. 

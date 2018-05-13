@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/07/11/Snipex-Code-Released-CFLib-Available-in-Eclipse
+guid: 2187
 ---
 
 Mark Drew has <a href="http://www.markdrew.co.uk/blog/index.cfm/2007/7/11/CFEclipses-SnipEx-server-components-released">released</a> the code for SnipEx. This allows anyone to setup a Snippets server for Eclipse. How is this useful? You can now browse the entire <a href="http://www.cflib.org">CFLib</a> library directly from Eclipse. No more need to ignore my annoying ads. Just add:

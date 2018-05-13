@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/11/22/Second-revision-of-my-Flex-homework
+guid: 1669
 ---
 
 Yesterday I <a href="http://ray.camdenfamily.com/index.cfm/2006/11/21/First-stab-at-my-Flex-homework">posted</a> the first version of the Flex assignment I created for myself.  (For more information about what I'm doing, read this <a href="http://ray.camdenfamily.com/index.cfm/2006/11/21/My-Thanksgiving-Flex-Homework">entry</a>.)

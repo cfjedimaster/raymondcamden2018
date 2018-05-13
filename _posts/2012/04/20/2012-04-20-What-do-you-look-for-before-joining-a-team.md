@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/04/20/What-do-you-look-for-before-joining-a-team
+guid: 4593
 ---
 
 Ben Riordan emailed me an interesting question a while back and I promised to bring it up here and see what my readers think. Here's his question:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/28/BlogCFC-5-Beta-Announced
+guid: 1238
 ---
 
 I've been keeping most of my BlogCFC 5 announcements over at the <a href="http://www.blogcfc.com">BlogCFC blog</a>, but as this was a major update I thought I'd share it here.

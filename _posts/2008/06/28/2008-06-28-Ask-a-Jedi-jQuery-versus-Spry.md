@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2008/06/28/Ask-a-Jedi-jQuery-versus-Spry
+guid: 2903
 ---
 
 Michael asks:

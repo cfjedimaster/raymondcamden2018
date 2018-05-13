@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/04/First-example-of-an-HTMLpowered-AIR-Application
+guid: 3898
 ---
 
 In the past few days I've given a basic <a href="http://www.raymondcamden.com/index.cfm/2010/7/31/Building-your-first-HTMLAdobe-AIR-Application">introduction</a> to the resources necessary to work with HTML AIR apps as well as a basic <a href="http://www.coldfusionjedi.com/index.cfm/2010/8/3/Building-your-first-HTMLAdobe-AIR-Application--Using-Aptana">walkthrough</a> of how you can use Aptana for your editing. In today's entry I'm going to cover two things. First - what does working within the AIR framework mean for you as a developer, and secondly, what does a real example look like. As a first example, it isn't HelloWorld per se, but it gives you an idea of what "real" code looks like.

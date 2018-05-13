@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/09/Google-Maps-and-Markers-Update
+guid: 5002
 ---
 
 <strong>Edit:</strong> Nice - it looks like I had already posted a follow up. Maybe the readers of the blog entries missed it (I did!). But anyway, you can see yet another post on this subject <a href="http://www.raymondcamden.com/index.cfm/2012/12/3/Simple-Google-Maps-demo-with-Custom-Markers--Followup">here</a>. Note to self - don't blog before coffee.

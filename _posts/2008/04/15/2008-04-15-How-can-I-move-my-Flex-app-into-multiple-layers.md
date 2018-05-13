@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2008/04/15/How-can-I-move-my-Flex-app-into-multiple-layers
+guid: 2770
 ---
 
 So in general - Flex has been easy for me to grok since it first came out. It's gotten easier over time, but normally, the most trouble I have is having to look up an argument to see how to do something in particular.

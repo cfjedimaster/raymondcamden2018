@@ -6,6 +6,7 @@ categories: [html5]
 tags: []
 banner_image: 
 permalink: /2012/03/16/A-look-at-HTML5-Form-Validition
+guid: 4563
 ---
 
 I'm doing research for my upcoming HTML5 presentation at <a href="http://www.cfobjective.com">cfObjective</a>. One of the areas that I find most interesting is updates to forms. I'm probably biased since I've worked on so many web applications as opposed to front end/marketing type sites, but I tend to think forms are pretty critical. (And no big surprise - my other favorite areas of HTML5 involve data and networking.) I've previously looked at updates to form fields, but I had not really spent a lot of time looking at validation. I spent some time on it this week and have come away pretty damn impressed. Here is the first in a series of blog entries planned on the topic.

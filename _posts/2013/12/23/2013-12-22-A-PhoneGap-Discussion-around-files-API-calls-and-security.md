@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/12/23/A-PhoneGap-Discussion-around-files-API-calls-and-security
+guid: 5110
 ---
 
 <p>

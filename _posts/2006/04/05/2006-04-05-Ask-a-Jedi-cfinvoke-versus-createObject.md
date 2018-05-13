@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/05/Ask-a-Jedi-cfinvoke-versus-createObject
+guid: 1189
 ---
 
 So I could have sworn I had blogged on this before, but I couldn't find it in my archives, so here goes. (And if I do start repeating myself, let me know folks!)

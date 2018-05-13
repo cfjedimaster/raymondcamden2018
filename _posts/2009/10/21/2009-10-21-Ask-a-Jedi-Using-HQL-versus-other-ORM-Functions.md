@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/21/Ask-a-Jedi-Using-HQL-versus-other-ORM-Functions
+guid: 3573
 ---
 
 Robert asked a pretty interesting question earlier in the week:

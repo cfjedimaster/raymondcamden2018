@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2013/01/28/A-walkthrough-of-some-basic-jQuery-help
+guid: 4841
 ---
 
 Over the past few days I've exchanged emails with David. He had a simple jQuery-based application and he ran into some issues with it. His problems were, I thought, fairly common and I thought it might make sense for me to share what he did and what I suggested. We went through a couple of iterations of this so you can see how the project evolved over time. One thing I want to point out. David writes his code differently than I do (as I expect everyone does!). When he asked for help, I tried to make my help/suggestions as minimally invasive as possible. I was tempted to just delete all his code and do it "my way", but I thought working within his 'style' would be less jarring. Ok, with that out of the way, let's look at his code.

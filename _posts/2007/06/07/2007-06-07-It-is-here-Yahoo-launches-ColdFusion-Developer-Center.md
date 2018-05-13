@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/07/It-is-here-Yahoo-launches-ColdFusion-Developer-Center
+guid: 2103
 ---
 
 The title says it all. I am <b>very</b> proud to announce that Yahoo has launched the <a href="http://developer.yahoo.com/coldfusion/">ColdFusion Developer Center</a> with tips and articles on how to use various Yahoo services with the One True Programming Language (sorry, couldn't resist). I bugged Yahoo about this and when they finally came back to me and asked me to write it up - I'm the one who didn't have time. So any delay in this launching was all my fault - but I'm just glad it is finally there! Yahoo has a <a href="http://developer.yahoo.net/blog/archives/2007/06/coldfusion_in_t.html">blog entry</a> on it as well, so please show your thanks there and let them know you appreciate it.

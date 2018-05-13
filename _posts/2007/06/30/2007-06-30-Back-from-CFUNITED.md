@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/30/Back-from-CFUNITED
+guid: 2161
 ---
 
 I arrived back from CFUNITED, and let me get the obligatory flight update out of the way. In short - it was fine. The plane had mechanical issues in Atlanta, but the delay was only 25 minutes. To me - that is leaving ahead of time.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/11/27/ColdFusion-Sample-Using-CFZIP-Again
+guid: 4447
 ---
 
 Yesterday I shared a demo of <a href="http://www.raymondcamden.com/index.cfm/2011/11/26/ColdFusion-Samples--Using-CFZIP">using CFZIP</a> with ColdFusion. In my demo application. users could upload images one at a time or a zip of images. The demo made use of cfzip to read the zip file and extract out the images. In today's blog entry, I'm going to modify the demo to allow you to download multiple images. I'll make use of cfzip to generate a zip file on the fly and then serve it to the user.

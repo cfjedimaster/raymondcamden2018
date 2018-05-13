@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/03/08/Avoid-ColdFusion-Scope-Names-as-Arguments
+guid: 4554
 ---
 
 This question came in this morning. Looking at the code below, see if you can determine the issue. (Of course, the title of the blog entry is a bit of a give away.)

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/24/Friday-Challenge-Reorder-a-CFC-File
+guid: 2303
 ---
 
 So a friend of mine dared to say I had a bit of OCD. Personally I don't think so. I'm just... organized. Why did he say I had OCD? I tend to get really ticked off by CFCs that don't alphabetize their methods. All of my CFCs use alphabetical methods, except for the init method which is always first (if the CFC needs one). 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/02/Next-CFJUG-January-17-Security-Part-2
+guid: 1745
 ---
 
 So, it has been long delayed, but I'm now officially rescheduling the next CFJUG (ColdFusion Jedi User Group) meeting. This meeting will be on Wednesday, January 17th, at 6PM Central. 

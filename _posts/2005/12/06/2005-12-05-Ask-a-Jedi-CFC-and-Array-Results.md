@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/06/Ask-a-Jedi-CFC-and-Array-Results
+guid: 954
 ---
 
 This good question came in today:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/05/Another-Lighthouse
+guid: 1877
 ---
 
 Looks like someone else thinks <a href="http://lighthousepro.riaforge.org">Lighthouse</a> is a cool name for a bug tracker:

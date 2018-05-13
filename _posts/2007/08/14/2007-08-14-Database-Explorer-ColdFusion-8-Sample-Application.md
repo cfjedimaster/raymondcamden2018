@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/14/Database-Explorer-ColdFusion-8-Sample-Application
+guid: 2279
 ---
 
 The Database Explorer is a simple application that allows you to browse databases and write SQL. You can select a datasource, browse the tables (and columns), and then write simple SQL statements and see what they return. You can also export the results into an Excel file. Now let me go into detail on how the application works. 

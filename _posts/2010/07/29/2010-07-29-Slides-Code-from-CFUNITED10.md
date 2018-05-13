@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/07/29/Slides-Code-from-CFUNITED10
+guid: 3892
 ---
 
 Sorry for the delay on posting this - but here are the slides and code from my presentation. I hope folks enjoyed it. As I say all the time, my AIR experience tends to come and go as I play with it. I absolutely love the framework and wish I could build more with it. My entire reason for picking this particular topic (HTML AIR development) was an excuse to get my experience with it. And it worked well too - I learned a heck of a lot! The only thing not surprising to me was how well jQuery worked for AIR development. I knew it would be a great tool for AIR.

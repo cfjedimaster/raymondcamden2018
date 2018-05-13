@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2011/11/01/What-I-want-from-an-App-Store-as-a-developer
+guid: 4416
 ---
 
 Here is a list of things I want from an App Store as a developer - in a perfect world. These are not in any particular order.

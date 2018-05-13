@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [cordova,ionic,phonegap]
 banner_image: 
 permalink: /2015/05/01/working-with-mp3s-id3-and-phonegapcordova-3
+guid: 6102
 ---
 
 This week I've done a few blog posts (<a href="http://www.raymondcamden.com/2015/04/29/working-with-mp3s-id3-and-phonegapcordova">part one</a> and <a href="http://www.raymondcamden.com/2015/04/30/working-with-mp3s-id3-and-phonegapcordova-2">part two</a>) about MP3 and ID3 parsing in PhoneGap/Cordova applications. Today I'm updating the application again - this time to support album art. Let's look at the results in the simulator first and then I'll walk you through the code.

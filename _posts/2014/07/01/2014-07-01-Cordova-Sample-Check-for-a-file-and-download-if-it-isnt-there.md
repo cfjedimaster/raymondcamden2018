@@ -6,6 +6,7 @@ categories: [html5,mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/01/Cordova-Sample-Check-for-a-file-and-download-if-it-isnt-there
+guid: 5256
 ---
 
 <p>

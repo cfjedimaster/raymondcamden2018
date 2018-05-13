@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/12/Script-based-query-issue-to-watch-out-for-and-a-fix
+guid: 4324
 ---
 
 Credit for this find goes to Andrew Scott and his blog entry <a href="http://www.andyscott.id.au/2011/8/11/Tip-using-ColdFusion-query-in-cfscript-and-something-to-watch-out-for">here</a>. Essentially, he noticed that when using line breaks in a script based query along with bound parameters, he would get an error. Like so:

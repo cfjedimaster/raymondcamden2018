@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/30/Ask-a-Jedi-Does-ColdFusion-have-a-htmlfoot-tag
+guid: 2796
 ---
 
 Rob asks:

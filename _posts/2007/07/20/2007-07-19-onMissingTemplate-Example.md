@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/20/onMissingTemplate-Example
+guid: 2206
 ---
 
 I just added onMissingTemplate support to <a href="http://www.coldfusionbloggers.org">ColdFusionBloggers.org</a>. This is something we should all do with ColdFusion 8 sites as it is so simple it doesn't make sense <i>not</i> to. To test, simply visit:

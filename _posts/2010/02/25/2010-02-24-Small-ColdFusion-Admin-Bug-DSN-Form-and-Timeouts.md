@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/02/25/Small-ColdFusion-Admin-Bug-DSN-Form-and-Timeouts
+guid: 3733
 ---
 
 I just filed a bug report for this (<a href="http://cfbugs.adobe.com/cfbugreport/flexbugui/cfbugtracker/main.html#bugId=82246">#82246</a>) and I didn't really think of it as that big a deal, but the more I thought about it, the more I thought I could see someone else running into it as well. I was using the ColdFusion Administrator and had it open to the list of DSNs. I needed to edit a DSN but when I had clicked, my session had expired. After logging in I was brought back to the place I had been trying to access. Let's say it was DSN cfisfasterthanphp. When the form loaded, the name had been changed to: 

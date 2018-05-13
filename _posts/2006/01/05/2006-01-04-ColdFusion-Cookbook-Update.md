@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/01/05/ColdFusion-Cookbook-Update
+guid: 1009
 ---
 
 I thought I'd drop a quick ntoe to let folks know how the site was going, and give a sneak peak of the UI. Most of the functionality is done. What I still need to do is:

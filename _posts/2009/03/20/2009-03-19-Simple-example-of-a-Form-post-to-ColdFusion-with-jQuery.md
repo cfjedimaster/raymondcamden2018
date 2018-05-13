@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/20/Simple-example-of-a-Form-post-to-ColdFusion-with-jQuery
+guid: 3283
 ---
 
 Following up on my earlier <a href="http://www.raymondcamden.com/index.cfm/2009/3/17/Simple-example-of-loading-a-ColdFusion-query-with-jQuery">post</a> demonstrating loading ColdFusion query data via jQuery, I've decided to do a few more simple jQuery+ColdFusion examples to give folks a taste of how easy it is to work with them both at the same time. For today's entry I'm going to show a very simple form post. This is as about as trivial as you can get, but I'm going to follow it up the next few days with a few more examples that will build upon it. So with that in mind, let's take a quick look at the code.

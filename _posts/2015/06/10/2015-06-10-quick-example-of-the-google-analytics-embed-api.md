@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2015/06/10/quick-example-of-the-google-analytics-embed-api
+guid: 6288
 ---
 
 In my <a href="http://www.raymondcamden.com/2015/06/08/google-analytics-and-rss-report">blog post</a> from earlier this week, I mentioned how Google has a new <a href="https://developers.google.com/analytics/devguides/reporting/embed/v1/">Analytics Embed API</a>. While it still requires a bit of programming, it is a <i>greatly</i> simplified version of the code you needed before in order to work with Google Analytics. As you can guess, the primary use case (at least in my opinion) for this will be to embed charts on a web site so you don't have to go to the Google Analytics dashboard to see how well your site is doing. 

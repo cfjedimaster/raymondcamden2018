@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/08/12/Recording-from-Adobe-AIRHTMLjQueryColdFusion-Presentation
+guid: 3909
 ---
 
 Here is the recording URL from my presentation today on Adobe AIR with HTML/jQuery/ColdFusion.

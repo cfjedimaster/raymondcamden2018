@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/17/CFSnippetsorg-Launches
+guid: 2351
 ---
 
 Todd Sharp just launched a new project, <a href="http://www.cfsnippets.org">CFSnippets.org</a>. Let me "innovate" some text from his <a href="http://cfsilence.com/blog/client/index.cfm/2007/9/17/cfsnippetsorg-Launches--New-ColdFusion-Community-Site">blog entry</a>:

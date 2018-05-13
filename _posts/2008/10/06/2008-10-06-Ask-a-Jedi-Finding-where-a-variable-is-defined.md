@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/06/Ask-a-Jedi-Finding-where-a-variable-is-defined
+guid: 3043
 ---
 
 Sean asks:

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/08/19/Ionic-releases-an-easier-path-to-Cordova-Android-development
+guid: 5290
 ---
 
 <p>

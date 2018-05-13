@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/04/Reading-Office-documents-with-ColdFusion
+guid: 3222
 ---
 
 Have you ever needed to get information about Office documents with ColdFusion? In this blog entry I'll talk about how we can use some open source tools along with ColdFusion to read from various types of Microsoft Office documents. I'll be focusing on retrieving the text of the documents only. You can use this code to allow users to upload Word documents and provide basic search features against the actual contents of the documents.

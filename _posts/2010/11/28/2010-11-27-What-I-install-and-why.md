@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/11/28/What-I-install-and-why
+guid: 4028
 ---
 
 So I just got a new laptop (my last one was appropriated by the Enemy - I'm not sure who the Enemy is but I know they are out there) and I'm going through the process of setting it up to my liking. As I'm totally bored this morning and haven't blogged anything worthwhile in a few days, I thought I'd share what I have installed so far.

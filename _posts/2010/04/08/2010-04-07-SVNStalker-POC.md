@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2010/04/08/SVNStalker-POC
+guid: 3774
 ---
 
 Earlier today I was talking with a friend and mentioned that I wasn't sure when one of my repositories had last been updated. Obviously I could have opened up my SVN client and checked the history, but it would be nicer if there was a quicker way. He recommended a Windows application that I thought was pretty cool. (And unfortunately, I forgot the name and he is offline.) It monitored SVN repos and when commits were made, a Growl-type window would appear on the desktop. The user could also quickly browse the last set of revisions as well. Seeing that I thought - I bet I could make an AIR application out of it. Here is what I came up with.

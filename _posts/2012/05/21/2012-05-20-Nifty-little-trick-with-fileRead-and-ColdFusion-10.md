@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/05/21/Nifty-little-trick-with-fileRead-and-ColdFusion-10
+guid: 4623
 ---
 
 ColdFusion 10 adds a nifty little feature to the VFS (Virtual File System) - support for FTP, HTTP, and ZIP. This means you can treat remote resources and zip files as if they were simple file systems. The docs don't go into great detail on this (and instead ask you to read the <a href="http://commons.apache.org/vfs/filesystems.html">Apache Commons</a> docs instead</a>), but I discovered a simple, but really nice, good example of this.

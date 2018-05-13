@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2012/12/13/Another-proof-of-concept-MockData
+guid: 4809
 ---
 
 Yesterday I whipped up a quick little Node app that I thought folks might find interesting. The basic idea behind it is a quick way to generate fake JSON data. So imagine you are offline and need to write some code that works with an API. You could fire up this app (it runs as its own server) and then simply point your XHR code to the service. By using URL parameters you can define what type of data you would like back. Or maybe you aren't offline but simply don't have access to an API yet. Or perhaps the API you are using has strict usage limits. You get the idea I think. There's already a damn good mocking library out there (<a href="https://github.com/appendto/jquery-mockjax">MockJax</a>) but I wanted to build something that acted like a real server. Whether or not that make sense is up to debate. Anyway, here's an example.

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/05/19/Ionics-ISAPI-Rewrite-Filter
+guid: 1280
 ---
 
 I've been using ISAPI_Rewrite on this machine for some time now to support friendly urls at the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> and it has worked well. (By the way, notice how many entries we have at the cookbook now!) I wanted to refresh the beta copy of CFLib2006 on here to get some folks testing, and knew I had to do something with ISAPI_Rewrite. While it is free for one box, you can't apply rules just for one virtual server unless you pay for the commercial version. 

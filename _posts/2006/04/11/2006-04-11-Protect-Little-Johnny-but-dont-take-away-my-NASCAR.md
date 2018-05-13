@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/11/Protect-Little-Johnny-but-dont-take-away-my-NASCAR
+guid: 1203
 ---
 
 So, as we know, ever since Nipple-Gate, the FCC has been in a tizzy about decency and TV. So much so that it's asked the cable industry to come up with "Family Friendly" channel tiers. 

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2007/10/15/Flex-Aggregator-Launches-All-Your-Flex-Are-Belong-To-Us
+guid: 2412
 ---
 
 Scott Stroz has launched a new blog aggregator that focuses just on Flex blogs:

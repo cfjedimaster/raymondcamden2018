@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/10/21/Updating-Death-Clock-for-Flex-46
+guid: 4403
 ---
 
 Adobe has been talking lately about the next update to Flex and Flash Builder, version 4.6. There's a lot of cool stuff planned, but some of the things that interest me most are the new UI components. You can read a good article on them here, <a href="http://www.adobe.com/devnet/flex/articles/whats-new-flex-flash-builder-46.html">What's new in Flex 4.6 SDK and Flash Builder 4.6</a>. I thought it might be interesting to update one of my own application, the Death Clock mobile app, to use some of these new components.

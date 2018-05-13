@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/06/26/Ask-a-Jedi-Question-on-DBAs-and-their-plans-to-ruin-our-lives
+guid: 2900
 ---
 
 Ok, so maybe DBAs really aren't out to get us, but I know from time to time I've butted heads with a few DBAs and I'm sure others have as well. Here is an interesting story from someone dealing with something similar. 

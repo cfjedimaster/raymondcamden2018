@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/29/The-future-of-BlogCFC
+guid: 4474
 ---
 
 <img src="http://www.blogcfc.com/images/blogcfc.jpg">

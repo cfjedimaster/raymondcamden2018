@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/03/27/Photoshop-Express-Launches
+guid: 2733
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi//pe.png" align="left" style="margin-right: 10px;margin-bottom: 10px">

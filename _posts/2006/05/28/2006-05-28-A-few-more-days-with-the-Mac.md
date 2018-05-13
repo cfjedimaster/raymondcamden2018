@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/05/28/A-few-more-days-with-the-Mac
+guid: 1300
 ---
 
 It's been over a week since I've gotten the MacBook Pro, but I was busy on a project that required my old PC laptop so I haven't had as much time as I'd like on the notebook. While it is still "early", I thought I'd share some more observations, especially for those who may be thinking of switching:

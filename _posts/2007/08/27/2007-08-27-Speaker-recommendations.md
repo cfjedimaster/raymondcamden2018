@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/08/27/Speaker-recommendations
+guid: 2304
 ---
 
 So my Altec Lansing THX speakers which lasted 10 years seem to be dead. The LCD is blinking and the power button refuses to turn the speakers off. And of course - no sound is coming out. I've double checked the connections, rebooted, and unplugged/replugged in the speaker/subwoofer, but I think they have gone off to the speaker graveyard in the sky. 10 years is pretty good so I'm not too disappointed, but I'm going crazy without hearing my tunes. 

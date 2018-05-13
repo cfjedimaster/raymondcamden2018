@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/12/29/RIAForge-Milestone
+guid: 3166
 ---
 
 Woot. I just approved project number 600 at <a href="http://www.riaforge.org">RIAForge</a>. For those who are stat happy like me, some other items I track are...

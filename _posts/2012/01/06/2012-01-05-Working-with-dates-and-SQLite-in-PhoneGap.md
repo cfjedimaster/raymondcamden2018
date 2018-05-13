@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/06/Working-with-dates-and-SQLite-in-PhoneGap
+guid: 4484
 ---
 
 One of my favorite features of Adobe AIR, and in HTML5, is the ability to make use of a local SQLite database. For mobile or desktop applications, having a little mini-database is incredibly useful. While SQLite can't replace SQL Server, as a single user embedded database it's a great feature to have. One thing that can be difficult though is dealing with types in SQLite. SQLite only has a few basic types, one of which is <i>not</i> a native date type. It does support date style functions and can do basic parsing. Getting dates working correctly in your PhoneGap application can be a bit tricky. Here's what I came up - and as always - if folks have a better solution, please share!

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/29/Generating-Speech-with-ColdFusion-and-Java
+guid: 3375
 ---
 
 A few days ago a user made a comment on my ColdFusion 8/CAPTCHA blog post. He reminded us (and it is a good reminder) that CAPTCHA has some serious accessibility issues. This got me thinking about converting the CAPTCHA image into spoken letters. I've seen a few sites that do this and, frankly, whether it helped with CAPTCHA or not I thought it would be cool to see if ColdFusion could generate speech. I did some digging and the primary library that folks seem to use in the Java world is <a href="http://freetts.sourceforge.net/docs/index.php">FreeTTS</a> (TTS is short for text to speech). There are probably many other alternatives out there, but that's the one I went with.

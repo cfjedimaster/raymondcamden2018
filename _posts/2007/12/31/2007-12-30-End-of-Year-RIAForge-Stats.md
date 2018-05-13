@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/12/31/End-of-Year-RIAForge-Stats
+guid: 2565
 ---
 
 RIAForge, which <a href="http://www.raymondcamden.com/index.cfm/2006/10/18/Announcing-RIAForge">launched</a> a bit over a year ago, has had a pretty good year. The stats at years end are:

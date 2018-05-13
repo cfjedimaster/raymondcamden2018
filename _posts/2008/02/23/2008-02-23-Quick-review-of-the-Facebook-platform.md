@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/23/Quick-review-of-the-Facebook-platform
+guid: 2669
 ---
 
 I'm working on a project now for a client that involves <a href="http://www.facebook.com">Facebook</a>, and it's one of those dream projects where they pay you to learn while also working on a final product. I've spent about 10 hours so far reading, playing, and scratching my head more than once, and I thought I'd share my thoughts on what I've seen so far. Please keep in mind that I'm still learning this myself, so forgive me if I get any details wrong.

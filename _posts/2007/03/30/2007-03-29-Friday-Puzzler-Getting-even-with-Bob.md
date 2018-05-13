@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/30/Friday-Puzzler-Getting-even-with-Bob
+guid: 1932
 ---
 
 For today's Friday Puzzler (remember those?), I'm going to describe a hypothetical situation that will be - unfortunately - a bit too familiar for most readers. You are a worker at MegaCorp Web, a large web design firm in greater Podunk. One of the banes of your existence is Bob. Bob is your cube mate. Bob loves to point out each and every little mistake on your web application, even in the middle of development. So it's time to get medieval on Bob and teach him a lesson.

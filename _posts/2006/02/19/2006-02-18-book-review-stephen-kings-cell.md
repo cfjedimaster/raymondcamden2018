@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2006/02/19/book-review-stephen-kings-cell
+guid: 1110
 ---
 
 <iframe align="left" 

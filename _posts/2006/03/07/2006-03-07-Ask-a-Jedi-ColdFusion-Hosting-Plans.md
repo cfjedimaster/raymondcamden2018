@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/07/Ask-a-Jedi-ColdFusion-Hosting-Plans
+guid: 1139
 ---
 
 Paul asks:

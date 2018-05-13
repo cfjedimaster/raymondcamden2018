@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/09/Mysterious-method-added-to-your-CFCs-where-does-it-come-from
+guid: 2266
 ---
 
 If you've been working with CFCs in ColdFusion 8, you may come across a mysterious method. Consider this screen shot from a CFC descriptor:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/04/ColdFusion-8-A-Tip-For-You
+guid: 2086
 ---
 
 Ok, the title is a dumb one, but one of the nice new tags in ColdFusion 8 is the cftooltip tag. As you can imagine, it creates a DHTML based tooltip. It is rather easy to use as well:

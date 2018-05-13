@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/04/Ask-a-Jedi-Two-jQuery-and-ColdFusion-questions
+guid: 2858
 ---
 
 Syed sent some interesting questions regarding jQuery and ColdFusion. I will attempt to answer them, but I will remind people that I've only begun to play with jQuery. I'm far from being an expert. Anyway, his questions:

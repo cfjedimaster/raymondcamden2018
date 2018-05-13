@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/08/04/jQuery-Mobile-Beta-2-released-and-a-small-demo
+guid: 4317
 ---
 
 Today the jQuery Mobile team released their second beta. You can read up on the details here: <a href="http://jquerymobile.com/blog/2011/08/03/jquery-mobile-beta-2-released/">jQuery Mobile Beta 2 Released</a>. There are a bunch of exciting new changes in this release (and over the last few releases if you haven't been keeping it up!) but I thought one in particular was really neat - page prefetching.

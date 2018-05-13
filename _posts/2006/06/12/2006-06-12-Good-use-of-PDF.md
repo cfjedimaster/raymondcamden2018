@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/06/12/Good-use-of-PDF
+guid: 1327
 ---
 
 Ok, so I don't talk much about PDF because, probably like most of you, I just don't think about it. PDF is just how forms are done (mostly). Today my wife brought me a list of forms I had to print out for my son's new school. It was quite a list - a good ten forms or so. I anticipated a lot of: click, print, back, repeat.

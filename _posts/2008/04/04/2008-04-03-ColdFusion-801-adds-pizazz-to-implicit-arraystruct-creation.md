@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/04/ColdFusion-801-adds-pizazz-to-implicit-arraystruct-creation
+guid: 2751
 ---
 
 One of my favorite features in ColdFusion 8 is the ability to create and populate structs and arrays in one line of code:

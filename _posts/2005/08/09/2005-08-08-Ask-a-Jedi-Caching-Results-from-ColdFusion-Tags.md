@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/09/Ask-a-Jedi-Caching-Results-from-ColdFusion-Tags
+guid: 682
 ---
 
 Jared asks:

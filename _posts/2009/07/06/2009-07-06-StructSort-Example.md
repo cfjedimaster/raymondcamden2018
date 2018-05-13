@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/06/StructSort-Example
+guid: 3424
 ---
 
 This was discussed on my <a href="http://www.raymondcamden.com/forums">forums</a> a few days ago, but as I rarely see structSort "in the field", I thought I'd share a simple example.

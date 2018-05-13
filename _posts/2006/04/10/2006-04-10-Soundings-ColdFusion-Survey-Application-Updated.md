@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/10/Soundings-ColdFusion-Survey-Application-Updated
+guid: 1200
 ---
 
 Version 1.5.2 was released today. Changes are listed below:

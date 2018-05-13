@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/06/Working-with-Plugins-in-PhoneGap-30
+guid: 5030
 ---
 
 Another post about PhoneGap 3.0! So - I don't work with plugins a lot. I play with them every now and then, but I would certainly not consider myself an expert. Therefore, most of what I'm about to share here may be common knowledge, and if so, great, but I lost an hour or so yesterday trying to understand how to install a plugin via the command line and I figured a quick overview may help others.

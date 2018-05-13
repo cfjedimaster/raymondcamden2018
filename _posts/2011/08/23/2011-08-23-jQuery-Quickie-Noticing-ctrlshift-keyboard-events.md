@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/08/23/jQuery-Quickie-Noticing-ctrlshift-keyboard-events
+guid: 4336
 ---
 
 Andy S. asked me earlier today...

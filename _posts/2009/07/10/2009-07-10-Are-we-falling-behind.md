@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/10/Are-we-falling-behind
+guid: 3431
 ---
 
 Keith sent me this email a few days back, and as it touches on a kind of a hot topic lately, it took me a while to formulate a response. Anyway, I hope this helps folks:

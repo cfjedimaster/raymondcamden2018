@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/31/Session-Tracking-a-Security-Risk
+guid: 1002
 ---
 
 Over on the bluedragon interest list, a user had asked about how to get all the current sessions in an application. This is something I've been asking for in CF for <i>years</i>, although you can certainly do it yourself if you want. In fact, it is even easier now with onSessionStart/End. However, I'm lazy, and I'd still like a getSessions() function. (It is part of my plea - let me know everything that ColdFusion knows.)

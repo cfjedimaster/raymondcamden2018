@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/30/Uberpanel-podcast-from-MAX-now-available
+guid: 3167
 ---
 
 The title says it all. We held an uberpanel (my silly name for a group of ColdFusion experts) at the CFUnconference during MAX 2008. Brian Meloche ran it and recorded it for his CFConversations podcast. You can get the recording here:

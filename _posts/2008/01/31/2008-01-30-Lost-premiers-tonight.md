@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/01/31/Lost-premiers-tonight
+guid: 2626
 ---
 
 Just a quick reminder that the season premier of Lost is tonight. Frankly I've never heard of this show so I'll probably skip it. Sounds like a mix of Gilligan's Island and the Twilight Zone. 

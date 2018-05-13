@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2015/04/14/coldfusion-updates-released-today
+guid: 6009
 ---
 
 As the title says, multiple updates were released for ColdFusion today. One is an update to ColdFusion 10 (details may be found <a href="https://helpx.adobe.com/coldfusion/kb/coldfusion-10-update-16.html">here</a>) and the other is a rather big update to ColdFusion 11, <a href="https://helpx.adobe.com/coldfusion/kb/coldfusion-11-update-5.html">Update 5</a>. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/05/12/cfmail-and-output
+guid: 1264
 ---
 
 A week or so ago I had an odd error report on the BlogCFC beta. A user had errors using the Send() function on a CFMX 6.1 box, but not 7. The error was a null pointer exception (npe), which are notorious for being hard to debug. (For me anyway.) The error was occurring inside cfmail tags where I rendered the body of the entry. For the life of me I couldn't figure out what was going wrong... until I noticed that I had used cfoutput tags.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/14/Getting-Some-with-Transfer
+guid: 3103
 ---
 
 In today's Transfer entry I'm going to talk about getting objects in Transfer. I had previously talked about the get method and how it can load an object via a primary key, but what about other methods of finding objects?

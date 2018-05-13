@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/07/10/Another-RIAForge-update-and-some-good-examples-of-my-mistakes
+guid: 2924
 ---
 
 I had a moment yesterday to take another look at <a href="http://www.riaforge.org">RIAForge</a> and it's ongoing issues. This time I focused on a problem with the project, <a href="http://projecttracker.riaforge.org/">Project Tracker</a>. For some reason this project would take around 60 seconds to render the home page. Other projects were much faster. As far as I could tell, nothing was special about that project, but everything about it was just horribly slow, almost unusable. I did some digging and finally found a slew of things that I had screwed up. Here they are in no particular order.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/08/cfpresentation-and-HTML-slides
+guid: 4319
 ---
 
 This topic came up from a cf-newbie discussion this weekend, but did you know that cfpresentation can be used to create HTML presentations? The reference is a bit confusing on the matter. If you look at the docs for the format attribute, it says this:

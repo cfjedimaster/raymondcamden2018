@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/08/Google-Storage-for-Devs-how-compatible-with-S3
+guid: 3840
 ---
 
 Earlier this week I got access to <a href="http://code.google.com/apis/storage/">Google Storage for Developers</a>, Google's answer to Amazon S3. I was looking over the <a href="http://code.google.com/apis/storage/docs/developer-guide.html">developer's guide</a> when I came across this little nugget:

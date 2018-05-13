@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/05/17/Slides-code-from-my-HTML5-Presentation
+guid: 4620
 ---
 
 First off - a big thank you to everyone who attended my presentation at cfObjective today. I hope it was a useful introduction to some of the cool new stuff in HTML5. That sounds really lame, but it's honestly how I feel. The web (well the front end) is <i>incredibly</i> fun again. I'm hoping to do many more presentations in the future, but with a more focused topic. I'm doing a presentation soon on HTML5 Storage options and I'm planning one just on Forms. (Since, you know, forms are kind of important. Unlike other things. Looking at you Canvas.)

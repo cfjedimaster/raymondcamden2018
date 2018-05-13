@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/06/07/My-waste-of-time-this-weekend-playing-with-Yahoo-Maps-and-jQuery
+guid: 3386
 ---
 
 Last week I <a href="http://www.raymondcamden.com/index.cfm/2009/6/5/jQuery-Tabs-and-Google-Maps">blogged</a> on jQuery UI tabs and Google Maps. That led me to take another look at Yahoo's <a href="http://developer.yahoo.com/maps/">Maps</a> API. I had worked with this sometime ago when I created my <a href="http://cfyahoo.riaforge.org">CFYahoo</a> project. The code I wrote for the wrapper though only interfaced with their <a href="http://developer.yahoo.com/maps/rest/V1/">REST</a> API. This let you get maps as images and save them to your server. This weekend I took a look at the <a href="http://developer.yahoo.com/maps/ajax/">AJAX</a> API.

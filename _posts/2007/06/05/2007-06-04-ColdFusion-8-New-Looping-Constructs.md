@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/05/ColdFusion-8-New-Looping-Constructs
+guid: 2091
 ---
 
 ColdFusion 8 adds a few cool new tricks to the venerable CFLOOP tag. This includes looping over files and and arrays. Let's take a look at file looping first.

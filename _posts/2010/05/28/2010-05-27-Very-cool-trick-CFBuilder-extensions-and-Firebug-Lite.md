@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/28/Very-cool-trick-CFBuilder-extensions-and-Firebug-Lite
+guid: 3833
 ---
 
 While in Europe, I've now given my presentation on CFBuilder and Extensions three times. I'll be giving it a final time in Zurich tonight. One of the things I've mentioned in all the stops is that - much like AJAX - it can sometimes be difficult to debug problems when working with extensions. Last night when I said this, <a href="http://www.bennadel.com/">Ben Nadel</a> asked if I thought <a href="http://getfirebug.com/firebuglite">Firebug Lite</a> would work within the context of CFBuilder. For those who don't know, Firebug Lite is a JavaScript file you can add to a non-Firebug enabled site to get Firebug features. It is <b>not</b> as feature-rich as the "real" Firebug plugin, but it does quite a bit. Turns out he was on to something. Here is how I tested and what I found.

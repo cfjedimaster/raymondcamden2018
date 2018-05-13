@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/25/Ask-a-Jedi-Followup-on-Certification
+guid: 2898
 ---
 
 I got an interesting email a week or so ago (sorry folks, behind on my email again - blame CFUNITED, my cold, and a dog that required a 4 hour drive yesterday for a special vet) concerning certification. As folks know I shared my <a href="http://www.raymondcamden.com/index.cfm/2008/6/3/Open-Letter-to-Adobe-on-Certification">opinions</a> on this back on June 3rd. I still haven't heard an official response from Adobe, which is a bit disappointing (hint hint, Ben, Jason, anyone? :) but hopefully that will come soon. Anyway, the reader had this to say (note I've hidden a few company names in here):

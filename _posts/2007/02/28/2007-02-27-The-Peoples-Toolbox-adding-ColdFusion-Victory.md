@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/28/The-Peoples-Toolbox-adding-ColdFusion-Victory
+guid: 1866
 ---
 
 Ok - so "Victory" may seem a bit overly dramatic, but as I have decided that I am on a crusade, I'm going to be dramatic if it helps the cause - spreading the word of ColdFusion.

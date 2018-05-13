@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/21/ColdFusion-8s-Server-Monitor-and-Performance
+guid: 2140
 ---
 
 A few days ago I blogged about the Server Monitor API (<a href="http://www.raymondcamden.com/index.cfm/2007/6/14/ColdFusion-8-Server-Monitor-API">ColdFusion 8: Server Monitor API</a>) and I mentioned that I removed the link to the online demo as it seemed as enabling Server Monitoring had a negative impact on my server. I said I wasn't sure - but I was worried. 

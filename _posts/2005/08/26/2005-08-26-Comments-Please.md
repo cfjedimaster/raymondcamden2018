@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/08/26/Comments-Please
+guid: 732
 ---
 
 As you may have noticed, hopefully noticed that is, I've been doing quite a bit of posting lately. I've been doing a lot of reading on blogging and professional blogging. Part of it is to increase the revenue my sites gain. (I swear it's not because I'm greedy, but when my free time hobbies earn money, it makes me a heck of a lot more inclined to share. ;) Part of it is that I just love writing. One of the new features of this blog, the "Ask a Jedi" series, is working rather well I think, although I don't always have the answer. (Who does? More on that later.)

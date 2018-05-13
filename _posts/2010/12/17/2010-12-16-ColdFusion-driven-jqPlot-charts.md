@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/12/17/ColdFusion-driven-jqPlot-charts
+guid: 4057
 ---
 
 Yesterday night I took at <a href="http://www.jqplot.com">jqPlot</a>, a jQuery plugin for charting. I'm a big fan of charting, especially ColdFusion's built-in charting, but I wanted to take a look at jqPlot more deeply ever since I played with it a bit within the <a href="http://cfam.riaforge.org">CFAM</a> project. For the most part, jqPlot works well (although I had a few issues I'll describe below), and if a JavaScript rendered chart solution is ok for you then you definitely want to take a look. Just remember that this is completely client side solution. You won't emailing these charts or embedding them in a presentation anytime soon.

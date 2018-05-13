@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/15/ColdFusion-8-Server-Monitor-API
+guid: 2124
 ---
 
 In an <a href="http://www.raymondcamden.com/index.cfm/2007/6/7/ColdFusion-8-Admin-API-and-Trusted-Cache">earlier post</a> I talked a bit about how the Admin API has been updated in ColdFusion 8. For folks who don't know what this is - it is a way to get into the internals of ColdFusion directly from CFML. It requires the ColdFusion Admin password, which may be a negative for some, but if you have access to it, you can do quite a bit. As an example, I could build an installer for BlogCFC that would prompt the user for the CF Admin password and then handle creating the datasource for you. So it's cool. We know that. But how cool is it in ColdFusion 8?

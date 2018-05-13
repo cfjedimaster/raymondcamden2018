@@ -6,6 +6,7 @@ categories: [javascript]
 tags: []
 banner_image: 
 permalink: /2013/07/16/CajunIpsum-Because-Um-Yeah
+guid: 4985
 ---
 
 Yesterday I discovered (via Twitter) a new site, <a href="http://meettheipsums.com/">Meet the Ipsums</a>. All it does is collect, list, and sample the various Lorem Ipsum generators out there. My new favorite is <a href="http://www.catipsum.com/">Cat Ipsum</a>.

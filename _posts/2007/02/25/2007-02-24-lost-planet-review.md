@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2007/02/25/lost-planet-review
+guid: 1859
 ---
 
 <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=raymondcamden-20&o=1&p=8&l=as1&asins=B000G75AXY&fc1=000000&IS2=1&lt1=_top&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr&npa=1" style="width:120px;height:240px;margin-right: 10px" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="left"></iframe>

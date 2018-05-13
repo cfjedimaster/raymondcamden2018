@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/09/16/CFCATCH-accepts-any-attribute
+guid: 2349
 ---
 
 As I prepare my final bits of code for my MAX presentation (on CFFEED), I incorporated Rupesh Kumar's blog entry on <a href="http://coldfused.blogspot.com/2007/08/using-cffeed-with-url-sending.html">cffeed and gzip compression problems</a>. I noticed something odd though in his code example:

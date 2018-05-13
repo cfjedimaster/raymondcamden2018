@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/04/30/Eclipse-Tip-Whitespace-characters-visible-when-they-are-turned-off
+guid: 3799
 ---
 
 Ok, this is officially from the WTF Files. Today I somehow enabled whitespace characters in ColdFusion Builder.

@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2011/01/10/jquery-based-example-of-simple-shopping-cart-ui
+guid: 4078
 ---
 
 Last week a reader and I shared a few emails about an issue he was having with this site. His site, <a href="http://beebright.com/index.cfm">Bee Bright</a>, is a candle shop. If you go into a product category, like for example <a href="http://beebright.com/products.cfm?cat_id=7">pillar candles</a>, you can see that he makes use of Ajax for his shopping cart. Simply click add to cart on one of the items and you can see this in action. This works for him but he was a bit concerned about his implementation. We talked back and forth a bit about it and I think it brings up a topic I've mentioned here before (and at Scotch on the Rocks last year). Moving to Ajax is not always a silver bullet solution. Sometimes it takes two or three implementations before you get things right. The more I work with Ajax the more I think about topics like this so I thought it would be good to discuss his solution, and mine, and let folks comment in as well. So enough preamble, let's get into it.

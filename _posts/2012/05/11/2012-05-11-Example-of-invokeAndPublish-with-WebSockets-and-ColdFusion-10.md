@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/05/11/Example-of-invokeAndPublish-with-WebSockets-and-ColdFusion-10
+guid: 4615
 ---
 
 While preparing for my <a href="http://www.raymondcamden.com/index.cfm/2012/5/9/Recording-slides-and-code-from-my-WebSockets-presentation">presentation</a> earlier this week on WebSockets and ColdFusion 10, I ran into an issue trying to wrap my head around one of the features: invokeAndPublish. The docs describe it like so:

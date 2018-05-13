@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/22/Ask-a-Jedi-Functions-and-dynamic-arguments
+guid: 3026
 ---
 
 Shakti Lightfinger asks:

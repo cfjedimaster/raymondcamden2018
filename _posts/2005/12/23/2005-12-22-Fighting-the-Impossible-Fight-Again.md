@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/12/23/Fighting-the-Impossible-Fight-Again
+guid: 991
 ---
 
 I've gotten quite a bit of track back spam here. Luckily my TB spam list seems to work rather well. For example, I don't get TB spam on drugs anymore since I've covered almost all of them. Now the trend seems to be vacations and cruises. Just a few minutes ago, though, I got an interesting TB from carsblog.biz. She spammed an entry on the intermediate CF contest. For the heck of it I decided to visit the blog. Turns out it appears to be a "real" blog. In other words, it seems like a decent blog on car news. There are even some personal entries in there. (That's how I found out it was a she, since she mentioned her husband, although I suppose it could be a gay man as well.)

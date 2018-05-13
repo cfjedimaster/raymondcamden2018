@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/10/23/Announcement-Best-of-ColdFusion-9-Contest
+guid: 3574
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" align="left" style="margin-right:5px"/> Back during the ColdFusion 8 beta, there was a contest held (just for beta participants) called the Best of Scorpio. The idea was to create something, anything, that helped showcase some of ColdFusion 8's new features. (You can find details on the winners <a href="http://www.cfinsider.com/index.cfm/2007/8/23/Best-of-Scorpio-Winners">here</a>.) Unfortunately, Adobe was unable to hold the contest again this time around. I spoke with Adobe about this and volunteered to help manage a new round - which we are calling the <b>Best of ColdFusion 9</b> contest. Best of all - it is open to anyone and everyone (whether or not you were a beta tester). 

@@ -6,6 +6,7 @@ categories: [javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/07/09/phonegap-rss-reader-part-4
+guid: 4670
 ---
 
 <b>Edited on August 4, 2012: Readers noted that this version didn't correctly handle trying to load the cache when offline. I confirmed that and posted a fix in the comments.</b>

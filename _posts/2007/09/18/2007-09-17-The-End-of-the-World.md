@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/09/18/The-End-of-the-World
+guid: 2354
 ---
 
 So I was testing Yahoo for a friend of mine who said he couldn't hit their server. This is the news story that was on top:

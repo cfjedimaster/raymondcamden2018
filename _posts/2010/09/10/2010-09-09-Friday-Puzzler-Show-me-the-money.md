@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/10/Friday-Puzzler-Show-me-the-money
+guid: 3936
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/money.jpg" align="left" style="margin-right: 10px" /> Today's Friday Puzzler (it's been a while - sorry!) is from LessThanDot: <a href="http://forum.lessthandot.com/viewtopic.php?f=102&t=8743">How many days before I double my money</a>. Their problem was: Given 1000 dollars and 1% interest every day - now long until you double your money. Since ColdFusion makes everything simpler, I'm going to make this a bit more complex. Your challenge is to write a generic UDF that:

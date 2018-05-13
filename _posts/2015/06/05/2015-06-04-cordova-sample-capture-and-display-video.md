@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova]
 banner_image: 
 permalink: /2015/06/05/cordova-sample-capture-and-display-video
+guid: 6258
 ---
 
 Just a quickie - a user on Stackoverflow <a href="http://stackoverflow.com/questions/30667183/how-to-show-capture-video-in-phonegap/30669597#30669597">asked</a> how to both capture video and display it in the app. This is fairly easy with the <a href="http://plugins.cordova.io/#/package/org.apache.cordova.media-capture">Media Capture</a> API so I thought I'd whip up a quick demo. 

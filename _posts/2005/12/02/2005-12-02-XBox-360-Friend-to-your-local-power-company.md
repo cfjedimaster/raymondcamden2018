@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2005/12/02/XBox-360-Friend-to-your-local-power-company
+guid: 951
 ---
 
 Ok, so I'm sure everyone has heard of the... somewhat "intense" XBox 360 <a href="http://www.myextralife.com/archive.php?date=2005-11-30"power brick</a>. Well - one of the cool things about the Google Desktop bar is the news pod that randomly scrolls articles from random news sources. This title came up - and when I followed the link - I almost fell out of my chair laughing. Warning - you need to be an old school gamer to get it:

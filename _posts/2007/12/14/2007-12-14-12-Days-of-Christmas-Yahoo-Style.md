@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/14/12-Days-of-Christmas-Yahoo-Style
+guid: 2542
 ---
 
 Earlier today I <a href="http://www.raymondcamden.com/index.cfm/2007/12/14/Friday-Challenge--Christmas-Style">blogged</a> a Friday Challenge that involved taking the 12 Days of Christmas as a query and generating the song. After I posted this, I had an odd thought - why not see what the Internet (in this case, Yahoo), would do with the gifts.

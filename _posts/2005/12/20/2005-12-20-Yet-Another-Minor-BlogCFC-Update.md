@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/12/20/Yet-Another-Minor-BlogCFC-Update
+guid: 983
 ---
 
 Hot on the heels of a <a href="http://ray.camdenfamily.com/index.cfm/2005/12/16/BlogCFC-ColdFusion-Blog-402-Released">release</a> last Friday, I have yet another minor update to BlogCFC. Changes are:

@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/04/11/Results-of-PhoneGap-Survey
+guid: 5199
 ---
 
 <p>

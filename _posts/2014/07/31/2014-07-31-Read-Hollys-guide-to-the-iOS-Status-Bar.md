@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2014/07/31/Read-Hollys-guide-to-the-iOS-Status-Bar
+guid: 5279
 ---
 
 <p>

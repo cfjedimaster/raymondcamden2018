@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/30/Soundings-ColdFusion-Survey-Update-151
+guid: 1178
 ---
 
 I've released an update to <a href="http://ray.camdenfamily.com/projects/soundings">Soundings</a> today. Soundings is my ColdFusion survey application. It lets you create surveys and gather results. You can generate reports on these surveys as well.

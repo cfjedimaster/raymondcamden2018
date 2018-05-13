@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/01/06/Remove-EXIF-data-with-ColdFusion
+guid: 5120
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2012/01/27/A-look-at-JavaScript-Form-Validation
+guid: 4510
 ---
 
 Validating forms with JavaScript has been possible since the very beginning of time... or at least the introduction of LiveScript (the original name before the marketing drones got ahold of it). While it's not particular new or as exciting as Canvas based games, JavaScript form validation is one of the best uses of the language (imo) and something that can dramatically improve your user's experience. I recently had a reader ask how to do JavaScript form validation so I thought it might be nice to write up a simple tutorial. This is not meant to cover every possible way, of course, and will be a very manual approach (no frameworks or plugins!) to the problem. As always, I welcome folks comments and suggestions below.

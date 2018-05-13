@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/22/Ask-a-Jedi-Sending-users-back-after-a-logon
+guid: 1487
 ---
 
 This must be security week. Chris asked this:

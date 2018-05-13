@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/05/17/New-Google-service-Google-Notebook
+guid: 1271
 ---
 
 Google has released (yet another) free service, the <a href="http://www.google.com/notebook/">Google Notebook</a>. It is a research type tool allowing you to save clips from various web sites into a notebook. I'm not quite sure how useful it is, but it seems handy. 

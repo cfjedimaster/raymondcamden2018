@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/08/15/My-evil-jQuery-Plugin
+guid: 3489
 ---
 
 I demonstrated this at my jQuery presentation earlier today at CFUNITED but I thought I'd share the code. The basic idea is this - you have a coworker you hate (we've all had one from time to time), so you quickly figure out their IP and output some code just for them:

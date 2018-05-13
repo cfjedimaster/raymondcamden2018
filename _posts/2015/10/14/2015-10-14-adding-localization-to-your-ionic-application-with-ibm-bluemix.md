@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [bluemix,cordova,ionic]
 banner_image: 
 permalink: /2015/10/14/adding-localization-to-your-ionic-application-with-ibm-bluemix
+guid: 6931
 ---
 
 Localization is an important topic for mobile developers and one that is - in my opinion - not discussed enough. It is a difficult and complex topic, but like testing, it isn't something that should be ignored just because it isn't easy. Today I'm going to discuss one aspect of creating an internationalized hybrid application with Ionic - the localization of your UI. In my next post, I'll talk about formatting data values. To create the localized version of a sample application, I'm going to use two services. First, I'll use a beta <a href="https://ibm.biz/IBM-Bluemix">Bluemix</a> service for machine-based translation. Then I'll use an Angular library to employ the results of that service. Ready?

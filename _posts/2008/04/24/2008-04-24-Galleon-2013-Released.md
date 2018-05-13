@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/24/Galleon-2013-Released
+guid: 2787
 ---
 
 I just released <a href="http://galleon.riaforge.org">Galleon</a> version 2.013. This release has the following updates:

@@ -6,6 +6,7 @@ categories: [html5,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/05/30/Example-of-adding-menu-support-to-a-PhoneGap-Application
+guid: 4635
 ---
 
 Last night a fellow on Twitter asked about how to build in menu-key support in PhoneGap. I promised him a simple application that demonstrated this feature and would - hopefully - give him something to build on. Much like my <a href="http://www.raymondcamden.com/index.cfm/2012/5/23/Context-Menu-Example-with-jQuery-Mobile">earlier blog post</a> on adding a context menu to a jQuery Mobile application, the process breaks down to two parts:

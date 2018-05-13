@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/27/Transfer-Caching-and-Performance-Features
+guid: 3163
 ---
 
 It's been a while since I blogged about Transfer, but I finally got time to look into caching and performance issues with Transfer. I'm pretty impressed by what I've found. If I had known about some of this back when I was working on <a href="http://www.cflib.org">CFLib 2008</a>, I probably would have done things quite a bit differently. (In fact, I may take a look at re-building things a bit and blogging about the changes.) Here is a quick summary of some of the things you can do to improve performance issues with Transfer.

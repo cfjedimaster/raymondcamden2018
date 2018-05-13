@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/06/03/ColdFusion-Summit-2014-Call-for-Speakers
+guid: 5236
 ---
 
 <p>

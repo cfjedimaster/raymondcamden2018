@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/02/01/RIAForge-Update
+guid: 2629
 ---
 
 Today I'm happy to announce the release of a major new feature at <a href="http://www.riaforge.org">RIAForge</a>. Those of you using Subversion for your projects now have full control over who has write access to your repository. You can add and remove people, and reset passwords (including your own). You can add users who have no connection to RIAForge, so there is no need to make them register.

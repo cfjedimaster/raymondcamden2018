@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/06/03/Open-Letter-to-Adobe-on-Certification
+guid: 2857
 ---
 
 Please forgive me but the following will be a bit long and lot 'rambly' so take this as you cue to stop reading now. I just took the ColdFusion 8 Certification exam and I have some thoughts I want to share. I also have something I want to share about the Dreamweaver certification as well. Before I get into this though, let me be clear. This blog entry is <b>not</b> meant to be on the relative merits of certifications in general. That's a whole other blog post, and frankly, you won't get much agreement in the community. My personal take is that I don't think a certification stands for much. It does show you can memorize well (which I tend to stink at), but it doesn't show how well you attack problems. I wouldn't ask a developer to rattle off the arguments to CFFILE. Instead, I'd tell the developer: "Imagine we have a cfpoo tag. You know it does X but can't remember the syntax. What do you do?" For me the answer is that I've got the CFML Reference PDF in my Finder so I can launch it whenever I need it - and trust me - I use this PDF all day long. I think only recently have I truly memorized the order of the Find() args, and Find() is - what - 8 years old? So yes, I suck at memorization.

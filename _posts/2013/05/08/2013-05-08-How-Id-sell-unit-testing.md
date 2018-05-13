@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/05/08/How-Id-sell-unit-testing
+guid: 4928
 ---
 
 Someone came up to me after my MAX session on web development debugging and asked for some advice on how to 'sell' unit testing to his clients. This was my response:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/29/ColdFusion-Regex-example-finding-URLs-in-CSS
+guid: 4066
 ---
 
 <a href="http://www.cfsilence.com">Todd Sharp</a> and I were talking today about finding URLs within CSS. Specifically - things in the format of url(...). For example (and yes, I know this is a bad CSS example since it repeats the same ID, but I built it up with cut and paste):

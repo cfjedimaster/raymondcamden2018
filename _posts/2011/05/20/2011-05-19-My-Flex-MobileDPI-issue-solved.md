@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/20/My-Flex-MobileDPI-issue-solved
+guid: 4240
 ---
 
 Last Saturday I posted my latest Flex/Mobile experiment, <a href="http://www.raymondcamden.com/index.cfm/2011/5/14/INeedIt--Simple-Flex-Mobile-example">INeedIt</a>. For the most part it just plain worked, and Flash Builder/Flex 4.5 made it super easy. One thing really annoyed me though. The text on my phone was too small, especially when compared to the simulator. A few days later I posted a <a href="http://www.coldfusionjedi.com/index.cfm/2011/5/17/INeedIt--Addressing-text-size-issues">follow up</a> that fixed the issue by using CSS. This was thanks to the help of <a href="http://devgirl.org/">Holly Schinsky</a>. But it still bugged me. So I posted a quick note to the Flex forums at Adobe - and guess what? Turns out it was a bug in Flex!

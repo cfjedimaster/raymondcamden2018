@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/07/08/Getting-Started-with-ColdFusion-Security
+guid: 3871
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/security.jpg" align="left" style="margin-right: 10px"/> A reader just asked:

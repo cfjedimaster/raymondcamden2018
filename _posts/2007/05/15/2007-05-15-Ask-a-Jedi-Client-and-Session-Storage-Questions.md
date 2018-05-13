@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/15/Ask-a-Jedi-Client-and-Session-Storage-Questions
+guid: 2037
 ---
 
 Slawko (why do my readers always seem to have cool names?) asks an interesting question about Client and Session storage:

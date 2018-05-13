@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/08/Ask-a-Jedi-Checking-the-Query-String
+guid: 1083
 ---
 
 I just got this email this morning and had to share it:

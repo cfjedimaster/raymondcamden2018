@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/16/Some-Canvas-Experiments
+guid: 4436
 ---
 
 I spent some time yesterday reading an excellent article on a simple Canvas-based version of the old Snake game: <a href="http://www.netmagazine.com/tutorials/create-mobile-version-snake-html5-canvas-and-javascript">Create a mobile version of Snake with HTML5 canvas and JavaScript</a>. This article, by Eoin McGrath, does a great job explaining how he used Canvas to animate the game. (If you've never played Snake before, think Tron light cycles, single player, and not as cool.) I've been meaning to work on some simple games with Canvas, and while there are some very cool frameworks out there (<a href="http://easeljs.com/">EaselJS</a> and <a href="http://impactjs.com/">Impact</a> for example), I wanted to play around a bit with the raw code before I started punting some of the grunt work to other libraries. What follows is a series of experiments based on McGrath's core code set. Be gentle - this is my first time.

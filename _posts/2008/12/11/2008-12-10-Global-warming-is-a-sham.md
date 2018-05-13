@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/12/11/Global-warming-is-a-sham
+guid: 3143
 ---
 
 And I have proof! We got a phone call this morning at 5:45AM. My mother-in-law was calling to let us know that it had not only snowed last night, it had actually accumulated. We've seen a light frosting of snow once here, but never anything like this:

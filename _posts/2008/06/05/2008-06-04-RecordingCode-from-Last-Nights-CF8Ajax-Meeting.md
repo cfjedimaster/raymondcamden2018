@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/05/RecordingCode-from-Last-Nights-CF8Ajax-Meeting
+guid: 2862
 ---
 
 The recording from last night's meeting may be found here:

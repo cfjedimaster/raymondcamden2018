@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/02/27/How-to-add-MySQL-time-zone-tables-on-Windows
+guid: 4541
 ---
 
 I'm working with a database that needs to be populated with time zone data. Turns out that on Unix-based systems, this is rather simple and can be done entirely from the command line. On Windows though (and apparently HP-UX too), you can't use that method. Instead, the MySQL site has downloads here:

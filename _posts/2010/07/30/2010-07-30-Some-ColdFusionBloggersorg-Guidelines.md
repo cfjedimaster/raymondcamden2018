@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/07/30/Some-ColdFusionBloggersorg-Guidelines
+guid: 3893
 ---
 
 From time to time I'll get alerted about blog entries aggregated on <a href="http://www.coldfusionbloggers.org">CFBloggers</a> that is either not-ColdFusion related or perhaps inappropriate. I don't have a firm set of guidelines on how I handle situations like that. I thought I'd write down a few notes/ideas about how I think things should be handled. While at the end of the day the site is mine to run as I see fit, I want a resource that is useful and valuable for the community. 

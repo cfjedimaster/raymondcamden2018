@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/12/08/Google-Docs-CFC
+guid: 2524
 ---
 
 Yesterday I posted a <a href="http://www.raymondcamden.com/index.cfm/2007/12/7/Quick-example-of-the-Google-Docs-API">quick example</a> of integrating Google's Docs API with ColdFusion. I went ahead and wrapped up the code in a simple set of CFCs. There is a base CFC that handles authentication along with a docs CFC that handles the real interaction. Here is some sample code:

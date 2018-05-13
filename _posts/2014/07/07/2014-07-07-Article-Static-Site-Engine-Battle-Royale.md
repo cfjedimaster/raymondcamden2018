@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2014/07/07/Article-Static-Site-Engine-Battle-Royale
+guid: 5259
 ---
 
 <p>

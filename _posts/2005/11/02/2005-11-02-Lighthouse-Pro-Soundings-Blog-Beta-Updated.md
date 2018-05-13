@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/02/Lighthouse-Pro-Soundings-Blog-Beta-Updated
+guid: 890
 ---
 
 Lots of updates - so here are the details:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/04/ColdFusion-Contest-Entry-Examined
+guid: 828
 ---
 
 The ColdFusion <a href="http://ray.camdenfamily.com/index.cfm/2005/9/20/Contest-Shall-We-Play-a-Game">contest</a> is now closed, and I am beginning to look at the entries. As I mentioned, I was going to pick the code apart and point out mistakes. This is <i>not</i> to make anyone feel bad or to make people think I don't make mistakes (anyone remember the supreme whopper?), but as readers of my blog know, I love to point out mistakes and issues because I think it helps people learn. Also, I like to point out alternative ways of coding functionality, just in case you don't know such methods exist. So, enough gab, let's get on with it.

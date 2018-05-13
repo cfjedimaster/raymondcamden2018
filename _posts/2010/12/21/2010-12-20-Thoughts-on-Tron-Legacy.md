@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2010/12/21/Thoughts-on-Tron-Legacy
+guid: 4061
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/405px-Tronlegacy.jpg.jpg" align="left" style="margin-right:10px" /> It's rather late - but my eldest boy is keeping me up so we can see the eclipse in another hour so I figured I'd do a quick write up of my thoughts on Tron Legacy. Everything above the word SPOILER will be spoiler free. Anything below, including comments, should be considered free reign for anything folks want to say. 

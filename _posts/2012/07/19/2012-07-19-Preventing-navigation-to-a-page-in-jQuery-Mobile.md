@@ -6,6 +6,7 @@ categories: [jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/07/19/Preventing-navigation-to-a-page-in-jQuery-Mobile
+guid: 4682
 ---
 
 Here's an interesting situation I ran into recently. Consider a simple web site that begins with a login page. After you successfully login, you proceed to a 'home' page with links to sub pages. But you want to prevent users from using their back button to return all the way to the login page. It isn't a security issue per se, but it is confusing. The user should only be able to go back to the post-login home page.

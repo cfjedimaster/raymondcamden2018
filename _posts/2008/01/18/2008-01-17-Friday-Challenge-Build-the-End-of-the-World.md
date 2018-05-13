@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/18/Friday-Challenge-Build-the-End-of-the-World
+guid: 2600
 ---
 
 Ok, so maybe that title is just a <i>tiny</i> bit over dramatic, but if it helps get you motivated, I say go for it. Today's challenge focuses on the little known fact that UDFs in ColdFusion act just like normal variables. By that I mean you can define a UDF and than treat it like any other variable, including passing it to another UDF or CFC method. A practical example of this is the <a href="http://www.cflib.org/udf.cfm/quicksort">quickSort</a> UDF at CFLib. It is a sorting function that lets you pass in a UDF to customize how things are sorted. Today's challenge is based on that.

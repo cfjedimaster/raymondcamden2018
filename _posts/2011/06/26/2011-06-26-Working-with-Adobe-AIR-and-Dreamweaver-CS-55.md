@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/06/26/Working-with-Adobe-AIR-and-Dreamweaver-CS-55
+guid: 4284
 ---
 
 I decided today to give up on Aptana for writing HTML Adobe AIR applications. With the latest version of Aptana not supporting it, and with me recently discovering how good Dreamweaver CS5.5 is for JavaScript development, I figured I'd take a look at what it's like. It isn't quite as powerful as what I saw in Aptana 2, but it's not bad. Here's the process with some screen shots to make it a bit clearer.

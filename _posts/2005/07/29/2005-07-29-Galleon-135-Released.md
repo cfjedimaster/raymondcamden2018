@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/07/29/Galleon-135-Released
+guid: 653
 ---
 
 As I mentioned <a href="http://ray.camdenfamily.com/index.cfm/2005/7/15/Galleon-134-Released">before</a>, I'm slowly upgrading Galleon to approach a good 2.0 release. Today I've released 1.3.5. There is only one new feature, however, as it took me a bit longer to get it ready then I thought.

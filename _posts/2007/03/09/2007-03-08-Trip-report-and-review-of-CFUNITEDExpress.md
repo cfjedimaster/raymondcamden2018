@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/09/Trip-report-and-review-of-CFUNITEDExpress
+guid: 1881
 ---
 
 So I know everyone wants to hear about what went wrong on my trip - but outside of arriving 4 hours late, my flight back went rather smoothly. I even got to see <i>Casino Royale</i> on the flight to Houston. (Although watching TV on a 6 inch screen sucks after being used to my monster TV at home.)

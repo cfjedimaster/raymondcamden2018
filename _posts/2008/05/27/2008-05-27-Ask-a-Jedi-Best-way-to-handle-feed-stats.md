@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2008/05/27/Ask-a-Jedi-Best-way-to-handle-feed-stats
+guid: 2843
 ---
 
 Che asks:

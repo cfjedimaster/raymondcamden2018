@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/07/16/Example-of-Ajaxbased-address-verification-with-ColdFusion-and-jQuery
+guid: 3880
 ---
 
 Earlier this month a reader asked about AJAX-based validation of addresses. I was able to find a few services, but none that were free. Turned out that my own CFUPS package (<a href="http://cfups.riaforge.org">riaforge link</a>) actually supported address verification. Unfortunately it was only at the city level. I discovered that UPS does support street level verification as well, but had a heck of a time getting it to work. Luckily <i>another</i> reader (and talk about coincidence), Shane Pitts, figured out the issue and sent in the new code. His modification was released to RIAForge today. At lunch, while trying not to pay attention to the iPhone(y) press conference, I wrote up a quick demo.

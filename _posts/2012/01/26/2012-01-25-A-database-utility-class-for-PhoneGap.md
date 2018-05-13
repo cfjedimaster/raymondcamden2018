@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/26/A-database-utility-class-for-PhoneGap
+guid: 4509
 ---
 
 I've done a few projects now that make use of PhoneGap's <a href="http://docs.phonegap.com/en/1.3.0/phonegap_storage_storage.md.html#Storage">database support</a>. Like most things in PhoneGap, it just plain works. But I've encountered a few things I thought could be done a bit easier, so I've built a simple utility class for my future projects. I thought I'd share it with folks and see if it would be useful for others.

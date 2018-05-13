@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/26/An-experiment-in-combining-JavaScript-and-CSS-Requests
+guid: 3791
 ---
 
 During Peter Farrell's cfObjective presentation on front end optimizations, one of the <b>many</b> tips he had involved minimizing the amount of HTTP requests your HTML makes. As a simple, and somewhat contrived example, consider the following HTML:

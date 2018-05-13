@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2005/09/16/Its-a-Revolution-No-Really
+guid: 781
 ---
 
 1up.com is carrying a story about the new <a href="http://www.1up.com/do/newsStory?cId=3143782">controller</a> for the Nintendo Revolution. If anyone had any doubts that Nintendo had finally lost their minds, this should settle it. The new controller is an uber remote-control, and is <i>supposed</i> to be intuitive and simple to use. I'm not convinced. Maybe I'm crazy, but I don't want a Revolution. I "grew up" with Nintendo and owned every system up to and including the 64. The 64 was nice, but it was apprent, even then, that Nintendo was just getting behind the times.

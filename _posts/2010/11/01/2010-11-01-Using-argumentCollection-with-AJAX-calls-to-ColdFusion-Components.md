@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2010/11/01/Using-argumentCollection-with-AJAX-calls-to-ColdFusion-Components
+guid: 3993
 ---
 
 Wow, this is a cool tip. I've had this in my queue to write about for a few weeks now but I was delayed due to MAX. Credit for this goes to <a href="http://www.stephenduncanjr.com/">Stephen Duncan Jr</a> - I'm just passing it along - and to be honest - it kinda seems obvious now - but it's certainly not something I've thought of before. I've said it before - but I'll say it again. <b>I love my readers.</b> 

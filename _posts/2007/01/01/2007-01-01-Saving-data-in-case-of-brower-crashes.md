@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/01/01/Saving-data-in-case-of-brower-crashes
+guid: 1743
 ---
 
 So a few days ago I posted a <a href="http://www.blogcfc.com/index.cfm/2006/12/31/Save-entry-data">question</a> on the BlogCFC blog about whether I should add "crash protection" to the BlogCFC entry editor. What did I mean by that? As much as I love Firefox, it isn't the most stable beast in the world. That wouldn't matter so much except that I tend to get a bit worried when writing a particularly long blog entry. In the past I've used Word to write long entries since I know Word will automatically save my text even if I forget to. While BlogCFC does support XML-RPC clients, none of them have really caught on with my writing style so I haven't been using them.

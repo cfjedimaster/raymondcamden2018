@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/11/Good-news-on-the-ORM-front
+guid: 3814
 ---
 
 I'm not sure how many of my readers subscribe to the <a href="http://groups.google.com/group/cf-orm-dev">cf-orm-dev</a> group, but I wanted to share some good news posted by Rupesh Kumar of Adobe. One of the most frustrating parts of ORM development is the lack of good error reporting in some situations. One of the worst culprits is the fact that a persistent CFC with an error will be ignored on startup. Rupesh said Adobe is working on improving this in the next update and specifically mentioned these fixes:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/08/23/Ask-a-Jedi-Dealing-with-an-incredibly-slow-query
+guid: 1489
 ---
 
 Jay asked an interesting question:

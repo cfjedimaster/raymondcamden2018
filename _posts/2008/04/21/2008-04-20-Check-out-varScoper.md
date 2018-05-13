@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/21/Check-out-varScoper
+guid: 2779
 ---
 
 One of the things you've probably heard me say about a thousand times is to be sure to properly var scope your CFC methods and UDFs. It's one of those 'rules' that us bloggers like to repeat so many times it sounds like a mantra. (I'm waiting for the Var Scope YouTube song to launch.) At my current job (working with Sean as a contractor at <a href="http://broadchoice.com/">Broadchoice</a>) I've been lucky to be exposed to some cool tools that I've never worked with much before, like ColdSpring and Transfer. Another tool I've recently played with is <a href="http://varscoper.riaforge.org">varScoper</a>. This tool will scan a directory of files and look for un-var-scoped variables. Imagine my surprise when it discovered more than one missing var statement in my own code. Not that I'm perfect of course, but I was really impressed with how quickly the tool dug up the issues. It creates a nice HTML based report (it has other formats as well) that is easy to work with. (See screen shot <a href="http://varscoper.riaforge.org/screenshots/varscoperScreen1.gif">here</a>.)

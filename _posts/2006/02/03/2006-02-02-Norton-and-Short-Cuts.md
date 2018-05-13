@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/02/03/Norton-and-Short-Cuts
+guid: 1074
 ---
 
 The last two times I've rebooted my machine, I've gotten an odd error from Norton AntiVirus:

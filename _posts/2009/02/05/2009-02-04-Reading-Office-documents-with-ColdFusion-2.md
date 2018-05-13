@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/05/Reading-Office-documents-with-ColdFusion-2
+guid: 3223
 ---
 
 Yesterday I wrote a <a href="http://www.raymondcamden.com/index.cfm/2009/2/4/Reading-Office-documents-with-ColdFusion">blog entry</a> on reading Microsoft Office documents with ColdFusion, Apache POI, and JavaLoader. One of the commenters, Leah, shared some code that made use of the latest beta of POI. This makes the reading quite a bit simpler. I had tried this myself but ran into trouble. Thanks to Leah, I'm now able to demonstrate a new version that is quite a bit simpler.

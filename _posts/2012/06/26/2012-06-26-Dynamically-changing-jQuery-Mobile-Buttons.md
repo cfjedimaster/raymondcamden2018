@@ -6,6 +6,7 @@ categories: [development,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/06/26/Dynamically-changing-jQuery-Mobile-Buttons
+guid: 4659
 ---
 
 Filed in the "In case you need to know" department, jQuery Mobile provides a <a href="http://jquerymobile.com/demos/1.1.0/docs/buttons/buttons-options.html">basic API</a> that allows you to modify buttons. This is more useful for creating <i>new</i> buttons, but also has uses for existing buttons. Specifically, I was looking for a way to swap out the theme of a button in a form based on what had been entered. Here is a simple example of this API in action:

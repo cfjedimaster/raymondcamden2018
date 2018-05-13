@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/29/More-on-the-Ajax-changes-to-Lighthouse-Pro
+guid: 3034
 ---
 
 Earlier today I released the <a href="http://www.raymondcamden.com/index.cfm/2008/9/28/Lighthouse-Pro-25-Beta">beta for Lighthouse Pro 2.5</a>. I mentioned I'd follow up with some details on the Ajax and ColdSpring changes. First up is more information about the Ajax changes.

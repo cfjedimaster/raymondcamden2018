@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/14/Building-a-Twitter-Report-in-ColdFusion
+guid: 3524
 ---
 
 For a while now I've made use of a service called <a href="http://www.twilert.com">Twilert</a>. The site has one simple purpose. It allows you to create Twitter search profiles and

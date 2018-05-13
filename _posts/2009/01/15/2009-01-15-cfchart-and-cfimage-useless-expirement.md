@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/15/cfchart-and-cfimage-useless-expirement
+guid: 3195
 ---
 
 So after my <a href="http://www.raymondcamden.com/index.cfm/2009/1/14/Ask-a-Jedi-Emailing-CFCHART">last post</a> on embedding cfchart in email, I've been playing with cfchart and image functions. The ability to create an image out of cfchart isn't new, and we've got a butt load of new image functions in ColdFusion 8, so we should be able to mix the two up right? I whipped up a quick demo using <a href="http://imageutils.riaforge.org">imageUtils</a> from RIAForge and a simple chart:

@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2014/08/12/Presentation-tonight-on-Apache-Cordova
+guid: 5285
 ---
 
 <p>

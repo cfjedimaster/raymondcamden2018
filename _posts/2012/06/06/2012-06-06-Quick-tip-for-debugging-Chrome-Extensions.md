@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2012/06/06/Quick-tip-for-debugging-Chrome-Extensions
+guid: 4642
 ---
 
 I'm working on a new Chrome extension now (mainly as an excuse to avoid writing this article I'm supposed to turn in), and ran into an interesting problem. I was making use of console.log to debug the extension and noticed it didn't show up in the main console. I figured that made some sense. A user may have a bunch of extensions and you wouldn't want them adding noise to your console. However, I saw examples of extensions that made use of the console so I figured they had to show up somewhere. 

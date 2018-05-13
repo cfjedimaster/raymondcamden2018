@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/06/13/Using-Errorception-with-PhoneGap
+guid: 4959
 ---
 
 I thought I had blogged about <a href="http://www.errorception.com">Errorception</a> before, but unless my search engine skills are failing me I must not have ever gotten around to it. Errorception is a service that aggregates and reports on client-side errors on your web site. By placing a simple embed in your HTML code, all errors will be sent off to their service for your perusal. When I first tested this service, I remember thinking, glibly, that I hope I'd get enough data points to make it worthwhile to demonstrate. I mean, my blog runs well, I never see any errors myself, so I just kinda assumed everything was good. Heh.

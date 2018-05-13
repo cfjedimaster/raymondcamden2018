@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/09/21/Couple-of-Adobe-AIR-announcements-and-a-reminder
+guid: 4370
 ---
 
 Today we published a few new Adobe AIR articles that I think my readers may be interested in:

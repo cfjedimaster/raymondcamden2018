@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/10/Example-of-serverbased-login-with-PhoneGap
+guid: 4427
 ---
 
 **I got a comment about a few things on this blog post and thought I'd do a quick edit. First, when I wrote this, I just assumed anyone doing a login request would be hitting a https server. My code shows hitting a http server because at the time, that's how my blog was hosted, but I assumed people running this code in production wouldn't do that. That was wrong. So to be clear, you should be logging in to something on https only. I'm changing the code to reflect that, even though the demo itself isn't online. Secondly - I mentioned in the article how I was unsure that storing credentials in LocalStorage was a good idea. I definitely do not think it is now. I'd look at the Secure Storage wrapper I blogged about last year: [Working with Ionic Native - Using Secure Storage](https://www.raymondcamden.com/2016/08/16/working-with-ionic-native-using-secure-storage)** 

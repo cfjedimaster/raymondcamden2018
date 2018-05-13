@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/05/04/Best-Photoshop-Content-Aware-Demo-Ever
+guid: 3803
 ---
 
 Take one broken image:

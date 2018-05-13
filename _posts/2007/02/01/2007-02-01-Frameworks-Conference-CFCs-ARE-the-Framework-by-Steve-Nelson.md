@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/01/Frameworks-Conference-CFCs-ARE-the-Framework-by-Steve-Nelson
+guid: 1810
 ---
 
 CFCs ARE the Framework, by Steve Nelson

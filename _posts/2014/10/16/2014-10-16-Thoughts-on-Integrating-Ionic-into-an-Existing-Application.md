@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2014/10/16/Thoughts-on-Integrating-Ionic-into-an-Existing-Application
+guid: 5335
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion,flex]
 tags: []
 banner_image: 
 permalink: /2009/04/19/Have-you-installed-BlazeDS-with-ColdFusion
+guid: 3321
 ---
 
 I'm trying to get BlazeDS working with ColdFusion. I plan to eventually do it to a Windows server, but for now, I'm working locally on my Mac. I have no need for Livecycle to work, I'm happy with completely changing it to BlazeDS. I was happy to find a complete install guide for Blaze and CF <a href="http://opensource.adobe.com/wiki/display/blazeds/Installation+Guide?showComments=false#InstallationGuide-IntegratingBlazeDSwithaColdFusion8installation">here</a>.

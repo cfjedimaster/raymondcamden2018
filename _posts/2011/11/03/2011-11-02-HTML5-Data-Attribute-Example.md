@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/03/HTML5-Data-Attribute-Example
+guid: 4419
 ---
 
 My readers are probably sick and tired of me gushing over data attributes, and for that, I apologize. I'm just a huge fan of <i>practical</i>, useful solutions, and no, I'm not going to use this as opportunity to complain about how silly Canvas is again. Rather, I thought I'd whip up another simple example of how you can make use of data attributes in your shiny Ajax-enabled web sites.

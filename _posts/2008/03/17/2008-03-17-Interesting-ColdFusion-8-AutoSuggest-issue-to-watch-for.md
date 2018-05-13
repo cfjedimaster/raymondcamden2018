@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/17/Interesting-ColdFusion-8-AutoSuggest-issue-to-watch-for
+guid: 2711
 ---
 
 Thanks to Ed Tabara for pointing this out. If you type "1" in the search field at <a href="http://www.coldfusionbloggers.org">ColdFusion Bloggers</a>, you will get a JavaScript error:

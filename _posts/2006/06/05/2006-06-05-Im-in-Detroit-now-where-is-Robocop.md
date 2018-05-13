@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/06/05/Im-in-Detroit-now-where-is-Robocop
+guid: 1318
 ---
 
 I arrived in Detroit today around 5. This was after a rather uneventful set of flights, so imagine my surprise when I entered what can only be called the "Tube of Magic." This was a pedestrian walkway that had walls shimmering like magic while freaky New Age type music played in the background. It was like being in an acid trip. I did take some pictures on my camera phone, but don't have my USB cable with me. I cannot begin to describe this thing. It was like something out of a 70s drug trip. 

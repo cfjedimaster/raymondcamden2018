@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2012/08/22/Small-little-Adobe-Brackets-tweak-remove-Smart-Indent
+guid: 4710
 ---
 
 This may come as a shocker, but I'm <i>really</i> particular about my editor settings. I'm sure no one else is, but I get pretty darn picky about my editor and how it behaves. One issue I've had with <a href="https://github.com/adobe/brackets">Brackets</a> is a feature called "Smart Indent."

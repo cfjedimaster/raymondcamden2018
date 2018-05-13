@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/07/Using-AJAX-and-Server-Side-Search-2
+guid: 1948
 ---
 
 This morning I <a href="http://ray.camdenfamily.com/index.cfm/2007/4/7/Using-AJAX-and-Server-Side-Search">posted</a> a quick example of using AJAX with a server side search. I mentioned that one of the reasons to do so would be to employ more powerful searching technologies, like Verity. So I've put my money where my mouth is (money, is someone getting money?) and built a quick demo.

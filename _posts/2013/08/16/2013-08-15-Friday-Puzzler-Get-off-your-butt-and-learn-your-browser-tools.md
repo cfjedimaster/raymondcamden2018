@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/08/16/Friday-Puzzler-Get-off-your-butt-and-learn-your-browser-tools
+guid: 5009
 ---
 
 Ok, pardon the link-bait title. If you are a regular reader of this blog you know that on some Fridays I do a simple puzzler. This is a coding challenge that - typically - only requires about 5 minutes to solve. Today I've decided to do something a bit different. Maybe it will work - maybe it won't. 

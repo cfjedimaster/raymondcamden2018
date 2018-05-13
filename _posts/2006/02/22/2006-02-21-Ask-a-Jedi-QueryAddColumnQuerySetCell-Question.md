@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/22/Ask-a-Jedi-QueryAddColumnQuerySetCell-Question
+guid: 1117
 ---
 
 A reader asks:

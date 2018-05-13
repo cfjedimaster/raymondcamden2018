@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/02/25/Welcome-to-RaymondCamdencom-2013
+guid: 4864
 ---
 
 A few weeks ago I <a href="http://www.raymondcamden.com/index.cfm/2013/2/12/Ten-Years-Ago-Today">warned</a> you that I'd be updating the site with a new design, and this weekend I deployed it. For the most part everything should work the same, but if you encounter any bugs or other problems, let me know.

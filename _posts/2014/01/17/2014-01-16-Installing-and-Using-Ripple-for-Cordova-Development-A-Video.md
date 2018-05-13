@@ -6,6 +6,7 @@ categories: [development,html5,mobile]
 tags: []
 banner_image: 
 permalink: /2014/01/17/Installing-and-Using-Ripple-for-Cordova-Development-A-Video
+guid: 5129
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/09/24/CFYahoo-Updated
+guid: 3540
 ---
 
 Just a quick note that I spent some time at lunch looking at my <a href="http://cfyahoo.riaforge.org">CFYahoo</a> package. Now that Yahoo has put the <a href="http://developer.yahoo.com/coldfusion/">ColdFusion Dev Center</a> back up, I knew that I'd need to look at my CFCs. I created a backup of the current CFC package and took a look specifically at search support. It had changed quite a bit so I rewrote the CFC. Luckily Yahoo's APIs are still stupid-easy to use so this wasn't a big deal. I've decided to go ahead and update the release with new code for: Search and Weather. The other services will be upgraded over time. The package now requires ColdFusion 8. Just in case folks are curious - this is how easy it is to use the API:

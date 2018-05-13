@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/01/26/Update-to-my-Pie-chart-with-lots-of-data-post
+guid: 4094
 ---
 
 Two days ago I wrote about a <a href="http://www.raymondcamden.com/index.cfm/2011/1/24/Ask-a-Jedi-ColdFusion-Pie-chart-with-lots-of-data">pie chart</a> that had too much data. As you can see in the blog post, the amount of data and size of the pie chart causes the labels to run in together. It's also just a bit too much for a pie. As one commenter said, a bar char would be better, or as another said, it may make sense to combine some of the smaller slices into an "Other" slice. In this post I do exactly that. Given a random query I'm going to see if I have too many data points and if so - I'll combine them into a new slice called Other. I'm going to begin with the assumption that q, our query, already exists. At the very end of the blog post I'll put up the entire code template in case you want to try this yourself.

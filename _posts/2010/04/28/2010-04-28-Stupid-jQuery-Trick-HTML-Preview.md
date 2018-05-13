@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2010/04/28/Stupid-jQuery-Trick-HTML-Preview
+guid: 3795
 ---
 
 This came up in an earlier conversation today, and I don't think it's something anyone would actually use, but I love how simple it is and - well, it's kinda cool too. And stupid. (Which means it was fun to write.) So what in the heck am I talking about? Imagine you give a textarea field for your client to enter text into. You trust them with HTML, but don't want to bother with a rich text area. It would be nice to give them the ability to see their code while they type. Here's a quickie jQuery solution for this.

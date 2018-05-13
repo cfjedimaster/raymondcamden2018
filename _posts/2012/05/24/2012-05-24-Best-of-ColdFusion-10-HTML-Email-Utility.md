@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2012/05/24/Best-of-ColdFusion-10-HTML-Email-Utility
+guid: 4628
 ---
 
 Welcome to the first installment of my reviews of entries in the <a href="http://www.raymondcamden.com/index.cfm/2012/2/29/Best-of-Adobe-ColdFusion-10-Beta-Contest">Best of ColdFusion 10</a> contest. If you attended cfObjective last week, then you know this ended up as a good news/bad news type situation. The number of entries were relatively low - 4. The quality of the entries though were high. Personally - I do these contests because I love to see what people build. It's fun. So no matter how many people find the time to participate, I consider it a net win for all of us. With that out of the way, let's look at our first entry, the HTML Email Utility by some dude named <a href="http://www.bennadel.com/">Ben Nadel</a>.

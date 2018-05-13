@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/12/15/a-quick-message-for-the-coldfusion-community
+guid: 5452
 ---
 
 You've been warned - this video has no educational value.

@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/06/02/Real-time-textual-analysis-via-OpenAmplify
+guid: 4255
 ---
 
 I've blogged before (see related entries below) about the coolness that is <a href="http://www.openamplify.com/">OpenAmplify</a>. OpenAmplify provides an APi that does deep language parsing. It's not perfect of course - but in my testing it can be eerily spot on. In my previous blog entry on the topic I talked about how to use it via ColdFusion. You could imagine using OpenAmplify as a nightly task to scan the user generated content on your site and provide statistics on the general mood as well as topics covered in your discussions. For a site getting <i>lots</i> of dynamic content from their community, that could be vital. What I discovered this week though that is OpenAmplify also provides a JavaScript API. Here is a simple demo I created that uses their API, along with jQuery, to provide contextual analysis <i>while you type</i>. This could get annoying on a real forum perhaps, but it's kinda cool here. 

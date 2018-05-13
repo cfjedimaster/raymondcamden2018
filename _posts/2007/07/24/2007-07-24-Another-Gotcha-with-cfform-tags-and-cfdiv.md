@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/24/Another-Gotcha-with-cfform-tags-and-cfdiv
+guid: 2215
 ---
 
 Here is another "Gotcha" you want to watch out for. Some of this applies to ColdFusion 7 and earlier while obviously the cfdiv reference is for ColdFusion 8 only.

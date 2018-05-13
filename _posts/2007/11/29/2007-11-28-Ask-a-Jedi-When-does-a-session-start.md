@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/11/29/Ask-a-Jedi-When-does-a-session-start
+guid: 2503
 ---
 
 Darren asks:

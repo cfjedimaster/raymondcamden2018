@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/02/Useless-but-cool-link-Steampunk-Star-Wars
+guid: 1874
 ---
 
 The title says it all, my friend just sent me this link and I think it's one of the coolest things I've seen in a while:

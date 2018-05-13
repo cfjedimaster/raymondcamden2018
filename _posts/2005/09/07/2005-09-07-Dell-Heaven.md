@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/09/07/Dell-Heaven
+guid: 757
 ---
 
 Can this be my last Dell Hell post? On Tuesday morning I emailed Dell, since I still can't make long distance phone calls. I can receive them, just not make them. Anyway, I emailed Dell about replacing the battery. First I got an email saying I could return it. I said I wanted to exchange it. Dell said I could only exchange it for the same product. I said that's what I meant. 

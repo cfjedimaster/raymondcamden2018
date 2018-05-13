@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/11/01/Spry-builtin-variables-for-Datasets
+guid: 1628
 ---
 
 This is mainly for my own reference - but as I always have trouble finding it - I thought I'd share. When working with Spry datasets, you have access to both the data in the set (obviously) as well as a set of built-in variables prefixed by ds_. The variables you can use:

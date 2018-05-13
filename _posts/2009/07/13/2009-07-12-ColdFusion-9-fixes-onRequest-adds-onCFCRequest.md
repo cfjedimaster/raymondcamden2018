@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/13/ColdFusion-9-fixes-onRequest-adds-onCFCRequest
+guid: 3435
 ---
 
 The title kind of says it all. Most people have heard, or unfortunately ran into, the issue with Application.cfc and onRequest when used for Ajax or Flash Remoting calls. It just plain doesn't work. You don't get a nice error either and if you haven't heard of this bug, your going to be quite confused.

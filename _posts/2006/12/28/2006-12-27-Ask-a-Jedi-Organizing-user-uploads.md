@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/12/28/Ask-a-Jedi-Organizing-user-uploads
+guid: 1738
 ---
 
 I haven't done the "Ask a Jedi" thing for a while, but it is time for it to return. For those who don't remember what this is - it is simply me responding to user questions on the blog. As a general warning, if you email me with a question, I may respond on the blog instead of email, so be sure to check both. (Although I never share the full name of the person who wrote me.)

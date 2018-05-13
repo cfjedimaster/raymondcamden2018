@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/04/Another-CFLOGJSON-Tip
+guid: 3960
 ---
 
 Almost a year ago I <a href="http://www.raymondcamden.com/index.cfm/2009/11/19/Quick-Tip--CFLOG-and-JSON">blogged</a> about how I like to use a combination of cflog and serializeJSON as a way to quickly log complex data. I've often said I'm a "log every single darn thing" type of debugger. It may be messy - but it is my preferred way to see what's going on in my ColdFusion application. Last week I found another interesting use for this technique.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2013/01/24/TechLive-Presentation-HTML5-Storage
+guid: 4838
 ---
 
 I blogged earlier this month about my speaking engagements, but I thought a reminder would be nice. In one hour I'll be presenting (over Adobe Connect) on HTML5 Storage techniques. Free and open to everyone!

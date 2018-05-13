@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: [ionic]
 banner_image: 
 permalink: /2015/09/28/switching-platforms-with-ionic-serve
+guid: 6821
 ---
 
 Yesterday a question came up in an Ionic session I was attending involving <code>ionic serve</code> and platforms. When you use <code>ionic serve</code>, it will fire up the project in your Chrome browser. You may not be aware of it, but by default it uses the iOS CSS styles. This becomes more obvious when you use the lab option. Here is the tabs template by itself:

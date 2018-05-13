@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/01/MAX-Keynote-Notes
+guid: 2383
 ---
 
 Keynote notes:

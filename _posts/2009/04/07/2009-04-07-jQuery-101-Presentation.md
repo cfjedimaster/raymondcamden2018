@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/04/07/jQuery-101-Presentation
+guid: 3306
 ---
 
 I just wrapped up my presentation on jQuery to the Alamo Area ColdFusion User Group. For a first run through, I think it went well. I've tried like heck to give new presentations this year, and this was one of two brand new presentations in the next 8 days. I had a bit too much material for the time allotted, so you will see me skip around a bit towards the end to wrap early. Also - I got some feedback saying I should maybe spend more time explaining what jQuery is up front. All excellent feedback. The first time giving a presentation can be both scary and educational as well. So thank you again to the Alamo!

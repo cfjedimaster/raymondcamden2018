@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2013/02/08/PhoneGap-240-Released
+guid: 4850
 ---
 
 The title pretty much says it all. PhoneGap 2.4.0 was released today. You can read the official blog entry on it here: <a href="http://phonegap.com/blog/2013/02/07/phonegap-240/">PhoneGap 2.4.0 Released</a>.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/05/22/Is-this-surveillance-overkill
+guid: 3367
 ---
 
 A few weeks ago I noticed a few utility trucks working at an intersection I drive through quite often. I thought maybe it was related to the fiber optic push the city is making (way cool, super high speed acces, more info at <a href="http://www.lusfiber.org/">LUSFiber.org</a>), or perhaps red light cameras...

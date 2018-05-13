@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/10/26/ColdFusion-Summit-2013
+guid: 5069
 ---
 
 <p>

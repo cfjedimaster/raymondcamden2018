@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/14/New-version-of-Lighthouse-Pro-Need-Testers
+guid: 3394
 ---
 
 Hey folks, today I'm releasing the beta of a new version of Lighthouse Pro (you can find the released version <a href="http://lighthousepro.riaforge.org/">here</a>). This is not a big update in terms of functionality, but it is a complete rewrite to support Model-Glue 3 (see note at the end!). In general this is good to go, but I'd like folks to give it a test drive before I release it. Before downloading/testing, please read the following.

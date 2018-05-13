@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/06/Building-CRUD-with-Transfer-2
+guid: 3088
 ---
 
 I'm a bit late in finishing up the next part of my Transfer series (I blame Fable 2 - it kept me up till 2AM!), but if you remember the <a href="http://www.raymondcamden.com/index.cfm/2008/11/5/Building-CRUD-with-Transfer">last entry</a>, I discussed how to create, update (save), delete, and get data using Transfer. I also showed how Transfer creates a CFC based on the XML definition we created for our Employees. This is really everything we need to build a simple employee editor, except for one piece - getting a list of employees.

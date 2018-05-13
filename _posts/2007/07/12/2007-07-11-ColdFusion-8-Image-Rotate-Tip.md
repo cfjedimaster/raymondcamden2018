@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/12/ColdFusion-8-Image-Rotate-Tip
+guid: 2190
 ---
 
 I was playing with image rotation last night (I know, call me Mr. Excitement), and I found an interesting issue. Consider this code:

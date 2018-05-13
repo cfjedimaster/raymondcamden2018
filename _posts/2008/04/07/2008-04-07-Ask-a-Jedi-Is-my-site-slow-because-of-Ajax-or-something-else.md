@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/07/Ask-a-Jedi-Is-my-site-slow-because-of-Ajax-or-something-else
+guid: 2755
 ---
 
 Paul asks:

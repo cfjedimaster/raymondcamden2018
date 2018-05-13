@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/06/14/example-of-a-dynamic-html5-datalist-control
+guid: 4650
 ---
 
 I've made no secret of being a huge fan of the updates to forms within HTML5. One of the more interesting updates is the <a href="https://developer.mozilla.org/en/HTML/Element/datalist">datalist</a> control. This control gives you basic autocomplete support for an input field. At its simplest, you create the datalist control options, tie it to a control, and when the user types, they see items that match your initial list. Consider this example.

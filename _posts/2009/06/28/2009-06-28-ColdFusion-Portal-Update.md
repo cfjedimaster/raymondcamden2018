@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/28/ColdFusion-Portal-Update
+guid: 3412
 ---
 
 Just a quick note to let folks know that I've updated the <a href="http://www.coldfusionportal.org/">ColdFusion Resource Portal</a>. I don't think folks visit this site very often. I created it mainly because I had trouble finding things on the Adobe site. I noticed how well Flex.org organized important links for Flex dev so I created a similar set of links for the CF portal. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/07/23/Embedded-CFCHART-in-Flash-Forms-Part-3
+guid: 643
 ---
 
 In my previous posts (<a href="http://ray.camdenfamily.com/index.cfm/2005/7/19/Embedded-CFCHART-in-Flash-Forms">Part 1</a> and <a href="http://ray.camdenfamily.com/index.cfm/2005/7/21/Embedded-CFCHART-in-Flash-Forms-Part-Deux">Part Two</a>), I talked about how a chart can be embedded in Flash Forms. While it isn't exactly straight forward, it isn't too difficult either. 

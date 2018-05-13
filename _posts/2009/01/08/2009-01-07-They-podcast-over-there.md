@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/01/08/They-podcast-over-there
+guid: 3184
 ---
 
 I'm a bit late in noticing this, but <a href="http://www.markdrew.co.uk/blog/">Mark Drew</a> reminded me this morning about a podcast put out by the UKCFUG:

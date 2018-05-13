@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/03/03/Adding-an-ADD-button-for-cfgrid-Part-Deux
+guid: 2687
 ---
 
 Earlier today I <a href="http://www.raymondcamden.com/index.cfm/2008/3/3/Adding-an-ADD-button-for-cfgrid">blogged</a> an example of adding a button to a CFGRID control. A few readers asked I complete the example by hooking up the code to a back end CFC. Here is a simple example of how to do that. First off - be sure to read the <a href="http://www.coldfusionjedi.com/index.cfm/2008/3/3/Adding-an-ADD-button-for-cfgrid">first entry</a> so you understand where these code blocks fit in the total picture.

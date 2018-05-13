@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/11/24/Geek-versus-Jock-Update
+guid: 1673
 ---
 
 Kevin sent me this link a few days ago:

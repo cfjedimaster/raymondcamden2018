@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/09/24/Tracking-application-usage-with-Flex-Mobile
+guid: 4373
 ---
 
 On a web site, with good analytic software, it's possible to get estimates for how long the average user spends on your site. This week I was thinking about how one could do the same with a mobile application. In theory, it should be possible to get a precise figure. You know when your application starts and you know when it ends. Therefore, I just need to write the code to handle those events and persist the data somehow. I worked up a few examples here and I welcome any comments on them. I'd <i>especially</i> like to know if anyone is actually doing something like this with their apps now.

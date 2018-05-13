@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/08/04/MockData-CFC-Released
+guid: 5281
 ---
 
 <p>

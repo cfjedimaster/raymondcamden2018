@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/04/Site-Updates-Random-Notes
+guid: 2090
 ---
 
 A few random notes on my web sites. First off, the <a href="http://www.coldfusioncookbook.com">ColdFusion Cookbook</a> has an issue generating the PDF. So for now it is turned off.

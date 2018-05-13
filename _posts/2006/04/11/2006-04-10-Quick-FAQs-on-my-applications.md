@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/11/Quick-FAQs-on-my-applications
+guid: 1202
 ---
 
 I see a few common question asked about my <a href="http://ray.camdenfamily.com/projects/projects.cfm">applications</a> almost every week, so I thought I'd write a quick post to answer them.

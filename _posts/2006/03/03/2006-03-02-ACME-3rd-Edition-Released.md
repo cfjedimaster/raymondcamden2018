@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/03/ACME-3rd-Edition-Released
+guid: 1135
 ---
 
 The third edition of the <a href="http://www.stephencollins.org/acme/">ACME Guide</a> was released by Stephen Collins this week. If you already tried to download it and had problems (as I did), the download is now properly fixed.  For those who don't know about the guide and missed my earlier raves, the ACME Guide is a book that helps you transform a new machine into the perfect ColdFusion development box. It walks you through the set up of the web server, database server, ColdFusion, an editor, and source control as well.

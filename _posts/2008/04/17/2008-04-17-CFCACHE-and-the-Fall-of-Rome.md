@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/17/CFCACHE-and-the-Fall-of-Rome
+guid: 2775
 ---
 
 I'm not a huge fan of the CFCACHE tag. It's a blunt instrument and I wish CF would natively roll in a nicer caching system (like, oh say, <a href="http://scopecache.riaforge.org">ScopeCache</a>, not that I'm biased or anything). A user wrote in with a question about CFCACHE. Turns out that when you use cfcache, it outputs a HTML comment before the text which can totally break some browsers.

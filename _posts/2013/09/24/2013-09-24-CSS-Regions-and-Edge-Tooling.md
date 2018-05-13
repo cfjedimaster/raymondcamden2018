@@ -6,6 +6,7 @@ categories: [design,development,html5,mobile]
 tags: []
 banner_image: 
 permalink: /2013/09/24/CSS-Regions-and-Edge-Tooling
+guid: 5046
 ---
 
 <p>

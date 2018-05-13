@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/13/A-few-simple-and-harmless-ColdFusion-mistakes
+guid: 4264
 ---
 
 This has been sitting in my "To Do" pile for a while and this morning <a href="http://www.boyzoid.com">Scott Stroz</a> added a suggestion to help me complete this post. What are a few mistakes that ColdFusion programmers tend to make that are - for the most part - harmless? Here's a quick list, along with fixes, and as always, if my readers have some other suggestions, leave a comment.

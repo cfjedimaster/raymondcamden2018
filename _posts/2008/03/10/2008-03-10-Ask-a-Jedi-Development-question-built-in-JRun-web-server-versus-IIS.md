@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2008/03/10/Ask-a-Jedi-Development-question-built-in-JRun-web-server-versus-IIS
+guid: 2699
 ---
 
 Paul asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/01/16/ColdFusion-8-Image-functions-and-text-size
+guid: 2597
 ---
 
 One of the things that I've been curious about for a while now is if there was a way to determine the <i>graphical</i> size of text when drawing in ColdFusion 8. Why would you need to care about that? While ColdFusion 8 lets you easily draw text on an image, there is no easy way to center it. In order to center it, you need to know the size of the text. Today in CF-TALK this issue came up in a <a href="http://www.houseoffusion.com/groups/cf-talk/thread.cfm/threadid:54828#296562">thread</a>.

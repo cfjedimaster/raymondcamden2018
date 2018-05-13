@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/13/New-article-on-DevNet
+guid: 1149
 ---
 
 My "summary" article on the last ColdFusion contest is now up on DevNet:

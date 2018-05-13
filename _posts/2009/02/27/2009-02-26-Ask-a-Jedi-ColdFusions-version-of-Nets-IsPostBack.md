@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/27/Ask-a-Jedi-ColdFusions-version-of-Nets-IsPostBack
+guid: 3256
 ---
 
 Andrew asks:

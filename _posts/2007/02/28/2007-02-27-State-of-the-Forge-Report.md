@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/28/State-of-the-Forge-Report
+guid: 1867
 ---
 
 Welcome to my first "State of the Forge" report - a simple update on the latest stats at <a href="http://www.riaforge.org">RIAForge</a>. I plan on doing this at the end of every month to keep folks in the know about how the site is doing. 

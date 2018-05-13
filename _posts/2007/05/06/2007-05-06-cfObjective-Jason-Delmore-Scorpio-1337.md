@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/05/06/cfObjective-Jason-Delmore-Scorpio-1337
+guid: 2011
 ---
 
 Again, pardon the haphazard nature of these notes.

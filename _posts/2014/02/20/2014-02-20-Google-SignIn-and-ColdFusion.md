@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2014/02/20/Google-SignIn-and-ColdFusion
+guid: 5158
 ---
 
 <p>

@@ -6,6 +6,7 @@ categories: [flex]
 tags: []
 banner_image: 
 permalink: /2006/11/22/Modified-version-of-Zoids-custom-combo-box-to-allow-preselected-value
+guid: 1671
 ---
 
 Wow that title sounds complex. If you don't remember, a few hours ago I blogged about an <a href="http://www.boyzoid.com/blog/index.cfm/2006/11/22/Flex-Custom-Components-and-Custom-Methods">article</a> that Boyzoid wrote about how easy it was to do a custom component in Flex 2. His example added a new method to ComboBox, selectedItemByValue.

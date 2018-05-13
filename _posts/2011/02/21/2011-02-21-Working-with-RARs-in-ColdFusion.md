@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/21/Working-with-RARs-in-ColdFusion
+guid: 4131
 ---
 
 I've been meaning to look at RAR files and ColdFusion for some time, mainly as a way to work with CBR files (these are digital comic books stored in RAR format). Unfortunately, ColdFusion's built in Zip functionality only works with Zip and JAR files. After some Googling for a Java based solution, I was only available to find a good RAR list program. I was not able to find anything that would actually list as well as extract files from a RAR file. I decided to tackle the solution via another route - cfexecute. Here is what I came up with.

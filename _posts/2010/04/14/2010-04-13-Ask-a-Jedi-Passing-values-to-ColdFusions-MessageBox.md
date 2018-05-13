@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/04/14/Ask-a-Jedi-Passing-values-to-ColdFusions-MessageBox
+guid: 3781
 ---
 
 Richard asks:

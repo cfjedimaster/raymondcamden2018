@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/09/Using-ColdFusion-to-find-the-RSS-URL-from-a-web-site
+guid: 4049
 ---
 
 Many web sites now include a simple way to autodiscover the RSS feed for the site. This is done via a simple LINK tag and is supported by all the modern browsers. You should see - for example - a RSS icon in the address bar at this blog because I have the following HTML in my HEAD block:

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/02/19/my-experiences-with-google-compute-engine
+guid: 5709
 ---
 
 A while ago I promised I'd write up my experiences working with <a href="https://cloud.google.com/compute/">Google Compute Engine</a>. As my readers know, I've been suffering with some uptime issues here (which I do <strong>not blame</strong> on the platform, just my inexperience) and I was waiting until I got that 100% nailed down, but since I'm still working my way towards a final solution, I thought I'd take some time to write up what it was like to use Google Compute Engine (GCE).

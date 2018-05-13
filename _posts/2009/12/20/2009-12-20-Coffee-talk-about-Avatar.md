@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2009/12/20/Coffee-talk-about-Avatar
+guid: 3657
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/Avatar-Teaser-Poster.jpg" align="left" title="Avatar" style="margin-right:5px;margin-bottom:5px" /> I just got back from seeing Avatar, the latest film from James Cameron. I won't call this a review - just a smattering of thoughts - but I'd love to hear what others thought. Let's keep it spoiler free though. Overall, I thought it was a good film, a strong film, but not quite great. It tried real hard, but in the end, the story was lacking enough for me to keep it from being great.

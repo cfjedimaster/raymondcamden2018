@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/03/27/Building-a-simple-Days-Till-code-block-in-ColdFusion
+guid: 1923
 ---
 
 For the past few days I've been meaning to write up a simple example of how one would do a "There are X days till Christmas" type code block. It is <i>mostly</i> simple in ColdFusion so let's look at a quick example.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/06/22/Find-the-bug
+guid: 2143
 ---
 
 I was helping a user yesterday who ran into an odd problem. His CFC was using Application.DSN (which is another problem) and he kept getting an error that said Application.DSN didn't exist. He copied his line that defined Application.DSN and set it in the Request scope. When he updated the CFC to use the Request scope, it worked fine. What was the problem? Here is some code that simulates his Application.cfm. See if you can spot it before reading on....

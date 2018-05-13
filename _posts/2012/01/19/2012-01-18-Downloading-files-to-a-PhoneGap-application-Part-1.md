@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/19/Downloading-files-to-a-PhoneGap-application-Part-1
+guid: 4500
 ---
 
 For the past week or so I've been looking at file system access and downloads with PhoneGap. Before going any further, I want to warn folks that I'm still a bit fuzzy on the details here. It was a bit of a struggle to get this working right, and I plan to follow this entry up with a look at iOS and also how to get all platforms working right, but for now, consider this a first draft. I also want to give thanks to <a href="http://hi.im/simonmacdonald">Simon Mac Donald</a> for his help. Anything right here is thanks to him and anything wrong is my fault.

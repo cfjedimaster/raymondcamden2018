@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2006/03/30/review-elder-scrolls-iv-oblivion
+guid: 1179
 ---
 
 <iframe 

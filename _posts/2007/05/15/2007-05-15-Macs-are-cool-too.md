@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/05/15/Macs-are-cool-too
+guid: 2036
 ---
 
 So earlier today I <a href="http://ray.camdenfamily.com/index.cfm/2007/5/15/Coolest-Windows-Feature-Ever">ripped on Windows</a>, which, admittedly, isn't hard to do. But it is only fair that I give OS X some love as well. 

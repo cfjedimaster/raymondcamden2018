@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/06/08/Example-of-authentication-and-ColdFusion-10-WebSockets-2
+guid: 4644
 ---
 
 So last week I <a href="http://www.raymondcamden.com/index.cfm/2012/6/1/Examples-of-authentication-and-ColdFusion-10-WebSockets">wrote</a> a blog entry talking about how to add authentication to an application using WebSockets under ColdFusion 10. I discussed how there were two main ways of doing it. The previous entry discussed onWSAuthenticate, where authentication is done via JavaScript after the client has already viewed the page. In this entry I'll discuss the second mode, called "Single Sign On" mode.

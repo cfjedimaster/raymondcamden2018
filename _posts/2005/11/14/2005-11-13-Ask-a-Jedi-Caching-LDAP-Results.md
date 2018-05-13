@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/14/Ask-a-Jedi-Caching-LDAP-Results
+guid: 914
 ---
 
 A user asks:

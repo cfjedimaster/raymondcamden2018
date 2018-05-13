@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: [strongloop]
 banner_image: 
 permalink: /2015/10/28/a-quick-look-at-debugging-node-js-with-strongloop-and-visual-studio-code
+guid: 7013
 ---
 
 As I mentioned in my <a href="http://www.raymondcamden.com/2015/10/21/working-with-strongloop-part-four-locking-down-the-api">last entry</a> on StrongLoop, I've decided to move on from API building and begin looking at what else is available when working with <a href="http://www.strongloop.com">StrongLoop</a>. Today I'm going to talk about debugging, and while it mainly "just works", I ran into a few issues that I want to warn people about.

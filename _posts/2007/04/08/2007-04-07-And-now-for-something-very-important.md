@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/04/08/And-now-for-something-very-important
+guid: 1949
 ---
 
 Happy birthday to me<br />

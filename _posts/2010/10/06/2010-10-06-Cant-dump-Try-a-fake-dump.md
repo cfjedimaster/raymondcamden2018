@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/10/06/Cant-dump-Try-a-fake-dump
+guid: 3964
 ---
 
 Earlier today on Twitter @samhamilton and I shared a few messages about finding a replacement for cfdump. Apparently, some ColdFusion hosts lock down access to internal Java components which unfortunately breaks cfdump. He linked to <a href="http://forum.hostek.com/showthread.php?77-Do-you-support-the-CFDUMP-tag&highlight=">this forum posting</a> as an example. I wasn't able to replicate that on my ColdFusion 901 server so it may be an issue with 8 only. Either way I thought it would be fun to see if I could recreate cfdump quickly. I wrote the following tag in about 20 minutes (10 minutes for the initial version, then about 10 more minutes later on for small changes). It works best with arrays, structs, and queries, but will try to display a component as well. It also sniffs for JSON strings and will automatically deserialize them. The layout is - of course - not optimal. But it gets the job done. Here is a sample screen shot:

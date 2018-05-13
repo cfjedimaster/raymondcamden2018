@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2010/10/27/ColdFusion-Builder-2-Storm-Sneak-Peak
+guid: 3986
 ---
 
 Ram Kulkarni (Adobe) just presented on  ColdFusion Builder 2 ("Storm") at the ColdFusion Unconference. I tweeted quite a bit about it but I thought I'd wrap it up. <b>Please do not ask me for details.</b> If you don't see it listed here, I can't say anything more about it. Ok, here we go:

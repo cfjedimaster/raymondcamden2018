@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/12/20/Disabling-CFC-auto-documentation
+guid: 4059
 ---
 
 I shared a few emails back and forth with a reader last week who had an interesting problem. They had CFCs under web root that he did not want to be auto-described. If you don't know what I'm talking about, this is the feature within ColdFusion where if you request a CFC without a method you get a description of the methods and properties. This is normally protected by a login if your CF Administrator has either a normal or RDS password, as seen below.

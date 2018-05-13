@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/07/Ask-a-Jedi-CFCHART-Question
+guid: 2636
 ---
 
 Frank asks:

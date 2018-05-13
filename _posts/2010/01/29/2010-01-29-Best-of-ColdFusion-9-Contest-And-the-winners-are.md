@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/01/29/Best-of-ColdFusion-9-Contest-And-the-winners-are
+guid: 3704
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/bestcfcontest1.jpg" title="Best of ColdFusion 9" a style="float:left;margin-right:5px;margin-bottom:5px"/> So only 4-5 weeks after I said I would wrap things up, it is finally time to announce the winners of the "Best of ColdFusion 9" contest. Before I do so, I have a few things I want to say. 

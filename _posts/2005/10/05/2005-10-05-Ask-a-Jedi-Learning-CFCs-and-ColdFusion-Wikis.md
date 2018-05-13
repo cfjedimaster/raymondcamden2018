@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/10/05/Ask-a-Jedi-Learning-CFCs-and-ColdFusion-Wikis
+guid: 831
 ---
 
 Two short questions today. The first concerns CFC:

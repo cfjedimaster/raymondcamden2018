@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/30/Custom-rounding-in-ColdFusion
+guid: 3036
 ---
 
 Yesterday a friend asked an interesting question. Normal rounding is based on the rule we are familiar with. Anything decimal point that is 5 and higher will round up to the next number. So 11.5 becomes 12. My friend though had a client who wanted to change the rules. Instead of rounding on 5, they wanted to round on 4. So 11.4 would become 12. 11.39 would round down to 11. Sounded weird to me, but maybe that's what the Wall Street folks have been doing lately.

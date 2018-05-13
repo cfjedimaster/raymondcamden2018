@@ -6,6 +6,7 @@ categories: [development,mobile]
 tags: []
 banner_image: 
 permalink: /2013/03/28/Google-Analytics-and-PhoneGap
+guid: 4893
 ---
 
 <p>

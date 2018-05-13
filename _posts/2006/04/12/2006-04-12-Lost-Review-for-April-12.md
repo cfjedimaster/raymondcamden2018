@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/04/12/Lost-Review-for-April-12
+guid: 1206
 ---
 
 Another good episode and a minor mystery is now solved. The story involved the background of Bernard and Rose, the couple who were initially separated after the crash landing on the island. We saw how they meet and when Bernard asks Rose to marry him, she tells him that she only has a year to live.

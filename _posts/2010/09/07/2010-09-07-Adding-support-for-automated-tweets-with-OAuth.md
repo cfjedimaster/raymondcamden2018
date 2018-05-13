@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/09/07/Adding-support-for-automated-tweets-with-OAuth
+guid: 3934
 ---
 
 So, a few weeks ago Twitter replaced Basic Auth for OAuth in their APIs. I was aware of this of course, but it never occurred to me to worry about it as I don't actually work on a Twitter client myself. However, I forgot that one of my sites, <a href="http://www.coldfusionbloggers.org">CFBloggers.org</a>, makes use of the Twitter API to tweet new blog entries it aggregates. When I tweeted about this today I got a lot of recommendations, but for the most part, the advice, and the docs, focused on applications for <i>humans</i>. By that I mean, the assumption was that your Twitter automation was a tool that random users were using. The docs would explain how you could easily direct them to Twitter to authorize your application and how they would be sent back. That's great, but what about the case for Twitter bots? Nothing out there seemed to address that need. Luckily though I got some great help. In this blog post I'll explain exactly how I updated CFBloggers to post to Twitter. While this is a ColdFusion specific post it really could apply to anyone doing Twitter bots. Credit for this goes to Todd Rafferty, Vic Carter, and Rob O'Brien (and specifically his blog post here: <a href="http://blog.robobrien.com/integrating-twitter-and-oauth-with-coldfusion/">Integrating Twitter and OAuth with ColdFusion</a>)

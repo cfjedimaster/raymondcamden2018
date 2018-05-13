@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2011/05/26/When-is-it-proper-to-trycatch-versus-global-exception-handling
+guid: 4250
 ---
 
 Earlier today Seth (@CapedCoder) mentioned something on Twitter that I thought was a bit odd. He was looking for a way to disable try/catch functionality for dev versus production. Basically, "Don't try/catch in dev." This led to a few emails back and forth where I made the assertion that I thought he was using try/catch wrong. Not being the end all of things - and knowing I have smart people here - <b><i>and</i></b> knowing that this question was bigger than ColdFusion, I thought it would be a great topic of conversation for the blog. So - let's get to it.

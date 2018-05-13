@@ -6,6 +6,7 @@ categories: [development,javascript,mobile]
 tags: [cordova,ionic]
 banner_image: 
 permalink: /2015/11/05/cordova-demo-apple-tv-hd-video-viewer
+guid: 7068
 ---
 
 So a few days ago, someone on Twitter (sorry, I forget who) mentioned that the new Apple TV has some pretty stellar screen savers. Turns out - the data for those screen savers was all driven by a public JSON file. It didn't take long for someone to notice and then build a cool demo: <a href="http://benjaminmayo.co.uk/watch-all-the-apple-tv-aerial-video-screensavers">Watch All The Apple TV Aerial Video Screensavers</a>. You should check it out. Seriously. Absolutely beautiful stuff. 

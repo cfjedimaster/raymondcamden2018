@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/04/Ask-a-Jedi-Showing-error-details-on-a-dev-machine
+guid: 3133
 ---
 
 Brett asks:

@@ -6,6 +6,7 @@ categories: [video games]
 tags: []
 banner_image: 
 permalink: /2013/06/16/another-sunday-morning-megavideo-game-review
+guid: 4962
 ---
 
 It's been a while since I reviewed a video game on this blog so I thought I'd use today to catch you guys up with what I've been playing the last few months. As always, comments are welcome.

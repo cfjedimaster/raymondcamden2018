@@ -6,6 +6,7 @@ categories: [javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/02/02/Creating-a-highlightfadeout-text-effect-on-a-tag-cloud
+guid: 4516
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2012/2/1/Generate-a-tag-cloud-from-an-RSS-feed-with-ColdFusion">blogged</a> a simple example of how to turn an RSS feed into a tag cloud. Today reader JP <a href="http://www.raymondcamden.com/index.cfm/2012/2/1/Generate-a-tag-cloud-from-an-RSS-feed-with-ColdFusion#c8079B8DB-C5F3-1EEF-FC1B1A8B73029B38">commented</a> that it would be cool if I could mimic an effect he saw in a Flash based tag cloud. Basically, as you mouse over each word, they light up. Here's what I came up with.

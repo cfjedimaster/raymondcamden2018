@@ -6,6 +6,7 @@ categories: [flex,mobile]
 tags: []
 banner_image: 
 permalink: /2011/05/14/INeedIt-Simple-Flex-Mobile-example
+guid: 4231
 ---
 
 I've been wanting to get back into Flex Mobile ever since the release of Flash Builder 4.5. Now that it's out - and now that I'm past cfObjective, I thought I'd whip up a quick demo. I still need to - you know - actually read up the docs a bit. What follows is... rough... but when it works it's kinda cool and I think it's a cool idea. Flex users please feel free to rip me a new one and help me improve the code.

@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2007/05/02/How-do-you-handle-libraries-of-code-for-your-organization
+guid: 1996
 ---
 
 Open question - no right answer - a reader emailed me this morning with an interesting question. He wants to ensure his organization is properly reusing code. He needs a library to store custom tags, CFCs, and even non-ColdFusion stuff like SQL statements, etc. 

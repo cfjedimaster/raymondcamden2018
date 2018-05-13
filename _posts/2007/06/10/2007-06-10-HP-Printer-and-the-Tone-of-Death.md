@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/10/HP-Printer-and-the-Tone-of-Death
+guid: 2109
 ---
 
 Now this is a weird one. (It must be a week for hardware issues.) Last night we had a particularly violent storm roll through. At one point there was a bolt of lightning that either hit the house, or hit pretty darn close. I did a quick visual inspection (inside of course and peering through a window, I'm a big chicken when it comes to storms), and saw nothing amiss. After checking on my kids I then checked on my office. Nothing at all was wrong. Everything was working just fine.

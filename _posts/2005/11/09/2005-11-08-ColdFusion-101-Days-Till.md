@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/09/ColdFusion-101-Days-Till
+guid: 907
 ---
 
 Last night one of my clients asked a question that I thought would be great for a CF 101 posting. The question was - if I have an event on a certain date, how do I show the number of days till that event? Luckily ColdFusion makes this rather simple. You can use the <a href="http://livedocs.macromedia.com/coldfusion/7/htmldocs/00000440.htm#1103187">dateDiff()</a> function to return the number of days between today and the date of the event. Let's look at a simple example:

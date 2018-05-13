@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/11/11/Important-notes-about-ColdFusion-9s-new-multi-file-uploader
+guid: 3600
 ---
 
 <b>Note - the following applies to <i>any</i> multi file uploader - not just the one that ships with ColdFusion 9.</b> Earlier today I read a great <a href="http://www.adobe.com/devnet/coldfusion/articles/coldfusion9_uicontrols.html">article</a> by Dan Vega about some of the new UI controls in ColdFusion 9. One of them was the new multi file uploader. If you haven't had a chance to play with it, I highly encourage you take a quick look at the demos Dan uses in his article. Reading his article brought up some interesting things that I think people need to be aware of before making use of the control. I had a long talk with Dan about this, and unfortunately, the more we talked, the more we discovered that there are quite a few <b>non-trivial</b> things you need to concern yourself with before adding this feature to your site.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/26/Where-to-find-a-ColdFusion-Job
+guid: 1983
 ---
 
 I had a reader ping me yesterday about finding a job. He is in India and looking to telecommute. I sent a standard list of job sites, but I thought I'd open the discussion up and create a truly great list of places folks can go for ColdFusion work. Please add your comments and as you do, I'll edit this list for future reference. 

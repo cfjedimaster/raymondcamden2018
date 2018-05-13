@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2014/09/14/Video-My-top-features-of-ColdFusion-11
+guid: 5308
 ---
 
 <p>

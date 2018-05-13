@@ -6,6 +6,7 @@ categories: [adoption]
 tags: []
 banner_image: 
 permalink: /2009/08/11/South-Korea-closing-out-international-adoption
+guid: 3483
 ---
 
 So this is about as off topic as you can get, but I had to share. My wife sent the following article to me that I thought others may want to read as well: <a href="http://www.rainbowkids.com/ArticleDisplay.aspx?id=664">Korea Slowly Closes to Adoption</a> (I'm linking to the plain print format as it doesn't require a login.)

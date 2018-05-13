@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/05/Ask-a-Jedi-CFC-Results-to-PDFFlash-Paper
+guid: 899
 ---
 
 Thinman asks:

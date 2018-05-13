@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/15/Tip-Remove-some-but-not-all-HTML
+guid: 1335
 ---
 
 A friend pinged me yesterday with a problem. His site allowed folks to post content with HTML, and while in general this worked fine, some users were posting content with Flash. He wanted to prevent this from being added to the content.

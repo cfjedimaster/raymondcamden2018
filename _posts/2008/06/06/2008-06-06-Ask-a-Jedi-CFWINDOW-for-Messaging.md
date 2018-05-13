@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/06/06/Ask-a-Jedi-CFWINDOW-for-Messaging
+guid: 2866
 ---
 
 Anjorin asks:

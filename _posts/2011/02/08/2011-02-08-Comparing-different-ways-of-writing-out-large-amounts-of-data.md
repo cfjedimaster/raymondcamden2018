@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/02/08/Comparing-different-ways-of-writing-out-large-amounts-of-data
+guid: 4113
 ---
 
 Jeff sent me an interesting question last Friday involving writing out large amounts of data to a text file in ColdFusion. He had to read in thousands of files and append them to a single file. He was curious about what he could do to speed up this process. I wasn't really sure what to suggest - outside of making sure he used cfsetting requesttimeout to give his script time to process, but he wrote back and said he had some success using Java to write out the file data. This led me to do a bit of digging myself. I know that the new file functions (added in ColdFusion 8) made use of higher performing code behind the scenes. So for example, if you used cffile to read in a multi gigabyte file, than ColdFusion has to store all that data in RAM. But if you make use of fileOpen and fileReadLine, you can suck in parts of the file at a time. Shoot - you can even use fileSeek (in ColdFusion 9) to jump ahead. All of this works very well, but is focused on the <i>read</i> side of the equation. How about writing? I whipped up a simple test to see differently I could write to a file and how differently the approaches would perform.

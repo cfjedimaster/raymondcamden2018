@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/08/01/More-ModelGlue-Rumblings-Layouts-within-Layouts
+guid: 659
 ---
 
 As I continue to work on the new version of CFLib (and I promise this week I'll put the beta version up so folks can look at, and laugh at, my mistakes), I wanted to tackle a new problem that I was a bit unsure of how to handle.

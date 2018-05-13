@@ -6,6 +6,7 @@ categories: [coldfusion,jquery]
 tags: []
 banner_image: 
 permalink: /2009/03/11/Writing-a-JSONP-service-in-ColdFusion
+guid: 3272
 ---
 
 Earlier this week I blogged on JSONP (<a href="http://www.developria.com/2009/03/what-in-the-heck-is-jsonp-and.html">What in the heck is JSONP and why would you use it?</a>). If that terms means nothing to you, be sure to read that article first. I thought it might be useful to talk about how you could write a ColdFusion API to support JSONP (as a producer I mean, for other people to use your API).

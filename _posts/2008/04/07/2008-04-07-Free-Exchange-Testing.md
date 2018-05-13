@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/04/07/Free-Exchange-Testing
+guid: 2758
 ---
 
 Believe it or not - I think the one feature of ColdFusion 8 I haven't tested at all is the Microsoft Exchange functionality. It looked cool and all (check out Scott's <a href="http://www.adobe.com/devnet/coldfusion/articles/cfexchange.html">nice article</a> on the feature) but I had no way of testing it. Today I ran across this article:

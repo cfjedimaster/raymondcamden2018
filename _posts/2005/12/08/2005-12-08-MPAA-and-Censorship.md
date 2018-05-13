@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2005/12/08/MPAA-and-Censorship
+guid: 960
 ---
 
 I read an interesting <a href="http://www.aintitcool.com/display.cgi?id=21980">article</a> today over at <a href="http://www.aintitcool.com">Ain't It Cool News</a>, and since today seems to be <a href="http://ray.camdenfamily.com/index.cfm/2005/12/8/MP3-Downloading--Where-is-the-crime">OT</a> day, I figured I'd continue the trend. (Yes, I do blog about things besides ColdFusion and my kids. ;)

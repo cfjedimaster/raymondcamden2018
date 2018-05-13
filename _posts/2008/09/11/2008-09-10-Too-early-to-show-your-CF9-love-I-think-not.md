@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/11/Too-early-to-show-your-CF9-love-I-think-not
+guid: 3009
 ---
 
 The good folks at <a href="http://www.vertabase.com">Vertabase</a> are now selling ColdFusion 9 tee shirts over at <a href="http://www.centaurshirt.com/">CentaurShirt.com</a>. Check out this sexy dude:

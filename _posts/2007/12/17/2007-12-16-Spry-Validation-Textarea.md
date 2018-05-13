@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/12/17/Spry-Validation-Textarea
+guid: 2544
 ---
 
 It's been a while since I reviewed a Spry Validation example, so I thought I'd take a few minutes this morning to demonstrate another example - the Textarea validation. As with the other validation types (I've linked to my examples below), you begin by including a CSS and JavaScript library:

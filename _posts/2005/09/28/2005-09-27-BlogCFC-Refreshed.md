@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/09/28/BlogCFC-Refreshed
+guid: 815
 ---
 
 Ok, so I <i>really</i> need to get to work on my DRK application, but last night I updated the BlogCFC Alpha again. Changes are...

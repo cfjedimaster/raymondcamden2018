@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/28/Slow-page-report
+guid: 1237
 ---
 
 I was working with a client this week who had quite a few entries for slow pages in his server.log file. I decided to see if I could write a quick report based on the log and came up with the following. Ignore the butt-ugly HTML I used:

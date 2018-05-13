@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/07/16/Important-ModelGlue-note-and-CanvasWiki-update
+guid: 3445
 ---
 
 I'll be honest and say this is entirely my fault - it was mentioned on the Model-Glue <a href="http://groups.google.com/group/model-glue">listserv</a> which I don't read as often as I should - but folks should know that the latest build of Model-Glue will possibly break existing Model-Glue applications if you use the Trace() functionality.

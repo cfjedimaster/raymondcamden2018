@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/05/02/Ask-a-Jedi-Why-would-I-use-cfhtmlhead
+guid: 2801
 ---
 
 Jen asks:

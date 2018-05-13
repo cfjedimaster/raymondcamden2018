@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/10/01/Its-funny-who-you-can-meet-at-MAX
+guid: 2384
 ---
 
 Meet my new friend...

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/12/01/Getting-ORM-Stats-via-the-Session-and-Factory
+guid: 3629
 ---
 
 I hate Mark Mandel. Sure - he is easy to hate in general. Just ask him to say cache and you will have plenty of reasons. That being said - I have a new reason to hate him tonight. Because of a simple, offhand remark about ORM and ColdFusion debugging, my brain went into a death spiral of code writing and playing to see what I could dig up. What follows was written <i>very</i> quickly, and while it's dark cool as heck, please use with caution. If anything goes wrong - blame Mark.

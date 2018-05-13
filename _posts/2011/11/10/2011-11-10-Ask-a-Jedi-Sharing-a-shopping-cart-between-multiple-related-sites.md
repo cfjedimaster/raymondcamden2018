@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2011/11/10/Ask-a-Jedi-Sharing-a-shopping-cart-between-multiple-related-sites
+guid: 4428
 ---
 
 Brian asked:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/22/YouTube-CFC-Update-and-a-Demo-Site
+guid: 2298
 ---
 
 I've updated the YouTube CFC and now have it posted up at RIAForge: <a href="http://youtubecfc.riaforge.org/">YouTube CFC</a>

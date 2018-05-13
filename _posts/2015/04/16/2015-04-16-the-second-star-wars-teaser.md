@@ -6,6 +6,7 @@ categories: [movies]
 tags: []
 banner_image: 
 permalink: /2015/04/16/the-second-star-wars-teaser
+guid: 6015
 ---
 
 I was supposed to write a blog post on IndexedDB today - instead I got royally distracted by the <strong>epic cool new Star Wars</strong> teaser:

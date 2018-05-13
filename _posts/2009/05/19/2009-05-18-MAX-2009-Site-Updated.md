@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/05/19/MAX-2009-Site-Updated
+guid: 3361
 ---
 
 Not much more to add to the title, but the <a href="https://max.adobe.com/">MAX 2009</a> site has been updated. Once again Adobe goes for auto-play, loud video. Don't get me wrong, I think the video is cool, but seriously - who <i>doesn't</i> get that auto-play is normally a really bad idea? Am I the only one? (Maybe)

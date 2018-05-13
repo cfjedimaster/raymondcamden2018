@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/04/ColdFusion-Ajax-leading-zeros-issue
+guid: 2999
 ---
 
 A user posted a <a href="http://www.raymondcamden.com/forums/messages.cfm?threadid=2DFAB65D-19B9-E658-9D259B4BEB23A161&#top">question</a> to my forums that I thought would make for interesting blog matter. It concerns ColdFusion, binding, and results with leading zeros. I touched on this before (<a href="http://www.coldfusionjedi.com/index.cfm/2008/3/17/Interesting-ColdFusion-8-AutoSuggest-issue-to-watch-for">Interesting ColdFusion 8, AutoSuggest issue to watch for</a>) so this may be something folks are aware of already. Here is some background. Imagine a CFC with this simple method:

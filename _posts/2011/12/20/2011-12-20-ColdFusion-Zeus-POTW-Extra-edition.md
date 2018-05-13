@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/12/20/ColdFusion-Zeus-POTW-Extra-edition
+guid: 4467
 ---
 
 Ok, I know I did a <a href="http://www.raymondcamden.com/index.cfm/2011/12/19/ColdFusion-Zeus-POTR-CallStack">Zeus POTW</a> earlier this week, but I had to share this little gem. This is another small thing - a simple function - and something that's been possible via a CFLib UDF for years. That being said - when I saw this show up in the latest Zeus build today, I had to share.

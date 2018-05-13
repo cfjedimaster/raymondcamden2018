@@ -6,6 +6,7 @@ categories: [development,html5,mobile]
 tags: []
 banner_image: 
 permalink: /2013/11/05/Ripple-is-Reborn
+guid: 5079
 ---
 
 <p>

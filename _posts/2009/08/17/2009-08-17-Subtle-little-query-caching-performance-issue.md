@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/17/Subtle-little-query-caching-performance-issue
+guid: 3491
 ---
 
 I'm doing a bit of performance tuning (via CFML) for a client and I ran into a little subtle bug that I thought I'd share with others. One of the methods returned all rows that were within a day based range. By that I mean it allowed you to get entries that were created less than 1 day ago, 2 days ago, 5 days ago, and so forth. The query runs a bit slow but was using query caching. 

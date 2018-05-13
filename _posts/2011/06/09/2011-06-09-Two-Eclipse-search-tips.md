@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/06/09/Two-Eclipse-search-tips
+guid: 4262
 ---
 
 Both of these tips come from the "Obvious Department", but as I recently discovered myself <i>not</i> using them, I'm going to assume I'm not the only one a bit slow on the uptake.

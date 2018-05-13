@@ -6,6 +6,7 @@ categories: [development,html5,javascript]
 tags: []
 banner_image: 
 permalink: /2012/11/14/POC-Integrating-a-Chrome-Extension-with-Adobe-Edge-Animate
+guid: 4782
 ---
 
 I've been fascinated lately by <a href="http://html.adobe.com/edge/animate/">Edge Animate</a>. Not that I plan on creating awesome animations any time in the future but I love how easy the tool is and I'm fascinated by how I could integrate other client-side techniques along with it. (Or in other words, I like to pretend that in an alternate universe where I also have design skills, I can bring the awesome.)

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/29/Building-an-HTML-based-Apollo-Application
+guid: 1930
 ---
 
 So after seeing just how darn good an <a href="http://ray.camdenfamily.com/index.cfm/2007/3/23/Apollo-isnt-just-FlashFlex">HTML based Apollo application</a> could be done, I wanted to see how I could build one as well.

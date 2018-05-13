@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/02/13/Taking-another-step-forward-with-Fusebox-Configuration
+guid: 1833
 ---
 
 Well it is taking me a bit longer than I would like, but I am  getting more excited about Fusebox and don't want to lose too much steam in my learning of the framework. In my <a href="http://ray.camdenfamily.com/index.cfm/2007/2/5/Installing-Fusebox">first entry</a> I talked about installing Fusebox (summary: easy as pie). In the <a href="http://ray.camdenfamily.com/index.cfm/2007/2/7/Continuing-my-Fusebox-study">second entry</a> I talked about what happens during the Fusebox request cycle. (In other words, what happens when you load the application.) That entry focused mainly on the application life cycle.

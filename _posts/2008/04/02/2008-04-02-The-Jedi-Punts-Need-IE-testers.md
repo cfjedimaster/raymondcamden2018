@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2008/04/02/The-Jedi-Punts-Need-IE-testers
+guid: 2747
 ---
 
 I've been working with a <a href="http://lighthousepro.riaforge.org">Lighthouse Pro</a> user today who has discovered a very odd issue. When generating reports (the flash charts version), he got a null pointer error from ColdFusion at the end of the first chart.

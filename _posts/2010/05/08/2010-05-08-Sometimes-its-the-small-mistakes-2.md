@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/08/Sometimes-its-the-small-mistakes-2
+guid: 3810
 ---
 
 For a few days now the <a href="http://groups.adobe.com">Adobe Groups</a> site has been suffering with an odd issue. It would run as fast as normal, never throwing any odd error, and then would come to a screaming halt. Requests for the CF Admin worked fine but any request for the actual site returned a 503 after a long delay. I assumed it was a load issue and contacted the absolute master of ColdFusion and High Availability, <a href="http://www.go2ria.com/">Mike Brunt</a>. From time to time I get pinged for side work, jobs, etc. Any time that request is for something involving load, performance testing, or stability, I always recommend Mike. He is both an expert and an all around good guy, so please consider his services if you have a need! Mike's direction is directly responsible for what I found last night, so I cannot thank him enough. (And let me add that we are still digging into this so there may be more to this then what I blog today.)

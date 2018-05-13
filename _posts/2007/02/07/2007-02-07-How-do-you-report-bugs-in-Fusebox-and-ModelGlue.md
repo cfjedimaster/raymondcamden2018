@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/02/07/How-do-you-report-bugs-in-Fusebox-and-ModelGlue
+guid: 1826
 ---
 
 So one of the first things I asked Sean about was how to report bugs in Fusebox. Turns out there is a public bug tracker so you can not only report bugs but check for existing bugs as well. You may find the Fusebox bug tracker here:

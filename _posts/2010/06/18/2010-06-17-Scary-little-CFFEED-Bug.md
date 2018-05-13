@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/06/18/Scary-little-CFFEED-Bug
+guid: 3851
 ---
 
 Two days ago I wrote a quick little blog entry on <a href="http://www.raymondcamden.com/index.cfm/2010/6/16/Quick-example-of-RSS-URL-checking-with-jQuery-and-ColdFusion">validating RSS feeds</a> with ColdFusion and jQuery. At the end I pointed to a demo but mentioned that I hard to "hobble" it a bit and not allow you to dynamically check <i>any</i> feed. Today I'll explain why.

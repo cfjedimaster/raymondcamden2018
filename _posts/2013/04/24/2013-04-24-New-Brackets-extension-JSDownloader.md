@@ -6,6 +6,7 @@ categories: [development,javascript]
 tags: []
 banner_image: 
 permalink: /2013/04/24/New-Brackets-extension-JSDownloader
+guid: 4918
 ---
 
 Over the weekend I was working on a small project and needed a copy of jQuery. I try to avoid the CDN as I find myself at airports without wifi access sometimes so I did what I normally do:

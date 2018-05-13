@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/23/Transfer-Query-From-Phrase-to-AND-Search
+guid: 3028
 ---
 
 Not sure if anyone will find this helpful, but here goes. A user reported some dissatisfaction with the search engine at <a href="http://www.cflib.org">CFLib</a>. Specifically a search for FOO GOO would result in an exact phrase match on foo goo. It would not match a UDF named MyFooMilkshakeBetterThanGoo. 

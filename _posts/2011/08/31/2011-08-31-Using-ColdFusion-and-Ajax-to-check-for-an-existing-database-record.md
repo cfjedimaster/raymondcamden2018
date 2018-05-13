@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/08/31/Using-ColdFusion-and-Ajax-to-check-for-an-existing-database-record
+guid: 4349
 ---
 
 A user on Twitter (@sean010101, or Sean21 to his friends), asked about using cfinput to validate that a value does not collide with entries in the database. I assume he was talking about the validation aspects of cfform. That is not something I make use of myself. There's a lot of built in validation rules with cfform, but I normally would make use of the <a href="http://bassistance.de/jquery-plugins/jquery-plugin-validation/">jQuery Validate</a> plugin. That being said - his query - validating to see if a record exists - interested me so I decided to dig a bit to see what was possible.

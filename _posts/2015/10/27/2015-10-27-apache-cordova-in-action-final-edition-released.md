@@ -6,6 +6,7 @@ categories: [books,mobile]
 tags: []
 banner_image: 
 permalink: /2015/10/27/apache-cordova-in-action-final-edition-released
+guid: 7006
 ---
 
 Well, this took a bit longer than I expected, but the <strong>final</strong> version of my <a href="https://www.manning.com/books/apache-cordova-in-action">Apache Cordova in Action</a> book is for sale! 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2011/06/03/ColdFusion-Spreadsheet-Bug-with-Formulas
+guid: 4256
 ---
 
 A few days ago a reader asked me how to use ColdFusion to read the value of a spreadsheet cell that was defined by a value. I quickly created a spreadsheet where I used a sum formula to give the total of a number in the first two columns. ColdFusion allows you then to get both the actual value and the formula which is kinda cool. Consider:

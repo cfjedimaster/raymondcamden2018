@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/09/02/Mini-Cooper-is-the-only-car-not-covered-by-lemon-law-and-other-fun-facts
+guid: 1512
 ---
 
 Ok, I swear I'm not going to turn this into a Mini Cooper rant blog, but I had some interesting discoveries on Friday I wanted to share. First off: My wife and I had decided we weren't really interested in going to court. It seemed like a lot of trouble. But the lawyer called us on Friday and really wants to work with us.

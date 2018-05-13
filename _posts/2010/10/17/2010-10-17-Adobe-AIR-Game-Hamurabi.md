@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2010/10/17/Adobe-AIR-Game-Hamurabi
+guid: 3973
 ---
 
 Today I'm happy to release a little project I've been working on for the past few weeks - a port of the old basic game of <a href="http://en.wikipedia.org/wiki/Hamurabi">Hamurabi</a>. This is a game I used to play on my Apple II a long, long, <i>long</i> time ago. The premis of the game is simple. Given a kingdom with acres of land, bushels of grain, and a population, you decide how much land to buy or sell, how much food to give your people, and how much should be planted. Of course, what those figures mean for your kingdom is notoriously hard to figure out. The game is hard (although I made it a tiny bit easier) and intentionally vague. You will fail. I failed pretty badly too into I completely ported over the old BASIC code and saw the exact numbers used.

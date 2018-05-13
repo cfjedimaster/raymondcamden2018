@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/01/10/And-now-for-a-message-from-Adobe
+guid: 1019
 ---
 
 I'm sure many other blogs are going to be posting this, but I wanted to pass on this Breeze presentation from Shantanu Narayen, Adobe President and COO. 

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/23/Ask-a-Jedi-How-long-should-a-query-take-to-run
+guid: 1120
 ---
 
 A reader asks:

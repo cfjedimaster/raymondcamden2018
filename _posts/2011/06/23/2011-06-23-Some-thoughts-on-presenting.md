@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2011/06/23/Some-thoughts-on-presenting
+guid: 4279
 ---
 
 This morning while walking (I love how the mind flows with ideas when exercising) I began to think about presenting and what advice I'd offer to folks who are considering giving it a try. There are plenty of books out there on how best to give presentations. I won't pretend to be an expert in the subject myself. But I've given quite a few of them and there are a few things I think I can share that might be useful. Also - many books on presenting don't tend to cover the specific needs of <i>technical</i> presenters - i.e. people who are talking about code related topics. So with that focus in mind, here are some ideas. As always, feel free to add your own. I'm curious to see what other suggestions folks have. One more quick note before I begin - most of this advice comes from mistakes I've made - and continue to make. I enjoy presenting. I think I'm good at it. But I'm going to looking to improve myself until the day I retire.

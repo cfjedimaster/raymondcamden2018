@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2006/07/15/You-can-be-a-star-Until-the-copyright-notices-fly
+guid: 1404
 ---
 
 Yes, that's me. On Time. And yes, it is a 100% fake. You can add yourself to one of many magazine covers at this <a href="http://www.funonit.com/funny_jokes/fake_magazine/">site</a>.

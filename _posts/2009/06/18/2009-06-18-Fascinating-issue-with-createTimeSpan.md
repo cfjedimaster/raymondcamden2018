@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/18/Fascinating-issue-with-createTimeSpan
+guid: 3401
 ---
 
 A reader sent in an interesting issue. He was using createTimeSpan to list out 5 minute intervals between two hours. Here is what he used:

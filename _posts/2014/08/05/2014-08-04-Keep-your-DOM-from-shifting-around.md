@@ -6,6 +6,7 @@ categories: [development,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2014/08/05/Keep-your-DOM-from-shifting-around
+guid: 5282
 ---
 
 <p>

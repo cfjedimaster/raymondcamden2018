@@ -6,6 +6,7 @@ categories: [jquery]
 tags: []
 banner_image: 
 permalink: /2009/02/01/Creating-a-Dialog-with-jQuery-UI
+guid: 3216
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2009/1/31/Using-jQuery-and-ColdFusion-to-create-an-autolink-for-definition-application">blogged</a> about using jQuery to create automatic hot links around certain words in your page text. While working on that demo, I tried to use the jQuery <a href="http://docs.jquery.com/UI/Dialog">Dialog</a> widget. I ran into some trouble and gave up, but returned to it this morning to see if I could get it working.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/07/01/ColdFusion-Job-Opening-University-of-Maryland-College-Park-MD
+guid: 4976
 ---
 
 As always - just passing it along...

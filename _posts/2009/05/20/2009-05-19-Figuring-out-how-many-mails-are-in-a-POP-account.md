@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/05/20/Figuring-out-how-many-mails-are-in-a-POP-account
+guid: 3363
 ---
 
 <b>Edit 2/20/2013: Be sure to see <a href="http://www.raymondcamden.com/index.cfm/2009/5/20/Figuring-out-how-many-mails-are-in-a-POP-account#c9A1B36D4-F9DF-7D43-03E5BD0F0C755461">Karl's comment!</a></b> I got an interesting question earlier this week. A reader was using cfpop to retrieve email information. They had built a paging system by using getHeadersOnly. This returns a 'slimmer' query where email bodies are not included in the result. He then paged through the query and fetched the bodies 10 at a time. (Do I need to demo that? Let me know and I'll do another blog entry.) This worked fine until the email account got overloaded. Eventually even the "quicker" getHeadersOnly operation was taking forever. He ask - is there some way to get just the total number of messages in a mailbox?

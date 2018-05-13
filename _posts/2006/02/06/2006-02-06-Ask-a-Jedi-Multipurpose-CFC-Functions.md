@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/02/06/Ask-a-Jedi-Multipurpose-CFC-Functions
+guid: 1077
 ---
 
 A reader asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2005/11/27/Ask-a-Jedi-ColdFusion-Hosts
+guid: 939
 ---
 
 Karen asks, 

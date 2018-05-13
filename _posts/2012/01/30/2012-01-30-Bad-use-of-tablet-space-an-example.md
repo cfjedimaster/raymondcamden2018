@@ -6,6 +6,7 @@ categories: [mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/30/Bad-use-of-tablet-space-an-example
+guid: 4512
 ---
 
 I came across something interesting in a tablet app today and I thought it was a great example of bad design. I hate to go critical, especially for a service I love, and <b>especially</b> since I'm no expert in tablet design myself, but I thought it would be a good illustration and a good discussion here.

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2013/03/01/Friday-Puzzler-Color-Rotator
+guid: 4870
 ---
 
 It has been a while since my last ColdFusion Friday puzzler, so I hope you enjoy this one. It occurred to me while driving my eldest to school Wednesday morning and in my "not quite awake yet" semi-conscious daze, it seemed like a sneaky little puzzle. I figured out a possible simple solution before I got home, but I'm curious to see what others make of it. Ready?

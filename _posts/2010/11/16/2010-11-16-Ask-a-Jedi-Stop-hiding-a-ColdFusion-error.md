@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/11/16/Ask-a-Jedi-Stop-hiding-a-ColdFusion-error
+guid: 4015
 ---
 
 I've blogged many times before about the need for proper error handling. (See the <a href="https://www.raymondcamden.com//2007/12/05/The-Complete-Guide-to-Adding-Error-Handling-to-Your-ColdFusion-Application">guide</a>) for more information.) But this week a reader came to me with an interesting problem. His ColdFusion site was throwing an error of some kind, but all he saw was a 'nice' error page, and not the real error. Basically, he needed to "roll back" the error handling so he could determine the real nature of the bug. These are the steps I walked him through including the 'final' issue that ended up being the main culprit.

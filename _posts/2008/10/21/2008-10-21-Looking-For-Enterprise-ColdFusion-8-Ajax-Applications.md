@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/10/21/Looking-For-Enterprise-ColdFusion-8-Ajax-Applications
+guid: 3063
 ---
 
 This question came in today from reader Marwan:

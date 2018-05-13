@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/04/24/ColdFusion-and-Pagination
+guid: 1231
 ---
 
 One of the more common tasks a web developer gets asked to do is add pagination to a result set. By pagination I simply mean displaying one "page" of content at a time. So if you had 22 records and wanted to show 10 at a time, there would be three pages of content. Let's take a look at <i>one</i> way to solve this problem.

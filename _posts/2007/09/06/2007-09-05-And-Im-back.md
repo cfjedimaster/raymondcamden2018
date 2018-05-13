@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/09/06/And-Im-back
+guid: 2324
 ---
 
 Just a short note to let folks know I'm back, but as I'm sick it may take me a while to respond to some of the emails I got over the past few days. I thought I'd share a scary little story about my flight. I've been suffering with a head cold the last few days, which is mostly just annoying more than anything else. Flying into San Francisco though I noticed that during landing, my ears started to hurt pretty bad. I assumed it was just sinus issues and I ignored it. 

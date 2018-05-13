@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/03/26/Another-experiment-in-jQuery-Mobile-swipe-navigation
+guid: 4172
 ---
 
 About a week or so ago I whipped up a simple demo that showed using swipe-based navigation within jQuery Mobile (<a href="http://www.raymondcamden.com/index.cfm/2011/3/14/Using-swipe-gestures-for-navigation-in-jQuery-Mobile">Using swipe gestures for navigation in jQuery Mobile</a>). The idea was simple - look at how jQuery Mobile could listen for swipe events and then use them to navigate to the next page instead of using the traditional button click. I don't know about you, but it's amazing how quickly the swipes seem to be becoming a standard way to work with an application. A few weeks back I found myself about to reach out to my desktop monitor to do a swipe against the screen. My daughter, all of 9, already learned that swipes work on an iPhone, and when I handed her my Nook, she just knew a swipe would work in a book. So I think there's a good reason to work with this type of user interaction. Today's blog entry is another example of this - an Art Browser.

@@ -6,6 +6,7 @@ categories: [books]
 tags: []
 banner_image: 
 permalink: /2006/02/07/review-dies-the-fire-by-s-m-stirling
+guid: 1080
 ---
 
 "Dies the Fire" is the second book I've read by Stirling, and once again the concept behind the story was rather interesting. Unfortunately it suffers from some of the problems his last book had (<a href="http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/0451459334&tag=raymondcamden-20&camp=1789&creative=9325">Conquistador: A Novel of Alternate History</a><img src="http://www.assoc-amazon.com/e/ir?t=raymondcamden-20&l=as2&o=1&a=0451459334" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />). The basic premise is that an event happens that "turns off" all technology, essentially rolling mankind back to pre-gunpowder time. Not only is technology rolled back, but the basic rules of nature that allows for gunpowder, and other forms of energy, simply stop working.

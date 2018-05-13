@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2013/02/01/Advice-for-a-Server-to-Client-Side-Developer
+guid: 4843
 ---
 
 Yesterday I got an email from a reader that meshes perfectly with what I presented on earlier in the week. Here is his email:

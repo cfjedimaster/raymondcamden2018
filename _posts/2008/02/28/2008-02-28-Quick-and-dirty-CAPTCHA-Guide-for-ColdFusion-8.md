@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/28/Quick-and-dirty-CAPTCHA-Guide-for-ColdFusion-8
+guid: 2680
 ---
 
 A few months ago I posted a quick guide to walk folks through adding CAPTCHA's to forms:

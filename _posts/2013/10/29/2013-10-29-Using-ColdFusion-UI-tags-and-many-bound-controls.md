@@ -6,6 +6,7 @@ categories: [coldfusion,javascript]
 tags: []
 banner_image: 
 permalink: /2013/10/29/Using-ColdFusion-UI-tags-and-many-bound-controls
+guid: 5073
 ---
 
 <p>

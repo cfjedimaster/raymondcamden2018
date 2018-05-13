@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/24/Ask-a-Jedi-Why-is-one-UDF-faster-than-another-Variables
+guid: 3029
 ---
 
 Patrick Stormthunder asks:

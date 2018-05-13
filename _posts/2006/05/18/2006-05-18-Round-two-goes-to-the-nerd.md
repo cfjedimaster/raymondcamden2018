@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2006/05/18/Round-two-goes-to-the-nerd
+guid: 1277
 ---
 
 I've been following the case for a while, and I'm happy to see that Manning, Jr. <a href="http://sports.espn.go.com/nfl/news/story?id=2449810">has been charged</a> with assault. He will probably get off, but I hope he rots in jail. 

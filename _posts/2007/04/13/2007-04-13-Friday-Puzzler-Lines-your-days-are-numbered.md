@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/04/13/Friday-Puzzler-Lines-your-days-are-numbered
+guid: 1959
 ---
 
 Ok, that's kind of a dumb title. Todays puzzler could actually be a nice little utility. In fact, the winner will get added to <a href="http://www.cflib.org">CFLib</a>, so this isn't a total waste of a time. A few days ago I discovered the <a href="http://www.opengroup.org/onlinepubs/009695399/utilities/nl.html">nl</a> command. It takes a file and dumps it out to the screen with line numbers. Very handy! Your job is to build a UDF that will:

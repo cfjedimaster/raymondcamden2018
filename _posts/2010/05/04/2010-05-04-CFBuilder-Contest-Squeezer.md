@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/05/04/CFBuilder-Contest-Squeezer
+guid: 3802
 ---
 
 <img src="https://static.raymondcamden.com/images/cfjedi/cf_builder_appicon.jpg" align="left" style="margin-right:5px" title="ColdFusion Builder FTW!" /> Welcome to the first entry in the ColdFusion Builder Contest. We didn't get a lot of entries for this contest, but every entry is <b>really</b> darn cool, so I'm very excited to be able to share the first of the entries with you today. Our first entry is <b>Squeezer</b> and comes to us from Guust Nieuwenhuis. 

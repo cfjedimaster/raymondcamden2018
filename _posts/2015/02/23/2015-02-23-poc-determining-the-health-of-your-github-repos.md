@@ -6,6 +6,7 @@ categories: [development]
 tags: []
 banner_image: 
 permalink: /2015/02/23/poc-determining-the-health-of-your-github-repos
+guid: 5724
 ---
 
 I hinted about this in my <a href="http://www.raymondcamden.com/2015/02/22/static-site-hosting-on-google-cloud">blog post</a> last night, but I've been working on a proof of concept application meant to judge the relative "health" of your GitHub repositories. 

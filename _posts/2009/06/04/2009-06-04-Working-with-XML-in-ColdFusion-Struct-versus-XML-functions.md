@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/06/04/Working-with-XML-in-ColdFusion-Struct-versus-XML-functions
+guid: 3384
 ---
 
 Earlier this week I worked with John Bliss on an interesting problem he had. Let me describe his issue, and the solution he came up, and what I learned from it.

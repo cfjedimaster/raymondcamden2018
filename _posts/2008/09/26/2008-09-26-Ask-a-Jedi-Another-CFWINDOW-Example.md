@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/09/26/Ask-a-Jedi-Another-CFWINDOW-Example
+guid: 3032
 ---
 
 Ron Mouseleggings asks:

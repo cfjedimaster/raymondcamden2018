@@ -6,6 +6,7 @@ categories: [coldfusion,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/11/09/Using-the-Chrome-JavaScript-Debugger
+guid: 4426
 ---
 
 Folks who regularly read my blog (or follow <a href="http://twitter.com/cfjedimaster">me on Twitter</a>) know that I like to remind people about the built in networking tools in modern browsers. For a while this was Firebug, but now that I'm a Chrome user it's the dev tools. Nine times out of ten the answer to why your Ajax application isn't working can be discovered by just looking at what your network data result was. But what do you do when that fails to help? In this blog entry I'm going to talk about a real problem I encountered last night with one of my Ajax based applications and the tools I used to diagnose and fix the issue.

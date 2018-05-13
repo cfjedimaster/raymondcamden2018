@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/04/11/Follow-up-to-CFGRID-post-interesting-queryConvertForGrid-Behavior
+guid: 3312
 ---
 
 A few days ago I <a href="http://www.raymondcamden.com/index.cfm/2009/4/9/Ask-a-Jedi-Noticing-an-empty-CFGRID">blogged</a> about CFGRID and noticing when the data inside was empty. I mentioned how you could get the data, but couldn't use the length value as the length would always equal the page size of the grid. Instead, you had to loop over the data and count the rows that were not null. I initially placed the blame on the grid, however, Scott Stroz pointed out that the issue was with queryConvertForGrid. Consider this example:

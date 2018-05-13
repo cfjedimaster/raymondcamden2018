@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/08/06/More-useless-ColdFusion-maze-code
+guid: 3476
 ---
 
 Warning - this blog post has nothing worthwhile in it. No line of code in this post will be relevant, productive, mission critical, or "Web 2.0". It <i>was</i> as heck to play with though so if you are still interested, keep reading.

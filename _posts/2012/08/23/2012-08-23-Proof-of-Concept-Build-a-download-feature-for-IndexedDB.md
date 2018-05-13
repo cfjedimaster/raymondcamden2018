@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/08/23/Proof-of-Concept-Build-a-download-feature-for-IndexedDB
+guid: 4712
 ---
 
 Before I begin, a quick editorial note. I almost didn't write this blog entry. After working on the code and getting everything working right, things quickly went to crap when I switched from Mac to Windows. I had odd results in Firefox as well. Overall, I feel that the solution I've come up with here is solid, but the current browser implementations are... less than ideal. So, please keep that in mind. Perhaps you are reading this a year from now while cruising around on your jetpack and the browsers have settled down in terms of their IndexedDB support. Perhaps. Until then, please consider that what follows is going to be less than perfect in your browser.

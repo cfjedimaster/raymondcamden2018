@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/03/15/Spry-15-Preview
+guid: 1895
 ---
 
 Big news in Spry-land tonight - the <a href="http://labs.adobe.com/technologies/spry/preview/">1.5 Preview</a> has gone live, and wow, there are some great things here. I won't cover everything new in the preview, check the <a href="http://blogs.adobe.com/spryteam/">Spry blog</a> for that - but here are some of the high points:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/07/03/Update-to-LighthouseProJSONSpry-Post
+guid: 2168
 ---
 
 Yesterday I <a href="http://www.raymondcamden.com/index.cfm/2007/7/2/Case-Study--Moving-to-Spry-15-and-JSON-for-Lighthouse-Pro">blogged</a> about how I moved <a href="http://lighthousepro.riaforge.org">Lighthouse Pro</a> over to JSON using CFJSON and Spry. In general it worked nice and gave me some size savings on the data, but I had run into one problem.

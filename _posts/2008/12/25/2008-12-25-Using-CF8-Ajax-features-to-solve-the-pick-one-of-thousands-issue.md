@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/12/25/Using-CF8-Ajax-features-to-solve-the-pick-one-of-thousands-issue
+guid: 3162
 ---
 
 Let me apologize for the title. I tried like heck but I couldn't find a better title for the issue I'm talking about. Personally I blame the apple pie. Let me describe the problem and how I used ColdFusion 8 Ajax features to solve it. If folks have a better title for the blog entry, I'll be sure to use it in the Spry/jQuery and maybe Ext versions I have planned.

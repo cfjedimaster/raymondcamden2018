@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2010/03/12/Coloring-CFCHART-Dynamically
+guid: 3746
 ---
 
 Here is a question that came up earlier this morning on a mailing list. How can we specify colors for CFCHART based on some particular business rule? So for example, imagine we have a set of average temperatures. You want to chart them and specifically call out values that are below, or above, certain notes. This is rather simple if you make use of the <a href="http://cfmldocs.com/cfchartseries.html">colorList</a> attribute of cfchartseries. Normally this is used to provide a static list of colors, but you can certainly make it dynamic as well. Here is a simple example.

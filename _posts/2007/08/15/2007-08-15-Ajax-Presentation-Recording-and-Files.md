@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/15/Ajax-Presentation-Recording-and-Files
+guid: 2284
 ---
 
 Attached to this entry is the zip of materials from tonights presentation. The zip includes my slides in PDF format and all the CFM. Some files requires a datasource to run, but you can point that to any valid BlogCFC database. You can watch the recording here:

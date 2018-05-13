@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2007/08/30/Using-component-as-a-variable-type
+guid: 2314
 ---
 
 Did you know that ColdFusion 8 adds "component" as a valid type to both the returnType attribute of cffunction and the type attribute of cfargument? What does this mean? The default "rule" for types is that if you do not specify a type recognized by ColdFusion (list provided at the bottom of this post), then ColdFusion assumes you mean a component. So for example:

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2007/06/22/Registering-for-MAX-Use-me
+guid: 2142
 ---
 
 Ok, so "use me" may not be a great title, but if you are considering <a href="https://secure.adobemax2007.com/na/register/">registering for MAX</a>, please do the following:

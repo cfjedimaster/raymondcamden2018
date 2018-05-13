@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/11/07/Managing-relationships-with-Transfer-or-the-ORM-meets-Dr-Phil
+guid: 3090
 ---
 
 As I mentioned in <a href="http://www.raymondcamden.com/index.cfm/2008/11/6/Building-CRUD-with-Transfer-2">yesterday's blog post</a>, our simple application with one table isn't terribly realistic. Easy to build - yes. Real world? Not even close. Today we are going to work with some new data in our Transfer sample application, and talk a bit about how Transfer can help manage relationships between types of data.

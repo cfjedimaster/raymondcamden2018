@@ -6,6 +6,7 @@ categories: [coldfusion,html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2012/05/11/Using-CFC-data-with-Handlebars
+guid: 4614
 ---
 
 Earlier this week Steve wrote to me asking how to use data retrieved in a ColdFusion Component in a <a href="http://handlebarsjs.com/">Handlebars</a> template. While ColdFusion makes it trivial to serve up query data via JSON, the result format isn't always easy to use in JavaScript utilities. Here's a quick example I wrote that demonstrates how to work around this.

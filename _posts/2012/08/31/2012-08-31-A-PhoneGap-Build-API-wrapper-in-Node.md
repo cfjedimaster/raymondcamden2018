@@ -6,6 +6,7 @@ categories: [javascript,mobile]
 tags: []
 banner_image: 
 permalink: /2012/08/31/A-PhoneGap-Build-API-wrapper-in-Node
+guid: 4720
 ---
 
 Yesterday I worked on a PhoneGap Build API wrapper for Node. This already exists - <a href="https://github.com/germallon/phonegapbuildapi">https://github.com/germallon/phonegapbuildapi</a> - but I thought it would be a fun experiment. The <a href="https://build.phonegap.com/docs/api">Build API</a> is <i>real</i> simple so I assumed my code would also be pretty simple. It was... at first.

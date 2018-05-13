@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/03/22/Soundings-ColdFusion-Survey-Application-Updated
+guid: 1163
 ---
 
 A very minor update was released for <a href="http://ray.camdenfamily.com/projects/soundings">Soundings</a> today. It corrects an issue created with the new tableprefix feature.

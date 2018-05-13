@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery]
 tags: []
 banner_image: 
 permalink: /2011/09/15/My-first-Chrome-Extension
+guid: 4365
 ---
 
 Yesterday for some unknown reason<sup>*</sup>, I decided to take a look at how extensions are built in Chrome. I had always wanted to check them out in Firefox, but as I'm a Chrome user pretty much full time now, I decided to see how Chrome folks did it. To me surprise, it was incredibly easy. It's a bit wonky at times in terms of permissions and communications. As you can expect, extensions are powerful and therefore have some restrictions in what each part can do. But if you can write HTML and JavaScript, you can write a Chrome Extension. I recommend hopping over to the main <a href="http://code.google.com/chrome/extensions/index.html">documentation</a> page under Google Labs and taking a look at the <a href="http://code.google.com/chrome/extensions/getstarted.html">Getting Started</a> tutorial. 

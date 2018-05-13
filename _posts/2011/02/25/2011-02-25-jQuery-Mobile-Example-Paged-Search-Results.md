@@ -6,6 +6,7 @@ categories: [coldfusion,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2011/02/25/jQuery-Mobile-Example-Paged-Search-Results
+guid: 4139
 ---
 
 A reader asked me earlier this week if I could show an example of search, with paged results, under the <a href="http://www.jquerymobile.com">jQuery Mobile</a> framework. I whipped up a simple demo in five or so minutes. This is not a testament to my coding ability, but rather to just how fracking cool jQuery Mobile is. Before I begin though so important disclaimers. This was built using jQuery Mobile Alpha 3. If you are currently wearing a jetpack then you are reading this in the future and should expect that the code I show here may not quite work the same in the final version of jQuery Mobile. Also - I've been using jQuery Mobile for all of one month. Take my "solution" with a huge grain of salt. Make that two grains just to be safe. Ok, enough with the disclaimers, let's get to work.

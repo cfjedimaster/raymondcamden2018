@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2008/02/22/Ask-a-Jedi-Creating-RSS-Feeds-on-the-Fly-from-SemiDynamic-Sites
+guid: 2667
 ---
 
 Clay asks:

@@ -6,6 +6,7 @@ categories: [html5,javascript,jquery,mobile]
 tags: []
 banner_image: 
 permalink: /2012/01/13/Demo-of-Color-Palettes-and-PhoneGap
+guid: 4495
 ---
 
 Earlier today I discovered the excellent <a href="http://lokeshdhakar.com/projects/color-thief/">Color Thief</a> JavaScript library by Lokesh Dhakr. Color Thief gives you the ability to find the dominant color of a picture, or a palette of major colors. Check the <a href="http://lokeshdhakar.com/projects/color-thief/">site</a> for examples. I thought it would be interesting to wrap this into a PhoneGap project and create palettes based on your camera. Here's what I came up with.

@@ -6,6 +6,7 @@ categories: [misc]
 tags: []
 banner_image: 
 permalink: /2009/03/31/CFUNITED-Managers-Guide-Early-Bird-Pricing-Ends-Today
+guid: 3298
 ---
 
 Just a quick note to let folks know that CFUNITED released their Manager's Guide today:

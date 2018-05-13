@@ -6,6 +6,7 @@ categories: [coldfusion,development]
 tags: []
 banner_image: 
 permalink: /2006/07/06/Your-mother-writes-code-so-bad
+guid: 1377
 ---
 
 We've all seen bad ColdFusion code. But what about <i>really</i> bad ColdFusion code? Let's see who can share the worse. Post your scariest experience when looking at (obviously) someone else's code. Try to keep it short and sweet and more descriptive than actual source code. As an example:

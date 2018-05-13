@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2009/02/10/Ask-a-Jedi-Updating-multiple-records-at-once
+guid: 3232
 ---
 
 Pema asks:

@@ -6,6 +6,7 @@ categories: [coldfusion]
 tags: []
 banner_image: 
 permalink: /2006/06/22/Lighthouse-Pro-204-Released-and-the-story-of-the-Sithlords-Eye
+guid: 1350
 ---
 
 Tonight I'm releasing Lighthouse Pro 2.0.4. This has some features that people have been asking for awhile a now. Updates include:
