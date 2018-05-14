@@ -7,23 +7,6 @@
     </section><!-- .widget-text -->
     {% endif %}
 
-    {% if site.mailchimp_url %}
-    <section class="widget widget-newsletter">
-        <h2 class="widget-title">{{ site.title}} Newsletter</h2>
-        <!-- Begin MailChimp Signup Form -->
-        <div id="mc_embed_signup">
-            <form action="{{ site.mailchimp_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <div id="mc_embed_signup_scroll">
-                    <label for="mce-EMAIL">Subscribe here to get our latest updates</label>
-                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-                </div>
-            </form>
-        </div>
-        <!--End mc_embed_signup-->
-    </section><!-- .widget -->
-    {% endif %}
-
     {% if site.banner_image %}
     <section class="widget widget-text">
         <p><a href="http://www.fusion-reactor.com/?affiliate=raymondcamden" target="_blank"><img src="{{ site.baseurl }}/images/frad2017a.png"  /></a></p>
@@ -62,5 +45,19 @@
             {% endfor %}
         </div><!-- .tagcloud -->
     </section><!-- .widget -->
+
+    <section class="widget">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Blog 2018 Right -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-1736437642005360"
+            data-ad-slot="5087649347"
+            data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+    </section>
 
 </aside><!-- .sidebar -->
