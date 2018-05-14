@@ -35,8 +35,6 @@ navigation:
   url: /speaking/
 - text: Contact
   url: /contact/
-- text: Archives
-  url: /tags/
 
 # The shortname for your Disqus site to enable comments.
 disqus: 
