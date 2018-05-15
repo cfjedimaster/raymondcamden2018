@@ -45,7 +45,7 @@ I have not done a great job of tracking my various articles on other web sites, 
 <li><a href="http://developer.telerik.com/featured/the-epic-awesome-supremely-useful-data-attribute/">The Epic, Awesome &amp; Supremely Useful Data Attribute</a> for the Telerik Developer Network</li>
 <li><a href="http://developer.telerik.com/topics/case-study-javascript-code-improvement/">A Case Study in JavaScript Code Improvement</a> for the Telerik Developer Network</li>
 <li><a href="http://flippinawesome.org/2014/06/30/easy-and-shareable-local-web-servers-with-fenix/">Easy and Sharable Local Web Servers with Fenix</a> for Flippin' Awesome</li>
-<li><a href="http://gamedevelopment.tutsplus.com/tutorials/using-the-html5-gamepad-api-to-add-controller-support-to-browser-games--cms-21345">Using the HTML5 Gamepad API to Add Controller Support to Browser Games</a> for Game Tuts</a></li>
+<li><a href="http://gamedevelopment.tutsplus.com/tutorials/using-the-html5-gamepad-api-to-add-controller-support-to-browser-games--cms-21345">Using the HTML5 Gamepad API to Add Controller Support to Browser Games</a> for Game Tuts</li>
 <li><a href="http://code.tutsplus.com/tutorials/working-with-intl--cms-21082">Working with Intl</a> for Nettuts+</li>
 <li><a href="http://flippinawesome.org/2014/04/28/expose-yourself-with-ngrok/">Expose Yourself with ngrok</a> for Flippin' Awesome</li>
 <li><a href="https://hacks.mozilla.org/2014/04/html-out-of-the-browser/">HTML out of the Browser</a> for Mozilla Hacks</li>
