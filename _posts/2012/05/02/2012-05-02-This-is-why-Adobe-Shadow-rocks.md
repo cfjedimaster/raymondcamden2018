@@ -16,9 +16,9 @@ A coworker pinged me about an issue he was having with a jQuery Mobile page and 
 The code in question had a bunch of JS libraries in play, and I simply commented them out one by one. My 'process' was...
 
 <ul>
-<li>Edit the file
-<li>Reload the tab in Chrome
-<li>Look at my iPad and see if the issue was fixed
+<li>Edit the file</li>
+<li>Reload the tab in Chrome</li>
+<li>Look at my iPad and see if the issue was fixed</li>
 </ul>
 
 This took me about 2-4 minutes to correctly figure out which JavaScript file was causing the issue. Adobe Shadow dramatically increased my testing speed and made the entire process a heck of a lot simpler. 
