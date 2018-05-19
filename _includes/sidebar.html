@@ -41,7 +41,7 @@
         <h2 class="widget-title">Tags</h2>
         <div class="tagcloud">
             {% for tag in sortedTags %}
-            <a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }}</a>
+            <a href="{{site.baseurl}}/tags/{{ tag | cgi_escape }}/">{{ tag }}</a>
             {% endfor %}
         </div><!-- .tagcloud -->
     </section><!-- .widget -->
