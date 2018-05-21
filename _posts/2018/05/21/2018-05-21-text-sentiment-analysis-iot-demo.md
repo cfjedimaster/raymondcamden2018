@@ -2,7 +2,7 @@
 layout: post
 title: "Text Sentiment Analysis IoT Demo"
 date: "2018-05-21"
-categories: ["Serverless"]
+categories: ["serverless"]
 tags: ["webtask"]
 banner_image: /images/banners/analysis.jpg
 permalink: /2018/05/21/text-sentiment-analysis-iot-demo
