@@ -4,7 +4,7 @@ title: "Text Sentiment Analysis IoT Demo"
 date: "2018-05-21"
 categories: ["Serverless"]
 tags: ["webtask"]
-banner_image: /images/banners/welcome2018.jpg
+banner_image: /images/banners/analysis.jpg
 permalink: /2018/05/21/text-sentiment-analysis-iot-demo
 ---
 
@@ -152,3 +152,4 @@ pusher.trigger('tinylcd', 'text', { text: ["Auth0 Sentiment",emotion+' ('+analys
 
 And that's it. I think it's pretty cool and I wish I understood the hardware aspect a bit more. I've setup my own RetroPie, but that was about three steps and didn't involve any real wiring. That being said, I hope the code above is helpful to folks!
 
+<i>Header photo by <a href="https://unsplash.com/photos/HId6JGZ7urI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">rawpixel</a> on Unsplash</i>
