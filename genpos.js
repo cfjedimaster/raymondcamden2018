@@ -15,7 +15,7 @@ if(process.argv.length >= 4) {
 	*/
 	categories = process.argv[3];
 } else {
-	categories = 'Uncategorized"';
+	categories = '"Uncategorized"';
 }
 if(process.argv.length >= 5) { 
 	/*
