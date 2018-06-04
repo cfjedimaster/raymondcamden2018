@@ -28,6 +28,10 @@
             $('html, body').animate({'scrollTop': 0});
             e.preventDefault();
         });
+
+        // recent posts
+        $('.recent-posts').load('/recentPosts');
+
     });
 
 }(jQuery));
