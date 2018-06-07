@@ -15,26 +15,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
-<p>
-Bringing Dynamic Back to Static<br/>
-<a href="https://certifiedfreshevents.com/events/jamstack/">Modern Web Development with the JAMStack</a><br/>
-Online<br/>
-May 23rd, 2018
-</p>
-
-<p>
-Building Alexa Skills Just to Mess with Your Kids<br/>
-<a href="https://conferences.oreilly.com/fluent/fl-ca/">FluentConf</a><br/>
-San Jose, CA<br/>
-June 12-14, 2018
-</p>
-
-<p>
-Getting Your Serverless on with Webtask<br/>
-<a href="https://www.meetup.com/tracydevs/events/249274330/?_cookie-check=ogOmubILi-buVrrq">Tracy Developer Meetup</a><br/>
-Tracy, CA<br/>
-June 13, 2018
-</p>
 
 <h3>My Past Events</h3>
 
@@ -54,13 +34,13 @@ June 13, 2018
 
 <a href="http://www.meetup.com/mybluemix/events/224783610/">Ionic and MobileFirst</a><br/>Kuala Lumpur, Malaysia, September 7, 2015</a>
 
-<a href="http://www.meetup.com/mybluemix/events/224783628/">Cordova, Ionic, and MobileFirst</a><br/>Kuala Lumpur, Malysia, September 8, 2015</a>
+<a href="http://www.meetup.com/mybluemix/events/224783628/">Cordova, Ionic, and MobileFirst</a><br/>Kuala Lumpur, Malaysia, September 8, 2015</a>
 
 <a href="http://www.meetup.com/bluemixsg/events/224365620/">Ionic</a><br/>Singapore, September 9, 2015
 
 <a href="http://www.meetup.com/bluemixsg/events/224877089/">Cordova, Ionic, and MobileFirst</a><br/>Singapore, September 10, 2015
 
-<a href="http://www.meetup.com/Manila-IBM-Bluemix-Cloud-Computing-and-PaaS-Meetup/events/224664318/">Cordova, Ionic, and MobileFirst</a><br/>Manila, Phillipines, September 11, 2015
+<a href="http://www.meetup.com/Manila-IBM-Bluemix-Cloud-Computing-and-PaaS-Meetup/events/224664318/">Cordova, Ionic, and MobileFirst</a><br/>Manila, Philippines, September 11, 2015
 
 <a href="http://ncdevcon.com/">Working with Static Sites</a><br/>NCDevCon, Raleigh, NC, September 27, 2015</a>
 
