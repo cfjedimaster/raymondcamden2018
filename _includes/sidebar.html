@@ -26,7 +26,7 @@
         <h2 class="widget-title">Categories</h2>
         <div class="tagcloud">
             {% for cat in sortedCats %} 
-            <a href="{{site.baseurl}}/categories/#{{ cat | cgi_escape }}">{{ cat }}</a>
+            <a href="{{site.baseurl}}/categories/{{ cat | cgi_escape | downcase }}">{{ cat }}</a>
             {% endfor %}
         </div><!-- .tagcloud -->
     </section><!-- .widget -->
