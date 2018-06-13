@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Notifications for New GitHub Project Releases"
 date: "2018-06-13"
-categories: ["Development"]
-tags: []
+categories: [development]
+tags: [development]
 banner_image: /images/banners/releases.jpg
 permalink: /2018/06/13/getting-notifications-for-new-github-project-releases
 ---
