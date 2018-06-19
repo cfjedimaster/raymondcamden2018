@@ -21,23 +21,44 @@
 
     <!--Create a sorted array of tags-->
     {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-    {% assign sortedCats = site_cats | split:',' | sort %}
+    {% assign sortedCats = site_cats | downcase | split:',' | sort %}
+
+    <!-- attempt to remove dupes by case -->
+    <!-- source, although i screwed with it - https://gist.github.com/pepelsbey/9334494 -->
+    {% assign uCats = array[1] %}
+    {% for item in sortedCats %}
+    {% unless uCats contains item %}
+        {% capture uCats %}{{ uCats }}{% unless forloop.first %},{% endunless %}{{ item }}{% endcapture %}
+    {% endunless %}
+    {% endfor %}
+    {% assign uCatsArray = uCats | split:',' | sort %}
+
     <section class="widget widget-tags">
         <h2 class="widget-title">Categories</h2>
         <div class="tagcloud">
-            {% for cat in sortedCats %} 
-            <a href="{{site.baseurl}}/categories/{{ cat | cgi_escape | downcase }}">{{ cat }}</a>
+            {% for cat in uCatsArray %} 
+            <a href="{{site.baseurl}}/categories/{{ cat | cgi_escape }}">{{ cat }}</a>
             {% endfor %}
         </div><!-- .tagcloud -->
     </section><!-- .widget -->
 
     <!--Create a sorted array of tags-->
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-    {% assign sortedTags = site_tags | split:',' | sort %}
+    {% assign sortedTags = site_tags | downcase | split:',' | sort %}
+
+    <!-- same as above -->
+    {% assign uTags = array[1] %}
+    {% for item in sortedTags %}
+    {% unless uTags contains item %}
+        {% capture uTags %}{{ uTags }}{% unless forloop.first %},{% endunless %}{{ item }}{% endcapture %}
+    {% endunless %}
+    {% endfor %}
+    {% assign uTagsArray = uTags | split:',' | sort %}
+
     <section class="widget widget-tags">
         <h2 class="widget-title">Tags</h2>
         <div class="tagcloud">
-            {% for tag in sortedTags %}
+            {% for tag in uTagsArray %}
             <a href="{{site.baseurl}}/tags/{{ tag | cgi_escape }}/">{{ tag }}</a>
             {% endfor %}
         </div><!-- .tagcloud -->
