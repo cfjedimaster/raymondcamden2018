@@ -18,8 +18,7 @@ Before we begin, it makes sense to talk about why you would want to persist a fo
 Let's begin with the first example. In this one, we're going to make use of ColdFusion, HTML, and jQuery. jQuery will be used to notice form changes and will pass it off to the server. The server will simply copy this data to the session scope. The form will be made so that it notices this session information and will make use of it. With me so far? While this is ColdFusion specific, it could be done in other languages using the same techniques I'll employ here. First, the form. It's a bit big, so after the code I'll explain whats going on.
 
 <p>
-
-<code>
+<pre><code class="language-markup">
 &lt;!--- Default if we have our session vars ---&gt;
 &lt;cfif not structKeyExists(form, "save") and structKeyExists(session, "formdata")&gt;
 	&lt;cfif structKeyExists(session.formdata, "name")&gt;
@@ -139,7 +138,7 @@ Let's begin with the first example. In this one, we're going to make use of Cold
 &lt;/html&gt;
 
 &lt;cfdump var="#session#" label="For Testing..." expand="false"&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -155,7 +154,7 @@ Finally, the top portion of the code is what's handling the initial defaults. It
 
 <p>
 
-<code>
+<pre><code class="language-markup">
 component {
 
 
@@ -183,7 +182,7 @@ component {
 
 
 }
-</code>
+</code></pre>
 
 <p>
 
@@ -191,7 +190,9 @@ Initially I had something much simpler - convert from JSON to native data and st
 
 <p>
 
-Demo this version here: <a href="http://www.raymondcamden.com/demos/2012/jan/10/draft1/form.cfm">http://www.raymondcamden.com/demos/2012/jan/10/draft1/form.cfm</a>
+<strike>
+Demo this version here: http://www.raymondcamden.com/demos/2012/jan/10/draft1/form.cfm
+</strike>
 
 <p>
 
@@ -199,8 +200,7 @@ Ok - that's draft 1. How about a version that requires no server (for persistenc
 
 <p>
 
-<code>
-
+<pre><code class="language-markup">
 &lt;cfparam name="form.name" default=""&gt;
 &lt;cfparam name="form.email" default=""&gt;
 &lt;cfparam name="form.genre" default=""&gt;
@@ -311,7 +311,7 @@ Ok - that's draft 1. How about a version that requires no server (for persistenc
 
 &lt;/body&gt;    
 &lt;/html&gt;
-</code>
+</code></pre>
 
 <p>
 
@@ -323,7 +323,9 @@ Now scroll up a bit. The block of code there will run when the page loads (and t
 
 <p>
 
-You can demo this version here: <a href="http://www.raymondcamden.com/demos/2012/jan/10/draft2/form.cfm">http://www.raymondcamden.com/demos/2012/jan/10/draft2/form.cfm</a>
+<strike>
+You can demo this version here: http://www.raymondcamden.com/demos/2012/jan/10/draft2/form.cfm
+</strike>
 
 <p>
 
@@ -339,4 +341,4 @@ Well, it definitely has in it's favor less server side code. Disabling JavaScrip
 
 <p>
 
-So - thoughts? (Note - you can get all the code by clicking the download link below.)<p><a href='enclosures/C{% raw %}%3A%{% endraw %}5Chosts{% raw %}%5C2012%{% endraw %}2Eraymondcamden{% raw %}%2Ecom%{% endraw %}5Cenclosures{% raw %}%2Fsaveform%{% endraw %}2Ezip'>Download attached file.</a></p>
+So - thoughts? (Note - you can get all the code by clicking the download link below.)<p><a href='https://static.raymondcamden.com/enclosures/saveform.zip'>Download attached file.</a></p>
