@@ -4,7 +4,7 @@ title: "My (Rough) Start with Azure Functions"
 date: "2018-07-06"
 categories: ["Serverless"]
 tags: ["azure"]
-banner_image: /images/banners/welcome2018.jpg
+banner_image: /images/banners/rough_start_a.jpg
 permalink: /2018/07/06/my-rough-start-with-azure-functions
 ---
 
@@ -131,3 +131,5 @@ But there is no online syntax checking here which is pretty surprising. Again, I
 You can hit my function here: [https://rcamden-azurefunctions.azurewebsites.net/api/HttpTriggerJS1?code=Jf2lYDGQCXwOoplK52aNyEbsLrL4wku69PVP1RCwNsq1qiT60aOZ4Q==&name=ray](https://rcamden-azurefunctions.azurewebsites.net/api/HttpTriggerJS1?code=Jf2lYDGQCXwOoplK52aNyEbsLrL4wku69PVP1RCwNsq1qiT60aOZ4Q==&name=ray)
 
 Ok - so yeah - a *very* rough experience with Azure login - but outside of that it's not too bad and the quick start was very nice and clear. My next post will talk about the experience of using my own editor and the CLI, then I'll start looking at some real stuff to build. Just to set expectations though I'm about to head out for vacation so it may be a little while before I post again!
+
+<i>Header photo by <a href="https://unsplash.com/photos/6E6CMgFAUjc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shirly Niv Marton</a> on Unsplash</i>
