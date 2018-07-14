@@ -18,7 +18,7 @@ Ok - so to outline what I want to cover today - this post covers:
 
 Everything here is documented so this will mainly be me sharing the URLs and screen shots of what I actually encountered. 
 
-You start off with Azure Functions at https://azure.microsoft.com/en-us/services/functions/. 
+You start off with Azure Functions at <https://azure.microsoft.com/en-us/services/functions/>. 
 
 ![Azure Functions home page](https://static.raymondcamden.com/images/2018/06/af1.jpg)
 
@@ -38,7 +38,7 @@ But yeah - that's a minor nit really. So now for the fun part - signing up for A
 
 ### The Quest for Azure
 
-To ensure I was starting fresh with no cookies or other bits hanging around, I fired up [Brave](https://brave.com/) and headed to the home page at https://azure.microsoft.com/en-us/free/. 
+To ensure I was starting fresh with no cookies or other bits hanging around, I fired up [Brave](https://brave.com/) and headed to the home page at <https://azure.microsoft.com/en-us/free/>. 
 
 ![Azure home page](https://static.raymondcamden.com/images/2018/06/af2.jpg)
 
@@ -82,7 +82,7 @@ Yeah - I don't know. The site was definitely confused about what state I was in:
 
 ![Eh?](https://static.raymondcamden.com/images/2018/06/af10.jpg)
 
-But ok - so I stopped clicking that link and got myself over to the tutorial: https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function. I then opened a new tab and loaded up the portal to find:
+But ok - so I stopped clicking that link and got myself over to the tutorial: <https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function>. I then opened a new tab and loaded up the portal to find:
 
 ![Portal of Doom](https://static.raymondcamden.com/images/2018/06/af11a.jpg)
 
