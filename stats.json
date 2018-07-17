@@ -4,23 +4,23 @@ layout: null
 
 	{% comment %}
 	taken from the code in sidebar.html, attempts to lowercase/unique the set of cats
+	get total num of words and avg
 	{% endcomment %}
 
-    {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-    {% assign sortedCats = site_cats | downcase | split:',' | sort %}
+	{% assign totalWords = 0 %}
+	{% for post in site.posts %}
+		{% assign postWords = post.content | number_of_words %}
+		{% assign totalWords = totalWords | plus:  postWords %}
+	{% endfor %}
 
-    {% assign uCats = array[1] %}
-    {% for item in sortedCats %}
-    {% unless uCats contains item %}
-        {% capture uCats %}{{ uCats }}{% unless forloop.first %},{% endunless %}{{ item }}{% endcapture %}
-    {% endunless %}
-    {% endfor %}
-    {% assign uCatsArray = uCats | split:',' | sort %}
+	{% assign avgWords = totalWords | divided_by: site.posts.size %}
 
 {
 	"totalPosts":{{ site.posts.size }},
 	"totalCategories": {{ site.categories.size }},
 	"totalTags": {{ site.tags.size }},
+	"totalWords": {{ totalWords }},
+	"averageWordsPerPost": {{ avgWords }},
 	"firstPost": {
 		"title":"{{ site.posts.last.title }}",
 		"published":"{{ site.posts.last.date | date: "%Y-%m-%d" }}",
