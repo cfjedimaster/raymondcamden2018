@@ -11,8 +11,8 @@ title: Stats
 <div id="app" v-cloak>
 	<table>
 		<tr>
-			<td>Total Posts:</td>
-			<td>{{totalPosts}}</td>
+			<td width="30%">Total Posts:</td>
+			<td width="70%">{{totalPosts}}</td>
 		</tr>
 		<tr>
 		<td>First Post:</td>
@@ -25,6 +25,14 @@ title: Stats
 		<td>
 		<a :href="lastPost.url">{{lastPost.title}}</a> published {{lastPost.age}} on {{lastPost.date}}
 		</td>
+		</tr>
+		<tr>
+		<td>Total Words Written:</td>
+		<td>{{totalWords}}</td>
+		</tr>
+		<tr>
+		<td>Average Words per Post:</td>
+		<td>{{avgWords}}</td>
 		</tr>
 	</table>
 </div>
@@ -46,7 +54,9 @@ new Vue({
 			title:"",
 			date:"",
 			url:""
-		}
+		},
+		totalWords:0,
+		avgWords:0
 	},
 	created:function() {
 		fetch('/stats.json')
@@ -69,6 +79,8 @@ new Vue({
 				age:moment(res.lastPost.published).fromNow()
 			};
 
+			this.totalWords = res.totalWords;
+			this.avgWords = res.averageWordsPerPost;
 
 		});
 	}
