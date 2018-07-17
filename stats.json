@@ -21,8 +21,14 @@ layout: null
 	"totalPosts":{{ site.posts.size }},
 	"totalCategories": {{ site.categories.size }},
 	"totalTags": {{ site.tags.size }},
-	"firstPost": "{{ site.posts.last.title }} ({{ site.posts.last.date | date: "%Y-%m-%d" }})",
-	"lastPost": "{{ site.posts.first.title }} ({{ site.posts.first.date | date: "%Y-%m-%d" }})",
+	"firstPost": {
+		"title":"{{ site.posts.last.title }}",
+		"published":"{{ site.posts.last.date | date: "%Y-%m-%d" }}"
+	},
+	"lastPost": {
+		"title":"{{ site.posts.first.title }}",
+		"published":"{{ site.posts.first.date | date: "%Y-%m-%d" }}"
+	},
 	"postsPerCategory":[
 		{% for category in site.categories %}
 			{% assign cat = category[0] %}
