@@ -17,19 +17,20 @@ title: Stats
 		<tr>
 		<td>First Post:</td>
 		<td>
-		<a :href="firstPost.url">{{firstPost.title}}</a> published on {{firstPost.date}}
+		<a :href="firstPost.url">{{firstPost.title}}</a> published {{firstPost.age}} on {{firstPost.date}}
 		</td>
 		</tr>
 		<tr>
 		<td>Last Post:</td>
 		<td>
-		<a :href="lastPost.url">{{lastPost.title}}</a> published on {{lastPost.date}}
+		<a :href="lastPost.url">{{lastPost.title}}</a> published {{lastPost.age}} on {{lastPost.date}}
 		</td>
 		</tr>
 	</table>
 </div>
 {% endraw %}
 
+<script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/moment.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
 new Vue({
@@ -57,14 +58,17 @@ new Vue({
 			this.firstPost = {
 				title:res.firstPost.title,
 				date:res.firstPost.published,
-				url:res.firstPost.url
+				url:res.firstPost.url,
+				age:moment(res.firstPost.published).fromNow()
 			};
 
 			this.lastPost = {
 				title:res.lastPost.title,
 				date:res.lastPost.published,
-				url:res.lastPost.url
+				url:res.lastPost.url,
+				age:moment(res.lastPost.published).fromNow()
 			};
+
 
 		});
 	}
