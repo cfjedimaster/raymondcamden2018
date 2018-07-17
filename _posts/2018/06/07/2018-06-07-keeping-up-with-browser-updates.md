@@ -2,8 +2,8 @@
 layout: post
 title: "Keeping Up with Browser Updates"
 date: "2018-06-07"
-categories: ["Development"]
-tags: ["Development"]
+categories: ["development"]
+tags: ["development"]
 banner_image: /images/banners/browsers.jpg
 permalink: /2018/06/07/keeping-up-with-browser-updates
 ---
