@@ -1,0 +1,41 @@
+---
+layout: null
+---
+
+	{% comment %}
+	taken from the code in sidebar.html, attempts to lowercase/unique the set of cats
+	{% endcomment %}
+
+    {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% assign sortedCats = site_cats | downcase | split:',' | sort %}
+
+    {% assign uCats = array[1] %}
+    {% for item in sortedCats %}
+    {% unless uCats contains item %}
+        {% capture uCats %}{{ uCats }}{% unless forloop.first %},{% endunless %}{{ item }}{% endcapture %}
+    {% endunless %}
+    {% endfor %}
+    {% assign uCatsArray = uCats | split:',' | sort %}
+
+{
+	"totalPosts":{{ site.posts.size }},
+	"totalCategories": {{ site.categories.size }},
+	"totalTags": {{ site.tags.size }},
+	"firstPost": "{{ site.posts.last.title }} ({{ site.posts.last.date | date: "%Y-%m-%d" }})",
+	"lastPost": "{{ site.posts.first.title }} ({{ site.posts.first.date | date: "%Y-%m-%d" }})",
+	"postsPerCategory":[
+		{% for category in site.categories %}
+			{% assign cat = category[0] %}
+			{% unless forloop.first %},{% endunless %}
+			{ "name": "{{cat}}", "size":{{site.categories[cat].size}} }
+		{% endfor %}
+	],
+	"postsPerTag":[
+		{% for tag in site.tags %}
+			{% assign tagName = tag[0] %}
+			{% unless forloop.first %},{% endunless %}
+			{ "name": "{{tagName}}", "size":{{site.tags[tagName].size}} }
+		{% endfor %}
+	]
+
+}
