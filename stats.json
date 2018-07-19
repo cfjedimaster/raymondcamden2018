@@ -14,7 +14,10 @@ layout: null
 		{% assign postWords = post.content | number_of_words %}
 		{% assign totalWords = totalWords | plus:  postWords %}
 		{% assign pd = post.date | date: "%Y-%m-%d" %}
-		{% assign dateOb = dateOb | append: "," | append: pd %}
+		{% unless forloop.first %}
+			{% assign dateOb = dateOb | append: "," %}
+		{% endunless %}
+		{% assign dateOb = dateOb | append: pd %}
 	{% endfor %}
 
 	{% assign avgWords = totalWords | divided_by: site.posts.size %}
