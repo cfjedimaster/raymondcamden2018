@@ -12,7 +12,7 @@ Credit for this post goes to a discussion my buddy [Todd Sharp](https://recursiv
 
 ## Getting Your RSS URL
 
-So the first step is getting your RSS url. My first attempt at Googling for the solution led to an older solution that was still helpful. If you go to your channel, for example, <https://www.youtube.com/user/TheRaymondCamden>, and then view source, just ctrl-f (Find) for `rssXML`. You'll see something like this:
+So the first step is getting your RSS url. My first attempt at Googling for the solution led to an older solution that was still helpful. If you go to your channel, for example, <https://www.youtube.com/user/TheRaymondCamden>, and then view source, just ctrl-f (Find) for `rssUrl`. You'll see something like this:
 
 	"rssUrl":"https://www.youtube.com/feeds/videos.xml?channel_id=UC8KROrnEHSnnV3z5J_FoSIg"
 
