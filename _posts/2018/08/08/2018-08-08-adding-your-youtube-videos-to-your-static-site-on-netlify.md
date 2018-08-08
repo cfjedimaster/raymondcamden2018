@@ -4,7 +4,7 @@ title: "Adding Your YouTube Videos to Your Static Site on Netlify"
 date: "2018-08-08"
 categories: ["javascript","static sites"]
 tags: []
-banner_image: /images/banners/welcome2018.jpg
+banner_image: /images/banners/yt-video-list.jpg
 permalink: /2018/08/08/adding-your-youtube-videos-to-your-static-site-on-netlify
 ---
 
