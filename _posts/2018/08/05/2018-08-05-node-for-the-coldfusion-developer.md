@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Node.js for the Non-Node.js Developer"
-date: "2018-08-09"
+date: "2018-08-10"
 categories: ["javascript","coldfusion"]
 tags: ["nodejs"]
 banner_image: /images/banners/enlightenment.jpg
-permalink: /2018/08/09/nodejs-for-the-nonnodejs-developer
+permalink: /2018/08/10/nodejs-for-the-nonnodejs-developer
 published: true
 ---
 
