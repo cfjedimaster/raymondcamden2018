@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Node.js for the ColdFusion Developer"
+title: "Node.js for the Non-Node.js Developer"
 date: "2018-08-09"
 categories: ["javascript","coldfusion"]
 tags: ["nodejs"]
 banner_image: /images/banners/enlightenment.jpg
-permalink: /2018/08/09/nodejs-for-the-coldfusion-developer
+permalink: /2018/08/09/nodejs-for-the-nonnodejs-developer
 published: true
 ---
+
+*Quick note: When I first wrote this article, it was entirely meant for ColdFusion developers who were interested in learning Node. After talking to my buddy [Brian Rinaldi](https://www.remotesynthesis.com/), he felt it would be useful for folks interested in learning Node in general. So I changed the title and URL, but kept the rest of the text as is. I think he is right and if you're doing web dev in any server-side language, I think this might be very useful helping you grok some of the peculiarities in how Node works!*
 
 Last year at what is - most likely - the last [cfObjective](http://www.cfobjective.com/), I gave a presentation on Node.js specifically for ColdFusion developers. As a former (except for some minor side work from time to time) ColdFusion developer myself, I shared what I liked, what I didn't, and what confused the heck out of me when learning Node. My intent was not to provide an "intro to Node", since so many of those resources exist, but rather to focus on the particular things that stood out to me when I was learning. I am still learning Node and probably have a good decade ahead of me before I consider myself an expert. But I'm certainly happy I've made the switch and I'd like to help others as well. I've been meaning to create a written version of my slide deck for some time, and when a reader emailed me a few days ago asking about Node from a ColdFusion perspective, I thought it was time to get off my rear and actually do it.
 
