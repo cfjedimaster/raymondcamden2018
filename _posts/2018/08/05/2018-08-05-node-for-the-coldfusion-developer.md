@@ -53,7 +53,7 @@ First, you install it. Head to [nodejs.org](https://nodejs.org/en/) and find the
 
 <img src="https://static.raymondcamden.com/images/2018/08/cfn3.jpg" class="imgcenter" alt="node -v at the terminal">
 
-Congratulations - you're a Node developer. Go updated your LinkedIn profile. 
+Congratulations - you're a Node developer. Go update your LinkedIn profile. 
 
 
 ### Oh Hey - Node Versions are Awesome!
