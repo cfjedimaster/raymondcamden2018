@@ -15,6 +15,19 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
+<p>
+<a href="https://www.meetup.com/gdg-atlanta/events/254160519">An Introduction to WebTask</a><br/>
+Google Developer Group Atlanta, Women Techmakers Atlanta<br/>
+Atlanta, GA, October 17, 2018
+</p>
+
+<p>
+<a href="http://connect.tech/">Building PWAs for People Terrifed of PWAs</a><br/>
+connect.tech<br/>
+Atlanta, GA, October 18, 2018
+</p>
+
+
 
 <h3>My Past Events</h3>
 
