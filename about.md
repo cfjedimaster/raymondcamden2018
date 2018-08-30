@@ -21,6 +21,7 @@ If you find this information useful (currently at {{ site.posts | size }} posts)
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="https://www.telerik.com/blogs/building-apps-with-vuejs">Building Apps with Vue.js</a> for Telerik</a></li>
 <li><a href="https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/">Building a RSS Viewer with Vue: Part 1</a> for css-tricks.</li>
 <li><a href="https://css-tricks.com/building-a-rss-viewer-with-vue-part-2/">Building a RSS Viewer with Vue: Part 2</a> for css-tricks.</li>
 <li><a href="https://goextend.io/blog/batch-processing-with-compilers">Batch Processing with Compilers</a> for Extend by Auth0</li>
