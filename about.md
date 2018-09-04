@@ -21,7 +21,7 @@ If you find this information useful (currently at {{ site.posts | size }} posts)
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
-<li><a href="https://www.telerik.com/blogs/building-apps-with-vuejs">Building Apps with Vue.js</a> for Telerik</a></li>
+<li><a href="https://www.telerik.com/blogs/building-apps-with-vuejs">Building Apps with Vue.js</a> for Telerik</li>
 <li><a href="https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/">Building a RSS Viewer with Vue: Part 1</a> for css-tricks.</li>
 <li><a href="https://css-tricks.com/building-a-rss-viewer-with-vue-part-2/">Building a RSS Viewer with Vue: Part 2</a> for css-tricks.</li>
 <li><a href="https://goextend.io/blog/batch-processing-with-compilers">Batch Processing with Compilers</a> for Extend by Auth0</li>
@@ -68,8 +68,9 @@ I have not done a great job of tracking my various articles on other web sites, 
 <li><a href="http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/">Introduction to Express</a> for Nettuts+</li>
 </ul>
 
-<h3>My Videos</h3>
+<h3>My Videos/Courses</h3>
 <ul>
+<li><a href="https://www.safaribooksonline.com/live-training/courses/getting-up-to-speed-with-vuejs/0636920182153/">Getting Up to Speed with Vue.js</a></li>
 <li><a href="https://www.lynda.com/Node-js-tutorials/Welcome/630621/689210-4.html">Building APIs with LoopBack</a></li>
 <li><a href="https://www.lynda.com/Ionic-tutorials/Learning-Ionic-Basics/562925-2.html">Learning Ionic</a></li>
 <li><a href="http://shop.oreilly.com/product/0636920043638.do">Client-Side Data Storage</a></li>
