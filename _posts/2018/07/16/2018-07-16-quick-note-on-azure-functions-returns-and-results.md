@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Note on Azure Functions Returns and Results"
 date: "2018-07-16"
-categories: ["Serverless"]
+categories: ["serverless"]
 tags: ["azure"]
 banner_image: /images/banners/rough_start_a.jpg
 permalink: /2018/07/16/quick-note-on-azure-functions-returns-and-results

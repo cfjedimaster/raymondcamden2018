@@ -2,7 +2,7 @@
 layout: post
 title: "My (Rough) Start with Azure Functions"
 date: "2018-07-06"
-categories: ["Serverless"]
+categories: ["serverless"]
 tags: ["azure"]
 banner_image: /images/banners/rough_start_a.jpg
 permalink: /2018/07/06/my-rough-start-with-azure-functions

@@ -2,7 +2,7 @@
 layout: post
 title: "Summer Plans - Looking at Azure Functions"
 date: "2018-07-02"
-categories: ["Serverless"]
+categories: ["serverless"]
 tags: ["azure"]
 banner_image: /images/banners/summer_plans.jpg
 permalink: /2018/07/02/summer-plans-looking-at-azure-functions

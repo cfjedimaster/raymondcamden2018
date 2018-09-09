@@ -2,7 +2,7 @@
 layout: post
 title: "HTTP Stuff with Azure Functions (and more)"
 date: "2018-08-20"
-categories: ["Serverless"]
+categories: ["serverless"]
 tags: ["azure"]
 banner_image: /images/banners/rough_start_a.jpg
 permalink: /2018/08/20/http-stuff-with-azure-functions-and-more

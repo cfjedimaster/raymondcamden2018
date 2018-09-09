@@ -2,7 +2,7 @@
 layout: post
 title: "Testing Local Development with Azure Functions"
 date: "2018-08-03"
-categories: ["Serverless"]
+categories: ["serverless"]
 tags: ["azure"]
 banner_image: /images/banners/rough_start_a.jpg
 permalink: /2018/08/03/testing-local-development-with-azure-functions
