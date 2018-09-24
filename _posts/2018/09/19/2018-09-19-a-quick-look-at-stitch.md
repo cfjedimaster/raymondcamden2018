@@ -4,9 +4,9 @@ title: "A Quick Look at Stitch"
 date: "2018-09-19"
 categories: ["serverless"]
 tags: ["stitch"]
-banner_image: /images/banners/welcome2018.jpg
+banner_image: /images/banners/stitch.jpg
 permalink: /2018/09/19/a-quick-look-at-stitch
-published: false
+published: true
 ---
 
 As a developer, it can be quite overwhelming keeping up with all the cool platforms and technologies available to you. The flip side of that coin is that sometimes you discover *really cool* stuff and frankly you don't mind that you're a bit late. For example, a few days ago I was introduced to [Stitch](https://www.mongodb.com/cloud/stitch) by MongoDB. This is a quite large product so I'm not going to over every detail, but it has some incredibly cool features that I'd like to share.
@@ -93,3 +93,5 @@ exports = function(payload) {
 And if your curious - you can see the result here: <https://webhooks.mongodb-stitch.com/api/client/v2.0/app/app1-togyt/service/httptest/incoming_webhook/webhook0?arg=ray&x=1>. (Spoiler - it's cats.) 
 
 All in all, I'm really impressed by Stitch and I plan to play more with it. I'd love to hear from my readers that are using it so please drop me a comment below if you've given it a spin.
+
+<i>Header photo by <a href="https://unsplash.com/photos/93x6yZautvA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clem Onojeghuo</a> on Unsplash</i>
