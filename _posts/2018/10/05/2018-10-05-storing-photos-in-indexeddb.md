@@ -120,7 +120,7 @@ function doImageTest() {
 }
 ```
 
-Note that you have to return the binary data to base64 for rendering, that's the `btoa` part at the bottom there. That's one of those functions I never use until I find it some random StackOverflow question. I also totally read in Maui's voice:
+Note that you have to return the binary data to base64 for rendering, that's the `btoa` part at the bottom there. That's one of those functions I never use until I find it some random StackOverflow question. I also totally read it in Maui's voice:
 
 <img title="Closeup of Maui" src="https://static.raymondcamden.com/images/2018/10/maui.jpg" class="imgborder imgcenter">
 
