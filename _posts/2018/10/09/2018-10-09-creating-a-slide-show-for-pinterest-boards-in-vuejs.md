@@ -123,4 +123,4 @@ const app = new Vue({
 })
 ```
 
-Only real cool part (in my opinion) is the feednami integration, and it's interesting maily due to how simple it is. Simple is good! You can find the complete CodePen below for your enjoyment. From what I know this was something my friend wanted for her kids so to me - it was time well spent!
+Only real cool part (in my opinion) is the feednami integration, and it's interesting mainly due to how simple it is. Simple is good! You can find the complete CodePen below for your enjoyment. From what I know this was something my friend wanted for her kids so to me - it was time well spent!
