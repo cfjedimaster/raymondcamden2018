@@ -28,10 +28,12 @@ description: <cftextarea name="description" id="description"></cftextarea><br/>
 price: <cfinput type="text" name="price" id="price"><br/> 
 </cfform> 
 ```
+
 I've got a form with 4 inputs. The first one is our primary ID field. When the user enters data there, we then want to load the 3 other fields with the corresponding data. One way to do that would be with binding. 
 
 ```markup
-<cfform> id: <cfinput type="text" name="artid" id="artid"><br/> 
+<cfform> 
+id: <cfinput type="text" name="artid" id="artid"><br/> 
 name: <cfinput type="text" name="artname" id="artname" bind="cfc:test.getName({artid@keyup})" readonly="true"><br/>
 description: <cftextarea name="description" id="description" bind="cfc:test.getDescription({artid@keyup})" readonly="true"></cftextarea><br/> 
 price: <cfinput type="text" name="price" id="price" bind="cfc:test.getPrice({artid@keyup})" readonly="true"><br/> 
@@ -40,8 +42,8 @@ price: <cfinput type="text" name="price" id="price" bind="cfc:test.getPrice({art
 
 I've modified the 3 form fields now so that each of them is bound to the ID field. (I also added a readonly flag just to make it clear to the user that these fields are bound to the back end data.) For each field we run a differnent method: getName, getDescription, and getPrice. These are all bound to one CFC:
 
-```
- <cfcomponent>
+```markup
+<cfcomponent>
 
 <cffunction name=”getData” access=”remote”> <cfargument name=”artid” required=”true”> <cfset var q = ““>
 
