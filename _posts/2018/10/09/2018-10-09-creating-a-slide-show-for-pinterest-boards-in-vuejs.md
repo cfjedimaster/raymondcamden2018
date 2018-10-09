@@ -124,3 +124,6 @@ const app = new Vue({
 ```
 
 Only real cool part (in my opinion) is the feednami integration, and it's interesting mainly due to how simple it is. Simple is good! You can find the complete CodePen below for your enjoyment. From what I know this was something my friend wanted for her kids so to me - it was time well spent!
+
+<p data-height="265" data-theme-id="0" data-slug-hash="yRVYJa" data-default-tab="js,result" data-user="cfjedimaster" data-pen-title="Pinterest to Slide Show with Vue" class="codepen">See the Pen <a href="https://codepen.io/cfjedimaster/pen/yRVYJa/">Pinterest to Slide Show with Vue</a> by Raymond Camden (<a href="https://codepen.io/cfjedimaster">@cfjedimaster</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
