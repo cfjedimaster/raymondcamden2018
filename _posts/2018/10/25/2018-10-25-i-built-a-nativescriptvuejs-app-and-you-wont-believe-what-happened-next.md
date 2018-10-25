@@ -32,7 +32,7 @@ Before I leave this section, a quick note. On multiple occasions I found that if
 
 So yes, I know we're all "real" developers and we have to use the CLI for everything, but you may want to check out the [Sidekick](https://www.nativescript.org/nativescript-sidekick) application. This is a desktop GUI that wraps the CLI operations and lets you quickly generate new projects and test them. It also does a great job of rendering information about your project like installed plugins and other settings.
 
-![My sidekick...](https://static.raymondcamden.com/images/2018/10/ns2.jpg)
+![My sidekick...](https://static.raymondcamden.com/images/2018/10/nsv2.jpg)
 
 Even more impressive, it can handle building to your iOS device... from Windows. In my testing this was a bit flakey. I know (or I'm pretty sure ;) it worked a few times, but I had trouble getting my last project working correctly. I'm going to assume it *will* work consistently though and that's pretty damn impressive.
 
