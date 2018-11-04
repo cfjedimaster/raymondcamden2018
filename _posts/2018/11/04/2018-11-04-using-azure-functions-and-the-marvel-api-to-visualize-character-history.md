@@ -4,7 +4,7 @@ title: "Using Azure Functions and the Marvel API to Visualize Character History"
 date: "2018-11-04"
 categories: ["serverless","javascript"]
 tags: ["azure","vuejs"]
-banner_image: /images/banners/welcome2018.jpg
+banner_image: /images/banners/comicbooks2018.jpg
 permalink: /2018/11/04/using-azure-functions-and-the-marvel-api-to-visualize-character-history
 ---
 
