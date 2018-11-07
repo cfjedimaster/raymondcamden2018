@@ -76,16 +76,15 @@ Based on that, this is what worked for me:
 
 2. In your component, do require the dataform like so:
 
-```js
-import { RadDataForm } from 'nativescript-ui-dataform';
+<strong>Edit on 11/7/2018, a mere hour after posting... @bundyo reduced the original 5 lines of code I had to just one:</strong>
 
-require("nativescript-vue").registerElement(
-    "RadDataForm",
-    () => require("nativescript-ui-dataform").RadDataForm
-);
+```js
+import 'nativescript-ui-dataform/vue';
 ```
 
 Looking at that code, the paragraph I quoted above makes sense now, but I had no idea what code to even use. If the code sample on the page had included this, it would have saved me about two hours - I kid you not.
+
+
 
 ### Working with Groups
 
