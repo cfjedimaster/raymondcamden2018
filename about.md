@@ -15,7 +15,6 @@ I'm somewhat of a Star Wars nerd - but don't tell anyone else I told you that.
 If you find this information useful (currently at {{ site.posts | size }} posts), please consider visiting my <a href="http://www.amazon.com/gp/registry/wishlist/2TCL1D08EZEYE/ref=cm_wl_rlist_go_v?">Amazon Wishlist</a> to show your appreciation. Since Amazon will often not tell me who purchased a gift for me, drop me a line to
  let me know!
 
-
 <h3>Articles</h3>
 
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
