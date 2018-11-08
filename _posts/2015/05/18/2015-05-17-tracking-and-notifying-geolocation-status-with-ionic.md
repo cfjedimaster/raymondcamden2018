@@ -14,9 +14,9 @@ On Twitter, Snehal reached out to me with an interesting question. Given a locat
 <!--more-->
 
 <ul>
-<li>Track the user's location - which is easy with geolocation and an interval.
-<li>Get the distance from the user's location to your target, which is also easy. (Ok, I lie. It's bat-shit crazy math but you can copy and paste a solution so let's call it easy.)
-<li>Tell the user when they are close - again easy.
+<li>Track the user's location - which is easy with geolocation and an interval.</li>
+<li>Get the distance from the user's location to your target, which is also easy. (Ok, I lie. It's bat-shit crazy math but you can copy and paste a solution so let's call it easy.)</li>
+<li>Tell the user when they are close - again easy.</li>
 </ul>
 
 What <i>wasn't</i> particularly easy for me to wrap my head around how to build this within Ionic, or specifically, within Angular. As I've said on multiple occasions now, I can write Angular, but I'm still struggling with how best to organize and coordinate various different aspects of my application. In this case, I was particularly confused by how I'd handle the interval process. I also needed something that would run <i>all</i> the time, not just for a particular view/controller. 
@@ -26,9 +26,9 @@ I was stuck - but then I figured - if I know I'm probably going to do this wrong
 I began by creating a new Ionic application. I let it use the default template, Tabs, so I'd have a "real" app with multiple views in it. I then created a new service in services.js called GeoAlert. GeoAlert would have a simple API:
 
 <ul>
-<li>begin: This would initiate tracking and would be passed a target location and a callback to fire when the user is "close enough". I ended up hard coding what "close enough" was, but that could have been an argument as well. Ditto for how often it checked the location.
-<li>end: This simply stops the tracking.
-<li>setTarget: A method I built and abandoned, but I thought it made sense so I kept it in. This lets you change the target.
+<li>begin: This would initiate tracking and would be passed a target location and a callback to fire when the user is "close enough". I ended up hard coding what "close enough" was, but that could have been an argument as well. Ditto for how often it checked the location.</li>
+<li>end: This simply stops the tracking.</li>
+<li>setTarget: A method I built and abandoned, but I thought it made sense so I kept it in. This lets you change the target.</li>
 </ul>
 
 Here is my service:
