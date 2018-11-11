@@ -16,24 +16,9 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="https://www.safaribooksonline.com/live-training/courses/learn-serverless-application-development-with-webtask/0636920215011/">Learn Serverless Application Development with Webtask</a><br/>
-Pearson/O'Reilly/Safari<br/>
-Online, October 8, 2018
+<a href="https://certifiedfreshevents.com/events/web-development-difficult/">Has Web Development Become Difficult?</a><br/>
+Online, November 27, 2018
 </p>
-
-<p>
-<a href="https://www.meetup.com/gdg-atlanta/events/254160519">An Introduction to WebTask</a><br/>
-Google Developer Group Atlanta, Women Techmakers Atlanta<br/>
-Atlanta, GA, October 17, 2018
-</p>
-
-<p>
-<a href="http://connect.tech/">Building PWAs for People Terrifed of PWAs</a><br/>
-connect.tech<br/>
-Atlanta, GA, October 18, 2018
-</p>
-
-
 
 <h3>My Past Events</h3>
 
@@ -282,5 +267,23 @@ PWA Talk<br/>
 <a href="https://www.intothebox.org/">Into the Box</a><br/>
 The Woodlands, TX<br/>
 April 26-27, 2018
+</p>
+
+<p>
+<a href="https://www.safaribooksonline.com/live-training/courses/learn-serverless-application-development-with-webtask/0636920215011/">Learn Serverless Application Development with Webtask</a><br/>
+Pearson/O'Reilly/Safari<br/>
+Online, October 8, 2018
+</p>
+
+<p>
+<a href="https://www.meetup.com/gdg-atlanta/events/254160519">An Introduction to WebTask</a><br/>
+Google Developer Group Atlanta, Women Techmakers Atlanta<br/>
+Atlanta, GA, October 17, 2018
+</p>
+
+<p>
+<a href="http://connect.tech/">Building PWAs for People Terrifed of PWAs</a><br/>
+connect.tech<br/>
+Atlanta, GA, October 18, 2018
 </p>
 
