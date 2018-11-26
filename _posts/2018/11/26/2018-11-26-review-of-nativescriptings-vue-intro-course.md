@@ -25,4 +25,6 @@ I also **really** like the video platform used on the site. It's one of the simp
 
 <img src="https://static.raymondcamden.com/images/2018/11/vueintro.jpg" alt="Example of the video UI" class="imgborder imgcenter">
 
-Currently the course is priced at $49, which seems completely reasonable to me and worth the price. If you sign up and mention my name, you get absolutely nothing, but I still recommend you do so anyway. 
+The course was created by [Alex Ziskind](https://twitter.com/digitalix), founder of the site itself, and you should definitely check out the other courses while you are there, although this is currently the only Vue-related one available. 
+
+The course is priced at $49, which seems completely reasonable to me and worth the price. If you sign up and mention my name, you get absolutely nothing, but I still recommend you do so anyway. 
