@@ -2,3 +2,4 @@ _site
 .sass-cache
 makecontent.js
 Gemfile.lock
+node_modules/
