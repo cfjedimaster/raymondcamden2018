@@ -19,17 +19,17 @@ In order for this to work, you need to build a skill that uses "slots". Slots ar
 	Is Weston on the naughty list?
 	Is Jane on the nice list?
 
-In all four examples, only two things changed - the name of the child and the type of list. Let's talk about names. As a programmer, do I have to specify what names are? Nope! Alexa supports a crap ton of built in slot types that match various different types of words, including names. You simply set up your skill to listen for a particular type of slot and Alexa will handle figuring it out. Your code then simply gets a name. 
+In all four examples, only two things changed - the name of the child and the type of list. Let's talk about names. As a programmer, do I have to specify what names are? Nope! Alexa supports a crap ton of built-in slot types that match various different types of words, including names. You simply set up your skill to listen for a particular type of slot and Alexa will handle figuring it out. Your code then simply gets a name. 
 
 What's *really* cool about this is that if you use a date slot, it will convert stuff like "tomorrow", "next Monday", etc, into real date objects. It really makes your code a heck of a lot simpler.
 
 You can see all the different slot types at the [reference docs](https://developer.amazon.com/docs/custom-skills/slot-type-reference.html) but just know that nearly every "broad" category of variable has already been covered and is ready for you to use.
 
-What about naughty and nice? For cases where Alexa doesn't have a built in slot, you can simply create a custom one and list out the options. Mine only had two so it wasn't difficult to do. Here is a screen shot from the Alexa developer console - you can see my two slots here, each with a name and type.
+What about naughty and nice? For cases where Alexa doesn't have a built-in slot, you can simply create a custom one and list out the options. Mine only had two so it wasn't difficult to do. Here is a screenshot from the Alexa developer console - you can see my two slots here, each with a name and type.
 
 <img src="https://static.raymondcamden.com/images/2018/12/sl1.jpg" alt="Alexa Slot Types developer console" class="imgborder imgcenter">
 
-After defining my slots, I can then use them in my sample utterances. Remember that a skill has intents, which are the broad ways of talking to it, and the sample utterances describe those intents. My skill only has one intent (ignoring the built in ones), so I simply added that one intent and wrote a set of utterances.
+After defining my slots, I can then use them in my sample utterances. Remember that a skill has intents, which are the broad ways of talking to it, and the sample utterances describe those intents. My skill only has one intent (ignoring the built-in ones), so I simply added that one intent and wrote a set of utterances.
 
 <img src="https://static.raymondcamden.com/images/2018/12/sl2.jpg" alt="My intent showing sample utterances" class="imgborder imgcenter">
 
@@ -126,7 +126,7 @@ module.exports = function(context, cb) {
 
 In general, the code breaks down into two main actions depending on the intent. The first one, `LaunchRequest`, handles people who just do "Alexa, open Santa's List", and I use it to provide help on how to use it. The second is where the fun comes in. Alexa will convert both the name, and naughty or nice selection, into code that's passed into my intent. You can see me accessing them via `intent.slots.Name.value` or `intent.slots.List.value`. I then select from a list of random strings and do a string replacement from `$NAME` to the actual name passed to the skill. 
 
-What I like about this is that when I think of new responses, I can edit this code (via my browser, Webtask has an incredible online editor) and just write it, save it, and I'm done. There's nothing I need to do on the Alexa side at all. This is neat but it also brings up one of the negatives about Alexa development. If you do screw up your server side code, you'll never know unless you log in to the portal and check for yourself. Alexa doesn't have any way of pinging you when things go wrong.
+What I like about this is that when I think of new responses, I can edit this code (via my browser, Webtask has an incredible online editor) and just write it, save it, and I'm done. There's nothing I need to do on the Alexa side at all. This is neat but it also brings up one of the negatives about Alexa development. If you do screw up your server-side code, you'll never know unless you log in to the portal and check for yourself. Alexa doesn't have any way of pinging you when things go wrong.
 
 Not that I think it helps any, but you can browse the Amazon page for the skill [here](https://www.amazon.com/Raymond-Camden-Santas-List/dp/B07L9S81JJ). Let me know what you think and try building your own Alexa integration!
 
