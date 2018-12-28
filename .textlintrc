@@ -1,0 +1,11 @@
+{
+  "filters": {},
+  "rules": {
+    "no-start-duplicated-conjunction":true,
+    "no-dead-link":true,
+    "terminology":true,
+    "@textlint-rule/no-unmatched-pair": true,
+    "alex":true,
+    "spellchecker":true
+  }
+}
