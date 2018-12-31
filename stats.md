@@ -12,7 +12,7 @@ title: Stats
 	<table>
 		<tr>
 			<td width="30%">Total Posts:</td>
-			<td width="70%">{{totalPosts}}</td>
+			<td width="70%">{{totalPosts | number}}</td>
 		</tr>
 		<tr>
 		<td>First Post:</td>
@@ -28,11 +28,11 @@ title: Stats
 		</tr>
 		<tr>
 		<td>Total Words Written:</td>
-		<td>{{totalWords}}</td>
+		<td>{{totalWords | number}}</td>
 		</tr>
 		<tr>
 		<td>Average Words per Post:</td>
-		<td>{{avgWords}}</td>
+		<td>{{avgWords | number}}</td>
 		</tr>
 	</table>
 
@@ -44,7 +44,7 @@ title: Stats
         </tr>
         <tr v-for="year in sortedYears">
             <td>{{year}}</td>
-            <td>{{years[year]}}</td>
+            <td>{{years[year] | number}}</td>
         </tr>
     </table>
 
@@ -56,7 +56,7 @@ title: Stats
         </tr>
         <tr v-for="cat in sortedCats">
             <td>{{cat.name}}</td>
-            <td>{{cat.size}}</td>
+            <td>{{cat.size | number}}</td>
         </tr>
     </table>
 
@@ -68,7 +68,7 @@ title: Stats
         </tr>
         <tr v-for="tag in sortedTags">
             <td>{{tag.name}}</td>
-            <td>{{tag.size}}</td>
+            <td>{{tag.size | number}}</td>
         </tr>
     </table>
 
@@ -78,6 +78,11 @@ title: Stats
 <script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/moment.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
+Vue.filter('number', s =>  {
+  if(!window.Intl) return s;
+  return new Intl.NumberFormat().format(s);
+});
+
 new Vue({
 	el:'#app',
 	data:{
