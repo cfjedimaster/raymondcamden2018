@@ -3,7 +3,10 @@
   "rules": {
 
     "no-start-duplicated-conjunction":true,
-    "no-dead-link":true,
+    "no-dead-link":{
+      "baseURI":"https://www.raymondcamden.com",
+      "preferGET":["https://www.linkedin"]
+    },
     "terminology":true,
     "@textlint-rule/no-unmatched-pair": true,
     "alex":true,
