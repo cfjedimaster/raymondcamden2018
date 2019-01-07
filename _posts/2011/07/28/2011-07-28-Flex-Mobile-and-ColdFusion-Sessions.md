@@ -17,24 +17,25 @@ Ok - maybe a little more detail is in order? ;) I knew that Flex on the desktop,
 
 <p/>
 <!--more-->
-<code>
-&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
-				 xmlns:s="library://ns.adobe.com/flex/spark" title="HomeView"&gt;
+
+```markup
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
+				 xmlns:s="library://ns.adobe.com/flex/spark" title="HomeView">
 	
-	&lt;fx:Declarations&gt;
-		&lt;s:RemoteObject id="testService" destination="ColdFusion" source="demos.july282011.remote" endpoint="http://www.raymondcamden.com/flex2gateway/" /&gt;			
-	&lt;/fx:Declarations&gt;
+	<fx:Declarations>
+		<s:RemoteObject id="testService" destination="ColdFusion" source="demos.july282011.remote" endpoint="http://www.raymondcamden.com/flex2gateway/" />			
+	</fx:Declarations>
 
-	&lt;s:layout&gt;
-		&lt;s:VerticalLayout/&gt;
-	&lt;/s:layout&gt;
+	<s:layout>
+		<s:VerticalLayout/>
+	</s:layout>
 
-	&lt;s:Button label="Test" click="testService.getKey()" /&gt;
-	&lt;s:Label id="resultLabel" text="{% raw %}{testService.getKey.lastResult}{% endraw %}" /&gt;
+	<s:Button label="Test" click="testService.getKey()" />
+	<s:Label id="resultLabel" text="{% raw %}{testService.getKey.lastResult}{% endraw %}" />
 
-&lt;/s:View&gt;
-</code>
+</s:View>
+```
 
 <p/>
 
@@ -42,7 +43,7 @@ For those of you who have never seen a lick of Flex code, you can probably guess
 
 <p/>
 
-<code>
+```js
 component {
 	this.name="flexremotetest1";
 	this.sessionManagement="true";
@@ -52,7 +53,7 @@ component {
 	}
 	
 }
-</code>
+```
 
 <p/>
 
@@ -60,7 +61,7 @@ Nothing too interesting there - just a session start event handler that assigns 
 
 <p/>
 
-<code>
+```js
 component {
 
 	remote string function getKey() { 
@@ -68,7 +69,7 @@ component {
 	}
 
 }
-</code>
+```
 
 <p/>
 
