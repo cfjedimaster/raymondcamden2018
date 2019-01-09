@@ -70,7 +70,7 @@ So far so good, but how do you actually *call* your functions? This is where I h
 
 No matter what you set for your functions folder, the URL will be: `yoursite/.netlify/functions/foo` where `foo` is the name of your JavaScript file minus the `.js` extension. 
 
-Once you've done all this, if you hit the **Funcitons** tab for your site, you can see a list of all your deployed functions:
+Once you've done all this, if you hit the **Functions** tab for your site, you can see a list of all your deployed functions:
 
 <img src="https://static.raymondcamden.com/images/2019/01/nf1.jpg" alt="List of Netlify Functions" class="imgborder imgcenter">
 
