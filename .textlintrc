@@ -5,7 +5,7 @@
     "no-start-duplicated-conjunction":true,
     "no-dead-link":{
       "baseURI":"https://www.raymondcamden.com",
-      "preferGET":["https://www.linkedin"]
+      "ignore": ["https://www.linkedin.com/*"]
     },
     "terminology":true,
     "@textlint-rule/no-unmatched-pair": true,
