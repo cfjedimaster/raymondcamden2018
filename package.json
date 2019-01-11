@@ -32,7 +32,7 @@
       "pre-commit": "lint-staged"
     }
   },
-  "lint-staged":{
-    "*.md":"textlint"
+  "lint-staged": {
+    "*.md": "textlint"
   }
 }
