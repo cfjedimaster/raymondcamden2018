@@ -10,7 +10,8 @@
     "terminology":true,
     "@textlint-rule/no-unmatched-pair": true,
     "alex":true,
-    "spellchecker":true
-
+    "spellchecker":{
+      skipWords:['Netlify','OpenWhisk','SendGrid','JSON','serverless']
+    }
   }
 }
