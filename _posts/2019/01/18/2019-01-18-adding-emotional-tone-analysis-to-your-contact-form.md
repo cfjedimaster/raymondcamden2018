@@ -223,7 +223,7 @@ Now check this input:
 i'm so happy with your service, but i'm nervous that if i commit to a monthly payment i'll not actually make use of it enough to get value. can you give me some more details on what i get with this service and help convince me it's worth it?
 ```
 
-While I know Watson isn't perfect, but wow, check the result: `Contact Form Submission [Tone: Tentative]` I'd consider that that near perfect. 
+While I know Watson isn't perfect, but wow, check the result: `Contact Form Submission [Tone: Tentative]` I'd consider that near perfect. 
 
 You could imagine connecting this with some rules in your mail server such that customer service folks with a history of handling angry customers automatically get those emails, and so on. Anyway, let me know what you think by leaving a comment below. As a reminder, this is all being done via a so-called "static" site. Pretty damn impressive, right?
 
