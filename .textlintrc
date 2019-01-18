@@ -11,7 +11,7 @@
     "@textlint-rule/no-unmatched-pair": true,
     "alex":true,
     "spellchecker":{
-      skipWords:['Netlify','OpenWhisk','SendGrid','JSON','serverless']
+      skipWords:['Netlify','OpenWhisk','SendGrid','JSON','serverless','netlify','https','Serverless']
     }
   }
 }
