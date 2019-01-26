@@ -4,7 +4,7 @@ title: About Me
 description: All about Raymond Camden
 ---
 
-<img src="{{ site.baseurl}}/images/ray3_2017.jpg" style="float:left;margin-right:10px">
+<img src="https://static.raymondcamden.com/images/ray2019c.jpg" style="float:left;margin-right:10px">
 
 My name is Raymond Camden. I'm a 45 year old father of seven living in beautiful Lafayette, Louisiana. I am a developer advocate working at American Express. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
 
