@@ -26,4 +26,4 @@ I noticed today that there wasn't a quick testing tool for Pug. The web site say
 
 <img src="https://static.raymondcamden.com/images/2016/11/pug2.png">
 
-You can test this yourself here: https://cfjedimaster.github.io/webdemos/pugclient/
+You can test this yourself here: <https://cfjedimaster.github.io/webdemos/pugclient/>
