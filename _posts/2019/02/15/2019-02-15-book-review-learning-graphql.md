@@ -4,8 +4,7 @@ title: "Book Review: Learning GraphQL"
 date: "2019-02-15"
 categories: ["Books","Development"]
 tags: ["graphql"]
-published: false
-banner_image: /images/banners/welcome2018.jpg
+banner_image: /images/banners/graphql.jpg
 permalink: /2019/02/15/book-review-learning-graphql
 ---
 
