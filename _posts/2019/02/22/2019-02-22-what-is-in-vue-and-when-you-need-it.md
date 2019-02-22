@@ -2,8 +2,8 @@
 layout: post
 title: "What is $nextTick in Vue and When You Need It"
 date: "2019-02-22"
-categories: ["Uncategorized"]
-tags: []
+categories: ["JavaScript"]
+tags: ["vuejs"]
 banner_image: /images/banners/tick.jpg
 permalink: /2019/02/22/what-is-nexttick-in-vue-and-when-you-need-it
 ---
