@@ -11,7 +11,7 @@ layout: default
                         <div class="post-thumbnail">
                             <img src="{{ "https://static.raymondcamden.com" | append: page.banner_image }}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
                         </div><!-- .post-thumbnail -->
-                        {% elsif page.local_banner_image %}>
+                        {% elsif page.local_banner_image %}
                         <div class="post-thumbnail">
                             <img src="{{ "/images/" | append: page.local_banner_image | prepend: site.baseurl }}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
                         </div>
