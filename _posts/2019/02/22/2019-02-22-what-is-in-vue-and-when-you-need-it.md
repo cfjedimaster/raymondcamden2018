@@ -85,3 +85,5 @@ You can see the corrected version in the CodePen below.
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 So to answer the question of "when" - I guess I'd say when you need to ensure the DOM 100% reflects your data and in this case it's kind of obvious - I needed my form POST to use the correct URL. Out of all the times I've used Vue this is the first time I needed this precise level of control but I'm sure I'll run into more examples. If you can, please share an example of when you've used it in the comments below!
+
+<i>Header photo by <a href="https://unsplash.com/photos/n-pqXQ9YsBg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Franck V</a> on Unsplash</i>
