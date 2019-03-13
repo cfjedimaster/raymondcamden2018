@@ -6,7 +6,7 @@ description: All about Raymond Camden
 
 <img src="https://static.raymondcamden.com/images/ray2019c.jpg" style="float:left;margin-right:10px">
 
-My name is Raymond Camden. I'm a 45 year old father of seven living in beautiful Lafayette, Louisiana. I am a developer advocate working at American Express. Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
+My name is Raymond Camden. I'm a 45 year old father of seven living in beautiful Lafayette, Louisiana. I am a developer advocate working at one of those companies that require you to have a disclaimer if you say you work for them. I am fundamentally opposed to that as it should be obvious this is a personal web site. That being said, you can see my current employer at my [LinkedIn profile](https://www.linkedin.com/in/raymondcamden/). Most of my time is spent writing, researching, or presenting. When I'm not behind a computer, I'm an avid XBox/PS4 player, enjoy movies, and read like crazy. 
 
 I've been lucky to have been invited to speak at many conferences over the years. If you would like me to speak at your conference or organization, please <a href="/contact">contact</a> me. I can cover pretty much any topic you see my blog about, but feel free to request just about anything. I love presenting on topics I'm not yet familiar with as it gives me a chance to learn something new.
 
@@ -20,6 +20,7 @@ If you find this information useful (currently at {{ site.posts | size }} posts)
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="https://www.nativescript.org/blog/working-with-vuex-in-your-nativescript-vue-application-now-with-cats">Working with Vuex in Your NativeScript-Vue Application - Now with Cats!</a></li>
 <li><a href="https://www.nativescript.org/blog/working-with-vuex-in-your-nativescript-vue-application">Working with Vuex in Your NativeScript-Vue Application</a></li>
 <li><a href="https://www.telerik.com/blogs/building-apps-with-vuejs">Building Apps with Vue.js</a> for Telerik</li>
 <li><a href="https://css-tricks.com/building-a-rss-viewer-with-vue-part-1/">Building a RSS Viewer with Vue: Part 1</a> for css-tricks.</li>

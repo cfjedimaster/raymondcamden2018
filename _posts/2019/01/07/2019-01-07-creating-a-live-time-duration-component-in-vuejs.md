@@ -42,7 +42,7 @@ As you can see, all I bothered to add was a value for the date. The real meat is
 ```js
 Vue.component('time-since',{
   template:`
-<span>{{days}} days {{hours}} hours {{ minutes}} minutes {{ seconds}} seconds</span>
+<span>{% raw %}{{days}{% endraw %}} days {% raw %}{{hours}{% endraw %}} hours {% raw %}{{minutes}{% endraw %}} minutes {% raw %}{{seconds}{% endraw %}} seconds</span>
 `,
   data() {
     return {
@@ -118,7 +118,7 @@ So one of the issues with the first version is that it forces a particular kind 
   
   My birthday was <time-since :date="birthday">
   <template slot-scope="int">
-  {{int.days}}D {{int.hours}}H {{int.minutes}}M {{int.seconds}}S
+  {% raw %}{{int.days}{% endraw %}}D {% raw %}{{int.hours}{% endraw %}}H {% raw %}{{int.minutes}{% endraw %}}M {% raw %}{{int.seconds}{% endraw %}}S
   </template>
   </time-since> ago. 
 
@@ -131,7 +131,7 @@ In this version, I'm using a slot and customizing the labels used for the interv
 Vue.component('time-since',{
   template:`
 <span>
-<slot :days="days" :hours="hours" :minutes="minutes" :seconds="seconds">{{days}} days {{hours}} hours {{ minutes}} minutes {{ seconds}} seconds</slot>
+<slot :days="days" :hours="hours" :minutes="minutes" :seconds="seconds">{% raw %}{{days}{% endraw %}} days {% raw %}{{hours}{% endraw %}} hours {% raw %}{{minutes}{% endraw %}} minutes {% raw %}{{seconds}{% endraw %}} seconds</slot>
 </span>
 `,
  //stuff deleted...
