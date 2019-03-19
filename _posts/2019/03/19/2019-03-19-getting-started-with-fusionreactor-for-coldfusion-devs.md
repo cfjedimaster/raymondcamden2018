@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started with FusionReactor (for ColdFusion Devs)"
 date: "2019-03-19"
-categories: ["ColdFusion"]
+categories: ["coldfusion"]
 tags: []
 banner_image: /images/banners/fusionreactor2.png
 permalink: /2019/03/19/getting-started-with-fusionreactor-for-coldfusion-devs
