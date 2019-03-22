@@ -6,6 +6,7 @@ categories: ["coldfusion"]
 tags: []
 banner_image: /images/banners/fusionreactor2.png
 permalink: /2019/03/19/getting-started-with-fusionreactor-for-coldfusion-devs
+description: A look into FusionReactor and Detecting Errors with ColdFusion pages.
 ---
 
 As a ColdFusion developer, you may know that it's running as a J2EE server but also may have zero to no idea what that means in a practical sense. ColdFusion has always been easy to use, especially for developers from a non-traditional background, and this sometimes means there's aspects of the platform that aren't quite as easy to understand as others. A great example of this are the things that are more Java-centric. FusionReactor integrates with your ColdFusion server from a Java-perspective, which means it may be use terms that may be unfamiliar to the developer who only knows CFML. 
