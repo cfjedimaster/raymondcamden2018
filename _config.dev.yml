@@ -25,6 +25,8 @@ sass:
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://www.raymondcamden.com"
 
+include: [_redirects]
+
 # Site navigation - each item must have a title and a url.
 navigation:
 - text: Home
