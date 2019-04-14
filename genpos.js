@@ -53,6 +53,7 @@ categories: [${categories}]
 tags: [${tags}]
 banner_image: /images/banners/welcome2018.jpg
 permalink: /${year}/${month}/${day}/${slug}
+description: 
 ---
 
 `;
