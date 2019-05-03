@@ -16,19 +16,41 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="https://nativescriptdevday.org/">From Vue to NativeScript-Vue</a><br/>
-Amsterdam, NL, April 11-12, 2019
+<a href="https://www.acadianasoftwaregroup.org/">Intro to Vue</a><br/>
+Acadiana Software Group<br/>
+Lafayette, LA, May 15, 2019
+</p>
+
+<p>
+<a href="http://codelandconf.com/">Vue for Real People</a><br/>
+Codeland<br/>
+New York, NY, July 22, 2019
+</p>
+
+<p>
+<a href="https://jsmobileconf.com/">TBD</a><br/>
+jsMobileConf<br/>
+Boston, MA, November 12-13, 2019
 </p>
 
 <h3>My Past Events</h3>
 
 <p>
+<a href="https://nativescriptdevday.org/">From Vue to NativeScript-Vue</a><br/>
+NativeScript Developer Day<br/>
+Amsterdam, NL, April 11-12, 2019
+</p>
+
+
+<p>
 <a href="https://devnexus.com/presentations/3742/">Building Webapps with Vue.js & Nuxt.js</a><br/>
+DevNexus<br/>
 Atlanta, GA, March 6-8, 2019
 </p>
 
 <p>
 <a href="https://devnexus.com/presentations/3380/">Vue.js for Regular People</a><br/>
+DevNexus<br/>
 Atlanta, GA, March 6-8, 2019
 </p>
 
