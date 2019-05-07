@@ -36,6 +36,12 @@ Boston, MA, November 12-13, 2019
 <h3>My Past Events</h3>
 
 <p>
+Here are my past events, most recent first, in a nice scrollable list no one will probably ever read. ;)
+</p>
+
+<div style="height: 400px; overflow:scroll">
+
+<p>
 <a href="https://nativescriptdevday.org/">From Vue to NativeScript-Vue</a><br/>
 NativeScript Developer Day<br/>
 Amsterdam, NL, April 11-12, 2019
@@ -169,7 +175,7 @@ July 20-21, 2017
 </p>
 
 <p>
-<a href="https://www.facebook.com/events/1920692501553535/?acontext=%7B%22ref%22%3A%224%22%2C%22action_history%22%3A%22null%22%7D">OpenWhisk Talk</a>&lt;/br&gt;
+<a href="https://www.facebook.com/events/1920692501553535/?acontext=%7B%22ref%22%3A%224%22%2C%22action_history%22%3A%22null%22%7D">OpenWhisk Talk</a><br/>
 Acadiana Software Group<br>
 433 Jefferson St, Lafayette, Louisiana 70501
 June 14, 2017, 6:30PM
@@ -323,3 +329,11 @@ Ionic SF, SF, CA, October 14, 2015&lt;/a&gt;</p>
 <p>
 <a href="https://plus.google.com/u/0/events/cj9gq79q1nei2fmksdmhbjkkt1o">Working with Static Sites</a><br>Online, July 1, 2015
 </p>
+
+</div>
+
+<h3>Recorded Presentations</h3>
+
+I have not done a good job collecting these links over the years, but here is a playlist of my presentations over the past years. More have been recorded that I've not yet found, and when I discover them I'll add them of course.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL_z-rqJYNijriBt9w3Snn1hRMCYWvIORR" frameborder="0" allowfullscreen></iframe>
