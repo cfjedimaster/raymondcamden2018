@@ -263,7 +263,7 @@ Vue.component('cat', {
 });
 
 Vue.component('kitten', {
-  template:'<div><h1>Kitten: {{ dontexist() }}</h1></div>',
+  template:'<div><h1>Kitten: {% raw %}{{ dontexist() }{% endraw %}}</h1></div>',
   props:{
     name:{
       required:true,
