@@ -22,6 +22,12 @@ Lafayette, LA, May 15, 2019
 </p>
 
 <p>
+<a href="https://cfe.dev/events/intro-to-vue/">An Introduction to Vue</a><br/>
+Certified Fresh Events<br/>
+Online, May 23rd, 2019
+</p>
+
+<p>
 <a href="http://codelandconf.com/">Vue for Real People</a><br/>
 Codeland<br/>
 New York, NY, July 22, 2019
