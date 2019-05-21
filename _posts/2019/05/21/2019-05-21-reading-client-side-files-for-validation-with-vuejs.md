@@ -98,7 +98,7 @@ To help process this list of names, let's build some code that will read in a te
   <input type="file" ref="myFile" @change="selectedFile"> 
   <input type="submit" value="Upload File" />
   <div v-if="allNames.length">
-    <p>Your file contains {{allNames.length}} names. Here's the first ten names.</p>
+    <p>Your file contains {% raw %}{{allNames.length}}{% endraw %} names. Here's the first ten names.</p>
     <ul>
 	  {% raw %}<li v-for="name in names">{{name}}</li>{% endraw %}
     </ul>
