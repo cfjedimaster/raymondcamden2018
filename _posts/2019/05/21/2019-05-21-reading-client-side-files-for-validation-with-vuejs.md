@@ -100,7 +100,7 @@ To help process this list of names, let's build some code that will read in a te
   <div v-if="allNames.length">
     <p>Your file contains {{allNames.length}} names. Here's the first ten names.</p>
     <ul>
-      <li v-for="name in names">{{name}}</li>
+	  {% raw %}<li v-for="name in names">{{name}}</li>{% endraw %}
     </ul>
   </div>
   
@@ -189,9 +189,9 @@ Here's the layout:
       </thead>
       <tbody>
         <tr v-for="cat in cats">
-          <td>{{cat.name}}</td>
-          <td>{{cat.age}}</td>
-          <td>{{cat.gender}}</td>
+          <td>{% raw %}{{cat.name}}{% endraw %}</td>
+          <td>{% raw %}{{cat.age}}{% endraw %}</td>
+          <td>{% raw %}{{cat.gender}}{% endraw %}</td>
         </tr>
       </tbody>
     </table>
