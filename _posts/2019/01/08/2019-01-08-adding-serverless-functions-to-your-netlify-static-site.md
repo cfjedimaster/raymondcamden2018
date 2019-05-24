@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Serverless Functions to Your Netlify Static Site"
 date: "2019-01-08"
-categories: ["Serverless","Static Sites"]
+categories: ["serverless","static sites"]
 tags: ["javascript"]
 banner_image: /images/banners/static.jpg
 permalink: /2019/01/08/adding-serverless-functions-to-your-netlify-static-site

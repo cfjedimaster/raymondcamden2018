@@ -2,7 +2,7 @@
 layout: post
 title: "Customized Form Handling on Netlify with Serverless Functions"
 date: "2019-01-15"
-categories: ["Serverless","Static Sites"]
+categories: ["serverless","static sites"]
 tags: ["javascript"]
 banner_image: /images/banners/forms.jpg
 permalink: /2019/01/15/customized-form-handling-on-netlify-with-serverless-functions
