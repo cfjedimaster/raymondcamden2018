@@ -78,4 +78,4 @@ I then wrote up some simple Vue code to hit against my function (the endpoint is
 
 So when I started this blog post, I imagined it being a bit more detailed. To be honest, it just worked. It was simple. (Again, ignoring issues that were mostly my own fault.) I'm truly shocked and how well this platform is working!
 
-<i>Header photo by <a href="Charles PH">https://unsplash.com/photos/D-vDQMTfAAU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText</a> on Unsplash</i>
+<i>Header photo by <a href="https://unsplash.com/photos/D-vDQMTfAAU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Charles PH</a> on Unsplash</i>
