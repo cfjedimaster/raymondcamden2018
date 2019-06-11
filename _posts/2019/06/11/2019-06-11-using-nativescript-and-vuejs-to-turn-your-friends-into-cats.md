@@ -2,9 +2,9 @@
 layout: post
 title: "Using NativeScript and Vue.js to Turn Your Friends into Cats"
 date: "2019-06-11"
-categories: ["Uncategorized"]
-tags: []
-banner_image: /images/banners/welcome2018.jpg
+categories: ["javascript","mobile"]
+tags: ["vuejs","nativescript"]
+banner_image: /images/banners/kittens.jpg
 permalink: /2019/06/11/using-nativescript-and-vuejs-to-turn-your-friends-into-cats
 description: How to use the NativeScript Contacts plugin to add pictures to your contacts
 ---
@@ -178,3 +178,5 @@ And here's two examples:
 <img src="https://static.raymondcamden.com/images/2019/06/cat7.png" alt="Second example" class="imgborder imgcenter">
 
 And that's it. Stupid fun, but nice to build. If anyone wants the complete source code, just ask!
+
+<i>Header photo by <a href="https://unsplash.com/@mewmewmew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Q'AILA</a> on Unsplash</i>
