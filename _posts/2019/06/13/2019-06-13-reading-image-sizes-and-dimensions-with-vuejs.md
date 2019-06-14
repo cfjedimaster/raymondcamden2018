@@ -117,7 +117,7 @@ Now that you've seen the basics, let's consider an example using validation. We'
   <input type="file" ref="myFile" @change="selectedFile" accept="image/*"><br/>
 
   <div v-if="imageError" class="imageError">
-    {{imageError}}
+    {% raw %}{{imageError}}{% endraw %}
   </div>
 
 </div>
