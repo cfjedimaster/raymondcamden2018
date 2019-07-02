@@ -133,4 +133,6 @@ I then hit the API with my state, filter the results to those with images, and s
 
 If you want, you can view the entire code base here: <https://github.com/cfjedimaster/npsbot>. I will keep the bot running for as long as Azure doesn't charge me. :)
 
+Edit - one quick note I forgot to mention. The last thing I had to do was switch the function from a HTTP driven one to a scheduled one. I thought that would be simple. The file, `function.json`, determines the types of connections your functions can use (along with other settings), but the docs for scheduled tasks always showed a subset of the function.json file, not the whole thing. My first attempt to add the right values broke the function because I discovered you can't have a HTTP driven function *and* one that uses a schedule. That seems silly, but you can work around it by adding a second function that just calls the first. Since I only needed HTTP support for testing, I just removed it. My `function.json` is in the GitHub repo so if you are curious, you can take a look.
+
 <i>Header photo by <a href="https://unsplash.com/@divewithchuck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Charles Black</a> on Unsplash</i>
