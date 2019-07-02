@@ -19,6 +19,10 @@
         </ul><!-- .recent-posts -->
     </section><!-- .widget-recent-posts -->
 
+    <div style="margin:auto;width:200px;padding-bottom:30px">
+    {% include coffee.html %}
+    </div>
+
     <!--Create a sorted array of tags-->
     {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
     {% assign sortedCats = site_cats | downcase | split:',' | sort %}
