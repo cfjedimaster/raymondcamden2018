@@ -16,21 +16,21 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="https://www.acadianasoftwaregroup.org/">Intro to Vue</a><br/>
-Acadiana Software Group<br/>
-Lafayette, LA, May 15, 2019
+<a href="http://codelandconf.com/">Vue for Real People</a><br/>
+Codeland<br/>
+New York, NY, July 22, 2019
 </p>
 
 <p>
-<a href="https://cfe.dev/events/intro-to-vue/">An Introduction to Vue</a><br/>
-Certified Fresh Events<br/>
-Online, May 23rd, 2019
+<a href="https://fronteers.nl/congres/2019/">It was the best of times, it was the worst of times...</a><br/>
+Fronteers<br/>
+Amsterdam, NL, October 3-4, 2019
 </p>
 
 <p>
 <a href="http://codelandconf.com/">Vue for Real People</a><br/>
-Codeland<br/>
-New York, NY, July 22, 2019
+connect.tech<br/>
+Atlanta, GA, October 16-18, 2019
 </p>
 
 <p>
@@ -46,6 +46,17 @@ Here are my past events, most recent first, in a nice scrollable list no one wil
 </p>
 
 <div style="height: 400px; overflow:scroll">
+<p>
+<a href="https://cfe.dev/events/intro-to-vue/">An Introduction to Vue</a><br/>
+Certified Fresh Events<br/>
+Online, May 23rd, 2019
+</p>
+
+<p>
+<a href="https://www.acadianasoftwaregroup.org/">Intro to Vue</a><br/>
+Acadiana Software Group<br/>
+Lafayette, LA, May 15, 2019
+</p>
 
 <p>
 <a href="https://nativescriptdevday.org/">From Vue to NativeScript-Vue</a><br/>
@@ -72,7 +83,7 @@ Online, November 27, 2018
 </p>
 
 <p>
-<a href="http://connect.tech/">Building PWAs for People Terrifed of PWAs</a><br>
+<a href="http://connect.tech/">Building PWAs for People Terrified of PWAs</a><br>
 connect.tech<br>
 Atlanta, GA, October 18, 2018
 </p>
