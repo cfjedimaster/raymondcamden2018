@@ -16,12 +16,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="http://codelandconf.com/">Vue for Real People</a><br/>
-Codeland<br/>
-New York, NY, July 22, 2019
-</p>
-
-<p>
 <a href="https://fronteers.nl/congres/2019/">It was the best of times, it was the worst of times...</a><br/>
 Fronteers<br/>
 Amsterdam, NL, October 3-4, 2019
@@ -46,6 +40,13 @@ Here are my past events, most recent first, in a nice scrollable list no one wil
 </p>
 
 <div style="height: 400px; overflow:scroll">
+<p>
+<a href="http://codelandconf.com/">Vue for Real People</a><br/>
+Codeland<br/>
+New York, NY, July 22, 2019
+</p>
+
+
 <p>
 <a href="https://cfe.dev/events/intro-to-vue/">An Introduction to Vue</a><br/>
 Certified Fresh Events<br/>
