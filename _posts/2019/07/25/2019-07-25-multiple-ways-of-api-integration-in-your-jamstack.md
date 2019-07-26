@@ -137,7 +137,8 @@ Once this was in place, I could then use it with some more Vue.js code. (To be c
 	<h1>Moon Data for Lafayette, LA</h1>
 	<ul>
 		<li v-for="result in results">
-			On {{result.time | formatDate}}, the moon will rise at {{result.moonRise}} and set at {{result.moonSet}}. It is in {{result.moonPhaseDesc}}. 
+			On {% raw %}{{result.time | formatDate}}{% endraw %}, the moon will rise at {% raw %}{{result.moonRise}}{% endraw %} and set at {% raw %}{{result.moonSet}}{% endraw %}. 
+			It is in {% raw %}{{result.moonPhaseDesc}}{% endraw %}. 
 		</li>
 	</ul>
 </div>
@@ -205,7 +206,7 @@ fetch('https://swapi.co/api/films')
 	});
 
 	let contents = fs.readFileSync('./test3.html','utf8');
-	contents = contents.replace('{{ filmData }}', generatedHTML);
+	contents = contents.replace('{% raw %}{{ filmData }}{% endraw %}', generatedHTML);
 
 	fs.writeFileSync('./test3.final.html', contents);
 	
@@ -228,7 +229,7 @@ This Node script fires off a HTTP request to the Star Wars API. It then turns th
 <div id="app">
 	<h1>Star Wars Films</h1>
 	<ul>
-		{{ filmData }}
+		{% raw %}{{ filmData }}{% endraw %}
 	</ul>
 </div>
 
