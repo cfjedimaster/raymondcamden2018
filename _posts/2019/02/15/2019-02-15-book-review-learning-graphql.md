@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Learning GraphQL"
 date: "2019-02-15"
-categories: ["Books","Development"]
+categories: ["books","development"]
 tags: ["graphql"]
 banner_image: /images/banners/graphql.jpg
 permalink: /2019/02/15/book-review-learning-graphql
