@@ -2,7 +2,7 @@
 layout: post
 title: "Reading Image Sizes and Dimensions with Vue.js"
 date: "2019-06-13"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/paintings.jpg
 permalink: /2019/06/13/reading-image-sizes-and-dimensions-with-vuejs

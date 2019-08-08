@@ -2,7 +2,7 @@
 layout: post
 title: "Vue Components FTW - VGauge (and a love letter to CodeSandbox)"
 date: "2019-04-19"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs","vue components ftw"]
 banner_image: /images/banners/gauge.jpg
 permalink: /2019/04/19/vue-components-ftw-vgauge-and-a-love-letter-to-codesandbox

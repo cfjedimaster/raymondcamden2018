@@ -2,7 +2,7 @@
 layout: post
 title: "Using Alexa to Mess with Your Kids, Because Why Not?"
 date: "2018-12-13"
-categories: ["Development"]
+categories: ["development"]
 tags: ["alexa","webtask"]
 banner_image: /images/banners/santaslist.jpg
 permalink: /2018/12/13/using-alexa-to-mess-with-your-kids-because-why-not

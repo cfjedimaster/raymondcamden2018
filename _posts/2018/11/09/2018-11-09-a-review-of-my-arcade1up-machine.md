@@ -2,7 +2,7 @@
 layout: post
 title: "A Review of My Arcade1Up Machine"
 date: "2018-11-09"
-categories: ["Video Games"]
+categories: ["video games"]
 tags: []
 banner_image: /images/banners/arcade.jpg
 permalink: /2018/11/09/a-review-of-my-arcade1up-machine

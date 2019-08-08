@@ -2,7 +2,7 @@
 layout: post
 title: "Vue Components FTW - vue-pure-lightbox"
 date: "2019-02-20"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs","vue components ftw"]
 banner_image: /images/banners/lightbox.jpg
 permalink: /2019/02/20/vue-components-ftw-vue-pure-lightbox

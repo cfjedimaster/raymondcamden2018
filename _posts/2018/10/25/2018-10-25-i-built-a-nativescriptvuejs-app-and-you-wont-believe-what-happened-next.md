@@ -2,7 +2,7 @@
 layout: post
 title: "I Built a NativeScript/Vue.js App and You Won't Believe What Happened Next..."
 date: "2018-10-25"
-categories: ["Development"]
+categories: ["development"]
 tags: ["nativescript"]
 banner_image: /images/banners/shocked-face-2.jpg
 permalink: /2018/10/25/i-built-a-nativescriptvuejs-app-and-you-wont-believe-what-happened-next

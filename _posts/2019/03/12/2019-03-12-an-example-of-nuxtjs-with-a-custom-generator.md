@@ -2,7 +2,7 @@
 layout: post
 title: "An Example of Nuxt.js with a Custom Generator"
 date: "2019-03-12"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/routes.jpg
 permalink: /2019/03/12/an-example-of-nuxtjs-with-a-custom-generator

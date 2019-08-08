@@ -2,7 +2,7 @@
 layout: post
 title: "Vue Components FTW - Toasted"
 date: "2019-02-06"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs","vue components ftw"]
 banner_image: /images/banners/toast.jpg
 permalink: /2019/02/06/vue-components-ftw-toasted

@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Automated Text Linting to My Blog"
 date: "2018-12-28"
-categories: ["Development"]
+categories: ["development"]
 tags: []
 banner_image: /images/banners/newspaper.jpg
 permalink: /2018/12/28/adding-automated-text-linting-to-my-blog

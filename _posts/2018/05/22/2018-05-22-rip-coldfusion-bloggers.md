@@ -2,7 +2,7 @@
 layout: post
 title: "RIP ColdFusion Bloggers"
 date: "2018-05-22"
-categories: ["ColdFusion"]
+categories: ["coldfusion"]
 tags: []
 banner_image: /images/banners/graveyard.jpg
 permalink: /2018/05/22/rip-coldfusion-bloggers

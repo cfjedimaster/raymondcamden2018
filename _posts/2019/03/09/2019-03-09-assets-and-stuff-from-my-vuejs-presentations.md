@@ -2,7 +2,7 @@
 layout: post
 title: "Assets and Stuff from My Vue.js Presentations"
 date: "2019-03-09"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/gate.jpg
 permalink: /2019/03/09/assets-and-stuff-from-my-vuejs-presentations

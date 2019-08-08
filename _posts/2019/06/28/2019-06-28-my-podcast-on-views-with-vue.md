@@ -2,7 +2,7 @@
 layout: post
 title: "My Podcast on Views with Vue"
 date: "2019-06-28"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/megaphone.jpg
 permalink: /2019/06/28/my-podcast-on-views-with-vue

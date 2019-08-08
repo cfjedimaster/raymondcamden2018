@@ -2,7 +2,7 @@
 layout: post
 title: "Vue Components FTW - vue-country-flag"
 date: "2019-06-21"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs","vue components ftw"]
 banner_image: /images/banners/flags.jpg
 permalink: /2019/06/21/vue-components-ftw-vue-country-flag

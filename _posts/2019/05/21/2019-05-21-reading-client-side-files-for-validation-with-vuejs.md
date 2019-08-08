@@ -2,7 +2,7 @@
 layout: post
 title: "Reading Client-Side Files for Validation with Vue.js"
 date: "2019-05-21"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/validation.jpg
 permalink: /2019/05/21/reading-client-side-files-for-validation-with-vuejs

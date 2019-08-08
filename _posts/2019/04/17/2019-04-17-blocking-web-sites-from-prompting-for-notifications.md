@@ -2,7 +2,7 @@
 layout: post
 title: "Blocking Web Sites from Prompting for Notifications"
 date: "2019-04-17"
-categories: ["Development"]
+categories: ["development"]
 tags: []
 banner_image: /images/banners/megaphone.jpg
 permalink: /2019/04/17/blocking-web-sites-from-prompting-for-notifications

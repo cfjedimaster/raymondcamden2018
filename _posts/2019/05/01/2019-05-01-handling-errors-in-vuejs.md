@@ -2,7 +2,7 @@
 layout: post
 title: "Handling Errors in Vue.js"
 date: "2019-05-01"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/error.jpg
 permalink: /2019/05/01/handling-errors-in-vuejs

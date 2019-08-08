@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Plex Server Duration Search with Vue.js"
 date: "2019-05-14"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/movies.jpg
 permalink: /2019/05/14/building-a-plex-server-duration-search-with-vuejs

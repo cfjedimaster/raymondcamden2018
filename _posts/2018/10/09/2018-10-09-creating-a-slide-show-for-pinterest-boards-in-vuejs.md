@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Slide Show for Pinterest Boards in Vue.js"
 date: "2018-10-09"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/pint3.jpg
 permalink: /2018/10/09/creating-a-slide-show-for-pinterest-boards-in-vuejs

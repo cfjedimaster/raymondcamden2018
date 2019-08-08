@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Live Time Duration Component in Vue.js"
 date: "2019-01-07"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/duration.jpg
 permalink: /2019/01/07/creating-a-live-time-duration-component-in-vuejs

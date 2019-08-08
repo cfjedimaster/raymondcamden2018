@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Ice Bear to Alexa, Because Why Not?"
 date: "2018-11-28"
-categories: ["Development"]
+categories: ["development"]
 tags: ["alexa","webtask"]
 banner_image: /images/banners/Ice_bear.jpg
 permalink: /2018/11/28/adding-ice-bear-to-alexa-because-why-not
