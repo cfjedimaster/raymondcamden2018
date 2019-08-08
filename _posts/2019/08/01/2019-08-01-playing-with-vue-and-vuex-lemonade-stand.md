@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with Vue and Vuex - Lemonade Stand"
 date: "2019-08-01"
-categories: ["JavaScript"]
+categories: ["javascript"]
 tags: ["vuejs"]
 banner_image: /images/banners/lemonadestand.jpg
 permalink: /2019/08/01/playing-with-vue-and-vuex-lemonade-stand
