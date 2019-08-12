@@ -28,11 +28,17 @@ layout: default
                         <a class="fa-facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&amp;t={{ page.title | uri_escape }}"><span class="screen-reader-text">Facebook</span></a>
                         <a class="fa-google-plus" target="_blank" href="http://plus.google.com/share?url={{ site.url }}{{ page.url }}"><span class="screen-reader-text">Google+</span></a>
                     </div><!-- .share-post -->
-                    {% if page.tags.size > 0 %}
                     <div class="tag-links">
-                        Tags: {% for tag in page.tags %}<a href="{{site.baseurl}}/tags/{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
-                    </div>
+                    {% if page.categories.size > 0 %}
+                        Posted in: {% for cat in page.categories %}<a href="{{site.baseurl}}/categories/{{ cat | cgi_escape }}"
+                            title="Pages in {{ cat }}" rel="cat">{{ cat }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
                     {% endif %}
+
+                    {% if page.tags.size > 0 %}
+                        Tagged: {% for tag in page.tags %}<a href="{{site.baseurl}}/tags/{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
+                    {% endif %}
+                    </div>
+
                 </footer><!-- .entry-footer -->
             </article><!-- .post -->
             <div class="author-box">
