@@ -2,7 +2,7 @@
 layout: post
 title: "Check out PaveAI for Analytics"
 date: "2017-03-23T10:24:00-07:00"
-categories: [developer]
+categories: [development]
 tags: []
 banner_image: 
 permalink: /2017/03/23/check-out-paveai-for-analytics
