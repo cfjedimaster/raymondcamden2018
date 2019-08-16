@@ -114,7 +114,7 @@ That button takes you right to the GitHub repository page for that piece of docu
 
 ## Hire an Editor
 
-I've been lucky to work with editors on my blog in the past and definitely on my article and book projects. An editor helps you find things you were sure you checked for but somehow missed. Obviously this won't always be an option, especially for open source projects. But if you *can* afford a professional editor than it will *absolutely* be worth the cost.
+I've been lucky to work with editors on my blog in the past and definitely on my article and book projects. An editor helps you find things you were sure you checked for but somehow missed. Obviously this won't always be an option, especially for open source projects. But if you *can* afford a professional editor then it will *absolutely* be worth the cost.
 
 ## What Else?
 
