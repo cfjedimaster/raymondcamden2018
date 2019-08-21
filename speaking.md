@@ -16,6 +16,13 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
+<a href="https://www.meetup.com/Baton-Rouge-NET-and-SQL-Server-User-Groups/events/264145354/">Introduction to Vue.js</a><br/>
+.Net and SQL Server User Group<br/>
+Baton Route, LA, September 11, 2019
+</p>
+
+
+<p>
 <a href="https://fronteers.nl/congres/2019/">It was the best of times, it was the worst of times...</a><br/>
 Fronteers<br/>
 Amsterdam, NL, October 3-4, 2019
