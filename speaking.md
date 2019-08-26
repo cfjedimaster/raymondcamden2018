@@ -29,7 +29,7 @@ Amsterdam, NL, October 3-4, 2019
 </p>
 
 <p>
-<a href="http://codelandconf.com/">Vue for Real People</a><br/>
+<a href="https://connect.tech/session/?id=4244">Vue for Real People</a> and <a href="https://connect.tech/session/?id=4290">The Platform Formally Known as Static</a><br/>
 connect.tech<br/>
 Atlanta, GA, October 16-18, 2019
 </p>
