@@ -20,6 +20,7 @@ If you find this information useful (currently at {{ site.posts | size }} posts)
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="https://www.nativescript.org/blog/tips-for-vue-developers-picking-up-nativescript">Tips for Vue Developers Picking Up NativeScript</a></li>
 <li><a href="https://www.nativescript.org/blog/getting-your-route-on-with-nativescript-vue-episode-two">Getting Your Route On with NativeScript-Vue: Episode Two</a></li>
 <li><a href="https://www.nativescript.org/blog/getting-your-route-on-with-nativescript-vue-episode-one">Getting Your Route On with NativeScript-Vue: Episode One</a></li>
 <li><a href="https://css-tricks.com/making-the-move-from-jquery-to-vue/">Making the Move form jQuery to Vue</a> for CSS-Tricks</li>
