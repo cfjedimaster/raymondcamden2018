@@ -192,12 +192,7 @@ let reverseGeocodingParameters = {
 geocoder.reverseGeocode(
     reverseGeocodingParameters,
     res => {
-        let results = res.Response.View;
-        if(results.length === 0) {
-        resolve('No match.')
-        } else {
-        resolve(results[0].Result[0].Location);
-        }
+        // work with results
     },
     e => reject(e) 
 );

@@ -4,3 +4,4 @@ makecontent.js
 Gemfile.lock
 node_modules/
 .vscode/
+.jekyll-cache/
