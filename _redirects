@@ -83,3 +83,5 @@
 /feed /feed.xml
 /index.cfm/2014/3/18/Brackets-Sprint-37-and-Upcoming-Hackathon /2014/03/18/Brackets-Sprint-37-and-Upcoming-Hackathon
 /2008/3/3/Adding-an-ADD-button-for-cfgrid /2008/03/03/Adding-an-ADD-button-for-cfgrid
+
+/demos/* /olddemos	301
