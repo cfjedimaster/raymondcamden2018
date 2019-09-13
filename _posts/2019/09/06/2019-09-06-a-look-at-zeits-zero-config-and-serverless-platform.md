@@ -11,7 +11,7 @@ description:
 
 For a while now my go to service for hosting static sites "for fun" has been [Surge](https://surge.sh/). While I host my blog on 
 [Netlify](https://www.netlify.com/) and absolutely consider it the "gold standard" for static sites, I try to reserve my usage
-there for "real" sites, i.e. not things I'm playing around with or temporary examples. I had heard of [Zeit](https://zeit.co/) of course and new of their cool command line deployment, but outside of a few Node.js demos, I hadn't really thought of it. 
+there for "real" sites, i.e. not things I'm playing around with or temporary examples. I had heard of [Zeit](https://zeit.co/) of course and knew of their cool command line deployment, but outside of a few Node.js demos, I hadn't really thought of it. 
 
 Over the past few weeks I've had a chance to dig deeper and have to say I'm incredibly impressed by Zeit, specifically their new zero config and serverless features. I've pretty much decided it will be my new default place for quick ad hoc demos. Let me expand on that and why I'm excited about the service.
 
