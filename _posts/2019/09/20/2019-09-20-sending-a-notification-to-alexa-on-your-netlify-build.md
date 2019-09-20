@@ -2,7 +2,7 @@
 layout: post
 title: "Sending a Notification to Alexa when Netlify Builds Your Site"
 date: "2019-09-20"
-categories: ["Uncategorized"]
+categories: ["development"]
 tags: []
 banner_image: /images/banners/zerohearts.jpg
 permalink: /2019/09/20/sending-a-notification-to-alexa-when-netlify-builds-your-site
