@@ -9,7 +9,7 @@ permalink: /2019/09/20/sending-a-notification-to-alexa-when-netlify-builds-your-
 description: How to use a custom skill and Netlify webhooks to update Alexa on your site builds
 ---
 
-This will be a quick post and credit for the idea goes to [Stacey Higgenbotham](https://staceyoniot.com/how-to-trigger-custom-alexa-notifications-from-a-smart-home-event/) and her post from last year, ["How to trigger custom Alexa notifications from a smart home event"](https://staceyoniot.com/how-to-trigger-custom-alexa-notifications-from-a-smart-home-event/). 
+This will be a quick post and credit for the idea goes to [Stacey Higgenbotham](https://twitter.com/gigastacey/) and her post from last year, ["How to trigger custom Alexa notifications from a smart home event"](https://staceyoniot.com/how-to-trigger-custom-alexa-notifications-from-a-smart-home-event/). 
 
 In her post, she describes how to use the [Notify Me](https://www.amazon.com/Thomptronics-Notify-Me/dp/B07BB2FYFS/ref=sr_1_1) skill on Alexa to allow for custom notifications. When you add the "Notify Me" skill to Alexa, you get an email with a unique access code. You can then head over to the web site, <https://www.thomptronics.com/about/notify-me>, and check out the docs. At the simplest level, you can just hit a URL like so:
 
