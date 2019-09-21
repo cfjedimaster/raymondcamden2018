@@ -17,13 +17,13 @@ title: Stats
 		<tr>
 		<td>First Post:</td>
 		<td>
-		<a :href="firstPost.url">{{firstPost.title}}</a> published {{firstPost.age}} on {{firstPost.date}}
+		    <a :href="firstPost.url">{{firstPost.title}}</a> published {{firstPost.age}} on {{firstPost.date}}
 		</td>
 		</tr>
 		<tr>
 		<td>Last Post:</td>
 		<td>
-		<a :href="lastPost.url">{{lastPost.title}}</a> published {{lastPost.age}} on {{lastPost.date}}
+    		<a :href="lastPost.url">{{lastPost.title}}</a> published {{lastPost.age}} on {{lastPost.date}}
 		</td>
 		</tr>
 		<tr>
@@ -107,7 +107,6 @@ new Vue({
 		fetch('/stats.json')
 		.then(res => res.json())
 		.then(res => {
-			console.log(res);
 			this.totalPosts = res.totalPosts;
 			
 			this.firstPost = {
