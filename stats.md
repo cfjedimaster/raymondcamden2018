@@ -75,6 +75,10 @@ title: Stats
 </div>
 {% endraw %}
 
+<p>
+Running Jekyll {{ jekyll.version }} in {{ jekyll.environment }}.
+</p>
+
 <script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/moment.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
