@@ -2,8 +2,8 @@
 layout: post
 title: "I heart Spry"
 date: "2006-06-02T17:06:00+06:00"
-categories: [misc]
-tags: []
+categories: [javascript]
+tags: [javascript]
 banner_image: 
 permalink: /2006/06/02/I-heart-Spry
 guid: 1314
@@ -15,35 +15,37 @@ Wow.
 
 I mean, seriously, Adobe, could you make this a bit simpler? I think it was harder to put my shoes on this morning. Consider the following simple example (and this is <b>not</b> 100% complete, but it gives you an idea of how short the code is):
 
-<code>
-&lt;script type="text/javascript" src="includes/xpath.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="includes/SpryData.js"&gt;&lt;/script&gt;
-&lt;!-- load the xml, notice the xpath support --&gt;
-&lt;script type="text/javascript"&gt;
+```html
+<script type="text/javascript" src="includes/xpath.js"></script>
+<script type="text/javascript" src="includes/SpryData.js"></script>
+<!-- load the xml, notice the xpath support -->
+<script type="text/javascript"> 
 var dsHatches = new Spry.Data.XMLDataSet("dharma.xml", "hatches/hatch");
-&lt;/script&gt;
+</script>
 
-&lt;!-- now bind it to an html table --&gt;
-&lt;div id="Hatches_DIV" spryregion="dsHatches"&gt;
-&lt;!--Display the data in a table--&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;th&gt;Hatch&lt;/th&gt;
-&lt;th&gt;Icon&lt;/th&gt;
-&lt;th&gt;Active&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr spryrepeat="dsHatches"&gt;
-&lt;td&gt;{% raw %}{hatch}{% endraw %}&lt;/td&gt;
-&lt;td&gt;&lt;img src="/images/dharma/{% raw %}{icon}{% endraw %}"&gt;&lt;/td&gt;
-&lt;td&gt;{% raw %}{active}{% endraw %}&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</code>
+<!-- now bind it to an html table -->
+<div id="Hatches_DIV" spryregion="dsHatches">
+<!-- Display the data in a table --> 
+<table>
+	<tr> 
+		<th>Hatch</th>
+		<th>Icon</th>
+		<th>Active</th>
+	</tr> 
+	<tr spryrepeat="dsHatches">
+		<td>{hatch}</td>
+		<td><img src="/images/dharma/{icon}"></td>
+		<td>{active}</td>
+	</tr> 
+</table>
+</div>
+```
 
 So the first line loads the data set from XML. It uses XPath to translate this into a data set. I can then bind it to a table by using the spryregion and spryrepeat tags. Notice the use of bound variables inside. 
 
-For a more complete demo, check out the Spry front end version of <a href="http://ray.camdenfamily.com/demos/spry/blog.cfm">BlogCFC</a>. Make sure you view source on that.
+<strike>
+For a more complete demo, check out the Spry front end version of BlogCFC. Make sure you view source on that.
+</strike> Sorry - old demo removed.
 
 I did run into one interesting problem. I knew that I needed XML, so I knew I couldn't just use my blog's main CFC. I wrote a new CFC that would handle the few methods I needed and return them as XML. (This was rather boring, but I did make two cool little functions you may like, arrayToXML and queryToXML. Both of these already exist on CFLib I think, but I wrote my own for the heck of it.) 
 
