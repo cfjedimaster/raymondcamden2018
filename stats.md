@@ -17,13 +17,13 @@ title: Stats
 		<tr>
 		<td>First Post:</td>
 		<td>
-		<a :href="firstPost.url">{{firstPost.title}}</a> published {{firstPost.age}} on {{firstPost.date}}
+		    <a :href="firstPost.url">{{firstPost.title}}</a> published {{firstPost.age}} on {{firstPost.date}}
 		</td>
 		</tr>
 		<tr>
 		<td>Last Post:</td>
 		<td>
-		<a :href="lastPost.url">{{lastPost.title}}</a> published {{lastPost.age}} on {{lastPost.date}}
+    		<a :href="lastPost.url">{{lastPost.title}}</a> published {{lastPost.age}} on {{lastPost.date}}
 		</td>
 		</tr>
 		<tr>
@@ -72,8 +72,14 @@ title: Stats
         </tr>
     </table>
 
+<p>Quick test: <a href="https://jekyllrb.com">Jekyll</a></p>
+
 </div>
 {% endraw %}
+
+<p>
+Running <a href="https://jekyllrb.com">Jekyll</a> {{ jekyll.version }}.
+</p>
 
 <script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/moment.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
@@ -107,7 +113,6 @@ new Vue({
 		fetch('/stats.json')
 		.then(res => res.json())
 		.then(res => {
-			console.log(res);
 			this.totalPosts = res.totalPosts;
 			
 			this.firstPost = {
