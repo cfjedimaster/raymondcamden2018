@@ -15,12 +15,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 
 <h3>My Next Events</h3>
 
-<p>
-<a href="https://www.meetup.com/Baton-Rouge-NET-and-SQL-Server-User-Groups/events/264145354/">Introduction to Vue.js</a><br/>
-.Net and SQL Server User Group<br/>
-Baton Route, LA, September 11, 2019
-</p>
-
 
 <p>
 <a href="https://fronteers.nl/congres/2019/">It was the best of times, it was the worst of times...</a><br/>
@@ -53,6 +47,18 @@ Here are my past events, most recent first, in a nice scrollable list no one wil
 </p>
 
 <div style="height: 400px; overflow:scroll">
+
+<p>
+<a href="https://www.youtube.com/watch?v=E_doZHnIKfk&feature=youtu.be">Introduction to HERE XYZ</a><br/>
+Online, September 26, 2019
+</p>
+
+<p>
+<a href="https://www.meetup.com/Baton-Rouge-NET-and-SQL-Server-User-Groups/events/264145354/">Introduction to Vue.js</a><br/>
+.Net and SQL Server User Group<br/>
+Baton Route, LA, September 11, 2019
+</p>
+
 <p>
 <a href="http://codelandconf.com/">Vue for Real People</a><br/>
 Codeland<br/>

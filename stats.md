@@ -7,8 +7,9 @@ title: Stats
 [v-cloak] {display: none}
 </style>
 
+{::nomarkdown}
 {% raw %}
-<div id="app" v-cloak="">
+<div id="app" v-cloak="" markdown="0">
 	<table>
 		<tr>
 			<td width="30%">Total Posts:</td>
@@ -76,6 +77,7 @@ title: Stats
 
 </div>
 {% endraw %}
+{:/nomarkdown}
 
 <p>
 Running <a href="https://jekyllrb.com">Jekyll</a> {{ jekyll.version }}.
