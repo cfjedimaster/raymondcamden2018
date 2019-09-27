@@ -73,8 +73,6 @@ title: Stats
         </tr>
     </table>
 
-<p>Quick test: <a href="https://jekyllrb.com">Jekyll</a></p>
-
 </div>
 {% endraw %}
 {:/nomarkdown}
