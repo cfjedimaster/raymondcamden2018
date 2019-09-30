@@ -23,6 +23,12 @@ Amsterdam, NL, October 3-4, 2019
 </p>
 
 <p>
+<a href="https://www.directionsmag.com/webinar/9176">Building Awesome Maps with HERE XYZ Studio</a><br/>
+DirectionsMag<br/>
+Online, October 10, 2019
+</p>
+
+<p>
 <a href="https://connect.tech/session/?id=4244">Vue for Real People</a> and <a href="https://connect.tech/session/?id=4290">The Platform Formally Known as Static</a><br/>
 connect.tech<br/>
 Atlanta, GA, October 16-18, 2019
