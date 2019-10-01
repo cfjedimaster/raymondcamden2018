@@ -35,12 +35,6 @@ Atlanta, GA, October 16-18, 2019
 </p>
 
 <p>
-<a href="https://jsmobileconf.com/">TBD</a><br/>
-jsMobileConf<br/>
-Boston, MA, November 12-13, 2019
-</p>
-
-<p>
 <a href="https://cfe.dev/events/flashback-conference-2020/">TBD</a><br/>
 Flashback Conference<br/>
 Orlando, FL, February 10-11, 2019
