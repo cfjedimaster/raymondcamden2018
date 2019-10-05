@@ -190,6 +190,22 @@ For page views I made use of a Vue wrapper for ChartJS. The docs were a bit weir
 
 To be clear, I only needed the customizations to get links in my first column and formatting in my second. There may be simpler ways of doing this.
 
+### The Navigation Guard
+
+The final bit was handling cases where you reload and have *not* logged in yet. I did this using a navigation guard, one of the more advanced features of the Vue Router, although it was pretty easy to use:
+
+```js
+router.beforeEach((to, from, next) => {
+  if(!store.state.token &&
+    (to.name === 'analytics' || to.name === 'sites')) {
+      next('/');
+  }
+  next();
+});
+```
+
+I could have done the `to.name` part easier with route metadata. I'll do that next time. :)
+
 And that's really it. You are absolutely welcome to try the online version, but obviously it will only work if you are a Netlify user and have sites with analytics.
 
 <https://netlify-stats.raymondcamden.now.sh/>
