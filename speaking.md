@@ -14,18 +14,16 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
  I'll get back to you as soon as I can.
 
 <h3>My Next Events</h3>
-
-
-<p>
-<a href="https://fronteers.nl/congres/2019/">It was the best of times, it was the worst of times...</a><br/>
-Fronteers<br/>
-Amsterdam, NL, October 3-4, 2019
-</p>
-
 <p>
 <a href="https://www.directionsmag.com/webinar/9176">Building Awesome Maps with HERE XYZ Studio</a><br/>
 DirectionsMag<br/>
 Online, October 10, 2019
+</p>
+
+<p>
+<a href="https://connect.tech/session/?id=4244">Vue for Real People</a> and <a href="https://connect.tech/session/?id=4290">The Platform Formally Known as Static</a><br/>
+connect.tech<br/>
+Atlanta, GA, October 16-18, 2019
 </p>
 
 <p>
@@ -34,12 +32,6 @@ jsMobileConf<br/>
 Boston, MA, November 12-13, 2019
 </p>
 
-
-<p>
-<a href="https://connect.tech/session/?id=4244">Vue for Real People</a> and <a href="https://connect.tech/session/?id=4290">The Platform Formally Known as Static</a><br/>
-connect.tech<br/>
-Atlanta, GA, October 16-18, 2019
-</p>
 
 <p>
 <a href="https://cfe.dev/events/flashback-conference-2020/">TBD</a><br/>
@@ -54,6 +46,12 @@ Here are my past events, most recent first, in a nice scrollable list no one wil
 </p>
 
 <div style="height: 400px; overflow:scroll">
+
+<p>
+<a href="https://fronteers.nl/congres/2019/">It was the best of times, it was the worst of times...</a><br/>
+Fronteers<br/>
+Amsterdam, NL, October 3-4, 2019
+</p>
 
 <p>
 <a href="https://www.youtube.com/watch?v=E_doZHnIKfk&feature=youtu.be">Introduction to HERE XYZ</a><br/>
