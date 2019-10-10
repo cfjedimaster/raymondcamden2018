@@ -14,11 +14,6 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
  I'll get back to you as soon as I can.
 
 <h3>My Next Events</h3>
-<p>
-<a href="https://www.directionsmag.com/webinar/9176">Building Awesome Maps with HERE XYZ Studio</a><br/>
-DirectionsMag<br/>
-Online, October 10, 2019
-</p>
 
 <p>
 <a href="https://connect.tech/session/?id=4244">Vue for Real People</a> and <a href="https://connect.tech/session/?id=4290">The Platform Formally Known as Static</a><br/>
@@ -46,6 +41,12 @@ Here are my past events, most recent first, in a nice scrollable list no one wil
 </p>
 
 <div style="height: 400px; overflow:scroll">
+
+<p>
+<a href="https://www.directionsmag.com/webinar/9176">Building Awesome Maps with HERE XYZ Studio</a><br/>
+DirectionsMag<br/>
+Online, October 10, 2019
+</p>
 
 <p>
 <a href="https://fronteers.nl/congres/2019/">It was the best of times, it was the worst of times...</a><br/>
@@ -379,3 +380,9 @@ Ionic SF, SF, CA, October 14, 2015&lt;/a&gt;</p>
 I have not done a good job collecting these links over the years, but here is a playlist of my presentations over the past years. More have been recorded that I've not yet found, and when I discover them I'll add them of course.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL_z-rqJYNijriBt9w3Snn1hRMCYWvIORR" frameborder="0" allowfullscreen></iframe>
+
+And here's a list of recorded presentations not available on YouTube:
+
+<ul>
+<li><a href="https://www.directionsmag.com/webinar/9176">Building Awesome Maps with HERE XYZ Studio</a> - October 10, 2019</li>
+</ul>
