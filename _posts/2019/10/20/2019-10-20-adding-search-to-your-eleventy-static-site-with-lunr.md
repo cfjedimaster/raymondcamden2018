@@ -2,8 +2,8 @@
 layout: post
 title: "Adding Search to your Eleventy Static Site with Lunr"
 date: "2019-10-20"
-categories: ["Uncategorized"]
-tags: []
+categories: ["static sites"]
+tags: ["vuejs"]
 banner_image: /images/banners/search.jpg
 permalink: /2019/10/20/adding-search-to-your-eleventy-static-site-with-lunr
 description: Using Lunr to add client-site search to your static site
