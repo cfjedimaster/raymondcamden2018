@@ -11,6 +11,9 @@ layout: default
                     </div>
                 </header><!-- .entry-header -->
                 <div class="entry-content">
+                    <p>
+                    {{ site.categories[page.category].size }} total post(s):
+                    </p>
                     <ul class="archive-posts-list">
                         {% for post in site.categories[page.category] %}
                         <li><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="archive-meta"> — <time class="published" datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time></span></li>
