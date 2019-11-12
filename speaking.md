@@ -384,6 +384,7 @@ I have not done a good job collecting these links over the years, but here is a 
 And here's a list of recorded presentations not available on YouTube:
 
 <ul>
-<li><a href="https://vimeo.com/364396720">It Was the Best of Times, It Was the Worst of Times</a> - October 4, 2019</a></li>
+<li><a href="https://www.recallact.com/presentation/vuejs-regular-people">Vue.js for Regular People</a> - October 17, 2019</li>
 <li><a href="https://www.directionsmag.com/webinar/9176">Building Awesome Maps with HERE XYZ Studio</a> - October 10, 2019</li>
+<li><a href="https://vimeo.com/364396720">It Was the Best of Times, It Was the Worst of Times</a> - October 4, 2019</a></li>
 </ul>
