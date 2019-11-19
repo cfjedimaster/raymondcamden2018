@@ -139,4 +139,4 @@ module.exports = async (req, res) => {
 
  Anyway, if you want to give this a try, and hopefully not put me over the free tier, check it out at <https://rckittens.now.sh> and let me know what you think.
 
- <i>Header photo by <a href="[t](https://unsplash.com/@mariashanina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)">Maria Shanina</a> on Unsplash</i>
+ <i>Header photo by <a href="https://unsplash.com/@mariashanina?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maria Shanina</a> on Unsplash</i>
