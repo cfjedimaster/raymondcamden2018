@@ -108,11 +108,11 @@ title: Advanced Calendar
 Here's our upcoming events:
 
 <ul>
-{% for event in events %}
+{% raw %}{% for event in events %}
 <li>{{ event.summary }} at {{ event.startValue }}
 {% if event.location %}<br/>Located at {{ event.location }}{% endif %}
 {% endfor %}
-
+{% endraw %}
 </ul>
 ```
 
