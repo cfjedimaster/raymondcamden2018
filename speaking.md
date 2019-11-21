@@ -16,22 +16,15 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="https://connect.tech/session/?id=4244">Vue for Real People</a> and <a href="https://connect.tech/session/?id=4290">The Platform Formally Known as Static</a><br/>
-connect.tech<br/>
-Atlanta, GA, October 16-18, 2019
-</p>
-
-<p>
-<a href="https://jsmobileconf.com/schedule/session-camden.html">Client-Side Data Storage</a><br/>
-jsMobileConf<br/>
-Boston, MA, November 12-13, 2019
-</p>
-
-
-<p>
 <a href="https://cfe.dev/events/flashback-conference-2020/">TBD</a><br/>
 Flashback Conference<br/>
-Orlando, FL, February 10-11, 2019
+Orlando, FL, February 10-11, 2020
+</p>
+
+<p>
+<a href="https://devnexus.com/speakers/329">Kicking Butt with Vue.js</a><br/>
+DevNexus<br/>
+Atlanta, GA, February 19-21, 2020
 </p>
 
 <h3>My Past Events</h3>
@@ -41,6 +34,19 @@ Here are my past events, most recent first, in a nice scrollable list no one wil
 </p>
 
 <div style="height: 400px; overflow:scroll">
+
+<p>
+<a href="https://jsmobileconf.com/schedule/session-camden.html">Client-Side Data Storage</a><br/>
+jsMobileConf<br/>
+Boston, MA, November 12-13, 2019
+</p>
+
+
+<p>
+<a href="https://connect.tech/session/?id=4244">Vue for Real People</a> and <a href="https://connect.tech/session/?id=4290">The Platform Formally Known as Static</a><br/>
+connect.tech<br/>
+Atlanta, GA, October 16-18, 2019
+</p>
 
 <p>
 <a href="https://www.directionsmag.com/webinar/9176">Building Awesome Maps with HERE XYZ Studio</a><br/>
