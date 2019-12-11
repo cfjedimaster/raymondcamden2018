@@ -16,6 +16,12 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
+<a href="https://www.eventbrite.com/e/javascript-and-friends-vuejs-columbus-meetup-tickets-85537704577">An Introduction to Gridsome</a><br/>
+JavaScript and Friends<br/>
+Columbus, OH, January 22, 2020
+</p>
+
+<p>
 <a href="https://cfe.dev/events/flashback-conference-2020/">TBD</a><br/>
 Flashback Conference<br/>
 Orlando, FL, February 10-11, 2020
