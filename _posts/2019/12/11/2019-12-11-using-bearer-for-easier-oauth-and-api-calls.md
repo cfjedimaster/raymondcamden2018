@@ -4,7 +4,7 @@ title: "Using Bearer for Easier OAuth and API Calls"
 date: "2019-12-11"
 categories: ["javascript"]
 tags: ["vuejs"]
-banner_image: /images/banners/welcome2018.jpg
+banner_image: /images/banners/pictures_eggs.jpg
 permalink: /2019/12/11/using-bearer-for-easier-oauth-and-api-calls
 description: 
 ---
@@ -190,3 +190,5 @@ I also like the simpler stats on the dashboard:
 As I said, I'm really impressed by their service and how easy it was to get going with an entirely client-side application. Earlier I mentioned Auth0. Auth0 obviously does login really simple. What it doesn't do simply is the bearer token stuff. It is definitely possible and my buddy [Bobby Johnson](https://iamnotmyself.com/) showed me an example. I couldn't get it working, but I trust his worked and that it was my issue. But honestly, I was really surprised Auth0 didn't make this as simple as Bearer did. All in all, Bearer just feels easier to use. (I should add that while I worked at Auth0, I never worked with their main identity product. My experience there was with their serverless platform.) 
 
 Anyway - I'd love to hear from anyone who may be using Bearer. Please leave me a comment below and tell me what you think.
+
+<i>Header photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on Unsplash</i>
