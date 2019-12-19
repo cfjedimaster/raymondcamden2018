@@ -82,7 +82,7 @@ Basically it just calls the `Grid` component and then asks the grid to initializ
       <tr v-for="(row,idx) in grid" :key="idx">
         <td v-for="(cell,idy) in row" :key="idy" 
 		:class="{ locked: grid[idx][idy].locked, selected:grid[idx][idy].selected }"
-        @click="setSelected(grid[idx][idy], idx, idy)"> {{ grid[idx][idy].value }}</td>
+        @click="setSelected(grid[idx][idy], idx, idy)"> {% raw %}{{ grid[idx][idy].value }}{% endraw %}</td>
       </tr>
       </tbody>
     </table>
