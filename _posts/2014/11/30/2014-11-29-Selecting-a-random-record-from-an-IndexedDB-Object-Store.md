@@ -12,12 +12,14 @@ guid: 5361
 <p>
 A few days ago I ran across an interesting post on Stack Overflow, <a href="http://stackoverflow.com/questions/27124058/is-there-any-way-to-retrieve-random-row-from-indexeddb">Is there any way to retrieve random row from indexeddb?</a> The posted answer used the following process:
 </p>
+
 <!--more-->
+
 <ul>
-<li>Open an index.
-<li>Iterate over every row.
-<li>On the first iteration, use the key value as an upper bound, and select a random number from 1 to that number.
-<li>Iterate until you hit that number.
+<li>Open an index.</li>
+<li>Iterate over every row.</li>
+<li>On the first iteration, use the key value as an upper bound, and select a random number from 1 to that number.</li>
+<li>Iterate until you hit that number.</li>
 </ul>
 
 <p>
