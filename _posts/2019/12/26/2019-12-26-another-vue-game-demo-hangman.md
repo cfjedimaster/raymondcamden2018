@@ -90,7 +90,7 @@ The images themselves come from the Wikipedia page and could be fancier, but it 
 
 Playing the game requires keyboard input which I detailed back in [August](https://www.raymondcamden.com/2019/08/12/working-with-the-keyboard-in-your-vue-app) (and have used multiple times since then). 
 
-THere is one interesting part of the keyboard handling code - I used a hack I found multiple times to see if the input was a letter:
+There is one interesting part of the keyboard handling code - I used a hack I found multiple times to see if the input was a letter:
 
 ```js
 doGuess(e) {
@@ -134,6 +134,6 @@ I try to keep "complex logic" in a separate file and let Vuex simply handle prox
   
 This is flexible of course, but it's generally where I'm trying to organize things. Like I said, I'm going to write this up in a more formal sense later on. 
 
-Anyway, it's a game and it's fun to play! If you want to see the complete source, check out the repo here: <https://github.com/cfjedimaster/vue-demos/tree/master/hangman>. You can play it yourself here: <<https://hangman.raymondcamden.now.sh/> As always, let me know what you think by leaving me a comment below!
+Anyway, it's a game and it's fun to play! If you want to see the complete source, check out the repo here: <https://github.com/cfjedimaster/vue-demos/tree/master/hangman>. You can play it yourself here: <https://hangman.raymondcamden.now.sh/> As always, let me know what you think by leaving me a comment below!
 
 <i>Header photo by <a href="https://unsplash.com/@ilumire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jelleke Vanooteghem</a> on Unsplash</i>
