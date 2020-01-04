@@ -81,7 +81,7 @@ Now let's go back to the HTML, here is how I render the ToDos and the button to 
 ```html
 <table>
 	<tr v-for="todo in sortedToDos">
-		<td><span :class="{todoDone:todo.done}">{{todo.text}}</span></td>
+		<td><span :class="{todoDone:todo.done}">{% raw %}{{todo.text}}{% endraw %}</span></td>
 		<td>
 		<button @click="toggleDone(todo)">
 			<span v-if="todo.done">
