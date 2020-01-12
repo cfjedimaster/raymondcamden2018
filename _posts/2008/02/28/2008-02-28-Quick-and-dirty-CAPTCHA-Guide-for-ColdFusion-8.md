@@ -17,7 +17,7 @@ This guide made use of the excellent <a href="http://lyla.maestropublishing.com/
 <!--more-->
 First off, let's start with a simple contact us style form. I won't go into details about this form. It's a basic self-posting form with validation for a name and comment box. 
 
-<code>
+<pre><code>
 &lt;cfset showForm = true&gt;
 &lt;cfparam name="form.name" default=""&gt;
 &lt;cfparam name="form.comments" default=""&gt;
@@ -81,13 +81,13 @@ First off, let's start with a simple contact us style form. I won't go into deta
 	&lt;/cfoutput&gt;
 	
 &lt;/cfif&gt;
-</code>
+</code></pre>
 
 Hopefully nothing above is new to you. So lets start updating this with some CAPTCHA love. First off, creating a CAPTCHA in ColdFusion 8 is incredibly easy. It takes all of one tag:
 
-<code>
+<pre><code>
 &lt;cfimage action="captcha" width="300" height="75" text="paris"&gt;
-</code>
+</code></pre>
 
 The width and height determine the size of the image. The text determines what text will be displayed on the CAPTCHA. You can also determine what fonts to use - as well as the difficulty level. 
 
@@ -95,7 +95,7 @@ So that part is easy. Everything after that takes a little bit of work. The firs
 
 You can create a list of random words - but unless your list is pretty big, you will again have the issue of spammers being able to guess the word. Instead, I recommend a random set of letters. I've built a UDF just for this purpose. Let's take a look:
 
-<code>
+<pre><code>
 &lt;cffunction name="makeRandomString" returnType="string" output="false"&gt;
 	&lt;cfset var chars = "23456789ABCDEFGHJKMNPQRS"&gt;
 	&lt;cfset var length = randRange(4,7)&gt;
@@ -112,27 +112,27 @@ You can create a list of random words - but unless your list is pretty big, you 
 		
 	&lt;cfreturn result&gt;
 &lt;/cffunction&gt;
-</code>
+</code></pre>
 
 This UDF simply creates a random string from 4 to 7 characters long. You can tweak that size all you want, but any more than 7 will probably tick off your visitors. Also note the range of characters. I removed things like 1 (number one), l (lower case 'el'), and I (upper case "eye') since they can be confusing. Thanks to the NYCFUG members for feedback on this. 
 
 So once we have the UDF, we can now generate random text. But now we have another problem. When we submit the form, we are going to need to validate that the text you entered is the same as the text in the image. To do that, we need to store the text. Imagine if we did this:
 
-<code>
+<pre><code>
 &lt;cfset captcha = makeRandomString()&gt;
 &lt;input type="hidden" name="captchatext" value="#captcha#"&gt;
-</code>
+</code></pre>
 
 As you can imagine, this is not very secure. A spammer would simply look for the hidden form field. So we need to encrypt the string somehow. ColdFusion offers multiple ways of doing this. For example though I'll just hash it:
 
-<code>
+<pre><code>
 &lt;cfset captcha = makeRandomString()&gt;
 &lt;cfset captchaHash = hash(captcha)&gt;
-</code>
+</code></pre>
 
 Then I can add the CAPTCHA to my form like so:
 
-<code>
+<pre><code>
 &lt;tr&gt;
 	&lt;td&gt;Enter Text Below:&lt;/td&gt;
 	&lt;td&gt;&lt;input type="text" name="captcha"&gt;&lt;/td&gt;
@@ -143,19 +143,19 @@ Then I can add the CAPTCHA to my form like so:
 	&lt;input type="hidden" name="captchaHash" value="#captchaHash#"&gt;
 	&lt;/td&gt;
 &lt;/tr&gt;		
-</code>
+</code></pre>
 
 Now the form has both the captcha and the text in hashed form. The last step is to just add the new validation. I do this by hashing the user's text against the hidden form field:
 
-<code>
+<pre><code>
 &lt;cfif hash(ucase(form.captcha)) neq form.captchaHash&gt;
 	&lt;cfset errors = errors & "You did not enter the right text. Are you a spammer?&lt;br /&gt;"&gt;
 &lt;/cfif&gt;
-</code>
+</code></pre>
 
 And that's it. I'm done. The complete template is below. Enjoy.
 
-<code>
+<pre><code>
 &lt;cffunction name="makeRandomString" returnType="string" output="false"&gt;
 	&lt;cfset var chars = "23456789ABCDEFGHJKMNPQRS"&gt;
 	&lt;cfset var length = randRange(4,7)&gt;
@@ -255,4 +255,4 @@ And that's it. I'm done. The complete template is below. Enjoy.
 	&lt;/cfoutput&gt;
 	
 &lt;/cfif&gt;
-</code>
+</code></pre>
