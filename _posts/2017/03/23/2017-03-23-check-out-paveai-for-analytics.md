@@ -32,7 +32,7 @@ Later on in the report, I saw this:
 
 <img src="https://static.raymondcamden.com/images/2017/3/paveai4.png" class="imgborder" alt="Report">
 
-I *really* loved that. I kinda knew that my [front end interview questions](https://www.raymondcamden.com/tags/front-end-interview-questions) series was getting decent traffic, but this really brought the point home. I'm going to look into possibly adding to this more later this year.
+I *really* loved that. I kinda knew that my [front end interview questions](https://www.raymondcamden.com/tags/front+end+interview+questions) series was getting decent traffic, but this really brought the point home. I'm going to look into possibly adding to this more later this year.
 
 Here's another cool stat plus insight:
 
