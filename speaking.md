@@ -16,13 +16,7 @@ I started a blog. I feel like I have to struggle to learn new things and if I ca
 <h3>My Next Events</h3>
 
 <p>
-<a href="https://www.eventbrite.com/e/javascript-and-friends-vuejs-columbus-meetup-tickets-85537704577">An Introduction to Gridsome</a><br/>
-JavaScript and Friends<br/>
-Columbus, OH, January 22, 2020
-</p>
-
-<p>
-<a href="https://cfe.dev/events/flashback-conference-2020/">TBD</a><br/>
+<a href="https://cfe.dev/events/flashback-conference-2020/">The Dynamic Web, from CGI to Serverless</a><br/>
 Flashback Conference<br/>
 Orlando, FL, February 10-11, 2020
 </p>
@@ -40,6 +34,13 @@ Here are my past events, most recent first, in a nice scrollable list no one wil
 </p>
 
 <div style="height: 400px; overflow:scroll">
+
+<p>
+<a href="https://www.eventbrite.com/e/javascript-and-friends-vuejs-columbus-meetup-tickets-85537704577">An Introduction to Gridsome</a><br/>
+JavaScript and Friends<br/>
+Columbus, OH, January 22, 2020
+</p>
+
 
 <p>
 <a href="https://jsmobileconf.com/schedule/session-camden.html">Client-Side Data Storage</a><br/>
