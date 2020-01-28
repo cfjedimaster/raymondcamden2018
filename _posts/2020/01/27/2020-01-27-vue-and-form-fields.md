@@ -70,7 +70,7 @@ Ok, this is a fun one. Checkboxes allow you to specify zero, one, or multiple it
 checkbox:<br/>
 <span v-for="(cbv,idx) in checkbox1Values">
 <input v-model="checkbox1" :value="cbv" type="checkbox"
-		:id="'checkbox1'+idx"/> <label :for="'checkbox1'+idx">{{ cbv }}</label><br/>
+		:id="'checkbox1'+idx"/> <label :for="'checkbox1'+idx">{% raw %}{{ cbv }}{% endraw %}</label><br/>
 </span>
 </p>
 ```
@@ -308,7 +308,7 @@ Another one with multiple items, but this one only takes one value, not 0 or mor
 radio:<br/> 
 <span v-for="(rbv,idx) in radio1Values">
 <input v-model="radio1" :value="rbv" type="radio" 
-		:id="'radio1'+idx"/> <label :for="'radio1'+idx">{{ rbv }}</label><br/>
+		:id="'radio1'+idx"/> <label :for="'radio1'+idx">{% raw %}{{ rbv }}{% endraw %}</label><br/>
 </span>
 </p>
 ```
@@ -343,7 +343,7 @@ Remember that the browser will *not* display any numbers with this control:
 
 <img src="https://static.raymondcamden.com/images/2020/01/fields6.png" alt="Range UI" class="imgborder imgcenter">
 
-You could use the `<output>` tag to handle this but it's probably easier to just add `{{ range1 }}` to the markup.
+You could use the `<output>` tag to handle this but it's probably easier to just add `{% raw %}{{ range1 }}{% endraw %}` to the markup.
 
 ### input[type=search]
 
@@ -423,7 +423,7 @@ Did I say finally? Nope, not done yet. Here's how select works. First, the marku
 <p>
 select:<br/> 
 <select v-model="select1">
-	<option v-for="sel in select1Values">{{ sel }}</option>
+	<option v-for="sel in select1Values">{% raw %}{{ sel }}{% endraw %}</option>
 </select>
 </p>
 ```
@@ -443,7 +443,7 @@ When using the multiple option, things change a tiny bit:
 <p>
 select multiple:<br/> 
 <select v-model="select2" multiple>
-	<option v-for="sel in select1Values">{{ sel }}</option>
+	<option v-for="sel in select1Values">{% raw %}{{ sel }}{% endraw %}</option>
 </select>
 </p>
 ```
@@ -476,7 +476,7 @@ And then the value:
 textarea1:'This is my text area\nIt is better than yours...'
 ```
 
-Notice that you do not have to provide a value inside the textarea block. I actually forgot and had this originally: `<textarea v-model="textarea1" id="textarea1">{{textarea1}}</textarea>`
+Notice that you do not have to provide a value inside the textarea block. I actually forgot and had this originally: `<textarea v-model="textarea1" id="textarea1">{% raw %}{{textarea1}}{% endraw %}</textarea>`
 
 ### Wrap Up
 
