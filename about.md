@@ -20,6 +20,7 @@ If you find this information useful (currently at {{ site.posts | size }} posts)
 I have not done a great job of tracking my various articles on other web sites, but I hope to correct that now. Consider the list below a beginning (as of July 2013) and certainly <i>not</i> a complete list.
 
 <ul>
+<li><a href="https://www.stackbit.com/blog/jamstack-voice-assistants/">Voice Assistants and the JAMstack</a> for Stackbit</li>
 <li><a href="https://www.stackbit.com/blog/jamstack-search/">Searching the JAMStack</a> for Stackbit</li>
 <li><a href="https://www.stackbit.com/blog/content-stats-eleventy/">Compiling Content Stats for a JAMstack Site Using Eleventy</a> for Stackbit</li>
 <li><a href="https://developer.here.com/blog/integrating-geojson-in-your-static-sites">Integrating GeoJSON in Your Static Sites</a> for HERE</li>
