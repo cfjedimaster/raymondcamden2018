@@ -13,4 +13,4 @@ So I recently got a new MacbookPro (more on that later), and during the setup pr
 
 If someone finds an answer with the next few hours, I'll promise to recreate the following video with my Flip camera:
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Dh7I1BcXlqM&hl=en&fs=1&rel=0&color1=0x234900&color2=0x4e9e00"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Dh7I1BcXlqM&hl=en&fs=1&rel=0&color1=0x234900&color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<i>Sorry this video was removed...</i>

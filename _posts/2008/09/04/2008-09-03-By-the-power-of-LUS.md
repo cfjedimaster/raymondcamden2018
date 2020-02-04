@@ -25,7 +25,7 @@ We cleaned it out a bit but it will take more work before we can actually swim i
 
 So I took some videos using the Flip recorder. Let me save you some time now and say they aren't too terribly exciting, but you do get to see the wind and rain gradually pick up over time. You also get to see the neighbor's tree split in half and resting on another tree next to it, which is pretty freaky. 
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/p/FD4514E73551E241"></param><embed src="http://www.youtube.com/p/FD4514E73551E241" type="application/x-shockwave-flash" width="480" height="385"></embed></object>
+<i>Sorry this video was removed...</i>
 
 Anyway, I want to thank everyone who sent well wishes/prayers etc. It was appreciated. Me - I want to send a big thank you to <a href="http://en.wikipedia.org/wiki/Willis_Haviland_Carrier">Willis Carrier</a>.
 
