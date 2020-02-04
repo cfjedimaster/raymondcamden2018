@@ -11,4 +11,4 @@ guid: 4942
 
 Probably not terribly useful to my readers as I've blogged this before, but I wanted to create a quick video tutorial on how to install the Ripple Emulator for PhoneGap developers. Feel free to share and give to team members who may be new to PhoneGap Development.
 
-<iframe width="600" height="338" src="http://www.youtube.com/embed/_aA_pBYCijk?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/_aA_pBYCijk?rel=0" frameborder="0" allowfullscreen></iframe>
