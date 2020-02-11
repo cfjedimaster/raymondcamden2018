@@ -2,7 +2,7 @@
     <div class="inner">
         <div class="social-links">
             {% if site.twitter_username %}
-            <a href="https://twitter.com/{{ site.twitter_username }}" class="fa-twitter square fill-horizontal"><span class="screen-reader-text">Twitter</span></a>
+            <a href="https://twitter.com/{{ site.twitter_username }}" class="fa-twitter square fill-horizontal" rel="me"><span class="screen-reader-text">Twitter</span></a>
             {% endif %}
             {% if site.youtube_username %}
             <a href="https://www.youtube.com/user/{{ site.youtube_username }}" class="fa-youtube-play square fill-horizontal"><span class="screen-reader-text">YouTube</span></a>
@@ -14,7 +14,7 @@
             <a href="https://plus.google.com/{{ site.googleplus_username }}" class="fa-google-plus square fill-horizontal"><span class="screen-reader-text">Google+</span></a>
             {% endif %}
             {% if site.github_username %}
-            <a href="https://github.com/{{ site.github_username }}" class="fa-github-alt square fill-horizontal"><span class="screen-reader-text">GitHub</span></a>
+            <a href="https://github.com/{{ site.github_username }}" class="fa-github-alt square fill-horizontal" rel="me"><span class="screen-reader-text">GitHub</span></a>
             {% endif %}
             {% if site.codepen_username %}
             <a href="http://codepen.io/{{ site.codepen_username }}" class="fa-codepen square fill-horizontal"><span class="screen-reader-text">CodePen</span></a>
