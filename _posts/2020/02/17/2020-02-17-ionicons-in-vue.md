@@ -77,7 +77,7 @@ And here's the result:
 
 So yeah, I love it when I decide to test something to see if it works, and it just does, and it doesn't get complex in any way whatsoever. I had not thought of Ionicons at all recently but now I'm absolutely going to use it in my Vue apps where it makes sense. 
 
-### Oops, One More Things
+### Oops, One More Thing
 
 I had my buddy and Ionic devrel [Mike Hartington](https://mhartington.io/) do a quick sanity check on the post. He wondered why I didn't run into the "Unknown custom element" issue. Turns out, I *had* run into it, just hadn't noticed. It's an warning thrown in the console, not an error, and it takes all of two seconds to fix. Basically, you tell Vue to calm down and don't worry about it like so:
 
